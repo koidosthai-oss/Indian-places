@@ -11,6 +11,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -22,7 +25,11 @@
     "coordinates": {
       "lat": 34.07124,
       "lon": 74.81063
-    }
+    },
+    "facts": [
+      "Part of Kashmir conflict.",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "2002-amarnath-pilgrimage-massacre-jammu-and-kashmir",
@@ -37,6 +44,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -47,6 +57,9 @@
     "description": "2002 Raghunath temple attacks is a two bombings on Hindu temples in Jammu.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -54,7 +67,10 @@
     "name": "2010 Kashmir unrest",
     "state": "Jammu and Kashmir",
     "category": "nature",
-    "description": "2010 Kashmir unrest is a series of violent protests and riots in the Kashmir Valley which started in June 2010 after an Indian Army announcement."
+    "description": "2010 Kashmir unrest is a series of violent protests and riots in the Kashmir Valley which started in June 2010 after an Indian Army announcement.",
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "aali-mosque-jammu-and-kashmir",
@@ -68,6 +84,10 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1471.",
+      "Associated with Islam."
     ]
   },
   {
@@ -82,20 +102,29 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Pethmakhama, Budgam, Jammu and Kashmir."
     ]
   },
   {
     "id": "achabal-gardens-jammu-and-kashmir",
     "name": "Achabal Gardens",
     "state": "Jammu and Kashmir",
-    "category": "nature",
+    "category": "heritage",
     "description": "Achabal Gardens is a mughal garden in Anantnag, India.",
     "coordinates": {
       "lat": 33.6831,
       "lon": 75.2222
     },
     "tags": [
+      "world-heritage",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1620.",
+      "Built in the Mughal architecture style.",
+      "Lies in Achabal, Jammu and Kashmir."
     ]
   },
   {
@@ -107,7 +136,10 @@
     "coordinates": {
       "lat": 34.015,
       "lon": 74.722
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "akhnoor-fort-jammu-and-kashmir",
@@ -121,6 +153,26 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Set beside Chenab River.",
+      "Lies in Akhnoor, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "akhund-mulla-shah-s-mosque-jammu-and-kashmir",
+    "name": "Akhund Mulla Shah's Mosque",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Akhund Mulla Shah's Mosque is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kathi Darwaza, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -136,6 +188,25 @@
     "tags": [
       "mosque",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "aliabad-sarai-jammu-and-kashmir",
+    "name": "Aliabad Sarai",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Aliabad Sarai is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Aliabad, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -150,6 +221,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to All Saints' Day.",
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -165,6 +240,9 @@
     "tags": [
       "palace",
       "museum"
+    ],
+    "facts": [
+      "Lies in Jammu, Jammu and Kashmir."
     ]
   },
   {
@@ -181,6 +259,30 @@
       "temple",
       "cave",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 3,888 m elevation.",
+      "Lies in Anantnag district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "anantnag-jammu-and-kashmir",
+    "name": "Anantnag",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Anantnag is a city in India.",
+    "coordinates": {
+      "lat": 33.73,
+      "lon": 75.15
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Set beside Jhelum River.",
+      "Stands at about 1,601 m elevation.",
+      "Covers about 2,917 km².",
+      "Lies in Anantnag tehsil, Jammu and Kashmir."
     ]
   },
   {
@@ -195,10 +297,288 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
-    "id": "ancient-temple-ladhoo-jammu-and-kashmir",
+    "id": "ancient-buddhist-site-situated-in-compartment-no-30-at-hionar-lidroo-pahalgam-jammu-and-kashmir",
+    "name": "Ancient Buddhist site, situated in compartment No.30 at Hionar (Lidroo) Pahalgam",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Ancient Buddhist site, situated in compartment No.30 at Hionar (Lidroo) Pahalgam is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-fort-attributed-to-raja-suchet-singh-and-samadhi-of-queen-of-raja-suchet-singh-jammu-and-kashmir",
+    "name": "Ancient Fort attributed to Raja Suchet Singh and Samadhi of Queen of Raja Suchet Singh",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Ancient Fort attributed to Raja Suchet Singh and Samadhi of Queen of Raja Suchet Singh is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ramnagar, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-monastery-stupa-jammu-and-kashmir",
+    "name": "Ancient Monastery & Stupa",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Monastery & Stupa is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Harwan, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-palaces-attributed-to-raja-suchet-singh-jammu-and-kashmir",
+    "name": "Ancient Palaces attributed to Raja Suchet Singh",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Ancient Palaces attributed to Raja Suchet Singh is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ramnagar, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-site-babour-jammu-and-kashmir",
+    "name": "Ancient Site, Babour",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Ancient Site, Babour is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thalora, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-site-jammu-and-kashmir",
+    "name": "Ancient Site",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Ancient Site is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sumbal, Jammu and Kashmir.",
+      "Lies in Pandrethan, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-site-of-chakradhar-semthan-jammu-and-kashmir",
+    "name": "Ancient site of Chakradhar / Semthan",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Ancient site of Chakradhar / Semthan is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Semthan, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-sites-remains-jammu-and-kashmir",
+    "name": "Ancient sites & Remains",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Ancient sites & Remains is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Burzahom, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-siva-temple-jammu-and-kashmir",
+    "name": "Ancient Siva Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Siva Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Payar, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-stupa-chaitya-monastery-jammu-and-kashmir",
+    "name": "Ancient Stupa, Chaitya & Monastery",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Stupa, Chaitya & Monastery is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dever Yakhamanpjor / Parihaspora, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-stupa-excavated-remains-jammu-and-kashmir",
+    "name": "Ancient Stupa (Excavated Remains)",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Stupa (Excavated Remains) is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ushkur, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-at-narastha-tral-jammu-and-kashmir",
+    "name": "Ancient Temple at Narastha Tral",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Temple at Narastha Tral is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-at-village-batermulla-mansbal-sonawari-jammu-and-kashmir",
+    "name": "Ancient Temple at Village Batermulla, Mansbal Sonawari",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Temple at Village Batermulla, Mansbal Sonawari is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-babour-jammu-and-kashmir",
+    "name": "Ancient Temple, Babour",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Temple, Babour is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Manwal, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-complex-at-saki-maidan-poonch-jammu-and-kashmir",
+    "name": "Ancient Temple complex at Saki-Maidan, Poonch",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Temple complex at Saki-Maidan, Poonch is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-dera-babour-jammu-and-kashmir",
+    "name": "Ancient Temple Dera, Babour",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Temple Dera, Babour is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thalora, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-harihara-jammu-and-kashmir",
+    "name": "Ancient Temple Harihara",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Temple Harihara is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Billawar, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-jammu-and-kashmir",
+    "name": "Ancient Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Buniyar, Jammu and Kashmir.",
+      "Lies in Fatehgarh, Jammu and Kashmir.",
+      "Lies in Kakapora, Jammu and Kashmir.",
+      "Lies in Bohri Kadal, Jammu and Kashmir.",
+      "Lies in Hari Parbat, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-ladhoo-jammu-and-kashmir-q59657898",
     "name": "Ancient Temple, Ladhoo",
     "state": "Jammu and Kashmir",
     "category": "spiritual",
@@ -210,6 +590,28 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as Water Heritage Site.",
+      "Lies in Pulwama district, Jammu and Kashmir.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Nagbal, Ladhoo, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "ancient-temples-kala-dera-i-ii-jammu-and-kashmir",
+    "name": "Ancient Temples Kala Dera I & II",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ancient Temples Kala Dera I & II is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Manwal, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -221,7 +623,24 @@
     "coordinates": {
       "lat": 33.9995,
       "lon": 74.3255
-    }
+    },
+    "facts": [
+      "Stands at about 4,390 m elevation."
+    ]
+  },
+  {
+    "id": "aq-tash-jammu-and-kashmir",
+    "name": "Aq Tash",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Aq Tash is a mountain in India.",
+    "coordinates": {
+      "lat": 35.07742,
+      "lon": 77.6371
+    },
+    "facts": [
+      "Stands at about 7,016 m elevation."
+    ]
   },
   {
     "id": "ardhkuwari-jammu-and-kashmir",
@@ -233,6 +652,9 @@
       "temple",
       "cave",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -247,10 +669,46 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Set beside West Lidder River.",
+      "Set on Aru Valley.",
+      "Stands at about 2,414 m elevation.",
+      "Lies in Pahalgam tehsil, Jammu and Kashmir."
     ]
   },
   {
-    "id": "avantiswami-temple-jammu-and-kashmir",
+    "id": "assar-temple-at-assar-doda-jammu-and-kashmir",
+    "name": "Assar Temple at Assar Doda",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Assar Temple at Assar Doda is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "avantisvara-temple-jammu-and-kashmir",
+    "name": "Avantisvara Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Avantisvara Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Avantipura, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "avantiswami-temple-jammu-and-kashmir-q24950973",
     "name": "Avantiswami Temple",
     "state": "Jammu and Kashmir",
     "category": "spiritual",
@@ -261,6 +719,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Set beside Jhelum River.",
+      "Lies in Awantipora tehsil, Jammu and Kashmir.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Avantipura, Jammu and Kashmir."
     ]
   },
   {
@@ -276,6 +741,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -287,7 +755,10 @@
     "coordinates": {
       "lat": 34.11139,
       "lon": 74.82167
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "baglihar-dam-jammu-and-kashmir",
@@ -298,7 +769,13 @@
     "coordinates": {
       "lat": 33.16194,
       "lon": 75.32778
-    }
+    },
+    "facts": [
+      "Dates from 1999.",
+      "Set on Chenab River.",
+      "Rises about 143 m.",
+      "Lies in Ramban district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "bahu-fort-jammu-and-kashmir",
@@ -312,6 +789,26 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Set beside Tawi River.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "bahu-fort-jammu-jammu-and-kashmir",
+    "name": "Bahu Fort, Jammu",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Bahu Fort, Jammu is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -323,7 +820,29 @@
     "coordinates": {
       "lat": 34.00306,
       "lon": 75.33389
-    }
+    },
+    "facts": [
+      "Lies in Pahalgam tehsil, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "baramulla-jammu-and-kashmir",
+    "name": "Baramulla",
+    "state": "Jammu and Kashmir",
+    "category": "wildlife",
+    "description": "Baramulla is a city in Kashmir, India.",
+    "coordinates": {
+      "lat": 34.20889,
+      "lon": 74.34278
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Set beside Jhelum River.",
+      "Stands at about 1,592 m elevation.",
+      "Lies in Baramulla district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "betaab-valley-jammu-and-kashmir",
@@ -334,7 +853,30 @@
     "coordinates": {
       "lat": 34.05041,
       "lon": 75.36381
-    }
+    },
+    "facts": [
+      "Named after Betaab.",
+      "Set beside Lidder River.",
+      "Lies in Anantnag district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "bhaderwah-jammu-and-kashmir",
+    "name": "Bhaderwah",
+    "state": "Jammu and Kashmir",
+    "category": "hill-station",
+    "description": "Bhaderwah is a town in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 32.98,
+      "lon": 75.72
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,613 m elevation.",
+      "Lies in Doda district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "bhairav-tantrik-jammu-and-kashmir",
@@ -345,6 +887,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -359,6 +904,9 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Known as a hill-station destination in Jammu and Kashmir."
     ]
   },
   {
@@ -373,6 +921,56 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "bhimgarh-fort-reasi-udhampur-jammu-and-kashmir",
+    "name": "BhimGarh Fort Reasi, Udhampur",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "BhimGarh Fort Reasi, Udhampur is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bimal-nag-jammu-and-kashmir",
+    "name": "Bimal Nag",
+    "state": "Jammu and Kashmir",
+    "category": "hill-station",
+    "description": "Bimal Nag is a hill station in Jammu and Kashmir.",
+    "coordinates": {
+      "lat": 33.18861,
+      "lon": 75.88968
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Kishtwar district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "brammah-jammu-and-kashmir",
+    "name": "Brammah",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Brammah is a mountain in India.",
+    "coordinates": {
+      "lat": 33.5063,
+      "lon": 76.0512
+    },
+    "facts": [
+      "Part of Kishtwar.",
+      "Stands at about 6,410 m elevation."
     ]
   },
   {
@@ -387,10 +985,13 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
-    "id": "bumzuva-cave-and-temple-jammu-and-kashmir",
+    "id": "bumzuva-cave-and-temple-jammu-and-kashmir-q59657845",
     "name": "Bumzuva Cave and Temple",
     "state": "Jammu and Kashmir",
     "category": "spiritual",
@@ -403,6 +1004,12 @@
       "temple",
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Anantnag district, Jammu and Kashmir.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Bumzuva, Jammu and Kashmir."
     ]
   },
   {
@@ -410,7 +1017,7 @@
     "name": "Burzahom archaeological site",
     "state": "Jammu and Kashmir",
     "category": "heritage",
-    "description": "Burzahom archaeological site is an archaeological site located in the Kashmir Valley of the Indian union territory of Jammu and Kashmir.",
+    "description": "Archaeological site located in the Kashmir Valley of the Indian union territory of Jammu and Kashmir.",
     "coordinates": {
       "lat": 34.16915,
       "lon": 74.86698
@@ -418,6 +1025,24 @@
     "tags": [
       "world-heritage",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Tentative World Heritage Site."
+    ]
+  },
+  {
+    "id": "chairans-devta-salal-udhampur-jammu-and-kashmir",
+    "name": "Chairans Devta Salal, Udhampur",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Chairans Devta Salal, Udhampur is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -433,6 +1058,9 @@
     "tags": [
       "mosque",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -444,7 +1072,43 @@
     "coordinates": {
       "lat": 34.08615,
       "lon": 74.88716
-    }
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Lies in Srinagar, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "chatur-mukha-linga-at-achabal-anantnag-jammu-and-kashmir",
+    "name": "Chatur - Mukha Linga at Achabal, Anantnag",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Chatur - Mukha Linga at Achabal, Anantnag is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chingus-sari-rajouri-jammu-and-kashmir",
+    "name": "Chingus Sari, Rajouri",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Chingus Sari, Rajouri is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "chinta-valley-jammu-and-kashmir",
@@ -455,7 +1119,10 @@
     "coordinates": {
       "lat": 33.01736,
       "lon": 75.72716
-    }
+    },
+    "facts": [
+      "Lies in Doda district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "chiranbal-jammu-and-kashmir",
@@ -466,7 +1133,10 @@
     "coordinates": {
       "lat": 33.5944,
       "lon": 74.819
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "dachigam-national-park-jammu-and-kashmir",
@@ -480,6 +1150,11 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1910.",
+      "Covers about 147 km².",
+      "Lies in Srinagar district, Jammu and Kashmir."
     ]
   },
   {
@@ -493,7 +1168,14 @@
       "lon": 74.87
     },
     "tags": [
+      "national-park",
+      "mosque",
       "lake"
+    ],
+    "facts": [
+      "Stands at about 1,583 m elevation.",
+      "Covers about 20 km².",
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -501,7 +1183,13 @@
     "name": "Dara Shikoh Garden",
     "state": "Jammu and Kashmir",
     "category": "nature",
-    "description": "Dara Shikoh Garden is a garden in Bijbehara, India."
+    "description": "Dara Shikoh Garden is a garden in Bijbehara, India.",
+    "facts": [
+      "Dates from 1640.",
+      "Founded by Dara Shikoh.",
+      "Part of Mughal gardens.",
+      "Lies in Bijbehara, Jammu and Kashmir."
+    ]
   },
   {
     "id": "dastgeer-sahib-jammu-and-kashmir",
@@ -515,6 +1203,25 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Associated with Islam.",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "dattah-mandir-jammu-and-kashmir",
+    "name": "Dattah Mandir",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Dattah Mandir is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bandi, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -529,6 +1236,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "devi-bhagwati-temple-babour-jammu-and-kashmir",
+    "name": "Devi Bhagwati Temple, Babour",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Devi Bhagwati Temple, Babour is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thalora, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -543,6 +1268,9 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Lies in Kishtwar district, Jammu and Kashmir."
     ]
   },
   {
@@ -557,6 +1285,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 18 April 1954.",
+      "Lies in Jammu, Jammu and Kashmir."
     ]
   },
   {
@@ -571,6 +1303,20 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,730 m elevation.",
+      "Lies in Budgam district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "eastern-pinnacle-thajwas-jammu-and-kashmir",
+    "name": "Eastern Pinnacle Thajwas",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Eastern Pinnacle Thajwas is a mountain in India.",
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -585,6 +1331,55 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Associated with Islam.",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "excavated-remains-jammu-and-kashmir",
+    "name": "Excavated Remains",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Excavated Remains is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Badami Bagh, Pandrethan, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-at-akhnoor-jammu-and-kashmir",
+    "name": "Fort at Akhnoor",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Fort at Akhnoor is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Akhnoor, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-complex-at-jasrota-jammu-and-kashmir",
+    "name": "Fort complex at Jasrota",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Fort complex at Jasrota is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -599,6 +1394,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 3,600 m elevation.",
+      "Covers about 0.4 km².",
+      "Lies in Gurez Tehsil, Jammu and Kashmir."
     ]
   },
   {
@@ -613,6 +1413,40 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 3,566 m elevation.",
+      "Covers about 1.67 km².",
+      "Lies in Ganderbal district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "gates-in-the-rampart-of-the-fort-br-a-kathi-darwaza-br-b-sangeen-darwaza-jammu-and-kashmir",
+    "name": "Gates in the Rampart of the fort<br>a) Kathi Darwaza<br>b) Sangeen Darwaza",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Gates in the Rampart of the fort<br>a) Kathi Darwaza<br>b) Sangeen Darwaza is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kathi Darwaza<br>Sangen Darwaza, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gatha-bhaderwah-jammu-and-kashmir",
+    "name": "Gatha, Bhaderwah",
+    "state": "Jammu and Kashmir",
+    "category": "offbeat",
+    "description": "Gatha, Bhaderwah is a village in Jammu and Kashmir.",
+    "coordinates": {
+      "lat": 33.00084,
+      "lon": 75.70282
+    },
+    "facts": [
+      "Lies in Doda district, Jammu and Kashmir."
     ]
   },
   {
@@ -627,6 +1461,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "goda-gali-gool-udhampur-jammu-and-kashmir",
+    "name": "Goda Gali Gool, Udhampur",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Goda Gali Gool, Udhampur is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -638,7 +1490,68 @@
     "coordinates": {
       "lat": 32.72514,
       "lon": 74.85207
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "great-lakes-trek-jammu-and-kashmir",
+    "name": "Great Lakes Trek",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Great Lakes Trek is a tourism place in Jammu and Kashmir, India.",
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "group-of-ancient-temples-jammu-and-kashmir",
+    "name": "Group of Ancient Temples",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Group of Ancient Temples is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Naranag, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "group-of-arched-terraces-structural-complex-jammu-and-kashmir",
+    "name": "Group of arched terraces / structural complex",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Group of arched terraces / structural complex is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pari Mahal, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "group-of-temples-jammu-and-kashmir",
+    "name": "Group of Temples",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Group of Temples is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kiramchi, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "gufkral-jammu-and-kashmir",
@@ -653,6 +1566,9 @@
     "tags": [
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -664,7 +1580,10 @@
     "coordinates": {
       "lat": 34.055,
       "lon": 74.39167
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "gulmarg-gondola-jammu-and-kashmir",
@@ -675,7 +1594,12 @@
     "coordinates": {
       "lat": 34.04527,
       "lon": 74.38435
-    }
+    },
+    "facts": [
+      "Dates from the 1990s.",
+      "Named after Gulmarg.",
+      "Lies in Baramulla district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "gulmarg-wildlife-sanctuary-jammu-and-kashmir",
@@ -690,6 +1614,24 @@
     "tags": [
       "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Named after Gulmarg.",
+      "Lies in Baramulla district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "gurung-hill-jammu-and-kashmir",
+    "name": "Gurung Hill",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Gurung Hill is a hill on the border between India and China in Ladakh.",
+    "coordinates": {
+      "lat": 33.6116,
+      "lon": 78.7531
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -704,10 +1646,13 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Jammu, Jammu and Kashmir."
     ]
   },
   {
-    "id": "hari-parbat-fort-jammu-and-kashmir",
+    "id": "hari-parbat-fort-jammu-and-kashmir-q104643303",
     "name": "Hari Parbat Fort",
     "state": "Jammu and Kashmir",
     "category": "heritage",
@@ -718,6 +1663,12 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Srinagar district, Jammu and Kashmir.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
     ]
   },
   {
@@ -731,7 +1682,11 @@
       "lon": 74.81628
     },
     "tags": [
-      "temple"
+      "temple",
+      "mosque"
+    ],
+    "facts": [
+      "Lies in Srinagar district, Jammu and Kashmir."
     ]
   },
   {
@@ -743,7 +1698,11 @@
     "coordinates": {
       "lat": 34.40389,
       "lon": 74.90194
-    }
+    },
+    "facts": [
+      "Stands at about 5,142 m elevation.",
+      "Lies in Ganderbal district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "hazratbal-shrine-jammu-and-kashmir",
@@ -758,6 +1717,25 @@
     "tags": [
       "mosque",
       "pilgrimage"
+    ],
+    "facts": [
+      "Associated with Islam.",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "hindu-temple-jammu-and-kashmir",
+    "name": "Hindu temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Hindu temple is a house of worship in Hinduism.",
+    "tags": [
+      "world-heritage",
+      "temple",
+      "mosque"
+    ],
+    "facts": [
+      "Part of Hinduism."
     ]
   },
   {
@@ -772,6 +1750,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Kathua district, Jammu and Kashmir."
     ]
   },
   {
@@ -786,6 +1767,26 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1987.",
+      "Named after Hirpora.",
+      "Lies in Kulgam district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "hirpur-sarai-jammu-and-kashmir",
+    "name": "Hirpur Sarai",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Hirpur Sarai is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hirpur, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -800,6 +1801,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Covers about 1,375 ha."
     ]
   },
   {
@@ -814,6 +1818,45 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1896.",
+      "Associated with Catholicism.",
+      "Lies in Srinagar, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "hutmura-pahalgam-jammu-and-kashmir",
+    "name": "Hutmura Pahalgam",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Hutmura Pahalgam is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "imambara-zadibal-jammu-and-kashmir",
+    "name": "Imambara Zadibal",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Imambara Zadibal is a historic Imambara(Husayniyya) in Kashmir.",
+    "coordinates": {
+      "lat": 34.11078,
+      "lon": 74.80287
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Dates from 1518.",
+      "Built in the architecture of Iran style.",
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -825,7 +1868,12 @@
     "coordinates": {
       "lat": 34.09606,
       "lon": 74.88003
-    }
+    },
+    "facts": [
+      "Set beside Dal Lake.",
+      "Covers about 30 ha.",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "jai-valley-jammu-and-kashmir",
@@ -836,7 +1884,25 @@
     "coordinates": {
       "lat": 33.02798,
       "lon": 75.77283
-    }
+    },
+    "facts": [
+      "Lies in Doda district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "jalandra-devi-temple-ladden-kotli-udhampur-jammu-and-kashmir",
+    "name": "Jalandra Devi Temple Ladden kotli, Udhampur",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Jalandra Devi Temple Ladden kotli, Udhampur is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "jamia-masjid-bhaderwah-jammu-and-kashmir",
@@ -850,6 +1916,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -864,6 +1933,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -878,6 +1950,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -892,6 +1967,13 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1402.",
+      "Built in the Indo-Saracenic architecture style.",
+      "Founded by Sikandar Shah Miri.",
+      "Associated with Islam.",
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -906,6 +1988,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -920,6 +2005,72 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from the 14th century.",
+      "Associated with Islam.",
+      "Lies in Kupwara district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "jammu-and-kashmir-state-jammu-and-kashmir",
+    "name": "Jammu and Kashmir (state)",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Jammu and Kashmir (state) is a former state administered by India.",
+    "coordinates": {
+      "lat": 34.0,
+      "lon": 76.5
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Dates from 26 October 1947.",
+      "Stands at about 327 m elevation.",
+      "Covers about 222,236 km²."
+    ]
+  },
+  {
+    "id": "jammu-and-kashmir-union-territory-jammu-and-kashmir",
+    "name": "Jammu and Kashmir (union territory)",
+    "state": "Jammu and Kashmir",
+    "category": "wildlife",
+    "description": "Jammu and Kashmir (union territory) is a region administered by India as a union territory.",
+    "coordinates": {
+      "lat": 34.09111,
+      "lon": 74.80611
+    },
+    "tags": [
+      "world-heritage",
+      "lesser-known"
+    ],
+    "facts": [
+      "Dates from 31 October 2019.",
+      "Part of Indian-administered Kashmir.",
+      "Covers about 42,241 km²."
+    ]
+  },
+  {
+    "id": "jammu-jammu-and-kashmir",
+    "name": "Jammu",
+    "state": "Jammu and Kashmir",
+    "category": "wildlife",
+    "description": "Jammu is a city in Jammu Division, India.",
+    "coordinates": {
+      "lat": 32.73333,
+      "lon": 74.85
+    },
+    "tags": [
+      "temple",
+      "museum"
+    ],
+    "facts": [
+      "Founded by Jambu Lochan.",
+      "Set beside Tawi River.",
+      "Stands at about 327 m elevation.",
+      "Covers about 112 km².",
+      "Lies in Jammu district, Jammu and Kashmir."
     ]
   },
   {
@@ -934,6 +2085,9 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Known as a hill-station destination in Jammu and Kashmir."
     ]
   },
   {
@@ -945,7 +2099,49 @@
     "coordinates": {
       "lat": 34.093,
       "lon": 74.882
-    }
+    },
+    "facts": [
+      "Dates from 1969.",
+      "Named after Jawaharlal Nehru.",
+      "Lies in Srinagar, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "jhelum-jammu-and-kashmir",
+    "name": "Jhelum",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Jhelum is a city in Punjab, Pakistan.",
+    "coordinates": {
+      "lat": 32.93333,
+      "lon": 73.73333
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Set beside Jhelum River.",
+      "Stands at about 233 m elevation.",
+      "Covers about 22.5 km².",
+      "Lies in Jhelum Tehsil, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "jhelum-river-jammu-and-kashmir",
+    "name": "Jhelum River",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Jhelum River is a river in India and Pakistan.",
+    "coordinates": {
+      "lat": 33.53472,
+      "lon": 75.24972
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Azad Kashmir, Jammu and Kashmir."
+    ]
   },
   {
     "id": "jwala-ji-temple-kashmir-jammu-and-kashmir",
@@ -959,6 +2155,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -970,13 +2169,17 @@
     "coordinates": {
       "lat": 32.39472,
       "lon": 75.51528
-    }
+    },
+    "facts": [
+      "Named after Krishna Kumar Birla.",
+      "Lies in Kathua, Jammu and Kashmir."
+    ]
   },
   {
     "id": "kalaroos-caves-jammu-and-kashmir",
     "name": "Kalaroos Caves",
     "state": "Jammu and Kashmir",
-    "category": "nature",
+    "category": "heritage",
     "description": "Kalaroos Caves is an ancient network of caves in Jammu and Kashmir, India.",
     "coordinates": {
       "lat": 34.57473,
@@ -985,18 +2188,108 @@
     "tags": [
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Kupwara district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "kaplas-peak-jammu-and-kashmir",
+    "name": "Kaplas Peak",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Kaplas Peak is a mountain in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 32.86417,
+      "lon": 75.68222
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "karakoram-jammu-and-kashmir",
+    "name": "Karakoram",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Karakoram is a major mountain range spanning the borders between India, Pakistan, and China.",
+    "coordinates": {
+      "lat": 35.88306,
+      "lon": 76.50889
+    },
+    "facts": [
+      "Part of Alpide belt.",
+      "Stands at about 8,611 m elevation."
+    ]
+  },
+  {
+    "id": "karakoram-wildlife-sanctuary-jammu-and-kashmir",
+    "name": "Karakoram Wildlife Sanctuary",
+    "state": "Jammu and Kashmir",
+    "category": "wildlife",
+    "description": "Karakoram Wildlife Sanctuary is a wildlife sanctuary.",
+    "coordinates": {
+      "lat": 34.71667,
+      "lon": 77.43333
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "kashmir-jammu-and-kashmir",
+    "name": "Kashmir",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Kashmir is a disputed territory between China, India and Pakistan.",
+    "coordinates": {
+      "lat": 34.5,
+      "lon": 76.0
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Set on Indian subcontinent.",
+      "Covers about 222,236 km².",
+      "Lies in People's Republic of China, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "kashmir-valley-jammu-and-kashmir",
+    "name": "Kashmir Valley",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Kashmir Valley is an intermontane valley in Jammu and Kashmir, bounded on the southwest by the Pir Panjal Range and on the northeast by the main Himalayas.",
+    "coordinates": {
+      "lat": 34.05,
+      "lon": 74.8
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Set beside Jhelum River.",
+      "Stands at about 1,850 m elevation.",
+      "Covers about 15,948 km²."
     ]
   },
   {
     "id": "kathua-waterfront-jammu-and-kashmir",
     "name": "Kathua Waterfront",
     "state": "Jammu and Kashmir",
-    "category": "other",
+    "category": "nature",
     "description": "Kathua Waterfront is a development at Kathua, India.",
     "coordinates": {
       "lat": 32.3891,
       "lon": 75.5261
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "kausar-nag-jammu-and-kashmir",
@@ -1010,6 +2303,10 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 3,489 m elevation.",
+      "Covers about 1.1 km²."
     ]
   },
   {
@@ -1024,6 +2321,38 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "kazinag-peak-jammu-and-kashmir",
+    "name": "Kazinag Peak",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Kazinag Peak is a mountain in India.",
+    "coordinates": {
+      "lat": 34.5,
+      "lon": 74.0
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "khanpur-sarai-jammu-and-kashmir",
+    "name": "Khanpur Sarai",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Khanpur Sarai is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khanpur, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1038,6 +2367,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Ganderbal district, Jammu and Kashmir."
     ]
   },
   {
@@ -1052,6 +2384,26 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1395.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "khanqah-of-shah-hamadan-jammu-and-kashmir",
+    "name": "Khanqah of Shah Hamadan",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Khanqah of Shah Hamadan is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shah Hamdan, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1066,6 +2418,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dedicated to Bhavānī.",
+      "Lies in Ganderbal district, Jammu and Kashmir."
     ]
   },
   {
@@ -1080,29 +2436,55 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
     "id": "kiru-hydroelectric-project-jammu-and-kashmir",
     "name": "Kiru Hydroelectric Project",
     "state": "Jammu and Kashmir",
-    "category": "other",
+    "category": "nature",
     "description": "Kiru Hydroelectric Project is a hydroelectric plant in Kishtwar District of Jammu and Kashmir, India.",
     "coordinates": {
       "lat": 33.34531,
       "lon": 75.95572
-    }
+    },
+    "facts": [
+      "Set on Chenab River.",
+      "Lies in Kishtwar district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "kishanganga-hydroelectric-project-jammu-and-kashmir",
     "name": "Kishanganga Hydroelectric Project",
     "state": "Jammu and Kashmir",
-    "category": "other",
+    "category": "nature",
     "description": "Kishanganga Hydroelectric Project is a hydro-electric power station in Jammu and Kashmir, India.",
     "coordinates": {
       "lat": 34.46672,
       "lon": 74.64664
-    }
+    },
+    "facts": [
+      "Set on Neelum River.",
+      "Rises about 37 m.",
+      "Lies in Bandipore district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "kishtwar-himalaya-jammu-and-kashmir",
+    "name": "Kishtwar Himalaya",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Kishtwar Himalaya is a mountain range in India.",
+    "coordinates": {
+      "lat": 33.56698,
+      "lon": 76.15989
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "kishtwar-national-park-jammu-and-kashmir",
@@ -1116,6 +2498,9 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 4 February 1981."
     ]
   },
   {
@@ -1130,6 +2515,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1145,6 +2533,10 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Udhampur district, Jammu and Kashmir."
     ]
   },
   {
@@ -1159,6 +2551,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 3,801 m elevation.",
+      "Covers about 0.3 km².",
+      "Lies in Gurez Tehsil, Jammu and Kashmir."
     ]
   },
   {
@@ -1170,7 +2567,10 @@
     "coordinates": {
       "lat": 33.35461,
       "lon": 75.88401
-    }
+    },
+    "facts": [
+      "Lies in Kishtwar district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "lal-chowk-jammu-and-kashmir",
@@ -1181,7 +2581,10 @@
     "coordinates": {
       "lat": 34.07124,
       "lon": 74.81063
-    }
+    },
+    "facts": [
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "lal-draman-jammu-and-kashmir",
@@ -1195,6 +2598,9 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Lies in Doda district, Jammu and Kashmir."
     ]
   },
   {
@@ -1209,6 +2615,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Baramulla district, Jammu and Kashmir."
     ]
   },
   {
@@ -1225,6 +2634,24 @@
       "hill-station",
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 2,760 m elevation.",
+      "Lies in Kishtwar district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "machoi-peak-jammu-and-kashmir",
+    "name": "Machoi Peak",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Machoi Peak is a mountain in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.22833,
+      "lon": 75.58611
+    },
+    "facts": [
+      "Stands at about 5,458 m elevation."
     ]
   },
   {
@@ -1239,6 +2666,11 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1444.",
+      "Recognised as State Protected Monument.",
+      "Associated with Islam."
     ]
   },
   {
@@ -1253,6 +2685,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "mamleshwar-temple-at-mamal-phalgam-jammu-and-kashmir",
+    "name": "'Mamleshwar Temple' at Mamal, Phalgam",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "'Mamleshwar Temple' at Mamal, Phalgam is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1267,20 +2717,9 @@
     },
     "tags": [
       "lake"
-    ]
-  },
-  {
-    "id": "manda-jammu-jammu-and-kashmir",
-    "name": "Manda, Jammu",
-    "state": "Jammu and Kashmir",
-    "category": "offbeat",
-    "description": "Manda, Jammu is a village near Jammu in India.",
-    "coordinates": {
-      "lat": 32.93333,
-      "lon": 74.8
-    },
-    "tags": [
-      "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Ganderbal district, Jammu and Kashmir."
     ]
   },
   {
@@ -1295,6 +2734,10 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Covers about 61 ha.",
+      "Lies in Samba district, Jammu and Kashmir."
     ]
   },
   {
@@ -1310,6 +2753,9 @@
     "tags": [
       "wildlife-sanctuary",
       "lake"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1325,6 +2771,9 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1339,10 +2788,13 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Srinagar district, Jammu and Kashmir."
     ]
   },
   {
-    "id": "martand-sun-temple-jammu-and-kashmir",
+    "id": "martand-sun-temple-jammu-and-kashmir-q6774201",
     "name": "Martand Sun Temple",
     "state": "Jammu and Kashmir",
     "category": "spiritual",
@@ -1354,6 +2806,46 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Greco-Buddhist art style.",
+      "Dedicated to Mārtanda.",
+      "Associated with Hinduism.",
+      "Named after Mārtanda.",
+      "Lies in Anantnag district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "marusudar-river-jammu-and-kashmir",
+    "name": "Marusudar River",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Marusudar River is a river in India.",
+    "coordinates": {
+      "lat": 33.35802,
+      "lon": 75.73157
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 1,123 m elevation."
+    ]
+  },
+  {
+    "id": "mast-garh-shahi-masjid-at-jammu-jammu-and-kashmir",
+    "name": "Mast Garh Shahi Masjid at Jammu",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Mast Garh Shahi Masjid at Jammu is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1365,6 +2857,115 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "monolithic-shrine-jammu-and-kashmir",
+    "name": "Monolithic Shrine",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Monolithic Shrine is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khrew, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mosque-and-other-ancient-remains-on-the-island-jammu-and-kashmir",
+    "name": "Mosque and other ancient remains on the island",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Mosque and other ancient remains on the island is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Wular Lake, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mosque-and-tomb-of-madin-sahib-jammu-and-kashmir",
+    "name": "Mosque and Tomb of Madin Sahib",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Mosque and Tomb of Madin Sahib is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mount-amarnath-jammu-and-kashmir",
+    "name": "Mount Amarnath",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Mount Amarnath is a ROUTE OF HOLY CAVE.",
+    "coordinates": {
+      "lat": 34.225,
+      "lon": 75.49167
+    },
+    "tags": [
+      "cave"
+    ],
+    "facts": [
+      "Stands at about 5,186 m elevation."
+    ]
+  },
+  {
+    "id": "mount-kolahoi-jammu-and-kashmir",
+    "name": "Mount Kolahoi",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Mount Kolahoi is a mountain in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 34.16389,
+      "lon": 75.33028
+    },
+    "facts": [
+      "Stands at about 5,425 m elevation.",
+      "Lies in Anantnag district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "mount-mahadev-jammu-and-kashmir",
+    "name": "Mount Mahadev",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Mount Mahadev is a mountain peak in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 34.1524,
+      "lon": 74.9873
+    },
+    "facts": [
+      "Stands at about 3,966 m elevation."
+    ]
+  },
+  {
+    "id": "mubarak-mandi-complex-gammes-jammu-and-kashmir",
+    "name": "Mubarak mandi complex gammes",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Mubarak mandi complex gammes is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1379,6 +2980,26 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Set beside Tawi River.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "mughal-arcade-and-spring-at-verinag-jammu-and-kashmir",
+    "name": "Mughal Arcade and Spring at Verinag",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Mughal Arcade and Spring at Verinag is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Verinag, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1393,6 +3014,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1407,6 +3031,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1418,14 +3045,21 @@
     "coordinates": {
       "lat": 34.138,
       "lon": 74.838
-    }
+    },
+    "facts": [
+      "Set beside Dal Lake.",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "nathatop-jammu-and-kashmir",
     "name": "Nathatop",
     "state": "Jammu and Kashmir",
     "category": "other",
-    "description": "Nathatop is a tourist place in Jammu and Kashmir, India."
+    "description": "Nathatop is a tourist place in Jammu and Kashmir, India.",
+    "facts": [
+      "Lies in Udhampur district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "nigeen-lake-jammu-and-kashmir",
@@ -1439,6 +3073,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -1453,6 +3090,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Budgam district, Jammu and Kashmir."
     ]
   },
   {
@@ -1466,7 +3106,13 @@
       "lon": 74.881
     },
     "tags": [
+      "world-heritage",
       "lake"
+    ],
+    "facts": [
+      "Part of Mughal Gardens in Kashmir.",
+      "Covers about 46 ha.",
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -1481,6 +3127,24 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Poonch district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "nun-kun-jammu-and-kashmir",
+    "name": "Nun Kun",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Nun Kun is a mountain massif of the Himalaya.",
+    "coordinates": {
+      "lat": 33.98,
+      "lon": 76.02167
+    },
+    "facts": [
+      "Stands at about 7,135 m elevation.",
+      "Lies in Ladakh, Jammu and Kashmir."
     ]
   },
   {
@@ -1495,6 +3159,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1510,18 +3177,31 @@
     "tags": [
       "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Named after Aru.",
+      "Lies in Anantnag district, Jammu and Kashmir."
     ]
   },
   {
     "id": "pahalgam-jammu-and-kashmir",
     "name": "Pahalgam",
     "state": "Jammu and Kashmir",
-    "category": "other",
+    "category": "hill-station",
     "description": "Pahalgam is a town in Anantnag district, Jammu and Kashmir, India.",
     "coordinates": {
       "lat": 34.03222,
       "lon": 75.32222
-    }
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Set beside East Lidder River.",
+      "Set on Lidder Valley.",
+      "Stands at about 2,740 m elevation.",
+      "Lies in Pahalgam tehsil, Jammu and Kashmir."
+    ]
   },
   {
     "id": "pakal-dul-dam-jammu-and-kashmir",
@@ -1532,7 +3212,11 @@
     "coordinates": {
       "lat": 33.4572,
       "lon": 75.8136
-    }
+    },
+    "facts": [
+      "Dates from 2018.",
+      "Set on Marusudar River."
+    ]
   },
   {
     "id": "pandrethan-shiva-temple-jammu-and-kashmir",
@@ -1547,18 +3231,90 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "pandrethan-temple-jammu-and-kashmir",
+    "name": "Pandrethan Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Pandrethan Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pandrethan, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "parhaspora-pattan-barmulla-jammu-and-kashmir",
+    "name": "Parhaspora, Pattan, Barmulla",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Parhaspora, Pattan, Barmulla is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "pari-mahal-jammu-and-kashmir",
     "name": "Pari Mahal",
     "state": "Jammu and Kashmir",
-    "category": "other",
+    "category": "heritage",
     "description": "Pari Mahal is a building in Srinagar, India.",
     "coordinates": {
       "lat": 34.08333,
       "lon": 74.88333
-    }
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Dates from 1650.",
+      "Recognised as Monument of National Importance.",
+      "Founded by Shah Jahan.",
+      "Lies in Srinagar, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "partapswami-temple-jammu-and-kashmir",
+    "name": "Partapswami Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Partapswami Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tapparwaripor, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "pathar-masjid-jammu-and-kashmir",
+    "name": "Pathar Masjid",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Pathar Masjid is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Zaina Kadal, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "pathar-mosque-jammu-and-kashmir",
@@ -1572,6 +3328,11 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1623.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -1586,6 +3347,10 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,024 m elevation.",
+      "Lies in Udhampur district, Jammu and Kashmir."
     ]
   },
   {
@@ -1600,6 +3365,41 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 3,485 m elevation."
+    ]
+  },
+  {
+    "id": "pirmitha-tomb-at-pirmitha-jammu-jammu-and-kashmir",
+    "name": "Pirmitha Tomb at Pirmitha, Jammu",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Pirmitha Tomb at Pirmitha, Jammu is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "pohru-river-jammu-and-kashmir",
+    "name": "Pohru River",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Pohru River is a river in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 34.2656,
+      "lon": 74.4175
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1614,6 +3414,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jammu district, Jammu and Kashmir."
     ]
   },
   {
@@ -1628,6 +3431,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1643,6 +3449,9 @@
     "tags": [
       "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Anantnag district, Jammu and Kashmir."
     ]
   },
   {
@@ -1657,18 +3466,205 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Udhampur district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "razdan-pass-jammu-and-kashmir",
+    "name": "Razdan Pass",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Razdan Pass is a mountain pass in the Himalayas.",
+    "coordinates": {
+      "lat": 34.54124,
+      "lon": 74.63674
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "remains-of-ancient-sites-pambaran-jammu-and-kashmir",
+    "name": "Remains of Ancient sites (Pambaran)",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Remains of Ancient sites (Pambaran) is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ambaran, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "remains-of-ancient-stupa-jammu-and-kashmir",
+    "name": "Remains of Ancient Stupa",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Remains of Ancient Stupa is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Malangpora, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "remains-of-ancient-temple-jammu-and-kashmir",
+    "name": "Remains of Ancient Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Remains of Ancient Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khrew, Jammu and Kashmir.",
+      "Lies in Pampore, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rock-carving-of-devi-riding-a-lion-jammu-and-kashmir",
+    "name": "Rock carving of Devi riding a lion",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Rock carving of Devi riding a lion is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Basohli, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rock-carving-of-sitala-narada-brahma-radha-krishna-jammu-and-kashmir",
+    "name": "Rock carving of Sitala, Narada, Brahma & Radha Krishna",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Rock carving of Sitala, Narada, Brahma & Radha Krishna is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Basohli, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rock-geology-jammu-and-kashmir",
+    "name": "Rock (geology)",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Rock (geology) is a naturally occurring solid aggregate of one or more minerals or mineraloids.",
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
     "id": "royal-springs-golf-course-jammu-and-kashmir",
     "name": "Royal Springs Golf Course",
     "state": "Jammu and Kashmir",
-    "category": "other",
+    "category": "wildlife",
     "description": "Royal Springs Golf Course is a golf course in Srinagar, Kashmir.",
     "coordinates": {
       "lat": 34.08834,
       "lon": 74.87097
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "ruins-of-ancient-temple-and-spring-of-kothier-nowgam-anantnag-jammu-and-kashmir",
+    "name": "Ruins of Ancient Temple and Spring of Kothier Nowgam. Anantnag",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ruins of Ancient Temple and Spring of Kothier Nowgam. Anantnag is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruins-of-mughal-hamam-at-achabal-anantnag-jammu-and-kashmir",
+    "name": "Ruins of Mughal Hamam at Achabal, Anantnag",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Ruins of Mughal Hamam at Achabal, Anantnag is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruins-of-temple-at-firozpur-drung-jammu-and-kashmir",
+    "name": "Ruins of Temple at Firozpur, Drung",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Ruins of Temple at Firozpur, Drung is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmir, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sadhna-pass-jammu-and-kashmir",
+    "name": "Sadhna Pass",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Sadhna Pass is a mountain pass in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 34.4,
+      "lon": 73.95
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "salal-fort-satal-sale-jammu-and-kashmir",
+    "name": "Salal Fort Satal Sale",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Salal Fort Satal Sale is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "salim-ali-national-park-jammu-and-kashmir",
@@ -1682,6 +3678,38 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Lies in Srinagar, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "sankaragaurisvara-temple-jammu-and-kashmir",
+    "name": "Sankaragaurisvara Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Sankaragaurisvara Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pattan, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sarthal-valley-jammu-and-kashmir",
+    "name": "Sarthal valley",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Sarthal valley is a tourist destination in Jammu and Kashmir.",
+    "coordinates": {
+      "lat": 32.82723,
+      "lon": 75.72632
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1696,6 +3724,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1710,6 +3741,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1721,7 +3755,25 @@
     "coordinates": {
       "lat": 32.624,
       "lon": 75.91583
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "shahi-mughal-mashid-nowshera-rajouri-jammu-and-kashmir",
+    "name": "Shahi Mughal Mashid, Nowshera, Rajouri",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Shahi Mughal Mashid, Nowshera, Rajouri is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "shalimar-bagh-srinagar-jammu-and-kashmir",
@@ -1732,10 +3784,16 @@
     "coordinates": {
       "lat": 34.14972,
       "lon": 74.87306
-    }
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Lies in Srinagar, Jammu and Kashmir."
+    ]
   },
   {
-    "id": "shankaracharya-temple-jammu-and-kashmir",
+    "id": "shankaracharya-temple-jammu-and-kashmir-q7488715",
     "name": "Shankaracharya Temple",
     "state": "Jammu and Kashmir",
     "category": "spiritual",
@@ -1746,6 +3804,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Stands at about 1,852 m elevation.",
+      "Lies in Srinagar district, Jammu and Kashmir.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Kothi Bagh / Durganag, Jammu and Kashmir."
     ]
   },
   {
@@ -1761,6 +3826,10 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Baramulla district, Jammu and Kashmir."
     ]
   },
   {
@@ -1775,6 +3844,9 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -1789,6 +3861,12 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Named after Śeṣa.",
+      "Stands at about 3,575 m elevation.",
+      "Covers about 0.54 km².",
+      "Lies in Pahalgam tehsil, Jammu and Kashmir."
     ]
   },
   {
@@ -1805,6 +3883,9 @@
       "temple",
       "cave",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Reasi district, Jammu and Kashmir."
     ]
   },
   {
@@ -1819,6 +3900,41 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "shopian-jammu-and-kashmir",
+    "name": "Shopian",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Shopian is a town in Jammu and Kasmir, India.",
+    "coordinates": {
+      "lat": 33.72,
+      "lon": 74.83
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Set beside Rambiara River.",
+      "Stands at about 2,057 m elevation.",
+      "Lies in Shopian district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "shrine-jammu-and-kashmir",
+    "name": "Shrine",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Shrine is a holy or sacred place, which is dedicated to a specific deity.",
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1833,6 +3949,24 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Reasi district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "sickle-moon-peak-jammu-and-kashmir",
+    "name": "Sickle Moon Peak",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Sickle Moon Peak is a mountain in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 33.6025,
+      "lon": 76.13167
+    },
+    "facts": [
+      "Part of Kishtwar Himalaya.",
+      "Stands at about 6,574 m elevation."
     ]
   },
   {
@@ -1844,7 +3978,43 @@
     "coordinates": {
       "lat": 33.56667,
       "lon": 75.5
-    }
+    },
+    "facts": [
+      "Lies in Anantnag district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "sirbal-peak-jammu-and-kashmir",
+    "name": "Sirbal Peak",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "SIRBAL PEAK in Himalaya's.",
+    "coordinates": {
+      "lat": 34.31528,
+      "lon": 75.39556
+    },
+    "facts": [
+      "Stands at about 5,236 m elevation."
+    ]
+  },
+  {
+    "id": "sopore-jammu-and-kashmir",
+    "name": "Sopore",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Sopore is a city in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 34.28639,
+      "lon": 74.46278
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Set beside Jhelum River.",
+      "Stands at about 1,555 m elevation.",
+      "Lies in Sopore tehsil, Jammu and Kashmir."
+    ]
   },
   {
     "id": "sps-museum-jammu-and-kashmir",
@@ -1858,6 +4028,43 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1898.",
+      "Lies in Srinagar, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "srinagar-jammu-and-kashmir",
+    "name": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "category": "wildlife",
+    "description": "Srinagar is a city in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 34.09111,
+      "lon": 74.80611
+    },
+    "tags": [
+      "national-park",
+      "temple",
+      "mosque",
+      "museum"
+    ],
+    "facts": [
+      "Set beside Jhelum River.",
+      "Stands at about 1,585 m elevation.",
+      "Covers about 294 km².",
+      "Lies in Srinagar district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "srinagarmuzaffarabad-bus-jammu-and-kashmir",
+    "name": "Srinagar–Muzaffarabad Bus",
+    "state": "Jammu and Kashmir",
+    "category": "other",
+    "description": "Srinagar–Muzaffarabad Bus is a passenger bus service.",
+    "facts": [
+      "Known as a tourism destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1872,6 +4079,12 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Saint Joseph.",
+      "Associated with Catholicism.",
+      "Named after Saint Joseph.",
+      "Lies in Baramulla, Jammu and Kashmir."
     ]
   },
   {
@@ -1886,6 +4099,12 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Built in the Gothic architecture style.",
+      "Founded by Arthur Neve.",
+      "Named after Luke the Evangelist.",
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   },
   {
@@ -1900,6 +4119,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Mary.",
+      "Associated with Catholicism."
     ]
   },
   {
@@ -1914,6 +4137,39 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Gulmarg, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "sufism-jammu-and-kashmir",
+    "name": "Sufism",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Sufism is a body of mystical practice within Islam.",
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Founded by Muhammad.",
+      "Associated with Islam.",
+      "Part of worship in Islam."
+    ]
+  },
+  {
+    "id": "sugandhesa-temple-jammu-and-kashmir",
+    "name": "Sugandhesa Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Sugandhesa Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pattan, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1928,6 +4184,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "sunset-peak-jammu-and-kashmir-jammu-and-kashmir",
+    "name": "Sunset Peak (Jammu and Kashmir)",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Sunset Peak (Jammu and Kashmir) is a mountain in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 33.68,
+      "lon": 74.5408
+    },
+    "facts": [
+      "Stands at about 4,745 m elevation."
     ]
   },
   {
@@ -1939,7 +4212,10 @@
     "coordinates": {
       "lat": 33.04,
       "lon": 74.49
-    }
+    },
+    "facts": [
+      "Lies in Poonch district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "surinsar-lake-jammu-and-kashmir",
@@ -1953,6 +4229,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -1967,6 +4246,70 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Pahalgam tehsil, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "tatakooti-jammu-and-kashmir",
+    "name": "Tatakooti",
+    "state": "Jammu and Kashmir",
+    "category": "nature",
+    "description": "Tatakooti is a mountain in Poonch District of State Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 33.7043,
+      "lon": 74.5167
+    },
+    "facts": [
+      "Stands at about 4,725 m elevation."
+    ]
+  },
+  {
+    "id": "temple-samadhi-charei-udhampur-jammu-and-kashmir",
+    "name": "Temple Samadhi Charei, Udhampur",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Temple Samadhi Charei, Udhampur is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jammu, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-zain-ul-abudin-s-mother-jammu-and-kashmir",
+    "name": "Tomb of Zain-ul-Abudin's mother",
+    "state": "Jammu and Kashmir",
+    "category": "heritage",
+    "description": "Tomb of Zain-ul-Abudin's mother is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Zaina Kadal, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tosa-maidan-jammu-and-kashmir",
+    "name": "Tosa Maidan",
+    "state": "Jammu and Kashmir",
+    "category": "offbeat",
+    "description": "Tosa Maidan is a village in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 33.91778,
+      "lon": 74.49917
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Budgam district, Jammu and Kashmir."
     ]
   },
   {
@@ -1974,7 +4317,10 @@
     "name": "Tourism in Jammu and Kashmir",
     "state": "Jammu and Kashmir",
     "category": "other",
-    "description": "Tourism in Jammu and Kashmir is a tourism in a region in Jammu and Kashmir, India."
+    "description": "Tourism in Jammu and Kashmir is a tourism in a region in Jammu and Kashmir, India.",
+    "facts": [
+      "Known as a tourism destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "tral-wildlife-sanctuary-jammu-and-kashmir",
@@ -1988,6 +4334,41 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "trehgam-jammu-and-kashmir",
+    "name": "Trehgam",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Trehgam is a town in Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 34.62,
+      "lon": 74.03
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Lies in Kupwara district, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "trilochannanath-temple-jammu-and-kashmir",
+    "name": "Trilochannanath Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Trilochannanath Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mahadera Basohli, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2002,6 +4383,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Pahalgam tehsil, Jammu and Kashmir."
     ]
   },
   {
@@ -2013,7 +4397,10 @@
     "coordinates": {
       "lat": 34.1444,
       "lon": 74.1854
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
+    ]
   },
   {
     "id": "vaishno-devi-temple-jammu-and-kashmir",
@@ -2029,18 +4416,31 @@
       "temple",
       "cave",
       "pilgrimage"
+    ],
+    "facts": [
+      "Dedicated to Vaishno Devi.",
+      "Stands at about 1,585 m elevation.",
+      "Lies in Katra, Jammu and Kashmir."
     ]
   },
   {
     "id": "verinag-jammu-and-kashmir",
     "name": "Verinag",
     "state": "Jammu and Kashmir",
-    "category": "other",
+    "category": "heritage",
     "description": "Verinag is a town in Jammu and Kashmir, India.",
     "coordinates": {
       "lat": 33.53917,
       "lon": 75.24972
-    }
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Set beside Jhelum River.",
+      "Stands at about 1,851 m elevation.",
+      "Lies in Anantnag district, Jammu and Kashmir."
+    ]
   },
   {
     "id": "vishansar-lake-jammu-and-kashmir",
@@ -2054,6 +4454,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Gurez Tehsil, Jammu and Kashmir."
+    ]
+  },
+  {
+    "id": "vishesvara-and-other-cave-temple-jammu-and-kashmir",
+    "name": "Vishesvara and other cave Temple",
+    "state": "Jammu and Kashmir",
+    "category": "spiritual",
+    "description": "Vishesvara and other cave Temple is a protected monument in Jammu and Kashmir, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Basohli, Jammu and Kashmir."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2069,6 +4487,10 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Ganderbal district, Jammu and Kashmir."
     ]
   },
   {
@@ -2083,6 +4505,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jammu and Kashmir."
     ]
   },
   {
@@ -2096,7 +4521,12 @@
       "lon": 74.54833
     },
     "tags": [
-      "lake"
+      "lake",
+      "island"
+    ],
+    "facts": [
+      "Recognised as Ramsar site.",
+      "Stands at about 1,580 m elevation."
     ]
   },
   {
@@ -2111,6 +4541,10 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,396 m elevation.",
+      "Lies in Budgam district, Jammu and Kashmir."
     ]
   },
   {
@@ -2125,6 +4559,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Srinagar, Jammu and Kashmir."
     ]
   }
 ]

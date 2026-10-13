@@ -11,6 +11,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Saran District, Bihar."
     ]
   },
   {
@@ -25,6 +28,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -39,6 +45,25 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Water Heritage Site.",
+      "Lies in Patna, Bihar."
+    ]
+  },
+  {
+    "id": "agamkuan-gulzarbagh-patna-city-bihar",
+    "name": "Agamkuan Gulzarbagh, Patna City",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Agamkuan Gulzarbagh, Patna City is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patna, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -53,6 +78,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -67,6 +95,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhagalpur district, Bihar."
     ]
   },
   {
@@ -81,6 +112,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -91,6 +125,160 @@
     "description": "Anand Bagh Palace is a palace in Darbhanga, India.",
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "ancestral-house-of-dr-rajendra-prasad-the-first-president-of-india-bihar",
+    "name": "Ancestral House of Dr. Rajendra Prasad, the First President of India",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancestral House of Dr. Rajendra Prasad, the First President of India is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jiradei, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-buddhist-and-other-sculptures-collected-in-a-temple-bihar",
+    "name": "Ancient Buddhist and other sculptures collected in a temple",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Ancient Buddhist and other sculptures collected in a temple is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Guneri, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-buddhistic-image-and-sculptures-collected-underneath-a-shed-bihar",
+    "name": "Ancient Buddhistic image and sculptures collected underneath a shed",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancient Buddhistic image and sculptures collected underneath a shed is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ghejan, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-monolithic-pillar-known-as-lat-bihar",
+    "name": "Ancient monolithic pillar known as Lat",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancient monolithic pillar known as Lat is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lat, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mouds-in-the-hill-known-as-sobhnath-bihar",
+    "name": "Ancient mouds in the hill known as ‘Sobhnath’",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancient mouds in the hill known as ‘Sobhnath’ is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bishunpurtarwa, Hasra and Jagdishpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-and-ruined-brick-walls-together-with-adjacent-land-constituting-survey-plot-no-399-bihar",
+    "name": "Ancient Mound and ruined brick walls together with adjacent land constituting survey plot No. 399",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancient Mound and ruined brick walls together with adjacent land constituting survey plot No. 399 is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Maner, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-and-ruined-brick-walls-together-with-adjacent-land-which-is-part-of-survey-plot-no-608-amp-611-bihar",
+    "name": "Ancient Mound and ruined brick walls together with adjacent land which is part of survey plot No. 608 &amp; 611",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancient Mound and ruined brick walls together with adjacent land which is part of survey plot No. 608 &amp; 611 is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Maner, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-bihar",
+    "name": "Ancient mound",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancient mound is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Buxar, Bihar.",
+      "Lies in Bargaon, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mounds-in-the-valley-known-as-hasra-kol-bihar",
+    "name": "Ancient mounds in the valley known as “Hasra Kol”",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancient mounds in the valley known as “Hasra Kol” is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bishunpurtarwa, Hasra and Jagdishpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-remains-known-as-garh-bihar",
+    "name": "Ancient remains known as Garh",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ancient remains known as Garh is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ghorakatora, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -105,6 +293,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -120,6 +311,75 @@
     "tags": [
       "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1956.",
+      "Maintained under Archaeological Survey of India.",
+      "Lies in Bodh Gaya, Bihar."
+    ]
+  },
+  {
+    "id": "archaeological-site-kheri-shahkund-bihar",
+    "name": "Archaeological Site, Kheri, Shahkund",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Archaeological Site, Kheri, Shahkund is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhagalpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "arrah-bihar",
+    "name": "Arrah",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Arrah is a city and municipal corporation in Bhojpur district, Bihar, India.",
+    "coordinates": {
+      "lat": 25.56306,
+      "lon": 84.67111
+    },
+    "tags": [
+      "church",
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 190 m elevation.",
+      "Lies in Bhojpur district, Bihar."
+    ]
+  },
+  {
+    "id": "ashoka-column-bihar",
+    "name": "Ashoka column",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ashoka column is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rampurwa, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ashokan-column-bihar",
+    "name": "Ashokan Column",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ashokan Column is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kolhua, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -134,6 +394,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Lakhisarai district, Bihar."
     ]
   },
   {
@@ -144,6 +407,9 @@
     "description": "Ashtavakra Mandir is a hindu temple related to the Indian philosopher Ashtavakra.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -151,7 +417,10 @@
     "name": "Azizia Madrasa",
     "state": "Bihar",
     "category": "other",
-    "description": "Azizia Madrasa is a madrasa in Bihar, India, 1896–2023."
+    "description": "Azizia Madrasa is a madrasa in Bihar, India, 1896–2023.",
+    "facts": [
+      "Lies in Bihar Sharif, Bihar."
+    ]
   },
   {
     "id": "baba-maneshwarnath-mahadev-mandir-bihar",
@@ -161,6 +430,9 @@
     "description": "Baba Maneshwarnath Mahadev Mandir is a lord Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -175,6 +447,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "babu-veer-kumar-singh-birth-place-jagdishpur-bihar",
+    "name": "Babu Veer Kumar Singh, Birth place, Jagdishpur",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Babu Veer Kumar Singh, Birth place, Jagdishpur is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhojpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -185,6 +475,9 @@
     "description": "Bagahi Dham is a hindu shrine in Mithila, Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -199,6 +492,10 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 74 m elevation.",
+      "Lies in Gaya district, Bihar."
     ]
   },
   {
@@ -209,6 +506,9 @@
     "description": "Banaili is a zamindari estate.",
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -219,22 +519,134 @@
     "description": "Baneshwar Sthan is a lord Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
     "id": "barabar-caves-bihar",
     "name": "Barabar Caves",
     "state": "Bihar",
-    "category": "nature",
+    "category": "heritage",
     "description": "Barabar Caves is a rock-cut caves in Bihar, India.",
     "coordinates": {
       "lat": 25.005,
       "lon": 85.063
     },
     "tags": [
+      "temple",
       "cave",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Jehanabad district, Bihar."
+    ]
+  },
+  {
+    "id": "barabar-caves-gopika-cave-gopika-cave-bihar",
+    "name": "[[Barabar Caves#Gopika Cave|Gopika Cave]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Barabar Caves#Gopika Cave|Gopika Cave]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in [[Barabar Caves#Nagarjuni Caves|Nagarjuni hills]], Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "barabar-caves-karan-chaupar-cave-karan-chaupar-cave-bihar",
+    "name": "[[Barabar Caves#Karan Chaupar Cave|Karan Chaupar Cave]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Barabar Caves#Karan Chaupar Cave|Karan Chaupar Cave]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barabar hills, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "barabar-caves-lomas-rishi-cave-lomas-rishi-cave-bihar",
+    "name": "[[Barabar Caves#Lomas Rishi Cave|Lomas Rishi cave]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Barabar Caves#Lomas Rishi Cave|Lomas Rishi cave]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barabar hills, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "barabar-caves-sudama-cave-sudama-cave-bihar",
+    "name": "[[Barabar Caves#Sudama Cave|Sudama Cave]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Barabar Caves#Sudama Cave|Sudama Cave]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barabar hills, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "barabar-caves-vadathika-and-vapiyaka-caves-vadathika-cave-bihar",
+    "name": "[[Barabar Caves#Vadathika and Vapiyaka caves|Vadathika cave]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Barabar Caves#Vadathika and Vapiyaka caves|Vadathika cave]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in [[Barabar Caves#Nagarjuni Caves|Nagarjuni hills]], Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "barabar-caves-vapiyaka-cave-vapiyaka-cave-bihar",
+    "name": "[[Barabar Caves#Vapiyaka Cave|Vapiyaka Cave]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Barabar Caves#Vapiyaka Cave|Vapiyaka Cave]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in [[Barabar Caves#Nagarjuni Caves|Nagarjuni hills]], Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "barabar-caves-visvakarma-cave-visva-jhopa-cave-bihar",
+    "name": "[[Barabar Caves#Visvakarma cave|Visva Jhopa Cave]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Barabar Caves#Visvakarma cave|Visva Jhopa Cave]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barabar hills, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -245,6 +657,9 @@
     "description": "Baraila Jheel is a lake in the Mithila region.",
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Bihar."
     ]
   },
   {
@@ -259,6 +674,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Bihar."
     ]
   },
   {
@@ -273,20 +691,9 @@
     },
     "tags": [
       "temple"
-    ]
-  },
-  {
-    "id": "basarh-bihar",
-    "name": "Basarh",
-    "state": "Bihar",
-    "category": "offbeat",
-    "description": "Basarh is a village in Vaishali/Muzafferpur in Bihar, India; identified as location of the ancient city of Vesāli (Vaishali).",
-    "coordinates": {
-      "lat": 25.98333,
-      "lon": 85.13333
-    },
-    "tags": [
-      "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Vaishali district, Bihar."
     ]
   },
   {
@@ -301,6 +708,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -315,6 +725,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Mokama, Bihar."
     ]
   },
   {
@@ -329,6 +742,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Madhubani district, Bihar."
     ]
   },
   {
@@ -343,16 +759,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
     "id": "bateshwar-hills-bihar",
     "name": "Bateshwar hills",
     "state": "Bihar",
-    "category": "spiritual",
+    "category": "hill-station",
     "description": "Bateshwar hills is a purnia district, Bihar, India.",
     "tags": [
+      "hill-station",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a hill-station destination in Bihar."
     ]
   },
   {
@@ -367,6 +790,59 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "bausagarh-nasratpur-bihar",
+    "name": "Bausagarh (Nasratpur)",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Bausagarh (Nasratpur) is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Buxar, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "beguhjam-masjid-patna-city-bihar",
+    "name": "Beguhjam Masjid, Patna City",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Beguhjam Masjid, Patna City is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patna, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "begusarai-bihar",
+    "name": "Begusarai",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Begusarai is a city in Bihar, India.",
+    "coordinates": {
+      "lat": 25.42,
+      "lon": 86.13
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1972.",
+      "Stands at about 41 m elevation.",
+      "Covers about 1,918 km².",
+      "Lies in Begusarai district, Bihar."
     ]
   },
   {
@@ -381,6 +857,47 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "bettiah-bihar",
+    "name": "Bettiah",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Bettiah is a city in West Champaran district, Bihar, India.",
+    "coordinates": {
+      "lat": 26.80222,
+      "lon": 84.49861
+    },
+    "tags": [
+      "palace",
+      "church"
+    ],
+    "facts": [
+      "Stands at about 65 m elevation.",
+      "Lies in West Champaran district, Bihar."
+    ]
+  },
+  {
+    "id": "bhagalpur-bihar",
+    "name": "Bhagalpur",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Bhagalpur is a city in Bihar, India.",
+    "coordinates": {
+      "lat": 25.25,
+      "lon": 87.01667
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 52 m elevation.",
+      "Covers about 342 km².",
+      "Lies in Bhagalpur district, Bihar."
     ]
   },
   {
@@ -395,6 +912,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -405,6 +925,9 @@
     "description": "Bhairava Ugna Mahadev Mandir is a hindu temple in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -419,6 +942,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1963."
     ]
   },
   {
@@ -426,7 +952,27 @@
     "name": "Bharat–Nepal Jhim Chhath Ghat",
     "state": "Bihar",
     "category": "nature",
-    "description": "Bharat–Nepal Jhim Chhath Ghat is a common Chhath Puja Ghat between India and Nepal."
+    "description": "Bharat–Nepal Jhim Chhath Ghat is a common Chhath Puja Ghat between India and Nepal.",
+    "facts": [
+      "Known as a nature destination in Bihar."
+    ]
+  },
+  {
+    "id": "bhatinda-falls-bihar",
+    "name": "Bhatinda Falls",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Bhatinda Falls is a waterfall in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.7108,
+      "lon": 86.33173
+    },
+    "tags": [
+      "waterfall"
+    ],
+    "facts": [
+      "Lies in Dhanbad district, Bihar."
+    ]
   },
   {
     "id": "bhimbandh-wildlife-sanctuary-bihar",
@@ -440,6 +986,11 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Stands at about 80 m elevation.",
+      "Covers about 682 km².",
+      "Lies in Munger district, Bihar."
     ]
   },
   {
@@ -454,6 +1005,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Raghopur, Supaul, Bihar."
     ]
   },
   {
@@ -464,6 +1018,9 @@
     "description": "Bhit Bhagwanpur is a historical village.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Bihar."
     ]
   },
   {
@@ -478,6 +1035,22 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "bihar-legislative-assembly-bihar",
+    "name": "Bihar Legislative Assembly",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Bihar Legislative Assembly is a lower house of the bicameral legislature of the Indian state of Bihar.",
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Part of Bihar Legislature."
     ]
   },
   {
@@ -492,36 +1065,46 @@
     },
     "tags": [
       "museum"
-    ]
-  },
-  {
-    "id": "bodh-gaya-bihar",
-    "name": "Bodh Gaya",
-    "state": "Bihar",
-    "category": "spiritual",
-    "description": "Bodh Gaya is a town.",
-    "coordinates": {
-      "lat": 24.695,
-      "lon": 84.9925
-    },
-    "tags": [
-      "world-heritage",
-      "archaeological-site",
-      "pilgrimage"
+    ],
+    "facts": [
+      "Dates from July 2011.",
+      "Opened in 15 August 2015.",
+      "Maintained under Government of Bihar.",
+      "Covers about 5.6 ha.",
+      "Lies in Patna, Bihar."
     ]
   },
   {
     "id": "bodhi-tree-bihar",
     "name": "Bodhi tree",
     "state": "Bihar",
-    "category": "spiritual",
+    "category": "heritage",
     "description": "Bodhi tree is a sacred fig tree under which Buddha is said to have achieved enlightenment.",
     "coordinates": {
       "lat": 24.69591,
       "lon": 84.99147
     },
     "tags": [
-      "pilgrimage"
+      "world-heritage"
+    ],
+    "facts": [
+      "Named after bodhi.",
+      "Lies in Bodh Gaya, Bihar."
+    ]
+  },
+  {
+    "id": "brahmayoni-hill-gaya-bihar",
+    "name": "Brahmayoni Hill, Gaya",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Brahmayoni Hill, Gaya is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gaya, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -536,18 +1119,24 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Vaishali district, Bihar."
     ]
   },
   {
     "id": "buddha-smriti-park-bihar",
     "name": "Buddha Smriti Park",
     "state": "Bihar",
-    "category": "other",
+    "category": "spiritual",
     "description": "Buddha Smriti Park is an indian park.",
     "coordinates": {
       "lat": 25.60667,
       "lon": 85.13611
-    }
+    },
+    "facts": [
+      "Lies in Frazer Road, Bihar."
+    ]
   },
   {
     "id": "budhanath-temple-bihar",
@@ -561,6 +1150,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -575,6 +1167,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ismailpur, Bihar."
     ]
   },
   {
@@ -589,6 +1184,26 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "burhi-gandak-river-bihar",
+    "name": "Burhi Gandak River",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Burhi Gandak River is a river in India.",
+    "coordinates": {
+      "lat": 25.43389,
+      "lon": 86.60694
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 34 m elevation."
     ]
   },
   {
@@ -603,6 +1218,24 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1054.",
+      "Lies in Buxar district, Bihar."
+    ]
+  },
+  {
+    "id": "champapur-bihar",
+    "name": "Champapur",
+    "state": "Bihar",
+    "category": "offbeat",
+    "description": "Champapur is a village in Bihar, India.",
+    "coordinates": {
+      "lat": 27.108,
+      "lon": 84.464
+    },
+    "facts": [
+      "Known as a offbeat destination in Bihar."
     ]
   },
   {
@@ -613,6 +1246,9 @@
     "description": "Chandeshwar Nath Mahadev Mandir is a temple in Mithila, Bihar.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -627,6 +1263,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Munger district, Bihar."
     ]
   },
   {
@@ -641,6 +1280,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -651,6 +1293,9 @@
     "description": "Chankigarh is an archeological site in Bihar.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -665,6 +1310,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -679,6 +1327,10 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Built in the Indo-Islamic architecture style.",
+      "Lies in Gaya, Bihar."
     ]
   },
   {
@@ -689,10 +1341,13 @@
     "description": "Chaumukhi Mahadev is a hindu temple in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
-    "id": "chirand-bihar",
+    "id": "chirand-bihar-q19672252",
     "name": "Chirand",
     "state": "Bihar",
     "category": "offbeat",
@@ -703,6 +1358,11 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Saran District, Bihar.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Saran, Bihar."
     ]
   },
   {
@@ -717,6 +1377,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "choti-patandevi-patna-city-bihar",
+    "name": "Choti Patandevi, Patna city",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Choti Patandevi, Patna city is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patna, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -727,6 +1405,9 @@
     "description": "Colgong Rock Temple is a hindu temple in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -741,6 +1422,60 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "damodar-river-bihar",
+    "name": "Damodar River",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Damodar River is a river in India.",
+    "coordinates": {
+      "lat": 22.28333,
+      "lon": 88.08333
+    },
+    "facts": [
+      "Stands at about 6 m elevation.",
+      "Lies in Hazaribagh district, Bihar."
+    ]
+  },
+  {
+    "id": "danapur-cantonment-bihar",
+    "name": "Danapur Cantonment",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Danapur Cantonment is a cantonment town in Patna disctrict, Bihar, India.",
+    "coordinates": {
+      "lat": 25.63444,
+      "lon": 85.02639
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Dates from 1765.",
+      "Lies in Patna district, Bihar."
+    ]
+  },
+  {
+    "id": "darbhanga-bihar",
+    "name": "Darbhanga",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Darbhanga is a city.",
+    "coordinates": {
+      "lat": 26.157,
+      "lon": 85.89951
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 52 m elevation.",
+      "Lies in Darbhanga district, Bihar."
     ]
   },
   {
@@ -755,6 +1490,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Darbhanga, Bihar."
     ]
   },
   {
@@ -769,6 +1507,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Darbhanga district, Bihar."
     ]
   },
   {
@@ -783,6 +1524,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -797,6 +1541,10 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "About 1,000,000 visits in a recorded year.",
+      "Lies in Aurangabad district, Bihar."
     ]
   },
   {
@@ -804,13 +1552,16 @@
     "name": "Deo Fort",
     "state": "Bihar",
     "category": "heritage",
-    "description": "Deo Fort belonged to sisodia vans of rajputs. The last king of Deo agganath, he had no sons. younger queen took charge after his death and ruled up to 1947.",
+    "description": "The Deo Fort belonged to sisodia vans of rajputs. The last king of Deo agganath, he had no sons. younger queen took charge after his death and ruled up to 1947.",
     "coordinates": {
       "lat": 24.65944,
       "lon": 84.43694
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -825,6 +1576,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -839,6 +1593,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -849,6 +1606,9 @@
     "description": "Dharmaraj Baba Mandir, Chahuta is a hindu temple dedicated to Dharmaraj Baba in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -863,6 +1623,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Bihar."
     ]
   },
   {
@@ -877,6 +1640,41 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "dimna-lake-bihar",
+    "name": "Dimna Lake",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Dimna Lake is a lake in Jamshedpur, India.",
+    "coordinates": {
+      "lat": 22.86311,
+      "lon": 86.26156
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Lies in Jamshedpur, Bihar."
+    ]
+  },
+  {
+    "id": "do-ruikhi-pratima-kumrahar-bihar",
+    "name": "Do Ruikhi Pratima, Kumrahar",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Do Ruikhi Pratima, Kumrahar is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patna, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -884,7 +1682,10 @@
     "name": "Dr. A. P. J. Abdul Kalam Science City",
     "state": "Bihar",
     "category": "other",
-    "description": "Dr. A. P. J. Abdul Kalam Science City is a science city."
+    "description": "Dr. A. P. J. Abdul Kalam Science City is a science city.",
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
   },
   {
     "id": "eco-park-patna-bihar",
@@ -895,7 +1696,10 @@
     "coordinates": {
       "lat": 25.3552,
       "lon": 85.648
-    }
+    },
+    "facts": [
+      "Lies in Patna, Bihar."
+    ]
   },
   {
     "id": "ekadash-rudra-mahadev-mandir-bihar",
@@ -905,6 +1709,74 @@
     "description": "Ekadash Rudra Mahadev Mandir is a hindu temple in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "fauna-of-bihar-bihar",
+    "name": "Fauna of Bihar",
+    "state": "Bihar",
+    "category": "other",
+    "description": "Fauna of Bihar is a tourism place in Bihar, India.",
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
+  },
+  {
+    "id": "flora-of-bihar-bihar",
+    "name": "Flora of Bihar",
+    "state": "Bihar",
+    "category": "other",
+    "description": "Flora of Bihar is an aspect of the Indian state.",
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
+  },
+  {
+    "id": "fort-of-daud-khan-daudnagar-aurangabad-bihar",
+    "name": "Fort of Daud Khan, Daudnagar, Aurangabad",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Fort of Daud Khan, Daudnagar, Aurangabad is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Aurangabad, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-of-munger-bihar",
+    "name": "Fort of Munger",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Fort of Munger is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munger, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-ruins-tank-and-stupa-bihar",
+    "name": "Fort ruins, tank and Stupa",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Fort ruins, tank and Stupa is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sagardih, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -912,7 +1784,10 @@
     "name": "Funtasia Water Park",
     "state": "Bihar",
     "category": "other",
-    "description": "Funtasia Water Park is an amusement park in Patna, India."
+    "description": "Funtasia Water Park is an amusement park in Patna, India.",
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
   },
   {
     "id": "gajana-dham-bihar",
@@ -923,6 +1798,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -930,14 +1808,20 @@
     "name": "Gandhi Chowk, Madhwapur",
     "state": "Bihar",
     "category": "heritage",
-    "description": "Gandhi Chowk, Madhwapur is a gandhi memorial chowk."
+    "description": "Gandhi Chowk, Madhwapur is a gandhi memorial chowk.",
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
   },
   {
     "id": "gandhi-ghat-bihar",
     "name": "Gandhi Ghat",
     "state": "Bihar",
     "category": "nature",
-    "description": "Gandhi Ghat is a place in Patna, Bihar."
+    "description": "Gandhi Ghat is a place in Patna, Bihar.",
+    "facts": [
+      "Known as a nature destination in Bihar."
+    ]
   },
   {
     "id": "gandhi-maidan-bihar",
@@ -948,7 +1832,10 @@
     "coordinates": {
       "lat": 25.60799,
       "lon": 85.16752
-    }
+    },
+    "facts": [
+      "Lies in Patna, Bihar."
+    ]
   },
   {
     "id": "gandhi-sangrahalaya-patna-bihar",
@@ -962,6 +1849,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Gandhi Maidan Marg, Bihar."
     ]
   },
   {
@@ -976,6 +1866,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -990,6 +1883,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Muzaffarpur district, Bihar."
     ]
   },
   {
@@ -1004,6 +1900,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1976."
     ]
   },
   {
@@ -1018,20 +1917,48 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Darbhanga district, Bihar."
     ]
   },
   {
     "id": "gaya-india-bihar",
     "name": "Gaya, India",
     "state": "Bihar",
-    "category": "spiritual",
+    "category": "hill-station",
     "description": "Gaya, India is a city in Bihar, India.",
     "coordinates": {
       "lat": 24.75,
       "lon": 85.01667
     },
     "tags": [
+      "hill-station",
+      "temple",
+      "museum",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 111 m elevation.",
+      "Covers about 90.2 km².",
+      "Lies in Gaya district, Bihar."
+    ]
+  },
+  {
+    "id": "gayatri-gyan-mandir-mahuda-bihar",
+    "name": "Gayatri Gyan Mandir, Mahuda",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Gayatri Gyan Mandir, Mahuda is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.74867,
+      "lon": 86.26389
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Dhanbad district, Bihar."
     ]
   },
   {
@@ -1046,6 +1973,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Rajgir, Bihar."
+    ]
+  },
+  {
+    "id": "gira-bigaha-bihar",
+    "name": "Gira Bigaha",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Gira Bigaha is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jahanabad, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1056,6 +2001,9 @@
     "description": "Girija Sthan is a legendary temple of Goddess Girija Devi.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1071,10 +2019,13 @@
     "tags": [
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Nalanda district, Bihar."
     ]
   },
   {
-    "id": "golghar-bihar",
+    "id": "golghar-bihar-q3630493",
     "name": "Golghar",
     "state": "Bihar",
     "category": "other",
@@ -1082,13 +2033,19 @@
     "coordinates": {
       "lat": 25.62028,
       "lon": 85.13917
-    }
+    },
+    "facts": [
+      "Dates from 20 July 1786.",
+      "Recognised as State Protected Monument.",
+      "Lies in Patna, Bihar.",
+      "Recognised as a State Protected Monument."
+    ]
   },
   {
     "id": "gopika-cave-inscription-bihar",
     "name": "Gopika Cave Inscription",
     "state": "Bihar",
-    "category": "nature",
+    "category": "heritage",
     "description": "Gopika Cave Inscription is a sanskrit inscription in the Barabar Caves, Bihar, India.",
     "coordinates": {
       "lat": 25.00644,
@@ -1097,6 +2054,22 @@
     "tags": [
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "government-of-bihar-bihar",
+    "name": "Government of Bihar",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Government of Bihar is an indian State Government.",
+    "tags": [
+      "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Bihar."
     ]
   },
   {
@@ -1108,7 +2081,11 @@
     "coordinates": {
       "lat": 24.69047,
       "lon": 84.98181
-    }
+    },
+    "facts": [
+      "Dates from 18 November 1989.",
+      "Lies in Bodh Gaya, Bihar."
+    ]
   },
   {
     "id": "gupta-dham-bihar",
@@ -1118,6 +2095,9 @@
     "description": "Gupta Dham is a shrine in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1129,7 +2109,11 @@
     "coordinates": {
       "lat": 25.608,
       "lon": 85.1675
-    }
+    },
+    "facts": [
+      "Dates from 28 August 1668.",
+      "Lies in Patna district, Bihar."
+    ]
   },
   {
     "id": "gurdwara-gai-ghat-bihar",
@@ -1140,7 +2124,10 @@
     "coordinates": {
       "lat": 25.608,
       "lon": 85.1675
-    }
+    },
+    "facts": [
+      "Lies in Patna, Bihar."
+    ]
   },
   {
     "id": "gurdwara-gobind-ghat-bihar",
@@ -1151,7 +2138,11 @@
     "coordinates": {
       "lat": 25.60799,
       "lon": 85.16752
-    }
+    },
+    "facts": [
+      "Set beside Ganges.",
+      "Lies in Patna, Bihar."
+    ]
   },
   {
     "id": "gurdwara-guru-ka-bagh-bihar",
@@ -1162,7 +2153,10 @@
     "coordinates": {
       "lat": 25.57644,
       "lon": 85.24819
-    }
+    },
+    "facts": [
+      "Lies in Patna district, Bihar."
+    ]
   },
   {
     "id": "gurdwara-handi-sahib-bihar",
@@ -1173,7 +2167,10 @@
     "coordinates": {
       "lat": 25.608,
       "lon": 85.1675
-    }
+    },
+    "facts": [
+      "Lies in Danapur, Bihar."
+    ]
   },
   {
     "id": "gurpa-hill-bihar",
@@ -1184,7 +2181,29 @@
     "coordinates": {
       "lat": 25.00167,
       "lon": 85.44639
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Bihar."
+    ]
+  },
+  {
+    "id": "hajipur-bihar",
+    "name": "Hajipur",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Hajipur is a city of Bihar, India.",
+    "coordinates": {
+      "lat": 25.68,
+      "lon": 85.22
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 46 m elevation.",
+      "Covers about 19.6 km².",
+      "Lies in Vaishali district, Bihar."
+    ]
   },
   {
     "id": "haleshwar-sthan-bihar",
@@ -1199,6 +2218,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1213,6 +2235,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Bihar."
     ]
   },
   {
@@ -1224,7 +2249,10 @@
     "coordinates": {
       "lat": 25.60135,
       "lon": 85.12921
-    }
+    },
+    "facts": [
+      "Lies in Patna district, Bihar."
+    ]
   },
   {
     "id": "hareshwar-nath-mandir-bihar",
@@ -1238,6 +2266,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1248,6 +2279,9 @@
     "description": "Hariharnath Mahadev Mandir is a lord Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1262,6 +2296,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Rajbiraj, Bihar."
     ]
   },
   {
@@ -1276,6 +2313,41 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "hathua-bihar-bihar",
+    "name": "Hathua, Bihar",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Hathua, Bihar is a town in Bihar, India.",
+    "coordinates": {
+      "lat": 26.35398,
+      "lon": 84.29749
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Lies in Gopalganj district, Bihar."
+    ]
+  },
+  {
+    "id": "hazarimal-dharmashala-bettiah-bihar",
+    "name": "Hazarimal Dharmashala, Bettiah",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Hazarimal Dharmashala, Bettiah is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in West Champaran, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1286,6 +2358,24 @@
     "description": "Holy Saviour Church, Arrah is a church in India, India.",
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Arrah, Bihar."
+    ]
+  },
+  {
+    "id": "i-ablution-tank-ii-mir-ashrafs-jama-mosque-and-iii-pucca-well-bihar",
+    "name": "(i) Ablution Tank, (ii) Mir Ashraf’s Jama Mosque and (iii) Pucca well",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "(i) Ablution Tank, (ii) Mir Ashraf’s Jama Mosque and (iii) Pucca well is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patna, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1300,6 +2390,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 21 March 1993.",
+      "About 985,100 visits in a recorded year.",
+      "Lies in Patna, Bihar."
     ]
   },
   {
@@ -1311,7 +2406,25 @@
     "coordinates": {
       "lat": 24.8369,
       "lon": 84.1344
-    }
+    },
+    "facts": [
+      "Set on Son River."
+    ]
+  },
+  {
+    "id": "international-museum-day-bihar",
+    "name": "International Museum Day",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "International Museum Day is an annual international day observed on or around 18 May and coordinated by the International Council of Museums.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Dates from 18 May 1977.",
+      "Created by International Council of Museums.",
+      "Named after museum."
+    ]
   },
   {
     "id": "ishannath-mandir-bihar",
@@ -1325,6 +2438,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1339,6 +2455,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1353,6 +2472,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "jain-temple-kamaldah-gulzarbagh-bihar",
+    "name": "Jain Temple, Kamaldah, Gulzarbagh",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Jain Temple, Kamaldah, Gulzarbagh is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patna, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1367,6 +2504,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1377,6 +2517,9 @@
     "description": "Jain temples, Rajgir is a group of Jain temples in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1391,6 +2534,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dedicated to Mahavira."
+    ]
+  },
+  {
+    "id": "jalagarh-fort-karba-bihar",
+    "name": "Jalagarh Fort Karba",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Jalagarh Fort Karba is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Purnia, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1406,6 +2567,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Purnia, Bihar."
     ]
   },
   {
@@ -1420,6 +2584,78 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1919.",
+      "Lies in Patna, Bihar."
+    ]
+  },
+  {
+    "id": "jama-masjid-hajipur-bihar",
+    "name": "Jama Masjid, Hajipur",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Jama Masjid, Hajipur is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hajipur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jamalpur-bihar-bihar",
+    "name": "Jamalpur, Bihar",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Jamalpur, Bihar is a city and municipality in Munger, Bihar.",
+    "coordinates": {
+      "lat": 25.3,
+      "lon": 86.5
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 151 m elevation.",
+      "Covers about 10 km².",
+      "Lies in Munger district, Bihar."
+    ]
+  },
+  {
+    "id": "jami-mosque-bihar",
+    "name": "Jami mosque",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Jami mosque is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hajipur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jamshedpur-bihar",
+    "name": "Jamshedpur",
+    "state": "Bihar",
+    "category": "wildlife",
+    "description": "Jamshedpur is a cosmopolis in Jharkhand, India.",
+    "coordinates": {
+      "lat": 22.8,
+      "lon": 86.18333
+    },
+    "facts": [
+      "Dates from 1919.",
+      "Founded by Jamsetji Tata.",
+      "Named after Jamsetji Tata.",
+      "Stands at about 135 m elevation.",
+      "Covers about 231 km².",
+      "Lies in East Singhbhum district, Bihar."
     ]
   },
   {
@@ -1430,6 +2666,9 @@
     "description": "Janaki Janmasthali Mandir is a proposed Hindu temple.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1440,6 +2679,9 @@
     "description": "Janaki Sthan is a hindu temple in Sitamarhi, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Sitamarhi, Bihar."
     ]
   },
   {
@@ -1456,6 +2698,9 @@
       "monastery",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Rajgir, Bihar."
     ]
   },
   {
@@ -1470,6 +2715,10 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Covers about 1,342 km².",
+      "Lies in Kaimur district, Bihar."
     ]
   },
   {
@@ -1484,6 +2733,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Bihar."
     ]
   },
   {
@@ -1498,6 +2750,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1509,6 +2764,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1523,6 +2781,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1534,6 +2795,9 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -1548,6 +2812,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1559,6 +2826,24 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "kanhaiya-ji-ka-mandir-bihar",
+    "name": "Kanhaiya ji ka mandir",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Kanhaiya ji ka mandir is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bandarjhula, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1573,6 +2858,10 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site.",
+      "Named after Kanwar Taal."
     ]
   },
   {
@@ -1584,7 +2873,10 @@
     "coordinates": {
       "lat": 26.35066,
       "lon": 86.00051
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
   },
   {
     "id": "kapileshwar-mahadev-mandir-garhbaruari-bihar",
@@ -1598,6 +2890,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Supaul district, Bihar."
     ]
   },
   {
@@ -1612,6 +2907,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1623,7 +2921,10 @@
     "coordinates": {
       "lat": 25.60799,
       "lon": 85.16752
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
   },
   {
     "id": "karkat-waterfall-bihar",
@@ -1637,6 +2938,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Kaimur district, Bihar."
     ]
   },
   {
@@ -1648,14 +2952,32 @@
     "coordinates": {
       "lat": 25.383,
       "lon": 86.45968
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Bihar."
+    ]
+  },
+  {
+    "id": "katragarh-bihar",
+    "name": "Katragarh",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Katragarh is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Muzaffarpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "kesaria-bihar",
     "name": "Kesaria",
     "state": "Bihar",
     "category": "spiritual",
-    "description": "Kesaria is a buddhist pilgrimage and archaeological site of ancient Mandala Stupa originally built by Emperor Ashoka in East Champaran District, Bihar, India.",
+    "description": "Buddhist pilgrimage and archaeological site of ancient Mandala Stupa originally built by Emperor Ashoka in East Champaran District, Bihar, India.",
     "coordinates": {
       "lat": 26.365,
       "lon": 84.873
@@ -1663,10 +2985,14 @@
     "tags": [
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 45 m elevation.",
+      "Lies in East Champaran District, Bihar."
     ]
   },
   {
-    "id": "kesaria-stupa-bihar",
+    "id": "kesaria-stupa-bihar-q30587895",
     "name": "Kesaria stupa",
     "state": "Bihar",
     "category": "spiritual",
@@ -1678,6 +3004,13 @@
     "tags": [
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Named after Kesaria.",
+      "Lies in East Champaran District, Bihar.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Tajpur Deur, Bihar."
     ]
   },
   {
@@ -1688,6 +3021,10 @@
     "description": "Khuda Bakhsh Oriental Library is a library in India.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1891.",
+      "Founded by Khuda Bakhsh."
     ]
   },
   {
@@ -1702,6 +3039,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Samastipur district, Bihar."
     ]
   },
   {
@@ -1713,6 +3053,42 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "koncheswar-mahadev-bihar",
+    "name": "Koncheswar Mahadev",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Koncheswar Mahadev is a temple in India.",
+    "coordinates": {
+      "lat": 24.93,
+      "lon": 84.77
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Gaya district, Bihar."
+    ]
+  },
+  {
+    "id": "koncheswar-mahadev-shiva-temple-bihar",
+    "name": "Koncheswar Mahadev Shiva temple",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Koncheswar Mahadev Shiva temple is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Konch, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1720,7 +3096,24 @@
     "name": "Kosi embankment",
     "state": "Bihar",
     "category": "nature",
-    "description": "Kosi embankment is a dam in Nepal."
+    "description": "Kosi embankment is a dam in Nepal.",
+    "facts": [
+      "Known as a nature destination in Bihar."
+    ]
+  },
+  {
+    "id": "kosi-river-bihar",
+    "name": "Kosi River",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Kosi River is a river in China, Nepal and India.",
+    "coordinates": {
+      "lat": 26.9104,
+      "lon": 87.1617
+    },
+    "facts": [
+      "Lies in Madhesh Province, Bihar."
+    ]
   },
   {
     "id": "krimila-bihar",
@@ -1734,6 +3127,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -1748,6 +3144,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1755,10 +3154,28 @@
     "name": "Kukkutarama",
     "state": "Bihar",
     "category": "spiritual",
-    "description": "Kukkutarama is a buddhist monastery in ancient Patliputra that had support and patronage of Emperor Ashoka. Third Buddhist Council was held in this monastery.",
+    "description": "Buddhist monastery in ancient Patliputra that had support and patronage of Emperor Ashoka. Third Buddhist Council was held in this monastery.",
     "tags": [
       "monastery",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "kumhrar-assembly-hall-of-80-pillars-supposed-site-of-the-palace-of-ashoka-bihar",
+    "name": "[[Kumhrar#Assembly Hall of 80-pillars|Supposed site of the Palace of Ashoka]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Kumhrar#Assembly Hall of 80-pillars|Supposed site of the Palace of Ashoka]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kumrahar, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1773,6 +3190,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Patna, Bihar."
     ]
   },
   {
@@ -1780,7 +3200,10 @@
     "name": "Kuppaghat",
     "state": "Bihar",
     "category": "nature",
-    "description": "Kuppaghat is a tourism place in Bihar, India."
+    "description": "Kuppaghat is a tourism place in Bihar, India.",
+    "facts": [
+      "Known as a nature destination in Bihar."
+    ]
   },
   {
     "id": "kusheshwar-asthan-bird-sanctuary-bihar",
@@ -1791,7 +3214,10 @@
     "coordinates": {
       "lat": 25.8315,
       "lon": 86.3044
-    }
+    },
+    "facts": [
+      "Known as a wildlife destination in Bihar."
+    ]
   },
   {
     "id": "lachhuar-jain-temple-bihar",
@@ -1805,6 +3231,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1819,13 +3248,16 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Vaishali district, Bihar."
     ]
   },
   {
     "id": "lauria-nandangarh-bihar",
     "name": "Lauria Nandangarh",
     "state": "Bihar",
-    "category": "offbeat",
+    "category": "heritage",
     "description": "Lauria Nandangarh is a village in Lauria Block, Pashchim Champaran, Bihar.",
     "coordinates": {
       "lat": 26.99848,
@@ -1833,6 +3265,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Lauriya block, Bihar."
     ]
   },
   {
@@ -1846,7 +3281,26 @@
       "lon": 84.64758
     },
     "tags": [
+      "world-heritage",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "lauriya-nandangarh-pillar-of-ashoka-ashoka-column-bihar",
+    "name": "[[Lauriya Nandangarh#Pillar of Ashoka|Ashoka column]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Lauriya Nandangarh#Pillar of Ashoka|Ashoka column]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lauriya Nandangarh, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1861,6 +3315,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -1875,6 +3332,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1888,8 +3348,14 @@
       "lon": 85.06552
     },
     "tags": [
+      "temple",
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Part of Barabar Caves.",
+      "Lies in Jehanabad district, Bihar."
     ]
   },
   {
@@ -1904,6 +3370,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Araria, Bihar."
     ]
   },
   {
@@ -1918,6 +3387,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1925,13 +3397,16 @@
     "name": "Maa Tara Chandi Temple",
     "state": "Bihar",
     "category": "spiritual",
-    "description": "Maa Tara Chandi Temple is a Hindu temple dedicated to Tara located in Sasaram, Bihar, India.",
+    "description": "The Maa Tara Chandi Temple is a Hindu temple dedicated to Tara located in Sasaram, Bihar, India.",
     "coordinates": {
       "lat": 24.95,
       "lon": 84.03
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Rohtas district, Bihar."
     ]
   },
   {
@@ -1946,6 +3421,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1956,6 +3434,9 @@
     "description": "Madhaweshwar Nath Mahadev Mandir is a hindu temple in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -1967,7 +3448,10 @@
     "coordinates": {
       "lat": 26.3654,
       "lon": 86.0731
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
   },
   {
     "id": "madhveshwar-nath-mahadev-mandir-darbhanga-bihar",
@@ -1977,6 +3461,26 @@
     "description": "Madhveshwar Nath Mahadev Mandir, Darbhanga is a tourism place in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "madhwapur-bihar",
+    "name": "Madhwapur",
+    "state": "Bihar",
+    "category": "offbeat",
+    "description": "Madhwapur is a village in Bihar, Madhubani.",
+    "coordinates": {
+      "lat": 26.60194,
+      "lon": 85.84833
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Madhubani district, Bihar."
     ]
   },
   {
@@ -1992,6 +3496,23 @@
     "tags": [
       "world-heritage",
       "temple"
+    ],
+    "facts": [
+      "Recognised as World Heritage Site.",
+      "Associated with Buddhism.",
+      "Covers about 4.86 ha.",
+      "Rises about 55 m.",
+      "Lies in Bodh Gaya, Bihar."
+    ]
+  },
+  {
+    "id": "mahaparinirvan-express-bihar",
+    "name": "Mahaparinirvan Express",
+    "state": "Bihar",
+    "category": "other",
+    "description": "Mahaparinirvan Express is an indian tourist train.",
+    "facts": [
+      "Known as a tourism destination in Bihar."
     ]
   },
   {
@@ -2002,6 +3523,9 @@
     "description": "Maharajadhiraja Lakshmishwar Singh Museum is a park.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -2013,7 +3537,12 @@
     "coordinates": {
       "lat": 25.62194,
       "lon": 85.20714
-    }
+    },
+    "facts": [
+      "Dates from 1982.",
+      "Opened in May 1982.",
+      "Named after Mahatma Gandhi."
+    ]
   },
   {
     "id": "mahavir-balaji-temple-karharia-bihar",
@@ -2027,6 +3556,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2041,6 +3573,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2055,6 +3590,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "maithon-dam-bihar",
+    "name": "Maithon Dam",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Maithon Dam is a dam in India.",
+    "coordinates": {
+      "lat": 23.78532,
+      "lon": 86.81243
+    },
+    "facts": [
+      "Set on Barakar River.",
+      "Rises about 56.1 m.",
+      "Lies in Dhanbad district, Bihar."
     ]
   },
   {
@@ -2069,6 +3623,9 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Banka district, Bihar."
     ]
   },
   {
@@ -2083,6 +3640,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Gaya district, Bihar."
     ]
   },
   {
@@ -2097,6 +3657,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Bihar."
     ]
   },
   {
@@ -2107,6 +3670,9 @@
     "description": "Mankeshwar Nath Mahadev Mandir is a lord Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2114,13 +3680,31 @@
     "name": "Manokamna Mandir",
     "state": "Bihar",
     "category": "spiritual",
-    "description": "Manokamna Mandir is an ancient Hindu temple located at Kamtaul village of Harlakhi block in Madhubani district of Mithila region.",
+    "description": "Ancient Hindu temple located at Kamtaul village of Harlakhi block in Madhubani district of Mithila region.",
     "coordinates": {
       "lat": 26.57489,
       "lon": 85.89768
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "masahi-kaimur-bihar",
+    "name": "masahi Kaimur",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "masahi Kaimur is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kaimur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2135,6 +3719,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Bihar."
     ]
   },
   {
@@ -2149,6 +3736,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2159,6 +3749,19 @@
     "description": "Mithila Cultural Museum is a cultural heritage measum of Mithila.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "mithila-haat-bihar",
+    "name": "Mithila Haat",
+    "state": "Bihar",
+    "category": "other",
+    "description": "Mithila Haat is an urban cultural and tourism center in Madhubani, Bihar, India.",
+    "facts": [
+      "Dates from 11 January 2023."
     ]
   },
   {
@@ -2169,6 +3772,24 @@
     "description": "Mithila Lalit Sangrahalaya is a cultural heritage museum in Mithila.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "mounds-known-as-the-five-stupasor-panch-pahari-bihar",
+    "name": "Mounds known as the five stupasor \"Panch Pahari\"",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Mounds known as the five stupasor \"Panch Pahari\" is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Paharidih, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2184,6 +3805,30 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Kaimur district, Bihar."
+    ]
+  },
+  {
+    "id": "munger-bihar",
+    "name": "Munger",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Munger is a city in Bihar, India.",
+    "coordinates": {
+      "lat": 25.381,
+      "lon": 86.465
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Founded by Chandragupta Maurya.",
+      "Stands at about 43 m elevation.",
+      "Covers about 68 km².",
+      "Lies in Munger district, Bihar."
     ]
   },
   {
@@ -2199,6 +3844,10 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Munger, Bihar."
     ]
   },
   {
@@ -2213,6 +3862,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2223,6 +3875,30 @@
     "description": "Musaharniya Dih is an archaeological site in Bihar, India.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
+  },
+  {
+    "id": "muzaffarpur-bihar",
+    "name": "Muzaffarpur",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Muzaffarpur is a city in Bihar state, India.",
+    "coordinates": {
+      "lat": 26.12,
+      "lon": 85.38333
+    },
+    "tags": [
+      "temple",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1875.",
+      "Stands at about 60 m elevation.",
+      "Covers about 36 km².",
+      "Lies in Muzaffarpur district, Bihar."
     ]
   },
   {
@@ -2237,6 +3913,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2247,6 +3926,9 @@
     "description": "Nagholkothi is a palace in India.",
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -2258,7 +3940,10 @@
     "coordinates": {
       "lat": 24.8175,
       "lon": 86.4
-    }
+    },
+    "facts": [
+      "Known as a wildlife destination in Bihar."
+    ]
   },
   {
     "id": "nair-temple-bihar",
@@ -2268,6 +3953,9 @@
     "description": "Nair temple is a hindu temple in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2282,6 +3970,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Bihar."
     ]
   },
   {
@@ -2289,7 +3980,10 @@
     "name": "Nalanda inscription of Devapaladeva",
     "state": "Bihar",
     "category": "other",
-    "description": "Nalanda inscription of Devapaladeva is a tourism place in Bihar, India."
+    "description": "Nalanda inscription of Devapaladeva is a tourism place in Bihar, India.",
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
   },
   {
     "id": "nalanda-mahavihara-bihar",
@@ -2306,6 +4000,12 @@
       "monastery",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as World Heritage Site.",
+      "Covers about 23 ha.",
+      "Lies in Nalanda, Bihar."
     ]
   },
   {
@@ -2316,6 +4016,9 @@
     "description": "Nargona Palace is a palace in Bihar, India.",
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -2326,6 +4029,9 @@
     "description": "Narmadeshwar Nath Mahadev Mandir is a shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2336,6 +4042,9 @@
     "description": "Naulagarh is an archaeological site in Bihar.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Begusarai district, Bihar."
     ]
   },
   {
@@ -2350,6 +4059,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2360,6 +4072,9 @@
     "description": "Navagraha Surya Mandir, Mangaldham is a surya Mandir in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2374,6 +4089,39 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Rajnagar Bihar, Bihar."
+    ]
+  },
+  {
+    "id": "nepali-temple-hajipur-bihar",
+    "name": "Nepali Temple, Hajipur",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Nepali Temple, Hajipur is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hajipur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "nishan-singh-martyr-memorial-amp-cemetery-bihar",
+    "name": "Nishan Singh Martyr Memorial &amp; Cemetery",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Nishan Singh Martyr Memorial &amp; Cemetery is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in West Champaran, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2384,6 +4132,9 @@
     "description": "Noori Masjid is a mosque in Patna, Bihar.",
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2398,13 +4149,16 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
     "id": "padri-ki-haveli-bihar",
     "name": "Padri Ki Haveli",
     "state": "Bihar",
-    "category": "heritage",
+    "category": "spiritual",
     "description": "Padri Ki Haveli is a building in India.",
     "coordinates": {
       "lat": 25.611,
@@ -2412,6 +4166,12 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1713.",
+      "Built in the American colonial architecture style.",
+      "Associated with Catholicism.",
+      "Lies in Patna, Bihar."
     ]
   },
   {
@@ -2426,6 +4186,26 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "panchet-dam-bihar",
+    "name": "Panchet Dam",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Panchet Dam is a dam in West Bengal, India.",
+    "coordinates": {
+      "lat": 23.67806,
+      "lon": 86.74694
+    },
+    "facts": [
+      "Dates from 6 December 1959.",
+      "Set on Damodar River.",
+      "Rises about 45 m.",
+      "Lies in Dhanbad district, Bihar."
     ]
   },
   {
@@ -2436,6 +4216,9 @@
     "description": "Panchmukhi Mahadev Sthan is a lord Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2451,6 +4234,9 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -2465,6 +4251,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Nalanda district, Bihar."
     ]
   },
   {
@@ -2475,6 +4264,9 @@
     "description": "Panth Pakar is a legend place of Ramayana in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2489,6 +4281,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Arrah, Bihar."
     ]
   },
   {
@@ -2499,6 +4294,9 @@
     "description": "Parshuram Mandir, Mokama is a parshuram temple in Bihar.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2513,6 +4311,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Vaishali district, Bihar."
     ]
   },
   {
@@ -2524,6 +4325,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2538,6 +4342,27 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Dates from 490.",
+      "Founded by Ajatasatru.",
+      "Stands at about 53 m elevation.",
+      "Lies in Patna district, Bihar."
+    ]
+  },
+  {
+    "id": "patalpuri-cave-and-land-adjoining-bateshwar-sthan-cave-on-the-patharghata-hill-bihar",
+    "name": "Patalpuri cave and land adjoining Bateshwar Sthan cave on the Patharghata hill",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Patalpuri cave and land adjoining Bateshwar Sthan cave on the Patharghata hill is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Madhorampur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2552,6 +4377,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2566,6 +4394,52 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1621.",
+      "Built in the Indo-Islamic architecture style.",
+      "Lies in Patna, Bihar."
+    ]
+  },
+  {
+    "id": "patna-bihar",
+    "name": "Patna",
+    "state": "Bihar",
+    "category": "wildlife",
+    "description": "Patna is a metropolis and state capital of Bihar, India.",
+    "coordinates": {
+      "lat": 25.61,
+      "lon": 85.14139
+    },
+    "tags": [
+      "temple",
+      "mosque",
+      "church",
+      "museum"
+    ],
+    "facts": [
+      "Founded by Ajatasatru.",
+      "Set beside Ganges.",
+      "Stands at about 58 m elevation.",
+      "Covers about 99.5 km².",
+      "Lies in Patna district, Bihar."
+    ]
+  },
+  {
+    "id": "patna-city-bihar",
+    "name": "Patna City",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Patna City is a neighborhood in Patna, Bihar, India.",
+    "coordinates": {
+      "lat": 25.58611,
+      "lon": 85.18444
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Lies in Patna, Bihar."
     ]
   },
   {
@@ -2573,7 +4447,10 @@
     "name": "Patna Golf Club",
     "state": "Bihar",
     "category": "other",
-    "description": "Patna Golf Club is a golf course in Patna, India."
+    "description": "Patna Golf Club is a golf course in Patna, India.",
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
   },
   {
     "id": "patna-museum-bihar",
@@ -2587,6 +4464,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1917.",
+      "About 800,119 visits in a recorded year."
     ]
   },
   {
@@ -2598,7 +4479,10 @@
     "coordinates": {
       "lat": 25.59651,
       "lon": 85.0993
-    }
+    },
+    "facts": [
+      "Dates from 1973."
+    ]
   },
   {
     "id": "phulhar-bihar",
@@ -2612,6 +4496,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2621,15 +4508,43 @@
     "category": "heritage",
     "description": "Pillars of Ashoka is a series of columns in the Indian subcontinent, inscribed with edicts by Mauryan king Ashoka.",
     "tags": [
+      "world-heritage",
       "archaeological-site"
+    ],
+    "facts": [
+      "Named after Ashoka.",
+      "Part of Edicts of Ashoka."
     ]
   },
   {
-    "id": "protected-areas-of-bihar-bihar",
-    "name": "Protected areas of Bihar",
+    "id": "pillars-of-ashoka-pillars-at-lauriya-areraj-and-lauriya-nandangarh-ashoka-column-known-as-laur-pillar-bihar",
+    "name": "[[Pillars of Ashoka#Pillars at Lauriya-Areraj and Lauriya-Nandangarh|Ashoka column known as Laur pillar]]",
     "state": "Bihar",
-    "category": "other",
-    "description": "Protected areas of Bihar is a protected area in Bihar, India."
+    "category": "heritage",
+    "description": "[[Pillars of Ashoka#Pillars at Lauriya-Areraj and Lauriya-Nandangarh|Ashoka column known as Laur pillar]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lauriya Araraj, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "pretshila-hill-bagdi-chiraiya-road-bahadur-bigha-bihar",
+    "name": "Pretshila Hill (Bagdi Chiraiya Road, Bahadur Bigha)",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Pretshila Hill (Bagdi Chiraiya Road, Bahadur Bigha) is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gaya, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "punaura-dham-bihar",
@@ -2643,6 +4558,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Sitamarhi district, Bihar."
     ]
   },
   {
@@ -2653,6 +4571,9 @@
     "description": "Pundakeshwar Mahadev Mandir is a lord Shiva temple in Mithila established by Pundrika Rishi.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2663,6 +4584,9 @@
     "description": "Purandevi Mandir is a bhagwati temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2677,6 +4601,56 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "raghopur-vaishali-bihar",
+    "name": "Raghopur, Vaishali",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Raghopur, Vaishali is a CD block in Vaishali district of Bihar, India.",
+    "coordinates": {
+      "lat": 25.56,
+      "lon": 85.35
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 46 m elevation.",
+      "Lies in Vaishali district, Bihar."
+    ]
+  },
+  {
+    "id": "raj-darbhanga-bihar",
+    "name": "Raj Darbhanga",
+    "state": "Bihar",
+    "category": "other",
+    "description": "Raj Darbhanga is a maithil dynasty of Zamindars.",
+    "coordinates": {
+      "lat": 26.157,
+      "lon": 85.89951
+    },
+    "facts": [
+      "Dates from 1557."
+    ]
+  },
+  {
+    "id": "raja-vishal-ka-garh-bihar",
+    "name": "Raja Vishal ka Garh",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Raja Vishal ka Garh is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Vaishali, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2691,6 +4665,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Bihar."
     ]
   },
   {
@@ -2705,6 +4682,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -2720,6 +4700,10 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 73 m elevation.",
+      "Lies in Nalanda district, Bihar."
     ]
   },
   {
@@ -2734,6 +4718,9 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2741,7 +4728,10 @@
     "name": "Rajgir Zoo Safari",
     "state": "Bihar",
     "category": "wildlife",
-    "description": "Rajgir Zoo Safari is a zoo in Bihar, India."
+    "description": "Rajgir Zoo Safari is a zoo in Bihar, India.",
+    "facts": [
+      "Known as a wildlife destination in Bihar."
+    ]
   },
   {
     "id": "rajnagar-kali-mandir-bihar",
@@ -2751,6 +4741,9 @@
     "description": "Rajnagar Kali Mandir is a kali Mandir in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2765,6 +4758,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Vaishali district, Bihar."
     ]
   },
   {
@@ -2772,7 +4768,10 @@
     "name": "Ramna Maidan",
     "state": "Bihar",
     "category": "other",
-    "description": "Ramna Maidan is a park located in Arrah, Bhojpur District, Bihar, India."
+    "description": "Ramna Maidan is a park located in Arrah, Bhojpur District, Bihar, India.",
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
   },
   {
     "id": "rampurva-capitals-bihar",
@@ -2786,10 +4785,45 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
-    "id": "relic-stupa-of-vaishali-bihar",
+    "id": "ramshila-hill-gaya-bihar",
+    "name": "Ramshila Hill, Gaya",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ramshila Hill, Gaya is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gaya, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rani-sati-mandir-mahuda-bihar",
+    "name": "Rani Sati Mandir Mahuda",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Rani Sati Mandir Mahuda is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.75059,
+      "lon": 86.26942
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Dhanbad district, Bihar."
+    ]
+  },
+  {
+    "id": "relic-stupa-of-vaishali-bihar-q130265602",
     "name": "Relic Stupa of Vaishali",
     "state": "Bihar",
     "category": "spiritual",
@@ -2800,6 +4834,87 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Vaishali district, Bihar.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Harpur Basant Vaishali, Bihar."
+    ]
+  },
+  {
+    "id": "remains-of-ancient-city-bihar",
+    "name": "Remains of Ancient city",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Remains of Ancient city is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Manjhi, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "remains-of-ancient-fort-or-pachrukhi-garh-locally-known-as-raja-bali-ka-garh-bihar",
+    "name": "Remains of ancient fort or Pachrukhi Garh locally known as Raja Bali Ka Garh",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Remains of ancient fort or Pachrukhi Garh locally known as Raja Bali Ka Garh is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Balirajgarh, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "remains-of-wooden-foundations-and-ancient-mauryan-walls-bihar",
+    "name": "Remains of wooden foundations and ancient Mauryan walls",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Remains of wooden foundations and ancient Mauryan walls is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sandalpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rock-sculptures-bihar",
+    "name": "Rock sculptures",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Rock sculptures is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patharghatta Hill, Madhorampur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rock-temple-bihar",
+    "name": "Rock Temple",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Rock Temple is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kahalgaon, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2815,6 +4930,55 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Rohtas district, Bihar."
+    ]
+  },
+  {
+    "id": "rohtasgarh-fort-bihar",
+    "name": "Rohtasgarh fort",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Rohtasgarh fort is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in [[Rohtas Fort, India#Location|Rohtasgarh]], Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruined-fortress-at-nandangarh-and-the-rampart-of-the-fort-bihar",
+    "name": "Ruined fortress at Nandangarh and the rampart of the fort",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ruined fortress at Nandangarh and the rampart of the fort is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Marhia, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruined-fortress-chankigarh-bihar",
+    "name": "Ruined fortress, Chankigarh",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Ruined fortress, Chankigarh is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chanki, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2822,7 +4986,48 @@
     "name": "Sadaqat Ashram",
     "state": "Bihar",
     "category": "spiritual",
-    "description": "Sadaqat Ashram is an ashram in Patna."
+    "description": "Sadaqat Ashram is an ashram in Patna.",
+    "facts": [
+      "Recognised as Gandhi Heritage Site.",
+      "Founded by Mahatma Gandhi.",
+      "Lies in Patna, Bihar."
+    ]
+  },
+  {
+    "id": "saharsa-bihar",
+    "name": "Saharsa",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Saharsa is a city in Bihar, India.",
+    "coordinates": {
+      "lat": 25.88,
+      "lon": 86.6
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 41 m elevation.",
+      "Lies in Saharsa district, Bihar."
+    ]
+  },
+  {
+    "id": "samastipur-bihar",
+    "name": "Samastipur",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Samastipur is a city.",
+    "coordinates": {
+      "lat": 25.85,
+      "lon": 85.76667
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 38 m elevation.",
+      "Lies in Samastipur district, Bihar."
+    ]
   },
   {
     "id": "sankat-mochan-mandir-nawada-bihar",
@@ -2832,6 +5037,9 @@
     "description": "Sankat Mochan Mandir Nawada is a temple in Nawada, Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2848,6 +5056,9 @@
       "cave",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Nalanda district, Bihar."
     ]
   },
   {
@@ -2862,6 +5073,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2872,18 +5086,99 @@
     "description": "Saraswarnath Mahadev Mandir is an ancient Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "sasaram-minor-rock-edict-of-ashoka-ashokan-inscription-on-the-chandan-shahid-hill-bihar",
+    "name": "[[Sasaram#Minor Rock Edict of Ashoka|Ashokan inscription on the Chandan Shahid hill]]",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "[[Sasaram#Minor Rock Edict of Ashoka|Ashokan inscription on the Chandan Shahid hill]] is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ashikpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sculpture-and-images-bihar",
+    "name": "Sculpture and Images",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Sculpture and Images is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Datiana, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sculptures-of-four-hindu-deities-one-on-each-side-of-an-oblong-isolated-boulder-to-the-east-of-the-kauwadol-hill-bihar",
+    "name": "Sculptures of four Hindu deities one on each side of an oblong isolated boulder to the east of the Kauwadol Hill",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Sculptures of four Hindu deities one on each side of an oblong isolated boulder to the east of the Kauwadol Hill is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kurisarai, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sculptures-of-various-hindu-deities-carved-on-the-northern-eastern-faces-of-some-rocks-of-kauwadol-hill-bihar",
+    "name": "Sculptures of various Hindu deities carved on the northern-eastern faces of some rocks of Kauwadol Hill",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Sculptures of various Hindu deities carved on the northern-eastern faces of some rocks of Kauwadol Hill is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kurisarai, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sculptures-of-various-hindu-deities-carved-on-the-southern-and-eastern-faces-of-some-rocks-and-boulders-of-kauwadol-hill-bihar",
+    "name": "Sculptures of various Hindu deities carved on the southern and eastern faces of some rocks and boulders of Kauwadol Hill",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Sculptures of various Hindu deities carved on the southern and eastern faces of some rocks and boulders of Kauwadol Hill is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kurisarai, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "shaheed-smarak-patna-bihar",
     "name": "Shaheed Smarak Patna",
     "state": "Bihar",
-    "category": "other",
+    "category": "heritage",
     "description": "Shaheed Smarak Patna is a life-size statue of seven young men who sacrificed their lives in the Quit India movement (August 1942).",
     "coordinates": {
       "lat": 25.60799,
       "lon": 85.16752
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
   },
   {
     "id": "sher-shah-suri-mosque-bihar",
@@ -2897,6 +5192,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1545."
     ]
   },
   {
@@ -2911,6 +5209,26 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Set beside Durgavati River.",
+      "Lies in Rohtas district, Bihar."
+    ]
+  },
+  {
+    "id": "shergarh-fort-sabzibagh-sasaram-bihar",
+    "name": "Shergarh Fort (Sabzibagh, Sasaram)",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Shergarh Fort (Sabzibagh, Sasaram) is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sasaram/Rohtas, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2925,6 +5243,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2939,6 +5260,26 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "shravani-mela-bihar",
+    "name": "Shravani Mela",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Shravani Mela is a hindu pilgrimage and festival in India.",
+    "coordinates": {
+      "lat": 24.4925,
+      "lon": 86.7
+    },
+    "tags": [
+      "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2949,6 +5290,9 @@
     "description": "Shri Adinath Akhara is an ashram in Buxar District, Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -2960,7 +5304,10 @@
     "coordinates": {
       "lat": 25.6203,
       "lon": 85.147
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
   },
   {
     "id": "shrikrishna-science-centre-bihar",
@@ -2974,6 +5321,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1978.",
+      "About 158,822 visits in a recorded year.",
+      "Lies in Gandhi Maidan Marg, Bihar."
     ]
   },
   {
@@ -2988,6 +5340,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3002,6 +5357,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3016,6 +5374,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "simaria-ghat-bihar",
+    "name": "Simaria Ghat",
+    "state": "Bihar",
+    "category": "nature",
+    "description": "Simaria Ghat is a sacred Ghat for Ganga Snaana in Mithila.",
+    "coordinates": {
+      "lat": 25.3793,
+      "lon": 86.00262
+    },
+    "facts": [
+      "Known as a nature destination in Bihar."
+    ]
+  },
+  {
+    "id": "singheshwar-community-development-block-bihar",
+    "name": "Singheshwar (community development block)",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Singheshwar (community development block) is a community development block in Bihar, India.",
+    "coordinates": {
+      "lat": 25.9861,
+      "lon": 86.795
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Madhepura subdivision, Bihar."
     ]
   },
   {
@@ -3030,6 +5422,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Singheshwar Block, Bihar."
     ]
   },
   {
@@ -3044,6 +5439,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1924."
     ]
   },
   {
@@ -3059,6 +5457,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Sitamarhi district, Bihar."
     ]
   },
   {
@@ -3074,6 +5475,9 @@
     "tags": [
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Built in the rock-cut architecture style."
     ]
   },
   {
@@ -3084,6 +5488,9 @@
     "description": "Sitamarhi Mandir is a temple in Bihar.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3094,6 +5501,9 @@
     "description": "Sitapuram is a proposed city in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3108,21 +5518,26 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
-    "id": "son-bhandar-caves-bihar",
-    "name": "Son Bhandar Caves",
+    "id": "sonbarsa-raj-bihar",
+    "name": "Sonbarsa Raj",
     "state": "Bihar",
-    "category": "nature",
-    "description": "Son Bhandar Caves is a two man-made caves in Bihar, India.",
+    "category": "offbeat",
+    "description": "Sonbarsa Raj is a village in Bihar, India.",
     "coordinates": {
-      "lat": 25.03,
-      "lon": 85.42
+      "lat": 25.41,
+      "lon": 86.42
     },
     "tags": [
-      "cave",
-      "archaeological-site"
+      "palace"
+    ],
+    "facts": [
+      "Lies in Saharsa district, Bihar."
     ]
   },
   {
@@ -3137,6 +5552,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3151,6 +5569,24 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "statue-of-buddha-rukmini-sthan-nalanda-bihar",
+    "name": "Statue of Buddha (Rukmini Sthan Nalanda)",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Statue of Buddha (Rukmini Sthan Nalanda) is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagdishpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3162,7 +5598,14 @@
     "coordinates": {
       "lat": 25.61861,
       "lon": 85.1425
-    }
+    },
+    "facts": [
+      "Dates from 2012.",
+      "Opened in 15 February 2013.",
+      "Created by Ram Vanji Sutar.",
+      "Named after Mahatma Gandhi.",
+      "Lies in Patna, Bihar."
+    ]
   },
   {
     "id": "statue-of-vasupujya-bihar",
@@ -3176,10 +5619,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Champapur, Bihar."
     ]
   },
   {
-    "id": "sujata-stupa-bihar",
+    "id": "sujata-stupa-bihar-q19284999",
     "name": "Sujata Stupa",
     "state": "Bihar",
     "category": "spiritual",
@@ -3190,6 +5636,12 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Gaya district, Bihar.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Bakraur, Bihar."
     ]
   },
   {
@@ -3197,7 +5649,25 @@
     "name": "Sultanganj Buddha",
     "state": "Bihar",
     "category": "other",
-    "description": "Sultanganj Buddha is a largest copper Buddha statue of the world."
+    "description": "Sultanganj Buddha is a largest copper Buddha statue of the world.",
+    "facts": [
+      "Dates from the 5th century."
+    ]
+  },
+  {
+    "id": "sun-temple-mauza-kandaha-mahyasa-mahishi-bihar",
+    "name": "Sun Temple, Mauza Kandaha, Mahyasa Mahishi",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Sun Temple, Mauza Kandaha, Mahyasa Mahishi is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Saharsa, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "sundernath-bihar",
@@ -3211,6 +5681,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3225,6 +5698,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3235,18 +5711,69 @@
     "description": "Swarna Rani Mandir, Sursand is a hindu temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
     "id": "takht-sri-patna-sahib-bihar",
     "name": "Takht Sri Patna Sahib",
     "state": "Bihar",
-    "category": "other",
+    "category": "spiritual",
     "description": "Takht Sri Patna Sahib is an one of the 5 Thakts of Sikhism in Patna, Bihar, India.",
     "coordinates": {
       "lat": 25.59606,
       "lon": 85.23006
-    }
+    },
+    "facts": [
+      "Dates from 19 November 1954.",
+      "Lies in Patna district, Bihar."
+    ]
+  },
+  {
+    "id": "tank-bihar",
+    "name": "Tank",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Tank is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Maner, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "taradih-mastipur-bodh-gaya-bihar",
+    "name": "Taradih (Mastipur) Bodh Gaya",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Taradih (Mastipur) Bodh Gaya is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gaya, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tata-steel-zoological-park-bihar",
+    "name": "Tata Steel Zoological Park",
+    "state": "Bihar",
+    "category": "wildlife",
+    "description": "Tata Steel Zoological Park is a zoo in Jharkhand, India.",
+    "coordinates": {
+      "lat": 22.81461,
+      "lon": 86.19593
+    },
+    "facts": [
+      "Lies in Jamshedpur, Bihar."
+    ]
   },
   {
     "id": "telhar-bihar",
@@ -3260,6 +5787,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Kaimur district, Bihar."
     ]
   },
   {
@@ -3274,6 +5804,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "temple-of-mundeswari-devi-bihar",
+    "name": "Temple of Mundeswari Devi",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Temple of Mundeswari Devi is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Paura, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3284,6 +5832,101 @@
     "description": "Thaneshwar Temple is a hindu temple in Samastipur, Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "thawe-mandir-bihar",
+    "name": "Thawe Mandir",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Thawe Mandir is a hindu temple in India.",
+    "coordinates": {
+      "lat": 26.42917,
+      "lon": 84.39444
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "the-area-generally-known-as-garh-is-the-site-of-an-ancient-buddhist-monasteryand-chaityas-a-shiva-temple-and-a-tank-bihar",
+    "name": "The area generally known as ‘Garh’ is the site of an ancient Buddhist monasteryand chaityas, a Shiva temple and a tank",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "The area generally known as ‘Garh’ is the site of an ancient Buddhist monasteryand chaityas, a Shiva temple and a tank is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kurkihar, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-grove-known-as-bulandibagh-bihar",
+    "name": "The grove known as “Bulandibagh”",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "The grove known as “Bulandibagh” is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bulandipur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-mound-or-stupa-known-as-chhoti-paharai-bihar",
+    "name": "The mound or stupa known as “Chhoti Paharai”",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "The mound or stupa known as “Chhoti Paharai” is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chhoti Pahari, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-whole-of-the-ancient-ruins-on-which-there-are-a-colossal-statue-of-buddha-a-few-loose-sculptures-and-thirteen-sandstone-pillars-bihar",
+    "name": "The whole of the ancient ruins on which there are a colossal statue of Buddha, a few loose sculptures and thirteen sandstone pillars",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "The whole of the ancient ruins on which there are a colossal statue of Buddha, a few loose sculptures and thirteen sandstone pillars is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kurisarai, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "three-rock-inscriptions-adjacent-to-tara-chandi-temple-bihar",
+    "name": "Three rock inscriptions (Adjacent to Tara Chandi temple)",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Three rock inscriptions (Adjacent to Tara Chandi temple) is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sasaram, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3298,6 +5941,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Pratapganj block, Bihar."
+    ]
+  },
+  {
+    "id": "tomb-of-alabal-khan-sasaram-bihar",
+    "name": "Tomb of Alabal Khan, Sasaram",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Tomb of Alabal Khan, Sasaram is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sasaram/Rohtas, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-bakhtiar-khan-bihar",
+    "name": "Tomb of Bakhtiar Khan",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Tomb of Bakhtiar Khan is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Malik Sarai, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3309,10 +5985,14 @@
     "coordinates": {
       "lat": 25.03085,
       "lon": 83.48851
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Kaimur district, Bihar."
+    ]
   },
   {
-    "id": "tomb-of-hasan-khan-suri-bihar",
+    "id": "tomb-of-hasan-khan-suri-bihar-q19342237",
     "name": "Tomb of Hasan Khan Suri",
     "state": "Bihar",
     "category": "heritage",
@@ -3320,7 +6000,73 @@
     "coordinates": {
       "lat": 24.94868,
       "lon": 84.01444
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Rohtas district, Bihar.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Sasaram, Bihar."
+    ]
+  },
+  {
+    "id": "tomb-of-mahmudshah-kahalgaon-bihar",
+    "name": "Tomb of Mahmudshah, Kahalgaon",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Tomb of Mahmudshah, Kahalgaon is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhagalpur, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-malik-ibrahim-bayu-bihar",
+    "name": "Tomb of Malik Ibrahim Bayu",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Tomb of Malik Ibrahim Bayu is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bihar Sharif, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-shah-makhadum-daulat-maneri-and-ibrahim-khan-bihar",
+    "name": "Tomb of Shah Makhadum Daulat Maneri and Ibrahim Khan",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Tomb of Shah Makhadum Daulat Maneri and Ibrahim Khan is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Maner, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-shamsher-khan-bihar",
+    "name": "Tomb of Shamsher Khan",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Tomb of Shamsher Khan is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shamshernagar, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-shamsher-khan-shamshernagar-bihar",
@@ -3331,10 +6077,13 @@
     "coordinates": {
       "lat": 25.09047,
       "lon": 84.45949
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
   },
   {
-    "id": "tomb-of-sher-shah-suri-bihar",
+    "id": "tomb-of-sher-shah-suri-bihar-q7818641",
     "name": "Tomb of Sher Shah Suri",
     "state": "Bihar",
     "category": "heritage",
@@ -3342,7 +6091,15 @@
     "coordinates": {
       "lat": 24.94806,
       "lon": 84.00917
-    }
+    },
+    "facts": [
+      "Dates from 1540.",
+      "Recognised as Monument of National Importance.",
+      "Named after Sher Shah Suri.",
+      "Lies in Rohtas district, Bihar.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Sasaram, Bihar."
+    ]
   },
   {
     "id": "tyaunth-garh-bihar",
@@ -3352,6 +6109,9 @@
     "description": "Tyaunth Garh is a hindu tirtha in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3366,6 +6126,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Madhubani district, Bihar."
     ]
   },
   {
@@ -3380,6 +6143,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Bihar."
     ]
   },
   {
@@ -3390,6 +6156,9 @@
     "description": "Ugna Mahadev, Bhawanipur is a hindu temple in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3400,6 +6169,9 @@
     "description": "Ugratara Sthan is a shaktipeetha in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3410,6 +6182,9 @@
     "description": "Umga Sun Temple is a sun temples in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3424,6 +6199,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3434,6 +6212,9 @@
     "description": "Uttra is an archaeological village in Mithila.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -3444,6 +6225,9 @@
     "description": "Vachaspati Nath Mahadev Mandir is an ancient Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3454,17 +6238,23 @@
     "description": "Vachaspati Sangrahālaya is a museum in Mithila region.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
     "id": "vadathika-cave-inscription-bihar",
     "name": "Vadathika Cave Inscription",
     "state": "Bihar",
-    "category": "nature",
+    "category": "heritage",
     "description": "Vadathika Cave Inscription is a hill cave in Gaya district.",
     "tags": [
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Bihar."
     ]
   },
   {
@@ -3478,9 +6268,14 @@
       "lon": 85.12559
     },
     "tags": [
+      "world-heritage",
       "monastery",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Named after King Vishal.",
+      "Lies in Vaishali district, Bihar."
     ]
   },
   {
@@ -3491,6 +6286,9 @@
     "description": "Valmikeshwar Nath Mahadev Mandir is a hindu temple in Bihar, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3505,8 +6303,10 @@
     },
     "tags": [
       "national-park",
-      "wildlife-sanctuary",
-      "tiger-reserve"
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1990."
     ]
   },
   {
@@ -3521,6 +6321,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bihta, Bihar."
     ]
   },
   {
@@ -3535,6 +6338,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3545,6 +6351,26 @@
     "description": "Vardhmaneshwar Nath Mahadev Mandir is a lord Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
+  },
+  {
+    "id": "vedic-burial-mounds-bihar",
+    "name": "Vedic burial mounds",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Vedic burial mounds is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lauriya Nandangarh, Bihar.",
+      "Lies in Marhia, Bihar.",
+      "Lies in Pakri, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3555,6 +6381,10 @@
     "description": "Veer Kunwar Singh Museum is a museum in Bhojpur.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Named after Kunwar Singh.",
+      "Lies in Bhojpur district, Bihar."
     ]
   },
   {
@@ -3565,6 +6395,9 @@
     "description": "Videshwarnath Mahadev Mandir is a lord Shiva temple in Mithila.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3575,14 +6408,20 @@
     "description": "Vidyapati Dham is a lord Shiva temple in Mithila related to Vidyapati.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
     "id": "vidyapati-tower-benipatti-bihar",
     "name": "Vidyapati Tower, Benipatti",
     "state": "Bihar",
-    "category": "other",
-    "description": "Vidyapati Tower, Benipatti is an iconic tower dedicated to Vidyapati at Benipatti town."
+    "category": "heritage",
+    "description": "Vidyapati Tower, Benipatti is an iconic tower dedicated to Vidyapati at Benipatti town.",
+    "facts": [
+      "Known as a heritage destination in Bihar."
+    ]
   },
   {
     "id": "vikramshila-gangetic-dolphin-sanctuary-bihar",
@@ -3593,7 +6432,10 @@
     "coordinates": {
       "lat": 25.26961,
       "lon": 87.02631
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Bihar."
+    ]
   },
   {
     "id": "vikramshila-setu-bihar",
@@ -3604,7 +6446,10 @@
     "coordinates": {
       "lat": 25.37561,
       "lon": 85.99831
-    }
+    },
+    "facts": [
+      "Dates from 2001."
+    ]
   },
   {
     "id": "viraat-ramayan-mandir-bihar",
@@ -3618,6 +6463,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in East Champaran District, Bihar."
     ]
   },
   {
@@ -3628,6 +6476,9 @@
     "description": "Vishnu Statue, Bairwa, Madhwapur is a lord Vishnu Statue in Madhwapur, Madhubani.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3642,6 +6493,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 2014.",
+      "Lies in Supaul district, Bihar."
     ]
   },
   {
@@ -3656,6 +6511,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Siwan district, Bihar."
     ]
   },
   {
@@ -3670,6 +6528,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Gaya district, Bihar."
+    ]
+  },
+  {
+    "id": "vishnupad-temple-gaya-bihar",
+    "name": "Vishnupad Temple, Gaya",
+    "state": "Bihar",
+    "category": "spiritual",
+    "description": "Vishnupad Temple, Gaya is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gaya, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3681,7 +6558,10 @@
     "coordinates": {
       "lat": 25.0045,
       "lon": 85.44459
-    }
+    },
+    "facts": [
+      "Lies in Nalanda district, Bihar."
+    ]
   },
   {
     "id": "vishwambharnath-mahadev-mandir-bihar",
@@ -3691,6 +6571,9 @@
     "description": "Vishwambharnath Mahadev Mandir is a lord Shiva temple in Benipatti Town.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3702,7 +6585,26 @@
     "coordinates": {
       "lat": 25.00167,
       "lon": 85.44639
-    }
+    },
+    "facts": [
+      "Part of Rajgir hills.",
+      "Lies in Nalanda district, Bihar."
+    ]
+  },
+  {
+    "id": "walls-of-the-two-ancient-cities-known-as-old-and-new-rajgriha-bihar",
+    "name": "Walls of the two ancient cities known as old and new Rajgriha",
+    "state": "Bihar",
+    "category": "heritage",
+    "description": "Walls of the two ancient cities known as old and new Rajgriha is a protected monument in Bihar, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rajgir, Bihar."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "wat-thai-buddhagaya-bihar",
@@ -3716,6 +6618,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Bihar."
     ]
   },
   {
@@ -3727,6 +6632,9 @@
     "coordinates": {
       "lat": 26.36711,
       "lon": 85.8372
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Bihar."
+    ]
   }
 ]

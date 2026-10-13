@@ -3,14 +3,20 @@
     "id": "aizawl-mizoram",
     "name": "Aizawl",
     "state": "Mizoram",
-    "category": "other",
+    "category": "hill-station",
     "description": "Aizawl is a capital of Mizoram, India.",
     "coordinates": {
       "lat": 23.73333,
       "lon": 92.71667
     },
     "tags": [
-      "hill-station"
+      "hill-station",
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 1,132 m elevation.",
+      "Covers about 457 km².",
+      "Lies in Aizawl district, Mizoram."
     ]
   },
   {
@@ -25,6 +31,130 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1909.",
+      "Part of list of mosques in Mizoram.",
+      "Lies in Aizawl, Mizoram."
+    ]
+  },
+  {
+    "id": "barak-river-mizoram",
+    "name": "Barak River",
+    "state": "Mizoram",
+    "category": "nature",
+    "description": "Barak River is a river in India.",
+    "coordinates": {
+      "lat": 24.87611,
+      "lon": 92.48917
+    },
+    "facts": [
+      "Known as a nature destination in Mizoram."
+    ]
+  },
+  {
+    "id": "bawrhsap-office-mizoram",
+    "name": "Bawrhsap Office",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Bawrhsap Office is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "buizova-zaina-sunhlu-kung-mizoram",
+    "name": "Buizova Zaina Sunhlu Kung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Buizova Zaina Sunhlu Kung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "capt-t-h-lewin-lungphun-mizoram",
+    "name": "Capt. T.H. Lewin Lungphun",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Capt. T.H. Lewin Lungphun is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chawngvungi-thlan-mizoram",
+    "name": "Chawngvungi thlan",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Chawngvungi thlan is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chhura-chi-rawt-lung-mizoram",
+    "name": "Chhura Chi Rawt Lung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Chhura Chi Rawt Lung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chhura-farep-mizoram",
+    "name": "Chhura farep",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Chhura farep is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chhura-leh-na-a-vawk-mizoram",
+    "name": "Chhura leh Na-a Vawk",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Chhura leh Na-a Vawk is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -39,6 +169,24 @@
     },
     "tags": [
       "tiger-reserve"
+    ],
+    "facts": [
+      "Stands at about 606 m elevation."
+    ]
+  },
+  {
+    "id": "dullai-sial-mizoram",
+    "name": "Dullai Sial",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Dullai Sial is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -49,6 +197,9 @@
     "description": "Evangelical Church of Maraland is a christian denomination in India.",
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Mizoram."
     ]
   },
   {
@@ -60,7 +211,76 @@
     "coordinates": {
       "lat": 23.44989,
       "lon": 92.75769
-    }
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Set on Lushai hills.",
+      "Part of Lushai hills.",
+      "Stands at about 1,619 m elevation.",
+      "Lies in Aizawl district, Mizoram."
+    ]
+  },
+  {
+    "id": "hualtungamtawna-uino-neihna-mizoram",
+    "name": "Hualtungamtawna uino neihna",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Hualtungamtawna uino neihna is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kawilam-chhir-kawn-mizoram",
+    "name": "Kawilam Chhir-kawn",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Kawilam Chhir-kawn is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kawtchhuah-ropui-mizoram",
+    "name": "Kawtchhuah Ropui",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Kawtchhuah Ropui is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "keilami-grave-mizoram",
+    "name": "Keilami grave",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Keilami grave is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "khawnglung-wildlife-sanctuary-mizoram",
@@ -74,6 +294,54 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Mizoram."
+    ]
+  },
+  {
+    "id": "khuangchera-puk-mizoram",
+    "name": "Khuangchera Puk",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Khuangchera Puk is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kungawrhi-puk-mizoram",
+    "name": "Kungawrhi Puk",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Kungawrhi Puk is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lalnu-tialpari-lung-mizoram",
+    "name": "Lalnu Tialpari Lung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lalnu Tialpari Lung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -85,7 +353,40 @@
     "coordinates": {
       "lat": 23.67161,
       "lon": 92.71808
-    }
+    },
+    "facts": [
+      "Stands at about 1,179 m elevation."
+    ]
+  },
+  {
+    "id": "lalthangpull-lung-mizoram",
+    "name": "Lalthangpull Lung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lalthangpull Lung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lamsial-puk-mizoram",
+    "name": "Lamsial Puk",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lamsial Puk is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "lengteng-wildlife-sanctuary-mizoram",
@@ -99,20 +400,238 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Mizoram."
     ]
   },
   {
-    "id": "mizo-conference-of-seventh-day-adventist-mizoram",
-    "name": "Mizo Conference of Seventh-day Adventist",
+    "id": "lianchhiari-lunglen-tlang-mizoram",
+    "name": "Lianchhiari Lunglen Tlang",
     "state": "Mizoram",
-    "category": "spiritual",
-    "description": "Mizo Conference of Seventh-day Adventist is a seventh-day Adventist conference in Mizoram, India.",
+    "category": "heritage",
+    "description": "Lianchhiari Lunglen Tlang is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lianchhiari-puantahna-mizoram",
+    "name": "Lianchhiari Puantahna",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lianchhiari Puantahna is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lianpuihmun-mizoram",
+    "name": "Lianpuihmun",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lianpuihmun is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lung-leihlawn-mizoram",
+    "name": "Lung leihlawn",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lung leihlawn is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lung-milem-mizoram",
+    "name": "Lung milem",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lung milem is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lungkeiphawtial-mizoram",
+    "name": "Lungkeiphawtial",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lungkeiphawtial is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lungkulh-mizoram",
+    "name": "Lungkulh",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lungkulh is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lunglei-mizoram",
+    "name": "Lunglei",
+    "state": "Mizoram",
+    "category": "hill-station",
+    "description": "Lunglei is a town in Lunglei district, Mizoram, India.",
     "coordinates": {
-      "lat": 23.737,
-      "lon": 92.708
+      "lat": 22.88657,
+      "lon": 92.7451
     },
     "tags": [
-      "church"
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 722 m elevation.",
+      "Covers about 44 km².",
+      "Lies in Lunglei district, Mizoram."
+    ]
+  },
+  {
+    "id": "lungleng-lal-khamliana-sailo-in-mizoram",
+    "name": "Lungleng Lal Khamliana Sailo in",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lungleng Lal Khamliana Sailo in is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lungpher-puk-mizoram",
+    "name": "Lungpher Puk",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lungpher Puk is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lungphunlian-mizoram",
+    "name": "Lungphunlian",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lungphunlian is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lungvando-mizoram",
+    "name": "Lungvando",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Lungvando is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mangkhaia-lung-mizoram",
+    "name": "Mangkhaia Lung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Mangkhaia Lung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "menhirs-and-caves-mizoram",
+    "name": "Menhirs and Caves",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Menhirs and Caves is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Vangchhia, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "missionary-te-in-mizoram",
+    "name": "Missionary te in",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Missionary te in is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -127,6 +646,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 11 January 1894."
     ]
   },
   {
@@ -141,6 +663,25 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from April 1977.",
+      "Lies in Aizawl, Mizoram."
+    ]
+  },
+  {
+    "id": "mura-puk-mizoram",
+    "name": "Mura Puk",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Mura Puk is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -155,6 +696,9 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1991."
     ]
   },
   {
@@ -169,6 +713,39 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Mizoram."
+    ]
+  },
+  {
+    "id": "oldham-lungkher-mizoram",
+    "name": "Oldham Lungkher",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Oldham Lungkher is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "paikhai-bungalow-mizoram",
+    "name": "Paikhai Bungalow",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Paikhai Bungalow is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -183,6 +760,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Mizoram."
+    ]
+  },
+  {
+    "id": "paruallung-mizoram",
+    "name": "Paruallung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Paruallung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -194,7 +789,12 @@
     "coordinates": {
       "lat": 22.73333,
       "lon": 93.13333
-    }
+    },
+    "facts": [
+      "Set on Arakan Mountains.",
+      "Part of Lushai hills.",
+      "Stands at about 2,157 m elevation."
+    ]
   },
   {
     "id": "phawngpui-national-park-mizoram",
@@ -208,6 +808,40 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1992.",
+      "Lies in Saiha district, Mizoram."
+    ]
+  },
+  {
+    "id": "phingnu-amp-phingpa-mizoram",
+    "name": "Phingnu &amp; Phingpa",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Phingnu &amp; Phingpa is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "pi-pu-kawtchhuah-mizoram",
+    "name": "Pi Pu Kawtchhuah",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Pi Pu Kawtchhuah is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -222,6 +856,39 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Mizoram."
+    ]
+  },
+  {
+    "id": "raj-bhawan-mizoram",
+    "name": "Raj Bhawan",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Raj Bhawan is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ralven-puk4-mizoram",
+    "name": "Ralven Puk4",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Ralven Puk4 is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -233,7 +900,61 @@
     "coordinates": {
       "lat": 23.678,
       "lon": 92.603
-    }
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Set on Lushai hills.",
+      "Part of Lushai hills.",
+      "Stands at about 1,548 m elevation.",
+      "Lies in Mamit district, Mizoram."
+    ]
+  },
+  {
+    "id": "reng-dil-mizoram",
+    "name": "Reng Dil",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Reng Dil is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rulchawm-kua-puk-mizoram",
+    "name": "Rulchawm Kua (Puk)",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Rulchawm Kua (Puk) is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sahlam-mizoram",
+    "name": "Sahlam",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Sahlam is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "sakawrhmuituai-mizoram",
@@ -244,7 +965,69 @@
     "coordinates": {
       "lat": 23.85184,
       "lon": 92.74236
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Mizoram."
+    ]
+  },
+  {
+    "id": "serlui-b-dam-mizoram",
+    "name": "Serlui B Dam",
+    "state": "Mizoram",
+    "category": "nature",
+    "description": "Serlui B Dam is a dam in Serlui.",
+    "coordinates": {
+      "lat": 24.33838,
+      "lon": 92.76847
+    },
+    "facts": [
+      "Known as a nature destination in Mizoram."
+    ]
+  },
+  {
+    "id": "sibuta-lung-mizoram",
+    "name": "Sibuta Lung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Sibuta Lung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sikpui-lung-mizoram",
+    "name": "Sikpui Lung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Sikpui Lung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sikpui-lung-raja-laisanga-khua-mizoram",
+    "name": "Sikpui Lung, Raja Laisanga khua",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Sikpui Lung, Raja Laisanga khua is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "solomon-s-temple-aizawl-mizoram",
@@ -259,6 +1042,9 @@
     "tags": [
       "temple",
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Mizoram."
     ]
   },
   {
@@ -273,6 +1059,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Mizoram."
     ]
   },
   {
@@ -287,6 +1076,39 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Mizoram."
+    ]
+  },
+  {
+    "id": "thasiama-seno-neihna-mizoram",
+    "name": "Thasiama Seno neihna",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Thasiama Seno neihna is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "thlanpial-mizoram",
+    "name": "Thlanpial",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Thlanpial is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -301,6 +1123,67 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Mizoram."
+    ]
+  },
+  {
+    "id": "tourism-in-mizoram-mizoram",
+    "name": "Tourism in Mizoram",
+    "state": "Mizoram",
+    "category": "other",
+    "description": "Tourism in Mizoram is a state in Northeast India, India.",
+    "coordinates": {
+      "lat": 23.36,
+      "lon": 92.8
+    },
+    "facts": [
+      "Lies in Northeast India, Mizoram."
+    ]
+  },
+  {
+    "id": "tualvungi-vawkthleng-mizoram",
+    "name": "Tualvungi vawkthleng",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Tualvungi vawkthleng is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tuilut-mizoram",
+    "name": "Tuilut",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Tuilut is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tuirial-dam-mizoram",
+    "name": "Tuirial Dam",
+    "state": "Mizoram",
+    "category": "nature",
+    "description": "Tuirial Dam is a dam in India.",
+    "coordinates": {
+      "lat": 24.3565,
+      "lon": 92.886
+    },
+    "facts": [
+      "Dates from 2017."
     ]
   },
   {
@@ -315,6 +1198,39 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Serchhip district, Mizoram."
+    ]
+  },
+  {
+    "id": "vai-kulh-mizoram",
+    "name": "Vai kulh",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Vai kulh is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "vanhnuailiana-lung-mizoram",
+    "name": "Vanhnuailiana Lung",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Vanhnuailiana Lung is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -322,13 +1238,31 @@
     "name": "Vantawng Falls",
     "state": "Mizoram",
     "category": "nature",
-    "description": "Vantawng Falls is the highest waterfall in Mizoram state of India.",
+    "description": "Vantawng Falls is a highest waterfall in Mizoram state of India.",
     "coordinates": {
       "lat": 23.25692,
       "lon": 92.76246
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Serchhip district, Mizoram."
+    ]
+  },
+  {
+    "id": "zawlpala-thlan-mizoram",
+    "name": "Zawlpala thlan",
+    "state": "Mizoram",
+    "category": "heritage",
+    "description": "Zawlpala thlan is a protected monument in Mizoram, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Mizoram."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   }
 ]

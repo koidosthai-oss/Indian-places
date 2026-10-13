@@ -11,6 +11,23 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
+  },
+  {
+    "id": "agassaim-goa",
+    "name": "Agassaim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Agassaim is a village in Tiswadi, Goa.",
+    "coordinates": {
+      "lat": 15.42639,
+      "lon": 73.89889
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -25,6 +42,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -35,6 +55,39 @@
     "description": "Agrashala is a tourism place in Goa, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "aguada-fort-upper-goa",
+    "name": "Aguada Fort (Upper)",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Aguada Fort (Upper) is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Candolim, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aldona-goa",
+    "name": "Aldona",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Aldona is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.58,
+      "lon": 73.87
+    },
+    "facts": [
+      "Stands at about 19 m elevation.",
+      "Lies in Bardez taluk, Goa."
     ]
   },
   {
@@ -49,6 +102,28 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Lies in Pernem taluk, Goa."
+    ]
+  },
+  {
+    "id": "amona-goa-goa",
+    "name": "Amona, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Amona, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.53333,
+      "lon": 73.98333
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 31 m elevation.",
+      "Lies in Bicholim taluk, Goa."
     ]
   },
   {
@@ -63,6 +138,10 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Arabian Sea.",
+      "Covers about 1.5 km²."
     ]
   },
   {
@@ -77,13 +156,17 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Stands at about 5 m elevation.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
     "id": "arambol-goa",
     "name": "Arambol",
     "state": "Goa",
-    "category": "beach",
+    "category": "offbeat",
     "description": "Arambol is a resort town in Goa, India.",
     "coordinates": {
       "lat": 15.7,
@@ -91,18 +174,57 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Goa."
+    ]
+  },
+  {
+    "id": "arch-of-adil-shahs-palace-goa",
+    "name": "Arch of Adil Shah’s Palace",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Arch of Adil Shah’s Palace is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Goa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "arch-of-the-viceroys-goa",
     "name": "Arch of the Viceroys",
     "state": "Goa",
-    "category": "other",
+    "category": "heritage",
     "description": "Arch of the Viceroys is a velha Goa, Goa, Índia.",
     "coordinates": {
       "lat": 15.50602,
       "lon": 73.91371
-    }
+    },
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Set on Tiswadi taluk.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "arch-of-viceroy-goa",
+    "name": "Arch of Viceroy",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Arch of Viceroy is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Goa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "archaeological-museum-and-portrait-gallery-goa",
@@ -117,6 +239,24 @@
     "tags": [
       "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1964."
+    ]
+  },
+  {
+    "id": "arvalem-rock-cut-caves-goa",
+    "name": "Arvalem rock cut caves",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Arvalem rock cut caves is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Arvalem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -131,6 +271,24 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
+  },
+  {
+    "id": "assagao-goa",
+    "name": "Assagao",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Assagao is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.5975,
+      "lon": 73.77722
+    },
+    "facts": [
+      "Stands at about 8 m elevation.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -142,10 +300,30 @@
     "coordinates": {
       "lat": 15.5,
       "lon": 73.82611
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
   },
   {
-    "id": "basilica-of-bom-jesus-goa",
+    "id": "bardez-taluka-goa",
+    "name": "Bardez taluka",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Bardez taluka is a taluka in Goa, India.",
+    "coordinates": {
+      "lat": 15.58941,
+      "lon": 73.8183
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "basilica-of-bom-jesus-goa-q391123",
     "name": "Basilica of Bom Jesus",
     "state": "Goa",
     "category": "spiritual",
@@ -157,6 +335,42 @@
     "tags": [
       "world-heritage",
       "church"
+    ],
+    "facts": [
+      "Dates from 15 May 1605.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Built in the baroque architecture style.",
+      "Associated with Catholicism.",
+      "Set on Tiswadi taluk."
+    ]
+  },
+  {
+    "id": "bastora-goa",
+    "name": "Bastora",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Bastora is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.58333,
+      "lon": 73.81667
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "batim-goa",
+    "name": "Batim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Batim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.45,
+      "lon": 73.88333
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -170,7 +384,38 @@
       "lon": 73.92
     },
     "tags": [
-      "beach"
+      "beach",
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 1 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "betal-goa",
+    "name": "Betal",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Betal is a hindu folk god.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "bhagavati-goa",
+    "name": "Bhagavati",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Bhagavati is a honorific title for female deities in Hinduism.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -185,6 +430,29 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1978.",
+      "Stands at about 890 m elevation.",
+      "Covers about 107 km².",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "bicholim-taluka-goa",
+    "name": "Bicholim taluka",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Bicholim taluka is a sub-District in Goa, India.",
+    "coordinates": {
+      "lat": 15.5888,
+      "lon": 73.96547
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -199,6 +467,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
     ]
   },
   {
@@ -213,6 +484,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -227,6 +501,40 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Goa."
+    ]
+  },
+  {
+    "id": "bookworm-children-s-library-goa",
+    "name": "Bookworm Children's Library",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Bookworm Children's Library is a library in Goa, India.",
+    "coordinates": {
+      "lat": 15.49453,
+      "lon": 73.82881
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
+  },
+  {
+    "id": "borim-goa",
+    "name": "Borim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Borim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.36044,
+      "lon": 74.00041
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -241,10 +549,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
-    "id": "cabo-de-rama-fort-goa",
+    "id": "cabo-de-rama-fort-goa-q5015741",
     "name": "Cabo de Rama Fort",
     "state": "Goa",
     "category": "heritage",
@@ -255,20 +566,97 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as State Protected Monument.",
+      "Lies in Canacona taluk, Goa.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Canacona, Goa."
     ]
   },
   {
-    "id": "calangute-goa",
-    "name": "Calangute",
+    "id": "calvim-goa",
+    "name": "Calvim",
     "state": "Goa",
-    "category": "beach",
-    "description": "Calangute is a census town in North Goa.",
+    "category": "nature",
+    "description": "Calvim is an island/village in Goa, India.",
     "coordinates": {
-      "lat": 15.545,
-      "lon": 73.76306
+      "lat": 15.4968,
+      "lon": 73.8278
     },
     "tags": [
-      "beach"
+      "island"
+    ],
+    "facts": [
+      "Known as a nature destination in Goa."
+    ]
+  },
+  {
+    "id": "camurlim-goa",
+    "name": "Camurlim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Camurlim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.32501,
+      "lon": 73.95283
+    },
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "canacona-goa",
+    "name": "Canacona",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Canacona is a city in Goa, India.",
+    "coordinates": {
+      "lat": 15.01093,
+      "lon": 74.0363
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Stands at about 10 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "canacona-taluka-goa",
+    "name": "Canacona taluka",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Canacona taluka is a taluka of South Goa district.",
+    "coordinates": {
+      "lat": 15.02,
+      "lon": 74.02
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 9 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "candola-goa",
+    "name": "Candola",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Candola is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.51394,
+      "lon": 73.96784
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -283,6 +671,10 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Stands at about 0 m elevation.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -298,6 +690,25 @@
     "tags": [
       "church",
       "island"
+    ],
+    "facts": [
+      "Dedicated to Our Lady of Good Health.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "carambolim-goa",
+    "name": "Carambolim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Carambolim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.46667,
+      "lon": 73.9
+    },
+    "facts": [
+      "Stands at about 59 m elevation.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -312,6 +723,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Goa."
     ]
   },
   {
@@ -326,6 +740,54 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in Salcete taluk, Goa."
+    ]
+  },
+  {
+    "id": "casa-da-polvora-goa",
+    "name": "Casa da Polvora",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Casa da Polvora is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cave-at-ishwarbhat-goa",
+    "name": "Cave at Ishwarbhat",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Cave at Ishwarbhat is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cave-at-mangeshi-goa",
+    "name": "Cave at Mangeshi",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Cave at Mangeshi is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -341,10 +803,73 @@
     "tags": [
       "beach",
       "cave"
+    ],
+    "facts": [
+      "Stands at about 3 m elevation.",
+      "Lies in South Goa District, Goa."
     ]
   },
   {
-    "id": "chapel-of-our-lady-of-the-mount-goa",
+    "id": "caves-at-khandepar-goa",
+    "name": "Caves at Khandepar",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Caves at Khandepar is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "caves-at-naroa-goa",
+    "name": "Caves at Naroa",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Caves at Naroa is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bicholim, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "caves-at-rivona-goa",
+    "name": "Caves at Rivona",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Caves at Rivona is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sanguem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chandor-goa",
+    "name": "Chandor",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Chandor is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.26444,
+      "lon": 74.04778
+    },
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "chapel-of-our-lady-of-the-mount-goa-q28041245",
     "name": "Chapel of Our Lady of the Mount",
     "state": "Goa",
     "category": "spiritual",
@@ -355,6 +880,14 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as State Protected Monument.",
+      "Built in the baroque architecture style.",
+      "Associated with Catholicism.",
+      "Lies in Tiswadi taluk, Goa.",
+      "Recognised as a State Protected Monument."
     ]
   },
   {
@@ -370,10 +903,29 @@
     "tags": [
       "church",
       "island"
+    ],
+    "facts": [
+      "Dedicated to Holy Family.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
-    "id": "chapel-of-st-catherine-goa",
+    "id": "chapel-of-st-cajetan-goa",
+    "name": "Chapel of St. Cajetan",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Chapel of St. Cajetan is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Goa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chapel-of-st-catherine-goa-q20047741",
     "name": "Chapel of St. Catherine",
     "state": "Goa",
     "category": "spiritual",
@@ -385,6 +937,29 @@
     "tags": [
       "world-heritage",
       "church"
+    ],
+    "facts": [
+      "Dates from the 1550s.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Built in the baroque architecture style.",
+      "Named after Catherine of Alexandria.",
+      "Set on Tiswadi taluk."
+    ]
+  },
+  {
+    "id": "chapel-of-st-francis-xavier-and-connected-buildings-goa",
+    "name": "Chapel of St. Francis Xavier and connected buildings",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Chapel of St. Francis Xavier and connected buildings is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Goa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -400,6 +975,40 @@
     "tags": [
       "church",
       "island"
+    ],
+    "facts": [
+      "Dedicated to Jerome.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "chapel-of-st-jeronimus-goa",
+    "name": "Chapel of St. Jeronimus",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Chapel of St. Jeronimus is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chapel-of-st-xavier-goa",
+    "name": "Chapel of St. Xavier",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Chapel of St. Xavier is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -415,10 +1024,13 @@
     "tags": [
       "beach",
       "fort"
+    ],
+    "facts": [
+      "Known as a beach destination in Goa."
     ]
   },
   {
-    "id": "chapora-fort-goa",
+    "id": "chapora-fort-goa-q5073352",
     "name": "Chapora Fort",
     "state": "Goa",
     "category": "heritage",
@@ -429,6 +1041,43 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as State Protected Monument.",
+      "Lies in Bardez taluk, Goa.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Bardez, Goa."
+    ]
+  },
+  {
+    "id": "chicalim-goa",
+    "name": "Chicalim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Chicalim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.39944,
+      "lon": 73.84083
+    },
+    "facts": [
+      "Stands at about 45 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "chinchinim-goa",
+    "name": "Chinchinim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Chinchinim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.2,
+      "lon": 73.97
+    },
+    "facts": [
+      "Stands at about 3 m elevation.",
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -443,10 +1092,15 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Mandovi River.",
+      "Stands at about 8 m elevation.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
-    "id": "church-and-convent-of-st-francis-of-assisi-goa",
+    "id": "church-and-convent-of-st-francis-of-assisi-goa-q5117224",
     "name": "Church and Convent of St. Francis of Assisi",
     "state": "Goa",
     "category": "spiritual",
@@ -457,20 +1111,29 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1661.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Built in the baroque architecture style.",
+      "Named after Holy Spirit.",
+      "Set on Tiswadi taluk."
     ]
   },
   {
-    "id": "church-of-our-lady-of-springs-goa",
-    "name": "Church of Our Lady of Springs",
+    "id": "church-of-our-lady-of-the-rosary-goa",
+    "name": "Church of Our Lady of the Rosary",
     "state": "Goa",
     "category": "spiritual",
-    "description": "Church of Our Lady of Springs is a church in Angediva, Goa, India.",
-    "coordinates": {
-      "lat": 14.76094,
-      "lon": 74.11126
-    },
+    "description": "Church of Our Lady of the Rosary is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Goa, Goa."
+    ],
     "tags": [
-      "church"
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -486,6 +1149,29 @@
     "tags": [
       "world-heritage",
       "church"
+    ],
+    "facts": [
+      "Dates from 1543.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Manueline style.",
+      "Named after Our Lady of the Rosary.",
+      "Set on Tiswadi taluk."
+    ]
+  },
+  {
+    "id": "church-of-reis-magos-goa",
+    "name": "Church of Reis Magos",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Church of Reis Magos is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bardez, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -500,10 +1186,17 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Built in the baroque architecture style.",
+      "Associated with Catholicism.",
+      "Named after Saint Anne.",
+      "Lies in Tiswadi taluk, Goa."
     ]
   },
   {
-    "id": "church-of-st-augustine-goa-goa",
+    "id": "church-of-st-augustine-goa-goa-q30753669",
     "name": "Church of St. Augustine, Goa",
     "state": "Goa",
     "category": "spiritual",
@@ -514,6 +1207,29 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Built in the baroque architecture style.",
+      "Named after Augustine of Hippo.",
+      "Set on Tiswadi taluk.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "church-of-st-peter-goa",
+    "name": "Church of St. Peter",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Church of St. Peter is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -529,6 +1245,10 @@
     "tags": [
       "world-heritage",
       "church"
+    ],
+    "facts": [
+      "Recognised as World Heritage Site.",
+      "Recognised as Heritage of Portuguese Influence."
     ]
   },
   {
@@ -543,6 +1263,40 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Stands at about 1.1 m elevation.",
+      "Lies in Salcete taluk, Goa."
+    ]
+  },
+  {
+    "id": "colvale-goa",
+    "name": "Colvale",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Colvale is a village.",
+    "coordinates": {
+      "lat": 15.62,
+      "lon": 73.83
+    },
+    "facts": [
+      "Stands at about 9 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "convent-of-st-monica-and-chapel-goa",
+    "name": "Convent of St. Monica and Chapel",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Convent of St. Monica and Chapel is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -557,6 +1311,25 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Set on Corjuem.",
+      "Lies in Aldona, Goa."
+    ]
+  },
+  {
+    "id": "cortalim-goa",
+    "name": "Cortalim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Cortalim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.39778,
+      "lon": 73.91056
+    },
+    "facts": [
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -571,6 +1344,54 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Canacona taluk, Goa."
+    ]
+  },
+  {
+    "id": "cunchelim-goa",
+    "name": "Cunchelim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Cunchelim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.6,
+      "lon": 73.81667
+    },
+    "facts": [
+      "Stands at about 14 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "cuncolim-goa",
+    "name": "Cuncolim",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Cuncolim is a town in South Goa district, Goa, India.",
+    "coordinates": {
+      "lat": 15.17,
+      "lon": 73.98
+    },
+    "facts": [
+      "Stands at about 18 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "curtorim-goa",
+    "name": "Curtorim",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Curtorim is a town in India.",
+    "coordinates": {
+      "lat": 15.28,
+      "lon": 74.03
+    },
+    "facts": [
+      "Stands at about 38 m elevation.",
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -582,7 +1403,10 @@
     "coordinates": {
       "lat": 15.31513,
       "lon": 73.9959
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Goa."
+    ]
   },
   {
     "id": "damodar-sansthaan-goa",
@@ -596,6 +1420,27 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "divar-goa",
+    "name": "Divar",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Divar is an island in Goa, India.",
+    "coordinates": {
+      "lat": 15.525,
+      "lon": 73.9025
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Set beside Mandovi River.",
+      "Stands at about 8 m elevation."
     ]
   },
   {
@@ -610,6 +1455,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -623,7 +1471,82 @@
       "lon": 74.31416
     },
     "tags": [
+      "national-park",
       "waterfall"
+    ],
+    "facts": [
+      "Part of Mandovi River.",
+      "Lies in Karnataka, Goa."
+    ]
+  },
+  {
+    "id": "durga-goa",
+    "name": "Durga",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Durga is a warrior goddess of Hinduism.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "embankment-dam-goa",
+    "name": "Embankment dam",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Embankment dam is a large artificial dam.",
+    "facts": [
+      "Known as a nature destination in Goa."
+    ]
+  },
+  {
+    "id": "excavated-site-goa",
+    "name": "Excavated site",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Excavated site is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chandore, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "farmagudi-goa",
+    "name": "Farmagudi",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Farmagudi is a suburb in South Goa, India.",
+    "coordinates": {
+      "lat": 15.416,
+      "lon": 73.984
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "fatorpa-goa",
+    "name": "Fatorpa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Fatorpa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.11667,
+      "lon": 74.0
+    },
+    "facts": [
+      "Stands at about 147 m elevation.",
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -638,20 +1561,10 @@
     },
     "tags": [
       "fort"
-    ]
-  },
-  {
-    "id": "fort-anjediva-goa",
-    "name": "Fort Anjediva",
-    "state": "Goa",
-    "category": "heritage",
-    "description": "Fort Anjediva is a building in India.",
-    "coordinates": {
-      "lat": 14.7864,
-      "lon": 74.12
-    },
-    "tags": [
-      "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -666,6 +1579,39 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
+  },
+  {
+    "id": "fort-of-alorna-goa",
+    "name": "Fort of Alorna",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort of Alorna is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pernem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-of-sanquelim-goa",
+    "name": "Fort of Sanquelim",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort of Sanquelim is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bicholim, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -680,6 +1626,26 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1635.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Lies in Tiswadi taluk, Goa."
+    ]
+  },
+  {
+    "id": "fort-of-terekhol-goa",
+    "name": "Fort of Terekhol",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort of Terekhol is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pernem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -695,6 +1661,9 @@
     "tags": [
       "fort",
       "island"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
     ]
   },
   {
@@ -705,6 +1674,9 @@
     "description": "Fort São Bartolomeu is a portuguese fort in Goa, India.",
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
     ]
   },
   {
@@ -719,6 +1691,11 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as State Protected Monument.",
+      "Lies in Pernem taluk, Goa."
     ]
   },
   {
@@ -733,6 +1710,56 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1635.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Lies in Colvale, Goa."
+    ]
+  },
+  {
+    "id": "fortification-wall-of-aguada-fort-lower-goa",
+    "name": "Fortification Wall of Aguada Fort (Lower)",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fortification Wall of Aguada Fort (Lower) is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Candolim, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fortress-of-colvale-goa",
+    "name": "Fortress of Colvale",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fortress of Colvale is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bardez, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "frontispices-of-sancoale-goa",
+    "name": "Frontispices of Sancoale",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Frontispices of Sancoale is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mormugao, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -747,6 +1774,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Goa."
     ]
   },
   {
@@ -761,6 +1791,24 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
+  },
+  {
+    "id": "gate-of-rachol-fortress-goa",
+    "name": "Gate of Rachol Fortress",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Gate of Rachol Fortress is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Salcete, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -775,6 +1823,23 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2010."
+    ]
+  },
+  {
+    "id": "goa-legislative-assembly-goa",
+    "name": "Goa Legislative Assembly",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Goa Legislative Assembly is an unicameral legislature of the state of Goa in India.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Dates from 9 January 1964.",
+      "Part of Government of Goa."
     ]
   },
   {
@@ -789,6 +1854,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 19 December 2001.",
+      "About 132,623 visits in a recorded year.",
+      "Lies in Miramar, Goa."
     ]
   },
   {
@@ -803,6 +1873,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 18 June 1996.",
+      "Lies in Panaji, Goa."
     ]
   },
   {
@@ -813,6 +1887,19 @@
     "description": "Goan temple is a hindu temples in Goa.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "golden-chariot-goa",
+    "name": "Golden Chariot",
+    "state": "Goa",
+    "category": "other",
+    "description": "Golden Chariot is a luxury tourist train.",
+    "facts": [
+      "Known as a tourism destination in Goa."
     ]
   },
   {
@@ -827,18 +1914,77 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1675.",
+      "Built in the baroque architecture style.",
+      "Named after Holy Spirit.",
+      "Lies in Margao, Goa."
+    ]
+  },
+  {
+    "id": "house-of-bull-goa",
+    "name": "House of Bull",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "House of Bull is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Goa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kali-goa",
+    "name": "Kali",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Kali is a hindu goddess associated with death and destruction, in the 21st century adopted as symbol of feminine empowerment.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Part of Mahavidya."
+    ]
+  },
+  {
+    "id": "kavale-goa",
+    "name": "Kavale",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Kavale is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.50772,
+      "lon": 73.80312
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
     "id": "krishnadas-shama-goa-state-central-library-goa",
     "name": "Krishnadas Shama Goa State Central Library",
     "state": "Goa",
-    "category": "other",
+    "category": "heritage",
     "description": "Krishnadas Shama Goa State Central Library is a library.",
     "coordinates": {
       "lat": 15.494,
       "lon": 73.833
-    }
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Named after Krishnadas Shama.",
+      "Lies in Panaji, Goa."
+    ]
   },
   {
     "id": "lakshmi-narayan-devasthan-kundaim-goa",
@@ -848,6 +1994,9 @@
     "description": "Lakshmi Narayan Devasthan, Kundaim is a hindu temple in Kundaim, Goa, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -858,6 +2007,39 @@
     "description": "Lakshmi Narayan Devasthan, Narvem is a hindu temple in Naroa, Bicholim, Goa.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "largo-of-st-cajetan-together-with-other-monuments-goa",
+    "name": "Largo of St. Cajetan together with other monuments",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Largo of St. Cajetan together with other monuments is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Goa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "largo-of-st-francis-xavier-goa",
+    "name": "Largo of St. Francis Xavier",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Largo of St. Francis Xavier is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Goa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -871,8 +2053,43 @@
       "lon": 73.78916
     },
     "tags": [
-      "fort",
-      "palace"
+      "fort"
+    ],
+    "facts": [
+      "Lies in Dona Paula, Goa."
+    ]
+  },
+  {
+    "id": "loliem-polem-goa",
+    "name": "Loliem-Polem",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Loliem-Polem is a village in Goa, India.",
+    "coordinates": {
+      "lat": 14.9,
+      "lon": 74.09
+    },
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "loutolim-goa",
+    "name": "Loutolim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Loutolim is a village in South Goa District, Goa, India.",
+    "coordinates": {
+      "lat": 15.33,
+      "lon": 73.98
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 32 m elevation.",
+      "Covers about 17.8 km².",
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -887,10 +2104,28 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
-    "id": "mahadev-temple-tambdi-surla-goa",
+    "id": "mahadev-temple-goa",
+    "name": "Mahadev Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Mahadev Temple is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kurdi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mahadev-temple-tambdi-surla-goa-q6732753",
     "name": "Mahadev Temple, Tambdi Surla",
     "state": "Goa",
     "category": "spiritual",
@@ -900,7 +2135,15 @@
       "lon": 74.25256
     },
     "tags": [
+      "national-park",
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Founded by Hemādri.",
+      "Lies in North Goa district, Goa.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Tambdisurla, Goa."
     ]
   },
   {
@@ -915,6 +2158,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ponda taluk, Goa."
     ]
   },
   {
@@ -929,6 +2175,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -943,6 +2192,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -957,6 +2209,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -971,6 +2226,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -985,6 +2243,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -999,6 +2260,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "mapusa-goa",
+    "name": "Mapusa",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Mapusa is a town in North Goa District, Goa, India.",
+    "coordinates": {
+      "lat": 15.59197,
+      "lon": 73.80894
+    },
+    "facts": [
+      "Stands at about 15 m elevation.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1010,7 +2289,10 @@
     "coordinates": {
       "lat": 15.588,
       "lon": 73.813
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Goa."
+    ]
   },
   {
     "id": "mapusa-river-goa",
@@ -1021,20 +2303,76 @@
     "coordinates": {
       "lat": 15.5,
       "lon": 73.85
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Goa."
+    ]
+  },
+  {
+    "id": "marcel-goa-goa",
+    "name": "Marcel, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Marcel, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.51411,
+      "lon": 73.95962
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "mardol-goa-goa",
+    "name": "Mardol, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Mardol, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.433,
+      "lon": 73.95
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Ponda taluk, Goa."
+    ]
+  },
+  {
+    "id": "margao-goa",
+    "name": "Margao",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Margao is a second largest city in Goa.",
+    "coordinates": {
+      "lat": 15.27194,
+      "lon": 73.95833
+    },
+    "facts": [
+      "Stands at about 10 m elevation.",
+      "Covers about 15.1 km².",
+      "Lies in Salcete taluk, Goa."
+    ]
   },
   {
     "id": "mayem-lake-goa",
     "name": "Mayem Lake",
     "state": "Goa",
     "category": "nature",
-    "description": "Freshwater lake located on the Indian state of Goa.",
+    "description": "Mayem Lake is a freshwater lake located on the Indian state of Goa.",
     "coordinates": {
       "lat": 15.57563,
       "lon": 73.93935
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Goa."
     ]
   },
   {
@@ -1046,7 +2384,25 @@
     "coordinates": {
       "lat": 15.26153,
       "lon": 74.04346
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
+  },
+  {
+    "id": "merces-goa-goa",
+    "name": "Merces, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Merces, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.4833,
+      "lon": 73.85
+    },
+    "facts": [
+      "Stands at about 8 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
   },
   {
     "id": "mhadei-wildlife-sanctuary-goa",
@@ -1059,8 +2415,13 @@
       "lon": 74.1708
     },
     "tags": [
-      "wildlife-sanctuary",
-      "tiger-reserve"
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 18 May 1999.",
+      "Stands at about 800 m elevation.",
+      "Covers about 208 km².",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1072,7 +2433,10 @@
     "coordinates": {
       "lat": 15.50052,
       "lon": 73.82952
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
   },
   {
     "id": "miramar-goa-goa",
@@ -1086,6 +2450,23 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in Panaji, Goa."
+    ]
+  },
+  {
+    "id": "moira-goa-goa",
+    "name": "Moira, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Moira, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.59417,
+      "lon": 73.84
+    },
+    "facts": [
+      "Lies in Bardez taluk, Goa."
     ]
   },
   {
@@ -1100,6 +2481,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in Pernem taluk, Goa."
     ]
   },
   {
@@ -1114,6 +2498,25 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Lies in Mormugao, Goa."
+    ]
+  },
+  {
+    "id": "mormugao-goa",
+    "name": "Mormugao",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Mormugao is a city in India.",
+    "coordinates": {
+      "lat": 15.402,
+      "lon": 73.8
+    },
+    "facts": [
+      "Stands at about 1 m elevation.",
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -1128,6 +2531,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from January 1994."
     ]
   },
   {
@@ -1142,6 +2548,39 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from November 2015.",
+      "Opened in 6 November 2015.",
+      "Founded by Subodh Kerkar."
+    ]
+  },
+  {
+    "id": "nachinola-goa",
+    "name": "Nachinola",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Nachinola is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.58333,
+      "lon": 73.85
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "nagoa-goa",
+    "name": "Nagoa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Nagoa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.35833,
+      "lon": 73.92722
+    },
+    "facts": [
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -1156,6 +2595,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "namazgah-goa",
+    "name": "Namazgah",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Namazgah is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bicholim, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1170,6 +2627,42 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Goa."
+    ]
+  },
+  {
+    "id": "naroa-bicholim-goa-goa",
+    "name": "Naroa, Bicholim, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Naroa, Bicholim, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.55428,
+      "lon": 73.9373
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 8 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "naroa-ilhas-goa-naroa-fort-fort-naroa-goa",
+    "name": "[[Naroa, Ilhas, Goa#Naroa Fort|Fort Naroa]]",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "[[Naroa, Ilhas, Goa#Naroa Fort|Fort Naroa]] is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1181,7 +2674,10 @@
     "coordinates": {
       "lat": 15.45978,
       "lon": 73.80207
-    }
+    },
+    "facts": [
+      "Lies in Panaji, Goa."
+    ]
   },
   {
     "id": "naval-aviation-museum-goa-goa",
@@ -1195,6 +2691,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 12 October 1998.",
+      "Lies in Vasco da Gama, Goa."
     ]
   },
   {
@@ -1209,6 +2709,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -1223,6 +2726,27 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Madkai, Goa."
+    ]
+  },
+  {
+    "id": "navelim-goa",
+    "name": "Navelim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Navelim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.24278,
+      "lon": 73.93306
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 0 m elevation.",
+      "Lies in Salcete taluk, Goa."
     ]
   },
   {
@@ -1237,6 +2761,40 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Goa."
+    ]
+  },
+  {
+    "id": "nuvem-goa",
+    "name": "Nuvem",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Nuvem is a town in India.",
+    "coordinates": {
+      "lat": 15.30889,
+      "lon": 73.94611
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "olaulim-goa",
+    "name": "Olaulim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Olaulim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.57556,
+      "lon": 73.86333
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1250,7 +2808,28 @@
       "lon": 73.91175
     },
     "tags": [
-      "world-heritage"
+      "world-heritage",
+      "museum"
+    ],
+    "facts": [
+      "Set beside Mandovi River.",
+      "Stands at about 6 m elevation.",
+      "Covers about 4 km².",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "orlim-goa",
+    "name": "Orlim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Orlim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.22056,
+      "lon": 73.95056
+    },
+    "facts": [
+      "Known as a offbeat destination in Goa."
     ]
   },
   {
@@ -1266,6 +2845,9 @@
     "tags": [
       "church",
       "island"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1280,6 +2862,27 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1609.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Built in the baroque architecture style.",
+      "Associated with Catholicism.",
+      "Lies in Panaji, Goa."
+    ]
+  },
+  {
+    "id": "oxel-goa",
+    "name": "Oxel",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Oxel is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.633,
+      "lon": 73.774
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1291,6 +2894,9 @@
     "tags": [
       "fort",
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
     ]
   },
   {
@@ -1305,18 +2911,107 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in Canacona, Goa."
     ]
   },
   {
     "id": "panaji-goa",
     "name": "Panaji",
     "state": "Goa",
-    "category": "other",
+    "category": "heritage",
     "description": "Panaji is a capital city of Goa.",
     "coordinates": {
       "lat": 15.48,
       "lon": 73.83
-    }
+    },
+    "tags": [
+      "palace",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1843.",
+      "Stands at about 7 m elevation.",
+      "Covers about 36 km².",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "parashurama-goa",
+    "name": "Parashurama",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Parashurama is a sixth avatar of Hindu god Vishnu.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "parra-goa-goa",
+    "name": "Parra, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Parra, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.56667,
+      "lon": 73.78333
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "pernem-taluka-goa",
+    "name": "Pernem taluka",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Pernem taluka is a sub-District in Goa, India.",
+    "coordinates": {
+      "lat": 15.71778,
+      "lon": 73.80002
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "pilerne-goa",
+    "name": "Pilerne",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Pilerne is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.53333,
+      "lon": 73.81667
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "pomburpa-goa",
+    "name": "Pomburpa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Pomburpa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.55,
+      "lon": 73.85
+    },
+    "facts": [
+      "Stands at about 68 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
   },
   {
     "id": "ponda-fort-goa",
@@ -1330,6 +3025,39 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
+  },
+  {
+    "id": "quelossim-goa",
+    "name": "Quelossim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Quelossim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.4,
+      "lon": 73.9333
+    },
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "quepem-goa",
+    "name": "Quepem",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Quepem is a town in South Goa District, Goa, India.",
+    "coordinates": {
+      "lat": 15.22,
+      "lon": 74.07
+    },
+    "facts": [
+      "Dates from 1787.",
+      "Stands at about 21 m elevation.",
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -1344,6 +3072,23 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Goa."
+    ]
+  },
+  {
+    "id": "querim-goa",
+    "name": "Querim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Querim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.71325,
+      "lon": 73.70276
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1358,6 +3103,24 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Lies in Salcete taluk, Goa."
+    ]
+  },
+  {
+    "id": "rachol-goa",
+    "name": "Rachol",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Rachol is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.30806,
+      "lon": 74.00528
+    },
+    "facts": [
+      "Lies in Salcete taluk, Goa."
     ]
   },
   {
@@ -1372,6 +3135,26 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1609.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Lies in Rachol, Goa."
+    ]
+  },
+  {
+    "id": "raj-bhavan-panaji-british-cemetery-british-cemetery-at-dona-paula-goa",
+    "name": "[[Raj Bhavan, Panaji#British Cemetery|British Cemetery]] at Dona Paula",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "[[Raj Bhavan, Panaji#British Cemetery|British Cemetery]] at Dona Paula is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1386,18 +3169,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
-  },
-  {
-    "id": "ratnagiri-goa",
-    "name": "Ratnagiri",
-    "state": "Goa",
-    "category": "other",
-    "description": "Ratnagiri is a city in Ratnagiri district, Konkan division, Maharashtra, India.",
-    "coordinates": {
-      "lat": 16.98333,
-      "lon": 73.3
-    }
   },
   {
     "id": "real-colegio-de-educacao-de-chorao-goa",
@@ -1411,6 +3186,55 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1761."
+    ]
+  },
+  {
+    "id": "reis-magos-fort-goa",
+    "name": "Reis Magos Fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Reis Magos Fort is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bardez, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "revora-goa",
+    "name": "Revora",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Revora is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.66667,
+      "lon": 73.83333
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "rivona-goa",
+    "name": "Rivona",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Rivona is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.16381,
+      "lon": 74.10278
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
     ]
   },
   {
@@ -1418,7 +3242,10 @@
     "name": "Rodrigues Home",
     "state": "Goa",
     "category": "other",
-    "description": "Rodrigues Home is a mansion in Goa, India."
+    "description": "Rodrigues Home is a mansion in Goa, India.",
+    "facts": [
+      "Known as a tourism destination in Goa."
+    ]
   },
   {
     "id": "rudreshwar-devasthan-goa",
@@ -1428,10 +3255,58 @@
     "description": "Rudreshwar Devasthan is a hindu temple in Goa, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
-    "id": "safa-mosque-goa-goa",
+    "id": "ruins-including-tank-of-the-temple-of-mahalsa-goa",
+    "name": "Ruins including Tank of the Temple of Mahalsa",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Ruins including Tank of the Temple of Mahalsa is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Salcete, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruins-of-brahmapuri-goa",
+    "name": "Ruins of Brahmapuri",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Ruins of Brahmapuri is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruins-of-jain-basti-goa",
+    "name": "Ruins of Jain Basti",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Ruins of Jain Basti is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "safa-mosque-goa-goa-q29052432",
     "name": "Safa Mosque, Goa",
     "state": "Goa",
     "category": "spiritual",
@@ -1442,6 +3317,42 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Islamic architecture style.",
+      "Lies in South Goa District, Goa.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ]
+  },
+  {
+    "id": "salaulim-dam-goa",
+    "name": "Salaulim Dam",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Salaulim Dam is a dam in Goa, India.",
+    "coordinates": {
+      "lat": 15.21306,
+      "lon": 74.17889
+    },
+    "facts": [
+      "Rises about 42.5 m."
+    ]
+  },
+  {
+    "id": "saligao-goa",
+    "name": "Saligao",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Saligao is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.55,
+      "lon": 73.77
+    },
+    "facts": [
+      "Stands at about 9 m elevation.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1453,7 +3364,55 @@
     "coordinates": {
       "lat": 15.5146,
       "lon": 73.8575
-    }
+    },
+    "facts": [
+      "Known as a wildlife destination in Goa."
+    ]
+  },
+  {
+    "id": "salvador-do-mundo-goa",
+    "name": "Salvador do Mundo",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Salvador do Mundo is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.5326,
+      "lon": 73.8578
+    },
+    "facts": [
+      "Stands at about 7 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "sanguem-goa",
+    "name": "Sanguem",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Sanguem is a city.",
+    "coordinates": {
+      "lat": 15.23,
+      "lon": 74.17
+    },
+    "facts": [
+      "Part of South Goa District.",
+      "Stands at about 22 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "santa-cruz-goa-goa",
+    "name": "Santa Cruz, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Santa Cruz, Goa is a village-suburb of the Goan state capital of Panaji (also Panjim or Ponjje).",
+    "coordinates": {
+      "lat": 15.467,
+      "lon": 73.833
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
   },
   {
     "id": "sanvordekar-wada-goa",
@@ -1464,7 +3423,42 @@
     "coordinates": {
       "lat": 15.26855,
       "lon": 74.10818
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Goa."
+    ]
+  },
+  {
+    "id": "sao-jacinto-goa",
+    "name": "São Jacinto",
+    "state": "Goa",
+    "category": "nature",
+    "description": "São Jacinto is a tourism place in Goa, India.",
+    "coordinates": {
+      "lat": 15.406,
+      "lon": 73.863
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Known as a nature destination in Goa."
+    ]
+  },
+  {
+    "id": "sao-matias-goa-goa",
+    "name": "São Matias, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "São Matias, Goa is a village in Ilhas, Goa.",
+    "coordinates": {
+      "lat": 15.5289,
+      "lon": 73.9183
+    },
+    "facts": [
+      "Stands at about 8 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
   },
   {
     "id": "saptakoteshwar-temple-goa",
@@ -1478,10 +3472,28 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Bicholim taluk, Goa."
     ]
   },
   {
-    "id": "se-cathedral-goa",
+    "id": "sarzora-goa",
+    "name": "Sarzora",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Sarzora is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.21972,
+      "lon": 73.99444
+    },
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "se-cathedral-goa-q2942482",
     "name": "Se Cathedral",
     "state": "Goa",
     "category": "spiritual",
@@ -1492,14 +3504,15 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1562.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Gothic art style.",
+      "Dedicated to Catherine of Alexandria.",
+      "Associated with Catholicism."
     ]
-  },
-  {
-    "id": "serendipity-arts-festival-goa",
-    "name": "Serendipity Arts Festival",
-    "state": "Goa",
-    "category": "other",
-    "description": "Serendipity Arts Festival is an annual arts festival in Panaji, Goa."
   },
   {
     "id": "shanta-durga-temple-goa",
@@ -1513,6 +3526,22 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "shantadurga-goa",
+    "name": "Shantadurga",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Shantadurga is a form of the Hindu goddess Durga.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -1527,6 +3556,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -1541,6 +3573,56 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "shirgao-goa-goa",
+    "name": "Shirgao, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Shirgao, Goa is a village in India.",
+    "coordinates": {
+      "lat": 15.6042,
+      "lon": 73.9014
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Goa."
+    ]
+  },
+  {
+    "id": "shiroda-goa-goa",
+    "name": "Shiroda, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Shiroda, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.3292,
+      "lon": 74.0271
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "shiva-goa",
+    "name": "Shiva",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Shiva is a hindu deity.",
+    "tags": [
+      "world-heritage",
+      "temple",
+      "museum"
+    ],
+    "facts": [
+      "Associated with Shaivism.",
+      "Part of Trimurti."
     ]
   },
   {
@@ -1555,6 +3637,84 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "shri-chandranath-paroda-goa",
+    "name": "Shri Chandranath Paroda",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Shri Chandranath Paroda is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Quepem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shri-kamakshi-temple-goa",
+    "name": "Shri Kamakshi Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Shri Kamakshi Temple is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shri-mahadev-temple-goa",
+    "name": "Shri Mahadev Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Shri Mahadev Temple is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shri-nagesh-temple-goa",
+    "name": "Shri Nagesh Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Shri Nagesh Temple is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shri-saptakoteshwar-goa",
+    "name": "Shri Saptakoteshwar",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Shri Saptakoteshwar is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ponda, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1569,6 +3729,144 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "siolim-goa",
+    "name": "Siolim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Siolim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.62,
+      "lon": 73.767
+    },
+    "facts": [
+      "Stands at about 13 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "site-of-gujir-goa",
+    "name": "Site of Gujir",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Site of Gujir is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bicholim, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-of-rock-carving-at-pansaimal-usgalimal-goa",
+    "name": "Site of Rock Carving at Pansaimal / Usgalimal",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Site of Rock Carving at Pansaimal / Usgalimal is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sanguem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-of-rock-carvings-of-kazur-goa",
+    "name": "Site of Rock Carvings of Kazur",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Site of Rock Carvings of Kazur is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Quepem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-of-ruins-of-mangueshi-temple-goa",
+    "name": "Site of Ruins of Mangueshi Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Site of Ruins of Mangueshi Temple is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Salcete, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-of-ruins-of-shanta-durga-temple-goa",
+    "name": "Site of Ruins of Shanta Durga Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Site of Ruins of Shanta Durga Temple is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Salcete, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-of-the-temple-of-saptakoteshwar-goa",
+    "name": "Site of the Temple of Saptakoteshwar",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Site of the Temple of Saptakoteshwar is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-ruins-of-ramnath-temple-goa",
+    "name": "Site – Ruins of Ramnath Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Site – Ruins of Ramnath Temple is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Salcete, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-where-the-ancient-image-of-buddha-was-discovered-at-colvale-goa",
+    "name": "Site where the ancient image of Buddha was discovered at Colvale",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Site where the ancient image of Buddha was discovered at Colvale is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bardez, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1579,6 +3877,9 @@
     "description": "St. Anthony's Chapel, Goa Velha is a tourism place in Goa, India.",
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -1594,6 +3895,10 @@
     "tags": [
       "church",
       "island"
+    ],
+    "facts": [
+      "Dedicated to Bartholomew the Apostle.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1604,6 +3909,11 @@
     "description": "St. Cajetan Church, Assagao is a church in Goa, India.",
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1775.",
+      "Dedicated to Saint Cajetan.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1618,6 +3928,14 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1656.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Named after Saint Cajetan.",
+      "Set on Tiswadi taluk.",
+      "Part of Churches and Convents of Goa."
     ]
   },
   {
@@ -1632,6 +3950,27 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1781.",
+      "Dedicated to Clare of Assisi."
+    ]
+  },
+  {
+    "id": "st-estevam-goa",
+    "name": "St Estevam",
+    "state": "Goa",
+    "category": "nature",
+    "description": "St Estevam is an island and village in Goa, India.",
+    "coordinates": {
+      "lat": 15.89,
+      "lon": 74.5806
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Stands at about 8 m elevation."
     ]
   },
   {
@@ -1646,6 +3985,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Associated with Catholicism."
     ]
   },
   {
@@ -1660,14 +4002,133 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1613.",
+      "Lies in North Goa district, Goa."
     ]
   },
   {
-    "id": "sunburn-festival-goa",
-    "name": "Sunburn Festival",
+    "id": "sunaparanta-goa-centre-for-the-arts-goa",
+    "name": "Sunaparanta, Goa Centre for the Arts",
     "state": "Goa",
-    "category": "other",
-    "description": "Sunburn Festival is an eDM Music Festival In India."
+    "category": "heritage",
+    "description": "Sunaparanta, Goa Centre for the Arts is an art gallery in Panjim, Goa.",
+    "coordinates": {
+      "lat": 15.4939,
+      "lon": 73.8275
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Lies in Altinho, Goa."
+    ]
+  },
+  {
+    "id": "the-cave-at-shigao-goa",
+    "name": "The Cave at Shigao",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "The Cave at Shigao is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sanguem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-cave-of-sidhanath-at-tar-surla-goa",
+    "name": "The Cave of Sidhanath at Tar Surla",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "The Cave of Sidhanath at Tar Surla is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bicholim, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-fort-of-marmagoa-goa",
+    "name": "The Fort of Marmagoa",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "The Fort of Marmagoa is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Marmagoa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-mosque-and-tank-at-tar-surla-goa",
+    "name": "The Mosque and Tank at Tar Surla",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "The Mosque and Tank at Tar Surla is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bicholim, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-site-of-fortress-at-st-estevam-goa",
+    "name": "The Site of Fortress at St Estevam",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "The Site of Fortress at St Estevam is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tiswadi, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-site-of-kaivailya-math-at-consua-goa",
+    "name": "The Site of Kaivailya Math at Consua",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "The Site of Kaivailya Math at Consua is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Marmagoa, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-site-of-narayandev-at-vichundre-goa",
+    "name": "The site of Narayandev at Vichundre",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "The site of Narayandev at Vichundre is a protected monument in Goa, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sanguem, Goa."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "three-kings-chapel-goa",
@@ -1681,6 +4142,23 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "tiracol-goa",
+    "name": "Tiracol",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Tiracol is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.72425,
+      "lon": 73.68821
+    },
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1692,7 +4170,65 @@
     "coordinates": {
       "lat": 15.4986,
       "lon": 73.82934
-    }
+    },
+    "facts": [
+      "Set beside Arabian Sea.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "tivim-goa",
+    "name": "Tivim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Tivim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.6,
+      "lon": 73.8
+    },
+    "facts": [
+      "Stands at about 23 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
+  },
+  {
+    "id": "tollecanto-goa",
+    "name": "Tollecanto",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Tollecanto is a village subdivision in Velim, Goa, India.",
+    "coordinates": {
+      "lat": 15.15778,
+      "lon": 73.96503
+    },
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "tourism-in-goa-goa",
+    "name": "Tourism in Goa",
+    "state": "Goa",
+    "category": "other",
+    "description": "Tourism in Goa is an industry in India.",
+    "facts": [
+      "Known as a tourism destination in Goa."
+    ]
+  },
+  {
+    "id": "ucassaim-goa",
+    "name": "Ucassaim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Ucassaim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.5803,
+      "lon": 73.8417
+    },
+    "facts": [
+      "Stands at about 15 m elevation.",
+      "Lies in North Goa district, Goa."
+    ]
   },
   {
     "id": "usgalimal-rock-engravings-goa",
@@ -1706,6 +4242,23 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "usgao-goa",
+    "name": "Usgao",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Usgao is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.44861,
+      "lon": 74.06667
+    },
+    "facts": [
+      "Known as a offbeat destination in Goa."
     ]
   },
   {
@@ -1720,6 +4273,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in North Goa district, Goa."
     ]
   },
   {
@@ -1734,6 +4290,73 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Stands at about 0 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "vasco-da-gama-goa-goa",
+    "name": "Vasco da Gama, Goa",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Vasco da Gama, Goa is a city in Mormugão, Goa.",
+    "coordinates": {
+      "lat": 15.3981,
+      "lon": 73.8111
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 43 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "velim-goa-goa",
+    "name": "Velim, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Velim, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.18,
+      "lon": 73.97
+    },
+    "facts": [
+      "Stands at about 10 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "verna-goa-goa",
+    "name": "Verna, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Verna, Goa is a village in Salcete, Goa.",
+    "coordinates": {
+      "lat": 15.3492,
+      "lon": 73.9314
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "vijayadurga-goa",
+    "name": "Vijayadurga",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Vijayadurga is a female given name.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
     ]
   },
   {
@@ -1748,6 +4371,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Goa."
+    ]
+  },
+  {
+    "id": "vishnu-goa",
+    "name": "Vishnu",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Vishnu is a hindu deity.",
+    "tags": [
+      "temple",
+      "museum"
+    ],
+    "facts": [
+      "Part of Trimurti."
     ]
   },
   {
@@ -1759,6 +4399,41 @@
     "coordinates": {
       "lat": 15.61454,
       "lon": 73.77045
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Goa."
+    ]
+  },
+  {
+    "id": "zambaulim-goa",
+    "name": "Zambaulim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Zambaulim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.18333,
+      "lon": 74.1
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 39 m elevation.",
+      "Lies in South Goa District, Goa."
+    ]
+  },
+  {
+    "id": "zuari-river-goa",
+    "name": "Zuari River",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Zuari River is a river in India.",
+    "coordinates": {
+      "lat": 15.41667,
+      "lon": 73.9
+    },
+    "facts": [
+      "Known as a nature destination in Goa."
+    ]
   }
 ]

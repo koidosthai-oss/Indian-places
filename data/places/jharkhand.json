@@ -1,5 +1,35 @@
 [
   {
+    "id": "1-benisagar-tank-jharkhand",
+    "name": "1. Benisagar tank",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "1. Benisagar tank is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Benisagar, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ajay-river-jharkhand",
+    "name": "Ajay River",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Ajay River is a river in India.",
+    "coordinates": {
+      "lat": 23.65,
+      "lon": 88.13333
+    },
+    "facts": [
+      "Stands at about 11 m elevation.",
+      "Lies in West Bengal, Jharkhand."
+    ]
+  },
+  {
     "id": "amreshwar-dham-jharkhand",
     "name": "Amreshwar Dham",
     "state": "Jharkhand",
@@ -11,6 +41,86 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
+    ]
+  },
+  {
+    "id": "ancient-fort-and-sangeet-dalan-jharkhand",
+    "name": "Ancient Fort and Sangeet Dalan",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Ancient Fort and Sangeet Dalan is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sahibganj, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-locally-known-as-kulugarha-jharkhand",
+    "name": "Ancient Mound locally known as Kulugarha",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Ancient Mound locally known as Kulugarha is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Itagarh, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-stone-temple-with-a-small-sivalinga-inside-jharkhand",
+    "name": "Ancient Stone Temple with a small Sivalinga inside",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Ancient Stone Temple with a small Sivalinga inside is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khakhparta, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "art-gallery-jharkhand",
+    "name": "Art gallery",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Art gallery is a place where art is exhibited and sometimes also sold.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Jharkhand."
+    ]
+  },
+  {
+    "id": "asura-sites-jharkhand",
+    "name": "Asura Sites",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Asura Sites is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hansa, Jharkhand.",
+      "Lies in Kathartoli, Jharkhand.",
+      "Lies in Khunti Tola, Jharkhand.",
+      "Lies in Kunjla, Jharkhand.",
+      "Lies in Saridkel, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -25,6 +135,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Deoghar, Jharkhand."
+    ]
+  },
+  {
+    "id": "bakreshwar-river-jharkhand",
+    "name": "Bakreshwar River",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Bakreshwar River is a river in India.",
+    "coordinates": {
+      "lat": 23.79722,
+      "lon": 87.77672
+    },
+    "facts": [
+      "Lies in Santhal Pargana division, Jharkhand."
     ]
   },
   {
@@ -39,6 +166,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Mary.",
+      "Associated with Catholicism."
     ]
   },
   {
@@ -54,6 +185,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
     ]
   },
   {
@@ -68,20 +202,24 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1989.",
+      "Lies in South Chotanagpur division, Jharkhand."
     ]
   },
   {
-    "id": "bhatinda-falls-jharkhand",
-    "name": "Bhatinda Falls",
+    "id": "bhagwan-birsa-biological-park-jharkhand",
+    "name": "Bhagwan Birsa Biological Park",
     "state": "Jharkhand",
-    "category": "nature",
-    "description": "Bhatinda Falls is a waterfall in Jharkhand, India.",
+    "category": "wildlife",
+    "description": "Bhagwan Birsa Biological Park is a zoo and park located in India.",
     "coordinates": {
-      "lat": 23.7108,
-      "lon": 86.33173
+      "lat": 23.458,
+      "lon": 85.457
     },
-    "tags": [
-      "waterfall"
+    "facts": [
+      "Known as a wildlife destination in Jharkhand."
     ]
   },
   {
@@ -92,6 +230,9 @@
     "description": "Bindudham is a hindu temple in Jharkhand, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
     ]
   },
   {
@@ -99,7 +240,28 @@
     "name": "Birsa Munda Agro Park Gumla",
     "state": "Jharkhand",
     "category": "other",
-    "description": "Birsa Munda Agro Park Gumla is a park in India."
+    "description": "Birsa Munda Agro Park Gumla is a park in India.",
+    "facts": [
+      "Known as a tourism destination in Jharkhand."
+    ]
+  },
+  {
+    "id": "bokaro-steel-city-jharkhand",
+    "name": "Bokaro Steel City",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Bokaro Steel City is a steel city of India.",
+    "coordinates": {
+      "lat": 23.67,
+      "lon": 86.15
+    },
+    "facts": [
+      "Dates from 1964.",
+      "Founded by Steel Authority of India Limited.",
+      "Stands at about 210 m elevation.",
+      "Covers about 183 km².",
+      "Lies in Bokaro district, Jharkhand."
+    ]
   },
   {
     "id": "chandil-dam-jharkhand",
@@ -110,7 +272,10 @@
     "coordinates": {
       "lat": 22.9747,
       "lon": 86.0203
-    }
+    },
+    "facts": [
+      "Rises about 56.8 m."
+    ]
   },
   {
     "id": "charowa-dam-jharkhand",
@@ -121,7 +286,10 @@
     "coordinates": {
       "lat": 24.0286,
       "lon": 85.3154
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Jharkhand."
+    ]
   },
   {
     "id": "chhinnamasta-temple-rajrappa-jharkhand",
@@ -135,6 +303,22 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ramgarh district, Jharkhand."
+    ]
+  },
+  {
+    "id": "culture-jharkhand",
+    "name": "Culture",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Culture is a shared aspects of a society's way of life.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Named after cult."
     ]
   },
   {
@@ -149,6 +333,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1976."
     ]
   },
   {
@@ -163,6 +350,28 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Ranchi district, Jharkhand."
+    ]
+  },
+  {
+    "id": "deoghar-jharkhand",
+    "name": "Deoghar",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Deoghar is a headquarters of Deoghar district, Santhal Parganas, Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.48,
+      "lon": 86.7
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 254 m elevation.",
+      "Covers about 337 km².",
+      "Lies in Deoghar district, Jharkhand."
     ]
   },
   {
@@ -177,6 +386,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
     ]
   },
   {
@@ -188,34 +400,24 @@
     "coordinates": {
       "lat": 23.29144,
       "lon": 85.25655
-    }
-  },
-  {
-    "id": "dimna-lake-jharkhand",
-    "name": "Dimna Lake",
-    "state": "Jharkhand",
-    "category": "nature",
-    "description": "Dimna Lake is a lake in Jamshedpur, India.",
-    "coordinates": {
-      "lat": 22.86311,
-      "lon": 86.26156
     },
-    "tags": [
-      "lake"
+    "facts": [
+      "Known as a nature destination in Jharkhand."
     ]
   },
   {
-    "id": "gayatri-gyan-mandir-mahuda-jharkhand",
-    "name": "Gayatri Gyan Mandir, Mahuda",
+    "id": "forts-and-temples-jharkhand",
+    "name": "Forts and temples",
     "state": "Jharkhand",
-    "category": "spiritual",
-    "description": "Gayatri Gyan Mandir, Mahuda is a hindu temple in Jharkhand, India.",
-    "coordinates": {
-      "lat": 23.74867,
-      "lon": 86.26389
-    },
+    "category": "heritage",
+    "description": "Forts and temples is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Navratangarh, Jharkhand."
+    ],
     "tags": [
-      "temple"
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -227,7 +429,10 @@
     "coordinates": {
       "lat": 23.45669,
       "lon": 85.55534
-    }
+    },
+    "facts": [
+      "Set on Subarnarekha River."
+    ]
   },
   {
     "id": "harihar-dham-jharkhand",
@@ -241,20 +446,28 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Giridih district, Jharkhand."
     ]
   },
   {
     "id": "hazaribagh-jharkhand",
     "name": "Hazaribagh",
     "state": "Jharkhand",
-    "category": "other",
+    "category": "hill-station",
     "description": "Hazaribagh is a city.",
     "coordinates": {
       "lat": 23.98,
       "lon": 85.35
     },
     "tags": [
-      "hill-station"
+      "hill-station",
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 610 m elevation.",
+      "Lies in Hazaribagh district, Jharkhand."
     ]
   },
   {
@@ -269,6 +482,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jharkhand."
     ]
   },
   {
@@ -284,6 +500,9 @@
     "tags": [
       "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in North Chotanagpur division, Jharkhand."
     ]
   },
   {
@@ -298,6 +517,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in West Singhbhum district, Jharkhand."
     ]
   },
   {
@@ -312,6 +534,43 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Part of Subarnarekha River.",
+      "Lies in Ranchi district, Jharkhand."
+    ]
+  },
+  {
+    "id": "ichagarh-jharkhand",
+    "name": "Ichagarh",
+    "state": "Jharkhand",
+    "category": "offbeat",
+    "description": "Ichagarh is a village in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.02,
+      "lon": 85.55
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Stands at about 246 m elevation.",
+      "Lies in Seraikela Kharsawan district, Jharkhand."
+    ]
+  },
+  {
+    "id": "jagannath-temple-jharkhand",
+    "name": "Jagannath Temple",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Jagannath Temple is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ranchi, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -326,6 +585,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Ranchi district, Jharkhand."
     ]
   },
   {
@@ -340,6 +603,24 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Built in the Islamic architecture style."
+    ]
+  },
+  {
+    "id": "jamma-masjid-jharkhand",
+    "name": "Jamma Masjid",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Jamma Masjid is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hadaf, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -347,7 +628,11 @@
     "name": "Jawaharlal Nehru Biological Park",
     "state": "Jharkhand",
     "category": "wildlife",
-    "description": "Jawaharlal Nehru Biological Park is a zoo in Jharkhand, India."
+    "description": "Jawaharlal Nehru Biological Park is a zoo in Jharkhand, India.",
+    "facts": [
+      "Dates from 1989.",
+      "Named after Jawaharlal Nehru."
+    ]
   },
   {
     "id": "jharkhand-dham-jharkhand",
@@ -361,6 +646,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
     ]
   },
   {
@@ -372,7 +660,10 @@
     "coordinates": {
       "lat": 23.397,
       "lon": 85.387
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Jharkhand."
+    ]
   },
   {
     "id": "jonha-falls-jharkhand",
@@ -386,6 +677,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Ranchi district, Jharkhand."
     ]
   },
   {
@@ -400,6 +694,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
     ]
   },
   {
@@ -414,6 +711,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Deoghar district, Jharkhand."
     ]
   },
   {
@@ -428,6 +728,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
     ]
   },
   {
@@ -439,7 +742,10 @@
     "coordinates": {
       "lat": 24.23944,
       "lon": 86.34861
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Jharkhand."
+    ]
   },
   {
     "id": "khukhragarh-jharkhand",
@@ -454,6 +760,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Jharkhand."
     ]
   },
   {
@@ -468,6 +777,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jharkhand."
     ]
   },
   {
@@ -479,7 +791,11 @@
     "coordinates": {
       "lat": 23.94111,
       "lon": 85.775
-    }
+    },
+    "facts": [
+      "Set on Konar River.",
+      "Rises about 57.6 m."
+    ]
   },
   {
     "id": "lawalong-wildlife-sanctuary-jharkhand",
@@ -493,6 +809,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jharkhand."
     ]
   },
   {
@@ -507,6 +826,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Lohardaga district, Jharkhand."
     ]
   },
   {
@@ -521,6 +843,10 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Part of Burha River.",
+      "Lies in Latehar district, Jharkhand."
     ]
   },
   {
@@ -535,6 +861,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Latehar district, Jharkhand."
     ]
   },
   {
@@ -549,6 +878,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ranchi district, Jharkhand."
     ]
   },
   {
@@ -563,18 +895,25 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jharkhand."
     ]
   },
   {
-    "id": "maithon-dam-jharkhand",
-    "name": "Maithon Dam",
+    "id": "maluti-temple-jharkhand",
+    "name": "Maluti Temple",
     "state": "Jharkhand",
-    "category": "nature",
-    "description": "Maithon Dam is a dam in India.",
-    "coordinates": {
-      "lat": 23.78532,
-      "lon": 86.81243
-    }
+    "category": "spiritual",
+    "description": "Maluti Temple is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dumka, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "maluti-temples-jharkhand",
@@ -588,6 +927,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Dumka district, Jharkhand."
     ]
   },
   {
@@ -599,7 +942,82 @@
     "coordinates": {
       "lat": 24.1068,
       "lon": 87.3084
-    }
+    },
+    "facts": [
+      "Dates from 1955.",
+      "Rises about 47.2 m.",
+      "Lies in Dumka district, Jharkhand."
+    ]
+  },
+  {
+    "id": "mayurakshi-river-jharkhand",
+    "name": "Mayurakshi River",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Mayurakshi River is a major river in Jharkhand and West Bengal, India.",
+    "coordinates": {
+      "lat": 23.94754,
+      "lon": 87.5113
+    },
+    "facts": [
+      "Lies in Birbhum district, Jharkhand."
+    ]
+  },
+  {
+    "id": "mccluskieganj-jharkhand",
+    "name": "McCluskieganj",
+    "state": "Jharkhand",
+    "category": "hill-station",
+    "description": "McCluskieganj is a town and block in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.64,
+      "lon": 84.94
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Ranchi, Jharkhand."
+    ]
+  },
+  {
+    "id": "medininagar-jharkhand",
+    "name": "Medininagar",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Medininagar is a city in India.",
+    "coordinates": {
+      "lat": 24.03333,
+      "lon": 84.06667
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Dates from 1880.",
+      "Stands at about 215 m elevation.",
+      "Covers about 150 km².",
+      "Lies in Palamu district, Jharkhand."
+    ]
+  },
+  {
+    "id": "nagar-untari-jharkhand",
+    "name": "Nagar Untari",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Nagar Untari is a block in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.28,
+      "lon": 83.5
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Dates from 2007.",
+      "Stands at about 248 m elevation.",
+      "Lies in Garhwa district, Jharkhand."
+    ]
   },
   {
     "id": "nakshatra-van-jharkhand",
@@ -610,7 +1028,10 @@
     "coordinates": {
       "lat": 23.381,
       "lon": 85.321
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Jharkhand."
+    ]
   },
   {
     "id": "naulakha-temple-deoghar-jharkhand",
@@ -624,6 +1045,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Deoghar, Jharkhand."
     ]
   },
   {
@@ -638,6 +1062,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ranchi district, Jharkhand."
     ]
   },
   {
@@ -652,6 +1079,9 @@
     },
     "tags": [
       "tiger-reserve"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jharkhand."
     ]
   },
   {
@@ -666,6 +1096,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Satbarwa block, Jharkhand."
     ]
   },
   {
@@ -680,18 +1113,10 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Palkot, Jharkhand."
     ]
-  },
-  {
-    "id": "panchet-dam-jharkhand",
-    "name": "Panchet Dam",
-    "state": "Jharkhand",
-    "category": "nature",
-    "description": "Panchet Dam is a dam in West Bengal, India.",
-    "coordinates": {
-      "lat": 23.67806,
-      "lon": 86.74694
-    }
   },
   {
     "id": "panchghagh-falls-jharkhand",
@@ -705,6 +1130,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Khunti district, Jharkhand."
     ]
   },
   {
@@ -719,6 +1147,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
     ]
   },
   {
@@ -733,6 +1164,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Khunti district, Jharkhand."
     ]
   },
   {
@@ -747,6 +1181,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jharkhand."
     ]
   },
   {
@@ -761,18 +1198,43 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Ramgarh district, Jharkhand."
     ]
   },
   {
     "id": "ramgarh-chinese-cemetery-jharkhand",
     "name": "Ramgarh Chinese Cemetery",
     "state": "Jharkhand",
-    "category": "other",
+    "category": "heritage",
     "description": "Ramgarh Chinese Cemetery is a chinese WWII cemetery in Ramgarh, India.",
     "coordinates": {
       "lat": 23.60999,
       "lon": 85.49332
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Jharkhand."
+    ]
+  },
+  {
+    "id": "ranchi-jharkhand",
+    "name": "Ranchi",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Ranchi is a capital of East Indian state Jharkhand.",
+    "coordinates": {
+      "lat": 23.35556,
+      "lon": 85.33472
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 651 m elevation.",
+      "Covers about 652 km².",
+      "Lies in Ranchi district, Jharkhand."
+    ]
   },
   {
     "id": "ranchi-lake-jharkhand",
@@ -786,6 +1248,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Jharkhand."
     ]
   },
   {
@@ -800,20 +1265,9 @@
     },
     "tags": [
       "museum"
-    ]
-  },
-  {
-    "id": "rani-sati-mandir-mahuda-jharkhand",
-    "name": "Rani Sati Mandir Mahuda",
-    "state": "Jharkhand",
-    "category": "spiritual",
-    "description": "Rani Sati Mandir Mahuda is a hindu temple in Jharkhand, India.",
-    "coordinates": {
-      "lat": 23.75059,
-      "lon": 86.26942
-    },
-    "tags": [
-      "temple"
+    ],
+    "facts": [
+      "Dates from 2010."
     ]
   },
   {
@@ -828,6 +1282,37 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
+    ]
+  },
+  {
+    "id": "research-jharkhand",
+    "name": "Research",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Research is a systematic study undertaken to increase knowledge.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Part of science."
+    ]
+  },
+  {
+    "id": "ruins-of-baradari-buildings-with-probable-underground-cells-and-passage-jharkhand",
+    "name": "Ruins of Baradari buildings with probable underground cells and passage",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Ruins of Baradari buildings with probable underground cells and passage is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Arazimukimpur, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -842,6 +1327,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Part of Sankh River."
     ]
   },
   {
@@ -856,6 +1344,22 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1991."
+    ]
+  },
+  {
+    "id": "science-jharkhand",
+    "name": "Science",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Science is a systematic study of the world through testable explanations, empirical evidence, and independent verification.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Part of science, technology, engineering, and mathematics."
     ]
   },
   {
@@ -871,6 +1375,25 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 1,365 m elevation.",
+      "Lies in North Chotanagpur division, Jharkhand."
+    ]
+  },
+  {
+    "id": "simdega-jharkhand",
+    "name": "Simdega",
+    "state": "Jharkhand",
+    "category": "other",
+    "description": "Simdega is a city in India.",
+    "coordinates": {
+      "lat": 22.62,
+      "lon": 84.52
+    },
+    "facts": [
+      "Dates from 15 September 1915.",
+      "Stands at about 418 m elevation."
     ]
   },
   {
@@ -885,6 +1408,24 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Ranchi district, Jharkhand."
+    ]
+  },
+  {
+    "id": "site-of-an-old-fort-jharkhand",
+    "name": "Site of an old fort",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Site of an old fort is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ruam, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -899,6 +1440,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bokaro district, Jharkhand."
     ]
   },
   {
@@ -913,6 +1457,13 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1906.",
+      "Dedicated to Mary.",
+      "Associated with Catholicism.",
+      "Named after Mary.",
+      "Lies in Ranchi, Jharkhand."
     ]
   },
   {
@@ -927,6 +1478,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 10 September 2009.",
+      "Lies in Ranchi, Jharkhand."
     ]
   },
   {
@@ -938,7 +1493,10 @@
     "coordinates": {
       "lat": 24.1495,
       "lon": 85.6454
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Jharkhand."
+    ]
   },
   {
     "id": "surya-temple-ranchi-jharkhand",
@@ -952,6 +1510,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Jharkhand."
+    ]
+  },
+  {
+    "id": "temples-at-haradih-jharkhand",
+    "name": "Temples at Haradih",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Temples at Haradih is a protected monument in Jharkhand, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Haradih, Jharkhand."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -963,7 +1539,10 @@
     "coordinates": {
       "lat": 23.73,
       "lon": 85.8319
-    }
+    },
+    "facts": [
+      "Rises about 50.6 m."
+    ]
   },
   {
     "id": "tilaiya-dam-jharkhand",
@@ -974,7 +1553,10 @@
     "coordinates": {
       "lat": 24.3239,
       "lon": 85.5211
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Jharkhand."
+    ]
   },
   {
     "id": "topchanchi-wildlife-sanctuary-jharkhand",
@@ -988,6 +1570,19 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Jharkhand."
+    ]
+  },
+  {
+    "id": "tourism-in-jharkhand-jharkhand",
+    "name": "Tourism in Jharkhand",
+    "state": "Jharkhand",
+    "category": "other",
+    "description": "Tourism in Jharkhand, India.",
+    "facts": [
+      "Known as a tourism destination in Jharkhand."
     ]
   },
   {
@@ -1002,6 +1597,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Jharkhand."
     ]
   },
   {
@@ -1016,6 +1614,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Giridih district, Jharkhand."
     ]
   }
 ]

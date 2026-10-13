@@ -11,6 +11,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Chandigarh."
     ]
   },
   {
@@ -26,6 +29,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chandigarh."
     ]
   },
   {
@@ -37,7 +43,10 @@
     "coordinates": {
       "lat": 30.74861,
       "lon": 76.81028
-    }
+    },
+    "facts": [
+      "Known as a wildlife destination in Chandigarh."
+    ]
   },
   {
     "id": "chandigarh-capitol-complex-chandigarh",
@@ -51,6 +60,11 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Dates from 1953.",
+      "Recognised as part of UNESCO World Heritage Site.",
+      "Architect: Le Corbusier."
     ]
   },
   {
@@ -62,18 +76,10 @@
     "coordinates": {
       "lat": 30.7361,
       "lon": 76.8161
-    }
-  },
-  {
-    "id": "chandigarh-hockey-stadium-chandigarh",
-    "name": "Chandigarh Hockey Stadium",
-    "state": "Chandigarh",
-    "category": "other",
-    "description": "Chandigarh Hockey Stadium is a building in India.",
-    "coordinates": {
-      "lat": 30.72889,
-      "lon": 76.74583
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Chandigarh."
+    ]
   },
   {
     "id": "gandhi-bhawan-chandigarh-chandigarh",
@@ -84,7 +90,10 @@
     "coordinates": {
       "lat": 30.76187,
       "lon": 76.77141
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Chandigarh."
+    ]
   },
   {
     "id": "garden-of-silence-chandigarh",
@@ -95,7 +104,10 @@
     "coordinates": {
       "lat": 30.7385,
       "lon": 76.82967
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chandigarh."
+    ]
   },
   {
     "id": "garden-of-springs-chandigarh-chandigarh",
@@ -106,7 +118,10 @@
     "coordinates": {
       "lat": 30.723,
       "lon": 76.736
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chandigarh."
+    ]
   },
   {
     "id": "government-museum-and-art-gallery-chandigarh-chandigarh",
@@ -120,6 +135,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1947."
     ]
   },
   {
@@ -131,7 +149,10 @@
     "coordinates": {
       "lat": 30.70453,
       "lon": 76.78206
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chandigarh."
+    ]
   },
   {
     "id": "leisure-valley-chandigarh-chandigarh",
@@ -142,7 +163,10 @@
     "coordinates": {
       "lat": 30.75306,
       "lon": 76.79194
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chandigarh."
+    ]
   },
   {
     "id": "mahendra-chaudhary-zoological-park-chandigarh",
@@ -153,7 +177,10 @@
     "coordinates": {
       "lat": 30.6036,
       "lon": 76.7928
-    }
+    },
+    "facts": [
+      "Dates from 1977."
+    ]
   },
   {
     "id": "manimajra-fort-chandigarh",
@@ -167,6 +194,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Chandigarh."
     ]
   },
   {
@@ -178,7 +208,14 @@
     "coordinates": {
       "lat": 30.759,
       "lon": 76.8074
-    }
+    },
+    "facts": [
+      "Dates from 1964.",
+      "Architect: Le Corbusier.",
+      "Created by Le Corbusier.",
+      "Part of Chandigarh Capitol Complex.",
+      "Rises about 26 m."
+    ]
   },
   {
     "id": "palace-of-assembly-chandigarh",
@@ -191,7 +228,13 @@
       "lon": 76.80306
     },
     "tags": [
+      "world-heritage",
       "palace"
+    ],
+    "facts": [
+      "Built in the brutalist architecture style.",
+      "Architect: Le Corbusier.",
+      "Part of Chandigarh Capitol Complex."
     ]
   },
   {
@@ -203,7 +246,11 @@
     "coordinates": {
       "lat": 30.725,
       "lon": 76.77917
-    }
+    },
+    "facts": [
+      "Dates from 1998.",
+      "Covers about 2.9 km²."
+    ]
   },
   {
     "id": "rock-garden-of-chandigarh-chandigarh",
@@ -214,7 +261,11 @@
     "coordinates": {
       "lat": 30.752,
       "lon": 76.807
-    }
+    },
+    "facts": [
+      "Dates from 1957.",
+      "Founded by Nek Chand Saini."
+    ]
   },
   {
     "id": "secretariat-building-chandigarh-chandigarh",
@@ -225,7 +276,14 @@
     "coordinates": {
       "lat": 30.76111,
       "lon": 76.80056
-    }
+    },
+    "facts": [
+      "Dates from 1953.",
+      "Recognised as World Heritage Site.",
+      "Built in the modern architecture style.",
+      "Architect: Le Corbusier.",
+      "Part of Chandigarh Capitol Complex."
+    ]
   },
   {
     "id": "sukhna-interpretation-centre-chandigarh",
@@ -240,6 +298,9 @@
     "tags": [
       "lake",
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Chandigarh."
     ]
   },
   {
@@ -254,6 +315,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Architect: Le Corbusier."
     ]
   },
   {
@@ -268,6 +332,10 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1986.",
+      "Covers about 26 km²."
     ]
   },
   {
@@ -279,7 +347,10 @@
     "coordinates": {
       "lat": 30.71444,
       "lon": 76.77167
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chandigarh."
+    ]
   },
   {
     "id": "zakir-husain-rose-garden-chandigarh",
@@ -290,6 +361,9 @@
     "coordinates": {
       "lat": 30.74811,
       "lon": 76.78374
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chandigarh."
+    ]
   }
 ]

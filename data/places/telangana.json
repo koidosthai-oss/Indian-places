@@ -1,5 +1,34 @@
 [
   {
+    "id": "a-guide-to-the-heritage-of-hyderabad-telangana",
+    "name": "A Guide to the Heritage of Hyderabad",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "A Guide to the Heritage of Hyderabad is a book on the heritage structures and buildings located in Hyderabad, Telangana, India.",
+    "facts": [
+      "Known as a heritage destination in Telangana."
+    ]
+  },
+  {
+    "id": "adilabad-telangana",
+    "name": "Adilabad",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "Adilabad is a town in Adilabad mandal of Adilabad district, Telangana, India.",
+    "coordinates": {
+      "lat": 19.669,
+      "lon": 78.53548
+    },
+    "tags": [
+      "waterfall"
+    ],
+    "facts": [
+      "Stands at about 264 m elevation.",
+      "Covers about 35.5 km².",
+      "Lies in Adilabad Urban mandal, Telangana."
+    ]
+  },
+  {
     "id": "afzal-gunj-masjid-telangana",
     "name": "Afzal Gunj Masjid",
     "state": "Telangana",
@@ -11,6 +40,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -25,6 +57,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -35,6 +70,23 @@
     "description": "Aishwarya Ganapathi is a biggest statue of deity Ganesha.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "akkanna-madanna-s-temple-kukatpalli-telangana",
+    "name": "Akkanna Madanna's Temple (Kukatpalli)",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Akkanna Madanna's Temple (Kukatpalli) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -49,6 +101,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Hyderabad district, Telangana."
+    ]
+  },
+  {
+    "id": "akkanna-s-sarai-mahankali-maheswaram-maisaram-telangana",
+    "name": "Akkanna's Sarai (Mahankali Maheswaram) (Maisaram)",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Akkanna's Sarai (Mahankali Maheswaram) (Maisaram) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -64,6 +134,9 @@
     "tags": [
       "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Alampur, Telangana."
     ]
   },
   {
@@ -79,6 +152,11 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Hindu temple architecture style.",
+      "Lies in Jogulamba Gadwal district, Telangana."
     ]
   },
   {
@@ -94,6 +172,58 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Built in the Hindu temple architecture style.",
+      "Lies in Jogulamba Gadwal district, Telangana."
+    ]
+  },
+  {
+    "id": "alampur-temples-telangana",
+    "name": "Alampur Temples",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Alampur Temples is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Alampur, Telangana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "alampuram-hemalapuram-telangana",
+    "name": "Alampuram (Hemalapuram)",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Jogulamba is Temples Town in the Alampur Mandal of Gadwala District in the state of Telangana.",
+    "coordinates": {
+      "lat": 15.87987,
+      "lon": 78.13352
+    },
+    "tags": [
+      "temple",
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 269 m elevation.",
+      "Lies in Jogulamba Gadwal district, Telangana."
+    ]
+  },
+  {
+    "id": "alisagar-lift-irrigation-scheme-telangana",
+    "name": "Alisagar lift irrigation scheme",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "Alisagar lift irrigation scheme is a park and irrigation project in Telangana, India.",
+    "coordinates": {
+      "lat": 18.94,
+      "lon": 78.10167
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -108,6 +238,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to saint.",
+      "Lies in Secunderabad, Telangana."
     ]
   },
   {
@@ -122,13 +256,16 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
     "id": "ameenpur-lake-telangana",
     "name": "Ameenpur Lake",
     "state": "Telangana",
-    "category": "nature",
+    "category": "heritage",
     "description": "Ameenpur Lake is a manmade lake in Hyderabad.",
     "coordinates": {
       "lat": 17.52417,
@@ -136,6 +273,10 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 530 m elevation.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -146,18 +287,38 @@
     "description": "Amrabad Tiger Reserve is a tourism place in Telangana, India.",
     "tags": [
       "tiger-reserve"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Telangana."
     ]
   },
   {
-    "id": "ananthagiri-hills-vikarabad-district-telangana",
-    "name": "Ananthagiri Hills, Vikarabad district",
+    "id": "an-old-temple-telangana",
+    "name": "An Old Temple",
     "state": "Telangana",
-    "category": "other",
-    "description": "Ananthagiri Hills, Vikarabad district is a vikarabad, Ranga Reddy district, Telangana, India.",
-    "coordinates": {
-      "lat": 17.312,
-      "lon": 77.863
-    }
+    "category": "spiritual",
+    "description": "An Old Temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "anantgiri-fort-telangana",
+    "name": "Anantgiri Fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Anantgiri Fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "ananthagiri-temple-telangana",
@@ -171,6 +332,122 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "ancient-fort-telangana",
+    "name": "Ancient fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ancient fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-gateway-called-puranapul-telangana",
+    "name": "Ancient gateway called \"Puranapul\"",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ancient gateway called \"Puranapul\" is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-megalithic-burials-site-telangana",
+    "name": "Ancient Megalithic burials site",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ancient Megalithic burials site is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-monuments-amp-remains-buddhist-telangana",
+    "name": "Ancient Monuments &amp; Remains (Buddhist)",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ancient Monuments &amp; Remains (Buddhist) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-telangana",
+    "name": "Ancient Mound",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ancient Mound is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kondapur, Telangana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mud-fort-jaladurg-called-as-nizamkonda-telangana",
+    "name": "Ancient mud fort Jaladurg called as Nizamkonda",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ancient mud fort Jaladurg called as Nizamkonda is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "andhra-and-buddhist-sites-telangana",
+    "name": "Andhra and Buddhist sites",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Andhra and Buddhist sites is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "angadiveerannagudi-telangana",
+    "name": "Angadiveerannagudi",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Angadiveerannagudi is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -182,7 +459,38 @@
     "coordinates": {
       "lat": 17.34103,
       "lon": 78.48972
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "armenian-cemetery-telangana",
+    "name": "Armenian cemetery",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Armenian cemetery is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "artifacts-telangana",
+    "name": "Artifacts",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Artifacts is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "ashtalakshmi-temple-hyderabad-telangana",
@@ -196,6 +504,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1996.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -210,6 +522,25 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1885.",
+      "Built in the Gothic Revival style.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "avenues-telangana",
+    "name": "Avenues",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Avenues is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -221,7 +552,10 @@
     "coordinates": {
       "lat": 17.37275,
       "lon": 78.48254
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "azizia-masjid-hyderabad-telangana",
@@ -235,10 +569,13 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
-    "id": "badshahi-ashurkhana-telangana",
+    "id": "badshahi-ashurkhana-telangana-q4841150",
     "name": "Badshahi Ashurkhana",
     "state": "Telangana",
     "category": "other",
@@ -246,7 +583,13 @@
     "coordinates": {
       "lat": 17.36909,
       "lon": 78.47573
-    }
+    },
+    "facts": [
+      "Dates from 1592.",
+      "Founded by Muhammad Quli Qutb Shah.",
+      "Associated with Shia Islam.",
+      "Recognised as a State Protected Monument."
+    ]
   },
   {
     "id": "balkampet-yellamma-temple-telangana",
@@ -260,6 +603,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -274,6 +620,23 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "bansilalpet-stepwell-telangana",
+    "name": "Bansilalpet Stepwell",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Bansilalpet Stepwell is a stepwell in Hyderabad.",
+    "coordinates": {
+      "lat": 17.43061,
+      "lon": 78.49315
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -288,6 +651,11 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1880.",
+      "Maintained under Nawab Asman Jah Bahadur.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -302,6 +670,13 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Built in the Gothic Revival style.",
+      "Dedicated to Mary.",
+      "Associated with Catholicism.",
+      "Named after Mary.",
+      "Lies in Secunderabad, Telangana."
     ]
   },
   {
@@ -316,6 +691,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jogulamba Gadwal district, Telangana."
     ]
   },
   {
@@ -327,7 +705,24 @@
     "coordinates": {
       "lat": 17.37341,
       "lon": 78.47377
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "begumpet-neolithic-site-telangana",
+    "name": "Begumpet (Neolithic site)",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Begumpet (Neolithic site) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "bella-vista-hyderabad-telangana",
@@ -341,6 +736,10 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1910.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -355,6 +754,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -369,6 +771,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dedicated to Bhadrakali.",
+      "Lies in Warangal district, Telangana."
     ]
   },
   {
@@ -383,6 +789,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Hyderabad district, Telangana."
     ]
   },
   {
@@ -397,6 +806,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Bhongir, Telangana."
     ]
   },
   {
@@ -408,7 +820,10 @@
     "coordinates": {
       "lat": 17.4286,
       "lon": 78.3752
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "birla-mandir-hyderabad-telangana",
@@ -422,6 +837,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1966.",
+      "Opened in 1976.",
+      "Dedicated to Venkateswara.",
+      "Associated with Hinduism.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -429,13 +851,36 @@
     "name": "Birla Science Museum",
     "state": "Telangana",
     "category": "heritage",
-    "description": "Birla Science Museum is an Indian science museum.",
+    "description": "Birla Science Museum is an indian science museum.",
     "coordinates": {
       "lat": 17.40335,
       "lon": 78.47065
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1985.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "bodhan-telangana",
+    "name": "Bodhan",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Bodhan is a town in Bodhan mandal of Nizamabad district, Telangana, India.",
+    "coordinates": {
+      "lat": 18.67,
+      "lon": 77.9
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Stands at about 357 m elevation.",
+      "Covers about 21.4 km².",
+      "Lies in Bodhan mandal, Telangana."
     ]
   },
   {
@@ -443,13 +888,30 @@
     "name": "Bogatha Waterfall",
     "state": "Telangana",
     "category": "nature",
-    "description": "Bogatha Waterfall is a waterfall located in Koyaveerapuram G, Wazeedu Mandal, Jayashankar Bhupalpally district, Telangana.",
+    "description": "Waterfall located in Koyaveerapuram G, Wazeedu Mandal, Jayashankar Bhupalpally district, Telangana.",
     "coordinates": {
       "lat": 18.4761,
       "lon": 80.5
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "boinapalli-cairns-telangana",
+    "name": "Boinapalli Cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Boinapalli Cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -457,13 +919,16 @@
     "name": "Bommalagutta",
     "state": "Telangana",
     "category": "heritage",
-    "description": "Bommalagutta is a Jain heritage site near Kurikial village, Telangana.",
+    "description": "Bommalagutta is a jain heritage site near Kurikial village, Telangana.",
     "coordinates": {
       "lat": 18.55333,
       "lon": 79.01486
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Karimnagar district, Telangana."
     ]
   },
   {
@@ -478,6 +943,11 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1803.",
+      "Built in the Palladian architecture style.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -489,7 +959,126 @@
     "coordinates": {
       "lat": 17.41556,
       "lon": 78.475
-    }
+    },
+    "facts": [
+      "Dates from 1 December 1992.",
+      "Dedicated to The Buddha.",
+      "Set on Hussain Sagar.",
+      "Rises about 18 m.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "buddhavanam-telangana",
+    "name": "Buddhavanam",
+    "state": "Telangana",
+    "category": "other",
+    "description": "Buddhavanam is a buddhist theme park in Nagarjuna Sagar, Telangana.",
+    "coordinates": {
+      "lat": 16.62648,
+      "lon": 79.28931
+    },
+    "facts": [
+      "Opened in 14 May 2022."
+    ]
+  },
+  {
+    "id": "buddhist-and-andhra-site-telangana",
+    "name": "Buddhist and Andhra site",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Buddhist and Andhra site is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "buddhist-and-andhra-sites-telangana",
+    "name": "Buddhist and Andhra sites",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Buddhist and Andhra sites is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cairn-circles-telangana",
+    "name": "Cairn circles",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Cairn circles is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cairns-and-cromlechs-telangana",
+    "name": "Cairns and Cromlechs",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Cairns and Cromlechs is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cairns-and-menhirs-telangana",
+    "name": "Cairns and Menhirs",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Cairns and Menhirs is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cairns-cromleches-telangana",
+    "name": "Cairns & Cromleches",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Cairns & Cromleches is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cairns-telangana",
+    "name": "Cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "centenary-baptist-church-secunderabad-telangana",
@@ -503,6 +1092,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Built in the postmodern architecture style."
     ]
   },
   {
@@ -517,10 +1109,28 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Associated with Protestantism.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
-    "id": "charminar-telangana",
+    "id": "chalukyan-temple-siva-temple-telangana",
+    "name": "Chalukyan temple (Siva temple)",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Chalukyan temple (Siva temple) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "charminar-telangana-q1771696",
     "name": "Charminar",
     "state": "Telangana",
     "category": "spiritual",
@@ -532,6 +1142,14 @@
     "tags": [
       "world-heritage",
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1591.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Islamic architecture style.",
+      "Founded by Muhammad Quli Qutb Shah.",
+      "Rises about 48.7 m.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -539,7 +1157,10 @@
     "name": "Chatta Bazaar",
     "state": "Telangana",
     "category": "other",
-    "description": "Chatta Bazaar is a bazaar in Hyderabad, India."
+    "description": "Chatta Bazaar is a bazaar in Hyderabad, India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "chaya-someswara-temple-telangana",
@@ -553,6 +1174,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Built in the Dravidian architecture style.",
+      "Associated with Shaivism."
     ]
   },
   {
@@ -568,6 +1193,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -583,6 +1211,10 @@
     "tags": [
       "fort",
       "palace"
+    ],
+    "facts": [
+      "Dates from 1890.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -597,6 +1229,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -611,6 +1246,10 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1880.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -621,6 +1260,9 @@
     "description": "Christ Church, Hyderabad is a church building in Telangana, India.",
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Built in the Gothic Revival style."
     ]
   },
   {
@@ -631,6 +1273,24 @@
     "description": "City Museum, Hyderabad is a museum in Hyderabad, India.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 11 March 2012.",
+      "Lies in Purani Haveli, Telangana."
+    ]
+  },
+  {
+    "id": "cromlechs-telangana",
+    "name": "Cromlechs",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Cromlechs is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -645,6 +1305,81 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1881.",
+      "Built in the Carpenter Gothic style.",
+      "Lies in Secunderabad, Telangana."
+    ]
+  },
+  {
+    "id": "daraga-hazarat-syed-shah-raziuddin-telangana",
+    "name": "Daraga Hazarat Syed Shah Raziuddin",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Daraga Hazarat Syed Shah Raziuddin is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dargah-hazratha-saidani-ma-saheba-telangana",
+    "name": "Dargah Hazratha Saidani-Ma-Saheba",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Dargah Hazratha Saidani-Ma-Saheba is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dargah-of-bagsawar-telangana",
+    "name": "Dargah of Bagsawar",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Dargah of Bagsawar is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dargah-of-hazrat-zamal-bahar-telangana",
+    "name": "Dargah of Hazrat Zamal Bahar",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Dargah of Hazrat Zamal Bahar is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dargah-of-shah-zia-ul-haq-telangana",
+    "name": "Dargah of Shah Zia-Ul-Haq",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Dargah of Shah Zia-Ul-Haq is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -655,6 +1390,9 @@
     "description": "Dargah Yousufain is a dargah in Hyderabad, India.",
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -662,7 +1400,10 @@
     "name": "Deccan Park (park)",
     "state": "Telangana",
     "category": "other",
-    "description": "Deccan Park (park) is a park in Telangana, India."
+    "description": "Deccan Park (park) is a park in Telangana, India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "deval-masjid-telangana",
@@ -676,21 +1417,26 @@
     },
     "tags": [
       "temple",
-      "mosque"
+      "mosque",
+      "lesser-known"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
-    "id": "devarakonda-telangana",
-    "name": "Devarakonda",
+    "id": "deval-mosque-and-rashtrakuta-canara-telugu-inscriptions-telangana",
+    "name": "Deval Mosque and Rashtrakuta (Canara-Telugu) inscriptions",
     "state": "Telangana",
-    "category": "heritage",
-    "description": "Devarakonda is a census town in Devarakonda mandal of Nalgonda district, Telangana, India.",
-    "coordinates": {
-      "lat": 16.7,
-      "lon": 78.9333
-    },
+    "category": "spiritual",
+    "description": "Deval Mosque and Rashtrakuta (Canara-Telugu) inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | district = Nizamabad, Telangana."
+    ],
     "tags": [
-      "fort"
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -705,6 +1451,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jayashankar Bhupalpally district, Telangana."
     ]
   },
   {
@@ -716,14 +1465,48 @@
     "coordinates": {
       "lat": 17.99333,
       "lon": 79.44278
-    }
+    },
+    "facts": [
+      "Lies in Hanamkonda district, Telangana."
+    ]
   },
   {
     "id": "dharna-chowk-hyderabad-telangana",
     "name": "Dharna Chowk, Hyderabad",
     "state": "Telangana",
     "category": "other",
-    "description": "Dharna Chowk, Hyderabad is a square in Telangana, India."
+    "description": "Dharna Chowk, Hyderabad is a square in Telangana, India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
+  },
+  {
+    "id": "dolmens-cairns-venues-telangana",
+    "name": "Dolmens, Cairns, Venues",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Dolmens, Cairns, Venues is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dolmens-telangana",
+    "name": "Dolmens",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Dolmens is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "dubba-rajeswara-temple-telangana",
@@ -737,6 +1520,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jagtial district, Telangana."
     ]
   },
   {
@@ -751,6 +1537,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -765,6 +1554,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -779,6 +1571,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Karimnagar district, Telangana."
     ]
   },
   {
@@ -793,6 +1588,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Suryapet district, Telangana."
     ]
   },
   {
@@ -807,20 +1605,11 @@
     },
     "tags": [
       "palace"
-    ]
-  },
-  {
-    "id": "eturnagaram-wildlife-sanctuary-telangana",
-    "name": "Eturnagaram Wildlife Sanctuary",
-    "state": "Telangana",
-    "category": "wildlife",
-    "description": "Eturnagaram Wildlife Sanctuary is a wildlife sanctuary in Telangana, India.",
-    "coordinates": {
-      "lat": 18.341,
-      "lon": 80.33
-    },
-    "tags": [
-      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1870.",
+      "Built in the baroque architecture style.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -835,6 +1624,182 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1893.",
+      "Part of Taj Hotels Resorts and Palaces.",
+      "Maintained under Prince Muhammad Fazl-ud-Din Khan, 7th Prince Paigah.",
+      "Stands at about 609 m elevation.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "flakes-cores-and-deolithis-telangana",
+    "name": "Flakes, cores and Deolithis",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Flakes, cores and Deolithis is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "flakes-cores-and-other-stone-implements-telangana",
+    "name": "Flakes Cores and other stone implements",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Flakes Cores and other stone implements is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-and-mosque-telangana",
+    "name": "Fort and Mosque",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fort and Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-ashur-khana-and-inscription-of-ibrahim-qutub-shah-telangana",
+    "name": "Fort Ashur Khana and inscription of Ibrahim Qutub Shah",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fort Ashur Khana and inscription of Ibrahim Qutub Shah is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-of-servay-papa-rayudu-soldier-locally-known-as-quilla-shapur-telangana",
+    "name": "Fort of Servay Papa Rayudu (Soldier) locally known as quilla shapur",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fort of Servay Papa Rayudu (Soldier) locally known as quilla shapur is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-telangana-alt-8",
+    "name": "Fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | district = Nizamabad, Telangana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fortification-and-baradari-telangana",
+    "name": "Fortification and Baradari",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fortification and Baradari is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fortification-and-idgah-telangana",
+    "name": "Fortification and Idgah",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fortification and Idgah is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fortification-telangana",
+    "name": "Fortification",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fortification is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fortification-walls-including-moatbed-and-mahadev-temple-telangana",
+    "name": "Fortification walls including Moatbed and Mahadev temple",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fortification walls including Moatbed and Mahadev temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fortifications-telangana",
+    "name": "Fortifications",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fortifications is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fossils-prehistoric-telangana",
+    "name": "Fossils (Prehistoric)",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Fossils (Prehistoric) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -849,6 +1814,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Dates from 1897.",
+      "Covers about 2 km².",
+      "Lies in Secunderabad, Telangana."
     ]
   },
   {
@@ -865,6 +1835,37 @@
       "fort",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a heritage destination in Telangana."
+    ]
+  },
+  {
+    "id": "gandharikota-telangana",
+    "name": "Gandharikota",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Gandharikota is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gathemaswara-temple-telangana",
+    "name": "Gathemaswara temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Gathemaswara temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -879,6 +1880,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -893,6 +1897,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Nirmal district, Telangana."
     ]
   },
   {
@@ -906,9 +1913,26 @@
       "lon": 78.40417
     },
     "tags": [
-      "world-heritage",
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "golkonda-fort-fortifications-telangana",
+    "name": "Golkonda Fort, Fortifications",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Golkonda Fort, Fortifications is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hyderabad, Telangana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -920,6 +1944,23 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "gopalji-s-temple-amp-other-temple-and-inscriptions-on-the-tank-bund-telangana",
+    "name": "Gopalji's temple &amp; other temple and inscriptions on the tank bund",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Gopalji's temple &amp; other temple and inscriptions on the tank bund is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -935,6 +1976,37 @@
     "tags": [
       "palace",
       "temple"
+    ],
+    "facts": [
+      "Dates from 1682.",
+      "Recognised as INTACH listed monuments.",
+      "Built in the Qutb Shahi architecture style.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "government-of-andhra-pradesh-telangana",
+    "name": "Government of Andhra Pradesh",
+    "state": "Telangana",
+    "category": "other",
+    "description": "Government of Andhra Pradesh is a legislative, executive and judiciary powers of Andhra Pradesh.",
+    "facts": [
+      "Dates from 1956.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "grave-and-mosque-of-princes-hussaina-begum-abdullah-qutub-shah-s-daughter-telangana",
+    "name": "Grave and Mosque of Princes, Hussaina Begum, Abdullah Qutub Shah's daughter",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Grave and Mosque of Princes, Hussaina Begum, Abdullah Qutub Shah's daughter is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -949,6 +2021,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "gudem-muke-gudulu-telangana",
+    "name": "Gudem Muke Gudulu",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Gudem Muke Gudulu is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -956,7 +2045,38 @@
     "name": "Gudimalkapur market",
     "state": "Telangana",
     "category": "other",
-    "description": "Gudimalkapur market is an open air market."
+    "description": "Gudimalkapur market is an open air market.",
+    "facts": [
+      "Lies in Hyderabad district, Telangana."
+    ]
+  },
+  {
+    "id": "gunfoundry-telangana",
+    "name": "Gunfoundry",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Gunfoundry is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gurramguda-cairns-telangana",
+    "name": "Gurramguda Cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Gurramguda Cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "gyan-bagh-palace-telangana",
@@ -970,6 +2090,23 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Telangana."
+    ]
+  },
+  {
+    "id": "hakim-s-tomb-telangana",
+    "name": "Hakim's Tomb",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Hakim's Tomb is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -984,6 +2121,37 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "hashmatpet-cairns-telangana",
+    "name": "Hashmatpet Cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Hashmatpet Cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hayat-bakshi-begum-mosque-telangana",
+    "name": "Hayat Bakshi Begum Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hayat Bakshi Begum Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -998,6 +2166,11 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1672.",
+      "Built in the Indo-Islamic architecture style.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1012,6 +2185,24 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1796.",
+      "Lies in Sangareddy mandal, Telangana."
+    ]
+  },
+  {
+    "id": "hill-fort-and-persian-inscriptions-telangana",
+    "name": "Hill fort and Persian inscriptions",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Hill fort and Persian inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1027,6 +2218,25 @@
     "tags": [
       "fort",
       "palace"
+    ],
+    "facts": [
+      "Dates from 1915.",
+      "Recognised as Heritage structures in Hyderabad, India.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "hill-fort-telangana",
+    "name": "Hill Fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Hill Fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1041,6 +2251,135 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "hindu-fort-telangana",
+    "name": "Hindu Fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Hindu Fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hindu-temple-amp-inscriptions-kannada-amp-telugu-telangana",
+    "name": "Hindu temple &amp; inscriptions (Kannada &amp; Telugu)",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hindu temple &amp; inscriptions (Kannada &amp; Telugu) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hindu-temple-and-inscriptions-telangana",
+    "name": "Hindu Temple and Inscriptions",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hindu Temple and Inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hindu-temple-telangana",
+    "name": "Hindu Temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hindu Temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hindu-temple-with-a-natural-cavern-at-the-back-telangana",
+    "name": "Hindu temple with a natural cavern at the back",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hindu temple with a natural cavern at the back is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hindu-temples-and-inscriptions-telangana",
+    "name": "Hindu temples and inscriptions",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hindu temples and inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hindu-temples-and-sculptures-telangana",
+    "name": "Hindu temples and sculptures",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hindu temples and sculptures is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hindu-temples-inscriptions-and-sculptures-telangana",
+    "name": "Hindu temples inscriptions and sculptures",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hindu temples inscriptions and sculptures is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hindu-temples-telangana",
+    "name": "Hindu Temples",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Hindu Temples is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1055,6 +2394,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Holy Trinity.",
+      "Lies in Secunderabad, Telangana."
     ]
   },
   {
@@ -1069,6 +2412,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Water Heritage Site.",
+      "Covers about 4.4 km².",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1079,6 +2427,9 @@
     "description": "Hussainsagar Lake and Catchment Area Improvement Project is a lake in India.",
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -1090,7 +2441,10 @@
     "coordinates": {
       "lat": 17.455,
       "lon": 78.357
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "hyderabad-golf-club-telangana",
@@ -1101,7 +2455,10 @@
     "coordinates": {
       "lat": 17.3936,
       "lon": 78.4043
-    }
+    },
+    "facts": [
+      "Dates from 1992."
+    ]
   },
   {
     "id": "hyderabad-kalibari-telangana",
@@ -1115,6 +2472,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1974.",
+      "Lies in Ranga Reddy district, Telangana."
     ]
   },
   {
@@ -1126,7 +2487,107 @@
     "coordinates": {
       "lat": 17.38,
       "lon": 78.50778
-    }
+    },
+    "facts": [
+      "Dates from 1868.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "hyderabad-telangana",
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Hyderabad is a capital of Telangana, India.",
+    "coordinates": {
+      "lat": 17.36167,
+      "lon": 78.47472
+    },
+    "tags": [
+      "world-heritage",
+      "palace",
+      "temple",
+      "mosque",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1592.",
+      "Founded by Muhammad Quli Qutb Shah.",
+      "Named after Alī ibn Abī Ṭālib.",
+      "Set beside Musi River.",
+      "Stands at about 564 m elevation.",
+      "Covers about 2,053 km²."
+    ]
+  },
+  {
+    "id": "ibrahim-bagh-telangana",
+    "name": "Ibrahim Bagh",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ibrahim Bagh is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "icchampally-project-telangana",
+    "name": "Icchampally Project",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "Icchampally Project is a dam in Karimnagar district, Telangana.",
+    "coordinates": {
+      "lat": 18.63444,
+      "lon": 80.32389
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "idgah-and-muslim-dargah-amp-old-jami-masjid-telangana",
+    "name": "Idgah and Muslim Dargah &amp; old Jami Masjid",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Idgah and Muslim Dargah &amp; old Jami Masjid is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "idgah-of-hazrat-syed-abdur-rahman-chisti-telangana",
+    "name": "Idgah of Hazrat Syed Abdur Rahman Chisti",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Idgah of Hazrat Syed Abdur Rahman Chisti is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "iklas-khan-s-mosque-telangana",
+    "name": "Iklas Khan's Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Iklas Khan's Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "indira-park-telangana",
@@ -1137,7 +2598,52 @@
     "coordinates": {
       "lat": 17.41475,
       "lon": 78.48305
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "inscriptions-canarese-telangana",
+    "name": "Inscriptions (Canarese)",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Inscriptions (Canarese) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "inscriptions-in-fort-telangana",
+    "name": "Inscriptions in Fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Inscriptions in Fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "j-chokka-rao-devadula-lift-irrigation-scheme-telangana",
+    "name": "J. Chokka Rao Devadula Lift Irrigation Scheme",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "J. Chokka Rao Devadula Lift Irrigation Scheme is an indian lift irrigation scheme.",
+    "coordinates": {
+      "lat": 18.59083,
+      "lon": 80.35111
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "jagannath-temple-hyderabad-telangana",
@@ -1151,6 +2657,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1162,6 +2671,24 @@
     "tags": [
       "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1976.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "jains-sculptures-telangana",
+    "name": "Jains sculptures",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Jains sculptures is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1173,7 +2700,10 @@
     "coordinates": {
       "lat": 17.42264,
       "lon": 78.44882
-    }
+    },
+    "facts": [
+      "Lies in Banjara Hills, Telangana."
+    ]
   },
   {
     "id": "jalavihar-telangana",
@@ -1184,7 +2714,10 @@
     "coordinates": {
       "lat": 17.43264,
       "lon": 78.46559
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "jama-masjid-hyderabad-telangana",
@@ -1198,6 +2731,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1212,6 +2748,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1226,6 +2765,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -1233,7 +2775,38 @@
     "name": "Jambagh flower market",
     "state": "Telangana",
     "category": "other",
-    "description": "Jambagh flower market is a flower market in Telangana, India."
+    "description": "Jambagh flower market is a flower market in Telangana, India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
+  },
+  {
+    "id": "jami-masjid-amp-persian-inscription-of-mohd-bin-humayun-shah-telangana",
+    "name": "Jami Masjid &amp; Persian inscription of Mohd. Bin Humayun Shah",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Jami Masjid &amp; Persian inscription of Mohd. Bin Humayun Shah is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jami-masjid-telangana",
+    "name": "Jami Masjid",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Jami Masjid is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "jan-pahad-dargah-telangana",
@@ -1247,14 +2820,34 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "janampet-barrage-telangana",
+    "name": "Janampet Barrage",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "Janampet Barrage is a dam in Pinapaka mandal of Bhadradri Kothagudem district.",
+    "coordinates": {
+      "lat": 18.10306,
+      "lon": 80.74
+    },
+    "facts": [
+      "Set beside Godavari River."
     ]
   },
   {
     "id": "jawahar-deer-park-telangana",
     "name": "Jawahar Deer Park",
     "state": "Telangana",
-    "category": "other",
-    "description": "Jawahar Deer Park is a deer park at Shamirpet, Telangana."
+    "category": "wildlife",
+    "description": "Jawahar Deer Park is a deer park at Shamirpet, Telangana.",
+    "facts": [
+      "Named after Jawaharlal Nehru."
+    ]
   },
   {
     "id": "jogulamba-temple-alampur-telangana",
@@ -1268,6 +2861,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Alampur, Telangana."
     ]
   },
   {
@@ -1282,18 +2878,40 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1913.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "jubilee-hills-telangana",
+    "name": "Jubilee Hills",
+    "state": "Telangana",
+    "category": "other",
+    "description": "Jubilee Hills is a neighborhood in Hyderabad, Telangana, India.",
+    "coordinates": {
+      "lat": 17.43084,
+      "lon": 78.41029
+    },
+    "facts": [
+      "Dates from 1980.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
     "id": "jurala-project-telangana",
     "name": "Jurala Project",
     "state": "Telangana",
-    "category": "other",
+    "category": "nature",
     "description": "Jurala Project is a hydroelectric power station in India.",
     "coordinates": {
       "lat": 16.3375,
       "lon": 77.70444
-    }
+    },
+    "facts": [
+      "Set on Krishna River."
+    ]
   },
   {
     "id": "kaddam-project-telangana",
@@ -1304,7 +2922,10 @@
     "coordinates": {
       "lat": 19.1081,
       "lon": 78.7908
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "kakatiya-musical-garden-telangana",
@@ -1315,7 +2936,10 @@
     "coordinates": {
       "lat": 17.9909,
       "lon": 79.5886
-    }
+    },
+    "facts": [
+      "Lies in Hanamakonda, Telangana."
+    ]
   },
   {
     "id": "kakatiya-trikutalayam-mutharam-telangana",
@@ -1329,6 +2953,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -1340,7 +2967,10 @@
     "coordinates": {
       "lat": 17.99278,
       "lon": 79.55889
-    }
+    },
+    "facts": [
+      "Dates from 1985."
+    ]
   },
   {
     "id": "kaleshwara-mukteswara-swamy-temple-telangana",
@@ -1354,6 +2984,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jayashankar Bhupalpally district, Telangana."
     ]
   },
   {
@@ -1365,7 +2998,10 @@
     "coordinates": {
       "lat": 18.81139,
       "lon": 79.90667
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "kapra-lake-telangana",
@@ -1379,6 +3015,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -1393,6 +3032,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "kasivisweswaralayam-consisting-of-venugopala-anantapadmanabha-and-kasivisweswara-telangana",
+    "name": "Kasivisweswaralayam (consisting of Venugopala, Anantapadmanabha and Kasivisweswara)",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Kasivisweswaralayam (consisting of Venugopala, Anantapadmanabha and Kasivisweswara) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1408,6 +3065,10 @@
     "tags": [
       "national-park",
       "palace"
+    ],
+    "facts": [
+      "Dates from 1998.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1422,6 +3083,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -1437,6 +3101,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Telangana."
     ]
   },
   {
@@ -1451,6 +3118,24 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Covers about 2,015 km².",
+      "Lies in Jannaram mandal, Telangana."
+    ]
+  },
+  {
+    "id": "keesaragutta-site-telangana",
+    "name": "Keesaragutta site",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Keesaragutta site is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1461,6 +3146,23 @@
     "description": "Keesaragutta Temple is a building in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "khairat-khan-s-tomb-telangana",
+    "name": "Khairat Khan's Tomb",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Khairat Khan's Tomb is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1471,6 +3173,23 @@
     "description": "Khairatabad Mosque is a mosque in India.",
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "khairati-begum-s-tomb-and-mosque-telangana",
+    "name": "Khairati Begum's Tomb and Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Khairati Begum's Tomb and Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1485,6 +3204,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1499,6 +3221,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -1513,6 +3238,25 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Khammam, Telangana."
+    ]
+  },
+  {
+    "id": "khammam-telangana",
+    "name": "Khammam",
+    "state": "Telangana",
+    "category": "other",
+    "description": "Khammam is a city in Khammam district, Telangana, India.",
+    "coordinates": {
+      "lat": 17.25,
+      "lon": 80.15
+    },
+    "facts": [
+      "Stands at about 107 m elevation.",
+      "Covers about 135 km².",
+      "Lies in Khammam district, Telangana."
     ]
   },
   {
@@ -1523,6 +3267,24 @@
     "description": "Khazana Building Museum is a museum in Hyderabad, India.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2013.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "khazana-building-telangana",
+    "name": "Khazana Building",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Khazana Building is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1538,6 +3300,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Telangana."
     ]
   },
   {
@@ -1545,13 +3310,16 @@
     "name": "Khursheed Jah Devdi",
     "state": "Telangana",
     "category": "heritage",
-    "description": "European styled palace built by Paigah nobles in Hyderabad.",
+    "description": "Khursheed Jah Devdi is a european styled palace built by Paigah nobles in Hyderabad.",
     "coordinates": {
       "lat": 17.35807,
       "lon": 78.46643
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1566,6 +3334,12 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Opened in 1911.",
+      "Architect: Kamal Khan.",
+      "Maintained under Nizam of Hyderabad.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -1580,6 +3354,41 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Bhadradri Kothagudem district, Telangana."
+    ]
+  },
+  {
+    "id": "koil-sagar-telangana",
+    "name": "Koil Sagar",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "Koil Sagar is a dam in Telangana, India.",
+    "coordinates": {
+      "lat": 16.70778,
+      "lon": 77.77639
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "kollapur-telangana",
+    "name": "Kollapur",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Kollapur is a town in Kollapur mandal, Nagarkurnool district, Telangana, India.",
+    "coordinates": {
+      "lat": 16.10464,
+      "lon": 78.32056
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Covers about 1,151 ha.",
+      "Lies in Nagarkurnool district, Telangana."
     ]
   },
   {
@@ -1594,6 +3403,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Siddipet district, Telangana."
     ]
   },
   {
@@ -1608,6 +3420,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jagtial district, Telangana."
     ]
   },
   {
@@ -1622,6 +3437,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Telangana."
     ]
   },
   {
@@ -1636,6 +3454,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Hanamkonda district, Telangana."
     ]
   },
   {
@@ -1647,7 +3468,11 @@
     "coordinates": {
       "lat": 17.31588,
       "lon": 78.37321
-    }
+    },
+    "facts": [
+      "Maintained under Government of Telangana.",
+      "Lies in Ranga Reddy district, Telangana."
+    ]
   },
   {
     "id": "kotilingala-telangana",
@@ -1661,6 +3486,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jagtial district, Telangana."
     ]
   },
   {
@@ -1675,6 +3503,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "kukatpalli-cairns-telangana",
+    "name": "Kukatpalli Cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Kukatpalli Cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1689,6 +3534,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Kolanupaka, Telangana."
     ]
   },
   {
@@ -1703,6 +3551,37 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "kulsum-begum-mosque-telangana",
+    "name": "Kulsum Begum Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Kulsum Begum Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kumbeswara-swamy-temple-telangana",
+    "name": "Kumbeswara Swamy temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Kumbeswara Swamy temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1717,6 +3596,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Named after Komaram Bheem.",
+      "Lies in Kumaram Bheem Asifabad district, Telangana."
     ]
   },
   {
@@ -1731,6 +3614,22 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Kuntala, Telangana."
+    ]
+  },
+  {
+    "id": "kurupuram-telangana",
+    "name": "Kurupuram",
+    "state": "Telangana",
+    "category": "offbeat",
+    "description": "Kurupuram is a village in Karnataka, India.",
+    "tags": [
+      "pilgrimage"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Telangana."
     ]
   },
   {
@@ -1742,7 +3641,10 @@
     "coordinates": {
       "lat": 17.36192,
       "lon": 78.47284
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "lakaram-lake-telangana",
@@ -1756,6 +3658,23 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "lake-inscriptions-telangana",
+    "name": "Lake & Inscriptions",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Lake & Inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1770,6 +3689,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Mulugu district, Telangana."
     ]
   },
   {
@@ -1781,7 +3703,10 @@
     "coordinates": {
       "lat": 18.70383,
       "lon": 80.08917
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "lakshmi-narasimha-temple-dharmapuri-telangana",
@@ -1795,6 +3720,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "lanka-sagar-dam-telangana",
+    "name": "Lanka Sagar Dam",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "Lanka Sagar Dam is a dam in Khammam district, Andhra Pradesh, India.",
+    "coordinates": {
+      "lat": 17.17278,
+      "lon": 80.72136
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -1805,6 +3747,37 @@
     "description": "Lateef Saheb Dargah is a tourism place in Telangana, India.",
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "laxmi-narasimhaswamy-temple-telangana",
+    "name": "Laxmi Narasimhaswamy temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Laxmi Narasimhaswamy temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lingampalli-cairns-telangana",
+    "name": "Lingampalli Cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Lingampalli Cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1819,6 +3792,10 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1936.",
+      "Maintained under Government of Telangana."
     ]
   },
   {
@@ -1830,7 +3807,11 @@
     "coordinates": {
       "lat": 16.3131,
       "lon": 77.7772
-    }
+    },
+    "facts": [
+      "Set on Krishna River.",
+      "Lies in Wanaparthy district, Telangana."
+    ]
   },
   {
     "id": "lower-manair-dam-telangana",
@@ -1841,7 +3822,10 @@
     "coordinates": {
       "lat": 18.3997,
       "lon": 79.1311
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "lumbini-park-telangana",
@@ -1852,14 +3836,34 @@
     "coordinates": {
       "lat": 17.41,
       "lon": 78.4722
-    }
+    },
+    "facts": [
+      "Dates from 1994."
+    ]
   },
   {
     "id": "madannapet-mandi-telangana",
     "name": "Madannapet mandi",
     "state": "Telangana",
     "category": "other",
-    "description": "Madannapet mandi is a farmers market in India."
+    "description": "Madannapet mandi is a farmers market in India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
+  },
+  {
+    "id": "madhapur-telangana",
+    "name": "Madhapur",
+    "state": "Telangana",
+    "category": "other",
+    "description": "Madhapur is a neighbourhood of Hyderabad, Serilingampally mandal, Rangareddy district.",
+    "coordinates": {
+      "lat": 17.44056,
+      "lon": 78.39111
+    },
+    "facts": [
+      "Lies in Serilingampally Mandal, Telangana."
+    ]
   },
   {
     "id": "madina-building-hyderabad-telangana",
@@ -1870,7 +3874,25 @@
     "coordinates": {
       "lat": 17.36806,
       "lon": 78.47556
-    }
+    },
+    "facts": [
+      "Dates from 1930.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "mahadeva-temple-telangana",
+    "name": "Mahadeva temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Mahadeva temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "mahavir-harina-vanasthali-national-park-telangana",
@@ -1884,18 +3906,26 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1975.",
+      "Lies in Hyderabad district, Telangana."
     ]
   },
   {
     "id": "mahboob-chowk-clock-tower-telangana",
     "name": "Mahboob Chowk Clock Tower",
     "state": "Telangana",
-    "category": "other",
+    "category": "heritage",
     "description": "Mahboob Chowk Clock Tower is a clock tower built in 1892 in Hyderabad, India.",
     "coordinates": {
       "lat": 17.36177,
       "lon": 78.47092
-    }
+    },
+    "facts": [
+      "Dates from 1892.",
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "mahbub-mansion-telangana",
@@ -1909,6 +3939,31 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Opened in 1902.",
+      "Maintained under Nizam of Hyderabad."
+    ]
+  },
+  {
+    "id": "mahbubnagar-telangana",
+    "name": "Mahbubnagar",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "Mahbubnagar is a city in Mahabubnagar mandal of Mahabubnagar district, Telangana, India.",
+    "coordinates": {
+      "lat": 16.73333,
+      "lon": 77.98333
+    },
+    "tags": [
+      "waterfall"
+    ],
+    "facts": [
+      "Founded by Asaf Jah VI of Hyderabad.",
+      "Named after Asaf Jah VI of Hyderabad.",
+      "Stands at about 498 m elevation.",
+      "Covers about 51.4 km².",
+      "Lies in Mahabubnagar Urban Mandal, Telangana."
     ]
   },
   {
@@ -1919,6 +3974,9 @@
     "description": "Maisigandi Maisamma Temple Kadthal is a building in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -1933,6 +3991,25 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1694.",
+      "Built in the Indo-Islamic architecture style.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "malang-shah-s-dargah-telangana",
+    "name": "Malang Shah's Dargah",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Malang Shah's Dargah is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1947,6 +4024,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -1961,6 +4041,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -1971,20 +4054,9 @@
     "description": "Manik Prabhu Temple is a building in India.",
     "tags": [
       "temple"
-    ]
-  },
-  {
-    "id": "manjira-wildlife-sanctuary-telangana",
-    "name": "Manjira Wildlife Sanctuary",
-    "state": "Telangana",
-    "category": "wildlife",
-    "description": "Manjira Wildlife Sanctuary is a wildlife sanctuary in Telangana, India.",
-    "coordinates": {
-      "lat": 17.6933,
-      "lon": 78.00639
-    },
-    "tags": [
-      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -1999,6 +4071,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -2013,6 +4088,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -2027,6 +4105,37 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "maula-ali-cairns-and-cromlechs-telangana",
+    "name": "Maula Ali Cairns and Cromlechs",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Maula Ali Cairns and Cromlechs is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mecca-masjid-telangana",
+    "name": "Mecca Masjid",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Mecca Masjid is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2041,6 +4150,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Saint Peter.",
+      "Lies in Medak, Telangana."
     ]
   },
   {
@@ -2055,6 +4168,93 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Medak district, Telangana."
+    ]
+  },
+  {
+    "id": "megalithic-burials-telangana",
+    "name": "Megalithic Burials",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Megalithic Burials is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-circle-telangana",
+    "name": "Megalithic circle",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Megalithic circle is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-site-telangana",
+    "name": "Megalithic site",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Megalithic site is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "menhir-telangana",
+    "name": "Menhir",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Menhir is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "menhirs-and-alignments-telangana",
+    "name": "Menhirs and Alignments",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Menhirs and Alignments is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mia-miskh-s-mosque-hamam-and-sarai-telangana",
+    "name": "Mia Miskh's Mosque, Hamam and Sarai",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Mia Miskh's Mosque, Hamam and Sarai is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2069,6 +4269,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -2080,7 +4283,24 @@
     "coordinates": {
       "lat": 18.3928,
       "lon": 78.9611
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "mir-alam-tank-cairns-telangana",
+    "name": "Mir Alam Tank Cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Mir Alam Tank Cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "mir-alam-tank-telangana",
@@ -2094,6 +4314,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -2104,18 +4327,26 @@
     "description": "Mirpet Mosque is a mosque in Hyderabad, Telangana, India.",
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
     "id": "moazzam-jahi-market-telangana",
     "name": "Moazzam Jahi Market",
     "state": "Telangana",
-    "category": "other",
+    "category": "heritage",
     "description": "Moazzam Jahi Market is a historic market in Hyderabad, Telangana, India.",
     "coordinates": {
       "lat": 17.38415,
       "lon": 78.47513
-    }
+    },
+    "facts": [
+      "Dates from 1935.",
+      "Named after Prince Moazzam Jah of Hyderabad.",
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "monda-market-telangana",
@@ -2126,18 +4357,110 @@
     "coordinates": {
       "lat": 17.43417,
       "lon": 78.49667
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad district, Telangana."
+    ]
+  },
+  {
+    "id": "monds-raymond-s-obelisk-telangana",
+    "name": "Monds Raymond's Obelisk",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Monds Raymond's Obelisk is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "monolithic-pillar-telangana",
+    "name": "Monolithic Pillar",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Monolithic Pillar is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mosque-in-fort-hill-fort-jami-masjid-and-idgah-telangana",
+    "name": "Mosque in Fort, Hill Fort Jami Masjid and Idgah",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Mosque in Fort, Hill Fort Jami Masjid and Idgah is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mosque-of-khooni-khan-telangana",
+    "name": "Mosque of Khooni Khan",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Mosque of Khooni Khan is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | district = Nizamabad, Telangana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mosque-telangana",
+    "name": "Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "moula-ali-hill-telangana",
     "name": "Moula Ali Hill",
     "state": "Telangana",
-    "category": "other",
+    "category": "nature",
     "description": "Moula Ali Hill is a hill in Hyderabad, India.",
     "coordinates": {
       "lat": 17.46721,
       "lon": 78.55666
-    }
+    },
+    "facts": [
+      "Stands at about 615 m elevation.",
+      "Lies in Moula-Ali, Telangana."
+    ]
+  },
+  {
+    "id": "moula-ali-telangana",
+    "name": "Moula Ali",
+    "state": "Telangana",
+    "category": "other",
+    "description": "Moula Ali is a neighbourhood in Hyderabad.",
+    "coordinates": {
+      "lat": 17.46806,
+      "lon": 78.55611
+    },
+    "facts": [
+      "Lies in Malkajgiri mandal, Telangana."
+    ]
   },
   {
     "id": "mrugavani-national-park-telangana",
@@ -2151,6 +4474,23 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Lies in Moinabad mandal, Telangana."
+    ]
+  },
+  {
+    "id": "mubarak-manal-telangana",
+    "name": "Mubarak Manal",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Mubarak Manal is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2166,6 +4506,10 @@
     "tags": [
       "world-heritage",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Tentative World Heritage Site.",
+      "Lies in Narayanpet district, Telangana."
     ]
   },
   {
@@ -2180,6 +4524,67 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1611.",
+      "Recognised as State Protected Monument.",
+      "Lies in Hyderabad district, Telangana."
+    ]
+  },
+  {
+    "id": "mushirabad-mosque-telangana",
+    "name": "Mushirabad Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Mushirabad Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "musi-river-india-telangana",
+    "name": "Musi River (India)",
+    "state": "Telangana",
+    "category": "nature",
+    "description": "Musi River (India) is a tributary of Krishna River.",
+    "coordinates": {
+      "lat": 17.36667,
+      "lon": 78.46667
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "muslim-fort-and-shah-ali-s-dargah-telangana",
+    "name": "Muslim Fort and Shah Ali's Dargah",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Muslim Fort and Shah Ali's Dargah is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "muslim-mosque-dargah-and-fort-telangana",
+    "name": "Muslim Mosque Dargah and fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Muslim Mosque Dargah and fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2191,7 +4596,10 @@
     "coordinates": {
       "lat": 16.57667,
       "lon": 79.31222
-    }
+    },
+    "facts": [
+      "Set on Krishna River."
+    ]
   },
   {
     "id": "nagunur-fort-telangana",
@@ -2206,6 +4614,9 @@
     "tags": [
       "fort",
       "temple"
+    ],
+    "facts": [
+      "Known as a heritage destination in Telangana."
     ]
   },
   {
@@ -2220,6 +4631,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -2234,6 +4648,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Suryapet district, Telangana."
     ]
   },
   {
@@ -2241,7 +4658,10 @@
     "name": "Nampally Sarai",
     "state": "Telangana",
     "category": "heritage",
-    "description": "Nampally Sarai is a heritage caravanserai at Nampally in Hyderabad, India."
+    "description": "Nampally Sarai is a heritage caravanserai at Nampally in Hyderabad, India.",
+    "facts": [
+      "Known as a heritage destination in Telangana."
+    ]
   },
   {
     "id": "nanakramguda-temple-telangana",
@@ -2251,6 +4671,9 @@
     "description": "Nanakramguda Temple is a building in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -2261,6 +4684,10 @@
     "description": "Naya Qila is a historic site in India.",
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1656.",
+      "Lies in Golconda, Telangana."
     ]
   },
   {
@@ -2275,6 +4702,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Nizamabad, Telangana."
     ]
   },
   {
@@ -2286,7 +4716,13 @@
     "coordinates": {
       "lat": 17.35111,
       "lon": 78.44972
-    }
+    },
+    "facts": [
+      "Dates from 6 October 1963.",
+      "Opened in 1963.",
+      "Named after Jawaharlal Nehru.",
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "neknampur-lake-telangana",
@@ -2300,6 +4736,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -2311,7 +4750,11 @@
     "coordinates": {
       "lat": 17.1,
       "lon": 80.0506
-    }
+    },
+    "facts": [
+      "Covers about 1,435 ha.",
+      "Lies in Nelakondapalle mandal, Telangana."
+    ]
   },
   {
     "id": "neredmet-moodu-gullu-telangana",
@@ -2325,16 +4768,28 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
-    "id": "nizam-palace-telangana",
-    "name": "Nizam Palace",
+    "id": "nirmal-telangana",
+    "name": "Nirmal",
     "state": "Telangana",
-    "category": "heritage",
-    "description": "Nizam Palace is a building in Ward No. 70, Kolkata Municipal Corporation, India.",
+    "category": "nature",
+    "description": "Nirmal is a city in Nirmal district, Telangana, India.",
+    "coordinates": {
+      "lat": 19.1,
+      "lon": 78.35
+    },
     "tags": [
-      "palace"
+      "waterfall"
+    ],
+    "facts": [
+      "Stands at about 339 m elevation.",
+      "Covers about 32.1 km².",
+      "Lies in Nirmal district, Telangana."
     ]
   },
   {
@@ -2346,7 +4801,11 @@
     "coordinates": {
       "lat": 18.2025,
       "lon": 77.92389
-    }
+    },
+    "facts": [
+      "Named after Nizam of Hyderabad.",
+      "Set on Manjira River."
+    ]
   },
   {
     "id": "nizamabad-fort-telangana",
@@ -2360,6 +4819,30 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Telangana."
+    ]
+  },
+  {
+    "id": "nizamabad-telangana-telangana",
+    "name": "Nizamabad, Telangana",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Nizamabad, Telangana is a city in Nizamabad district, Telangana, India.",
+    "coordinates": {
+      "lat": 18.672,
+      "lon": 78.094
+    },
+    "tags": [
+      "waterfall",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1905.",
+      "Stands at about 395 m elevation.",
+      "Covers about 42.9 km².",
+      "Lies in Nizamabad district, Telangana."
     ]
   },
   {
@@ -2371,7 +4854,207 @@
     "coordinates": {
       "lat": 17.41,
       "lon": 78.4722
-    }
+    },
+    "facts": [
+      "Dates from 15 December 2001.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "old-dams-telugu-and-persian-inscriptions-telangana",
+    "name": "Old Dams: Telugu and Persian inscriptions",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old Dams: Telugu and Persian inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-gate-of-dabirpura-telangana",
+    "name": "Old Gate of Dabirpura",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old Gate of Dabirpura is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-hindu-fort-and-hill-telangana",
+    "name": "Old Hindu fort and hill",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old Hindu fort and hill is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-hindu-fort-and-inscriptions-telangana",
+    "name": "Old Hindu Fort and inscriptions",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old Hindu Fort and inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-hindu-fort-bajgar-telangana",
+    "name": "Old Hindu Fort (Bajgar)",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old Hindu Fort (Bajgar) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-hindu-fort-telangana",
+    "name": "Old Hindu Fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old Hindu Fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-hindu-fortress-telangana",
+    "name": "Old Hindu Fortress",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old Hindu Fortress is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-hindu-temple-telangana",
+    "name": "Old Hindu temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Old Hindu temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-hindu-temples-telangana",
+    "name": "Old Hindu temples",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Old Hindu temples is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-mosque-telangana",
+    "name": "Old Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Old Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-temple-called-sivalayam-telangana",
+    "name": "Old temple called ‘Sivalayam'",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Old temple called ‘Sivalayam' is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-temple-telangana",
+    "name": "Old temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Old temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-tombs-telangana",
+    "name": "Old tombs",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old tombs is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-tower-telangana",
+    "name": "Old tower",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Old tower is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "osman-sagar-telangana",
@@ -2385,6 +5068,10 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Covers about 46 km².",
+      "Lies in Ranga Reddy district, Telangana."
     ]
   },
   {
@@ -2395,6 +5082,9 @@
     "description": "Paarakaphi Waterfalls is a waterfall in Telangana, India.",
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -2409,6 +5099,12 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Built in the Dravidian architecture style.",
+      "Founded by Kakatiya dynasty.",
+      "Associated with Hinduism.",
+      "Lies in Nalgonda district, Telangana."
     ]
   },
   {
@@ -2423,6 +5119,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Hanamkonda district, Telangana."
     ]
   },
   {
@@ -2433,6 +5133,10 @@
     "description": "Paigah Palace is a building in India.",
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1900.",
+      "Lies in Begumpet, Telangana."
     ]
   },
   {
@@ -2444,7 +5148,10 @@
     "coordinates": {
       "lat": 17.34398,
       "lon": 78.50413
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "pakhal-lake-telangana",
@@ -2458,6 +5165,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -2472,6 +5182,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Telangana."
     ]
   },
   {
@@ -2486,6 +5199,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -2493,7 +5209,10 @@
     "name": "Palamuru-Rangareddy Lift Irrigation Scheme",
     "state": "Telangana",
     "category": "nature",
-    "description": "Palamuru-Rangareddy Lift Irrigation Scheme is a dam in Telangana, India."
+    "description": "Palamuru-Rangareddy Lift Irrigation Scheme is a dam in Telangana, India.",
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "panagal-museum-telangana",
@@ -2507,6 +5226,24 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1982.",
+      "Lies in Panagal, Telangana."
+    ]
+  },
+  {
+    "id": "panchayatna-temple-telangana",
+    "name": "Panchayatna temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Panchayatna temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2522,6 +5259,9 @@
     "tags": [
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Regonda Mandal, Telangana."
     ]
   },
   {
@@ -2533,7 +5273,10 @@
     "coordinates": {
       "lat": 18.73572,
       "lon": 79.611
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "peddamunigal-telangana",
@@ -2547,6 +5290,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Nalgonda, Telangana."
     ]
   },
   {
@@ -2561,6 +5307,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Suryapet district, Telangana."
     ]
   },
   {
@@ -2568,7 +5317,25 @@
     "name": "Pillalamarri",
     "state": "Telangana",
     "category": "other",
-    "description": "Pillalamarri is a 800-year-old banyan tree."
+    "description": "Pillalamarri is a 800-year-old banyan tree.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
+  },
+  {
+    "id": "pillalamarri-temple-telangana",
+    "name": "Pillalamarri Temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Pillalamarri Temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pillalamarri, Telangana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "pocharam-lake-telangana",
@@ -2582,6 +5349,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -2596,6 +5366,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Telangana."
     ]
   },
   {
@@ -2610,18 +5383,24 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
     "id": "pranahita-chevella-lift-irrigation-project-telangana",
     "name": "Pranahita Chevella Lift Irrigation Project",
     "state": "Telangana",
-    "category": "other",
+    "category": "nature",
     "description": "Pranahita Chevella Lift Irrigation Project is an indian lift irrigation project.",
     "coordinates": {
       "lat": 19.55417,
       "lon": 79.82611
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "pranahita-wildlife-sanctuary-telangana",
@@ -2635,6 +5414,164 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Telangana."
+    ]
+  },
+  {
+    "id": "pratapagiri-fort-telangana",
+    "name": "Pratapagiri Fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Pratapagiri Fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "pre-historic-site-telangana",
+    "name": "Pre- historic site",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Pre- historic site is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Janapet, Telangana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-burials-avenues-and-cairns-telangana",
+    "name": "Prehistoric burials Avenues and Cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Prehistoric burials Avenues and Cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-burials-stone-circles-amp-menhirs-telangana",
+    "name": "Prehistoric burials, stone circles &amp; Menhirs",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Prehistoric burials, stone circles &amp; Menhirs is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-burials-telangana",
+    "name": "Prehistoric burials",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Prehistoric burials is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-cairns-telangana",
+    "name": "Prehistoric cairns",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Prehistoric cairns is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-cist-burials-complex-telangana",
+    "name": "Prehistoric Cist burials complex",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Prehistoric Cist burials complex is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-site-telangana",
+    "name": "Prehistoric site",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Prehistoric site is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-stone-circle-and-other-remains-telangana",
+    "name": "Prehistoric stone circle and other remains",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Prehistoric stone circle and other remains is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-stone-circles-telangana",
+    "name": "Prehistoric stone circles",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Prehistoric stone circles is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prema-mati-s-mosque-telangana",
+    "name": "Prema Mati's Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Prema Mati's Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2649,6 +5586,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -2660,7 +5600,10 @@
     "coordinates": {
       "lat": 18.00849,
       "lon": 79.55995
-    }
+    },
+    "facts": [
+      "Lies in Hanamakonda, Telangana."
+    ]
   },
   {
     "id": "public-gardens-hyderabad-telangana",
@@ -2671,7 +5614,11 @@
     "coordinates": {
       "lat": 17.3982,
       "lon": 78.4695
-    }
+    },
+    "facts": [
+      "Dates from 1846.",
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "purani-haveli-telangana",
@@ -2685,6 +5632,10 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from the 1880s.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -2692,17 +5643,13 @@
     "name": "Purani Idgah",
     "state": "Telangana",
     "category": "other",
-    "description": "Purani Idgah is a tourism place in Telangana, India."
+    "description": "Purani Idgah is a tourism place in Telangana, India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
-    "id": "qadir-ali-baig-theatre-festival-telangana",
-    "name": "Qadir Ali Baig Theatre Festival",
-    "state": "Telangana",
-    "category": "other",
-    "description": "Qadir Ali Baig Theatre Festival is an annual theatre festival in Hyderabad, India."
-  },
-  {
-    "id": "qutb-shahi-tombs-telangana",
+    "id": "qutb-shahi-tombs-telangana-q7273006",
     "name": "Qutb Shahi tombs",
     "state": "Telangana",
     "category": "heritage",
@@ -2713,6 +5660,40 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Dates from 1543.",
+      "Recognised as State Protected Monument.",
+      "Lies in Hyderabad district, Telangana.",
+      "Recognised as a State Protected Monument."
+    ]
+  },
+  {
+    "id": "qutub-shahi-mosque-br-arab-khan-s-mosque-and-inscriptions-telangana",
+    "name": "Qutub Shahi Mosque <br />Arab Khan's Mosque and Inscriptions",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Qutub Shahi Mosque <br />Arab Khan's Mosque and Inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "qutub-shahi-mosque-telangana",
+    "name": "Qutub Shahi Mosque",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Qutub Shahi Mosque is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2724,7 +5705,10 @@
     "coordinates": {
       "lat": 16.54083,
       "lon": 78.68361
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "rachakonda-fort-telangana",
@@ -2738,6 +5722,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Telangana."
     ]
   },
   {
@@ -2752,6 +5739,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Vemulawada, Telangana."
+    ]
+  },
+  {
+    "id": "rakasigudi-telangana",
+    "name": "Rakasigudi",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Rakasigudi is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2762,6 +5766,9 @@
     "description": "Rama Giri is a village in Telangana, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Telangana."
     ]
   },
   {
@@ -2776,6 +5783,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Peddapalli district, Telangana."
     ]
   },
   {
@@ -2790,6 +5800,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -2804,6 +5817,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Sangareddy district, Telangana."
     ]
   },
   {
@@ -2818,6 +5834,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -2832,10 +5851,13 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
-    "id": "ramappa-temple-telangana",
+    "id": "ramappa-temple-telangana-q3380656",
     "name": "Ramappa Temple",
     "state": "Telangana",
     "category": "spiritual",
@@ -2848,6 +5870,28 @@
       "world-heritage",
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as World Heritage Site.",
+      "Covers about 5.93 ha.",
+      "Lies in Mulugu district, Telangana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Palampet, Telangana."
+    ]
+  },
+  {
+    "id": "ramgir-fort-telangana",
+    "name": "Ramgir Fort",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ramgir Fort is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2859,7 +5903,14 @@
     "coordinates": {
       "lat": 17.2523,
       "lon": 78.6802
-    }
+    },
+    "facts": [
+      "Dates from 1996.",
+      "Founded by Ramoji Rao.",
+      "Part of Hyderabad.",
+      "Maintained under Ramoji Rao.",
+      "Lies in Ranga Reddy district, Telangana."
+    ]
   },
   {
     "id": "ranganathaswamy-temple-jiyaguda-telangana",
@@ -2873,6 +5924,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Built in the Dravidian architecture style."
     ]
   },
   {
@@ -2887,6 +5941,10 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1860.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -2898,7 +5956,11 @@
     "coordinates": {
       "lat": 17.4034,
       "lon": 78.46692
-    }
+    },
+    "facts": [
+      "Opened in 11 May 1961.",
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "raymond-s-tomb-telangana",
@@ -2909,14 +5971,68 @@
     "coordinates": {
       "lat": 17.36483,
       "lon": 78.51519
-    }
+    },
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Dedicated to Michel Joachim Marie Raymond.",
+      "Lies in Hyderabad district, Telangana."
+    ]
   },
   {
-    "id": "ruhaniyat-the-all-india-sufi-mystic-music-festival-telangana",
-    "name": "Ruhaniyat – The All India Sufi & Mystic Music Festival",
+    "id": "reddygudi-temple-telangana",
+    "name": "Reddygudi temple",
     "state": "Telangana",
-    "category": "other",
-    "description": "Ruhaniyat – The All India Sufi & Mystic Music Festival is a music festival in India."
+    "category": "spiritual",
+    "description": "Reddygudi temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "remains-of-hindu-temples-etc-telangana",
+    "name": "Remains of Hindu temples etc",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Remains of Hindu temples etc is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "remains-of-jaina-temples-sculptures-amp-inscriptions-telangana",
+    "name": "Remains of Jaina temples, sculptures &amp; inscriptions",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Remains of Jaina temples, sculptures &amp; inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruined-tombs-telangana",
+    "name": "Ruined tombs",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Ruined tombs is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "rukn-ud-daula-lake-telangana",
@@ -2930,6 +6046,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -2941,7 +6060,10 @@
     "coordinates": {
       "lat": 18.99111,
       "lon": 78.57111
-    }
+    },
+    "facts": [
+      "Lies in Nirmal district, Telangana."
+    ]
   },
   {
     "id": "safilguda-lake-telangana",
@@ -2955,6 +6077,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -2969,20 +6094,9 @@
     },
     "tags": [
       "temple"
-    ]
-  },
-  {
-    "id": "sai-shiva-balaji-mandir-dharmapuri-telangana",
-    "name": "Sai Shiva Balaji Mandir, Dharmapuri",
-    "state": "Telangana",
-    "category": "spiritual",
-    "description": "Sai Shiva Balaji Mandir, Dharmapuri is a building in India.",
-    "coordinates": {
-      "lat": 18.10139,
-      "lon": 83.40917
-    },
-    "tags": [
-      "temple"
+    ],
+    "facts": [
+      "Lies in Ranga Reddy district, Telangana."
     ]
   },
   {
@@ -2993,6 +6107,9 @@
     "description": "Saidabad Mosque is a mosque in Hyderabad, India.",
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -3004,7 +6121,11 @@
     "coordinates": {
       "lat": 17.42671,
       "lon": 78.48714
-    }
+    },
+    "facts": [
+      "Dates from 1883.",
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "salar-jung-museum-telangana",
@@ -3018,6 +6139,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1951.",
+      "About 1,211,766 visits in a recorded year.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3029,14 +6155,23 @@
     "coordinates": {
       "lat": 18.46117,
       "lon": 80.40979
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "sammakka-saralamma-jatara-telangana",
     "name": "Sammakka Saralamma Jatara",
     "state": "Telangana",
-    "category": "other",
-    "description": "Sammakka Saralamma Jatara is a festival of honouring the Hindu tribal(adivasi) goddesses, celebrated in the state of Telangana, India."
+    "category": "spiritual",
+    "description": "Sammakka Saralamma Jatara is a festival of honouring the Hindu tribal(adivasi) goddesses, celebrated in the state of Telangana, India.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
   },
   {
     "id": "sanghi-temple-telangana",
@@ -3050,6 +6185,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -3061,7 +6199,10 @@
     "coordinates": {
       "lat": 17.4328,
       "lon": 78.4757
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "sarala-sagar-project-telangana",
@@ -3072,7 +6213,10 @@
     "coordinates": {
       "lat": 16.412,
       "lon": 77.899
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "saraswathi-kshetramu-ananthasagar-telangana",
@@ -3086,6 +6230,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Siddipet district, Telangana."
+    ]
+  },
+  {
+    "id": "saraswathi-temple-telangana",
+    "name": "Saraswathi Temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Saraswathi Temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3097,7 +6258,10 @@
     "coordinates": {
       "lat": 18.76442,
       "lon": 79.82353
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "sardar-mahal-telangana",
@@ -3111,6 +6275,10 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1900.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3122,7 +6290,10 @@
     "coordinates": {
       "lat": 17.35417,
       "lon": 78.54389
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "saroornagar-lake-telangana",
@@ -3136,6 +6307,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -3146,6 +6320,23 @@
     "description": "Savatula Gundam Waterfalls is a waterfall in Telangana, India.",
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "sculptures-at-tilak-road-telangana",
+    "name": "Sculptures at Tilak Road",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Sculptures at Tilak Road is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3160,6 +6351,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3171,7 +6365,12 @@
     "coordinates": {
       "lat": 17.44085,
       "lon": 78.49853
-    }
+    },
+    "facts": [
+      "Dates from 1 February 1897.",
+      "Rises about 37 m.",
+      "Lies in Secunderabad, Telangana."
+    ]
   },
   {
     "id": "shahi-masjid-telangana",
@@ -3185,6 +6384,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3192,10 +6394,13 @@
     "name": "Shahran Market",
     "state": "Telangana",
     "category": "other",
-    "description": "Shahran Market is a ladies' Market in Hyderabad, India."
+    "description": "Shahran Market is a ladies' Market in Hyderabad, India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
-    "id": "shaikpet-mosque-and-sarai-telangana",
+    "id": "shaikpet-mosque-and-sarai-telangana-q60775979",
     "name": "Shaikpet Mosque and Sarai",
     "state": "Telangana",
     "category": "spiritual",
@@ -3206,6 +6411,25 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Built in the Indo-Islamic architecture style.",
+      "Lies in Hyderabad, Telangana.",
+      "Recognised as a State Protected Monument."
+    ]
+  },
+  {
+    "id": "shambunigudi-temple-telangana",
+    "name": "Shambunigudi temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Shambunigudi temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3220,6 +6444,37 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "shams-ul-umra-tombs-paigah-tombs-telangana",
+    "name": "Shams-Ul-Umra Tombs (Paigah Tombs)",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Shams-Ul-Umra Tombs (Paigah Tombs) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shamsheerkota-telangana",
+    "name": "Shamsheerkota",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Shamsheerkota is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3231,7 +6486,10 @@
     "coordinates": {
       "lat": 18.1861,
       "lon": 79.0139
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "shilparamam-telangana",
@@ -3242,7 +6500,11 @@
     "coordinates": {
       "lat": 17.451,
       "lon": 78.377
-    }
+    },
+    "facts": [
+      "Dates from 1998.",
+      "Lies in Madhapur, Telangana."
+    ]
   },
   {
     "id": "shivaram-wildlife-sanctuary-telangana",
@@ -3256,6 +6518,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Telangana."
     ]
   },
   {
@@ -3270,6 +6535,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -3281,7 +6549,10 @@
     "coordinates": {
       "lat": 17.7496,
       "lon": 77.9278
-    }
+    },
+    "facts": [
+      "Lies in Medak district, Telangana."
+    ]
   },
   {
     "id": "singur-reservoir-telangana",
@@ -3292,7 +6563,10 @@
     "coordinates": {
       "lat": 17.82,
       "lon": 77.88
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "sita-ramachandraswamy-temple-bhadrachalam-telangana",
@@ -3306,6 +6580,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhadradri Kothagudem district, Telangana."
     ]
   },
   {
@@ -3317,7 +6594,10 @@
     "coordinates": {
       "lat": 17.87167,
       "lon": 80.88583
-    }
+    },
+    "facts": [
+      "Lies in Dummugudem, Telangana."
+    ]
   },
   {
     "id": "sitaram-bagh-temple-telangana",
@@ -3331,6 +6611,53 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1825.",
+      "Recognised as Heritage structures in Hyderabad, India.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "siva-temple-telangana",
+    "name": "Siva temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Siva temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "siva-temple-trilingeswaralayam-telangana",
+    "name": "Siva Temple(Trilingeswaralayam)",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Siva Temple(Trilingeswaralayam) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sivalayam-telangana",
+    "name": "Sivalayam",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Sivalayam is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3342,7 +6669,10 @@
     "coordinates": {
       "lat": 17.51488,
       "lon": 78.48087
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "spanish-mosque-telangana",
@@ -3356,6 +6686,51 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "sri-channakeswa-swamy-temple-telangana",
+    "name": "Sri Channakeswa Swamy temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Sri Channakeswa Swamy temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sri-kaleswaraswamy-temple-telangana",
+    "name": "Sri Kaleswaraswamy temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Sri Kaleswaraswamy temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sri-kesavanadha-pancha-mukha-lingeswara-swamy-temple-telangana",
+    "name": "Sri Kesavanadha Pancha Mukha Lingeswara Swamy temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Sri Kesavanadha Pancha Mukha Lingeswara Swamy temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3370,6 +6745,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -3384,6 +6762,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Yadadri Bhuvanagiri district, Telangana."
     ]
   },
   {
@@ -3398,6 +6779,37 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "sri-raja-rajeswara-temple-telangana",
+    "name": "Sri Raja Rajeswara temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Sri Raja Rajeswara temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sri-ramalingeswara-swamy-temple-telangana",
+    "name": "Sri Ramalingeswara Swamy temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Sri Ramalingeswara Swamy temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3412,6 +6824,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Wanaparthy district, Telangana."
+    ]
+  },
+  {
+    "id": "sri-siva-temple-br-basavanna-temple-telangana",
+    "name": "Sri Siva Temple <br /> ‘Basavanna Temple'",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Sri Siva Temple <br /> ‘Basavanna Temple' is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3423,7 +6852,10 @@
     "coordinates": {
       "lat": 18.8458,
       "lon": 79.3681
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "sriram-sagar-project-telangana",
@@ -3434,18 +6866,10 @@
     "coordinates": {
       "lat": 18.9675,
       "lon": 78.34306
-    }
-  },
-  {
-    "id": "srsp-flood-flow-canal-telangana",
-    "name": "SRSP Flood Flow Canal",
-    "state": "Telangana",
-    "category": "nature",
-    "description": "SRSP Flood Flow Canal is a river in India.",
-    "coordinates": {
-      "lat": 18.915,
-      "lon": 78.3422
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "st-george-s-church-hyderabad-telangana",
@@ -3459,6 +6883,12 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Saint George.",
+      "Associated with Anglican Church of South India.",
+      "Named after Saint George.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3473,6 +6903,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1818.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3487,6 +6921,11 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Saint Joseph.",
+      "Associated with Catholicism.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3501,6 +6940,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Thomas the Apostle.",
+      "Lies in Secunderabad, Telangana."
     ]
   },
   {
@@ -3511,6 +6954,9 @@
     "description": "State Gallery of Art, Chitramayee is a public gallery in Hyderabad, India.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Madhapur metro station, Telangana."
     ]
   },
   {
@@ -3525,18 +6971,97 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
     "id": "statue-of-equality-ramanuja-telangana",
     "name": "Statue of Equality (Ramanuja)",
     "state": "Telangana",
-    "category": "other",
+    "category": "heritage",
     "description": "Statue of Equality (Ramanuja) is a statue of Sri Ramanuja in Telangana, India.",
     "coordinates": {
       "lat": 17.186,
       "lon": 78.3332
-    }
+    },
+    "facts": [
+      "Dates from 2018.",
+      "Created by Chinna Jeeyar.",
+      "Rises about 65.8 m.",
+      "Lies in Muchintal, Telangana."
+    ]
+  },
+  {
+    "id": "stone-circle-prehistoric-graves-telangana",
+    "name": "Stone circle prehistoric graves",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Stone circle prehistoric graves is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "stone-circle-telangana",
+    "name": "Stone Circle",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Stone Circle is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "stone-circles-prehistoric-burials-telangana-alt",
+    "name": "Stone circles – prehistoric burials",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Stone circles – prehistoric burials is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "stone-circles-telangana",
+    "name": "Stone circles",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Stone circles is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "subedar-office-building-telangana",
+    "name": "Subedar Office Building",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Subedar Office Building is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "sudha-cars-museum-telangana",
@@ -3550,6 +7075,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2010.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3565,6 +7094,10 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1620.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3578,8 +7111,12 @@
       "lon": 78.9444
     },
     "tags": [
+      "temple",
       "museum",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -3590,6 +7127,9 @@
     "description": "Tadbund Hanuman Temple is a building in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3601,7 +7141,24 @@
     "coordinates": {
       "lat": 18.1028,
       "lon": 80.8653
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "tara-mati-s-baradari-telangana",
+    "name": "Tara Mati's Baradari",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Tara Mati's Baradari is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "taramati-baradari-telangana",
@@ -3612,14 +7169,20 @@
     "coordinates": {
       "lat": 17.37608,
       "lon": 78.37812
-    }
+    },
+    "facts": [
+      "Lies in Hyderabad, Telangana."
+    ]
   },
   {
     "id": "telangana-martyrs-memorial-telangana",
     "name": "Telangana Martyrs Memorial",
     "state": "Telangana",
     "category": "heritage",
-    "description": "Telangana Martyrs Memorial is a monument in Telangana, India."
+    "description": "Telangana Martyrs Memorial is a monument in Telangana, India.",
+    "facts": [
+      "Known as a heritage destination in Telangana."
+    ]
   },
   {
     "id": "telangana-state-archaeology-museum-telangana",
@@ -3634,6 +7197,192 @@
     "tags": [
       "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1930.",
+      "Lies in Hyderabad, Telangana."
+    ]
+  },
+  {
+    "id": "telugu-inscription-telangana",
+    "name": "Telugu Inscription",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Telugu Inscription is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-amp-inscriptions-telangana",
+    "name": "Temple &amp; inscriptions",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temple &amp; inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-inscriptions-telangana",
+    "name": "Temple & inscriptions",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temple & inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-sculptures-telangana",
+    "name": "Temple & sculptures",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temple & sculptures is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-telangana",
+    "name": "Temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temples-and-inscriptions-telangana",
+    "name": "Temples and inscriptions",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temples and inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temples-and-sculptures-column-telangana",
+    "name": "Temples and sculptures column",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temples and sculptures column is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temples-and-sculptures-telangana",
+    "name": "Temples and sculptures",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temples and sculptures is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temples-endowments-dept-telangana",
+    "name": "Temples (Endowments Dept)",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temples (Endowments Dept) is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temples-frescoes-and-inscriptions-telangana",
+    "name": "Temples, Frescoes and inscriptions",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temples, Frescoes and inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temples-ganapeswapuram-mukkanteswaralayam-telangana",
+    "name": "Temples Ganapeswapuram, Mukkanteswaralayam",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temples Ganapeswapuram, Mukkanteswaralayam is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temples-sculptures-telangana",
+    "name": "Temples & sculptures",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Temples & sculptures is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-ancient-temple-with-prehistoric-rock-shelters-containing-bruisings-and-animal-figures-in-chowdannagutta-and-gangiavula-gattu-telangana",
+    "name": "The ancient temple with prehistoric rock shelters containing bruisings and Animal figures in Chowdannagutta and Gangiavula gattu",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "The ancient temple with prehistoric rock shelters containing bruisings and Animal figures in Chowdannagutta and Gangiavula gattu is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3648,6 +7397,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 18 February 2000.",
+      "Named after Nizam of Hyderabad.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3659,7 +7413,10 @@
     "coordinates": {
       "lat": 17.3749,
       "lon": 78.50103
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "the-st-john-s-secunderabad-telangana",
@@ -3670,10 +7427,13 @@
     "coordinates": {
       "lat": 17.4448,
       "lon": 78.50005
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
-    "id": "thousand-pillar-temple-telangana",
+    "id": "thousand-pillar-temple-telangana-q7797068",
     "name": "Thousand Pillar Temple",
     "state": "Telangana",
     "category": "spiritual",
@@ -3685,10 +7445,16 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Hanamkonda district, Telangana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Hanamkonda, Telangana."
     ]
   },
   {
-    "id": "toli-masjid-telangana",
+    "id": "toli-masjid-telangana-q7814255",
     "name": "Toli Masjid",
     "state": "Telangana",
     "category": "spiritual",
@@ -3699,6 +7465,13 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1671.",
+      "Recognised as State Protected Monument.",
+      "Built in the Indo-Islamic architecture style.",
+      "Lies in Hyderabad, Telangana.",
+      "Recognised as a State Protected Monument."
     ]
   },
   {
@@ -3706,7 +7479,34 @@
     "name": "Tomb of Amin Khan",
     "state": "Telangana",
     "category": "heritage",
-    "description": "Tomb of Amin Khan is a historic site in Hyderabad, India."
+    "description": "Tomb of Amin Khan is a historic site in Hyderabad, India.",
+    "facts": [
+      "Known as a heritage destination in Telangana."
+    ]
+  },
+  {
+    "id": "tomb-of-behlul-shah-wali-telangana",
+    "name": "Tomb of Behlul Shah Wali",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Tomb of Behlul Shah Wali is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tourism-in-telangana-telangana",
+    "name": "Tourism in Telangana",
+    "state": "Telangana",
+    "category": "other",
+    "description": "Tourism in Telangana is a tourism in a region in Telangana, India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "trilinga-sanghameshwara-temple-telangana",
@@ -3720,6 +7520,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Karimnagar, Telangana."
+    ]
+  },
+  {
+    "id": "tukne-inscriptions-telangana",
+    "name": "Tukne inscriptions",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Tukne inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3731,7 +7548,38 @@
     "coordinates": {
       "lat": 19.59583,
       "lon": 79.78333
-    }
+    },
+    "facts": [
+      "Lies in Adilabad district, Telangana."
+    ]
+  },
+  {
+    "id": "two-inscriptions-telangana",
+    "name": "Two inscriptions",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Two inscriptions is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "two-temples-telangana",
+    "name": "Two temples",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Two temples is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "ujjaini-mahakali-temple-telangana",
@@ -3745,6 +7593,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
+    ]
+  },
+  {
+    "id": "uma-maheshwara-temple-telangana",
+    "name": "Uma Maheshwara temple",
+    "state": "Telangana",
+    "category": "spiritual",
+    "description": "Uma Maheshwara temple is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3759,6 +7624,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Achampet Mandal, Telangana."
     ]
   },
   {
@@ -3773,6 +7641,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
     ]
   },
   {
@@ -3784,7 +7655,10 @@
     "coordinates": {
       "lat": 18.2703,
       "lon": 78.5444
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "vanasthalipuram-lutheran-church-telangana",
@@ -3794,6 +7668,9 @@
     "description": "Vanasthalipuram Lutheran Church is a church building in Telangana, India.",
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   },
   {
@@ -3808,6 +7685,12 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1903.",
+      "Opened in 14 February 1905.",
+      "Named after Victoria.",
+      "Lies in Saroornagar, Telangana."
     ]
   },
   {
@@ -3815,7 +7698,10 @@
     "name": "Victory Playground, Hyderabad",
     "state": "Telangana",
     "category": "other",
-    "description": "Victory Playground, Hyderabad is a sports venture in Hyderabad, India."
+    "description": "Victory Playground, Hyderabad is a sports venture in Hyderabad, India.",
+    "facts": [
+      "Known as a tourism destination in Telangana."
+    ]
   },
   {
     "id": "vikhar-manzil-telangana",
@@ -3829,6 +7715,10 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1900.",
+      "Lies in Hyderabad, Telangana."
     ]
   },
   {
@@ -3843,6 +7733,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
+  },
+  {
+    "id": "warangal-fort-and-gateways-telangana",
+    "name": "Warangal Fort, and Gateways",
+    "state": "Telangana",
+    "category": "heritage",
+    "description": "Warangal Fort, and Gateways is a protected monument in Telangana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Warangal, Telangana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3858,6 +7766,10 @@
     "tags": [
       "world-heritage",
       "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Warangal district, Telangana."
     ]
   },
   {
@@ -3872,6 +7784,29 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1991.",
+      "Lies in Hanamkonda district, Telangana."
+    ]
+  },
+  {
+    "id": "warangal-telangana",
+    "name": "Warangal",
+    "state": "Telangana",
+    "category": "wildlife",
+    "description": "Warangal is a city in Warangal district, Telangana, India.",
+    "coordinates": {
+      "lat": 17.97556,
+      "lon": 79.60111
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 302 m elevation.",
+      "Covers about 198 km².",
+      "Lies in Hanamkonda district, Telangana."
     ]
   },
   {
@@ -3886,6 +7821,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Siddipet district, Telangana."
     ]
   },
   {
@@ -3897,7 +7835,10 @@
     "coordinates": {
       "lat": 17.2,
       "lon": 80.375
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Telangana."
+    ]
   },
   {
     "id": "yogananda-lakshmi-narasimha-swamy-temple-telangana",
@@ -3911,6 +7852,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Telangana."
     ]
   }
 ]

@@ -1,5 +1,24 @@
 [
   {
+    "id": "aali-odisha-odisha",
+    "name": "Aali, Odisha",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Aali, Odisha is a town in Odisha, India.",
+    "coordinates": {
+      "lat": 20.67,
+      "lon": 86.64
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Stands at about 21 m elevation.",
+      "Covers about 224 km².",
+      "Lies in Kendrapara district, Odisha."
+    ]
+  },
+  {
     "id": "aali-palace-odisha",
     "name": "Aali Palace",
     "state": "Odisha",
@@ -11,6 +30,27 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Aul, Odisha."
+    ]
+  },
+  {
+    "id": "abdul-kalam-island-odisha",
+    "name": "Abdul Kalam Island",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Abdul Kalam Island is an island off the coast of Odisha, India.",
+    "coordinates": {
+      "lat": 20.75587,
+      "lon": 87.08317
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Set beside Bay of Bengal.",
+      "Covers about 1.6 km²."
     ]
   },
   {
@@ -25,6 +65,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Built in the Kalinga architecture style.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "aishanyesvara-temple-odisha",
+    "name": "Aishanyesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Aishanyesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old town, Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -39,6 +98,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -53,10 +115,14 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
-    "id": "akhandalamani-temple-odisha",
+    "id": "akhandalamani-temple-odisha-q4700682",
     "name": "Akhandalamani Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -67,6 +133,27 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Bhadrak district, Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Aredi, Odisha."
+    ]
+  },
+  {
+    "id": "akhandalesvara-temple-odisha",
+    "name": "Akhandalesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Akhandalesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Prataparudrapur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -81,6 +168,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -95,10 +185,59 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Puri district, Odisha."
     ]
   },
   {
-    "id": "ananta-vasudeva-temple-odisha",
+    "id": "alarnatha-temple-odisha",
+    "name": "Alarnatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Alarnatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "amarabati-temple-odisha",
+    "name": "Amarabati Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Amarabati Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "amaresvara-temple-odisha",
+    "name": "Amaresvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Amaresvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ananta-vasudeva-temple-odisha-q2578551",
     "name": "Ananta Vasudeva Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -109,6 +248,11 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Bhubaneswar, Odisha.",
+      "Recognised as a State Protected Monument."
     ]
   },
   {
@@ -123,10 +267,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
-    "id": "anantashayana-vishnu-odisha",
+    "id": "anantashayana-vishnu-odisha-q4751463",
     "name": "Anantashayana Vishnu",
     "state": "Odisha",
     "category": "spiritual",
@@ -137,10 +284,91 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Dhenkanal district, Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Sarang, Odisha."
     ]
   },
   {
-    "id": "annakoteshvara-temple-odisha",
+    "id": "anantavasudeva-temple-odisha",
+    "name": "Anantavasudeva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Anantavasudeva Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-monuments-of-barabati-fortress-and-the-ruins-and-remains-of-all-ancient-edifices-gateways-etc-except-the-mosque-odisha",
+    "name": "Ancient monuments of Barabati Fortress and the ruins and remains of all ancient edifices, gateways, etc., except the mosque",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Ancient monuments of Barabati Fortress and the ruins and remains of all ancient edifices, gateways, etc., except the mosque is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-site-at-chowdar-budhalinga-temple-odisha",
+    "name": "Ancient site at Chowdar, Budhalinga Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ancient site at Chowdar, Budhalinga Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chowdar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-site-of-asurgarh-fort-odisha",
+    "name": "Ancient site of Asurgarh fort",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Ancient site of Asurgarh fort is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Asurgarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "angesvara-temple-odisha",
+    "name": "Angesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Angesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "annakoteshvara-temple-odisha-q4767804",
     "name": "Annakoteshvara Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -151,6 +379,11 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Latadeipur, Odisha."
     ]
   },
   {
@@ -165,6 +398,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site."
     ]
   },
   {
@@ -179,6 +415,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -193,6 +432,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "asoka-rock-inscriptions-at-jaugada-odisha",
+    "name": "Asoka rock inscriptions at Jaugada",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Asoka rock inscriptions at Jaugada is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pandya, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -207,6 +464,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -222,6 +482,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Kalahandi district, Odisha."
     ]
   },
   {
@@ -233,7 +496,11 @@
     "coordinates": {
       "lat": 19.81981,
       "lon": 85.83171
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Puri, Odisha."
+    ]
   },
   {
     "id": "atri-odisha-odisha",
@@ -244,7 +511,25 @@
     "coordinates": {
       "lat": 20.15,
       "lon": 85.3
-    }
+    },
+    "facts": [
+      "Lies in Khordha district, Odisha."
+    ]
+  },
+  {
+    "id": "avalokitesvara-odisha",
+    "name": "Avalokitesvara",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Avalokitesvara is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "baba-bhusandeswar-temple-odisha",
@@ -258,6 +543,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -272,6 +560,24 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Kendujhar district, Odisha."
+    ]
+  },
+  {
+    "id": "bairava-temple-odisha",
+    "name": "Bairava Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bairava Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Koraput, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -286,6 +592,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Nayagarh district, Odisha."
     ]
   },
   {
@@ -300,6 +609,60 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from the 8th century.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Kalinga architecture style.",
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "baitarani-river-odisha",
+    "name": "Baitarani River",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Baitarani River is a river in India.",
+    "coordinates": {
+      "lat": 20.75,
+      "lon": 86.8
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 1 m elevation."
+    ]
+  },
+  {
+    "id": "bakreswar-temple-odisha",
+    "name": "Bakreswar temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bakreswar temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "baladevajiu-temple-odisha",
+    "name": "Baladevajiu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Baladevajiu Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Manjuri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -314,6 +677,74 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Kendrapara district, Odisha."
+    ]
+  },
+  {
+    "id": "baladevjiu-temple-odisha",
+    "name": "Baladevjiu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Baladevjiu Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kendrapara, Odisha.",
+      "Lies in Keonjhar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "balaram-temple-odisha",
+    "name": "Balaram Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Balaram Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tangi, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "balasore-odisha",
+    "name": "Balasore",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Balasore is a town in Odisha, India.",
+    "coordinates": {
+      "lat": 21.50333,
+      "lon": 86.925
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 16 m elevation.",
+      "Covers about 19.4 km².",
+      "Lies in Balasore district, Odisha."
+    ]
+  },
+  {
+    "id": "baliharchandi-temple-odisha",
+    "name": "Baliharchandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Baliharchandi Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -328,6 +759,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Odisha."
     ]
   },
   {
@@ -342,6 +776,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Malkangiri district, Odisha."
     ]
   },
   {
@@ -356,6 +793,24 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1984."
+    ]
+  },
+  {
+    "id": "banasur-temple-ancient-site-at-baneswaranasi-odisha",
+    "name": "Banasur Temple, Ancient site at Baneswaranasi",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Banasur Temple, Ancient site at Baneswaranasi is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Padamal Pattana, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -370,6 +825,26 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Balasore district, Odisha."
+    ]
+  },
+  {
+    "id": "banigocha-odisha",
+    "name": "Banigocha",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Banigocha is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 20.3995,
+      "lon": 84.5857
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Odisha."
     ]
   },
   {
@@ -380,6 +855,24 @@
     "description": "Banjari (deity) is a hindu deity in Odisha, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "bankadagada-odisha",
+    "name": "Bankadagada",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Bankadagada is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Niladriprasad, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -394,6 +887,10 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Cuttack district, Odisha."
     ]
   },
   {
@@ -408,6 +905,25 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Part of Budhabalanga River.",
+      "Lies in Mayurbhanj district, Odisha."
+    ]
+  },
+  {
+    "id": "basudeva-image-odisha",
+    "name": "Basudeva Image",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Basudeva Image is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -422,6 +938,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -436,6 +955,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "batrisha-simhasana-odisha",
+    "name": "Batrisha Simhasana",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Batrisha Simhasana is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Koraput, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bautidevi-temple-odisha",
+    "name": "Bautidevi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bautidevi Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nayagarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -450,6 +1002,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -463,7 +1018,11 @@
       "lon": 85.94283
     },
     "tags": [
+      "beach",
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -478,6 +1037,24 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
+  },
+  {
+    "id": "bhabanisankara-temple-odisha",
+    "name": "Bhabanisankara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhabanisankara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old town, Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -492,6 +1069,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Bhadrak district, Odisha."
+    ]
+  },
+  {
+    "id": "bhadrakali-temple-odisha",
+    "name": "Bhadrakali Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhadrakali Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhadrak, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhadresvara-temple-odisha",
+    "name": "Bhadresvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhadresvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -506,6 +1117,54 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "bhagavati-temple-odisha",
+    "name": "Bhagavati Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhagavati Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Banapur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhairangesvara-temple-odisha",
+    "name": "Bhairangesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhairangesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhauli, Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhairavi-group-of-temples-odisha",
+    "name": "Bhairavi Group of Temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhairavi Group of Temples is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Koraput, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -520,6 +1179,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -534,6 +1196,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Built in the Kalinga architecture style.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -548,6 +1214,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "bhaskareswar-temple-odisha",
+    "name": "Bhaskareswar temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhaskareswar temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -562,6 +1247,43 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Cuttack district, Odisha."
+    ]
+  },
+  {
+    "id": "bhavakundalesvara-siva-temple-odisha",
+    "name": "Bhavakundalesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhavakundalesvara Siva Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhawanipatna-odisha",
+    "name": "Bhawanipatna",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhawanipatna is a city in Odisha, India.",
+    "coordinates": {
+      "lat": 19.9,
+      "lon": 83.16667
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 248 m elevation.",
+      "Covers about 15.4 km².",
+      "Lies in Kalahandi district, Odisha."
     ]
   },
   {
@@ -576,6 +1298,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "bhima-temple-odisha",
+    "name": "Bhima temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhima temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mahendragiri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -590,6 +1330,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Rayagada district, Odisha."
     ]
   },
   {
@@ -601,7 +1344,11 @@
     "coordinates": {
       "lat": 20.65,
       "lon": 86.9
-    }
+    },
+    "facts": [
+      "Recognised as Ramsar site.",
+      "Covers about 65,000 ha."
+    ]
   },
   {
     "id": "bhitarkanika-national-park-odisha",
@@ -615,6 +1362,11 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1975.",
+      "Covers about 145 km².",
+      "Lies in Kendrapara district, Odisha."
     ]
   },
   {
@@ -629,6 +1381,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -643,6 +1399,47 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "bhubaneswar-mahadev-temple-odisha",
+    "name": "Bhubaneswar Mahadev temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhubaneswar Mahadev temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Balia, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhubaneswar-odisha",
+    "name": "Bhubaneswar",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Bhubaneswar is a capital city of Odisha, India.",
+    "coordinates": {
+      "lat": 20.295,
+      "lon": 85.825
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1948.",
+      "Recognised as Tentative World Heritage Site.",
+      "Founded by Government of Odisha.",
+      "Named after Earth.",
+      "Stands at about 45 m elevation.",
+      "Covers about 1,035 km²."
     ]
   },
   {
@@ -657,6 +1454,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "bindo-bihan-jiu-temple-odisha",
+    "name": "Bindo Bihan Jiu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bindo Bihan Jiu Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -672,6 +1487,9 @@
     "tags": [
       "temple",
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Odisha."
     ]
   },
   {
@@ -686,6 +1504,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Jajpur district, Odisha."
     ]
   },
   {
@@ -700,6 +1522,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ganjam district, Odisha."
     ]
   },
   {
@@ -714,6 +1539,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "biranchinarayana-temple-odisha",
+    "name": "Biranchinarayana Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Biranchinarayana Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Palia, Odisha.",
+      "Lies in Ganjam, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -728,6 +1572,43 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2024.",
+      "Lies in Angul, Odisha."
+    ]
+  },
+  {
+    "id": "bokhari-sahib-mosque-odisha",
+    "name": "Bokhari Sahib Mosque",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bokhari Sahib Mosque is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "boudhagada-odisha",
+    "name": "Boudhagada",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Boudhagada is a town in Boudh district in the state of Odisha, India.",
+    "coordinates": {
+      "lat": 20.83333,
+      "lon": 84.31667
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 77 m elevation.",
+      "Lies in Boudh district, Odisha."
     ]
   },
   {
@@ -742,6 +1623,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -756,10 +1641,30 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
-    "id": "brahmani-temple-odisha",
+    "id": "brahmani-river-odisha",
+    "name": "Brahmani River",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Brahmani River is a river in Odisha, India.",
+    "coordinates": {
+      "lat": 22.24583,
+      "lon": 84.78389
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
+  },
+  {
+    "id": "brahmani-temple-odisha-q4955562",
     "name": "Brahmani Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -770,6 +1675,11 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Balasore district, Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Avana, Odisha."
     ]
   },
   {
@@ -784,6 +1694,116 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "brahmeswara-temple-with-its-minor-shrines-in-the-compound-odisha",
+    "name": "Brahmeswara Temple with its minor shrines in the compound",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Brahmeswara Temple with its minor shrines in the compound is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bramha-temple-odisha",
+    "name": "Bramha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bramha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bramhabana-odisha",
+    "name": "Bramhabana",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Bramhabana is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bridge-of-eighteen-openings-over-the-madhupur-stream-known-as-athara-nala-bridge-odisha",
+    "name": "Bridge of eighteen openings over the Madhupur stream known as Athara Nala Bridge",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Bridge of eighteen openings over the Madhupur stream known as Athara Nala Bridge is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bringesvara-mahadeva-temple-odisha",
+    "name": "Bringesvara Mahadeva temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bringesvara Mahadeva temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bajrakot, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bualigarh-odisha",
+    "name": "Bualigarh",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Bualigarh is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chandaka, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "buddha-image-odisha",
+    "name": "Buddha Image",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Buddha Image is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bonth, Odisha.",
+      "Lies in Boudh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -798,6 +1818,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Khordha district, Odisha."
+    ]
+  },
+  {
+    "id": "buddhist-image-odisha",
+    "name": "Buddhist Image",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Buddhist Image is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "buddhist-structures-odisha",
+    "name": "Buddhist Structures",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Buddhist Structures is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -812,6 +1866,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -826,6 +1883,55 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "budhakesvara-temple-odisha",
+    "name": "Budhakesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Budhakesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Deulidharpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "budhalinga-temple-odisha",
+    "name": "Budhalinga Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Budhalinga Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "budhanatha-temple-odisha",
+    "name": "Budhanatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Budhanatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Garedipanchana, Odisha.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -837,7 +1943,10 @@
     "coordinates": {
       "lat": 21.48448,
       "lon": 83.97928
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Odisha."
+    ]
   },
   {
     "id": "byamokesvara-temple-odisha",
@@ -851,6 +1960,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "cemetery-odisha",
+    "name": "Cemetery",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Cemetery is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ganjam, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -865,6 +1993,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -879,6 +2010,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -893,6 +2028,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -907,18 +2045,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
     "id": "chandaka-elephant-sanctuary-odisha",
     "name": "Chandaka Elephant Sanctuary",
     "state": "Odisha",
-    "category": "other",
+    "category": "wildlife",
     "description": "Chandaka Elephant Sanctuary is a wildlife reserve.",
     "coordinates": {
       "lat": 20.36667,
       "lon": 85.76667
-    }
+    },
+    "facts": [
+      "Lies in Khordha district, Odisha."
+    ]
   },
   {
     "id": "chandaneswar-temple-odisha",
@@ -932,6 +2077,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Balasore district, Odisha."
+    ]
+  },
+  {
+    "id": "chandesvara-temple-odisha",
+    "name": "Chandesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chandesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chandesvar, Odisha.",
+      "Lies in Nayagarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chandi-temple-odisha",
+    "name": "Chandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chandi Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kenduli, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -946,6 +2125,54 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Odisha."
+    ]
+  },
+  {
+    "id": "chandramauli-temple-odisha",
+    "name": "Chandramauli Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chandramauli Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kendrapara, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chandrasekhar-amp-ganesha-temple-odisha",
+    "name": "Chandrasekhar &amp; Ganesha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chandrasekhar &amp; Ganesha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chandrasekhar-temple-group-of-monuments-and-ancient-steps-odisha",
+    "name": "Chandrasekhar Temple Group of Monuments and Ancient Steps",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chandrasekhar Temple Group of Monuments and Ancient Steps is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Yogapitha Kapilas, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -960,6 +2187,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -970,6 +2201,9 @@
     "description": "Charchika Temple is a temple in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Cuttack district, Odisha."
     ]
   },
   {
@@ -984,6 +2218,9 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -998,6 +2235,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Boudh district, Odisha."
     ]
   },
   {
@@ -1012,6 +2252,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -1026,6 +2269,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Odisha."
+    ]
+  },
+  {
+    "id": "chausath-jogini-temple-together-with-three-minor-shrines-odisha",
+    "name": "Chausath Jogini temple together with three minor shrines",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chausath Jogini temple together with three minor shrines is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ranipur Jharial, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1040,6 +2301,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Khordha district, Odisha."
     ]
   },
   {
@@ -1050,6 +2315,9 @@
     "description": "Chausath Yogini Temple, Ranipur Jharial is a temple in Odisha.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -1063,8 +2331,12 @@
       "lon": 85.31667
     },
     "tags": [
-      "world-heritage",
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site.",
+      "Recognised as Tentative World Heritage Site.",
+      "Covers about 1,165 km²."
     ]
   },
   {
@@ -1079,6 +2351,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "chitrakarni-temple-odisha",
+    "name": "Chitrakarni temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chitrakarni temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1094,6 +2385,128 @@
     "tags": [
       "fort",
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "churangarh-fort-locally-known-as-sarangarh-excluding-the-area-acquired-by-the-state-government-odisha",
+    "name": "Churangarh Fort locally known as Sarangarh, excluding the area acquired by the State Government",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Churangarh Fort locally known as Sarangarh, excluding the area acquired by the State Government is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dadhapatna, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dadhibamana-temple-odisha",
+    "name": "Dadhibamana Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dadhibamana Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kendrapara, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dadhivamana-temple-odisha",
+    "name": "Dadhivamana Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dadhivamana Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nuapada, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dakara-bhivisanesvara-temple-odisha",
+    "name": "Dakara Bhivisanesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dakara Bhivisanesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "daksha-prajapati-temple-odisha",
+    "name": "Daksha Prajapati temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Daksha Prajapati temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Raghunathpur, Banapur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dalmia-dharamsala-odisha",
+    "name": "Dalmia Dharamsala",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Dalmia Dharamsala is a resthouse in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24556,
+      "lon": 85.83444
+    },
+    "facts": [
+      "Known as a tourism destination in Odisha."
+    ]
+  },
+  {
+    "id": "dapanayakani-temple-odisha",
+    "name": "Dapanayakani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dapanayakani Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shyamsundarpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dasasvamedhaghata-odisha",
+    "name": "Dasasvamedhaghata",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Dasasvamedhaghata is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1105,7 +2518,11 @@
     "coordinates": {
       "lat": 21.70583,
       "lon": 86.44528
-    }
+    },
+    "facts": [
+      "Part of Simlipal National Park.",
+      "Lies in Mayurbhanj district, Odisha."
+    ]
   },
   {
     "id": "debrigarh-wildlife-sanctuary-odisha",
@@ -1119,6 +2536,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Bargarh district, Odisha."
     ]
   },
   {
@@ -1133,6 +2553,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -1147,6 +2570,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Rayagada district, Odisha."
     ]
   },
   {
@@ -1161,6 +2587,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -1175,6 +2605,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "dharma-mahakal-temple-beside-the-buddhist-site-odisha",
+    "name": "Dharma Mahakal Temple (beside the Buddhist site)",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dharma Mahakal Temple (beside the Buddhist site) is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ratnagiri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1189,6 +2637,59 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Khordha district, Odisha."
+    ]
+  },
+  {
+    "id": "dhavalesvara-and-chandi-temple-odisha",
+    "name": "Dhavalesvara and Chandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dhavalesvara and Chandi Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kalahandi, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dhavalesvara-temple-odisha",
+    "name": "Dhavalesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dhavalesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhauli, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dhenkanal-odisha",
+    "name": "Dhenkanal",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Dhenkanal is a town in Odisha, India.",
+    "coordinates": {
+      "lat": 20.66667,
+      "lon": 85.6
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Part of Northwest Odisha.",
+      "Stands at about 80 m elevation.",
+      "Covers about 31 km².",
+      "Lies in Dhenkanal district, Odisha."
     ]
   },
   {
@@ -1203,6 +2704,9 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Dhenkanal, Odisha."
     ]
   },
   {
@@ -1217,6 +2721,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -1231,6 +2738,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -1245,6 +2756,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Odisha."
     ]
   },
   {
@@ -1259,6 +2773,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Koraput district, Odisha."
     ]
   },
   {
@@ -1273,6 +2790,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -1287,6 +2807,57 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Built in the Kalinga architecture style.",
+      "Lies in Cuttack, Odisha."
+    ]
+  },
+  {
+    "id": "durga-temple-odisha",
+    "name": "Durga Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Durga Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha.",
+      "Lies in Baideswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dvarabasini-temple-odisha",
+    "name": "Dvarabasini Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dvarabasini Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old town, Bhuibaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "eastern-ghats-odisha",
+    "name": "Eastern Ghats",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Eastern Ghats is a mountain range.",
+    "coordinates": {
+      "lat": 18.39107,
+      "lon": 82.89215
+    },
+    "facts": [
+      "Part of Eastern and Western Ghâts.",
+      "Stands at about 1,680 m elevation.",
+      "Lies in Andhra Pradesh, Odisha."
     ]
   },
   {
@@ -1298,7 +2869,11 @@
     "coordinates": {
       "lat": 20.30396,
       "lon": 85.80356
-    }
+    },
+    "facts": [
+      "Dates from 1985.",
+      "Lies in Khordha district, Odisha."
+    ]
   },
   {
     "id": "ekamra-kshetra-odisha",
@@ -1312,6 +2887,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -1319,14 +2897,64 @@
     "name": "Emar Matha",
     "state": "Odisha",
     "category": "other",
-    "description": "Emar Matha is an indian matha."
+    "description": "Emar Matha is an indian matha.",
+    "facts": [
+      "Known as a tourism destination in Odisha."
+    ]
+  },
+  {
+    "id": "excavated-site-of-kuruma-odisha",
+    "name": "Excavated site of Kuruma",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Excavated site of Kuruma is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "false-point-odisha",
+    "name": "False Point",
+    "state": "Odisha",
+    "category": "other",
+    "description": "False Point is a headland in the Bay of Bengal.",
+    "coordinates": {
+      "lat": 20.35694,
+      "lon": 86.79889
+    },
+    "facts": [
+      "Lies in Kendrapara district, Odisha."
+    ]
   },
   {
     "id": "flora-and-fauna-of-odisha-odisha",
     "name": "Flora and fauna of Odisha",
     "state": "Odisha",
     "category": "other",
-    "description": "Flora and fauna of Odisha is an aspect in a geographic region in Odisha, India."
+    "description": "Flora and fauna of Odisha is an aspect in a geographic region in Odisha, India.",
+    "facts": [
+      "Known as a tourism destination in Odisha."
+    ]
+  },
+  {
+    "id": "four-colossal-images-in-the-compound-of-collectorate-jajpur-namely-odisha",
+    "name": "Four colossal images in the compound of Collectorate Jajpur namely :-",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Four colossal images in the compound of Collectorate Jajpur namely :- is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "gahirmatha-beach-odisha",
@@ -1340,6 +2968,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Odisha."
     ]
   },
   {
@@ -1354,6 +2985,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1997."
     ]
   },
   {
@@ -1368,6 +3002,24 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Gajapati district, Odisha."
+    ]
+  },
+  {
+    "id": "gambhira-radhakanta-matha-odisha",
+    "name": "Gambhira Radhakanta Matha",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Gambhira Radhakanta Matha is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1382,6 +3034,23 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Gajapati district, Odisha."
+    ]
+  },
+  {
+    "id": "gandhamardan-hills-odisha",
+    "name": "Gandhamardan Hills",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Gandhamardan Hills is an is a hill in Odisha.",
+    "coordinates": {
+      "lat": 20.87389,
+      "lon": 82.84278
+    },
+    "facts": [
+      "Lies in Bargarh district, Odisha."
     ]
   },
   {
@@ -1396,6 +3065,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 11 April 1974.",
+      "Lies in Sambalpur district, Odisha."
+    ]
+  },
+  {
+    "id": "ganesha-temple-odisha",
+    "name": "Ganesha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ganesha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Koraput, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gangadharaswami-temple-odisha",
+    "name": "Gangadharaswami temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gangadharaswami temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Katakala, Budhakhol, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1410,6 +3113,55 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "gangesvari-temple-odisha",
+    "name": "Gangesvari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gangesvari Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bayalisabati, Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ganjam-fort-odisha",
+    "name": "Ganjam Fort",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Ganjam Fort is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ganjam, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gatisvara-temple-odisha",
+    "name": "Gatisvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gatisvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1424,6 +3176,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -1438,6 +3193,44 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Sambalpur district, Odisha."
+    ]
+  },
+  {
+    "id": "ghatgaon-odisha",
+    "name": "Ghatgaon",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Ghatgaon is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 21.4,
+      "lon": 85.88333
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 330 m elevation.",
+      "Lies in Kendujhar district, Odisha."
+    ]
+  },
+  {
+    "id": "godavari-river-odisha",
+    "name": "Godavari River",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Godavari River is a river in India.",
+    "coordinates": {
+      "lat": 19.93,
+      "lon": 73.5275
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Andhra Pradesh, Odisha."
     ]
   },
   {
@@ -1448,13 +3241,17 @@
     "description": "Godhaneswar temple is a human settlement in Subarnapur district, Northern division, Odisha, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Covers about 0.54 km².",
+      "Lies in Subarnapur district, Odisha."
     ]
   },
   {
     "id": "golabai-odisha",
     "name": "Golabai",
     "state": "Odisha",
-    "category": "offbeat",
+    "category": "heritage",
     "description": "Golabai is a village in Odisha.",
     "coordinates": {
       "lat": 20.0225,
@@ -1462,6 +3259,71 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Khordha district, Odisha."
+    ]
+  },
+  {
+    "id": "golakbihari-temple-odisha",
+    "name": "Golakbihari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Golakbihari Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kendrapara, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gopaljiu-temple-odisha",
+    "name": "Gopaljiu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gopaljiu Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gopinatha-temple-odisha",
+    "name": "Gopinatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gopinatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sarakana, Odisha.",
+      "Lies in | address =, Odisha.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gopinathajiu-temple-odisha",
+    "name": "Gopinathajiu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gopinathajiu Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1476,6 +3338,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Built in the Kalinga architecture style.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -1490,6 +3356,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "gouranga-temple-odisha",
+    "name": "Gouranga Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gouranga Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gourangapur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1504,6 +3388,54 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "gramesvara-temple-odisha",
+    "name": "Gramesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gramesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "granesvar-temple-odisha",
+    "name": "Granesvar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Granesvar Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "group-of-siva-temples-odisha",
+    "name": "Group of Siva Temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Group of Siva Temples is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ganjam, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1518,6 +3450,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -1533,6 +3468,9 @@
     "tags": [
       "temple",
       "cave"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -1547,6 +3485,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Kendujhar district, Odisha."
     ]
   },
   {
@@ -1561,6 +3502,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -1575,6 +3519,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
+  },
+  {
+    "id": "hanumana-temple-odisha",
+    "name": "Hanumana Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Hanumana Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha.",
+      "Lies in Gajapati, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "harachandi-temple-odisha",
+    "name": "Harachandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Harachandi Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1589,6 +3567,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "harihara-temple-odisha",
+    "name": "Harihara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Harihara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nairi, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1603,6 +3599,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Balangir district, Odisha."
     ]
   },
   {
@@ -1614,7 +3613,15 @@
     "coordinates": {
       "lat": 21.53083,
       "lon": 83.87167
-    }
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Dates from 1949.",
+      "Set on Mahanadi.",
+      "Rises about 61 m."
+    ]
   },
   {
     "id": "historic-sites-in-odisha-odisha",
@@ -1624,6 +3631,27 @@
     "description": "Historic sites in Odisha is a tourism place in Odisha, India.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
+  },
+  {
+    "id": "hukitola-odisha",
+    "name": "Hukitola",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Hukitola is an island in India.",
+    "coordinates": {
+      "lat": 20.40149,
+      "lon": 86.80001
+    },
+    "tags": [
+      "beach",
+      "island"
+    ],
+    "facts": [
+      "Lies in Kendrapara district, Odisha."
     ]
   },
   {
@@ -1638,6 +3666,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "indralatha-temple-odisha",
+    "name": "Indralatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Indralatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bolangir, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1649,7 +3695,11 @@
     "coordinates": {
       "lat": 19.27633,
       "lon": 82.82844
-    }
+    },
+    "facts": [
+      "Dates from 1978.",
+      "Set on Indravati River."
+    ]
   },
   {
     "id": "isanesvara-siva-temple-odisha",
@@ -1663,6 +3713,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "isanesvara-temple-odisha",
+    "name": "Isanesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Isanesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mayurbhanj, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "isvaradeva-temple-odisha",
+    "name": "Isvaradeva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Isvaradeva Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1677,6 +3760,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ganjam district, Odisha."
     ]
   },
   {
@@ -1691,6 +3777,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Angul district, Odisha."
     ]
   },
   {
@@ -1705,6 +3794,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Rayagada district, Odisha."
     ]
   },
   {
@@ -1719,6 +3811,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -1733,6 +3828,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Nayagarh district, Odisha."
+    ]
+  },
+  {
+    "id": "jagannath-temple-odisha",
+    "name": "Jagannath Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannath Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1746,8 +3860,15 @@
       "lon": 85.81833
     },
     "tags": [
-      "temple",
-      "pilgrimage"
+      "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Kalinga architecture style.",
+      "Created by Indradyumna.",
+      "Dedicated to Jagannath.",
+      "Stands at about 1 m elevation.",
+      "Lies in Puri, Odisha."
     ]
   },
   {
@@ -1762,6 +3883,104 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Rayagada district, Odisha."
+    ]
+  },
+  {
+    "id": "jagannatha-temple-odisha",
+    "name": "Jagannatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nilagiri, Odisha.",
+      "Lies in Cuttack, Odisha.",
+      "Lies in Dhenkanal, Odisha.",
+      "Lies in Ganjam, Odisha.",
+      "Lies in Nuapada, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jagannathjiu-temple-odisha",
+    "name": "Jagannathjiu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannathjiu Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jagatarmohana-temple-odisha",
+    "name": "Jagatarmohana Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagatarmohana Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ramesvar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jagdiswaraswami-temple-odisha",
+    "name": "Jagdiswaraswami temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagdiswaraswami temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Katakala, Budhakhol, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jaina-temple-odisha",
+    "name": "Jaina Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jaina Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Koraput, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jalesvara-temple-odisha",
+    "name": "Jalesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jalesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Golbai, Odisha.",
+      "Lies in Kalarahanga, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1776,6 +3995,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "jambala-odisha",
+    "name": "Jambala",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Jambala is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jamesragarh-odisha",
+    "name": "Jamesragarh",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Jamesragarh is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sundargarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1790,6 +4042,24 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
+  },
+  {
+    "id": "jiminia-hillock-odisha",
+    "name": "Jiminia Hillock",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Jiminia Hillock is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sankarjanga, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1804,6 +4074,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Mayurbhanj district, Odisha."
     ]
   },
   {
@@ -1818,6 +4091,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "juma-mosque-odisha",
+    "name": "Juma Mosque",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Juma Mosque is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1832,6 +4123,9 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -1843,7 +4137,10 @@
     "coordinates": {
       "lat": 21.5243,
       "lon": 86.4567
-    }
+    },
+    "facts": [
+      "Lies in Mayurbhanj district, Odisha."
+    ]
   },
   {
     "id": "kalabhairavi-temple-odisha",
@@ -1857,6 +4154,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "kalesvara-temple-odisha",
+    "name": "Kalesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kalesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1871,7 +4186,11 @@
     },
     "tags": [
       "temple",
-      "lake"
+      "lake",
+      "island"
+    ],
+    "facts": [
+      "Lies in Chilika Lake, Odisha."
     ]
   },
   {
@@ -1886,6 +4205,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -1900,6 +4222,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -1914,6 +4239,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -1928,6 +4256,9 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Kendrapara district, Odisha."
     ]
   },
   {
@@ -1942,6 +4273,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "kantaresvara-temple-odisha",
+    "name": "Kantaresvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kantaresvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1956,6 +4305,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Odisha."
     ]
   },
   {
@@ -1970,6 +4322,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Dhenkanal district, Odisha."
+    ]
+  },
+  {
+    "id": "kapilesvara-mahadeva-temple-odisha",
+    "name": "Kapilesvara Mahadeva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kapilesvara Mahadeva Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1984,6 +4355,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "kapileswar-mahadev-temple-odisha",
+    "name": "Kapileswar Mahadev Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kapileswar Mahadev Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hatuari, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1998,6 +4387,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Kalahandi district, Odisha."
     ]
   },
   {
@@ -2012,6 +4404,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2026,6 +4421,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2040,6 +4438,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "khajuresvara-group-of-temples-odisha",
+    "name": "Khajuresvara Group of Temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Khajuresvara Group of Temples is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Seragarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2054,6 +4470,11 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Built in the Kalinga architecture style.",
+      "Lies in Balasore district, Odisha."
     ]
   },
   {
@@ -2068,6 +4489,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Odisha."
     ]
   },
   {
@@ -2078,6 +4502,9 @@
     "description": "Khalkatapatna is an archaeological site in Odisha, India.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
     ]
   },
   {
@@ -2088,6 +4515,9 @@
     "description": "Khandadhar Falls, Kendujhar is a waterfall in India.",
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Kendujhar district, Odisha."
     ]
   },
   {
@@ -2102,6 +4532,24 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
+  },
+  {
+    "id": "khandesvara-temple-odisha",
+    "name": "Khandesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Khandesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2116,6 +4564,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2130,6 +4581,41 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
+  },
+  {
+    "id": "khiching-odisha",
+    "name": "Khiching",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Khiching is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 21.93333,
+      "lon": 85.83333
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Mayurbhanj district, Odisha."
+    ]
+  },
+  {
+    "id": "khilesvara-temple-odisha",
+    "name": "Khilesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Khilesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2144,6 +4630,55 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Balasore district, Odisha."
+    ]
+  },
+  {
+    "id": "khirachoraa-gopinatha-temple-odisha",
+    "name": "Khirachoraa Gopinatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Khirachoraa Gopinatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Remuna, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "khiresvara-temple-odisha",
+    "name": "Khiresvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Khiresvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "khurdha-garh-odisha",
+    "name": "Khurdha garh",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Khurdha garh is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khurda, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2158,6 +4693,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Mayurbhanj district, Odisha."
+    ]
+  },
+  {
+    "id": "kichakesvari-temple-odisha",
+    "name": "Kichakesvari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kichakesvari Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mayurbhanj, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2168,6 +4722,9 @@
     "description": "Koilighugar Waterfall is a waterfall in Odisha, India.",
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Jharsuguda district, Odisha."
     ]
   },
   {
@@ -2179,7 +4736,10 @@
     "coordinates": {
       "lat": 18.78833,
       "lon": 82.60028
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
   },
   {
     "id": "konark-beach-odisha",
@@ -2193,6 +4753,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Odisha."
     ]
   },
   {
@@ -2208,10 +4771,15 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 2 m elevation.",
+      "Covers about 11 ha.",
+      "Lies in Puri district, Odisha."
     ]
   },
   {
-    "id": "konark-sun-temple-odisha",
+    "id": "konark-sun-temple-odisha-q752091",
     "name": "Konark Sun Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -2223,6 +4791,14 @@
     "tags": [
       "world-heritage",
       "temple"
+    ],
+    "facts": [
+      "Dates from the 13th century.",
+      "Recognised as World Heritage Site.",
+      "Built in the Kalinga architecture style.",
+      "Dedicated to solar deity.",
+      "Covers about 10.6 ha.",
+      "About 3,576,348 visits in a recorded year."
     ]
   },
   {
@@ -2237,6 +4813,25 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Malkangiri district, Odisha."
+    ]
+  },
+  {
+    "id": "kosalesvara-temple-odisha",
+    "name": "Kosalesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kosalesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Keonjhar, Odisha.",
+      "Lies in Sambalpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2247,6 +4842,9 @@
     "description": "Kosaleswara temple is a hindu Temple in Odisha, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2261,6 +4859,10 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 3 December 1981.",
+      "Lies in Kandhamal district, Odisha."
     ]
   },
   {
@@ -2275,6 +4877,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2289,6 +4894,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2303,6 +4911,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2318,6 +4929,87 @@
     "tags": [
       "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 4 January 1984.",
+      "Lies in Balasore district, Odisha."
+    ]
+  },
+  {
+    "id": "kumaresvara-temple-odisha",
+    "name": "Kumaresvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kumaresvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Guamala, Odisha.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kunjabihari-temple-odisha",
+    "name": "Kunjabihari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kunjabihari Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bolgarh, Odisha.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kuntesvara-mahadeva-temple-odisha",
+    "name": "Kuntesvara Mahadeva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kuntesvara Mahadeva Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kunti-temple-odisha",
+    "name": "Kunti temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kunti temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mahendragiri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kuttamachandi-temple-odisha",
+    "name": "Kuttamachandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kuttamachandi Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2332,6 +5024,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2346,6 +5041,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Nayagarh district, Odisha."
     ]
   },
   {
@@ -2360,6 +5058,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2374,6 +5075,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Ganjam district, Odisha."
     ]
   },
   {
@@ -2388,6 +5092,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2402,6 +5109,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Kendrapara district, Odisha."
+    ]
+  },
+  {
+    "id": "lakshesvara-temple-odisha",
+    "name": "Lakshesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lakshesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barimunda, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lakshmi-nrusinghadeva-temple-odisha",
+    "name": "Lakshmi Nrusinghadeva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lakshmi Nrusinghadeva Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kalyanapur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2409,13 +5149,31 @@
     "name": "Lankeswari Temple",
     "state": "Odisha",
     "category": "spiritual",
-    "description": "Lankeswari Temple is a lankeshwari temple is located in a town called junagarh of Kalahandi district in Odisha state of India.",
+    "description": "Lankeshwari temple is located in a town called junagarh of Kalahandi district in Odisha state of India.",
     "coordinates": {
       "lat": 20.84931,
       "lon": 83.91431
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dedicated to Lankeswari."
+    ]
+  },
+  {
+    "id": "laxmanesvar-group-of-temples-odisha",
+    "name": "Laxmanesvar Group of Temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Laxmanesvar Group of Temples is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2430,6 +5188,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "laxminarayan-temple-odisha",
+    "name": "Laxminarayan Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Laxminarayan Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2444,6 +5220,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "laxminarayana-temple-odisha",
+    "name": "Laxminarayana Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Laxminarayana Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2458,6 +5252,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "laxmivaraha-temple-odisha",
+    "name": "Laxmivaraha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Laxmivaraha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kendrapara, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2472,6 +5284,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Sambalpur district.",
+      "Lies in Sambalpur, Odisha."
     ]
   },
   {
@@ -2485,7 +5301,13 @@
       "lon": 85.83361
     },
     "tags": [
+      "world-heritage",
       "temple"
+    ],
+    "facts": [
+      "Dates from 1000.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2500,6 +5322,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2514,6 +5339,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2528,6 +5356,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri, Odisha."
+    ]
+  },
+  {
+    "id": "loose-sculptures-odisha",
+    "name": "Loose Sculptures",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Loose Sculptures is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2535,7 +5381,10 @@
     "name": "Lower Indra Dam",
     "state": "Odisha",
     "category": "nature",
-    "description": "Lower Indra Dam is a dam on the Indra River in Odisha, India."
+    "description": "Lower Indra Dam is a dam on the Indra River in Odisha, India.",
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
   },
   {
     "id": "maa-barunei-temple-odisha",
@@ -2549,6 +5398,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2563,6 +5415,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhadrak district, Odisha."
     ]
   },
   {
@@ -2577,6 +5432,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Cuttack, Odisha."
     ]
   },
   {
@@ -2591,6 +5449,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -2605,6 +5466,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2619,6 +5483,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ghatgaon, Odisha."
     ]
   },
   {
@@ -2633,6 +5500,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2647,6 +5517,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2661,6 +5534,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "madhavananda-temple-odisha",
+    "name": "Madhavananda Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Madhavananda Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "madhudesvara-temple-odisha",
+    "name": "Madhudesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Madhudesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Deulidharpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2675,6 +5581,26 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "mahabhoi-sasana-tank-odisha",
+    "name": "Mahabhoi Sasana Tank",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mahabhoi Sasana Tank is a hindu temple in Orissa, India.",
+    "coordinates": {
+      "lat": 20.23528,
+      "lon": 85.85972
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2689,6 +5615,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "mahanadi-odisha",
+    "name": "Mahanadi",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Mahanadi is a river in Odisha, India.",
+    "coordinates": {
+      "lat": 20.11,
+      "lon": 81.91
+    },
+    "facts": [
+      "Lies in Chhattisgarh, Odisha."
     ]
   },
   {
@@ -2703,6 +5646,41 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jajpur district, Odisha."
+    ]
+  },
+  {
+    "id": "mahendragiri-odisha-odisha",
+    "name": "Mahendragiri (Odisha)",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Mahendragiri (Odisha) is a mountain in Odisha, India.",
+    "coordinates": {
+      "lat": 18.96653,
+      "lon": 84.36494
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 1,501 m elevation."
+    ]
+  },
+  {
+    "id": "mahimamani-temple-odisha",
+    "name": "Mahimamani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mahimamani Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ragadi (Banki), Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2717,6 +5695,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Balasore district, Odisha."
+    ]
+  },
+  {
+    "id": "mahratta-bridge-locally-known-as-the-atharnulla-eighteen-arches-bridge-and-also-as-tentulimal-bridge-odisha",
+    "name": "Mahratta bridge locally known as the Atharnulla (eighteen arches bridge) and also as Tentulimal bridge",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Mahratta bridge locally known as the Atharnulla (eighteen arches bridge) and also as Tentulimal bridge is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "maitreswar-temple-with-all-the-minor-temples-in-the-compound-odisha",
+    "name": "Maitreswar temple with all the minor temples in the compound",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Maitreswar temple with all the minor temples in the compound is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2731,6 +5742,54 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "major-ruined-buddhist-site-with-3-monasteries-and-hundreds-of-stupas-abundant-sculpture-odisha",
+    "name": "Major ruined Buddhist site with 3 monasteries and hundreds of stupas; abundant sculpture",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Major ruined Buddhist site with 3 monasteries and hundreds of stupas; abundant sculpture is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ratnagiri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "makareswar-temple-with-its-minor-odisha",
+    "name": "Makareswar temple with its minor",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Makareswar temple with its minor is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mallikesvara-temple-odisha",
+    "name": "Mallikesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mallikesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rayagada, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2742,10 +5801,13 @@
     "coordinates": {
       "lat": 22.26898,
       "lon": 84.65623
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
   },
   {
-    "id": "mangala-temple-odisha",
+    "id": "mangala-temple-odisha-q6748661",
     "name": "Mangala Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -2756,6 +5818,11 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
     ]
   },
   {
@@ -2770,6 +5837,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2784,6 +5854,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2798,6 +5871,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2812,6 +5888,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2826,6 +5905,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dedicated to Manikeswari."
+    ]
+  },
+  {
+    "id": "manikesvara-and-bhagabati-temple-odisha",
+    "name": "Manikesvara and Bhagabati Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Manikesvara and Bhagabati Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "manikesvari-temple-odisha",
+    "name": "Manikesvari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Manikesvari Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kalahandi, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2836,6 +5948,9 @@
     "description": "Manikeswari is a hindu Goddess.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2850,6 +5965,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
     ]
   },
   {
@@ -2864,6 +5982,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Balasore district, Odisha."
     ]
   },
   {
@@ -2878,6 +5999,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -2892,6 +6016,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
+    ]
+  },
+  {
+    "id": "markandeswar-temple-odisha",
+    "name": "Markandeswar temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Markandeswar temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2906,6 +6048,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -2920,6 +6065,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2927,13 +6075,33 @@
     "name": "Mayurbhanj Palace",
     "state": "Odisha",
     "category": "heritage",
-    "description": "Mayurbhanj Palace is the royal seat of Mayurbhanj princely state till 1956, currently owned by Govt. of Odisha.",
+    "description": "Mayurbhanj Palace is a royal seat of Mayurbhanj princely state till 1956, currently owned by Govt. of Odisha.",
     "coordinates": {
       "lat": 21.93391,
       "lon": 86.72206
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
+  },
+  {
+    "id": "mayurbhanj-state-odisha",
+    "name": "Mayurbhanj State",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Mayurbhanj State is a princely state of British India in modern-day Odisha.",
+    "coordinates": {
+      "lat": 21.94,
+      "lon": 86.72
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Dates from the 1790s."
     ]
   },
   {
@@ -2948,6 +6116,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "megheswar-temple-with-its-minor-shrine-odisha",
+    "name": "Megheswar Temple with its minor shrine",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Megheswar Temple with its minor shrine is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2958,6 +6145,9 @@
     "description": "Metakani Temple is a temple in Odisha, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -2972,6 +6162,54 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Stands at about 248 m elevation."
+    ]
+  },
+  {
+    "id": "mohini-temple-odisha",
+    "name": "Mohini Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mohini Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old town, Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "monolith-called-chandeswar-pillar-odisha",
+    "name": "Monolith called Chandeswar Pillar",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Monolith called Chandeswar Pillar is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sriapur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mrutynjaya-temple-odisha",
+    "name": "Mrutynjaya Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mrutynjaya Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mayurbhanj, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2986,6 +6224,41 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from the 10th century.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "muktesvara-temple-odisha",
+    "name": "Muktesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Muktesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mukteswar-temple-with-its-minar-shrines-but-excluding-the-murich-kunda-odisha",
+    "name": "Mukteswar temple with its minar shrines but excluding the Murich Kunda",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mukteswar temple with its minar shrines but excluding the Murich Kunda is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3000,6 +6273,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -3014,6 +6290,39 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
+  },
+  {
+    "id": "nabakeswar-temple-odisha",
+    "name": "Nabakeswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nabakeswar Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "nadara-ramachandi-temple-odisha",
+    "name": "Nadara Ramachandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nadara Ramachandi Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhenkanal, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3028,6 +6337,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Rises about 8.15 m.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "nagesvari-thakurani-temple-odisha",
+    "name": "Nagesvari Thakurani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nagesvari Thakurani Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "nahakani-temple-odisha",
+    "name": "Nahakani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nahakani Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bodak, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3041,7 +6384,11 @@
       "lon": 85.30667
     },
     "tags": [
-      "lake"
+      "lake",
+      "island"
+    ],
+    "facts": [
+      "Recognised as Ramsar site."
     ]
   },
   {
@@ -3053,7 +6400,25 @@
     "coordinates": {
       "lat": 20.39997,
       "lon": 85.8147
-    }
+    },
+    "facts": [
+      "Dates from 1960."
+    ]
+  },
+  {
+    "id": "nandikesvara-temple-odisha",
+    "name": "Nandikesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nandikesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "narasimha-temple-bhubaneswar-odisha",
@@ -3067,6 +6432,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "narasimha-temple-odisha",
+    "name": "Narasimha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Narasimha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kenduli, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3081,6 +6464,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -3092,7 +6478,10 @@
     "coordinates": {
       "lat": 20.467,
       "lon": 85.083
-    }
+    },
+    "facts": [
+      "Lies in Cuttack district, Odisha."
+    ]
   },
   {
     "id": "narayana-gosain-temple-odisha",
@@ -3106,6 +6495,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -3120,6 +6512,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -3134,6 +6529,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bargarh district, Odisha."
+    ]
+  },
+  {
+    "id": "netaji-seva-sadan-odisha",
+    "name": "Netaji Seva Sadan",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Netaji Seva Sadan is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "nikumabihari-odisha",
+    "name": "Nikumabihari",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Nikumabihari is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3148,6 +6576,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "nilakanthesvara-temple-odisha",
+    "name": "Nilakanthesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nilakanthesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nawarangapur, Odisha.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3162,6 +6609,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -3176,6 +6626,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Nayagarh district, Odisha."
+    ]
+  },
+  {
+    "id": "nilamadhava-and-trivikram-vishnu-odisha",
+    "name": "Nilamadhava and Trivikram Vishnu",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Nilamadhava and Trivikram Vishnu is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "nilamadhava-temple-odisha",
+    "name": "Nilamadhava Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nilamadhava Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nayagarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3190,6 +6673,41 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "niyamgiri-odisha",
+    "name": "Niyamgiri",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Niyamgiri is a jill range situated in India.",
+    "coordinates": {
+      "lat": 19.58333,
+      "lon": 83.4
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,509 m elevation."
+    ]
+  },
+  {
+    "id": "nrushinghanatha-temple-odisha",
+    "name": "Nrushinghanatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nrushinghanatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Paikamala, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3204,6 +6722,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Bargarh district, Odisha."
+    ]
+  },
+  {
+    "id": "nrusinghanatha-temple-odisha",
+    "name": "Nrusinghanatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nrusinghanatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Paribasudeipur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3218,6 +6755,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2018."
     ]
   },
   {
@@ -3232,6 +6772,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1932.",
+      "Maintained under Government of Odisha.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -3246,6 +6791,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Nayagarh district, Odisha."
     ]
   },
   {
@@ -3260,6 +6808,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "padmapani-avalokitesvara-image-odisha",
+    "name": "Padmapani Avalokitesvara Image",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Padmapani Avalokitesvara Image is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3274,6 +6840,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -3288,6 +6857,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Named after Padma Shri.",
+      "Maintained under Haldhar Nag.",
+      "Lies in Ghess, Odisha."
     ]
   },
   {
@@ -3302,6 +6876,57 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Odisha."
+    ]
+  },
+  {
+    "id": "paintings-on-the-rock-locally-known-as-ravana-chhaya-and-other-ancient-monuments-and-remain-odisha",
+    "name": "Paintings on the rock locally known as Ravana Chhaya and other ancient monuments and remain",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Paintings on the rock locally known as Ravana Chhaya and other ancient monuments and remain is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sitabhanji, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "panasa-odisha",
+    "name": "Panasa",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Panasa is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 20.865,
+      "lon": 86.31611
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 26 m elevation.",
+      "Lies in Jajpur district, Odisha."
+    ]
+  },
+  {
+    "id": "pancha-pandava-temple-odisha",
+    "name": "Pancha Pandava temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Pancha Pandava temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ganeswarpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3309,7 +6934,10 @@
     "name": "Pancha Tirtha of Puri",
     "state": "Odisha",
     "category": "other",
-    "description": "Pancha Tirtha of Puri is a five sacred bathing spots of Puri, India."
+    "description": "Pancha Tirtha of Puri is a five sacred bathing spots of Puri, India.",
+    "facts": [
+      "Known as a tourism destination in Odisha."
+    ]
   },
   {
     "id": "panchalingeswar-temple-odisha",
@@ -3323,6 +6951,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "panchupandava-cave-odisha",
+    "name": "Panchupandava Cave",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Panchupandava Cave is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "panchupandava-temple-odisha",
+    "name": "Panchupandava Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Panchupandava Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3337,6 +6998,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "papnasini-tank-odisha",
+    "name": "Papnasini Tank",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Papnasini Tank is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3351,6 +7030,69 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "paramahansa-temple-odisha",
+    "name": "Paramahansa Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Paramahansa Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "paramguru-temple-odisha",
+    "name": "Paramguru temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Paramguru temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "parasara-temple-odisha",
+    "name": "Parasara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Parasara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "parsurameswar-temple-odisha",
+    "name": "Parsurameswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Parsurameswar Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3365,6 +7107,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -3379,6 +7125,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -3393,6 +7142,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -3407,6 +7159,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "paschima-somnatha-bhubanesvara-and-kapilesvara-temples-odisha",
+    "name": "Paschima Somnatha, Bhubanesvara and Kapilesvara temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Paschima Somnatha, Bhubanesvara and Kapilesvara temples is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Boudh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "paschimesvara-group-to-temples-odisha",
+    "name": "Paschimesvara Group to Temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Paschimesvara Group to Temples is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhenkanal, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3421,6 +7206,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "paschimesvara-temple-odisha",
+    "name": "Paschimesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Paschimesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3435,6 +7238,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -3449,6 +7255,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -3463,18 +7272,43 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "patalesvara-temple-odisha",
+    "name": "Patalesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Patalesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nuapada, Odisha.",
+      "Lies in Rayagada, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "pathani-samanta-planetarium-odisha",
     "name": "Pathani Samanta Planetarium",
     "state": "Odisha",
-    "category": "other",
+    "category": "heritage",
     "description": "Pathani Samanta Planetarium is a planetarium in Odisha, India.",
     "coordinates": {
       "lat": 20.2981,
       "lon": 85.8323
-    }
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
   },
   {
     "id": "patora-dam-odisha",
@@ -3485,7 +7319,10 @@
     "coordinates": {
       "lat": 20.7183,
       "lon": 82.4622
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
   },
   {
     "id": "phurlijharan-odisha",
@@ -3499,6 +7336,41 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Bhawanipatna, Odisha."
+    ]
+  },
+  {
+    "id": "pranabesvara-temple-odisha",
+    "name": "Pranabesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Pranabesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jadiamba, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prehistoric-sites-odisha",
+    "name": "Prehistoric sites",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Prehistoric sites is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Baidyapur, Odisha.",
+      "Lies in Kuchai, Odisha.",
+      "Lies in Kuliana, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3514,20 +7386,30 @@
     "tags": [
       "beach",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Puri, Odisha."
     ]
   },
   {
     "id": "puri-city-odisha",
     "name": "Puri (city)",
     "state": "Odisha",
-    "category": "spiritual",
+    "category": "beach",
     "description": "Puri (city) is a city in Odisha, India.",
     "coordinates": {
       "lat": 19.8,
       "lon": 85.81667
     },
     "tags": [
+      "beach",
+      "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 0 m elevation.",
+      "Covers about 16.3 km².",
+      "Lies in Puri district, Odisha."
     ]
   },
   {
@@ -3542,13 +7424,31 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "pushpagiri-vihara-langudi-hill-odisha",
+    "name": "Pushpagiri Vihara Langudi Hill",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Pushpagiri Vihara Langudi Hill is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mauza Panimuhani, Fazilpur &amp; Salipur,, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "pushpagiri-vihara-odisha",
     "name": "Pushpagiri Vihara",
     "state": "Odisha",
-    "category": "spiritual",
+    "category": "heritage",
     "description": "Pushpagiri Vihara is a budhist site in Odisha, India.",
     "coordinates": {
       "lat": 20.72274,
@@ -3557,6 +7457,10 @@
     "tags": [
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Jajpur district, Odisha."
     ]
   },
   {
@@ -3566,7 +7470,11 @@
     "category": "spiritual",
     "description": "Qadam e Rasool, Cuttack is an islamic shrine in Odisha, India.",
     "tags": [
+      "mosque",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -3581,6 +7489,70 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "radhamadhava-temple-odisha",
+    "name": "Radhamadhava Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Radhamadhava Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dadhimachhagadia, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "radhamadhavajiu-temple-odisha",
+    "name": "Radhamadhavajiu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Radhamadhavajiu Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "raghunatha-temple-odisha",
+    "name": "Raghunatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Raghunatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha.",
+      "Lies in Godipatna, Tangi, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "raghunathajiu-temple-odisha",
+    "name": "Raghunathajiu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Raghunathajiu Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3592,10 +7564,13 @@
     "coordinates": {
       "lat": 19.537,
       "lon": 85.4936
-    }
+    },
+    "facts": [
+      "Known as a offbeat destination in Odisha."
+    ]
   },
   {
-    "id": "raibania-fort-odisha",
+    "id": "raibania-fort-odisha-q7283696",
     "name": "Raibania fort",
     "state": "Odisha",
     "category": "heritage",
@@ -3606,10 +7581,31 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Balasore district, Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Raibania, Jaleswar, Odisha."
     ]
   },
   {
-    "id": "rajarani-temple-odisha",
+    "id": "rajanahar-odisha",
+    "name": "Rajanahar",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Rajanahar is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old town, Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rajarani-temple-odisha-q6507638",
     "name": "Rajarani Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -3620,6 +7616,27 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Associated with Hinduism.",
+      "Lies in Bhubaneswar, Odisha.",
+      "Recognised as a State Protected Monument."
+    ]
+  },
+  {
+    "id": "raktambari-temple-odisha",
+    "name": "Raktambari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Raktambari Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nuapada, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3634,10 +7651,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
-    "id": "ramachandi-temple-odisha",
+    "id": "ramachandi-temple-odisha-q7288686",
     "name": "Ramachandi Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -3647,25 +7667,47 @@
       "lon": 86.05921
     },
     "tags": [
+      "beach",
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Narisha, Odisha."
     ]
   },
   {
-    "id": "ramakrishna-math-and-mission-bhubaneswar-odisha",
-    "name": "Ramakrishna Math and Mission, Bhubaneswar",
+    "id": "ramanidhideva-temple-odisha",
+    "name": "Ramanidhideva Temple",
     "state": "Odisha",
     "category": "spiritual",
-    "description": "Ramakrishna Math and Mission, Bhubaneswar is an organization in Odisha, India.",
-    "coordinates": {
-      "lat": 20.24875,
-      "lon": 85.8362
-    },
+    "description": "Ramanidhideva Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ramesvar, Odisha."
+    ],
     "tags": [
-      "pilgrimage"
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
-    "id": "rameshwar-deula-odisha",
+    "id": "ramapada-temple-odisha",
+    "name": "Ramapada Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ramapada Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ganjam, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rameshwar-deula-odisha-q6507707",
     "name": "Rameshwar Deula",
     "state": "Odisha",
     "category": "spiritual",
@@ -3676,6 +7718,42 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Bhubaneswar, Odisha.",
+      "Recognised as a State Protected Monument."
+    ]
+  },
+  {
+    "id": "ramesvara-temple-odisha",
+    "name": "Ramesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ramesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rahandia, Odisha.",
+      "Lies in | address =, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ramji-temple-odisha",
+    "name": "Ramji Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ramji Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sundargarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3689,8 +7767,13 @@
       "lon": 86.33533
     },
     "tags": [
+      "world-heritage",
       "monastery",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Jajpur district, Odisha."
     ]
   },
   {
@@ -3705,6 +7788,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2004."
     ]
   },
   {
@@ -3716,7 +7802,133 @@
     "coordinates": {
       "lat": 21.27667,
       "lon": 85.0325
-    }
+    },
+    "facts": [
+      "Dates from 1976.",
+      "Set on Brahmani River."
+    ]
+  },
+  {
+    "id": "rock-cut-vishnu-odisha",
+    "name": "Rock-cut Vishnu",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Rock-cut Vishnu is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rasol, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rock-inscription-of-the-edicts-of-asoka-and-the-sculpture-of-elephant-odisha",
+    "name": "Rock inscription of the edicts of Asoka and the sculpture of elephant",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Rock inscription of the edicts of Asoka and the sculpture of elephant is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhauli, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rourkela-odisha",
+    "name": "Rourkela",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Rourkela is a city in Odisha, India.",
+    "coordinates": {
+      "lat": 22.24917,
+      "lon": 84.88278
+    },
+    "facts": [
+      "Dates from March 1954.",
+      "Stands at about 216 m elevation.",
+      "Covers about 90 km².",
+      "Lies in Sundargarh district, Odisha."
+    ]
+  },
+  {
+    "id": "ruined-fortress-odisha",
+    "name": "Ruined fortress",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Ruined fortress is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Agrahat, Bandals, Choudwar, Chhatisa, Govind Jew, Patna, Jaj, Bhariab, Kapaleswar, Kedareswar, Mundmal, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruins-of-ancient-fort-odisha",
+    "name": "Ruins of ancient fort",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Ruins of ancient fort is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Haripurgarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruins-of-buddhist-temples-and-images-odisha",
+    "name": "Ruins of Buddhist temples and images",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ruins of Buddhist temples and images is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Naltigiri (Lalitagiri), Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruins-of-the-buddhist-temples-and-images-odisha",
+    "name": "Ruins of the Buddhist temples and images",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ruins of the Buddhist temples and images is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bandareswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sabhamandap-odisha",
+    "name": "Sabhamandap",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Sabhamandap is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "sacred-heart-cathedral-rourkela-odisha",
@@ -3730,6 +7942,40 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Associated with Catholicism.",
+      "Lies in Rourkela, Odisha."
+    ]
+  },
+  {
+    "id": "sahasralinga-tank-odisha",
+    "name": "Sahasralinga Tank",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Sahasralinga Tank is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sahi-mosque-odisha",
+    "name": "Sahi Mosque",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sahi Mosque is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3744,6 +7990,9 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
     ]
   },
   {
@@ -3758,6 +8007,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Puri district, Odisha."
+    ]
+  },
+  {
+    "id": "samalesvari-temple-odisha",
+    "name": "Samalesvari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Samalesvari Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sambalpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sambalpur-odisha",
+    "name": "Sambalpur",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Sambalpur is a city in Odisha, India.",
+    "coordinates": {
+      "lat": 21.45,
+      "lon": 83.96667
+    },
+    "facts": [
+      "Stands at about 135 m elevation.",
+      "Covers about 50.8 km².",
+      "Lies in Sambalpur district, Odisha."
     ]
   },
   {
@@ -3769,7 +8052,10 @@
     "coordinates": {
       "lat": 21.51508,
       "lon": 83.91657
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Odisha."
+    ]
   },
   {
     "id": "samleswari-temple-odisha",
@@ -3783,6 +8069,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Sambalpur district, Odisha."
     ]
   },
   {
@@ -3797,6 +8086,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Kendujhar district, Odisha."
     ]
   },
   {
@@ -3811,6 +8103,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -3825,6 +8120,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -3839,6 +8137,24 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
+  },
+  {
+    "id": "saptamatruka-amp-ajaikapada-odisha",
+    "name": "Saptamatruka &amp;Ajaikapada",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Saptamatruka &amp;Ajaikapada is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3853,6 +8169,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -3864,10 +8183,13 @@
     "coordinates": {
       "lat": 20.59,
       "lon": 85.29
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
   },
   {
-    "id": "sarala-temple-odisha",
+    "id": "sarala-temple-odisha-q7423024",
     "name": "Sarala Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -3878,6 +8200,26 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ]
+  },
+  {
+    "id": "sari-deul-odisha",
+    "name": "Sari Deul",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Sari Deul is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3892,6 +8234,26 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from the 10th century.",
+      "Built in the Kalinga architecture style.",
+      "Lies in Khordha district, Odisha."
+    ]
+  },
+  {
+    "id": "sarvesvara-temple-odisha",
+    "name": "Sarvesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sarvesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Koraput, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3902,18 +8264,56 @@
     "description": "Sasisena Temple is a temple in Sonepur, Subarnapur district, Odisha, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "satabhauni-temple-odisha",
+    "name": "Satabhauni Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Satabhauni Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Haripur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "satabhaya-odisha-odisha",
+    "name": "Satabhaya, Odisha",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Satabhaya, Odisha is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 20.63333,
+      "lon": 86.93333
+    },
+    "tags": [
+      "beach"
+    ],
+    "facts": [
+      "Lies in Kendrapara district, Odisha."
     ]
   },
   {
     "id": "satkosia-gorge-odisha",
     "name": "Satkosia Gorge",
     "state": "Odisha",
-    "category": "other",
+    "category": "nature",
     "description": "Satkosia Gorge is a gorge in eastern Odisha, India.",
     "coordinates": {
       "lat": 20.60417,
       "lon": 84.77611
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
   },
   {
     "id": "satkosia-tiger-reserve-odisha",
@@ -3927,6 +8327,40 @@
     },
     "tags": [
       "tiger-reserve"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Odisha."
+    ]
+  },
+  {
+    "id": "scuipture-shed-odisha",
+    "name": "Scuipture shed",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Scuipture shed is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ayodhya, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sculpture-shed-odisha",
+    "name": "Sculpture shed",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Sculpture shed is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kaupur, Odisha.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3941,6 +8375,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Lathanga, Odisha."
+    ]
+  },
+  {
+    "id": "shri-jagannath-temple-built-in-1161-kalinga-architecture-stile-and-subsidiary-shrines-odisha",
+    "name": "Shri Jagannath Temple (built in 1161, Kalinga Architecture stile) and subsidiary shrines",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Shri Jagannath Temple (built in 1161, Kalinga Architecture stile) and subsidiary shrines is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shyamsundarji-temple-odisha",
+    "name": "Shyamsundarji Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Shyamsundarji Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Balasore, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3955,6 +8422,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ganjam district, Odisha."
     ]
   },
   {
@@ -3969,6 +8439,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "siddhabakula-matha-odisha",
+    "name": "Siddhabakula Matha",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Siddhabakula Matha is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3983,6 +8471,113 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "siddhesvara-temple-odisha",
+    "name": "Siddhesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Siddhesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sidha-ganesha-temple-odisha",
+    "name": "Sidha Ganesha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sidha Ganesha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhauli, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sidhesvara-group-of-temples-odisha",
+    "name": "Sidhesvara Group of Temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sidhesvara Group of Temples is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Deulijhari, Athamallick, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sidhesvara-temple-odisha",
+    "name": "Sidhesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sidhesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhenkanal, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sidheswar-temple-odisha",
+    "name": "Sidheswar temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sidheswar temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sikharachandi-temple-odisha",
+    "name": "Sikharachandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sikharachandi Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patia, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sileru-river-odisha",
+    "name": "Sileru River",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Sileru River is a tributary of Sabari River.",
+    "coordinates": {
+      "lat": 17.9485,
+      "lon": 82.5497
+    },
+    "facts": [
+      "Lies in Andhra Pradesh, Odisha."
     ]
   },
   {
@@ -3997,6 +8592,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "simhanatha-mahadeva-temple-odisha",
+    "name": "Simhanatha Mahadeva temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Simhanatha Mahadeva temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Simhanatha Pitha, Mauza Gopinathpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4012,6 +8625,26 @@
     "tags": [
       "national-park",
       "tiger-reserve"
+    ],
+    "facts": [
+      "Dates from 1980.",
+      "Covers about 2,750 km².",
+      "Lies in Mayurbhanj district, Odisha."
+    ]
+  },
+  {
+    "id": "sisiresvara-temple-odisha",
+    "name": "Sisiresvara temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sisiresvara temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4023,7 +8656,42 @@
     "coordinates": {
       "lat": 20.47906,
       "lon": 86.08227
-    }
+    },
+    "facts": [
+      "Stands at about 24 m elevation.",
+      "Covers about 1.54 km².",
+      "Lies in Cuttack district, Odisha."
+    ]
+  },
+  {
+    "id": "sisuananta-temple-odisha",
+    "name": "Sisuananta Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sisuananta Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sisupalgarh-ancient-remains-inside-and-outside-the-rampart-odisha",
+    "name": "Sisupalgarh Ancient remains inside and outside the rampart",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Sisupalgarh Ancient remains inside and outside the rampart is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sisupalgarh, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "sisupalgarh-odisha",
@@ -4038,6 +8706,10 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Khordha district, Odisha."
     ]
   },
   {
@@ -4049,7 +8721,10 @@
     "coordinates": {
       "lat": 21.46447,
       "lon": 83.9692
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Odisha."
+    ]
   },
   {
     "id": "sivatirtha-matha-old-town-odisha",
@@ -4063,6 +8738,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "small-rock-cut-cell-with-a-niche-and-an-inscription-of-santikara-odisha",
+    "name": "Small rock cut cell with a niche and an inscription of Santikara",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Small rock cut cell with a niche and an inscription of Santikara is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhauli, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sobhanesvara-temple-odisha",
+    "name": "Sobhanesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sobhanesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4077,6 +8785,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4091,6 +8802,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Khordha district, Odisha."
+    ]
+  },
+  {
+    "id": "somanath-temple-odisha",
+    "name": "Somanath Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Somanath Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Budhapada, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "somanatha-temple-odisha",
+    "name": "Somanatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Somanatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4105,6 +8849,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "somesvara-temple-odisha",
+    "name": "Somesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Somesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bolangir, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "somnatha-temple-odisha",
+    "name": "Somnatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Somnatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhenkanal, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4119,6 +8896,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Khordha district, Odisha."
     ]
   },
   {
@@ -4133,6 +8913,39 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Rayagada district, Odisha."
+    ]
+  },
+  {
+    "id": "stone-inscription-of-gopinathajiu-odisha",
+    "name": "Stone inscription of Gopinathajiu",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Stone inscription of Gopinathajiu is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cutack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "suabarnesvara-temple-odisha",
+    "name": "Suabarnesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Suabarnesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4147,6 +8960,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "subamesvara-temple-odisha",
+    "name": "Subamesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Subamesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4161,6 +8992,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "subarnarekha-river-odisha",
+    "name": "Subarnarekha River",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Subarnarekha River is a river in India.",
+    "coordinates": {
+      "lat": 21.555,
+      "lon": 87.3919
+    },
+    "facts": [
+      "Lies in Jharkhand, Odisha."
     ]
   },
   {
@@ -4175,6 +9023,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4189,6 +9040,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "sukhmesvara-temple-odisha",
+    "name": "Sukhmesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sukhmesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old town, Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4203,6 +9072,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4218,6 +9090,9 @@
     "tags": [
       "wildlife-sanctuary",
       "tiger-reserve"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Odisha."
     ]
   },
   {
@@ -4232,6 +9107,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4246,6 +9124,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -4257,7 +9138,10 @@
     "coordinates": {
       "lat": 21.4408,
       "lon": 86.4516
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Odisha."
+    ]
   },
   {
     "id": "sureswari-temple-odisha",
@@ -4271,6 +9155,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -4285,6 +9172,55 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "svapnesvara-temple-odisha",
+    "name": "Svapnesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Svapnesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "svarnajalesvara-temple-odisha",
+    "name": "Svarnajalesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Svarnajalesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old town, Bhuabaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "swaraj-ashram-odisha",
+    "name": "Swaraj Ashram",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Swaraj Ashram is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4299,6 +9235,28 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "talacher-odisha",
+    "name": "Talacher",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Talacher is a city in Odisha, India.",
+    "coordinates": {
+      "lat": 20.95,
+      "lon": 85.23
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Stands at about 77 m elevation.",
+      "Covers about 25.5 km².",
+      "Lies in Angul district, Odisha."
     ]
   },
   {
@@ -4313,6 +9271,9 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Lies in Balasore district, Odisha."
     ]
   },
   {
@@ -4327,6 +9288,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4341,6 +9305,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4355,6 +9322,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Odisha."
     ]
   },
   {
@@ -4369,6 +9339,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "tara-odisha",
+    "name": "Tara",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Tara is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4383,6 +9371,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Ganjam district, Odisha."
     ]
   },
   {
@@ -4394,18 +9385,69 @@
     "coordinates": {
       "lat": 20.14,
       "lon": 85.19
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Odisha."
+    ]
   },
   {
     "id": "tarapur-odisha-odisha",
     "name": "Tarapur, Odisha",
     "state": "Odisha",
-    "category": "other",
+    "category": "spiritual",
     "description": "Tarapur, Odisha is a town in Odisha, India.",
     "coordinates": {
       "lat": 20.35436,
       "lon": 86.22725
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "teligarh-odisha",
+    "name": "Teligarh",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Teligarh is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-nilamadhava-and-sidheswara-odisha",
+    "name": "Temple of Nilamadhava and Sidheswara",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Temple of Nilamadhava and Sidheswara is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gandharadhi, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "three-buddhist-images-in-the-compound-of-collectorate-jajpur-odisha",
+    "name": "Three Buddhist images in the compound of Collectorate Jajpur",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Three Buddhist images in the compound of Collectorate Jajpur is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tirthesvara-siva-temple-odisha",
@@ -4419,6 +9461,32 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "tourism-in-odisha-odisha",
+    "name": "Tourism in Odisha",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Tourism in Odisha is an india's Best Kept Secret: Scenic, Serene, Sublime!.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Odisha."
+    ]
+  },
+  {
+    "id": "tourism-in-western-odisha-odisha",
+    "name": "Tourism in Western Odisha",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Tourism in Western Odisha is a tourism in a region in Odisha, India.",
+    "facts": [
+      "Known as a tourism destination in Odisha."
     ]
   },
   {
@@ -4433,6 +9501,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from April 2026.",
+      "Lies in Rourkela, Odisha."
     ]
   },
   {
@@ -4447,6 +9519,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1953.",
+      "Maintained under Government of Odisha.",
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4461,37 +9538,140 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
+    ]
+  },
+  {
+    "id": "trilochanesvara-temple-odisha",
+    "name": "Trilochanesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Trilochanesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsinghpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "trilochaneswar-temple-odisha",
+    "name": "Trilochaneswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Trilochaneswar Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "trimali-matha-odisha",
+    "name": "Trimali matha",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Trimali matha is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kenduli, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "trivenisvara-temple-odisha",
+    "name": "Trivenisvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Trivenisvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Banamalipur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "trutiyadeva-temple-odisha",
+    "name": "Trutiyadeva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Trutiyadeva Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "udayagiri-and-khandagiri-caves-odisha",
     "name": "Udayagiri and Khandagiri caves",
     "state": "Odisha",
-    "category": "heritage",
+    "category": "spiritual",
     "description": "Udayagiri and Khandagiri caves is a partly natural and partly artificial caves of archaeological, historical and religious importance near the city of Bhubaneswar in Odisha, India.",
     "coordinates": {
       "lat": 20.2628,
       "lon": 85.786
     },
     "tags": [
+      "world-heritage",
       "temple",
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Khordha district, Odisha."
+    ]
+  },
+  {
+    "id": "udayagiri-odisha",
+    "name": "Udayagiri",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Udayagiri is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "udayagiri-odisha-odisha",
     "name": "Udayagiri, Odisha",
     "state": "Odisha",
-    "category": "spiritual",
+    "category": "heritage",
     "description": "Udayagiri, Odisha is a buddhist complex in Odisha.",
     "coordinates": {
       "lat": 20.6416,
       "lon": 86.2692
     },
     "tags": [
+      "world-heritage",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Associated with Buddhism.",
+      "Lies in Jajpur district, Odisha."
     ]
   },
   {
@@ -4506,6 +9686,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
@@ -4520,6 +9703,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Sambalpur district, Odisha."
     ]
   },
   {
@@ -4534,6 +9720,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "uttaresvara-temple-odisha",
+    "name": "Uttaresvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Uttaresvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha.",
+      "Lies in Ganjam, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "vaishnavi-and-bana-durga-image-odisha",
+    "name": "Vaishnavi and Bana Durga Image",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Vaishnavi and Bana Durga Image is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4548,10 +9768,28 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Odisha."
     ]
   },
   {
-    "id": "varahanatha-temple-odisha",
+    "id": "vanivakresvara-temple-odisha",
+    "name": "Vanivakresvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Vanivakresvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Puri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "varahanatha-temple-odisha-q7915407",
     "name": "Varahanatha Temple",
     "state": "Odisha",
     "category": "spiritual",
@@ -4562,6 +9800,12 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Jajpur district, Odisha.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
     ]
   },
   {
@@ -4576,6 +9820,26 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Kalinga architecture style.",
+      "Lies in Puri district, Odisha."
+    ]
+  },
+  {
+    "id": "varahi-temple-odisha",
+    "name": "Varahi temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Varahi temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chaurasi, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4590,6 +9854,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Opened in 15 April 2026.",
+      "Maintained under Government of Odisha.",
+      "Lies in Sambalpur district, Odisha."
     ]
   },
   {
@@ -4605,6 +9874,70 @@
     "tags": [
       "cave",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Jharsuguda district, Odisha."
+    ]
+  },
+  {
+    "id": "vikramkhol-rock-inscriptions-odisha",
+    "name": "Vikramkhol rock inscriptions",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Vikramkhol rock inscriptions is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Vikramkhol, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "vimalesvara-temple-odisha",
+    "name": "Vimalesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Vimalesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sambalpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "viraja-temple-odisha",
+    "name": "Viraja Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Viraja Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jajpur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "vishnu-image-odisha",
+    "name": "Vishnu Image",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Vishnu Image is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rasol, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4615,6 +9948,9 @@
     "description": "Vishnu Temple, Bhubaneswar is a vishnu temple in Odisha, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4629,6 +9965,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
     ]
   },
   {
@@ -4643,6 +9982,54 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "visvanatha-temple-odisha",
+    "name": "Visvanatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Visvanatha Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cuttack, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "yajnesvara-temple-odisha",
+    "name": "Yajnesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Yajnesvara Temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhenkanal, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "yakshya-image-odisha",
+    "name": "Yakshya Image",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Yakshya Image is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -4657,6 +10044,70 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Bhubaneswar, Odisha."
+    ]
+  },
+  {
+    "id": "yameshwar-temple-with-its-minor-shrine-odisha",
+    "name": "Yameshwar Temple with its minor shrine",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Yameshwar Temple with its minor shrine is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhubaneswar, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "yogimatha-rock-painting-odisha",
+    "name": "Yogimatha, Rock Painting",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Yogimatha, Rock Painting is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nuapada, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "yogini-the-sixty-four-yogini-temples-chausath-yogini-temple-known-as-mahamaya-temple-odisha",
+    "name": "[[Yogini#The Sixty-Four Yogini temples|Chausath Yogini temple]] known as Mahamaya temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "[[Yogini#The Sixty-Four Yogini temples|Chausath Yogini temple]] known as Mahamaya temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hirapur, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "yudhistra-temple-odisha",
+    "name": "Yudhistra temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Yudhistra temple is a protected monument in Odisha, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mahendragiri, Odisha."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   }
 ]

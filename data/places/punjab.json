@@ -3,12 +3,227 @@
     "id": "aam-khas-bagh-punjab",
     "name": "Aam Khas Bagh",
     "state": "Punjab",
-    "category": "other",
+    "category": "heritage",
     "description": "Aam Khas Bagh is an inn in Fatehgarh Sahib District, India.",
     "coordinates": {
       "lat": 30.63635,
       "lon": 76.39716
-    }
+    },
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Recognised as Water Heritage Site.",
+      "Lies in Fatehgarh Sahib District, Punjab."
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-chabutra-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Chabutra",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Chabutra is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-daulat-khana-ekhas-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Daulat Khana-Ekhas",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Daulat Khana-Ekhas is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-fountain-channels-with-fountain-flower-beds-falls-etc-in-front-of-hamam-naugharana-and-sardkhana-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Fountain channels with fountain, flower Beds, falls etc. in front of Hamam, Naugharana and Sardkhana",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Fountain channels with fountain, flower Beds, falls etc. in front of Hamam, Naugharana and Sardkhana is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-hamam-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Hamam",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Hamam is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-hathikhana-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Hathikhana",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Hathikhana is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-main-tank-in-front-of-sheesh-mahal-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Main Tank in front of Sheesh Mahal",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Main Tank in front of Sheesh Mahal is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-naughara-aramgah-e-muqaddas-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Naughara (Aramgah-E-Muqaddas)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Naughara (Aramgah-E-Muqaddas) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-palace-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Palace",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Palace is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-punjab",
+    "name": "Aam Khas Bagh, Sirhind",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-sarai-wing-eastern-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Sarai Wing (Eastern)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Sarai Wing (Eastern) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-sarai-wing-western-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Sarai Wing (Western)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Sarai Wing (Western) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-sardkhana-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Sardkhana",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Sardkhana is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-sheesh-mahal-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Sheesh Mahal",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Sheesh Mahal is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aam-khas-bagh-sirhind-wells-3-nos-punjab",
+    "name": "Aam Khas Bagh, Sirhind: Wells-3 Nos",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Aam Khas Bagh, Sirhind: Wells-3 Nos is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "abohar-wildlife-sanctuary-punjab",
@@ -22,29 +237,285 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1975.",
+      "Covers about 186 km².",
+      "Lies in Fazilka district, Punjab."
     ]
   },
   {
     "id": "ajnala-india-punjab",
     "name": "Ajnala, India",
     "state": "Punjab",
-    "category": "other",
+    "category": "heritage",
     "description": "Ajnala, India is a town in Punjab, India.",
     "coordinates": {
       "lat": 31.84,
       "lon": 74.76
-    }
+    },
+    "facts": [
+      "Stands at about 213 m elevation.",
+      "Lies in Amritsar district, Punjab."
+    ]
   },
   {
     "id": "akal-takht-punjab",
     "name": "Akal Takht",
     "state": "Punjab",
-    "category": "other",
+    "category": "spiritual",
     "description": "Akal Takht is an one of the 5 Thakts of Sikhism in Amritsar, Punjab, India.",
     "coordinates": {
       "lat": 31.62061,
       "lon": 74.87533
-    }
+    },
+    "facts": [
+      "Dates from 1606.",
+      "Founded by Guru Hargobind.",
+      "Lies in Amritsar, Punjab."
+    ]
+  },
+  {
+    "id": "amritsar-punjab",
+    "name": "Amritsar",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Amritsar is a city in the north-western part of Punjab, India.",
+    "coordinates": {
+      "lat": 31.62692,
+      "lon": 74.87704
+    },
+    "tags": [
+      "fort",
+      "temple",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1574.",
+      "Founded by Guru Ram Das.",
+      "Part of Majha.",
+      "Stands at about 234 m elevation.",
+      "Covers about 170 km².",
+      "Lies in Amritsar district, Punjab."
+    ]
+  },
+  {
+    "id": "anandpur-sahib-punjab",
+    "name": "Anandpur Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Anandpur Sahib is a city and Sikh pilgrimage site in Punjab, India.",
+    "coordinates": {
+      "lat": 31.23,
+      "lon": 76.5
+    },
+    "tags": [
+      "fort",
+      "museum",
+      "pilgrimage"
+    ],
+    "facts": [
+      "Dates from 1665.",
+      "Founded by Guru Tegh Bahadur.",
+      "Set beside Sutlej.",
+      "Stands at about 286 m elevation.",
+      "Lies in Rupnagar district, Punjab."
+    ]
+  },
+  {
+    "id": "ancestral-house-of-lala-lajpat-rai-jagraon-amp-plot-in-front-of-house-punjab",
+    "name": "Ancestral House of Lala Lajpat Rai Jagraon&amp; Plot in front of house",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Ancestral House of Lala Lajpat Rai Jagraon&amp; Plot in front of house is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ludhiana, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancestral-house-of-shaheed-bhagat-singh-khatkarkalan-punjab",
+    "name": "Ancestral House of Shaheed Bhagat Singh, Khatkarkalan",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Ancestral House of Shaheed Bhagat Singh, Khatkarkalan is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nawanshahar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancestral-house-of-shaheed-kartar-sigh-punjab",
+    "name": "Ancestral House of Shaheed Kartar Sigh",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Ancestral House of Shaheed Kartar Sigh is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ludhiana, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancestral-house-of-shaheed-udham-singh-punjab",
+    "name": "Ancestral House of Shaheed Udham Singh",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Ancestral House of Shaheed Udham Singh is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sunam, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-buddhist-stupa-and-site-sanghol-punjab",
+    "name": "Ancient Buddhist Stupa and site, Sanghol",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Ancient Buddhist Stupa and site, Sanghol is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-punjab",
+    "name": "Ancient Mound",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Ancient Mound is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Katpalon, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-site-buddhist-stupa-sgl-11-punjab",
+    "name": "Ancient Site, Buddhist Stupa (SGL 11)",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Ancient Site, Buddhist Stupa (SGL 11) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sanghol, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-site-punjab",
+    "name": "Ancient Site",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Ancient Site is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sunet, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-temple-dholbaha-punjab",
+    "name": "Ancient Temple, Dholbaha",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Ancient Temple, Dholbaha is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hoshiarpur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "anglo-sikh-war-memorial-aliwal-with-approach-path-way-punjab",
+    "name": "Anglo Sikh War Memorial Aliwal (with approach path way)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Anglo Sikh War Memorial Aliwal (with approach path way) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ludhiana, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "anglo-sikh-war-memorial-ferozeshan-punjab",
+    "name": "Anglo Sikh War Memorial, Ferozeshan",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Anglo Sikh War Memorial, Ferozeshan is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ferozepur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "anglo-sikh-war-memorial-misriwala-punjab",
+    "name": "Anglo Sikh War Memorial, Misriwala",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Anglo Sikh War Memorial, Misriwala is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ferozepur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "anglo-sikh-war-memorial-mudki-punjab",
+    "name": "Anglo Sikh War Memorial Mudki",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Anglo Sikh War Memorial Mudki is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ferozepur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "anglo-sikh-war-memorial-punjab",
@@ -58,6 +529,25 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Firozpur district, Punjab."
+    ]
+  },
+  {
+    "id": "anglo-sikh-war-memorial-sabhraon-punjab",
+    "name": "Anglo Sikh War Memorial, Sabhraon",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Anglo Sikh War Memorial, Sabhraon is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ferozepur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -72,6 +562,11 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 22 March 1940.",
+      "Associated with Islam.",
+      "Lies in Civil Line, Punjab."
     ]
   },
   {
@@ -86,6 +581,10 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1876.",
+      "Lies in Qadian, Punjab."
     ]
   },
   {
@@ -97,20 +596,11 @@
     "coordinates": {
       "lat": 31.60469,
       "lon": 74.57292
-    }
-  },
-  {
-    "id": "baba-lal-badshah-punjab",
-    "name": "Baba Lal Badshah",
-    "state": "Punjab",
-    "category": "spiritual",
-    "description": "Baba Lal Badshah is a non-profit organisation.",
-    "coordinates": {
-      "lat": 31.1301,
-      "lon": 75.47339
     },
-    "tags": [
-      "pilgrimage"
+    "facts": [
+      "Dates from 1959.",
+      "Founded by Border Security Force.",
+      "Lies in Attari, Punjab."
     ]
   },
   {
@@ -125,6 +615,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
     ]
   },
   {
@@ -140,6 +633,73 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Hoshiarpur District, Punjab."
+    ]
+  },
+  {
+    "id": "baradari-generally-known-as-anarkali-punjab",
+    "name": "Baradari (generally known as Anarkali)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Baradari (generally known as Anarkali) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Batala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "baradari-moti-bagh-punjab",
+    "name": "Baradari Moti Bagh",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Baradari Moti Bagh is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bathinda-punjab",
+    "name": "Bathinda",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Bathinda is a headquarter and city in Bathinda District, Punjab, India.",
+    "coordinates": {
+      "lat": 30.21333,
+      "lon": 74.95194
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 210 m elevation.",
+      "Lies in Bathinda District, Punjab."
+    ]
+  },
+  {
+    "id": "bauli-of-vill-majha-mohewal-punjab",
+    "name": "Bauli of vill. Majha Mohewal",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Bauli of vill. Majha Mohewal is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ropar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -151,7 +711,25 @@
     "coordinates": {
       "lat": 31.38333,
       "lon": 75.18333
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Punjab."
+    ]
+  },
+  {
+    "id": "bhikham-shah-da-maqbra-ghuram-punjab",
+    "name": "Bhikham Shah Da Maqbra, Ghuram",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Bhikham Shah Da Maqbra, Ghuram is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "bir-aishvan-wildlife-sanctuary-punjab",
@@ -165,6 +743,11 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 28 February 1952.",
+      "Covers about 2.64 km².",
+      "Lies in Sangrur district, Punjab."
     ]
   },
   {
@@ -179,16 +762,24 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1952.",
+      "Covers about 662 ha.",
+      "Lies in Patiala district, Punjab."
     ]
   },
   {
     "id": "cemetery-h-culture-punjab",
     "name": "Cemetery H culture",
     "state": "Punjab",
-    "category": "nature",
+    "category": "heritage",
     "description": "Cemetery H culture is a culture of the Indus Valley Civilization.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
     ]
   },
   {
@@ -203,6 +794,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1958.",
+      "Lies in Amritsar, Punjab."
     ]
   },
   {
@@ -214,7 +809,40 @@
     "coordinates": {
       "lat": 31.9697,
       "lon": 75.4761
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
+  },
+  {
+    "id": "choron-ki-baoli-punjab",
+    "name": "Choron ki Baoli",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Choron ki Baoli is a stepwell in Maham, India.",
+    "coordinates": {
+      "lat": 28.95983,
+      "lon": 76.29743
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Rohtak district, Punjab."
+    ]
+  },
+  {
+    "id": "commissioner-s-residence-punjab",
+    "name": "Commissioner's Residence",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Commissioner's Residence is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jalandhar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "damsal-dam-punjab",
@@ -225,20 +853,26 @@
     "coordinates": {
       "lat": 31.67,
       "lon": 75.95
-    }
+    },
+    "facts": [
+      "Opened in 2001.",
+      "Rises about 26 m.",
+      "Lies in Hoshiarpur District, Punjab."
+    ]
   },
   {
-    "id": "dera-baba-murad-shah-punjab",
-    "name": "Dera Baba Murad Shah",
+    "id": "darshani-gate-punjab",
+    "name": "Darshani Gate",
     "state": "Punjab",
-    "category": "spiritual",
-    "description": "Dera Baba Murad Shah is a sufi shrine in Nakodar, Jalandhar Punjab, India.",
-    "coordinates": {
-      "lat": 31.1301,
-      "lon": 75.47339
-    },
+    "category": "heritage",
+    "description": "Darshani Gate is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
     "tags": [
-      "pilgrimage"
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -253,6 +887,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jalandhar, Punjab."
+    ]
+  },
+  {
+    "id": "diwan-khana-punjab",
+    "name": "Diwan Khana",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Diwan Khana is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sangrur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "durbar-hall-kapurthala-punjab",
+    "name": "Durbar Hall, Kapurthala",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Durbar Hall, Kapurthala is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kapurthala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -267,6 +934,43 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Amritsar district, Punjab."
+    ]
+  },
+  {
+    "id": "excavated-temple-dholbaha-punjab",
+    "name": "Excavated Temple, Dholbaha",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Excavated Temple, Dholbaha is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hoshiarpur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "faridkot-india-punjab",
+    "name": "Faridkot, India",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Faridkot, India is a headquarter and city in Faridkot district, Punjab, India.",
+    "coordinates": {
+      "lat": 30.67,
+      "lon": 74.76
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 195 m elevation.",
+      "Covers about 18.1 km².",
+      "Lies in Faridkot district, Punjab."
     ]
   },
   {
@@ -281,6 +985,26 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 30 November 2011.",
+      "Lies in Mohali, Punjab."
+    ]
+  },
+  {
+    "id": "fazilka-punjab",
+    "name": "Fazilka",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Fazilka is a city in Punjab, India.",
+    "coordinates": {
+      "lat": 30.403,
+      "lon": 74.025
+    },
+    "facts": [
+      "Dates from 1844.",
+      "Stands at about 177 m elevation.",
+      "Lies in Fazilka district, Punjab."
     ]
   },
   {
@@ -292,7 +1016,11 @@
     "coordinates": {
       "lat": 30.99145,
       "lon": 74.55161
-    }
+    },
+    "facts": [
+      "Dates from 1922.",
+      "Lies in Firozpur district, Punjab."
+    ]
   },
   {
     "id": "firozpur-fort-punjab",
@@ -306,6 +1034,28 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
+  },
+  {
+    "id": "firozpur-punjab",
+    "name": "Firozpur",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Firozpur is a city in Punjab, India.",
+    "coordinates": {
+      "lat": 30.9166,
+      "lon": 74.6
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Founded by Firuz Shah Tughlaq.",
+      "Stands at about 182 m elevation.",
+      "Lies in Firozpur district, Punjab."
     ]
   },
   {
@@ -317,7 +1067,40 @@
     "coordinates": {
       "lat": 30.86298,
       "lon": 74.81664
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
+  },
+  {
+    "id": "gate-of-sarai-and-mosque-fatehabad-punjab",
+    "name": "Gate of Sarai and Mosque, Fatehabad",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gate of Sarai and Mosque, Fatehabad is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Amritsar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gateway-of-the-old-sarai-akbar-or-jahangir-on-the-old-delhi-and-lahore-road-punjab",
+    "name": "Gateway of the old Sarai Akbar or Jahangir on the old Delhi and Lahore Road",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Gateway of the old Sarai Akbar or Jahangir on the old Delhi and Lahore Road is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehbad, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "geeta-mandir-jalandhar-punjab",
@@ -331,10 +1114,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
     ]
   },
   {
-    "id": "gobindgarh-fort-punjab",
+    "id": "gobindgarh-fort-punjab-q19891598",
     "name": "Gobindgarh Fort",
     "state": "Punjab",
     "category": "heritage",
@@ -345,18 +1131,44 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1760.",
+      "Lies in Amritsar, Punjab.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhatinda, Punjab."
     ]
   },
   {
     "id": "goindwal-punjab",
     "name": "Goindwal",
     "state": "Punjab",
-    "category": "other",
+    "category": "spiritual",
     "description": "Goindwal is a town in Tarn Taran district.",
     "coordinates": {
       "lat": 31.36667,
       "lon": 75.15
-    }
+    },
+    "facts": [
+      "Set beside Beas River.",
+      "Stands at about 217 m elevation.",
+      "Lies in Tarn Taran district, Punjab."
+    ]
+  },
+  {
+    "id": "gol-kothi-kapurthala-punjab",
+    "name": "Gol Kothi (Kapurthala)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Gol Kothi (Kapurthala) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kapurthala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "golden-temple-punjab",
@@ -372,6 +1184,12 @@
       "world-heritage",
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Dates from 1589.",
+      "Recognised as Tentative World Heritage Site.",
+      "Associated with Sikhism.",
+      "Lies in Amritsar, Punjab."
     ]
   },
   {
@@ -383,7 +1201,11 @@
     "coordinates": {
       "lat": 31.61731,
       "lon": 74.87711
-    }
+    },
+    "facts": [
+      "Associated with Sikhism.",
+      "Lies in Amritsar, Punjab."
+    ]
   },
   {
     "id": "gurdwara-baba-bakala-sahib-punjab",
@@ -394,7 +1216,11 @@
     "coordinates": {
       "lat": 31.55544,
       "lon": 75.26406
-    }
+    },
+    "facts": [
+      "Built in the Sikh architecture style.",
+      "Lies in Baba Bakala, Punjab."
+    ]
   },
   {
     "id": "gurdwara-dukh-nivaran-sahib-punjab",
@@ -405,7 +1231,10 @@
     "coordinates": {
       "lat": 30.34708,
       "lon": 76.39608
-    }
+    },
+    "facts": [
+      "Lies in Patiala district, Punjab."
+    ]
   },
   {
     "id": "gurdwara-fatehgarh-sahib-punjab",
@@ -416,7 +1245,11 @@
     "coordinates": {
       "lat": 30.61738,
       "lon": 76.38875
-    }
+    },
+    "facts": [
+      "Associated with Sikhism.",
+      "Lies in Fatehgarh Sahib District, Punjab."
+    ]
   },
   {
     "id": "gurdwara-guptsar-sahib-punjab",
@@ -427,7 +1260,10 @@
     "coordinates": {
       "lat": 30.3165,
       "lon": 74.6755
-    }
+    },
+    "facts": [
+      "Lies in Chhattiana, Punjab."
+    ]
   },
   {
     "id": "gurdwara-karamsar-rara-sahib-punjab",
@@ -441,6 +1277,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Sikhism.",
+      "Lies in Ludhiana district, Punjab."
     ]
   },
   {
@@ -452,14 +1292,20 @@
     "coordinates": {
       "lat": 29.98766,
       "lon": 75.07932
-    }
+    },
+    "facts": [
+      "Lies in Bathinda District, Punjab."
+    ]
   },
   {
     "id": "gurdwara-mata-sunder-kaur-punjab",
     "name": "Gurdwara Mata Sunder Kaur",
     "state": "Punjab",
     "category": "spiritual",
-    "description": "Gurdwara Mata Sunder Kaur is a gurdwara in Punjab, India."
+    "description": "Gurdwara Mata Sunder Kaur is a gurdwara in Punjab, India.",
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
   },
   {
     "id": "gurdwara-mehdiana-sahib-punjab",
@@ -470,7 +1316,10 @@
     "coordinates": {
       "lat": 30.67403,
       "lon": 75.42662
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
   },
   {
     "id": "gurdwara-naulakha-sahib-punjab",
@@ -481,7 +1330,11 @@
     "coordinates": {
       "lat": 30.53,
       "lon": 76.4
-    }
+    },
+    "facts": [
+      "Stands at about 262 m elevation.",
+      "Lies in Fatehgarh Sahib District, Punjab."
+    ]
   },
   {
     "id": "gurdwara-patalpuri-sahib-punjab",
@@ -492,7 +1345,10 @@
     "coordinates": {
       "lat": 31.17806,
       "lon": 76.56319
-    }
+    },
+    "facts": [
+      "Lies in Rupnagar district, Punjab."
+    ]
   },
   {
     "id": "gurdwara-qila-anandgarh-sahib-punjab",
@@ -503,7 +1359,10 @@
     "coordinates": {
       "lat": 31.2317,
       "lon": 76.5054
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
   },
   {
     "id": "gurdwara-sri-ber-sahib-punjab",
@@ -514,7 +1373,12 @@
     "coordinates": {
       "lat": 31.21652,
       "lon": 75.18502
-    }
+    },
+    "facts": [
+      "Dedicated to Guru Nanak.",
+      "Associated with Sikhism.",
+      "Lies in Sultanpur Lodhi, Punjab."
+    ]
   },
   {
     "id": "gurdwara-sri-tarn-taran-sahib-punjab",
@@ -525,14 +1389,18 @@
     "coordinates": {
       "lat": 31.45171,
       "lon": 74.92522
-    }
+    },
+    "facts": [
+      "Associated with Sikhism.",
+      "Lies in Tarn Taran district, Punjab."
+    ]
   },
   {
     "id": "guru-ki-maseet-punjab",
     "name": "Guru Ki Maseet",
     "state": "Punjab",
     "category": "spiritual",
-    "description": "Guru Ki Maseet is a mosque built by Sixth Sikh guru, Guru Hargobind for the Muslim community to provide them place of worship.",
+    "description": "Mosque built by Sixth Sikh guru, Guru Hargobind for the Muslim community to provide them place of worship.",
     "coordinates": {
       "lat": 31.68744,
       "lon": 75.47982
@@ -540,6 +1408,9 @@
     "tags": [
       "world-heritage",
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1637."
     ]
   },
   {
@@ -551,7 +1422,25 @@
     "coordinates": {
       "lat": 31.735,
       "lon": 75.17861
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
+  },
+  {
+    "id": "handira-sultanpur-lodhi-punjab",
+    "name": "Handira-Sultanpur Lodhi",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Handira-Sultanpur Lodhi is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kapurthala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "harike-wetland-punjab",
@@ -565,6 +1454,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site.",
+      "Covers about 4,100 ha.",
+      "Lies in Tarn Taran district, Punjab."
     ]
   },
   {
@@ -572,7 +1466,28 @@
     "name": "Heritage Street Amritsar",
     "state": "Punjab",
     "category": "heritage",
-    "description": "Heritage Street Amritsar is a street in Amritsar, Punjab, India."
+    "description": "Heritage Street Amritsar is a street in Amritsar, Punjab, India.",
+    "facts": [
+      "Lies in Amritsar, Punjab."
+    ]
+  },
+  {
+    "id": "hoshiarpur-punjab",
+    "name": "Hoshiarpur",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Hoshiarpur is a capital city of Hoshiarpur district.",
+    "coordinates": {
+      "lat": 31.53222,
+      "lon": 75.91722
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 296 m elevation.",
+      "Lies in Hoshiarpur District, Punjab."
+    ]
   },
   {
     "id": "hussainiwala-national-martyrs-memorial-punjab",
@@ -583,25 +1498,70 @@
     "coordinates": {
       "lat": 30.9975,
       "lon": 74.54694
-    }
+    },
+    "facts": [
+      "Lies in Firozpur district, Punjab."
+    ]
+  },
+  {
+    "id": "jahaji-haveli-todar-mal-sirhind-punjab",
+    "name": "Jahaji Haveli, Todar Mal, Sirhind",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Jahaji Haveli, Todar Mal, Sirhind is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "jahaz-haveli-punjab",
     "name": "Jahaz Haveli",
     "state": "Punjab",
     "category": "heritage",
-    "description": "Jahaz Haveli is a 17th-century residence of Todar Mal Jain in India."
+    "description": "Jahaz Haveli is a 17th-century residence of Todar Mal Jain in India.",
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Built in the Mughal architecture style.",
+      "Lies in Fatehgarh Sahib District, Punjab."
+    ]
+  },
+  {
+    "id": "jalandhar-punjab",
+    "name": "Jalandhar",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Jalandhar is an ancient city in the north Indian state of Punjab.",
+    "coordinates": {
+      "lat": 31.32556,
+      "lon": 75.57917
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 228 m elevation.",
+      "Covers about 110 km².",
+      "Lies in Jalandhar District, Punjab."
+    ]
   },
   {
     "id": "jallianwala-bagh-punjab",
     "name": "Jallianwala Bagh",
     "state": "Punjab",
-    "category": "other",
+    "category": "heritage",
     "description": "Jallianwala Bagh is a historic site in India.",
     "coordinates": {
       "lat": 31.6205,
       "lon": 74.8806
-    }
+    },
+    "facts": [
+      "Lies in Amritsar, Punjab."
+    ]
   },
   {
     "id": "jamia-mosque-nathowal-punjab",
@@ -615,6 +1575,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Ludhiana, Punjab."
     ]
   },
   {
@@ -629,6 +1592,24 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Jalandhar District, Punjab."
+    ]
+  },
+  {
+    "id": "jhandewala-temple-dholbaha-punjab",
+    "name": "Jhandewala Temple, Dholbaha",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Jhandewala Temple, Dholbaha is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hoshiarpur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -639,6 +1620,64 @@
     "description": "Julfa Mata Temple is a hindu temple in north India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
+  },
+  {
+    "id": "kabuli-bagh-mosque-punjab",
+    "name": "Kabuli Bagh Mosque",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Kabuli Bagh Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 29.39603,
+      "lon": 76.98937
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Dates from 1527.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Islamic architecture style.",
+      "Founded by Babur.",
+      "Lies in Panipat district, Punjab."
+    ]
+  },
+  {
+    "id": "kalanaur-gurdaspur-history-takht-e-akbari-punjab",
+    "name": "[[Kalanaur, Gurdaspur#History|Takht-e-Akbari]]",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "[[Kalanaur, Gurdaspur#History|Takht-e-Akbari]] is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kalanaur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kangra-valley-railway-punjab",
+    "name": "Kangra Valley Railway",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Kangra Valley Railway is a narrow gauge railway line in India.",
+    "coordinates": {
+      "lat": 31.98916,
+      "lon": 76.78948
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Recognised as Tentative World Heritage Site.",
+      "Maintained under Indian Railways.",
+      "Lies in Himachal Pradesh, Punjab."
     ]
   },
   {
@@ -653,6 +1692,28 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site."
+    ]
+  },
+  {
+    "id": "kapurthala-punjab",
+    "name": "Kapurthala",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Kapurthala is a city in Punjab state of India.",
+    "coordinates": {
+      "lat": 31.38,
+      "lon": 75.38
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Stands at about 225 m elevation.",
+      "Covers about 909 km².",
+      "Lies in Kapurthala district, Punjab."
     ]
   },
   {
@@ -667,6 +1728,11 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 2007.",
+      "Covers about 759 ha.",
+      "Lies in Pathankot District, Punjab."
     ]
   },
   {
@@ -681,6 +1747,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Fatehgarh Sahib District, Punjab."
     ]
   },
   {
@@ -692,14 +1761,119 @@
     "coordinates": {
       "lat": 31.1167,
       "lon": 76.1333
-    }
+    },
+    "facts": [
+      "Lies in Shaheed Bhagat Singh Nagar district, Punjab."
+    ]
+  },
+  {
+    "id": "kos-minar-bharowal-punjab",
+    "name": "Kos Minar, Bharowal",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Kos Minar, Bharowal is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Amritsar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kos-minar-kot-paniach-punjab",
+    "name": "Kos Minar, Kot Paniach",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Kos Minar, Kot Paniach is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ludhiana, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kos-minar-norangabad-punjab",
+    "name": "Kos Minar-Norangabad",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Kos Minar-Norangabad is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Amritsar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "kos-minar-punjab",
     "name": "Kos Minar",
     "state": "Punjab",
     "category": "heritage",
-    "description": "Kos Minar is a medieval Indian monuments serving as milestones."
+    "description": "Kos Minar is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ghungrali Rajputan, Punjab.",
+      "Lies in Lashkri Khan, Punjab.",
+      "Lies in Dhandari Kalan Ludhiana, Punjab.",
+      "Lies in Sherpur, Punjab.",
+      "Lies in Sanehwal, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kos-minar-rajgarh-punjab",
+    "name": "Kos Minar, Rajgarh",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Kos Minar, Rajgarh is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kos-minar-vill-nausehra-punjab",
+    "name": "Kos Minar, vill.Nausehra",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Kos Minar, vill.Nausehra is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kos-minar-vill-toot-punjab",
+    "name": "Kos Minar, vill. Toot",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Kos Minar, vill. Toot is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jalandhar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "kotla-nihang-khan-fort-punjab",
@@ -713,6 +1887,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
     ]
   },
   {
@@ -727,6 +1904,30 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
+  },
+  {
+    "id": "ludhiana-punjab",
+    "name": "Ludhiana",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Ludhiana is a city in Punjab, India.",
+    "coordinates": {
+      "lat": 30.90833,
+      "lon": 75.84861
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Set beside Sutlej.",
+      "Part of Malwa.",
+      "Stands at about 262 m elevation.",
+      "Covers about 310 km².",
+      "Lies in Ludhiana district, Punjab."
     ]
   },
   {
@@ -738,7 +1939,12 @@
     "coordinates": {
       "lat": 32.37552,
       "lon": 75.60618
-    }
+    },
+    "facts": [
+      "Dates from 1875.",
+      "Set beside Ravi River.",
+      "Lies in Pathankot District, Punjab."
+    ]
   },
   {
     "id": "maiser-khana-punjab",
@@ -748,6 +1954,29 @@
     "description": "Maiser Khana is a hindu temple in Punjab, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
+  },
+  {
+    "id": "malerkotla-punjab",
+    "name": "Malerkotla",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Malerkotla is a city in Punjab, India.",
+    "coordinates": {
+      "lat": 30.5167,
+      "lon": 75.8833
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Dates from 1657.",
+      "Stands at about 242 m elevation.",
+      "Covers about 122 km².",
+      "Lies in Malerkotla district, Punjab."
     ]
   },
   {
@@ -762,6 +1991,38 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Sahibzada Ajit Singh Nagar district, Punjab."
+    ]
+  },
+  {
+    "id": "manauli-punjab",
+    "name": "Manauli",
+    "state": "Punjab",
+    "category": "offbeat",
+    "description": "Manauli is a hamlet in Punjab, India.",
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Punjab."
+    ]
+  },
+  {
+    "id": "mandir-hari-devi-bhawanipur-punjab",
+    "name": "Mandir Hari Devi, Bhawanipur",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Mandir Hari Devi, Bhawanipur is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hoshiarpur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -773,7 +2034,40 @@
     "coordinates": {
       "lat": 30.8107,
       "lon": 75.8622
-    }
+    },
+    "facts": [
+      "Lies in Ludhiana district, Punjab."
+    ]
+  },
+  {
+    "id": "mansa-devi-temple-dholbaha-punjab",
+    "name": "Mansa Devi Temple, Dholbaha",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Mansa Devi Temple, Dholbaha is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hoshiarpur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "marble-baradari-including-tank-punjab",
+    "name": "Marble Baradari including Tank",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Marble Baradari including Tank is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sangrur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "masol-paleontology-punjab",
@@ -787,6 +2081,29 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
+  },
+  {
+    "id": "mohali-punjab",
+    "name": "Mohali",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Mohali is a city in Punjab, India.",
+    "coordinates": {
+      "lat": 30.71944,
+      "lon": 76.71806
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Dates from 1 November 1966.",
+      "Part of Chandigarh capital region.",
+      "Stands at about 316 m elevation.",
+      "Lies in Sahibzada Ajit Singh Nagar district, Punjab."
     ]
   },
   {
@@ -801,6 +2118,42 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1930.",
+      "Recognised as State Protected Monument.",
+      "Built in the Moroccan architecture style.",
+      "Lies in Kapurthala, Punjab."
+    ]
+  },
+  {
+    "id": "moorish-mosque-punjab",
+    "name": "Moorish Mosque",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Moorish Mosque is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kapurthala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mosque-bhagat-sadna-kasai-sirhind-punjab",
+    "name": "Mosque Bhagat Sadna Kasai, Sirhind",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Mosque Bhagat Sadna Kasai, Sirhind is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -811,6 +2164,54 @@
     "description": "Moti Bagh Palace is a royal palace in Punjab, India.",
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
+  },
+  {
+    "id": "mound-at-chhat-rajpura-punjab",
+    "name": "Mound at Chhat, Rajpura",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Mound at Chhat, Rajpura is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mound-known-as-mud-fort-punjab",
+    "name": "Mound known as Mud Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Mound known as Mud Fort is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Abohar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mound-of-ghuram-punjab",
+    "name": "Mound of Ghuram",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Mound of Ghuram is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -825,6 +2226,73 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Qadian, Punjab."
+    ]
+  },
+  {
+    "id": "mugal-sarai-shambhu-punjab",
+    "name": "Mugal Sarai, Shambhu",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Mugal Sarai, Shambhu is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mughal-bridge-punjab",
+    "name": "Mughal Bridge",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Mughal Bridge is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dakhni, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mughal-kos-minar-punjab",
+    "name": "Mughal Kos Minar",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Mughal Kos Minar is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Cheema Kalan, Punjab.",
+      "Lies in Dakhni, Punjab.",
+      "Lies in Jahangir, Punjab.",
+      "Lies in Nakodar, Punjab.",
+      "Lies in Shampur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mughal-sarai-doraha-carvon-punjab",
+    "name": "Mughal Sarai, Doraha (Carvon)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Mughal Sarai, Doraha (Carvon) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ludhiana, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -839,6 +2307,10 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Ludhiana district, Punjab."
     ]
   },
   {
@@ -850,7 +2322,10 @@
     "coordinates": {
       "lat": 30.435,
       "lon": 76.685
-    }
+    },
+    "facts": [
+      "Known as a offbeat destination in Punjab."
+    ]
   },
   {
     "id": "mukteshwar-mahadev-temple-punjab",
@@ -864,6 +2339,28 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Pathankot District, Punjab."
+    ]
+  },
+  {
+    "id": "nabha-punjab",
+    "name": "Nabha",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Nabha is a city and municipal council in India.",
+    "coordinates": {
+      "lat": 30.37,
+      "lon": 76.15
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ],
+    "facts": [
+      "Stands at about 246 m elevation.",
+      "Lies in Patiala district, Punjab."
     ]
   },
   {
@@ -878,6 +2375,12 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 2009.",
+      "Recognised as Ramsar site.",
+      "Covers about 1.16 km².",
+      "Lies in Rupnagar district, Punjab."
     ]
   },
   {
@@ -892,6 +2395,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 7 May 1961.",
+      "Lies in Patiala, Punjab."
     ]
   },
   {
@@ -906,6 +2413,85 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 5 March 1910.",
+      "Opened in 23 April 1910."
+    ]
+  },
+  {
+    "id": "nurmahal-sarai-nurmahal-sarai-including-gateway-punjab",
+    "name": "[[Nurmahal#Sarai Nurmahal|Sarai including gateway]]",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "[[Nurmahal#Sarai Nurmahal|Sarai including gateway]] is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nurmahal, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "octagonal-well-dholbaha-punjab",
+    "name": "Octagonal Well, Dholbaha",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Octagonal Well, Dholbaha is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hoshiarpur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-thana-jaito-monument-punjab",
+    "name": "Old Thana Jaito Monument",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Old Thana Jaito Monument is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Faridkot, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "painted-chamber-of-kali-devi-temple-punjab",
+    "name": "Painted Chamber of Kali Devi Temple",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Painted Chamber of Kali Devi Temple is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "painted-chamber-rani-hall-nabha-punjab",
+    "name": "Painted Chamber, Rani Hall, Nabha",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Painted Chamber, Rani Hall, Nabha is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -920,6 +2506,30 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
+  },
+  {
+    "id": "panipat-punjab",
+    "name": "Panipat",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Panipat is a city in India.",
+    "coordinates": {
+      "lat": 29.3875,
+      "lon": 76.97
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Founded by Maratha Empire.",
+      "Part of Panipat district.",
+      "Stands at about 219 m elevation.",
+      "Covers about 64 km².",
+      "Lies in Panipat district, Punjab."
     ]
   },
   {
@@ -931,7 +2541,10 @@
     "coordinates": {
       "lat": 31.0599,
       "lon": 76.59031
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
   },
   {
     "id": "partition-museum-punjab",
@@ -945,6 +2558,51 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Opened in 17 August 2017.",
+      "Lies in Amritsar, Punjab."
+    ]
+  },
+  {
+    "id": "pathankot-punjab",
+    "name": "Pathankot",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Pathankot is a city in Punjab, India.",
+    "coordinates": {
+      "lat": 32.26889,
+      "lon": 75.64972
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Set beside Chakki River.",
+      "Stands at about 331 m elevation.",
+      "Lies in Pathankot District, Punjab."
+    ]
+  },
+  {
+    "id": "patiala-punjab",
+    "name": "Patiala",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Patiala is a city in Punjab, India.",
+    "coordinates": {
+      "lat": 30.56667,
+      "lon": 76.63333
+    },
+    "tags": [
+      "fort",
+      "palace",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1754.",
+      "Stands at about 350 m elevation.",
+      "Covers about 340 km².",
+      "Lies in Patiala district, Punjab."
     ]
   },
   {
@@ -959,10 +2617,13 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
     ]
   },
   {
-    "id": "phillaur-fort-punjab",
+    "id": "phillaur-fort-punjab-q56236008",
     "name": "Phillaur Fort",
     "state": "Punjab",
     "category": "heritage",
@@ -973,6 +2634,47 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Jalandhar District, Punjab.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Phillaur, Punjab."
+    ]
+  },
+  {
+    "id": "pul-kanjri-punjab",
+    "name": "Pul Kanjri",
+    "state": "Punjab",
+    "category": "offbeat",
+    "description": "Pul Kanjri is a village in Punjab, India.",
+    "coordinates": {
+      "lat": 31.63333,
+      "lon": 74.55
+    },
+    "facts": [
+      "Known as a offbeat destination in Punjab."
+    ]
+  },
+  {
+    "id": "punjab-india-punjab",
+    "name": "Punjab, India",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Punjab, India is an indian state.",
+    "coordinates": {
+      "lat": 30.76667,
+      "lon": 75.46667
+    },
+    "tags": [
+      "world-heritage",
+      "museum",
+      "lesser-known"
+    ],
+    "facts": [
+      "Dates from 1956.",
+      "Part of Indo-Gangetic Plain.",
+      "Covers about 50,362 km²."
     ]
   },
   {
@@ -988,6 +2690,11 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1763.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Bathinda District, Punjab."
     ]
   },
   {
@@ -1002,6 +2709,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Faridkot district, Punjab."
     ]
   },
   {
@@ -1017,6 +2727,384 @@
     "tags": [
       "fort",
       "palace"
+    ],
+    "facts": [
+      "Lies in Patiala, Punjab."
+    ]
+  },
+  {
+    "id": "quila-androon-burj-baba-ala-singh-punjab",
+    "name": "Quila Androon: Burj Baba Ala Singh",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Burj Baba Ala Singh is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-1-gate-amp-painted-enclosure-with-rang-mahal-painted-chamber-punjab",
+    "name": "Quila Androon: Court Yard No:1-Gate &amp;Painted Enclosure with Rang mahal Painted chamber",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:1-Gate &amp;Painted Enclosure with Rang mahal Painted chamber is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-10-punjab",
+    "name": "Quila Androon: Court Yard No:10",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:10 is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-2-moti-mahal-complex-punjab",
+    "name": "Quila Androon: Court Yard No:2-Moti Mahal Complex",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:2-Moti Mahal Complex is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-3-charbagh-or-bagichi-ghar-punjab",
+    "name": "Quila Androon: Court Yard No:3- Charbagh or Bagichi Ghar",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:3- Charbagh or Bagichi Ghar is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-4-long-passage-gate-to-burj-punjab",
+    "name": "Quila Androon: Court Yard No:4 -Long passage gate to Burj",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:4 -Long passage gate to Burj is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-5-sheesh-mahal-court-yard-with-3-painted-chambers-punjab",
+    "name": "Quila Androon: Court Yard No:5- Sheesh Mahal Court Yard with 3 painted chambers",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:5- Sheesh Mahal Court Yard with 3 painted chambers is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-6-tosha-khana-with-painted-chamber-punjab",
+    "name": "Quila Androon: Court Yard No:6- Tosha Khana with painted Chamber",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:6- Tosha Khana with painted Chamber is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-7-neem-wala-mahal-chandmahal-punjab",
+    "name": "Quila Androon: Court Yard No:7- Neem wala Mahal Chandmahal",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:7- Neem wala Mahal Chandmahal is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-8-jails-punjab",
+    "name": "Quila Androon: Court Yard No:8 Jails",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:8 Jails is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-court-yard-no-9-punjab",
+    "name": "Quila Androon: Court Yard No:9",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Court Yard No:9 is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-androon-painted-chamber-nine-nos-punjab",
+    "name": "Quila Androon: Painted Chamber-Nine Nos",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Androon: Painted Chamber-Nine Nos is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-baba-ala-singh-gaddi-punjab",
+    "name": "Quila Baba Ala Singh Gaddi",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Baba Ala Singh Gaddi is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-baba-ala-singh-gaddi-quila-androon-punjab",
+    "name": "Quila Baba Ala Singh Gaddi: Quila Androon",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Baba Ala Singh Gaddi: Quila Androon is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-baba-ala-singh-gaddi-three-painted-chambers-punjab",
+    "name": "Quila Baba Ala Singh Gaddi: Three painted Chambers",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Baba Ala Singh Gaddi: Three painted Chambers is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-beer-bahadurgarh-only-outer-wall-amp-ditch-punjab",
+    "name": "Quila Beer, Bahadurgarh (only outer wall &amp; ditch)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Beer, Bahadurgarh (only outer wall &amp; ditch) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-manauli-punjab",
+    "name": "Quila Manauli",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Manauli is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ropar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-mubarak-barracks-punjab",
+    "name": "Quila Mubarak: Barracks",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Mubarak: Barracks is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-mubarak-darbar-hall-punjab",
+    "name": "Quila Mubarak: Darbar Hall",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Mubarak: Darbar Hall is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-mubarak-gateway-with-outer-walls-punjab",
+    "name": "Quila Mubarak: Gateway with outer walls",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Mubarak: Gateway with outer walls is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bathinda, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-mubarak-jilau-khana-punjab",
+    "name": "Quila Mubarak: Jilau Khana",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Mubarak: Jilau Khana is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-mubarak-lassi-khana-punjab",
+    "name": "Quila Mubarak: Lassi Khana",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Mubarak: Lassi Khana is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-mubarak-punjab",
+    "name": "Quila Mubarak",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Mubarak is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bathinda, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-mubarak-ran-basa-punjab",
+    "name": "Quila Mubarak: Ran Basa",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Mubarak: Ran Basa is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "quila-mubarak-sard-khana-punjab",
+    "name": "Quila Mubarak: Sard Khana",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Quila Mubarak: Sard Khana is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1031,6 +3119,24 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in Amritsar, Punjab."
+    ]
+  },
+  {
+    "id": "ram-bagh-gate-punjab",
+    "name": "Ram Bagh Gate",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Ram Bagh Gate is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Amritsar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1042,16 +3148,14 @@
     "coordinates": {
       "lat": 32.44278,
       "lon": 75.73056
-    }
-  },
-  {
-    "id": "rauza-mandhali-sharif-punjab",
-    "name": "Rauza Mandhali Sharif",
-    "state": "Punjab",
-    "category": "spiritual",
-    "description": "Rauza Mandhali Sharif is a sufiyana Darbar shrine in Mandhali village, Punjab, India.",
-    "tags": [
-      "pilgrimage"
+    },
+    "facts": [
+      "Dates from 1981.",
+      "Opened in 2001.",
+      "Set beside Ravi River.",
+      "Maintained under Government of Punjab.",
+      "Rises about 160 m.",
+      "Lies in Pathankot District, Punjab."
     ]
   },
   {
@@ -1066,6 +3170,26 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
+  },
+  {
+    "id": "rohtak-punjab",
+    "name": "Rohtak",
+    "state": "Punjab",
+    "category": "wildlife",
+    "description": "Rohtak is a city in Haryana.",
+    "coordinates": {
+      "lat": 28.9,
+      "lon": 76.56667
+    },
+    "facts": [
+      "Part of Haryana.",
+      "Stands at about 220 m elevation.",
+      "Covers about 115 km².",
+      "Lies in Rohtak district, Punjab."
     ]
   },
   {
@@ -1080,6 +3204,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site."
     ]
   },
   {
@@ -1094,6 +3221,12 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from the 19th century.",
+      "Set beside Sutlej.",
+      "Stands at about 262 m elevation.",
+      "Lies in Rupnagar district, Punjab."
     ]
   },
   {
@@ -1108,6 +3241,69 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
+    ]
+  },
+  {
+    "id": "samadh-and-bauli-bagrian-punjab",
+    "name": "Samadh and Bauli, Bagrian",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Samadh and Bauli, Bagrian is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sangrur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "samadh-baba-maghi-dass-vill-chhintanwala-nabha-punjab",
+    "name": "Samadh Baba Maghi Dass, vill.Chhintanwala, Nabha",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Samadh Baba Maghi Dass, vill.Chhintanwala, Nabha is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "samadh-takhowal-mukerian-punjab",
+    "name": "Samadh Takhowal (Mukerian)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Samadh Takhowal (Mukerian) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hoshiarpur, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "samania-gate-punjab",
+    "name": "Samania Gate",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Samania Gate is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1119,7 +3315,12 @@
     "coordinates": {
       "lat": 31.1235,
       "lon": 75.743
-    }
+    },
+    "facts": [
+      "Stands at about 234 m elevation.",
+      "Covers about 63.2 km².",
+      "Lies in Jalandhar, Punjab."
+    ]
   },
   {
     "id": "sanghol-museum-punjab",
@@ -1134,58 +3335,177 @@
     "tags": [
       "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Sanghol, Punjab."
+    ]
+  },
+  {
+    "id": "sanghol-punjab",
+    "name": "Sanghol",
+    "state": "Punjab",
+    "category": "offbeat",
+    "description": "Sanghol is a village in Fatehgarh Sahib district.",
+    "coordinates": {
+      "lat": 30.78333,
+      "lon": 76.38333
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Lies in Fatehgarh Sahib District, Punjab."
+    ]
+  },
+  {
+    "id": "sarai-amanat-khan-gateway-on-the-old-delhi-and-lahore-road-punjab",
+    "name": "Sarai Amanat Khan Gateway on the old Delhi and Lahore Road",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sarai Amanat Khan Gateway on the old Delhi and Lahore Road is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Amanat Khan, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "sarai-amanat-khan-punjab",
     "name": "Sarai Amanat Khan",
     "state": "Punjab",
-    "category": "other",
+    "category": "heritage",
     "description": "Sarai Amanat Khan is a building in India.",
     "coordinates": {
       "lat": 31.51083,
       "lon": 74.69306
-    }
+    },
+    "facts": [
+      "Named after ʿAbd al-Ḥaqq Amānat Khān."
+    ]
+  },
+  {
+    "id": "sarai-including-gateways-punjab",
+    "name": "Sarai including gateways",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sarai including gateways is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dakhni, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sarai-khwaspur-punjab",
+    "name": "Sarai Khwaspur",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sarai Khwaspur is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Amritsar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "serai-lashkari-khan-punjab",
     "name": "Serai Lashkari Khan",
     "state": "Punjab",
-    "category": "other",
+    "category": "heritage",
     "description": "Serai Lashkari Khan is a caravan Sarai in Punjab, India.",
     "coordinates": {
       "lat": 30.755,
       "lon": 76.09
-    }
+    },
+    "facts": [
+      "Dates from 1667.",
+      "Recognised as State Protected Monument.",
+      "Lies in Ludhiana district, Punjab."
+    ]
   },
   {
     "id": "serai-nurmahal-punjab",
     "name": "Serai Nurmahal",
     "state": "Punjab",
-    "category": "other",
+    "category": "heritage",
     "description": "Serai Nurmahal is a caravanserai in Nurmahal, Punjab.",
     "coordinates": {
       "lat": 31.09283,
       "lon": 75.59433
-    }
+    },
+    "facts": [
+      "Dates from 1618.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Mughal architecture style.",
+      "Lies in Jalandhar District, Punjab."
+    ]
   },
   {
     "id": "shaheedan-da-khu-punjab",
     "name": "Shaheedan da Khu",
     "state": "Punjab",
-    "category": "other",
+    "category": "heritage",
     "description": "Shaheedan da Khu is a well near Ajnala, India.",
     "coordinates": {
       "lat": 31.84,
       "lon": 74.76
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
   },
   {
     "id": "shahpurkandi-dam-project-punjab",
     "name": "Shahpurkandi dam project",
     "state": "Punjab",
     "category": "nature",
-    "description": "Shahpurkandi dam project is a planned dam in Pathankot, Punjab, India."
+    "description": "Shahpurkandi dam project is a planned dam in Pathankot, Punjab, India.",
+    "facts": [
+      "Dates from 2014.",
+      "Set beside Ravi River.",
+      "Maintained under Government of Punjab.",
+      "Rises about 55.5 m.",
+      "Lies in Pathankot District, Punjab."
+    ]
+  },
+  {
+    "id": "shalimar-gardens-kapurthala-punjab",
+    "name": "Shalimar Gardens, Kapurthala",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Shalimar Gardens, Kapurthala is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kapurthala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shamsher-khan-s-tomb-punjab",
+    "name": "Shamsher Khan's tomb",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Shamsher Khan's tomb is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Batala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "shanaleshwara-swayambhu-temple-punjab",
@@ -1199,18 +3519,85 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
     ]
   },
   {
-    "id": "shanan-power-house-punjab",
-    "name": "Shanan Power House",
+    "id": "sheesh-mahal-patiala-banasar-house-punjab",
+    "name": "Sheesh Mahal, Patiala: Banasar House",
     "state": "Punjab",
-    "category": "other",
-    "description": "Shanan Power House is a situated 2 km from Jogindernagar in Himachal Pradesh, India.",
-    "coordinates": {
-      "lat": 31.98936,
-      "lon": 76.80739
-    }
+    "category": "heritage",
+    "description": "Sheesh Mahal, Patiala: Banasar House is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sheesh-mahal-patiala-banasar-tank-punjab",
+    "name": "Sheesh Mahal, Patiala: Banasar Tank",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sheesh Mahal, Patiala: Banasar Tank is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sheesh-mahal-patiala-punjab",
+    "name": "Sheesh Mahal, Patiala",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sheesh Mahal, Patiala is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sheesh-mahal-patiala-suspension-bridge-punjab",
+    "name": "Sheesh Mahal, Patiala: Suspension Bridge",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sheesh Mahal, Patiala: Suspension Bridge is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sheesh-mahal-patiala-towers-4-no-s-punjab",
+    "name": "Sheesh Mahal, Patiala: Towers 4 No.s",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sheesh Mahal, Patiala: Towers 4 No.s is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "shri-kali-devi-temple-patiala-punjab",
@@ -1224,18 +3611,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
     ]
   },
   {
     "id": "shri-khuralgarh-sahib-punjab",
     "name": "Shri Khuralgarh Sahib",
     "state": "Punjab",
-    "category": "other",
+    "category": "spiritual",
     "description": "Shri Khuralgarh Sahib is a historical site at Kharali, Punjab.",
     "coordinates": {
       "lat": 31.26835,
       "lon": 76.30059
-    }
+    },
+    "facts": [
+      "Lies in Kharali, Punjab."
+    ]
   },
   {
     "id": "sikh-ajaibghar-balongi-punjab",
@@ -1249,6 +3642,24 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
+  },
+  {
+    "id": "sirhindi-gate-punjab",
+    "name": "Sirhindi Gate",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sirhindi Gate is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1263,6 +3674,57 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Associated with Catholicism.",
+      "Lies in Jalandhar, Punjab."
+    ]
+  },
+  {
+    "id": "summer-palace-of-maharaja-ranjit-singh-amritsar-punjab-india-punjab",
+    "name": "Summer Palace of Maharaja Ranjit Singh, Amritsar, Punjab, India",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Summer Palace of Maharaja Ranjit Singh, Amritsar, Punjab, India is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sunam-punjab",
+    "name": "Sunam",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Sunam is a town in Sangrur district, Punjab, India.",
+    "coordinates": {
+      "lat": 30.13,
+      "lon": 75.8
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 231 m elevation.",
+      "Lies in Sangrur district, Punjab."
+    ]
+  },
+  {
+    "id": "sunami-gate-punjab",
+    "name": "Sunami Gate",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sunami Gate is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Patiala, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1273,6 +3735,9 @@
     "description": "Suraj Kund Sunam is a sun temple in the Sangrur District Punjab, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Punjab."
     ]
   },
   {
@@ -1287,18 +3752,86 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
     ]
   },
   {
     "id": "takht-sri-damdama-sahib-punjab",
     "name": "Takht Sri Damdama Sahib",
     "state": "Punjab",
-    "category": "nature",
+    "category": "spiritual",
     "description": "Takht Sri Damdama Sahib is an one of the 5 Thakts of Sikhism in Talwandi Sabo, Punjab, India.",
     "coordinates": {
       "lat": 29.98694,
       "lon": 75.07856
-    }
+    },
+    "facts": [
+      "Dates from 1783.",
+      "Built in the Sikh architecture style.",
+      "Lies in Bathinda District, Punjab."
+    ]
+  },
+  {
+    "id": "theh-gatti-mound-punjab",
+    "name": "Theh Gatti (Mound)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Theh Gatti (Mound) is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nagar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-alawal-khan-behlolpur-punjab",
+    "name": "Tomb of Alawal Khan, Behlolpur",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tomb of Alawal Khan, Behlolpur is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ropar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-amir-ali-vill-dera-meer-mian-punjab",
+    "name": "Tomb of Amir Ali, vill. Dera Meer Mian",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tomb of Amir Ali, vill. Dera Meer Mian is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-hussain-khan-father-behlolpur-punjab",
+    "name": "Tomb of Hussain Khan (Father) Behlolpur",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tomb of Hussain Khan (Father) Behlolpur is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ropar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-ibrahim-lodi-punjab",
@@ -1309,7 +3842,41 @@
     "coordinates": {
       "lat": 29.40158,
       "lon": 76.97295
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Panipat district, Punjab."
+    ]
+  },
+  {
+    "id": "tomb-of-nawab-bahadur-khan-son-behlolpur-punjab",
+    "name": "Tomb of Nawab Bahadur Khan (Son) Behlolpur",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tomb of Nawab Bahadur Khan (Son) Behlolpur is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ropar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-shagird-vill-talania-punjab",
+    "name": "Tomb of Shagird, vill Talania",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tomb of Shagird, vill Talania is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-shamsher-khan-batala-punjab",
@@ -1320,7 +3887,41 @@
     "coordinates": {
       "lat": 31.812,
       "lon": 75.21317
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Gurdaspur district, Punjab."
+    ]
+  },
+  {
+    "id": "tomb-of-ustad-vill-talania-sirhind-punjab",
+    "name": "Tomb of Ustad, vill Talania, Sirhind",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tomb of Ustad, vill Talania, Sirhind is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehgarh Sahib, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tombs-of-mohd-momin-and-hazi-jamal-punjab",
+    "name": "Tombs of Mohd. Momin and Hazi Jamal",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tombs of Mohd. Momin and Hazi Jamal is a protected monument in Punjab, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nakodar, Punjab."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tombs-of-ustad-shagird-nakodar-punjab",
@@ -1331,14 +3932,30 @@
     "coordinates": {
       "lat": 31.1283,
       "lon": 75.4747
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
   },
   {
     "id": "tombs-of-ustad-shagird-sirhind-punjab",
     "name": "Tombs of Ustad-Shagird, Sirhind",
     "state": "Punjab",
     "category": "heritage",
-    "description": "Tombs of Ustad-Shagird, Sirhind is a monument in Fatehgarh Sahib district."
+    "description": "Tombs of Ustad-Shagird, Sirhind is a monument in Fatehgarh Sahib district.",
+    "facts": [
+      "Lies in Fatehgarh Sahib District, Punjab."
+    ]
+  },
+  {
+    "id": "tourism-in-punjab-india-punjab",
+    "name": "Tourism in Punjab, India",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Tourism in Punjab, India is a tourism in a region in Punjab, India.",
+    "facts": [
+      "Known as a tourism destination in Punjab."
+    ]
   },
   {
     "id": "virasat-e-khalsa-punjab",
@@ -1352,6 +3969,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 25 November 2011.",
+      "About 150,000 visits in a recorded year.",
+      "Lies in Anandpur Sahib, Punjab."
     ]
   },
   {
@@ -1366,6 +3988,24 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a heritage destination in Punjab."
+    ]
+  },
+  {
+    "id": "zirakpur-punjab",
+    "name": "Zirakpur",
+    "state": "Punjab",
+    "category": "wildlife",
+    "description": "Zirakpur is a town in Punjab, India.",
+    "coordinates": {
+      "lat": 30.65,
+      "lon": 76.82
+    },
+    "facts": [
+      "Stands at about 350 m elevation.",
+      "Lies in Sahibzada Ajit Singh Nagar district, Punjab."
     ]
   }
 ]

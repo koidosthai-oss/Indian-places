@@ -12,7 +12,7 @@ bash scripts/cloud-agent-install.sh
 
 Place records live in `data/places/<state-or-territory>.json` and must match `schema/place.schema.json`.
 
-Regenerate the catalog from English Wikipedia tourism categories and Wikidata coordinates (descriptions are composed from Wikidata facts, not copied article text):
+Each record has a short description and a `facts` list (dates, heritage status, setting, and similar details composed from Wikidata claims). Regenerate the catalog from English Wikipedia tourism categories and list pages, plus Wikidata coordinates (article prose is not copied):
 
 ```bash
 .venv/bin/python scripts/extract_places.py

@@ -1,6 +1,23 @@
 [
   {
-    "id": "alchi-monastery-ladakh",
+    "id": "alchi-ladakh",
+    "name": "Alchi",
+    "state": "Ladakh",
+    "category": "offbeat",
+    "description": "Alchi is a village in Ladakh India.",
+    "coordinates": {
+      "lat": 34.2334,
+      "lon": 77.1625
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Ladakh."
+    ]
+  },
+  {
+    "id": "alchi-monastery-ladakh-q2705908",
     "name": "Alchi Monastery",
     "state": "Ladakh",
     "category": "spiritual",
@@ -11,14 +28,104 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Associated with Tibetan Buddhism.",
+      "Lies in Leh district, Ladakh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Alchi, Ladakh."
     ]
   },
   {
-    "id": "all-ladakh-gonpa-association-ladakh",
-    "name": "All Ladakh Gonpa Association",
+    "id": "ancient-gonpa-complex-ladakh",
+    "name": "Ancient Gonpa Complex",
     "state": "Ladakh",
-    "category": "other",
-    "description": "All Ladakh Gonpa Association is an organization."
+    "category": "heritage",
+    "description": "Ancient Gonpa Complex is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Wanla, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-gumpha-ladakh",
+    "name": "Ancient Gumpha",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Ancient Gumpha is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thiksey, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-palace-at-leh-ladakh",
+    "name": "Ancient Palace at Leh",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Ancient Palace at Leh is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Leh, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-palace-including-shrine-ladakh",
+    "name": "Ancient Palace including Shrine",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Ancient Palace including Shrine is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shey, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "apsarasas-kangri-ladakh",
+    "name": "Apsarasas Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Apsarasas Kangri is a mountain in the Karakoram.",
+    "coordinates": {
+      "lat": 35.53889,
+      "lon": 77.14917
+    },
+    "facts": [
+      "Set on China–India border.",
+      "Stands at about 7,245 m elevation.",
+      "Lies in Xinjiang, Ladakh."
+    ]
+  },
+  {
+    "id": "argan-kangri-ladakh",
+    "name": "Argan Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Argan Kangri is a mountain in India.",
+    "coordinates": {
+      "lat": 34.60616,
+      "lon": 77.89956
+    },
+    "facts": [
+      "Stands at about 6,789 m elevation."
+    ]
   },
   {
     "id": "bardan-monastery-ladakh",
@@ -32,6 +139,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Zanskar district, Ladakh."
     ]
   },
   {
@@ -46,6 +156,66 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "buddhist-monastery-ladakh",
+    "name": "Buddhist Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Buddhist Monastery is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lamayuru, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chadar-trek-ladakh",
+    "name": "Chadar trek",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chadar trek is a trekking on frozen zanskar river.",
+    "coordinates": {
+      "lat": 34.0025,
+      "lon": 77.2105
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "chakula-ladakh",
+    "name": "Chakula",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chakula is a mountain peak.",
+    "coordinates": {
+      "lat": 33.39748,
+      "lon": 78.44156
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "chang-chenmo-kangri-ladakh",
+    "name": "Chang Chenmo Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chang Chenmo Kangri is a mountain peak.",
+    "coordinates": {
+      "lat": 34.22443,
+      "lon": 78.65844
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
     ]
   },
   {
@@ -60,6 +230,23 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "charbagh-kangri-ladakh",
+    "name": "Charbagh Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Charbagh Kangri is a mountain peak.",
+    "coordinates": {
+      "lat": 34.52607,
+      "lon": 78.28723
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
     ]
   },
   {
@@ -74,6 +261,83 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Leh, Ladakh."
+    ]
+  },
+  {
+    "id": "chiktan-ladakh",
+    "name": "Chiktan",
+    "state": "Ladakh",
+    "category": "offbeat",
+    "description": "Chiktan is a village in Ladakh.",
+    "coordinates": {
+      "lat": 34.47017,
+      "lon": 76.51017
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Lies in Kargil district, Ladakh."
+    ]
+  },
+  {
+    "id": "chiling-i-and-ii-ladakh",
+    "name": "Chiling I and II",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chiling I and II is a peak in Zanskar Range in Ladakh, India.",
+    "coordinates": {
+      "lat": 33.81194,
+      "lon": 76.16222
+    },
+    "facts": [
+      "Stands at about 6,349 m elevation.",
+      "Lies in Jammu and Kashmir, Ladakh."
+    ]
+  },
+  {
+    "id": "chong-kumdang-ri-ladakh",
+    "name": "Chong Kumdang Ri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chong Kumdang Ri is a mountain peaks.",
+    "coordinates": {
+      "lat": 35.19361,
+      "lon": 77.58528
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "chutak-hydroelectric-plant-ladakh",
+    "name": "Chutak Hydroelectric Plant",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chutak Hydroelectric Plant is a dam in Ladakh India.",
+    "coordinates": {
+      "lat": 34.45889,
+      "lon": 76.07444
+    },
+    "facts": [
+      "Lies in Kargil district, Ladakh."
+    ]
+  },
+  {
+    "id": "diskit-ladakh",
+    "name": "Diskit",
+    "state": "Ladakh",
+    "category": "offbeat",
+    "description": "Diskit is a village in Leh district, North India.",
+    "coordinates": {
+      "lat": 34.55121,
+      "lon": 77.54848
+    },
+    "facts": [
+      "Lies in Nubra Valley, Ladakh."
     ]
   },
   {
@@ -88,6 +352,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Nubra Valley, Ladakh."
     ]
   },
   {
@@ -99,7 +366,10 @@
     "coordinates": {
       "lat": 34.33857,
       "lon": 76.57185
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Ladakh."
+    ]
   },
   {
     "id": "dzongkhul-monastery-ladakh",
@@ -113,6 +383,49 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Zanskar district, Ladakh."
+    ]
+  },
+  {
+    "id": "geography-of-ladakh-ladakh",
+    "name": "Geography of Ladakh",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Geography of Ladakh is an aspect of geography.",
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "ghent-kangri-ladakh",
+    "name": "Ghent Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Ghent Kangri is a mountain in the Karakoram.",
+    "coordinates": {
+      "lat": 35.5175,
+      "lon": 76.80028
+    },
+    "facts": [
+      "Stands at about 7,401 m elevation.",
+      "Lies in Gilgit-Baltistan, Ladakh."
+    ]
+  },
+  {
+    "id": "gonbo-rangjon-ladakh",
+    "name": "Gonbo Rangjon",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gonbo Rangjon is a mountain in the Indian Himalayas.",
+    "coordinates": {
+      "lat": 32.9585,
+      "lon": 77.2486
+    },
+    "facts": [
+      "Stands at about 5,520 m elevation.",
+      "Lies in Zanskar district, Ladakh."
     ]
   },
   {
@@ -120,7 +433,25 @@
     "name": "Gurdwara Patthar Sahib",
     "state": "Ladakh",
     "category": "spiritual",
-    "description": "Gurdwara Patthar Sahib is a gurudwaras in Ladakh, India."
+    "description": "Gurdwara Patthar Sahib is a gurudwaras in Ladakh, India.",
+    "facts": [
+      "Known as a spiritual destination in Ladakh."
+    ]
+  },
+  {
+    "id": "hamis-gompa-ladakh",
+    "name": "Hamis Gompa",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Hamis Gompa is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hemis, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "hanle-monastery-ladakh",
@@ -134,6 +465,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -148,6 +482,13 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Opened in 1672.",
+      "Recognised as Monument of National Importance.",
+      "Founded by Sengge Namgyal.",
+      "Associated with Drukpa Lineage.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -162,6 +503,11 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1981.",
+      "Covers about 4,100 km².",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -176,6 +522,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Ladakh."
     ]
   },
   {
@@ -190,34 +539,97 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Ladakh."
     ]
   },
   {
-    "id": "karakoram-wildlife-sanctuary-ladakh",
-    "name": "Karakoram Wildlife Sanctuary",
+    "id": "indus-river-ladakh",
+    "name": "Indus River",
     "state": "Ladakh",
-    "category": "wildlife",
-    "description": "Karakoram Wildlife Sanctuary is a wildlife sanctuary.",
+    "category": "nature",
+    "description": "Indus River is a river in Asia.",
+    "facts": [
+      "Lies in Punjab, Ladakh."
+    ]
+  },
+  {
+    "id": "k12-mountain-ladakh",
+    "name": "K12 (mountain)",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "K12 (mountain) is a peak in the Karakoram mountain range on Indian side of LOC.",
     "coordinates": {
-      "lat": 34.71667,
-      "lon": 77.43333
+      "lat": 35.32139,
+      "lon": 76.98528
     },
-    "tags": [
-      "wildlife-sanctuary"
+    "facts": [
+      "Stands at about 7,428 m elevation."
+    ]
+  },
+  {
+    "id": "kang-yatze-ladakh",
+    "name": "Kang Yatze",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kang Yatze is a mountain in Markha valley in Ladakh, India.",
+    "coordinates": {
+      "lat": 33.74833,
+      "lon": 77.55694
+    },
+    "facts": [
+      "Stands at about 6,400 m elevation."
+    ]
+  },
+  {
+    "id": "kangju-kangri-ladakh",
+    "name": "Kangju Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kangju Kangri is a mountain in India.",
+    "coordinates": {
+      "lat": 33.7233,
+      "lon": 78.5283
+    },
+    "facts": [
+      "Part of Pangong Range.",
+      "Stands at about 6,725 m elevation."
     ]
   },
   {
     "id": "kargil-ladakh",
     "name": "Kargil",
     "state": "Ladakh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Kargil is a city in the Indian union territory of Ladakh.",
     "coordinates": {
       "lat": 34.5594,
       "lon": 76.1256
     },
     "tags": [
-      "hill-station"
+      "hill-station",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1 July 1979.",
+      "Stands at about 2,676 m elevation.",
+      "Covers about 14,086 km².",
+      "Lies in Kargil district, Ladakh."
+    ]
+  },
+  {
+    "id": "kargil-war-memorial-ladakh",
+    "name": "Kargil War Memorial",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Kargil War Memorial is an indian memorial in Ladakh.",
+    "coordinates": {
+      "lat": 34.43324,
+      "lon": 75.80581
+    },
+    "facts": [
+      "Known as a heritage destination in Ladakh."
     ]
   },
   {
@@ -229,7 +641,10 @@
     "coordinates": {
       "lat": 33.5358,
       "lon": 76.8286
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Ladakh."
+    ]
   },
   {
     "id": "karsha-monastery-ladakh",
@@ -244,6 +659,37 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Lies in Kargil district, Ladakh."
+    ]
+  },
+  {
+    "id": "kataklik-kangri-ladakh",
+    "name": "Kataklik Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kataklik Kangri is a mountain peak.",
+    "coordinates": {
+      "lat": 34.9025,
+      "lon": 78.20833
+    },
+    "facts": [
+      "Stands at about 6,876 m elevation."
+    ]
+  },
+  {
+    "id": "khardung-la-ladakh",
+    "name": "Khardung La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Khardung La is a mountain pass in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.27833,
+      "lon": 77.60417
+    },
+    "facts": [
+      "Stands at about 5,359 m elevation."
     ]
   },
   {
@@ -258,6 +704,23 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Korzok, Ladakh."
+    ]
+  },
+  {
+    "id": "kunchang-kangri-ladakh",
+    "name": "Kunchang Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kunchang Kangri is a mountain peak.",
+    "coordinates": {
+      "lat": 34.82495,
+      "lon": 77.48487
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
     ]
   },
   {
@@ -265,7 +728,10 @@
     "name": "Kung Fu Nuns",
     "state": "Ladakh",
     "category": "other",
-    "description": "Kung Fu Nuns is an order of Buddhist nuns who belong to the Drukpa Lineage."
+    "description": "Kung Fu Nuns is an order of Buddhist nuns who belong to the Drukpa Lineage.",
+    "facts": [
+      "Known as a tourism destination in Ladakh."
+    ]
   },
   {
     "id": "kyago-tso-ladakh",
@@ -279,6 +745,34 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 4,671 m elevation.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "la-yongma-ri-ladakh",
+    "name": "La Yongma Ri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "La Yongma Ri is a mountain in the Karakoram Range.",
+    "coordinates": {
+      "lat": 35.02667,
+      "lon": 77.14833
+    },
+    "facts": [
+      "Stands at about 6,826 m elevation."
+    ]
+  },
+  {
+    "id": "ladakh-marathon-ladakh",
+    "name": "Ladakh Marathon",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "Ladakh Marathon is a marathon held in Leh, a town in the Ladakh region of India.",
+    "facts": [
+      "Known as a tourism destination in Ladakh."
     ]
   },
   {
@@ -293,6 +787,32 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Founded by Naropa.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "leh-ladakh",
+    "name": "Leh",
+    "state": "Ladakh",
+    "category": "hill-station",
+    "description": "Leh is a city, one of the capitals of Ladakh, India.",
+    "coordinates": {
+      "lat": 34.16417,
+      "lon": 77.58472
+    },
+    "tags": [
+      "hill-station",
+      "mosque"
+    ],
+    "facts": [
+      "Dates from the 8th century.",
+      "Stands at about 3,500 m elevation.",
+      "Covers about 45,110 km².",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -307,10 +827,14 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
-    "id": "likir-monastery-ladakh",
+    "id": "likir-monastery-ladakh-q4261502",
     "name": "Likir Monastery",
     "state": "Ladakh",
     "category": "spiritual",
@@ -321,6 +845,13 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1065.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Leh district, Ladakh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Likir, Ladakh."
     ]
   },
   {
@@ -335,6 +866,52 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1440.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "magnetic-hill-india-ladakh",
+    "name": "Magnetic Hill (India)",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "Magnetic Hill (India) is a cyclop hill at Leh, India.",
+    "coordinates": {
+      "lat": 34.171,
+      "lon": 77.3525
+    },
+    "facts": [
+      "Known as a tourism destination in Ladakh."
+    ]
+  },
+  {
+    "id": "mahashrung-ladakh",
+    "name": "Mahashrung",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mahashrung is a mountain in India.",
+    "coordinates": {
+      "lat": 35.41,
+      "lon": 77.2175
+    },
+    "facts": [
+      "Stands at about 6,940 m elevation."
+    ]
+  },
+  {
+    "id": "mamostong-kangri-ladakh",
+    "name": "Mamostong Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mamostong Kangri is a mountain in India.",
+    "coordinates": {
+      "lat": 35.14083,
+      "lon": 77.5775
+    },
+    "facts": [
+      "Stands at about 7,516 m elevation."
     ]
   },
   {
@@ -349,6 +926,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from the 1st century.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -363,6 +944,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "mount-kun-ladakh",
+    "name": "Mount Kun",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mount Kun is a mountain in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.013,
+      "lon": 76.05684
+    },
+    "facts": [
+      "Part of Nun-Kun Massif.",
+      "Stands at about 7,077 m elevation."
     ]
   },
   {
@@ -377,6 +976,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Kargil district, Ladakh."
+    ]
+  },
+  {
+    "id": "mulbekh-monastery-mulbekh-chamba-rock-cut-cliff-face-statue-of-buddha-rock-cut-four-armed-bodhisatva-ladakh",
+    "name": "[[Mulbekh Monastery#Mulbekh Chamba: Rock-cut cliff-face statue of Buddha|Rock cut Four Armed Bodhisatva]]",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "[[Mulbekh Monastery#Mulbekh Chamba: Rock-cut cliff-face statue of Buddha|Rock cut Four Armed Bodhisatva]] is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mulbekh, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -391,6 +1008,23 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2004.",
+      "Lies in Kargil, Ladakh."
+    ]
+  },
+  {
+    "id": "namgyal-dynasty-of-ladakh-ladakh",
+    "name": "Namgyal dynasty of Ladakh",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Namgyal dynasty of Ladakh is a monarchs of the former Ladakh kingdom.",
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Ladakh."
     ]
   },
   {
@@ -405,6 +1039,69 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "nanga-sago-ladakh",
+    "name": "Nanga Sago",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nanga Sago is a mountain in India.",
+    "coordinates": {
+      "lat": 34.23174,
+      "lon": 77.66485
+    },
+    "facts": [
+      "Stands at about 5,776 m elevation.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "nubra-ladakh",
+    "name": "Nubra",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "Nubra is a region in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.55121,
+      "lon": 77.54848
+    },
+    "facts": [
+      "Set beside Nubra River.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "old-castle-tsemo-hill-ladakh",
+    "name": "Old Castle (Tsemo Hill)",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Old Castle (Tsemo Hill) is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Leh, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "padmanabh-ladakh",
+    "name": "Padmanabh",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Padmanabh is a mountain in India.",
+    "coordinates": {
+      "lat": 35.4414,
+      "lon": 77.1813
+    },
+    "facts": [
+      "Stands at about 7,030 m elevation."
     ]
   },
   {
@@ -419,6 +1116,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 4,250 m elevation.",
+      "Covers about 690 km².",
+      "Lies in Ngari Prefecture, Ladakh."
     ]
   },
   {
@@ -433,10 +1135,14 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Stands at about 3,920 m elevation.",
+      "Lies in Kargil district, Ladakh."
     ]
   },
   {
-    "id": "phyang-monastery-ladakh",
+    "id": "phyang-monastery-ladakh-q4347714",
     "name": "Phyang Monastery",
     "state": "Ladakh",
     "category": "spiritual",
@@ -447,6 +1153,65 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Associated with Drikung Kagyu.",
+      "Lies in Leh district, Ladakh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Phyang, Ladakh."
+    ]
+  },
+  {
+    "id": "pinnacle-peak-ladakh-ladakh",
+    "name": "Pinnacle Peak (Ladakh)",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Pinnacle Peak (Ladakh) is a peak in Nun Kun Massif in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.02166,
+      "lon": 76.07983
+    },
+    "facts": [
+      "Stands at about 6,930 m elevation."
+    ]
+  },
+  {
+    "id": "point-5240-ladakh",
+    "name": "Point 5240",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Point 5240 is a mountain peak on the Line of Control in Kashmir.",
+    "facts": [
+      "Stands at about 5,240 m elevation."
+    ]
+  },
+  {
+    "id": "point-5310-ladakh",
+    "name": "Point 5310",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Point 5310 is a mountain peak in Ladakh.",
+    "coordinates": {
+      "lat": 34.80167,
+      "lon": 76.48111
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "pologongka-ladakh",
+    "name": "Pologongka",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Pologongka is a mountain peak.",
+    "coordinates": {
+      "lat": 33.30667,
+      "lon": 78.19861
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
     ]
   },
   {
@@ -461,6 +1226,39 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Kargil district, Ladakh."
+    ]
+  },
+  {
+    "id": "rangdum-monastery-shadup-dzamlinggyan-ladakh",
+    "name": "Rangdum Monastery (Shadup Dzamlinggyan)",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Rangdum Monastery (Shadup Dzamlinggyan) is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rangdum, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rimo-massif-ladakh",
+    "name": "Rimo Massif",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Rimo massif Located in Kashmir.",
+    "coordinates": {
+      "lat": 35.35583,
+      "lon": 77.36806
+    },
+    "facts": [
+      "Stands at about 7,385 m elevation."
     ]
   },
   {
@@ -475,6 +1273,11 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1831.",
+      "Associated with Gelug.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -485,6 +1288,39 @@
     "description": "Ryul Tso is a tourism place in Ladakh, India.",
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "saltoro-kangri-ladakh",
+    "name": "Saltoro Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Saltoro Kangri is a mountain.",
+    "coordinates": {
+      "lat": 35.39958,
+      "lon": 76.84752
+    },
+    "facts": [
+      "Stands at about 7,742 m elevation.",
+      "Lies in Gilgit-Baltistan, Ladakh."
+    ]
+  },
+  {
+    "id": "saltoro-mountains-ladakh",
+    "name": "Saltoro Mountains",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "The Saltoro Mountains are a subrange of the Karakoram Range. They are located in the heart of the Karakoram, on the southwest side of the Siachen Glacier.",
+    "coordinates": {
+      "lat": 35.4,
+      "lon": 76.83333
+    },
+    "facts": [
+      "Stands at about 7,742 m elevation.",
+      "Lies in Gilgit-Baltistan, Ladakh."
     ]
   },
   {
@@ -500,6 +1336,9 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Associated with Tibetan Buddhism."
     ]
   },
   {
@@ -514,6 +1353,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Leh, Ladakh."
+    ]
+  },
+  {
+    "id": "saser-kangri-ladakh",
+    "name": "Saser Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Saser Kangri is a mountain in India.",
+    "coordinates": {
+      "lat": 34.83333,
+      "lon": 77.73333
+    },
+    "facts": [
+      "Stands at about 7,672 m elevation.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -529,6 +1386,48 @@
     "tags": [
       "temple",
       "cave"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Ladakh."
+    ]
+  },
+  {
+    "id": "sculpture-at-drass-ladakh",
+    "name": "Sculpture at Drass",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Sculpture at Drass is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Drass, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sengge-la-ladakh",
+    "name": "Sengge-La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sengge-La is a mountain in India.",
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "shahi-kangri-ladakh",
+    "name": "Shahi Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shahi Kangri is a mountain in India.",
+    "coordinates": {
+      "lat": 35.17083,
+      "lon": 77.83083
+    },
+    "facts": [
+      "Stands at about 6,934 m elevation."
     ]
   },
   {
@@ -540,13 +1439,31 @@
     "coordinates": {
       "lat": 34.17361,
       "lon": 77.57472
-    }
+    },
+    "facts": [
+      "Dates from 1991.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "sherpi-kangri-ladakh",
+    "name": "Sherpi Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sherpi Kangri is a mountain peak in the Karakoram range.",
+    "coordinates": {
+      "lat": 35.465,
+      "lon": 76.77222
+    },
+    "facts": [
+      "Stands at about 7,380 m elevation."
+    ]
   },
   {
     "id": "shey-monastery-ladakh",
     "name": "Shey Monastery",
     "state": "Ladakh",
-    "category": "spiritual",
+    "category": "heritage",
     "description": "Shey Monastery is a building in India.",
     "coordinates": {
       "lat": 34.07583,
@@ -555,14 +1472,65 @@
     "tags": [
       "palace",
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
-    "id": "sindhu-darshan-festival-ladakh",
-    "name": "Sindhu Darshan Festival",
+    "id": "shrine-of-four-lords-gon-khang-tsemo-hill-ladakh",
+    "name": "Shrine of four Lords Gon-Khang (Tsemo Hill)",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Shrine of four Lords Gon-Khang (Tsemo Hill) is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Leh, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "singhi-kangri-ladakh",
+    "name": "Singhi Kangri",
     "state": "Ladakh",
     "category": "nature",
-    "description": "Sindhu Darshan Festival is a festival that is celebrated on the banks of the Indus River in Ladakh, India."
+    "description": "Singhi Kangri is a peak in the Karakoram range, located on the border between China and India.",
+    "coordinates": {
+      "lat": 35.5989,
+      "lon": 76.9828
+    },
+    "facts": [
+      "Stands at about 7,202 m elevation.",
+      "Lies in Gilgit-Baltistan, Ladakh."
+    ]
+  },
+  {
+    "id": "skyampoche-ri-ladakh",
+    "name": "Skyampoche Ri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Skyampoche Ri is a mountain peak in Ladakh, India.",
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "spangnak-ri-ladakh",
+    "name": "Spangnak Ri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Spangnak Ri is a mountain peak.",
+    "coordinates": {
+      "lat": 33.12583,
+      "lon": 78.17472
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
   },
   {
     "id": "stakna-monastery-ladakh",
@@ -576,6 +1544,42 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "stok-kangri-ladakh",
+    "name": "Stok Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Stok Kangri is a mountain in the Stok Range of the Himalayas in the Ladakh region of northwest India.",
+    "coordinates": {
+      "lat": 33.98639,
+      "lon": 77.44222
+    },
+    "facts": [
+      "Part of Zanskar district.",
+      "Stands at about 6,137 m elevation."
+    ]
+  },
+  {
+    "id": "stok-ladakh",
+    "name": "Stok",
+    "state": "Ladakh",
+    "category": "offbeat",
+    "description": "Stok is a village near Leh, in the Ladakh, India.",
+    "coordinates": {
+      "lat": 34.06492,
+      "lon": 77.54794
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Stands at about 3,497 m elevation.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -590,6 +1594,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -604,6 +1611,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Kargil, Ladakh."
+    ]
+  },
+  {
+    "id": "stupa-tiserru-ladakh",
+    "name": "Stupa Tiserru",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Stupa Tiserru is a protected monument in Ladakh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shestang, Ladakh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -618,6 +1643,25 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "suru-river-indus-ladakh",
+    "name": "Suru River (Indus)",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Suru River (Indus) is a river in India.",
+    "coordinates": {
+      "lat": 34.59305,
+      "lon": 76.12065
+    },
+    "facts": [
+      "Set on Suru Valley.",
+      "Stands at about 2,630 m elevation.",
+      "Lies in Kargil district, Ladakh."
     ]
   },
   {
@@ -632,6 +1676,39 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Stands at about 3,900 m elevation.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "teram-kangri-ladakh",
+    "name": "Teram Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Teram Kangri is a mountain in China/India.",
+    "coordinates": {
+      "lat": 35.58,
+      "lon": 77.07833
+    },
+    "facts": [
+      "Stands at about 7,462 m elevation.",
+      "Lies in Cenling County, Ladakh."
+    ]
+  },
+  {
+    "id": "thangman-kangri-ladakh",
+    "name": "Thangman Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Thangman Kangri is a mountain in India.",
+    "coordinates": {
+      "lat": 35.14667,
+      "lon": 77.6225
+    },
+    "facts": [
+      "Stands at about 6,864 m elevation."
     ]
   },
   {
@@ -646,6 +1723,36 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Associated with Tibetan Buddhism.",
+      "Stands at about 3,600 m elevation.",
+      "Lies in Leh district, Ladakh."
+    ]
+  },
+  {
+    "id": "thusa-kangri-ladakh",
+    "name": "Thusa Kangri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Thusa Kangri is a mountain peak.",
+    "coordinates": {
+      "lat": 34.99159,
+      "lon": 77.2258
+    },
+    "facts": [
+      "Known as a nature destination in Ladakh."
+    ]
+  },
+  {
+    "id": "tourism-in-ladakh-ladakh",
+    "name": "Tourism in Ladakh",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "Tourism in Ladakh is a tourism in a region in Ladakh, India.",
+    "facts": [
+      "Known as a tourism destination in Ladakh."
     ]
   },
   {
@@ -660,6 +1767,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 4,541 m elevation.",
+      "Covers about 16 km².",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -674,6 +1786,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site.",
+      "Stands at about 4,522 m elevation.",
+      "Covers about 145 km²."
     ]
   },
   {
@@ -688,6 +1805,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Ladakh."
     ]
   },
   {
@@ -702,6 +1822,10 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 3,400 m elevation.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -716,6 +1840,10 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Leh district, Ladakh."
     ]
   },
   {
@@ -732,6 +1860,10 @@
       "fort",
       "palace",
       "monastery"
+    ],
+    "facts": [
+      "Stands at about 3,650 m elevation.",
+      "Lies in Zanskar district, Ladakh."
     ]
   },
   {
@@ -746,6 +1878,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Ladakh."
     ]
   }
 ]

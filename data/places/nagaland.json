@@ -1,5 +1,20 @@
 [
   {
+    "id": "chumoukedima-nagaland",
+    "name": "Chümoukedima",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Chümoukedima is a city in Nagaland, India.",
+    "coordinates": {
+      "lat": 25.7916,
+      "lon": 93.7818
+    },
+    "facts": [
+      "Dates from 1866.",
+      "Lies in Chümoukedima district, Nagaland."
+    ]
+  },
+  {
     "id": "dimapur-jain-temple-nagaland",
     "name": "Dimapur Jain Temple",
     "state": "Nagaland",
@@ -11,6 +26,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Dimapur, Nagaland."
     ]
   },
   {
@@ -25,6 +43,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1956.",
+      "Lies in Dimapur district, Nagaland."
     ]
   },
   {
@@ -36,7 +58,10 @@
     "coordinates": {
       "lat": 25.55348,
       "lon": 94.06702
-    }
+    },
+    "facts": [
+      "Lies in Viswema, Nagaland."
+    ]
   },
   {
     "id": "fakim-wildlife-sanctuary-nagaland",
@@ -50,6 +75,10 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Covers about 642 ha.",
+      "Lies in Kiphire district, Nagaland."
     ]
   },
   {
@@ -57,7 +86,10 @@
     "name": "Hornbill Festival",
     "state": "Nagaland",
     "category": "other",
-    "description": "Hornbill Festival is an annual festival in Nagaland, India."
+    "description": "Hornbill Festival is an annual festival in Nagaland, India.",
+    "facts": [
+      "Dates from 2000."
+    ]
   },
   {
     "id": "khonoma-nature-conservation-and-tragopan-sanctuary-nagaland",
@@ -68,7 +100,10 @@
     "coordinates": {
       "lat": 25.6267,
       "lon": 94.0021
-    }
+    },
+    "facts": [
+      "Lies in Kohima district, Nagaland."
+    ]
   },
   {
     "id": "khuochiezie-nagaland",
@@ -79,7 +114,10 @@
     "coordinates": {
       "lat": 25.67204,
       "lon": 94.10824
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Nagaland."
+    ]
   },
   {
     "id": "kigwema-nagaland",
@@ -93,6 +131,9 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland."
     ]
   },
   {
@@ -107,6 +148,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Kohima, Nagaland."
     ]
   },
   {
@@ -121,6 +165,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Nagaland."
     ]
   },
   {
@@ -135,6 +182,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Nagaland."
     ]
   },
   {
@@ -149,20 +199,29 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Nagaland."
     ]
   },
   {
     "id": "kohima-nagaland",
     "name": "Kohima",
     "state": "Nagaland",
-    "category": "other",
+    "category": "hill-station",
     "description": "Kohima is a capital of the Indian state of Nagaland.",
     "coordinates": {
       "lat": 25.66667,
       "lon": 94.11944
     },
     "tags": [
-      "hill-station"
+      "hill-station",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1879.",
+      "Stands at about 1,444 m elevation.",
+      "Lies in Kohima district, Nagaland."
     ]
   },
   {
@@ -177,6 +236,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Nagaland."
     ]
   },
   {
@@ -191,6 +253,38 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Nagaland."
+    ]
+  },
+  {
+    "id": "longkhum-nagaland",
+    "name": "Longkhüm",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Longkhüm is a village in Nagaland, India.",
+    "coordinates": {
+      "lat": 26.26355,
+      "lon": 94.4123
+    },
+    "facts": [
+      "Known as a offbeat destination in Nagaland."
+    ]
+  },
+  {
+    "id": "lt-h-h-forbes-grave-nagaland",
+    "name": "Lt. H. H. Forbes' Grave",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Lt. H. H. Forbes' Grave is a protected monument in Nagaland, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sechüma, Nagaland."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -205,6 +299,25 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Associated with Catholicism.",
+      "Lies in Kohima, Nagaland."
+    ]
+  },
+  {
+    "id": "memorials-of-mr-g-h-damant-major-cook-and-subedar-nurbir-sahi-nagaland",
+    "name": "Memorials of Mr. G.H. Damant, Major Cook and Subedar Nurbir Sahi",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Memorials of Mr. G.H. Damant, Major Cook and Subedar Nurbir Sahi is a protected monument in Nagaland, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khonoma, Nagaland."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -219,6 +332,27 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Nagaland."
+    ]
+  },
+  {
+    "id": "naga-hills-nagaland",
+    "name": "Naga Hills",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Naga Hills is a mountain range in Myanmar and India.",
+    "coordinates": {
+      "lat": 26.0,
+      "lon": 95.0
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Named after Naga people.",
+      "Stands at about 3,827 m elevation."
     ]
   },
   {
@@ -230,7 +364,11 @@
     "coordinates": {
       "lat": 25.85337,
       "lon": 93.72428
-    }
+    },
+    "facts": [
+      "Dates from 28 August 2008.",
+      "Lies in Dimapur district, Nagaland."
+    ]
   },
   {
     "id": "ntangki-national-park-nagaland",
@@ -244,6 +382,9 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Lies in Peren district, Nagaland."
     ]
   },
   {
@@ -258,6 +399,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Nagaland."
     ]
   },
   {
@@ -272,6 +416,24 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Dimapur, Nagaland."
+    ]
+  },
+  {
+    "id": "ruins-of-kachari-rajbari-nagaland",
+    "name": "Ruins of Kachari Rajbari",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Ruins of Kachari Rajbari is a protected monument in Nagaland, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dimapur, Nagaland."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -283,7 +445,10 @@
     "coordinates": {
       "lat": 25.655,
       "lon": 94.10583
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Nagaland."
+    ]
   },
   {
     "id": "sanctuary-falls-nagaland",
@@ -297,6 +462,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland."
     ]
   },
   {
@@ -304,20 +472,9 @@
     "name": "Sekrenyi",
     "state": "Nagaland",
     "category": "other",
-    "description": "Sekrenyi is an angami Nagas festival based in Nagaland, India."
-  },
-  {
-    "id": "shamator-nagaland",
-    "name": "Shamator",
-    "state": "Nagaland",
-    "category": "other",
-    "description": "Shamator is a census town and District headquarter in Nagaland, India.",
-    "coordinates": {
-      "lat": 26.07445,
-      "lon": 94.85536
-    },
-    "tags": [
-      "hill-station"
+    "description": "Sekrenyi is an angami Nagas festival based in Nagaland, India.",
+    "facts": [
+      "Known as a tourism destination in Nagaland."
     ]
   },
   {
@@ -328,6 +485,24 @@
     "description": "Singphan Wildlife Sanctuary is an is the 30th elephant reserve in the country.",
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Mon district, Nagaland."
+    ]
+  },
+  {
+    "id": "stone-cairn-to-the-memory-of-mr-damant-nagaland",
+    "name": "Stone Cairn to the memory of Mr. Damant",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Stone Cairn to the memory of Mr. Damant is a protected monument in Nagaland, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kohima, Nagaland."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -342,6 +517,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Zunheboto, Nagaland."
     ]
   }
 ]

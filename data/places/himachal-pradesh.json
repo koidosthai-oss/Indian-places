@@ -11,6 +11,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -22,7 +25,10 @@
     "coordinates": {
       "lat": 32.0639,
       "lon": 76.563
-    }
+    },
+    "facts": [
+      "Lies in Kangra district, Himachal Pradesh."
+    ]
   },
   {
     "id": "annadale-shimla-himachal-pradesh",
@@ -33,7 +39,25 @@
     "coordinates": {
       "lat": 31.11232,
       "lon": 77.16048
-    }
+    },
+    "facts": [
+      "Lies in Shimla, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "ardhnareshwar-templef-himachal-pradesh",
+    "name": "Ardhnareshwar Templef",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Ardhnareshwar Templef is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mandi, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "arki-fort-himachal-pradesh",
@@ -47,6 +71,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1695."
     ]
   },
   {
@@ -61,6 +88,24 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Shimla, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "ashapuri-mata-temple-himachal-pradesh",
+    "name": "Ashapuri Mata Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Ashapuri Mata Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ashapur, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -72,14 +117,20 @@
     "coordinates": {
       "lat": 32.232,
       "lon": 77.192
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "badi-ki-dhar-himachal-pradesh",
     "name": "Badi ki dhar",
     "state": "Himachal Pradesh",
     "category": "other",
-    "description": "Badi ki dhar is a holy place in Himachal Prades, India."
+    "description": "Badi ki dhar is a holy place in Himachal Prades, India.",
+    "facts": [
+      "Known as a tourism destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "badri-falls-himachal-pradesh",
@@ -93,6 +144,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -107,6 +161,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -121,6 +178,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Kangra district, Himachal Pradesh."
     ]
   },
   {
@@ -128,13 +189,16 @@
     "name": "Bajreshwari Mata Temple, Kangra",
     "state": "Himachal Pradesh",
     "category": "spiritual",
-    "description": "Bajreshwari Mata Temple, Kangra is a Hindu temple in Himachal Pradesh, Shakti Peetha tirtha.",
+    "description": "Bajreshwari Mata Temple, Kangra is a hindu temple in Himachal Pradesh, Shakti Peetha tirtha.",
     "coordinates": {
       "lat": 32.10183,
       "lon": 76.26987
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Kangra, Himachal Pradesh."
     ]
   },
   {
@@ -149,6 +213,27 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "bangana-town-himachal-pradesh",
+    "name": "Bangana town",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Bangana town is a town in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.6138,
+      "lon": 76.3579
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 630 m elevation.",
+      "Lies in Una district, Himachal Pradesh."
     ]
   },
   {
@@ -163,6 +248,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Chamba district, Himachal Pradesh."
     ]
   },
   {
@@ -174,7 +262,26 @@
     "coordinates": {
       "lat": 32.03639,
       "lon": 76.8475
-    }
+    },
+    "facts": [
+      "Stands at about 1,829 m elevation.",
+      "Lies in Mandi district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "barsela-monuments-himachal-pradesh",
+    "name": "Barsela Monuments",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Barsela Monuments is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mandi, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "baspa-valley-himachal-pradesh",
@@ -185,7 +292,10 @@
     "coordinates": {
       "lat": 31.425,
       "lon": 78.26
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "bathu-temples-himachal-pradesh",
@@ -199,6 +309,44 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Kangra district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "beas-river-himachal-pradesh",
+    "name": "Beas River",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Beas River is a river in north India.",
+    "coordinates": {
+      "lat": 32.35345,
+      "lon": 77.09088
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 207 m elevation.",
+      "Lies in Punjab, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "bhaba-nagar-himachal-pradesh",
+    "name": "Bhaba Nagar",
+    "state": "Himachal Pradesh",
+    "category": "hill-station",
+    "description": "Bhaba Nagar is an indian city of Himachal Pradesh.",
+    "coordinates": {
+      "lat": 31.56528,
+      "lon": 77.93472
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,500 m elevation."
     ]
   },
   {
@@ -206,7 +354,10 @@
     "name": "Bhaba Valley",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Bhaba Valley is a valley in Himachal Pradesh, India."
+    "description": "Bhaba Valley is a valley in Himachal Pradesh, India.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "bhakra-dam-himachal-pradesh",
@@ -217,7 +368,16 @@
     "coordinates": {
       "lat": 31.41083,
       "lon": 76.43333
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Dates from 1948.",
+      "Set on Sutlej.",
+      "Rises about 226 m.",
+      "Lies in Bilaspur district, Himachal Pradesh."
+    ]
   },
   {
     "id": "bhalei-mata-temple-himachal-pradesh",
@@ -231,18 +391,28 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
     "id": "bharmour-himachal-pradesh",
     "name": "Bharmour",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Bharmour is a town in Chamba district, Himachal Pradesh, India.",
     "coordinates": {
       "lat": 32.26,
       "lon": 76.32
-    }
+    },
+    "tags": [
+      "hill-station",
+      "temple"
+    ],
+    "facts": [
+      "Lies in Chamba district, Himachal Pradesh."
+    ]
   },
   {
     "id": "bhimakali-temple-himachal-pradesh",
@@ -256,6 +426,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Sarahan, Himachal Pradesh."
     ]
   },
   {
@@ -270,6 +443,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -280,6 +456,28 @@
     "description": "Bijli Mahadev is a hindu temple in Himachal Pradesh, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "bilaspur-himachal-pradesh-himachal-pradesh",
+    "name": "Bilaspur, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Bilaspur, Himachal Pradesh is a town.",
+    "coordinates": {
+      "lat": 31.34545,
+      "lon": 76.75962
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 673 m elevation.",
+      "Covers about 10.6 km².",
+      "Lies in Bilaspur district, Himachal Pradesh."
     ]
   },
   {
@@ -294,6 +492,39 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 697."
+    ]
+  },
+  {
+    "id": "bir-himachal-pradesh-himachal-pradesh",
+    "name": "Bir, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Bir, Himachal Pradesh is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 32.04417,
+      "lon": 76.72583
+    },
+    "facts": [
+      "Stands at about 1,525 m elevation.",
+      "Lies in Kangra district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "buddhist-stupa-known-as-bhim-ka-tila-himachal-pradesh",
+    "name": "Buddhist stupa known as Bhim-ka-Tila",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Buddhist stupa known as Bhim-ka-Tila is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chaitru, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -301,7 +532,10 @@
     "name": "Chail Gurudwara",
     "state": "Himachal Pradesh",
     "category": "spiritual",
-    "description": "Chail Gurudwara is a gurdwara in Himachal Pradesh, India."
+    "description": "Chail Gurudwara is a gurdwara in Himachal Pradesh, India.",
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "chail-sanctuary-himachal-pradesh",
@@ -315,6 +549,11 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1976.",
+      "Covers about 110 km².",
+      "Lies in Solan district, Himachal Pradesh."
     ]
   },
   {
@@ -326,18 +565,59 @@
     "coordinates": {
       "lat": 32.59722,
       "lon": 75.98583
-    }
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Set beside Ravi River.",
+      "Lies in Chamba district, Himachal Pradesh."
+    ]
   },
   {
     "id": "chamera-ii-hydroelectric-plant-himachal-pradesh",
     "name": "Chamera II Hydroelectric Plant",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "nature",
     "description": "Chamera II Hydroelectric Plant is a hydroelectric power station in India.",
     "coordinates": {
       "lat": 32.51192,
       "lon": 76.18
-    }
+    },
+    "facts": [
+      "Set on Ravi River.",
+      "Rises about 43 m."
+    ]
+  },
+  {
+    "id": "champavati-temple-himachal-pradesh",
+    "name": "Champavati Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Champavati Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chamba, Himachal Pradesh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chamunda-temple-himachal-pradesh",
+    "name": "Chamunda Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Chamunda Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chamba, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "chander-naun-himachal-pradesh",
@@ -347,6 +627,9 @@
     "description": "Chander Naun is a lake in Himachal Pradesh, India.",
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -354,13 +637,20 @@
     "name": "Chandra Taal",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Chandra Taal is a lake situated in the Lahaul part of the Lahul and Spiti district of Himachal Pradesh (India).",
+    "description": "Lake situated in the Lahaul part of the Lahul and Spiti district of Himachal Pradesh (India).",
     "coordinates": {
       "lat": 32.47518,
       "lon": 77.61706
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site.",
+      "Recognised as Tentative World Heritage Site.",
+      "Part of Cold Desert.",
+      "Covers about 49 ha.",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -375,6 +665,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -389,13 +682,51 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "chehni-kothi-himachal-pradesh",
+    "name": "Chehni Kothi",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Chehni Kothi is a himachali-style building.",
+    "coordinates": {
+      "lat": 31.62765,
+      "lon": 77.3581
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ],
+    "facts": [
+      "Lies in Kullu district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "chenab-river-himachal-pradesh",
+    "name": "Chenab River",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Chenab River is a major river of India and Pakistan.",
+    "coordinates": {
+      "lat": 31.18889,
+      "lon": 72.19917
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Punjab, Himachal Pradesh."
     ]
   },
   {
     "id": "chitkul-himachal",
     "name": "Chitkul",
     "state": "Himachal Pradesh",
-    "category": "nature",
+    "category": "offbeat",
     "description": "Last inhabited village near the Indo-Tibet border on the Baspa River, known for wooden houses and mountain views.",
     "coordinates": {
       "lat": 31.3504,
@@ -404,7 +735,14 @@
     "tags": [
       "hidden-gem",
       "village",
-      "baspa-valley"
+      "baspa-valley",
+      "lesser-known"
+    ],
+    "facts": [
+      "It is the last inhabited village on the Baspa River before the Indo-Tibet border.",
+      "Wooden houses and open mountain views are the draw in the valley.",
+      "Stands at about 3,450 m elevation.",
+      "Lies in Kinnaur district, Himachal Pradesh."
     ]
   },
   {
@@ -419,6 +757,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Architect: John Theophilus Boileau.",
+      "Lies in Shimla, Himachal Pradesh."
     ]
   },
   {
@@ -433,6 +775,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
     ]
   },
   {
@@ -440,7 +785,10 @@
     "name": "Cold Desert (biosphere reserve)",
     "state": "Himachal Pradesh",
     "category": "wildlife",
-    "description": "Cold Desert (biosphere reserve) is a biosphere reserve in India."
+    "description": "Cold Desert (biosphere reserve) is a biosphere reserve in India.",
+    "facts": [
+      "Recognised as Tentative World Heritage Site."
+    ]
   },
   {
     "id": "dagshai-central-jail-museum-himachal-pradesh",
@@ -454,6 +802,28 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "dagshai-himachal-pradesh",
+    "name": "Dagshai",
+    "state": "Himachal Pradesh",
+    "category": "hill-station",
+    "description": "Dagshai is a town in India.",
+    "coordinates": {
+      "lat": 30.88,
+      "lon": 77.05
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,734 m elevation.",
+      "Covers about 3.31 km².",
+      "Lies in Solan district, Himachal Pradesh."
     ]
   },
   {
@@ -468,6 +838,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -479,7 +852,29 @@
     "coordinates": {
       "lat": 31.3917,
       "lon": 77.803
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "darcha-himachal-pradesh",
+    "name": "Darcha",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Darcha is a village in India.",
+    "coordinates": {
+      "lat": 33.26166,
+      "lon": 77.19544
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 3,360 m elevation.",
+      "Covers about 0.51 km².",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
+    ]
   },
   {
     "id": "dashair-lake-himachal-pradesh",
@@ -493,6 +888,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -507,6 +905,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -521,6 +922,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -535,13 +939,18 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Named after Dhankar.",
+      "Stands at about 4,140 m elevation.",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
     "id": "dharamkot-himachal-pradesh-himachal-pradesh",
     "name": "Dharamkot, Himachal Pradesh",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Dharamkot, Himachal Pradesh is a place in Himachal Pradesh, India.",
     "coordinates": {
       "lat": 32.2386,
@@ -549,20 +958,29 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,100 m elevation.",
+      "Lies in Kangra district, Himachal Pradesh."
     ]
   },
   {
     "id": "dharamshala-himachal-pradesh",
     "name": "Dharamshala",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "heritage",
     "description": "Dharamshala is a city in Himachal Pradesh, India.",
     "coordinates": {
       "lat": 32.21528,
       "lon": 76.31861
     },
     "tags": [
-      "hill-station"
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 1,457 m elevation.",
+      "Covers about 29.5 km².",
+      "Lies in Kangra district, Himachal Pradesh."
     ]
   },
   {
@@ -577,18 +995,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "docha-mocha-temple-himachal-pradesh",
+    "name": "Docha Mocha Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Docha Mocha Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kullu, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "dolanji-himachal-pradesh",
     "name": "Dolanji",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "offbeat",
     "description": "Dolanji is a locality in Himachal Pradesh, India.",
     "coordinates": {
       "lat": 30.84583,
       "lon": 77.14833
-    }
+    },
+    "facts": [
+      "Known as a offbeat destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "dorje-drak-himachal-pradesh",
@@ -603,6 +1042,26 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1650.",
+      "Associated with Nyingma.",
+      "Lies in Chênggo, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "fort-himachal-pradesh",
+    "name": "Fort",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Fort is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kotla, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -617,6 +1076,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Dharamshala, Himachal Pradesh."
     ]
   },
   {
@@ -631,6 +1093,39 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Chamba district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "ganesh-temple-himachal-pradesh",
+    "name": "Ganesh temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Ganesh temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bharmour, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gauri-shankar-temple-himachal-pradesh",
+    "name": "Gauri Shankar Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Gauri Shankar Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mandi, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -645,6 +1140,10 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Stands at about 3,370 m elevation.",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -659,6 +1158,23 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "ghaggar-hakra-river-himachal-pradesh",
+    "name": "Ghaggar-Hakra River",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Ghaggar-Hakra River is an intermittent river in India and Pakistan.",
+    "coordinates": {
+      "lat": 29.4875,
+      "lon": 74.8925
+    },
+    "facts": [
+      "Lies in Haryana, Himachal Pradesh."
     ]
   },
   {
@@ -666,7 +1182,10 @@
     "name": "Glen, Shimla",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Glen, Shimla is a forest in India."
+    "description": "Glen, Shimla is a forest in India.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "gobind-sagar-himachal-pradesh",
@@ -680,6 +1199,23 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Una district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "gopalpur-himachal-pradesh-himachal-pradesh",
+    "name": "Gopalpur, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Gopalpur, Himachal Pradesh is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 32.1389,
+      "lon": 76.449
+    },
+    "facts": [
+      "Lies in Kangra district, Himachal Pradesh."
     ]
   },
   {
@@ -691,7 +1227,10 @@
     "coordinates": {
       "lat": 32.1389,
       "lon": 76.449
-    }
+    },
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "great-himalayan-national-park-himachal-pradesh",
@@ -706,6 +1245,11 @@
     "tags": [
       "world-heritage",
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1984.",
+      "Recognised as World Heritage Site.",
+      "Covers about 755 km²."
     ]
   },
   {
@@ -720,6 +1264,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 912."
     ]
   },
   {
@@ -731,14 +1278,20 @@
     "coordinates": {
       "lat": 30.43531,
       "lon": 77.62194
-    }
+    },
+    "facts": [
+      "Lies in Paonta Sahib, Himachal Pradesh."
+    ]
   },
   {
     "id": "gwass-bagi-himachal-pradesh",
     "name": "Gwass-Bagi",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Gwass-Bagi is a valley in Himachal Pradesh, India."
+    "description": "Gwass-Bagi is a valley in Himachal Pradesh, India.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "gyuto-order-himachal-pradesh",
@@ -753,6 +1306,10 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1474.",
+      "Associated with Gelug."
     ]
   },
   {
@@ -760,10 +1317,13 @@
     "name": "Habban Valley",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Habban valley valley of devdar."
+    "description": "Habban valley valley of devdar.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
-    "id": "hidimba-devi-temple-himachal-pradesh",
+    "id": "hidimba-devi-temple-himachal-pradesh-q15223867",
     "name": "Hidimba Devi Temple",
     "state": "Himachal Pradesh",
     "category": "spiritual",
@@ -774,6 +1334,12 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Kullu district, Himachal Pradesh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Manali, Himachal Pradesh."
     ]
   },
   {
@@ -784,6 +1350,9 @@
     "description": "Hill States of India is a former country.",
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Himachal Pradesh."
     ]
   },
   {
@@ -798,6 +1367,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Shimla, Himachal Pradesh."
     ]
   },
   {
@@ -812,6 +1384,27 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 2010."
+    ]
+  },
+  {
+    "id": "jaidevi-himachal-pradesh",
+    "name": "Jaidevi",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Jaidevi is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.30133,
+      "lon": 76.56913
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 1,185 m elevation.",
+      "Lies in Mandi district, Himachal Pradesh."
     ]
   },
   {
@@ -826,6 +1419,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Sirmaur district, Himachal Pradesh."
     ]
   },
   {
@@ -840,6 +1436,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -854,6 +1453,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Dharamshala, Himachal Pradesh."
     ]
   },
   {
@@ -864,6 +1466,9 @@
     "description": "Jatoli Temple is a tourism place in Himachal Pradesh, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -878,6 +1483,47 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 610 m elevation.",
+      "Covers about 4.5 km².",
+      "Lies in Kangra district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "jawali-himachal-pradesh-himachal-pradesh",
+    "name": "Jawali, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Jawali, Himachal Pradesh is a village in Maharashtra, India.",
+    "coordinates": {
+      "lat": 32.15,
+      "lon": 76.01
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 625 m elevation.",
+      "Lies in Nagpur district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "jispa-himachal-pradesh",
+    "name": "Jispa",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Jispa is a village in India.",
+    "coordinates": {
+      "lat": 32.63306,
+      "lon": 77.17694
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 3,200 m elevation.",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -889,7 +1535,31 @@
     "coordinates": {
       "lat": 31.99,
       "lon": 76.79
-    }
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Set beside Beas River."
+    ]
+  },
+  {
+    "id": "junga-himachal-pradesh-himachal-pradesh",
+    "name": "Junga, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Junga, Himachal Pradesh is a tehsil in Shimla District, Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.02,
+      "lon": 77.18
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 1,582 m elevation.",
+      "Lies in Shimla District, Himachal Pradesh."
+    ]
   },
   {
     "id": "jwala-goddess-himachal-pradesh",
@@ -899,6 +1569,9 @@
     "description": "Jwala (goddess) is a fire flame symbolism for Hindu Goddess.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Part of Goddesses of Songkran."
     ]
   },
   {
@@ -914,6 +1587,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Kangra district, Himachal Pradesh."
     ]
   },
   {
@@ -925,7 +1601,10 @@
     "coordinates": {
       "lat": 32.55,
       "lon": 76.01
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "kali-bari-shimla-himachal-pradesh",
@@ -939,6 +1618,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Shimla District, Himachal Pradesh."
     ]
   },
   {
@@ -953,6 +1635,31 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Opened in 9 November 1903.",
+      "Recognised as part of UNESCO World Heritage Site.",
+      "Part of Mountain Railways of India.",
+      "Maintained under Indian Railways.",
+      "Covers about 79.1 ha."
+    ]
+  },
+  {
+    "id": "kalpa-himachal-pradesh-himachal-pradesh",
+    "name": "Kalpa, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Kalpa, Himachal Pradesh is a village.",
+    "coordinates": {
+      "lat": 31.53,
+      "lon": 78.25
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,960 m elevation.",
+      "Lies in Kinnaur district, Himachal Pradesh."
     ]
   },
   {
@@ -967,6 +1674,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Jaidevi, Himachal Pradesh."
     ]
   },
   {
@@ -981,6 +1691,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Himachal Pradesh."
     ]
   },
   {
@@ -988,20 +1701,40 @@
     "name": "Kamna Devi Temple",
     "state": "Himachal Pradesh",
     "category": "spiritual",
-    "description": "Kamna Devi Temple is a Hindu temple in Shimla, Himachal Pradesh.",
+    "description": "Kamna Devi Temple is a hindu temple in Shimla, Himachal Pradesh.",
     "coordinates": {
       "lat": 31.09611,
       "lon": 77.13417
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Shimla District, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "kamru-himachal-pradesh-himachal-pradesh",
+    "name": "Kamru, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Kamru, Himachal Pradesh is a village in Himachal Pradesh.",
+    "coordinates": {
+      "lat": 28.83333,
+      "lon": 78.85
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Lies in Kinnaur district, Himachal Pradesh."
     ]
   },
   {
     "id": "kamrunag-lake-himachal-pradesh",
     "name": "Kamrunag Lake",
     "state": "Himachal Pradesh",
-    "category": "nature",
+    "category": "heritage",
     "description": "Kamrunag Lake is a lake in Himachal Pradesh, India.",
     "coordinates": {
       "lat": 31.47306,
@@ -1009,10 +1742,31 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Mandi district, Himachal Pradesh."
     ]
   },
   {
-    "id": "kangra-fort-himachal-pradesh",
+    "id": "kandaghat-himachal-pradesh",
+    "name": "Kandaghat",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Kandaghat is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 30.983,
+      "lon": 77.117
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,425 m elevation.",
+      "Lies in Solan district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "kangra-fort-himachal-pradesh-q6362859",
     "name": "Kangra Fort",
     "state": "Himachal Pradesh",
     "category": "heritage",
@@ -1024,6 +1778,12 @@
     "tags": [
       "fort",
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Kangra district, Himachal Pradesh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Kangra, Himachal Pradesh."
     ]
   },
   {
@@ -1035,20 +1795,9 @@
     "coordinates": {
       "lat": 32.08639,
       "lon": 76.25333
-    }
-  },
-  {
-    "id": "kangra-valley-railway-himachal-pradesh",
-    "name": "Kangra Valley Railway",
-    "state": "Himachal Pradesh",
-    "category": "nature",
-    "description": "Kangra Valley Railway is a narrow gauge railway line in India.",
-    "coordinates": {
-      "lat": 31.98916,
-      "lon": 76.78948
     },
-    "tags": [
-      "world-heritage"
+    "facts": [
+      "Set beside Beas River."
     ]
   },
   {
@@ -1063,6 +1812,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
     ]
   },
   {
@@ -1074,7 +1826,12 @@
     "coordinates": {
       "lat": 31.5432,
       "lon": 78.01522
-    }
+    },
+    "facts": [
+      "Dates from 2005.",
+      "Set on Sutlej.",
+      "Rises about 88 m."
+    ]
   },
   {
     "id": "kardang-monastery-himachal-pradesh",
@@ -1088,6 +1845,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -1102,6 +1862,62 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "kasol-himachal-pradesh",
+    "name": "Kasol",
+    "state": "Himachal Pradesh",
+    "category": "hill-station",
+    "description": "Kasol is a hill station and hamlet in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 32.00972,
+      "lon": 77.31389
+    },
+    "tags": [
+      "national-park",
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,640 m elevation.",
+      "Covers about 0.36 km²."
+    ]
+  },
+  {
+    "id": "katoch-palace-himachal-pradesh",
+    "name": "Katoch Palace",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Katoch Palace is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tira Sujanpur, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kaza-himachal-pradesh-himachal-pradesh",
+    "name": "Kaza, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "wildlife",
+    "description": "Kaza, Himachal Pradesh is a town in Himachal Pradesh, northwest India.",
+    "coordinates": {
+      "lat": 32.22556,
+      "lon": 78.07139
+    },
+    "tags": [
+      "national-park",
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 3,650 m elevation.",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -1115,7 +1931,14 @@
       "lon": 78.01194
     },
     "tags": [
+      "world-heritage",
       "monastery"
+    ],
+    "facts": [
+      "Dates from the 11th century.",
+      "Founded by Dromton Gyelwa Jungne.",
+      "Associated with Tibetan Buddhism.",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -1130,6 +1953,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -1137,7 +1963,10 @@
     "name": "Kharahal",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Kharahal is a valley in Himachal Pradesh, India."
+    "description": "Kharahal is a valley in Himachal Pradesh, India.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "khirganga-national-park-himachal-pradesh",
@@ -1151,6 +1980,10 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 2010.",
+      "Stands at about 2,800 m elevation."
     ]
   },
   {
@@ -1162,7 +1995,11 @@
     "coordinates": {
       "lat": 32.33167,
       "lon": 78.00889
-    }
+    },
+    "facts": [
+      "Stands at about 4,270 m elevation.",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
+    ]
   },
   {
     "id": "kibber-wildlife-sanctuary-himachal-pradesh",
@@ -1176,6 +2013,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
     ]
   },
   {
@@ -1190,6 +2030,26 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 6,032 m elevation."
+    ]
+  },
+  {
+    "id": "koksar-himachal-pradesh",
+    "name": "Koksar",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Koksar is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 32.414,
+      "lon": 77.235
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -1201,31 +2061,62 @@
     "coordinates": {
       "lat": 31.38306,
       "lon": 76.87111
-    }
+    },
+    "facts": [
+      "Set on Sutlej."
+    ]
+  },
+  {
+    "id": "kotgarh-himachal-pradesh",
+    "name": "Kotgarh",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Kotgarh is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.31,
+      "lon": 77.47
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Kumharsain, Himachal Pradesh."
+    ]
   },
   {
     "id": "kugti-sanctuary-himachal-pradesh",
     "name": "Kugti Sanctuary",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Kugti Sanctuary is a protected area in Himachal Pradesh, India.",
     "coordinates": {
       "lat": 32.59861,
       "lon": 76.88528
-    }
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Known as a hill-station destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "kullu-himachal-pradesh",
     "name": "Kullu",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Kullu is a town in Himachal Pradesh, India.",
     "coordinates": {
       "lat": 31.96,
       "lon": 77.1
     },
     "tags": [
-      "hill-station"
+      "hill-station",
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 1,279 m elevation.",
+      "Lies in Kullu district, Himachal Pradesh."
     ]
   },
   {
@@ -1233,7 +2124,10 @@
     "name": "Kullu Manali Circuit",
     "state": "Himachal Pradesh",
     "category": "other",
-    "description": "Kullu Manali Circuit is a tourism place in Himachal Pradesh, India."
+    "description": "Kullu Manali Circuit is a tourism place in Himachal Pradesh, India.",
+    "facts": [
+      "Known as a tourism destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "kullu-valley-himachal-pradesh",
@@ -1244,20 +2138,41 @@
     "coordinates": {
       "lat": 31.95778,
       "lon": 77.10944
-    }
+    },
+    "facts": [
+      "Set beside Beas River."
+    ]
   },
   {
     "id": "kungri-monastery-himachal-pradesh",
     "name": "Kungri Monastery",
     "state": "Himachal Pradesh",
     "category": "spiritual",
-    "description": "Kungri Monastery is a kungri Monstery is a 14th century NiyangmaPa Buddhist Monastery at Spiti Valley of Himachal Pradesh, India.",
+    "description": "Kungri Monstery is a 14th century NiyangmaPa Buddhist Monastery at Spiti Valley of Himachal Pradesh, India.",
     "coordinates": {
       "lat": 32.044,
       "lon": 78.075
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "lakhwar-dam-himachal-pradesh",
+    "name": "Lakhwar Dam",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Lakhwar Dam is a dam.",
+    "coordinates": {
+      "lat": 30.50361,
+      "lon": 77.79528
+    },
+    "facts": [
+      "Set on Yamuna.",
+      "Rises about 86 m."
     ]
   },
   {
@@ -1273,6 +2188,11 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Hindu temple architecture style.",
+      "Lies in Chamba district, Himachal Pradesh."
     ]
   },
   {
@@ -1287,6 +2207,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "laxmi-lakhana-devi-temple-himachal-pradesh",
+    "name": "Laxmi (Lakhana) Devi temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Laxmi (Lakhana) Devi temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bharmour, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1301,6 +2239,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "lord-eligin-s-tomb-himachal-pradesh",
+    "name": "Lord Eligin's tomb",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Lord Eligin's tomb is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dharamshala, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1312,7 +2268,10 @@
     "coordinates": {
       "lat": 31.10383,
       "lon": 77.17347
-    }
+    },
+    "facts": [
+      "Lies in Shimla, Himachal Pradesh."
+    ]
   },
   {
     "id": "lug-valley-himachal-pradesh",
@@ -1323,7 +2282,10 @@
     "coordinates": {
       "lat": 31.948,
       "lon": 77.11
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "maa-bhangayani-temple-haripurdhar-himachal-pradesh",
@@ -1338,6 +2300,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Sirmaur district, Himachal Pradesh."
     ]
   },
   {
@@ -1352,6 +2317,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Mandi district, Himachal Pradesh."
     ]
   },
   {
@@ -1365,7 +2333,11 @@
       "lon": 76.79704
     },
     "tags": [
+      "temple",
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -1380,6 +2352,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -1394,6 +2369,23 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "mahunag-himachal-pradesh",
+    "name": "Mahunag",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Mahunag is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.07105,
+      "lon": 77.11865
+    },
+    "facts": [
+      "Known as a offbeat destination in Himachal Pradesh."
     ]
   },
   {
@@ -1405,7 +2397,27 @@
     "coordinates": {
       "lat": 31.3092,
       "lon": 76.9587
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "malana-himachal-pradesh-himachal-pradesh",
+    "name": "Malana, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Malana, Himachal Pradesh is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 32.0626,
+      "lon": 77.26036
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Kullu district, Himachal Pradesh."
+    ]
   },
   {
     "id": "mall-road-shimla-himachal-pradesh",
@@ -1416,7 +2428,10 @@
     "coordinates": {
       "lat": 31.105,
       "lon": 77.172
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "mamaleshwar-mahadev-himachal-pradesh",
@@ -1426,20 +2441,32 @@
     "description": "Mamaleshwar Mahadev is a temple in Himachal Pradesh.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
     "id": "manali-himachal-pradesh-himachal-pradesh",
     "name": "Manali, Himachal Pradesh",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Manali, Himachal Pradesh is a town of Himachal Pradesh, India.",
     "coordinates": {
       "lat": 32.24496,
       "lon": 77.1882
     },
     "tags": [
-      "hill-station"
+      "national-park",
+      "hill-station",
+      "fort",
+      "temple",
+      "waterfall"
+    ],
+    "facts": [
+      "Set beside Beas River.",
+      "Stands at about 2,050 m elevation.",
+      "Lies in Kullu district, Himachal Pradesh."
     ]
   },
   {
@@ -1454,6 +2481,44 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "mandi-himachal-pradesh-himachal-pradesh",
+    "name": "Mandi, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "hill-station",
+    "description": "Mandi, Himachal Pradesh is a historic city in the Himalayas, India.",
+    "coordinates": {
+      "lat": 31.71083,
+      "lon": 76.92944
+    },
+    "tags": [
+      "hill-station",
+      "temple"
+    ],
+    "facts": [
+      "Set beside Beas River.",
+      "Stands at about 756 m elevation.",
+      "Lies in Mandi district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "mani-mahesh-temple-himachal-pradesh",
+    "name": "Mani Mahesh temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Mani Mahesh temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bharmour, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1468,6 +2533,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Set beside Parvati River.",
+      "Lies in Kullu district, Himachal Pradesh."
     ]
   },
   {
@@ -1483,18 +2552,28 @@
     "tags": [
       "lake",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
     "id": "mashobra-himachal-pradesh",
     "name": "Mashobra",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Mashobra is a town in India.",
     "coordinates": {
       "lat": 31.13,
       "lon": 77.23
-    }
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,146 m elevation.",
+      "Lies in Shimla District, Himachal Pradesh."
+    ]
   },
   {
     "id": "masrur-temples-himachal-pradesh",
@@ -1507,9 +2586,28 @@
       "lon": 76.13722
     },
     "tags": [
-      "temple",
-      "cave",
-      "pilgrimage"
+      "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Hindu temple architecture style.",
+      "Stands at about 733 m elevation.",
+      "Lies in Kangra district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "masrur-temples-with-sculptures-himachal-pradesh",
+    "name": "Masrur Temples with sculptures",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Masrur Temples with sculptures is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Masrur, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1524,13 +2622,16 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
     "id": "mcleod-ganj-himachal-pradesh",
     "name": "McLeod Ganj",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "McLeod Ganj is a suburb of Dharamshala in Kangra district of Himachal Pradesh, India.",
     "coordinates": {
       "lat": 32.23861,
@@ -1538,6 +2639,10 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,004 m elevation.",
+      "Lies in Kangra district, Himachal Pradesh."
     ]
   },
   {
@@ -1553,6 +2658,11 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1405.",
+      "Associated with Bon.",
+      "Lies in Tobgyai, Himachal Pradesh."
     ]
   },
   {
@@ -1568,6 +2678,39 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Chamba district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "miniature-stone-shiva-temple-himachal-pradesh",
+    "name": "Miniature stone shiva temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Miniature stone shiva temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagatsukh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mirkula-devi-temple-himachal-pradesh",
+    "name": "Mirkula Devi temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Mirkula Devi temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Udaipur (Lahaul), Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1575,7 +2718,10 @@
     "name": "Miyar Valley",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Miyar Valley is a valley in the Western Himalayas."
+    "description": "Miyar Valley is a valley in the Western Himalayas.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "mohan-park-himachal-pradesh",
@@ -1586,7 +2732,61 @@
     "coordinates": {
       "lat": 30.905,
       "lon": 77.097
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "mrikula-jain-temple-himachal-pradesh",
+    "name": "Mrikula Jain Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Mrikula Jain Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lahaul- Spiti, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "naggar-castle-himachal-pradesh",
+    "name": "Naggar Castle",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Naggar Castle is a medieval castle, located in Kullu, Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 32.112,
+      "lon": 77.165
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Lies in Kullu district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "nahan-himachal-pradesh",
+    "name": "Nahan",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Nahan is a town in Sirmaur District, Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 30.56,
+      "lon": 77.29333
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 932 m elevation.",
+      "Covers about 10.9 km².",
+      "Lies in Sirmaur district, Himachal Pradesh."
+    ]
   },
   {
     "id": "naina-devi-himachal-pradesh",
@@ -1600,6 +2800,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Covers about 0.82 km².",
+      "Lies in Bilaspur district, Himachal Pradesh."
     ]
   },
   {
@@ -1614,6 +2818,26 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "nako-himachal-pradesh-himachal-pradesh",
+    "name": "Nako, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Nako, Himachal Pradesh is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.88152,
+      "lon": 78.62746
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Kinnaur district, Himachal Pradesh."
     ]
   },
   {
@@ -1628,6 +2852,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -1643,6 +2870,24 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "nar-singh-temple-himachal-pradesh",
+    "name": "Nar Singh temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Nar Singh temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bharmour, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1653,6 +2898,24 @@
     "description": "Narbadeshwar Temple is a hindu temple in Himachal Pradesh, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Hamirpur district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "narbadeshwar-temple-including-the-paintings-therein-as-well-as-subsidiary-shrines-within-the-compound-wall-himachal-pradesh",
+    "name": "Narbadeshwar Temple including the paintings therein as well as subsidiary shrines within the compound wall",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Narbadeshwar Temple including the paintings therein as well as subsidiary shrines within the compound wall is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tira Sujanpur, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1667,13 +2930,16 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Mandi district, Himachal Pradesh."
     ]
   },
   {
     "id": "narkanda-himachal-pradesh",
     "name": "Narkanda",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Narkanda is a town.",
     "coordinates": {
       "lat": 31.27,
@@ -1681,6 +2947,11 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,710 m elevation.",
+      "Covers about 1 km².",
+      "Lies in Shimla District, Himachal Pradesh."
     ]
   },
   {
@@ -1692,7 +2963,30 @@
     "coordinates": {
       "lat": 31.56389,
       "lon": 77.98028
-    }
+    },
+    "facts": [
+      "Set beside Sutlej.",
+      "Set on Sutlej.",
+      "Rises about 67.5 m.",
+      "Lies in Kinnaur district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "nauni-himachal-pradesh",
+    "name": "Nauni",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Nauni is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 30.86251,
+      "lon": 77.16791
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Lies in Solan district, Himachal Pradesh."
+    ]
   },
   {
     "id": "nechung-himachal-pradesh",
@@ -1707,6 +3001,82 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1681.",
+      "Associated with Nyingma.",
+      "Lies in Doilungdêqên District, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "nirmand-himachal-pradesh",
+    "name": "Nirmand",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Nirmand is a town near Sutlej river valley, India.",
+    "coordinates": {
+      "lat": 31.42417,
+      "lon": 77.57639
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,576 m elevation.",
+      "Covers about 2.5 km².",
+      "Lies in Kullu district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "nurpur-himachal-pradesh-himachal-pradesh",
+    "name": "Nurpur, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Nurpur, Himachal Pradesh is a city in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 32.3,
+      "lon": 75.9
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 643 m elevation.",
+      "Lies in Kangra district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "nurpur-kingdom-nurpur-dhameri-fort-ruined-fort-himachal-pradesh",
+    "name": "[[Nurpur kingdom#Nurpur (Dhameri) Fort|Ruined fort]]",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "[[Nurpur kingdom#Nurpur (Dhameri) Fort|Ruined fort]] is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nurpur, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "palampur-himachal-pradesh-himachal-pradesh",
+    "name": "Palampur, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "hill-station",
+    "description": "Palampur, Himachal Pradesh is a town and hill station in the Kangra Valley in the Indian state of Himachal Pradesh.",
+    "coordinates": {
+      "lat": 32.12,
+      "lon": 76.53
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,472 m elevation.",
+      "Covers about 0.7 km².",
+      "Lies in Kangra district, Himachal Pradesh."
     ]
   },
   {
@@ -1718,6 +3088,27 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1727.",
+      "Recognised as Major Historical and Cultural Site Protected at the National Level.",
+      "Associated with Kagyu.",
+      "Lies in Dêgê, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "panchvaktra-temple-himachal-pradesh",
+    "name": "Panchvaktra Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Panchvaktra Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mandi, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1732,6 +3123,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Set beside Beas River.",
+      "Rises about 76 m.",
+      "Lies in Mandi district, Himachal Pradesh."
     ]
   },
   {
@@ -1743,14 +3139,61 @@
     "coordinates": {
       "lat": 33.08401,
       "lon": 76.40698
-    }
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Chamba district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "paonta-sahib-himachal-pradesh",
+    "name": "Paonta Sahib",
+    "state": "Himachal Pradesh",
+    "category": "wildlife",
+    "description": "Paonta Sahib is a town of Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 30.45,
+      "lon": 77.62
+    },
+    "tags": [
+      "national-park",
+      "fort"
+    ],
+    "facts": [
+      "Set beside Yamuna.",
+      "Stands at about 389 m elevation.",
+      "Covers about 6.2 km².",
+      "Lies in Sirmaur district, Himachal Pradesh."
+    ]
   },
   {
     "id": "parbati-hydroelectric-project-himachal-pradesh",
     "name": "Parbati Hydroelectric Project",
     "state": "Himachal Pradesh",
-    "category": "other",
-    "description": "Parbati Hydroelectric Project is an indian water energy project."
+    "category": "nature",
+    "description": "Parbati Hydroelectric Project is an indian water energy project.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "parvati-river-himachal-pradesh-himachal-pradesh",
+    "name": "Parvati River (Himachal Pradesh)",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Parvati River (Himachal Pradesh) is a river in Asia.",
+    "coordinates": {
+      "lat": 31.8925,
+      "lon": 77.18333
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "parvati-valley-himachal-pradesh",
@@ -1761,7 +3204,25 @@
     "coordinates": {
       "lat": 31.99235,
       "lon": 77.48177
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "phoo-gumpha-himachal-pradesh",
+    "name": "Phoo Gumpha",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Phoo Gumpha is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tabo, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "pin-valley-national-park-himachal-pradesh",
@@ -1775,6 +3236,11 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1987.",
+      "Recognised as Tentative World Heritage Site.",
+      "Part of Cold Desert."
     ]
   },
   {
@@ -1789,6 +3255,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -1800,7 +3269,11 @@
     "coordinates": {
       "lat": 31.97139,
       "lon": 75.94667
-    }
+    },
+    "facts": [
+      "Rises about 133 m.",
+      "Lies in Kangra district, Himachal Pradesh."
+    ]
   },
   {
     "id": "pong-dam-lake-wildlife-sanctuary-himachal-pradesh",
@@ -1815,20 +3288,27 @@
     "tags": [
       "wildlife-sanctuary",
       "lake"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
     ]
   },
   {
     "id": "pooh-india-himachal-pradesh",
     "name": "Pooh, India",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "heritage",
     "description": "Pooh, India is a small town in Kinnaur district, Himachal Pradesh, India.",
     "coordinates": {
       "lat": 31.7667,
       "lon": 78.5833
     },
     "tags": [
-      "hill-station"
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 2,262 m elevation.",
+      "Lies in Kinnaur district, Himachal Pradesh."
     ]
   },
   {
@@ -1843,6 +3323,42 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "raison-himachal-pradesh-himachal-pradesh",
+    "name": "Raison, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "other",
+    "description": "Raison, Himachal Pradesh is a camping ground stopover in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 32.054,
+      "lon": 77.132
+    },
+    "facts": [
+      "Known as a tourism destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "rajgarh-himachal-pradesh-himachal-pradesh",
+    "name": "Rajgarh, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "hill-station",
+    "description": "Rajgarh, Himachal Pradesh is a town in Sirmaur district, Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 30.85,
+      "lon": 77.3
+    },
+    "tags": [
+      "hill-station",
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 1,555 m elevation.",
+      "Lies in Sirmaur district, Himachal Pradesh."
     ]
   },
   {
@@ -1857,6 +3373,44 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "rashtrapati-niwas-himachal-pradesh-q7294995",
+    "name": "Rashtrapati Niwas",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Rashtrapati Niwas is a former residence of the British Viceroy of India in Shimla, Himachal Pradesh.",
+    "coordinates": {
+      "lat": 31.10351,
+      "lon": 77.14116
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Jacobethan style.",
+      "Lies in Shimla District, Himachal Pradesh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Shimla, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "ravi-river-himachal-pradesh",
+    "name": "Ravi River",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Ravi River is a river in India and Pakistan.",
+    "coordinates": {
+      "lat": 30.62111,
+      "lon": 71.82778
+    },
+    "facts": [
+      "Lies in Jammu and Kashmir, Himachal Pradesh."
     ]
   },
   {
@@ -1871,6 +3425,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -1885,6 +3442,10 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site.",
+      "Lies in Sirmaur district, Himachal Pradesh."
     ]
   },
   {
@@ -1899,6 +3460,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
@@ -1913,6 +3477,94 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "rock-inscription-himachal-pradesh",
+    "name": "Rock inscription",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Rock inscription is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khanyara, Himachal Pradesh.",
+      "Lies in Pathiar, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rock-sculptures-depicting-sita-ram-hanuman-etc-himachal-pradesh",
+    "name": "Rock sculptures depicting Sita Ram, Hanuman etc",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Rock sculptures depicting Sita Ram, Hanuman etc is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sarotha in Panjila Pargana of Chamba, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rohtang-pass-himachal-pradesh",
+    "name": "Rohtang Pass",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Rohtang Pass is a mountain pass.",
+    "coordinates": {
+      "lat": 32.37139,
+      "lon": 77.24639
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 3,978 m elevation."
+    ]
+  },
+  {
+    "id": "sangla-india-himachal-pradesh",
+    "name": "Sangla, India",
+    "state": "Himachal Pradesh",
+    "category": "hill-station",
+    "description": "Sangla, India is a town in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.42639,
+      "lon": 78.265
+    },
+    "tags": [
+      "hill-station",
+      "fort"
+    ],
+    "facts": [
+      "Lies in Kinnaur district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "sanjauli-himachal-pradesh",
+    "name": "Sanjauli",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Sanjauli is a locality in Shimla.",
+    "coordinates": {
+      "lat": 31.10333,
+      "lon": 77.17222
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Stands at about 2,310 m elevation.",
+      "Covers about 5 km².",
+      "Lies in Shimla, Himachal Pradesh."
     ]
   },
   {
@@ -1927,6 +3579,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Shimla District, Himachal Pradesh."
     ]
   },
   {
@@ -1941,6 +3596,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -1952,14 +3610,20 @@
     "coordinates": {
       "lat": 31.345,
       "lon": 77.453
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "saurkundi-pass-trek-himachal-pradesh",
     "name": "Saurkundi Pass Trek",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Saurkundi Pass Trek is a hiking trail through the scenic Kullu valley in the state of Himachal Pradesh, India."
+    "description": "Saurkundi Pass Trek is a hiking trail through the scenic Kullu valley in the state of Himachal Pradesh, India.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
   },
   {
     "id": "seruvalsar-lake-himachal-pradesh",
@@ -1973,13 +3637,16 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
     "id": "seven-hills-of-shimla-himachal-pradesh",
     "name": "Seven Hills of Shimla",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Seven Hills of Shimla is a terrain of Shimla, India.",
     "coordinates": {
       "lat": 31.1041,
@@ -1987,6 +3654,9 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Known as a hill-station destination in Himachal Pradesh."
     ]
   },
   {
@@ -1994,13 +3664,30 @@
     "name": "Shali Mata Temple",
     "state": "Himachal Pradesh",
     "category": "spiritual",
-    "description": "Shali Mata Temple is a Hindu Temple in Shimla district, Himachal Pradesh.",
+    "description": "Shali Mata Temple is a hindu Temple in Shimla district, Himachal Pradesh.",
     "coordinates": {
       "lat": 31.19143,
       "lon": 77.27461
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Shimla District, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "shanan-power-house-himachal-pradesh",
+    "name": "Shanan Power House",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Shanan Power House is a situated 2 km from Jogindernagar in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.98936,
+      "lon": 76.80739
+    },
+    "facts": [
+      "Lies in Mandi district, Himachal Pradesh."
     ]
   },
   {
@@ -2011,6 +3698,9 @@
     "description": "Shandilya Rishi Mandir is a temple dedicated to Shandilya Rishi.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -2025,6 +3715,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -2032,13 +3725,16 @@
     "name": "Shikari Devi Temple",
     "state": "Himachal Pradesh",
     "category": "spiritual",
-    "description": "Shikari Devi Temple is a Hindu temple in Mandi district, Himachal Pradesh.",
+    "description": "Shikari Devi Temple is a hindu temple in Mandi district, Himachal Pradesh.",
     "coordinates": {
       "lat": 31.47872,
       "lon": 77.16557
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Mandi district, Himachal Pradesh."
     ]
   },
   {
@@ -2046,20 +3742,64 @@
     "name": "Shiladesh",
     "state": "Himachal Pradesh",
     "category": "nature",
-    "description": "Shiladesh is a valley in Himachal Pradesh, India."
+    "description": "Shiladesh is a valley in Himachal Pradesh, India.",
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "shillai-himachal-pradesh",
+    "name": "Shillai",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Shillai is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 30.66361,
+      "lon": 77.7675
+    },
+    "tags": [
+      "hill-station",
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 1,900 m elevation."
+    ]
   },
   {
     "id": "shimla-himachal-pradesh",
     "name": "Shimla",
     "state": "Himachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Shimla is a capital of Himachal Pradesh, India.",
     "coordinates": {
       "lat": 31.10333,
       "lon": 77.17222
     },
     "tags": [
-      "hill-station"
+      "hill-station",
+      "palace",
+      "temple"
+    ],
+    "facts": [
+      "Part of Shimla District.",
+      "Stands at about 2,205 m elevation.",
+      "Covers about 25 km².",
+      "Lies in Shimla District, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "shiva-temple-himachal-pradesh",
+    "name": "Shiva temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Shiva temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mangarh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2074,6 +3814,26 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "shoghi-shimla-himachal-pradesh",
+    "name": "Shoghi, Shimla",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Shoghi, Shimla is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.04,
+      "lon": 77.12
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Shimla District, Himachal Pradesh."
     ]
   },
   {
@@ -2088,6 +3848,39 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "shri-bajreshwari-temple-badrinath-himachal-pradesh",
+    "name": "Shri Bajreshwari temple, Badrinath",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Shri Bajreshwari temple, Badrinath is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chamba, Himachal Pradesh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shri-bansi-gopal-temple-himachal-pradesh",
+    "name": "Shri Bansi Gopal temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Shri Bansi Gopal temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chamba, Himachal Pradesh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2102,6 +3895,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Kangra district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "shri-chamunda-temple-himachal-pradesh",
+    "name": "Shri Chamunda temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Shri Chamunda temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chamba, Himachal Pradesh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2113,20 +3924,59 @@
     "coordinates": {
       "lat": 31.1012,
       "lon": 77.184
-    }
+    },
+    "facts": [
+      "Dates from 2010.",
+      "Rises about 33 m.",
+      "Lies in Shimla District, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "shri-hari-ram-temple-himachal-pradesh",
+    "name": "Shri Hari Ram temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Shri Hari Ram temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chamba, Himachal Pradesh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shri-laxmi-narian-group-of-temple-in-mohalla-hathnala-himachal-pradesh",
+    "name": "Shri Laxmi Narian group of temple in Mohalla Hathnala",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Shri Laxmi Narian group of temple in Mohalla Hathnala is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chamba, Himachal Pradesh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "shri-mahaveer-hanuman-mandir-khushala-himachal-pradesh",
     "name": "Shri Mahaveer Hanuman Mandir Khushala",
     "state": "Himachal Pradesh",
     "category": "spiritual",
-    "description": "Shri Mahaveer Hanuman Mandir Khushala is a Hindu temple desicated to Lord Hanuman in Shimla, Himachal Pradesh.",
+    "description": "Shri Mahaveer Hanuman Mandir Khushala is a hindu temple desicated to Lord Hanuman in Shimla, Himachal Pradesh.",
     "coordinates": {
       "lat": 31.05256,
       "lon": 77.11456
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Shimla District, Himachal Pradesh."
     ]
   },
   {
@@ -2134,13 +3984,46 @@
     "name": "Shri Raghunath Mandir",
     "state": "Himachal Pradesh",
     "category": "spiritual",
-    "description": "Hindu temple dedicated to Lord Rama in Kullu, Himachal Pradesh.",
+    "description": "Shri Raghunath Mandir is a hindu temple dedicated to Lord Rama in Kullu, Himachal Pradesh.",
     "coordinates": {
       "lat": 31.96099,
       "lon": 77.11383
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "shri-shakti-devi-temple-himachal-pradesh",
+    "name": "Shri Shakti Devi temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Shri Shakti Devi temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chhatrari, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shri-sita-ram-temple-in-mohalla-bangota-himachal-pradesh",
+    "name": "Shri Sita Ram temple in Mohalla Bangota",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Shri Sita Ram temple in Mohalla Bangota is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chamba, Himachal Pradesh, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2155,6 +4038,10 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Associated with Hinduism.",
+      "Lies in Kullu district, Himachal Pradesh."
     ]
   },
   {
@@ -2169,6 +4056,9 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 2010."
     ]
   },
   {
@@ -2183,6 +4073,29 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "solan-himachal-pradesh",
+    "name": "Solan",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Solan is a city in Himachal Pradesh.",
+    "coordinates": {
+      "lat": 30.92,
+      "lon": 77.12
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 1,502 m elevation.",
+      "Covers about 6.18 km².",
+      "Lies in Solan district, Himachal Pradesh."
     ]
   },
   {
@@ -2194,7 +4107,10 @@
     "coordinates": {
       "lat": 32.31513,
       "lon": 77.15537
-    }
+    },
+    "facts": [
+      "Stands at about 2,560 m elevation."
+    ]
   },
   {
     "id": "spiti-himachal-pradesh",
@@ -2205,7 +4121,14 @@
     "coordinates": {
       "lat": 32.24694,
       "lon": 78.05222
-    }
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Set beside Spiti River.",
+      "Lies in Tibet under Qing administrative rule, Himachal Pradesh."
+    ]
   },
   {
     "id": "st-john-in-the-wilderness-church-dharamshala-himachal-pradesh",
@@ -2219,6 +4142,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Kangra district, Himachal Pradesh."
     ]
   },
   {
@@ -2233,10 +4159,43 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Himachal Pradesh."
     ]
   },
   {
-    "id": "tabo-monastery-himachal-pradesh",
+    "id": "surya-narayana-temple-himachal-pradesh",
+    "name": "Surya Narayana Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Surya Narayana Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shimla, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "swarghat-himachal-pradesh",
+    "name": "Swarghat",
+    "state": "Himachal Pradesh",
+    "category": "nature",
+    "description": "Swarghat is a stopover in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.33,
+      "lon": 76.75
+    },
+    "facts": [
+      "Stands at about 1,220 m elevation.",
+      "Lies in Bilaspur district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "tabo-monastery-himachal-pradesh-q1112486",
     "name": "Tabo Monastery",
     "state": "Himachal Pradesh",
     "category": "spiritual",
@@ -2248,6 +4207,14 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Dates from 996.",
+      "Recognised as Monument of National Importance.",
+      "Associated with Kadam.",
+      "Lies in Lahaul and Spiti district, Himachal Pradesh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Tabo, Himachal Pradesh."
     ]
   },
   {
@@ -2255,13 +4222,16 @@
     "name": "Talra Wildlife Sanctuary",
     "state": "Himachal Pradesh",
     "category": "wildlife",
-    "description": "Talra Wildlife Sanctuary is an is an eco-sensitive zone, notified by the Ministry of Environment, Forest and Climate Change (MOEFCC).",
+    "description": "Is an eco-sensitive zone, notified by the Ministry of Environment, Forest and Climate Change (MOEFCC).",
     "coordinates": {
       "lat": 31.017,
       "lon": 77.779
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
     ]
   },
   {
@@ -2276,6 +4246,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
     ]
   },
   {
@@ -2290,6 +4263,26 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "taragarh-palace-himachal-pradesh",
+    "name": "Taragarh Palace",
+    "state": "Himachal Pradesh",
+    "category": "heritage",
+    "description": "Taragarh Palace is a palace and Hotel in Palampur.",
+    "coordinates": {
+      "lat": 32.06384,
+      "lon": 76.61761
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Himachal Pradesh."
     ]
   },
   {
@@ -2304,6 +4297,85 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Lahaul and Spiti district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "temple-of-baijnath-himachal-pradesh",
+    "name": "Temple of Baijnath",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Temple of Baijnath is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Baijnath, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-basheshar-mahadev-at-hat-himachal-pradesh",
+    "name": "Temple of Basheshar Mahadev at Hat",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Temple of Basheshar Mahadev at Hat is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bajaura, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-gauri-shankar-with-sculptures-himachal-pradesh",
+    "name": "Temple of Gauri Shankar with sculptures",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Temple of Gauri Shankar with sculptures is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dashal, Himachal Pradesh.",
+      "Lies in Naggar, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-sidhnath-himachal-pradesh",
+    "name": "Temple of Sidhnath",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Temple of Sidhnath is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Baijnath, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "thaneek-pura-himachal-pradesh",
+    "name": "Thaneek Pura",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Thaneek Pura is a village in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.8167,
+      "lon": 76.1333
+    },
+    "facts": [
+      "Stands at about 950 m elevation.",
+      "Lies in Una district, Himachal Pradesh."
     ]
   },
   {
@@ -2318,6 +4390,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 5 October 1999.",
+      "Lies in Dharamshala, Himachal Pradesh."
     ]
   },
   {
@@ -2332,18 +4408,52 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Himachal Pradesh."
     ]
   },
   {
-    "id": "tons-river-himachal-pradesh",
-    "name": "Tons River",
+    "id": "tosh-himachal-pradesh-himachal-pradesh",
+    "name": "Tosh, Himachal Pradesh",
     "state": "Himachal Pradesh",
-    "category": "nature",
-    "description": "Tons River is a river in India.",
+    "category": "offbeat",
+    "description": "Tosh, Himachal Pradesh is a village in Himachal Pradesh, India.",
     "coordinates": {
-      "lat": 30.49694,
-      "lon": 77.80167
-    }
+      "lat": 32.01446,
+      "lon": 77.45364
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Kullu district, Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "tourism-in-himachal-pradesh-himachal-pradesh",
+    "name": "Tourism in Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "category": "other",
+    "description": "Tourism in Himachal Pradesh is a tourism in the Indian state of Himachal Pradesh.",
+    "facts": [
+      "Known as a tourism destination in Himachal Pradesh."
+    ]
+  },
+  {
+    "id": "trilokinath-temple-himachal-pradesh",
+    "name": "Trilokinath Temple",
+    "state": "Himachal Pradesh",
+    "category": "spiritual",
+    "description": "Trilokinath Temple is a protected monument in Himachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mandi, Himachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "trilokinath-temple-mandi-himachal-pradesh",
@@ -2357,6 +4467,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -2371,6 +4484,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Nahan, Himachal Pradesh."
     ]
   },
   {
@@ -2386,6 +4502,9 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   },
   {
@@ -2396,6 +4515,9 @@
     "description": "Vajreshvari Devi is a hindu goddess and one of the 51 Shakti Peethas.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Himachal Pradesh."
     ]
   }
 ]

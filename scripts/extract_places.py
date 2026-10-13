@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Extract Indian tourism places from Wikipedia categories and Wikidata.
 
-Discovery uses the English Wikipedia category graph (tourist attractions,
-heritage, nature, wildlife, pilgrimage, and related collections for every
-state and union territory). Names, coordinates, and short descriptions come
-from Wikidata, which is CC0. Wikipedia article prose is not copied.
+Discovery uses the English Wikipedia category graph and the places linked
+from tourism list pages (attractions, forts, temples, parks, beaches,
+wildlife, monuments, and lesser-known collections in every state and union
+territory). Names, coordinates, descriptions, and short facts come from
+Wikidata claims, which are CC0. Wikipedia article prose is not copied.
 
 Regenerate the catalog with:
 
@@ -14,6 +15,7 @@ Regenerate the catalog with:
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 import unicodedata
@@ -25,6 +27,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data" / "places"
 SAMPLE_PATH = DATA_DIR / "sample.json"
+CRAWL_CACHE = Path("/tmp/indian-places-pages.json")
 
 USER_AGENT = (
     "IndianPlacesBot/1.0 "
@@ -197,10 +200,26 @@ SEEDS = [
     "Category:Stupas in India",
     "Category:Islands of Lakshadweep",
     "Category:Tourist attractions in Chandigarh",
+    "Category:Lists of tourist attractions in India",
+    "Category:Lists of tourist attractions in India by state or union territory",
+    "Category:Tourism in India by state or union territory",
+    "Category:Stepwells in India",
+    "Category:Hot springs of India",
+    "Category:Hill stations in India",
 ]
 
+LIST_CATEGORY_KEEP = re.compile(
+    r"tourist|attraction|fort|temple|beach|waterfall|lake|cave|palace|museum|"
+    r"monument|park|sanctuary|heritage|hill station|pilgrimage|mosque|church|"
+    r"monastery|gurdwara|gurudwara|island|wildlife|dam|garden|zoo|lighthouse|"
+    r"stepwell|hot spring|protected|statue|rock|clock tower|science centre|"
+    r"botanical|aquarium|aquaria|valley|national importance|state protected|"
+    r"palace|memorial|waterfall|trek",
+    re.I,
+)
+
 SKIP_RE = re.compile(
-    r"(lists of|list of|festivals?\b|defunct|\bpeople\b|births\b|deaths\b|"
+    r"(festivals?\b|defunct|\bpeople\b|births\b|deaths\b|"
     r"establishments?\b|\d+(?:st|nd|rd|th)-century|wikipedia|templates?\b|"
     r"\bimages?\b|photographs?|\bfilms?\b|\balbums?\b|\bsongs?\b|cuisine|"
     r"railway stations|airports?\b|schools?\b|hospitals?\b|companies|"
@@ -213,7 +232,18 @@ NON_PLACE_RE = re.compile(
     r"(human|film|television|album|song|literary work|disambiguation|"
     r"wikimedia list|wikimedia category|newspaper|business|company|"
     r"political party|election|cricket|footballer|writer|politician|"
-    r"academic journal|railway station|airport|school|hospital)",
+    r"academic journal|railway station|airport|school|hospital|"
+    r"broadcaster|dance|music genre|festival|census|dialect|language|"
+    r"decoration|software|agency|corporation|magazine|airline|bank|"
+    r"organisation|organization|website|brand|genre)",
+    re.I,
+)
+PLACE_RE = re.compile(
+    r"(temple|fort|palace|park|beach|lake|museum|monument|waterfall|cave|"
+    r"sanctuary|church|mosque|monastery|gurdwara|garden|zoo|island|hill|"
+    r"valley|river|dam|reservoir|ghat|tomb|memorial|shrine|basilica|"
+    r"cathedral|stepwell|spring|peak|mountain|forest|wildlife|attraction|"
+    r"village|city|town|waterfall|falls|national park)",
     re.I,
 )
 
@@ -251,7 +281,11 @@ SEED_RECORDS = [
             "River, known for wooden houses and mountain views."
         ),
         "coordinates": {"lat": 31.3504, "lon": 78.4812},
-        "tags": ["hidden-gem", "village", "baspa-valley"],
+        "tags": ["hidden-gem", "village", "baspa-valley", "lesser-known"],
+        "facts": [
+            "It is the last inhabited village on the Baspa River before the Indo-Tibet border.",
+            "Wooden houses and open mountain views are the draw in the valley.",
+        ],
     },
     {
         "id": "chettinad-tamil-nadu",
@@ -264,6 +298,10 @@ SEED_RECORDS = [
         ),
         "coordinates": {"lat": 10.1632, "lon": 78.8103},
         "tags": ["architecture", "food", "lesser-known"],
+        "facts": [
+            "The mansions are known for Athangudi tiles and imported teak.",
+            "Chettinad cuisine is a distinct part of the region's identity.",
+        ],
     },
 ]
 
@@ -290,7 +328,67 @@ def cat_name(title: str) -> str:
 
 
 def should_skip_category(title: str) -> bool:
-    return bool(SKIP_RE.search(cat_name(title)))
+    name = cat_name(title)
+    if re.search(r"\b(hotels?|airports?|airlines?|highways?|corporations?)\b", name, re.I):
+        return True
+    if re.search(r"\blists? of\b", name, re.I):
+        if re.search(r"festival", name, re.I):
+            return True
+        return LIST_CATEGORY_KEEP.search(name) is None
+    return bool(SKIP_RE.search(name))
+
+
+def is_list_title(title: str) -> bool:
+    return title.startswith(("List ", "Lists ", "Index ", "Outline "))
+
+
+def mentions_india(title: str) -> bool:
+    if re.search(r"Indian Ocean|British Indian Ocean|West Indies|East Indies", title):
+        return False
+    if re.search(r"\bIndia\b", title):
+        return True
+    if re.search(r"\bIndian\b", title):
+        return True
+    return state_from_text(title) is not None
+
+
+def inherited_list_state(title: str, inherited: str | None) -> str | None:
+    """National lists must not stamp every linked place with a parent state."""
+    named = state_from_text(title)
+    if named:
+        return named
+    if re.search(r"\bIndia\b", title):
+        return None
+    return inherited
+
+
+def should_expand_list(title: str) -> bool:
+    if not is_list_title(title):
+        return False
+    if not mentions_india(title):
+        return False
+    if re.search(
+        r"festival|chief minister|governor|election|film|song|book|highway|"
+        r"airport|hotel|college|university|school|bird( species)? in",
+        title,
+        re.I,
+    ):
+        return False
+    return LIST_CATEGORY_KEEP.search(title) is not None or "tourist" in title.lower()
+
+
+def boring_link(title: str) -> bool:
+    if title in STATES or title in {"India", "Indian people"}:
+        return True
+    if re.fullmatch(r"\d{3,4}", title):
+        return True
+    if re.search(
+        r"(language|people|Empire|dynasty|Development Corporation|Department of|"
+        r"Ministry of|Standard Time)$",
+        title,
+    ):
+        return True
+    return title.startswith(("Portal:", "Wikipedia:", "File:", "Template:"))
 
 
 def is_place_collection(title: str) -> bool:
@@ -364,17 +462,101 @@ def category_members(title: str) -> list[dict]:
         time.sleep(0.02)
 
 
-def crawl() -> dict[str, dict]:
+def clean_wiki(text: str) -> str:
+    text = re.sub(r"<ref[^>]*>.*?</ref>", " ", text, flags=re.I | re.S)
+    text = re.sub(r"<ref[^>]*/>", " ", text, flags=re.I)
+    text = re.sub(r"\[\[([^\]|#]+)\|([^\]]+)\]\]", r"\2", text)
+    text = re.sub(r"\[\[([^\]|#]+)\]\]", r"\1", text)
+    text = re.sub(r"\{\{[^{}]*\}\}", " ", text)
+    text = re.sub(r"''+", "", text)
+    return " ".join(text.replace("_", " ").split()).strip(" .")
+
+
+def list_page_places(title: str) -> tuple[list[str], list[dict]]:
+    """Bullet and table links, plus unlinked monument names from ASI list rows."""
+    data = api_get(
+        "https://en.wikipedia.org/w/api.php",
+        {
+            "action": "parse",
+            "page": title,
+            "prop": "wikitext",
+            "redirects": "1",
+            "maxlag": "5",
+        },
+    )
+    wikitext = data.get("parse", {}).get("wikitext", {}).get("*", "")
+    if not wikitext:
+        return [], []
+    links: list[str] = []
+    for line in wikitext.splitlines():
+        if re.match(r"\s*\|\s*[A-Za-z][\w ]*\s*=", line):
+            continue
+        if not re.match(r"\s*[*#|]", line):
+            continue
+        for match in re.finditer(r"\[\[([^\]|#]+)", line):
+            link = match.group(1).replace("_", " ").strip()
+            if not link or ":" in link:
+                continue
+            if link[0].islower():
+                link = link[0].upper() + link[1:]
+            links.append(link)
+    plains: list[dict] = []
+    for block in re.findall(r"\{\{ASI Monument row\b(.*?)\n\}\}", wikitext, flags=re.S):
+        description = re.search(r"\|\s*description\s*=\s*(.*)", block)
+        location = re.search(r"\|\s*location\s*=\s*(.*)", block)
+        if not description:
+            continue
+        name = clean_wiki(description.group(1))
+        where = clean_wiki(location.group(1)) if location else ""
+        if 3 <= len(name) <= 140:
+            plains.append({"name": name, "location": where})
+    return links, plains
+
+
+def crawl() -> tuple[dict[str, dict], list[dict]]:
+    if CRAWL_CACHE.is_file() and os.environ.get("PLACES_USE_CACHE") == "1":
+        raw = json.loads(CRAWL_CACHE.read_text(encoding="utf-8"))
+        pages = {
+            title: {"states": set(meta["states"]), "cats": set(meta["cats"])}
+            for title, meta in raw.items()
+        }
+        print(f"Loaded {len(pages)} cached pages", flush=True)
+        return pages, []
     pages: dict[str, dict] = {}
+    synthetics: list[dict] = []
     seen: set[str] = set()
+    expanded_lists: set[str] = set()
+    list_queue: list[tuple[str, str | None]] = []
 
     def add_page(title: str, state: str | None, via: str) -> None:
-        if not acceptable_page(title):
+        if is_list_title(title):
+            if should_expand_list(title):
+                list_queue.append((title, inherited_list_state(title, state)))
+            return
+        if not acceptable_page(title) or boring_link(title):
             return
         slot = pages.setdefault(title, {"states": set(), "cats": set()})
         if state:
             slot["states"].add(state)
         slot["cats"].add(via)
+
+    def drain_lists() -> None:
+        while list_queue:
+            title, state = list_queue.pop()
+            if title in expanded_lists:
+                continue
+            expanded_lists.add(title)
+            if len(expanded_lists) > 800:
+                print("  list expansion cap reached", flush=True)
+                list_queue.clear()
+                return
+            print(f"  list {title}", flush=True)
+            links, plains = list_page_places(title)
+            for link in links:
+                add_page(link, state_from_text(link) or state, title)
+            if state:
+                for plain in plains:
+                    synthetics.append({**plain, "state": state, "via": title})
 
     def walk(title: str, state: str | None, depth: int) -> None:
         if title in seen or depth > 8:
@@ -391,6 +573,7 @@ def crawl() -> dict[str, dict]:
                     walk(member["title"], inferred, depth + 1)
                 elif member["ns"] == 0:
                     add_page(member["title"], inferred, title)
+            drain_lists()
             return
         article = cat_name(title)
         if ":" not in article:
@@ -399,8 +582,21 @@ def crawl() -> dict[str, dict]:
     for seed in SEEDS:
         print(f"Seed {seed}", flush=True)
         walk(seed, None, 0)
-    print(f"Crawl done: {len(seen)} categories, {len(pages)} pages", flush=True)
-    return pages
+        drain_lists()
+    print(
+        f"Crawl done: {len(seen)} categories, {len(expanded_lists)} lists, {len(pages)} pages",
+        flush=True,
+    )
+    CRAWL_CACHE.write_text(
+        json.dumps(
+            {
+                title: {"states": sorted(meta["states"]), "cats": sorted(meta["cats"])}
+                for title, meta in pages.items()
+            }
+        ),
+        encoding="utf-8",
+    )
+    return pages, synthetics
 
 
 def chunked(items: list[str], size: int) -> list[list[str]]:
@@ -569,7 +765,28 @@ LIST_NAME_RE = re.compile(
 def is_tourism_record(name: str, description: str) -> bool:
     if name in STATES:
         return False
+    if re.match(r"^All (ancient|mounds|structures|buildings)\b", name, re.I):
+        return False
+    if re.search(r"\bstadium\b", name, re.I) and not re.search(
+        r"tomb|fort|temple|mosque|gurdwara", name, re.I
+    ):
+        return False
     if LIST_NAME_RE.search(name):
+        return False
+    if re.search(
+        r"\b(district|tehsil|taluk|municipal corporation|police|expressway|"
+        r"highway|road network|railway zone|department)\b",
+        name,
+        re.I,
+    ):
+        return False
+    if re.search(
+        r"\bis an? (municipal|police|government|civic|highway|state government|"
+        r"census|election|elections|dialect|language|agency|decoration|company|"
+        r"software|concept)\b",
+        description,
+        re.I,
+    ):
         return False
     text = f"{name} {description}"
     if NON_TOURISM_RE.search(text) and not TOURISM_HINT_RE.search(name):
@@ -722,35 +939,44 @@ def iso_state(region: str | None) -> str | None:
     return ISO_REGION.get(code)
 
 
+def wikidata_state(entity: dict | None, entities: dict[str, dict]) -> str | None:
+    if not entity:
+        return None
+    seen: set[str] = set()
+    frontier = [value["id"] for value in claim_values(entity, "P131") if "id" in value]
+    for _ in range(6):
+        next_frontier: list[str] = []
+        for qid in frontier:
+            if qid in seen:
+                continue
+            seen.add(qid)
+            if qid in STATE_QIDS:
+                return STATE_QIDS[qid]
+            parent = entities.get(qid)
+            if not parent:
+                continue
+            for value in claim_values(parent, "P131"):
+                parent_id = value.get("id")
+                if parent_id:
+                    next_frontier.append(parent_id)
+        frontier = next_frontier
+        if not frontier:
+            break
+    return None
+
+
 def resolve_states(
     page_states: set[str],
     entity: dict | None,
     entities: dict[str, dict],
     wiki_coord: dict | None,
 ) -> str | None:
+    # Wikidata's administrative chain wins when a list page stamped the wrong state.
+    located = wikidata_state(entity, entities)
+    if located:
+        return located
     if len(page_states) == 1:
         return next(iter(page_states))
-    if entity:
-        seen: set[str] = set()
-        frontier = [value["id"] for value in claim_values(entity, "P131") if "id" in value]
-        for _ in range(6):
-            next_frontier: list[str] = []
-            for qid in frontier:
-                if qid in seen:
-                    continue
-                seen.add(qid)
-                if qid in STATE_QIDS:
-                    return STATE_QIDS[qid]
-                parent = entities.get(qid)
-                if not parent:
-                    continue
-                for value in claim_values(parent, "P131"):
-                    parent_id = value.get("id")
-                    if parent_id:
-                        next_frontier.append(parent_id)
-            frontier = next_frontier
-            if not frontier:
-                break
     if len(page_states) > 1:
         return sorted(page_states)[0]
     if wiki_coord:
@@ -761,10 +987,219 @@ def resolve_states(
 def is_non_place(type_labels: list[str]) -> bool:
     if not type_labels:
         return False
-    return all(NON_PLACE_RE.search(label) for label in type_labels)
+    if any(PLACE_RE.search(label) for label in type_labels):
+        return False
+    return any(NON_PLACE_RE.search(label) for label in type_labels)
 
 
-def build_records(pages: dict[str, dict]) -> list[dict]:
+MONTHS = (
+    "",
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+)
+
+UNITS = {
+    "Q11573": "m",
+    "Q828224": "km",
+    "Q25343": "m²",
+    "Q712226": "km²",
+    "Q35852": "ha",
+    "Q174728": "cm",
+}
+
+FACT_ENTITY_PROPS = (
+    "P1435",
+    "P149",
+    "P84",
+    "P112",
+    "P170",
+    "P206",
+    "P706",
+    "P825",
+    "P140",
+    "P361",
+    "P138",
+    "P127",
+)
+
+
+def ordinal(number: int) -> str:
+    if 10 <= number % 100 <= 20:
+        suffix = "th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(number % 10, "th")
+    return f"{number}{suffix}"
+
+
+def format_time(value: dict) -> str | None:
+    raw = str(value.get("time") or "")
+    match = re.match(r"^[+-]0*(\d+)-(\d{2})-(\d{2})", raw)
+    if not match:
+        return None
+    year, month, day = int(match.group(1)), int(match.group(2)), int(match.group(3))
+    if year < 1 or year > 2100:
+        return None
+    precision = int(value.get("precision") or 9)
+    if precision >= 11 and month and day:
+        return f"{day} {MONTHS[month]} {year}"
+    if precision == 10 and 1 <= month <= 12:
+        return f"{MONTHS[month]} {year}"
+    if precision <= 7:
+        century = (year - 1) // 100 + 1
+        return f"the {ordinal(century)} century"
+    if precision == 8:
+        return f"the {year}s"
+    return str(year)
+
+
+def format_quantity(value: dict) -> str | None:
+    try:
+        amount = float(value["amount"])
+    except (KeyError, TypeError, ValueError):
+        return None
+    unit = str(value.get("unit") or "").rsplit("/", 1)[-1]
+    if unit == "Q25343" and abs(amount) >= 1_000_000:
+        amount = amount / 1_000_000
+        unit = "Q712226"
+    if unit not in UNITS:
+        return None
+    label = UNITS[unit]
+    if abs(amount) >= 100:
+        text = f"{amount:,.0f}"
+    elif abs(amount) >= 10:
+        text = f"{amount:.1f}".rstrip("0").rstrip(".")
+    else:
+        text = f"{amount:.2f}".rstrip("0").rstrip(".")
+    return f"{text} {label}".strip()
+
+
+def entity_qid_label(qid: str | None, entities: dict[str, dict]) -> str | None:
+    if not qid:
+        return None
+    entity = entities.get(qid)
+    if not entity:
+        return None
+    label = entity_label(entity).strip()
+    return label or None
+
+
+def add_fact(facts: list[str], description: str, text: str) -> None:
+    cleaned = " ".join(text.split()).strip()
+    if not cleaned.endswith("."):
+        cleaned += "."
+    if len(cleaned) < 10 or len(cleaned) > 240:
+        return
+    if cleaned in facts:
+        return
+    if cleaned.lower().strip(".") in description.lower():
+        return
+    facts.append(cleaned)
+
+
+def build_facts(
+    name: str,
+    state: str,
+    category: str,
+    description: str,
+    entity: dict | None,
+    entities: dict[str, dict],
+) -> list[str]:
+    facts: list[str] = []
+    if entity:
+        opened = claim_values(entity, "P571")
+        if opened:
+            when = format_time(opened[0]) if isinstance(opened[0], dict) else None
+            if when:
+                add_fact(facts, description, f"Dates from {when}")
+        official = claim_values(entity, "P1619")
+        if official:
+            when = format_time(official[0]) if isinstance(official[0], dict) else None
+            if when and f"Dates from {when}." not in facts:
+                add_fact(facts, description, f"Opened in {when}")
+        for value in claim_values(entity, "P1435")[:2]:
+            label = entity_qid_label(value.get("id") if isinstance(value, dict) else None, entities)
+            if label:
+                add_fact(facts, description, f"Recognised as {label}")
+        for value in claim_values(entity, "P149")[:1]:
+            label = entity_qid_label(value.get("id") if isinstance(value, dict) else None, entities)
+            if label and "of india" not in label.lower() and label.lower() not in {
+                "architecture",
+                "architectural style",
+            }:
+                add_fact(facts, description, f"Built in the {label} style")
+        for prop, template in (
+            ("P84", "Architect: {label}"),
+            ("P112", "Founded by {label}"),
+            ("P170", "Created by {label}"),
+            ("P825", "Dedicated to {label}"),
+            ("P140", "Associated with {label}"),
+            ("P138", "Named after {label}"),
+            ("P206", "Set beside {label}"),
+            ("P706", "Set on {label}"),
+            ("P361", "Part of {label}"),
+        ):
+            for value in claim_values(entity, prop)[:1]:
+                label = entity_qid_label(value.get("id") if isinstance(value, dict) else None, entities)
+                if label and label not in {name, state, "India"}:
+                    add_fact(facts, description, template.format(label=label))
+        for value in claim_values(entity, "P127")[:1]:
+            label = entity_qid_label(value.get("id") if isinstance(value, dict) else None, entities)
+            if label and label not in {name, state, "India", "Government of India"}:
+                add_fact(facts, description, f"Maintained under {label}")
+        elevation = claim_values(entity, "P2044")
+        if elevation and isinstance(elevation[0], dict):
+            amount = format_quantity(elevation[0])
+            if amount:
+                add_fact(facts, description, f"Stands at about {amount} elevation")
+        area = claim_values(entity, "P2046")
+        if area and isinstance(area[0], dict):
+            amount = format_quantity(area[0])
+            if amount:
+                add_fact(facts, description, f"Covers about {amount}")
+        height = claim_values(entity, "P2048")
+        if height and isinstance(height[0], dict):
+            amount = format_quantity(height[0])
+            if amount:
+                add_fact(facts, description, f"Rises about {amount}")
+        visitors = claim_values(entity, "P1174")
+        if visitors and isinstance(visitors[0], dict):
+            try:
+                visits = float(visitors[0]["amount"])
+            except (KeyError, TypeError, ValueError):
+                visits = None
+            if visits and visits > 0:
+                add_fact(facts, description, f"About {visits:,.0f} visits in a recorded year")
+        for value in claim_values(entity, "P131"):
+            label = entity_qid_label(value.get("id") if isinstance(value, dict) else None, entities)
+            if label and label not in {state, "India", name}:
+                add_fact(facts, description, f"Lies in {label}, {state}")
+                break
+    if not facts:
+        pretty = {
+            "heritage": "heritage",
+            "nature": "nature",
+            "spiritual": "spiritual",
+            "beach": "beach",
+            "hill-station": "hill-station",
+            "wildlife": "wildlife",
+            "offbeat": "offbeat",
+            "other": "tourism",
+        }[category]
+        add_fact(facts, description, f"Known as a {pretty} destination in {state}")
+    return facts[:6]
+
+
+def build_records(pages: dict[str, dict], synthetics: list[dict] | None = None) -> list[dict]:
     print(f"Fetching Wikipedia metadata for {len(pages)} pages", flush=True)
     wiki = fetch_wikipedia(list(pages))
     qids = [item["qid"] for item in wiki.values() if item.get("qid")]
@@ -805,6 +1240,19 @@ def build_records(pages: dict[str, dict]) -> list[dict]:
         print(f"Fetching {len(missing_types)} type labels", flush=True)
         entities.update(fetch_entities(missing_types))
 
+    fact_ids: list[str] = []
+    place_entities = [entities[qid] for qid in dict.fromkeys(qids) if qid in entities]
+    for entity in place_entities:
+        for prop in (*FACT_ENTITY_PROPS, "P131"):
+            for value in claim_values(entity, prop):
+                fact_qid = value.get("id") if isinstance(value, dict) else None
+                if fact_qid and fact_qid not in entities:
+                    fact_ids.append(fact_qid)
+    fact_ids = list(dict.fromkeys(fact_ids))
+    if fact_ids:
+        print(f"Fetching {len(fact_ids)} fact labels", flush=True)
+        entities.update(fetch_entities(fact_ids))
+
     used_ids: set[str] = set()
     by_key: dict[tuple[str, str], dict] = {}
 
@@ -814,14 +1262,60 @@ def build_records(pages: dict[str, dict]) -> list[dict]:
         if current is None:
             by_key[key] = record
             return
-        current_score = (1 if "coordinates" in current else 0, len(current["description"]))
-        new_score = (1 if "coordinates" in record else 0, len(record["description"]))
-        if new_score > current_score:
-            by_key[key] = record
+        current_score = (
+            1 if "coordinates" in current else 0,
+            len(current.get("facts") or []),
+            len(current["description"]),
+        )
+        new_score = (
+            1 if "coordinates" in record else 0,
+            len(record.get("facts") or []),
+            len(record["description"]),
+        )
+        winner, loser = (record, current) if new_score > current_score else (current, record)
+        merged = dict(winner)
+        facts: list[str] = []
+        for fact in (winner.get("facts") or []) + (loser.get("facts") or []):
+            if fact not in facts:
+                facts.append(fact)
+        if facts:
+            merged["facts"] = facts[:6]
+        if "coordinates" not in merged and "coordinates" in loser:
+            merged["coordinates"] = loser["coordinates"]
+        if loser["id"] in SEED_IDS:
+            merged["id"] = loser["id"]
+            merged["description"] = loser["description"]
+            merged["category"] = loser["category"]
+            if loser.get("tags"):
+                merged["tags"] = loser["tags"]
+        by_key[key] = merged
 
     for seed in SEED_RECORDS:
         remember(seed)
         used_ids.add(seed["id"])
+
+    for plain in synthetics or []:
+        name = plain["name"]
+        state = plain["state"]
+        if not is_tourism_record(name, name) or boring_link(name):
+            continue
+        location = plain.get("location") or ""
+        description = f"{name} is a protected monument in {state}, India."
+        facts = ["Recognised as a State Protected Monument."]
+        if location and location.lower() not in {name.lower(), state.lower()}:
+            fact = f"Lies in {location}, {state}."
+            if 10 <= len(fact) <= 240:
+                facts.append(fact)
+        record = {
+            "id": unique_id(name, state, None, used_ids),
+            "name": name,
+            "state": state,
+            "category": assign_category(name, description, [], [plain.get("via", "")]),
+            "description": description,
+            "facts": facts,
+            "tags": ["lesser-known", "state-protected"],
+        }
+        remember(record)
 
     for original, meta in pages.items():
         info = wiki.get(original)
@@ -877,8 +1371,14 @@ def build_records(pages: dict[str, dict]) -> list[dict]:
         if coordinates:
             record["coordinates"] = coordinates
         tags = assign_tags(blob)
+        source = " ".join(meta["cats"])
+        if re.search(r"hidden|offbeat", source, re.I) and "hidden-gem" not in tags:
+            tags.append("hidden-gem")
+        if re.search(r"lesser|state protected|little-known", source, re.I) and "lesser-known" not in tags:
+            tags.append("lesser-known")
         if tags:
-            record["tags"] = tags
+            record["tags"] = tags[:8]
+        record["facts"] = build_facts(name, state, record["category"], description, entity, entities)
         remember(record)
 
     records = list(by_key.values())
@@ -937,12 +1437,18 @@ def write_records(records: list[dict]) -> None:
     for path in DATA_DIR.glob("*.json"):
         if path.name not in written:
             path.unlink()
-    print(f"Wrote {len(records)} places across {len(written)} files", flush=True)
+    with_facts = sum(1 for record in records if record.get("facts"))
+    print(
+        f"Wrote {len(records)} places across {len(written)} files "
+        f"({with_facts} with facts).",
+        flush=True,
+    )
 
 
 def main() -> int:
-    pages = crawl()
-    records = build_records(pages)
+    pages, synthetics = crawl()
+    print(f"Unlinked list rows: {len(synthetics)}", flush=True)
+    records = build_records(pages, synthetics)
     write_records(records)
     return 0
 

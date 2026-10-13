@@ -7,6 +7,9 @@
     "description": "48 kos parikrama is a hindu pilgrimage.",
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -18,7 +21,10 @@
     "coordinates": {
       "lat": 29.91667,
       "lon": 76.85
-    }
+    },
+    "facts": [
+      "Lies in Kurukshetra district, Haryana."
+    ]
   },
   {
     "id": "abubshahar-wildlife-sanctuary-haryana",
@@ -31,7 +37,39 @@
       "lon": 74.6172
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "adhaun-kos-minar-haryana",
+    "name": "Adhaun Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Adhaun Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Adhaun, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "administrative-divisions-of-haryana-haryana",
+    "name": "Administrative divisions of Haryana",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Administrative divisions of Haryana is a regional divisions in Harayana.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -46,10 +84,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Hisar district, Haryana."
     ]
   },
   {
-    "id": "agroha-mound-haryana",
+    "id": "agroha-mound-haryana-q4694244",
     "name": "Agroha Mound",
     "state": "Haryana",
     "category": "heritage",
@@ -61,6 +102,120 @@
     "tags": [
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Hisar district, Haryana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Agroha city, Haryana."
+    ]
+  },
+  {
+    "id": "akbarpur-barota-mughal-kos-minar-haryana",
+    "name": "Akbarpur Barota Mughal Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Akbarpur Barota Mughal Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Akbarpur Barota, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "alapur-kos-minar-no-18-haryana",
+    "name": "Alapur Kos Minar No. 18",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Alapur Kos Minar No. 18 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Alapur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ambala-haryana",
+    "name": "Ambala",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Ambala, is a city and a municipal corporation in Ambala district in the state of Haryana, India,.",
+    "coordinates": {
+      "lat": 30.37861,
+      "lon": 76.7725
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Stands at about 264 m elevation.",
+      "Lies in Ambala district, Haryana."
+    ]
+  },
+  {
+    "id": "ambala-kos-minar-haryana",
+    "name": "Ambala Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Ambala Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ambala city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "amin-ancient-mound-haryana",
+    "name": "Amin Ancient Mound",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Amin Ancient Mound is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Abhimanyupur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "amin-kos-minar-haryana",
+    "name": "Amin Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Amin Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Abhimanyupur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "anagpur-dam-haryana",
+    "name": "Anagpur Dam",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Anagpur Dam is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Surajkund, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -72,7 +227,11 @@
     "coordinates": {
       "lat": 28.4731,
       "lon": 77.27618
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Faridabad district, Haryana."
+    ]
   },
   {
     "id": "anangpur-haryana",
@@ -86,6 +245,85 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Haryana."
+    ]
+  },
+  {
+    "id": "ancient-brick-temple-including-prachin-shivalaya-haryana",
+    "name": "Ancient Brick Temple including Prachin Shivalaya",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "Ancient Brick Temple including Prachin Shivalaya is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Marvana, Kalayat, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-bhirrana-haryana",
+    "name": "Ancient Mound (Bhirrana)",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Ancient Mound (Bhirrana) is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhirrana village, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-kunal-haryana",
+    "name": "Ancient Mound (Kunal)",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Ancient Mound (Kunal) is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kunal village, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-shiva-temple-haryana",
+    "name": "Ancient Shiva Temple",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "Ancient Shiva Temple is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thanesar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-site-haryana",
+    "name": "Ancient site",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Ancient site is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Banawali (Sjotar), Haryana.",
+      "Lies in Khokra Kot, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -97,14 +335,70 @@
     "coordinates": {
       "lat": 28.46026,
       "lon": 77.07206
-    }
+    },
+    "facts": [
+      "Dates from 2014.",
+      "Opened in April 2014."
+    ]
+  },
+  {
+    "id": "archaeological-sites-and-remains-haryana",
+    "name": "Archaeological sites and Remains",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Archaeological sites and Remains is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Adi Badri, Haryana, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "ashoka-lat-of-feroz-shah-haryana",
     "name": "Ashoka Lat of Feroz Shah",
     "state": "Haryana",
-    "category": "other",
-    "description": "Ashoka Lat of Feroz Shah is a pillar in Fatehabad, Haryana, India."
+    "category": "heritage",
+    "description": "Ashoka Lat of Feroz Shah is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehabad city, Haryana.",
+      "Known as a heritage destination in Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "asian-green-bee-eater-haryana",
+    "name": "Asian green bee-eater",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Asian green bee-eater is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "asigarh-fort-char-qutub-dargah-char-qutub-dargah-haryana",
+    "name": "[[Asigarh Fort#Char Qutub Dargah|Char Qutub Dargah]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Asigarh Fort#Char Qutub Dargah|Char Qutub Dargah]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hansi, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "asigarh-fort-haryana",
@@ -119,6 +413,55 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Hisar district, Haryana."
+    ]
+  },
+  {
+    "id": "asigarh-fort-prithviraj-chauhan-s-fort-haryana",
+    "name": "Asigarh Fort (Prithviraj Chauhan's Fort)",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Asigarh Fort (Prithviraj Chauhan's Fort) is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hansi city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "aurangabad-kos-minar-no-22-haryana",
+    "name": "Aurangabad Kos Minar No. 22",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Aurangabad Kos Minar No. 22 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Aurangabad, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bab-e-faiz-gate-haryana",
+    "name": "Bab-e-Faiz gate",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Bab-e-Faiz gate is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Panipat city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -133,6 +476,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -147,6 +493,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -161,6 +510,55 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Stands at about 240 m elevation.",
+      "Lies in Gurugram district, Haryana."
+    ]
+  },
+  {
+    "id": "bamani-khera-kos-minar-no-21-haryana",
+    "name": "Bamani Khera Kos Minar No. 21",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Bamani Khera Kos Minar No. 21 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bamani Khera <br>(Khera Sarai, old name), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "banchari-kos-minar-no-24-haryana",
+    "name": "Banchari Kos Minar No. 24",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Banchari Kos Minar No. 24 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Banchari, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "banchari-kos-minar-no-25-haryana",
+    "name": "Banchari Kos Minar No. 25",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Banchari Kos Minar No. 25 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Banchari, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -172,10 +570,29 @@
     "coordinates": {
       "lat": 28.416,
       "lon": 77.15
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Haryana."
+    ]
   },
   {
-    "id": "baoli-ghaus-ali-shah-haryana",
+    "id": "bank-myna-haryana",
+    "name": "Bank myna",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Bank myna is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "baoli-ghaus-ali-shah-haryana-q59633495",
     "name": "Baoli Ghaus Ali Shah",
     "state": "Haryana",
     "category": "heritage",
@@ -183,10 +600,16 @@
     "coordinates": {
       "lat": 28.45018,
       "lon": 76.826
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Gurugram district, Haryana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Farrukhnagar, Haryana."
+    ]
   },
   {
-    "id": "barsi-gate-haryana",
+    "id": "barsi-gate-haryana-q85745546",
     "name": "Barsi Gate",
     "state": "Haryana",
     "category": "heritage",
@@ -197,6 +620,11 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Hansi city, Haryana."
     ]
   },
   {
@@ -212,6 +640,24 @@
     "tags": [
       "national-park",
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
+    ]
+  },
+  {
+    "id": "bayanpur-kos-minar-haryana",
+    "name": "Bayanpur Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Bayanpur Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bayanpur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -226,6 +672,54 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
+  },
+  {
+    "id": "bhaini-kalan-kos-minar-haryana",
+    "name": "Bhaini Kalan Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Bhaini Kalan Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhaini Kalan, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhawani-khera-kos-minar-haryana",
+    "name": "Bhawani Khera Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Bhawani Khera Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bawani Khera, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhima-devi-temple-complex-haryana",
+    "name": "Bhima Devi Temple Complex",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "Bhima Devi Temple Complex is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pinjore, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -240,7 +734,12 @@
     },
     "tags": [
       "temple",
-      "museum"
+      "museum",
+      "lesser-known"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Panchkula district, Haryana."
     ]
   },
   {
@@ -257,13 +756,16 @@
       "national-park",
       "wildlife-sanctuary",
       "lake"
+    ],
+    "facts": [
+      "Lies in Jhajjar district, Haryana."
     ]
   },
   {
     "id": "bhirrana-haryana",
     "name": "Bhirrana",
     "state": "Haryana",
-    "category": "offbeat",
+    "category": "heritage",
     "description": "Bhirrana is a village in Fatehabad District, in India.",
     "coordinates": {
       "lat": 29.55417,
@@ -271,6 +773,43 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
+  },
+  {
+    "id": "bhiwani-haryana",
+    "name": "Bhiwani",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Bhiwani is a city and a municipal council in Bhiwani district in the state of Haryana, India.",
+    "coordinates": {
+      "lat": 28.78333,
+      "lon": 76.13333
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 225 m elevation.",
+      "Covers about 4,778 km².",
+      "Lies in Bhiwani district, Haryana."
+    ]
+  },
+  {
+    "id": "bhulwana-kos-minar-no-27-haryana",
+    "name": "Bhulwana Kos Minar No. 27",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Bhulwana Kos Minar No. 27 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhulwana, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -285,6 +824,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -299,20 +841,10 @@
     },
     "tags": [
       "archaeological-site"
-    ]
-  },
-  {
-    "id": "bilaspur-haryana-haryana",
-    "name": "Bilaspur, Haryana",
-    "state": "Haryana",
-    "category": "spiritual",
-    "description": "Bilaspur, Haryana is a census town in Yamunanagar district, Haryana, India.",
-    "coordinates": {
-      "lat": 30.30444,
-      "lon": 77.30278
-    },
-    "tags": [
-      "temple"
+    ],
+    "facts": [
+      "Stands at about 210 m elevation.",
+      "Lies in Bhiwani district, Haryana."
     ]
   },
   {
@@ -326,7 +858,12 @@
       "lon": 76.2808
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 11 October 2007.",
+      "Stands at about 300 m elevation."
     ]
   },
   {
@@ -340,7 +877,50 @@
       "lon": 76.96822
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "black-francolin-haryana",
+    "name": "Black francolin",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Black francolin is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "black-headed-ibis-haryana",
+    "name": "Black-headed ibis",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Black-headed ibis is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "black-necked-stork-haryana",
+    "name": "Black-necked stork",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Black-necked stork is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -351,6 +931,22 @@
     "description": "Bodh Stupa is a buddhist monument in Haryana, India.",
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
+    ]
+  },
+  {
+    "id": "bonnet-macaque-haryana",
+    "name": "Bonnet macaque",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Bonnet macaque is a species of mammal.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -364,11 +960,45 @@
       "lon": 76.83
     },
     "tags": [
+      "temple",
       "lake"
+    ],
+    "facts": [
+      "Lies in Kurukshetra, Haryana."
     ]
   },
   {
-    "id": "cantonment-church-tower-haryana",
+    "id": "buriya-nala-mughal-bridge-haryana",
+    "name": "Buriya Nala Mughal bridge",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Buriya Nala Mughal bridge is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Karnal, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cantonment-church-tower-graveyard-karnal-european-soldier-s-grave-haryana",
+    "name": "[[Cantonment Church Tower#Graveyard|Karnal European Soldier's Grave]]",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "[[Cantonment Church Tower#Graveyard|Karnal European Soldier's Grave]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Karnal city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cantonment-church-tower-haryana-q18110850",
     "name": "Cantonment Church Tower",
     "state": "Haryana",
     "category": "spiritual",
@@ -379,6 +1009,24 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to James the Just.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Karnal city, Haryana."
+    ]
+  },
+  {
+    "id": "cattle-egret-haryana",
+    "name": "Cattle egret",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Cattle egret is a genus of birds.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -390,10 +1038,16 @@
     "coordinates": {
       "lat": 28.8678,
       "lon": 75.9222
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
   },
   {
-    "id": "chaneti-buddhist-stupa-haryana",
+    "id": "chaneti-buddhist-stupa-haryana-q85850329",
     "name": "Chaneti Buddhist Stupa",
     "state": "Haryana",
     "category": "spiritual",
@@ -404,6 +1058,25 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Yamunanagar district, Haryana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Chaneti, Haryana."
+    ]
+  },
+  {
+    "id": "cheer-pheasant-haryana",
+    "name": "Cheer pheasant",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Cheer pheasant is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -414,6 +1087,9 @@
     "description": "Chhapadeshwar Mahadev Mandir is a temple in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -427,7 +1103,11 @@
       "lon": 76.6811
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -439,7 +1119,119 @@
     "coordinates": {
       "lat": 28.6981,
       "lon": 75.8731
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Bhiwani district, Haryana."
+    ]
+  },
+  {
+    "id": "chital-haryana",
+    "name": "Chital",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Chital is a species of deer.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "choron-ki-baoli-shah-jahan-ki-baoli-haryana",
+    "name": "Choron-ki-Baoli (Shah Jahan-ki-Baoli)",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Choron-ki-Baoli (Shah Jahan-ki-Baoli) is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Maham, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "cockatiel-haryana",
+    "name": "Cockatiel",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Cockatiel is a species of Australian cockatoo.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "colobinae-haryana",
+    "name": "Colobinae",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Colobinae is a subfamily of mammals.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "common-myna-haryana",
+    "name": "Common myna",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Common myna is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "conservation-reserves-and-community-reserves-of-india-haryana",
+    "name": "Conservation reserves and community reserves of India",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Conservation reserves and community reserves of India is a type of protected area in India.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "coppersmith-barbet-haryana",
+    "name": "Coppersmith barbet",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Coppersmith barbet is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "crested-lark-haryana",
+    "name": "Crested lark",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Crested lark is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
   },
   {
     "id": "crocodile-breeding-centre-kurukshetra-haryana",
@@ -450,7 +1242,28 @@
     "coordinates": {
       "lat": 29.9619,
       "lon": 76.6969
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Kurukshetra district, Haryana."
+    ]
+  },
+  {
+    "id": "daha-kos-minar-haryana",
+    "name": "Daha Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Daha Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Daha, Karnal, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "damdama-lake-haryana",
@@ -464,13 +1277,31 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Gurugram district, Haryana."
+    ]
+  },
+  {
+    "id": "dargah-hazrat-sheikh-musa-jhoolti-minar-haryana",
+    "name": "Dargah Hazrat Sheikh Musa (Jhoolti Minar)",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "Dargah Hazrat Sheikh Musa (Jhoolti Minar) is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Village Palla, Nuh, Mewat, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "dargah-sheikh-musa-haryana",
     "name": "Dargah Sheikh Musa",
     "state": "Haryana",
-    "category": "spiritual",
+    "category": "heritage",
     "description": "Dargah Sheikh Musa is a sufi shrine (Dargah) in Nuh, Mewat of Haryana.",
     "coordinates": {
       "lat": 28.10861,
@@ -479,7 +1310,26 @@
     "tags": [
       "mosque",
       "archaeological-site",
-      "pilgrimage"
+      "pilgrimage",
+      "lesser-known"
+    ],
+    "facts": [
+      "Recognised as Protected monument.",
+      "Associated with Sufism.",
+      "Lies in Nuh district, Haryana."
+    ]
+  },
+  {
+    "id": "deer-haryana",
+    "name": "Deer",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Deer is a family of ruminants (Ruminantia).",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -491,10 +1341,17 @@
     "coordinates": {
       "lat": 29.1908,
       "lon": 75.7589
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Dates from 1970.",
+      "Founded by Forests Department, Haryana."
+    ]
   },
   {
-    "id": "dehra-temple-haryana",
+    "id": "dehra-temple-haryana-q60617896",
     "name": "Dehra Temple",
     "state": "Haryana",
     "category": "spiritual",
@@ -505,6 +1362,44 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Gurugram district, Haryana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhond village on National Highway 248 (India), 2 km west of Ferozepur Jhirka, Haryana."
+    ]
+  },
+  {
+    "id": "dera-kalan-kos-minar-haryana",
+    "name": "Dera Kalan Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Dera Kalan Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dara Kalan, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dhansu-haryana",
+    "name": "Dhansu",
+    "state": "Haryana",
+    "category": "offbeat",
+    "description": "Dhansu is a village in Haryana, India.",
+    "coordinates": {
+      "lat": 29.1908,
+      "lon": 75.7589
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Haryana."
     ]
   },
   {
@@ -519,22 +1414,27 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
     ]
   },
   {
     "id": "dhosi-hill-haryana",
     "name": "Dhosi Hill",
     "state": "Haryana",
-    "category": "heritage",
+    "category": "nature",
     "description": "Dhosi Hill is a hill near Narnaul.",
     "coordinates": {
       "lat": 28.061,
       "lon": 76.0313
     },
     "tags": [
-      "fort",
-      "archaeological-site",
-      "pilgrimage"
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 1,170 m elevation.",
+      "Lies in Mahendragarh district, Haryana."
     ]
   },
   {
@@ -546,7 +1446,10 @@
     "coordinates": {
       "lat": 28.455,
       "lon": 77.106
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Haryana."
+    ]
   },
   {
     "id": "dohan-river-haryana",
@@ -560,6 +1463,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -574,6 +1480,22 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
+    ]
+  },
+  {
+    "id": "egyptian-vulture-haryana",
+    "name": "Egyptian vulture",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Egyptian vulture is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -588,6 +1510,74 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Gurgaon, Haryana."
+    ]
+  },
+  {
+    "id": "elephant-haryana",
+    "name": "Elephant",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Elephant is a large terrestrial mammals from Africa and Asia.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Rises about 4 m."
+    ]
+  },
+  {
+    "id": "eurasian-collared-dove-haryana",
+    "name": "Eurasian collared dove",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Eurasian collared dove is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "eurasian-spoonbill-haryana",
+    "name": "Eurasian spoonbill",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Eurasian spoonbill is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Recognised as Natural Monument of South Korea."
+    ]
+  },
+  {
+    "id": "european-roller-haryana",
+    "name": "European roller",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "European roller is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "fantail-pigeon-haryana",
+    "name": "Fantail pigeon",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Fantail pigeon is a breed of pigeon.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -602,6 +1592,132 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1607.",
+      "Stands at about 198 m elevation.",
+      "Covers about 743 km².",
+      "Lies in Faridabad district, Haryana."
+    ]
+  },
+  {
+    "id": "faridabad-kos-minar-no-10-haryana",
+    "name": "Faridabad Kos Minar No. 10",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Faridabad Kos Minar No. 10 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khawaza Sarai <br>(Ghosi pur Sarai), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "faridabad-kos-minar-no-11-haryana",
+    "name": "Faridabad Kos Minar No. 11",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Faridabad Kos Minar No. 11 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mawai, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "faridabad-kos-minar-no-13-haryana",
+    "name": "Faridabad Kos Minar No. 13",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Faridabad Kos Minar No. 13 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mujesar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "farrukhnagar-sheesh-mahal-shishmahal-haryana",
+    "name": "[[Farrukhnagar#Sheesh Mahal|Shishmahal]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Farrukhnagar#Sheesh Mahal|Shishmahal]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Farrukhnagar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fatehabad-humaun-s-mosque-haryana",
+    "name": "Fatehabad Humaun's Mosque",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "Fatehabad Humaun's Mosque is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fatehabad, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fattupur-kos-minar-haryana",
+    "name": "Fattupur Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Fattupur Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fattupur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ferozshah-palace-tehkhana-haryana",
+    "name": "Ferozshah Palace & Tehkhana",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Ferozshah Palace & Tehkhana is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hisar city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "firoz-shah-palace-complex-gujri-mahal-gujri-mahal-haryana",
+    "name": "[[Firoz Shah Palace Complex#Gujri Mahal|Gujri Mahal]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Firoz Shah Palace Complex#Gujri Mahal|Gujri Mahal]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hisar city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -618,6 +1734,101 @@
       "fort",
       "palace",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Seljuk architecture style.",
+      "Lies in Hisar district, Haryana."
+    ]
+  },
+  {
+    "id": "firoz-shah-palace-complex-lat-ki-masjid-lat-ki-masjid-haryana",
+    "name": "[[Firoz Shah Palace Complex#Lat ki Masjid|Lat ki Masjid]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Firoz Shah Palace Complex#Lat ki Masjid|Lat ki Masjid]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hisar city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gadhpuri-kos-minar-no-16-haryana",
+    "name": "Gadhpuri Kos Minar No. 16",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Gadhpuri Kos Minar No. 16 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gadhpuri, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gadhpuri-kos-minar-no-17-haryana",
+    "name": "Gadhpuri Kos Minar No. 17",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Gadhpuri Kos Minar No. 17 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gadhpuri, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ganaur-mughal-kos-minar-haryana",
+    "name": "Ganaur Mughal Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Ganaur Mughal Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ganaur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gharaunda-north-kos-minar-haryana",
+    "name": "Gharaunda north Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Gharaunda north Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gharaunda (North), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gharaunda-south-kos-minar-haryana",
+    "name": "Gharaunda south Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Gharaunda south Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gharaunda (South), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -625,9 +1836,15 @@
     "name": "Gharuanda Gateways of Old Mughal Sarai",
     "state": "Haryana",
     "category": "heritage",
-    "description": "Gharuanda Gateways of Old Mughal Sarai is a tourism place in Haryana, India.",
+    "description": "Gharuanda Gateways of Old Mughal Sarai is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gharaunda, Haryana.",
+      "Known as a heritage destination in Haryana."
+    ],
     "tags": [
-      "archaeological-site"
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -643,6 +1860,102 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Stands at about 199 m elevation."
+    ]
+  },
+  {
+    "id": "government-of-haryana-haryana",
+    "name": "Government of Haryana",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Government of Haryana is a supreme governing authority of the Indian state of Haryana.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Gurgaon, Haryana."
+    ]
+  },
+  {
+    "id": "great-egret-haryana",
+    "name": "Great egret",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Great egret is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "greater-coucal-haryana",
+    "name": "Greater coucal",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Greater coucal is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "grey-francolin-haryana",
+    "name": "Grey francolin",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Grey francolin is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "grey-headed-fish-eagle-haryana",
+    "name": "Grey-headed fish eagle",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Grey-headed fish eagle is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "group-of-monuments-at-jhajjar-haryana",
+    "name": "Group of Monuments at Jhajjar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Group of Monuments at Jhajjar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jhajjar city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "guinea-fowl-haryana",
+    "name": "Guinea fowl",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Guinea fowl is a family of birds.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -654,14 +1967,39 @@
     "coordinates": {
       "lat": 29.70194,
       "lon": 76.01939
-    }
+    },
+    "facts": [
+      "Associated with Sikhism.",
+      "Lies in Jind district, Haryana."
+    ]
   },
   {
     "id": "gurdwara-toka-sahib-haryana",
     "name": "Gurdwara Toka Sahib",
     "state": "Haryana",
     "category": "spiritual",
-    "description": "Gurdwara Toka Sahib is a gurdwara in Haryana, India."
+    "description": "Gurdwara Toka Sahib is a gurdwara in Haryana, India.",
+    "facts": [
+      "Known as a spiritual destination in Haryana."
+    ]
+  },
+  {
+    "id": "gurgaon-haryana",
+    "name": "Gurgaon",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Gurgaon is a city in Haryana, India.",
+    "coordinates": {
+      "lat": 28.46667,
+      "lon": 77.03333
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 219 m elevation.",
+      "Lies in Gurugram district, Haryana."
+    ]
   },
   {
     "id": "gurugram-bhim-kund-haryana",
@@ -676,6 +2014,10 @@
     "tags": [
       "temple",
       "lake"
+    ],
+    "facts": [
+      "Part of Mahabharata.",
+      "Lies in Gurugram district, Haryana."
     ]
   },
   {
@@ -687,7 +2029,26 @@
     "coordinates": {
       "lat": 28.433,
       "lon": 77.146
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Haryana."
+    ]
+  },
+  {
+    "id": "hare-haryana",
+    "name": "Hare",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Hare is a genus of mammals in the family Leporidae.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
   },
   {
     "id": "harsh-ka-tila-haryana",
@@ -701,6 +2062,11 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as State Protected Monument.",
+      "Lies in Kurukshetra district, Haryana."
     ]
   },
   {
@@ -715,16 +2081,9 @@
     },
     "tags": [
       "museum"
-    ]
-  },
-  {
-    "id": "haryana-state-directorate-of-archaeology-museums-haryana",
-    "name": "Haryana State Directorate of Archaeology & Museums",
-    "state": "Haryana",
-    "category": "heritage",
-    "description": "Haryana State Directorate of Archaeology & Museums is a Ministry and department of the Government of Haryana in India.",
-    "tags": [
-      "museum"
+    ],
+    "facts": [
+      "Founded by Anthony Leocadia Fletcher."
     ]
   },
   {
@@ -736,7 +2095,13 @@
     "coordinates": {
       "lat": 30.31389,
       "lon": 77.58444
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
+    ]
   },
   {
     "id": "hathni-kund-haryana",
@@ -750,18 +2115,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
     "id": "hemu-s-samadhi-sthal-haryana",
     "name": "Hemu's Samadhi Sthal",
     "state": "Haryana",
-    "category": "other",
+    "category": "heritage",
     "description": "Hemu's Samadhi Sthal is a sepulcher of Hemu Bhargava.",
     "coordinates": {
       "lat": 29.39,
       "lon": 76.97
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
   },
   {
     "id": "heritage-transport-museum-gurgaon-haryana",
@@ -775,6 +2146,72 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
+  },
+  {
+    "id": "hisar-city-haryana",
+    "name": "Hisar (city)",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Hisar (city) is a city in Haryana, India.",
+    "coordinates": {
+      "lat": 29.14889,
+      "lon": 75.73667
+    },
+    "tags": [
+      "national-park",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1833.",
+      "Stands at about 215 m elevation.",
+      "Lies in Hisar district, Haryana."
+    ]
+  },
+  {
+    "id": "hodal-kos-minar-no-26-haryana",
+    "name": "Hodal Kos Minar No. 26",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Hodal Kos Minar No. 26 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hodal, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hoopoe-haryana",
+    "name": "Hoopoe",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Hoopoe is a monotypic family of birds.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "ibrahim-lodi-s-tomb-haryana",
+    "name": "Ibrahim Lodi's Tomb",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Ibrahim Lodi's Tomb is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Panipat city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -789,6 +2226,102 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 3 December 1961.",
+      "Dedicated to Immaculate Heart of Mary.",
+      "Lies in Karnal, Haryana."
+    ]
+  },
+  {
+    "id": "indian-cormorant-haryana",
+    "name": "Indian cormorant",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Indian cormorant is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "indian-grey-hornbill-haryana",
+    "name": "Indian grey hornbill",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Indian grey hornbill is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "indian-hog-deer-haryana",
+    "name": "Indian hog deer",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Indian hog deer is a species of mammal.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "indian-peafowl-haryana",
+    "name": "Indian peafowl",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Indian peafowl is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "indian-roller-haryana",
+    "name": "Indian roller",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Indian roller is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "indian-spot-billed-duck-haryana",
+    "name": "Indian spot-billed duck",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Indian spot-billed duck is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "indian-vulture-haryana",
+    "name": "Indian vulture",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Indian vulture is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -803,6 +2336,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -814,7 +2350,53 @@
     "coordinates": {
       "lat": 28.50305,
       "lon": 77.09688
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Haryana."
+    ]
+  },
+  {
+    "id": "jackal-haryana",
+    "name": "Jackal",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Jackal is a several species of the wolf genus of mammals.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "jagdishpur-mughal-kos-minar-haryana",
+    "name": "Jagdishpur Mughal Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Jagdishpur Mughal Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagdishpur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jahaj-kothi-haryana",
+    "name": "Jahaj Kothi",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Jahaj Kothi is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hisar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "jahaj-kothi-zonal-museum-haryana",
@@ -828,6 +2410,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Hisar district, Haryana."
     ]
   },
   {
@@ -842,6 +2428,10 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Mahendragarh district, Haryana."
     ]
   },
   {
@@ -852,6 +2442,24 @@
     "description": "Jarasandha ka Qila is an ancient archaeological site in India.",
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
+  },
+  {
+    "id": "jarasandha-ka-qila-kushan-buddhist-stupa-haryana",
+    "name": "Jarasandha ka Qila (Kushan Buddhist Stupa)",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "Jarasandha ka Qila (Kushan Buddhist Stupa) is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Karnal city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -863,7 +2471,43 @@
     "coordinates": {
       "lat": 30.7686,
       "lon": 76.9553
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Panchkula district, Haryana."
+    ]
+  },
+  {
+    "id": "jatipur-kos-minar-haryana",
+    "name": "Jatipur Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Jatipur Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jatipur, Panipat, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jawahri-mughal-kos-minar-haryana",
+    "name": "Jawahri Mughal Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Jawahri Mughal Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jawahri, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "jayanti-devi-temple-haryana",
@@ -873,6 +2517,9 @@
     "description": "Jayanti Devi Temple is a haryana, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -887,6 +2534,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -901,48 +2551,61 @@
     },
     "tags": [
       "archaeological-site"
-    ]
-  },
-  {
-    "id": "jind-district-haryana",
-    "name": "Jind district",
-    "state": "Haryana",
-    "category": "heritage",
-    "description": "Jind district is a district of Haryana, India.",
-    "coordinates": {
-      "lat": 29.31,
-      "lon": 76.32
-    },
-    "tags": [
-      "fort"
+    ],
+    "facts": [
+      "Stands at about 210 m elevation."
     ]
   },
   {
     "id": "jind-haryana",
     "name": "Jind",
     "state": "Haryana",
-    "category": "heritage",
+    "category": "wildlife",
     "description": "Jind is a city in Jind District in the Indian state of Haryana.",
     "coordinates": {
       "lat": 29.31611,
       "lon": 76.31417
     },
     "tags": [
+      "national-park",
       "fort"
+    ],
+    "facts": [
+      "Stands at about 227 m elevation."
     ]
   },
   {
-    "id": "kabuli-bagh-mosque-haryana",
-    "name": "Kabuli Bagh Mosque",
+    "id": "kabuli-bagh-mosque-with-enclosure-wall-haryana",
+    "name": "Kabuli Bagh Mosque with enclosure wall",
     "state": "Haryana",
     "category": "spiritual",
-    "description": "Kabuli Bagh Mosque is a mosque in India.",
+    "description": "Kabuli Bagh Mosque with enclosure wall is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Panipat city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kaithal-haryana",
+    "name": "Kaithal",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Kaithal is a city in Kaithal district, Karnal division, Haryana, India.",
     "coordinates": {
-      "lat": 29.39603,
-      "lon": 76.98937
+      "lat": 29.80167,
+      "lon": 76.39667
     },
     "tags": [
-      "mosque"
+      "national-park",
+      "fort"
+    ],
+    "facts": [
+      "Stands at about 250 m elevation.",
+      "Lies in Kaithal district, Haryana."
     ]
   },
   {
@@ -957,6 +2620,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Kaithal district, Haryana."
     ]
   },
   {
@@ -971,6 +2638,23 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 2003.",
+      "Lies in Yamunanagar district, Haryana."
+    ]
+  },
+  {
+    "id": "kalij-pheasant-haryana",
+    "name": "Kalij pheasant",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Kalij pheasant is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -986,6 +2670,9 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -1000,6 +2687,54 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
+    ]
+  },
+  {
+    "id": "karnal-city-kos-minar-haryana",
+    "name": "Karnal city Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Karnal city Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Karnal city Area, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "karnal-mughal-bridge-haryana",
+    "name": "Karnal Mughal Bridge",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Karnal Mughal Bridge is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Karnal city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "karnal-namaste-chowk-kos-minar-haryana",
+    "name": "Karnal Namaste Chowk Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Karnal Namaste Chowk Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Karnal city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1016,6 +2751,9 @@
       "temple",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 1,467 m elevation."
     ]
   },
   {
@@ -1031,6 +2769,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Kurukshetra district, Haryana."
     ]
   },
   {
@@ -1044,7 +2785,26 @@
       "lon": 76.9146
     },
     "tags": [
+      "national-park",
       "lake"
+    ],
+    "facts": [
+      "Set on Ghaggar-Hakra river.",
+      "Rises about 34 m.",
+      "Lies in Panchkula district, Haryana."
+    ]
+  },
+  {
+    "id": "kaushalya-river-haryana",
+    "name": "Kaushalya River",
+    "state": "Haryana",
+    "category": "nature",
+    "description": "Kaushalya River is a river in India.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -1058,8 +2818,27 @@
       "lon": 76.5273
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary",
       "lake"
+    ],
+    "facts": [
+      "Lies in Jhajjar district, Haryana."
+    ]
+  },
+  {
+    "id": "khatela-sarai-kos-minar-no-23-haryana",
+    "name": "Khatela Sarai Kos Minar No. 23",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Khatela Sarai Kos Minar No. 23 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khatela Sarai, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1074,6 +2853,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Gurugram district, Haryana."
     ]
   },
   {
@@ -1088,6 +2870,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Founded by Indus Valley Civilization."
     ]
   },
   {
@@ -1101,11 +2886,30 @@
       "lon": 76.9405
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
-    "id": "khwaja-khizr-tomb-haryana",
+    "id": "khusropur-kos-minar-no-20-haryana",
+    "name": "Khusropur Kos Minar No. 20",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Khusropur Kos Minar No. 20 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khusropur (Kusali pur), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "khwaja-khizr-tomb-haryana-q55640251",
     "name": "Khwaja Khizr Tomb",
     "state": "Haryana",
     "category": "heritage",
@@ -1113,7 +2917,14 @@
     "coordinates": {
       "lat": 29.00678,
       "lon": 77.01408
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Sonipat district, Haryana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Sonipat, Haryana.",
+      "Lies in Sonipat city, Haryana."
+    ]
   },
   {
     "id": "kingdom-of-dreams-haryana",
@@ -1124,13 +2935,46 @@
     "coordinates": {
       "lat": 28.46806,
       "lon": 77.06917
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Haryana."
+    ]
+  },
+  {
+    "id": "kiwana-kos-minar-haryana",
+    "name": "Kiwana Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Kiwana Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kiwana, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kohande-kos-minar-haryana",
+    "name": "Kohande Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Kohande Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kohande, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "kotla-nuh-haryana",
     "name": "Kotla, Nuh",
     "state": "Haryana",
-    "category": "heritage",
+    "category": "offbeat",
     "description": "Kotla, Nuh is a town in Haryana, India.",
     "coordinates": {
       "lat": 27.99894,
@@ -1138,6 +2982,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in Nuh district, Haryana."
     ]
   },
   {
@@ -1152,20 +2999,31 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
     "id": "kurukshetra-haryana",
     "name": "Kurukshetra",
     "state": "Haryana",
-    "category": "spiritual",
+    "category": "wildlife",
     "description": "Kurukshetra is a city in India.",
     "coordinates": {
       "lat": 29.97083,
       "lon": 76.85
     },
     "tags": [
+      "national-park",
+      "temple",
+      "museum",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 230 m elevation.",
+      "Covers about 1,530 km².",
+      "Lies in Kurukshetra district, Haryana."
     ]
   },
   {
@@ -1180,6 +3038,25 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2001.",
+      "Lies in Thanesar, Haryana."
+    ]
+  },
+  {
+    "id": "kurukshetra-places-of-interest-harsh-ka-tilla-haryana",
+    "name": "[[Kurukshetra#Places of interest|Harsh Ka tilla]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Kurukshetra#Places of interest|Harsh Ka tilla]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kurukshetra, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1190,13 +3067,83 @@
     "description": "Kurukshetra Shiva Temple is a hindu temple in Haryana, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
+    ]
+  },
+  {
+    "id": "kutail-kos-minar-haryana",
+    "name": "Kutail Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Kutail Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kutail, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "laughing-dove-haryana",
+    "name": "Laughing dove",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Laughing dove is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Named after Senegal."
+    ]
+  },
+  {
+    "id": "leopard-haryana",
+    "name": "Leopard",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Leopard is a species of big cat.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "little-cormorant-haryana",
+    "name": "Little cormorant",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Little cormorant is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "little-egret-haryana",
+    "name": "Little egret",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Little egret is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
     "id": "lohari-ragho-haryana",
     "name": "Lohari Ragho",
     "state": "Haryana",
-    "category": "offbeat",
+    "category": "heritage",
     "description": "Lohari Ragho is a village in Haryana, India.",
     "coordinates": {
       "lat": 29.27472,
@@ -1204,6 +3151,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Hisar district, Haryana."
     ]
   },
   {
@@ -1218,6 +3168,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
     ]
   },
   {
@@ -1233,6 +3186,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Yamunanagar district, Haryana."
     ]
   },
   {
@@ -1246,8 +3202,41 @@
       "lon": 76.03306
     },
     "tags": [
+      "national-park",
       "fort",
+      "palace",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Mahendragarh district, Haryana."
+    ]
+  },
+  {
+    "id": "magpie-robin-haryana",
+    "name": "Magpie-robin",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Magpie-robin is a genus of birds.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Part of magpie."
+    ]
+  },
+  {
+    "id": "manana-kos-minar-haryana",
+    "name": "Manana Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Manana Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Manana, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1261,7 +3250,11 @@
       "lon": 77.17316
     },
     "tags": [
+      "national-park",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Faridabad district, Haryana."
     ]
   },
   {
@@ -1276,6 +3269,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -1291,6 +3287,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -1304,7 +3303,11 @@
       "lon": 76.72925
     },
     "tags": [
+      "national-park",
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -1319,6 +3322,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Panchkula district, Haryana."
     ]
   },
   {
@@ -1333,6 +3339,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Founded by Indus Valley Civilization."
     ]
   },
   {
@@ -1347,13 +3356,16 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a offbeat destination in Haryana."
     ]
   },
   {
     "id": "mitathal-haryana",
     "name": "Mitathal",
     "state": "Haryana",
-    "category": "offbeat",
+    "category": "heritage",
     "description": "Mitathal is a village in Haryana, India.",
     "coordinates": {
       "lat": 28.89194,
@@ -1361,6 +3373,37 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
+  },
+  {
+    "id": "mohari-kos-minar-haryana",
+    "name": "Mohari Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Mohari Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mohari, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "monkey-haryana",
+    "name": "Monkey",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Monkey is a common idea of an animal of the \"higher primates\" (the simians in English excluding apes).",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1373,6 +3416,9 @@
       "hill-station",
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
     ]
   },
   {
@@ -1386,9 +3432,13 @@
       "lon": 77.08333
     },
     "tags": [
+      "national-park",
       "hill-station",
       "archaeological-site",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 1,220 m elevation."
     ]
   },
   {
@@ -1396,9 +3446,28 @@
     "name": "Mosque of Ala Vardi Khan",
     "state": "Haryana",
     "category": "spiritual",
-    "description": "Mosque of Ala Vardi Khan is a mosque in Haryana, India.",
+    "description": "Mosque of Ala Vardi Khan is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sarai Ala Vardi Khan, Haryana.",
+      "Known as a spiritual destination in Haryana."
+    ],
     "tags": [
-      "mosque"
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mugger-crocodile-haryana",
+    "name": "Mugger crocodile",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Mugger crocodile is a species of reptile.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1413,6 +3482,24 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Gurgaon, Haryana."
+    ]
+  },
+  {
+    "id": "nabha-house-haryana",
+    "name": "Nabha House",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Nabha House is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address = opposite Sannihit Sarovar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1424,14 +3511,20 @@
     "coordinates": {
       "lat": 30.69417,
       "lon": 76.88083
-    }
+    },
+    "facts": [
+      "Lies in Panchkula district, Haryana."
+    ]
   },
   {
     "id": "nahan-kothi-haryana",
     "name": "Nahan Kothi",
     "state": "Haryana",
     "category": "other",
-    "description": "Nahan Kothi is an under restoration order in Panchkula, India."
+    "description": "Nahan Kothi is an under restoration order in Panchkula, India.",
+    "facts": [
+      "Known as a tourism destination in Haryana."
+    ]
   },
   {
     "id": "nahar-singh-mahal-haryana",
@@ -1446,6 +3539,9 @@
     "tags": [
       "fort",
       "palace"
+    ],
+    "facts": [
+      "Lies in Faridabad district, Haryana."
     ]
   },
   {
@@ -1459,7 +3555,150 @@
       "lon": 76.397
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "narnaul-chatta-rai-bal-mukund-das-chatta-rai-bal-mukund-das-haryana",
+    "name": "[[Narnaul#Chatta Rai Bal Mukund Das|Chatta Rai Bal Mukund Das]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Narnaul#Chatta Rai Bal Mukund Das|Chatta Rai Bal Mukund Das]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "narnaul-chor-gumbad-chor-gombaj-haryana",
+    "name": "[[Narnaul#Chor Gumbad|Chor Gombaj]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Narnaul#Chor Gumbad|Chor Gombaj]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "narnaul-haryana",
+    "name": "Narnaul",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Narnaul is a city in Mahendragarh district, Haryana, India.",
+    "coordinates": {
+      "lat": 28.04444,
+      "lon": 76.10833
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 318 m elevation.",
+      "Lies in Mahendragarh district, Haryana."
+    ]
+  },
+  {
+    "id": "narnaul-jal-mahal-haryana",
+    "name": "Narnaul Jal Mahal",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Narnaul Jal Mahal is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "narnaul-mirza-ali-jan-e2-80-99s-baoli-throne-of-mirza-ali-jaan-and-baoli-haryana",
+    "name": "[[Narnaul#Mirza Ali Jan.E2.80.99s Baoli|Throne of Mirza Ali Jaan and Baoli]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Narnaul#Mirza Ali Jan.E2.80.99s Baoli|Throne of Mirza Ali Jaan and Baoli]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "narnaul-shobha-sagar-talab-or-janki-sarovar-shobha-sagar-talab-haryana",
+    "name": "[[Narnaul#Shobha Sagar Talab or Janki Sarovar|Shobha Sagar Talab]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Narnaul#Shobha Sagar Talab or Janki Sarovar|Shobha Sagar Talab]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "narnaul-tomb-of-ibrahim-khan-sur-tomb-of-shah-nizam-haryana",
+    "name": "[[Narnaul#Tomb of Ibrahim Khan Sur|Tomb of Shah Nizam]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Narnaul#Tomb of Ibrahim Khan Sur|Tomb of Shah Nizam]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "narnaul-tomb-of-pir-turkman-mosque-of-pir-turkman-and-tomb-haryana",
+    "name": "[[Narnaul#Tomb of Pir Turkman|Mosque of Pir Turkman and Tomb]]",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "[[Narnaul#Tomb of Pir Turkman|Mosque of Pir Turkman and Tomb]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "narnaul-tripolia-gateway-tripolia-gateway-haryana",
+    "name": "[[Narnaul#Tripolia gateway|Tripolia Gateway]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Narnaul#Tripolia gateway|Tripolia Gateway]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1471,7 +3710,75 @@
     "coordinates": {
       "lat": 30.69777,
       "lon": 76.85106
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Haryana."
+    ]
+  },
+  {
+    "id": "naugaja-peer-haryana",
+    "name": "Naugaja Peer",
+    "state": "Haryana",
+    "category": "other",
+    "description": "Naugaja Peer is an indian saint.",
+    "facts": [
+      "Known as a tourism destination in Haryana."
+    ]
+  },
+  {
+    "id": "naurangabad-bhiwani-history-naurangabad-mound-haryana",
+    "name": "[[Naurangabad, Bhiwani#History|Naurangabad mound]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Naurangabad, Bhiwani#History|Naurangabad mound]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Naurangabad, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "nikhri-haryana",
+    "name": "Nikhri",
+    "state": "Haryana",
+    "category": "offbeat",
+    "description": "Nikhri is a village in Haryana, India.",
+    "coordinates": {
+      "lat": 28.18618,
+      "lon": 76.72998
+    },
+    "facts": [
+      "Known as a offbeat destination in Haryana."
+    ]
+  },
+  {
+    "id": "nilgai-haryana",
+    "name": "Nilgai",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Nilgai is a largest living Asian antelope.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "northern-red-muntjac-haryana",
+    "name": "Northern red muntjac",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Northern red muntjac is a species of mammal.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
   },
   {
     "id": "ottu-barrage-haryana",
@@ -1482,7 +3789,50 @@
     "coordinates": {
       "lat": 29.48917,
       "lon": 74.91056
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Haryana."
+    ]
+  },
+  {
+    "id": "ottu-sirsa-haryana",
+    "name": "Ottu, Sirsa",
+    "state": "Haryana",
+    "category": "offbeat",
+    "description": "Ottu, Sirsa is a village in Haryana, India.",
+    "coordinates": {
+      "lat": 29.545,
+      "lon": 74.94
+    },
+    "facts": [
+      "Lies in Sirsa District, Haryana."
+    ]
+  },
+  {
+    "id": "paddyfield-pipit-haryana",
+    "name": "Paddyfield pipit",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Paddyfield pipit is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "painted-stork-haryana",
+    "name": "Painted stork",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Painted stork is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
   },
   {
     "id": "pakka-pul-pir-haryana",
@@ -1492,6 +3842,9 @@
     "description": "Pakka Pul Pir is a shrine in Karnal, India.",
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -1503,7 +3856,91 @@
     "coordinates": {
       "lat": 28.47095,
       "lon": 77.31822
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Haryana."
+    ]
+  },
+  {
+    "id": "palwal-kos-minar-no-19-haryana",
+    "name": "Palwal Kos Minar No. 19",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Palwal Kos Minar No. 19 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Palwal city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "panchi-gujran-kos-minar-haryana",
+    "name": "Panchi Gujran Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Panchi Gujran Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Panchi Gujran, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "panchkula-haryana",
+    "name": "Panchkula",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Panchkula is a city in India.",
+    "coordinates": {
+      "lat": 30.69444,
+      "lon": 76.85028
+    },
+    "tags": [
+      "national-park",
+      "hill-station"
+    ],
+    "facts": [
+      "Set beside Ghaggar-Hakra river.",
+      "Stands at about 365 m elevation.",
+      "Covers about 898 km².",
+      "Lies in Panchkula district, Haryana."
+    ]
+  },
+  {
+    "id": "panipat-kala-amb-kala-amb-battle-of-panipat-obelisk-commemorating-third-battle-of-panipat-haryana",
+    "name": "[[Panipat#Kala Amb|Kala Amb Battle of Panipat Obelisk]], Commemorating Third battle of Panipat",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Panipat#Kala Amb|Kala Amb Battle of Panipat Obelisk]], Commemorating Third battle of Panipat is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kala Amb locality Panipat, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "panipat-taraf-unsar-north-kos-minar-and-south-kos-minar-haryana",
+    "name": "Panipat Taraf Unsar north Kos Minar AND south Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Panipat Taraf Unsar north Kos Minar AND south Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Panipat Taraf Unsar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "pataudi-palace-haryana",
@@ -1517,6 +3954,11 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Architect: Robert Tor Russell.",
+      "Maintained under Saif Ali Khan.",
+      "Lies in Pataudi, Haryana."
     ]
   },
   {
@@ -1531,6 +3973,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -1545,6 +3990,9 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Kaithal district, Haryana."
     ]
   },
   {
@@ -1556,7 +4004,26 @@
     "coordinates": {
       "lat": 30.7022,
       "lon": 77.0878
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Panchkula district, Haryana."
+    ]
+  },
+  {
+    "id": "pheasant-haryana",
+    "name": "Pheasant",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Pheasant is a bird in family Phasianidae.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
   },
   {
     "id": "pindara-temple-haryana",
@@ -1566,6 +4033,50 @@
     "description": "Pindara Temple is a hindu temple in Haryana, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
+    ]
+  },
+  {
+    "id": "ploceidae-haryana",
+    "name": "Ploceidae",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Ploceidae is a family of birds.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "porcupine-haryana",
+    "name": "Porcupine",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Porcupine is a rodent with a coat of sharp spines.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "pranpir-badshah-tomb-ancient-gombaj-haryana",
+    "name": "Pranpir Badshah tomb (Ancient Gombaj)",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Pranpir Badshah tomb (Ancient Gombaj) is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hissar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1577,7 +4088,10 @@
     "coordinates": {
       "lat": 29.1477,
       "lon": 75.7165
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
   },
   {
     "id": "punyodaya-tirth-haryana",
@@ -1592,34 +4106,100 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
-    "id": "radha-swami-satsang-dinod-haryana",
-    "name": "Radha Swami Satsang, Dinod",
+    "id": "purple-sunbird-haryana",
+    "name": "Purple sunbird",
     "state": "Haryana",
-    "category": "spiritual",
-    "description": "Radha Swami Satsang, Dinod is an indian spiritual organisation.",
-    "coordinates": {
-      "lat": 28.79334,
-      "lon": 76.04449
-    },
+    "category": "wildlife",
+    "description": "Purple sunbird is a species of bird.",
     "tags": [
-      "temple"
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "raja-harsh-ka-tila-mound-haryana",
+    "name": "Raja Harsh ka Tila mound",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Raja Harsh ka Tila mound is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thanesar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "raja-karan-ka-quila-mound-haryana",
+    "name": "Raja Karan ka Quila mound",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Raja Karan ka Quila mound is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thanesar (Mirzapur), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rajpur-kos-minar-haryana",
+    "name": "Rajpur Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Rajpur Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rajpur, Sonipat, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "rakhigarhi-excavations-rakhigarhi-indus-valley-civilization-site-haryana",
+    "name": "[[Rakhigarhi#Excavations|Rakhigarhi Indus Valley Civilization site]]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "[[Rakhigarhi#Excavations|Rakhigarhi Indus Valley Civilization site]] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rakhigarhi, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "rakhigarhi-haryana",
     "name": "Rakhigarhi",
     "state": "Haryana",
-    "category": "nature",
+    "category": "heritage",
     "description": "Rakhigarhi is a largest Indus valley civilization site.",
     "coordinates": {
       "lat": 29.17,
       "lon": 76.07
     },
     "tags": [
+      "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
     ]
   },
   {
@@ -1634,6 +4214,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Rakhigarhi, Haryana."
     ]
   },
   {
@@ -1648,6 +4231,93 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
+    ]
+  },
+  {
+    "id": "red-collared-dove-haryana",
+    "name": "Red collared dove",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Red collared dove is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "red-headed-vulture-haryana",
+    "name": "Red-headed vulture",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Red-headed vulture is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "red-junglefowl-haryana",
+    "name": "Red junglefowl",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Red junglefowl is a species of bird; ancestor of the chicken.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "red-vented-bulbul-haryana",
+    "name": "Red-vented bulbul",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Red-vented bulbul is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "red-wattled-lapwing-haryana",
+    "name": "Red-wattled lapwing",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Red-wattled lapwing is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "rewari-haryana",
+    "name": "Rewari",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Rewari is a city in Rewari district, Gurugram division, Haryana, India.",
+    "coordinates": {
+      "lat": 28.18333,
+      "lon": 76.61667
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 245 m elevation.",
+      "Covers about 24.9 km².",
+      "Lies in Rewari district, Haryana."
     ]
   },
   {
@@ -1662,6 +4332,35 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Rewari district, Haryana."
+    ]
+  },
+  {
+    "id": "rhesus-macaque-haryana",
+    "name": "Rhesus macaque",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Rhesus macaque is a species of Old World monkey.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "rock-dove-haryana",
+    "name": "Rock dove",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Rock dove is a species of pigeon; the wild bird from which domesticated pigeons derive.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1673,7 +4372,39 @@
     "coordinates": {
       "lat": 28.8789,
       "lon": 76.6358
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "rose-ringed-parakeet-haryana",
+    "name": "Rose-ringed parakeet",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Rose-ringed parakeet is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "rufous-treepie-haryana",
+    "name": "Rufous treepie",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Rufous treepie is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Part of treepie."
+    ]
   },
   {
     "id": "sahibi-river-haryana",
@@ -1687,6 +4418,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -1701,6 +4435,22 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Panchkula, Haryana."
+    ]
+  },
+  {
+    "id": "sambar-deer-haryana",
+    "name": "Sambar deer",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Sambar deer is a species of mammal.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1717,6 +4467,24 @@
       "temple",
       "lake",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
+    ]
+  },
+  {
+    "id": "sarai-sukhi-kos-minar-haryana",
+    "name": "Sarai Sukhi Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Sarai Sukhi Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sarai Sukhi, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1730,7 +4498,25 @@
       "lon": 76.3567
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 29 July 1988.",
+      "Stands at about 215 m elevation."
+    ]
+  },
+  {
+    "id": "semnopithecus-haryana",
+    "name": "Semnopithecus",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Semnopithecus is a genus of mammals.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1745,10 +4531,43 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Nilokheri, Haryana."
     ]
   },
   {
-    "id": "shah-quli-khan-s-tomb-haryana",
+    "id": "sewah-kos-minar-haryana",
+    "name": "Sewah Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Sewah Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sewah(Siuuali - old name), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shah-ibrahim-s-tomb-haryana",
+    "name": "Shah Ibrahim's Tomb",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Shah Ibrahim's Tomb is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shah-quli-khan-s-tomb-haryana-q59633559",
     "name": "Shah Quli Khan's Tomb",
     "state": "Haryana",
     "category": "heritage",
@@ -1756,7 +4575,28 @@
     "coordinates": {
       "lat": 28.03123,
       "lon": 76.0983
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Mahendragarh district, Haryana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Narnaul, Haryana."
+    ]
+  },
+  {
+    "id": "shahbad-kos-minar-haryana",
+    "name": "Shahbad Kos Minar]",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Shahbad Kos Minar] is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shahbad, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "shahzadpur-haryana-haryana",
@@ -1771,18 +4611,29 @@
     "tags": [
       "fort",
       "temple"
+    ],
+    "facts": [
+      "Lies in Ambala district, Haryana."
     ]
   },
   {
     "id": "shatavar-vatika-herbal-park-hisar-haryana",
     "name": "Shatavar Vatika Herbal Park, Hisar",
     "state": "Haryana",
-    "category": "other",
+    "category": "wildlife",
     "description": "Shatavar Vatika Herbal Park, Hisar is a herbal Park in Haryana, India.",
     "coordinates": {
       "lat": 29.1908,
       "lon": 75.7589
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Dates from 2008.",
+      "Founded by Forests Department, Haryana.",
+      "Lies in Hisar district, Haryana."
+    ]
   },
   {
     "id": "sheetla-mata-mandir-gurgaon-haryana",
@@ -1796,10 +4647,13 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Gurgaon, Haryana."
     ]
   },
   {
-    "id": "sheikh-chilli-s-tomb-haryana",
+    "id": "sheikh-chilli-s-tomb-haryana-q7492910",
     "name": "Sheikh Chilli's Tomb",
     "state": "Haryana",
     "category": "heritage",
@@ -1810,6 +4664,25 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Kurukshetra district, Haryana.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Thanesar, Haryana."
+    ]
+  },
+  {
+    "id": "shikra-haryana",
+    "name": "Shikra",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Shikra is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1824,6 +4697,37 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Kurukshetra, Haryana."
+    ]
+  },
+  {
+    "id": "sikri-fridabad-kos-minar-no-15-haryana",
+    "name": "Sikri Fridabad Kos Minar No. 15",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Sikri Fridabad Kos Minar No. 15 is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sikri, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "silver-pheasant-haryana",
+    "name": "Silver pheasant",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Silver pheasant is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1835,6 +4739,37 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
+    ]
+  },
+  {
+    "id": "sonepat-kos-minar-haryana",
+    "name": "Sonepat Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Sonepat Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sonepat city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "spotted-owlet-haryana",
+    "name": "Spotted owlet",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Spotted owlet is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1849,6 +4784,9 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Haryana."
     ]
   },
   {
@@ -1863,6 +4801,12 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from May 1864.",
+      "Built in the Victorian architecture style.",
+      "Dedicated to Thomas the Apostle.",
+      "Lies in Hisar, Haryana."
     ]
   },
   {
@@ -1878,6 +4822,9 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
     ]
   },
   {
@@ -1892,7 +4839,27 @@
     },
     "tags": [
       "archaeological-site",
-      "pilgrimage"
+      "pilgrimage",
+      "lesser-known"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Yamunanagar district, Haryana."
+    ]
+  },
+  {
+    "id": "sugh-ancient-mound-sugh-haryana",
+    "name": "Sugh Ancient Mound (Sugh)",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Sugh Ancient Mound (Sugh) is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jagadhari, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1908,6 +4875,10 @@
     "tags": [
       "national-park",
       "lake"
+    ],
+    "facts": [
+      "Dates from 1972.",
+      "Lies in Gurgaon division, Haryana."
     ]
   },
   {
@@ -1921,7 +4892,28 @@
       "lon": 77.28289
     },
     "tags": [
+      "national-park",
       "lake"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as Water Heritage Site.",
+      "Lies in Faridabad district, Haryana."
+    ]
+  },
+  {
+    "id": "surajkund-masonry-haryana",
+    "name": "Surajkund Masonry",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Surajkund Masonry is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lakkarpur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1935,7 +4927,11 @@
       "lon": 77.56278
     },
     "tags": [
+      "national-park",
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
     ]
   },
   {
@@ -1943,7 +4939,77 @@
     "name": "Takiya Banwa Fakir",
     "state": "Haryana",
     "category": "heritage",
-    "description": "Takiya Banwa Fakir is an indian heritage site."
+    "description": "Takiya Banwa Fakir is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Panchkula, Haryana.",
+      "Recognised as State Protected Monument.",
+      "Lies in Panchkula district, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "taraf-afghan-kos-minar-haryana",
+    "name": "Taraf Afghan Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Taraf Afghan Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Taraf Afghan, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "taraori-north-kos-minar-haryana",
+    "name": "Taraori north Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Taraori north Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Taraori (North), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "taraori-south-kos-minar-haryana",
+    "name": "Taraori south Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Taraori south Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Taraori (South), Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "thanesar-pathar-masjid-haryana",
+    "name": "Thanesar Pathar Masjid",
+    "state": "Haryana",
+    "category": "spiritual",
+    "description": "Thanesar Pathar Masjid is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thanesar, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "thanesar-pathar-mosque-haryana",
@@ -1957,6 +5023,24 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Haryana."
+    ]
+  },
+  {
+    "id": "the-indus-valley-civilization-mound-haryana",
+    "name": "The Indus Valley Civilization Mound",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "The Indus Valley Civilization Mound is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sirsa city, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1971,6 +5055,38 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in Nilokheri, Haryana."
+    ]
+  },
+  {
+    "id": "theh-polar-indus-valley-civilization-mound-haryana",
+    "name": "Theh Polar Indus Valley Civilization mound",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Theh Polar Indus Valley Civilization mound is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Polar, Haryana, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tiger-haryana",
+    "name": "Tiger",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Tiger is a species of big cat.",
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
     ]
   },
   {
@@ -1984,7 +5100,26 @@
       "lon": 76.637
     },
     "tags": [
+      "national-park",
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Haryana."
+    ]
+  },
+  {
+    "id": "tomb-of-sheikh-tayyab-haryana",
+    "name": "Tomb of Sheikh Tayyab",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Tomb of Sheikh Tayyab is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kaithal, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1996,7 +5131,103 @@
     "coordinates": {
       "lat": 28.88,
       "lon": 75.92
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 207 m elevation.",
+      "Lies in Bhiwani district, Haryana."
+    ]
+  },
+  {
+    "id": "tosham-rock-inscription-haryana",
+    "name": "Tosham rock inscription",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Tosham rock inscription is a historic rock inscription in Haryana, India.",
+    "tags": [
+      "national-park",
+      "lesser-known"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "waconda-spring-haryana",
+    "name": "Waconda Spring",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Waconda Spring is a spring in Kansas, U.S.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Kansas, Haryana."
+    ]
+  },
+  {
+    "id": "western-yamuna-canal-haryana",
+    "name": "Western Yamuna Canal",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Western Yamuna Canal is a canal in India.",
+    "facts": [
+      "Known as a heritage destination in Haryana."
+    ]
+  },
+  {
+    "id": "white-faced-ibis-haryana",
+    "name": "White-faced ibis",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "White-faced ibis is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "white-throated-kingfisher-haryana",
+    "name": "White-throated kingfisher",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "White-throated kingfisher is a species of bird.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "wild-boar-haryana",
+    "name": "Wild boar",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Wild boar is an omnivore species of mammal.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Haryana."
+    ]
+  },
+  {
+    "id": "wildlife-haryana",
+    "name": "Wildlife",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Wildlife is an undomesticated organisms that grow or live wild in an area without being introduced by humans.",
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Part of wilderness."
+    ]
   },
   {
     "id": "yadavindra-gardens-haryana",
@@ -2007,6 +5238,42 @@
     "coordinates": {
       "lat": 30.7925,
       "lon": 76.91222
-    }
+    },
+    "facts": [
+      "Lies in Pinjore, Haryana."
+    ]
+  },
+  {
+    "id": "yamunanagar-haryana",
+    "name": "Yamunanagar",
+    "state": "Haryana",
+    "category": "wildlife",
+    "description": "Yamunanagar is a city of Hariyana, India.",
+    "coordinates": {
+      "lat": 30.12889,
+      "lon": 77.28028
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 254 m elevation.",
+      "Lies in Yamunanagar district, Haryana."
+    ]
+  },
+  {
+    "id": "zainpur-kos-minar-haryana",
+    "name": "Zainpur Kos Minar",
+    "state": "Haryana",
+    "category": "heritage",
+    "description": "Zainpur Kos Minar is a protected monument in Haryana, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Zainpur, Haryana."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   }
 ]

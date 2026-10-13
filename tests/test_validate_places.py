@@ -54,7 +54,9 @@ def test_every_state_and_territory_has_places():
         records = json.loads((data_dir / name).read_text(encoding="utf-8"))
         assert records, name
         total += len(records)
-    assert total >= 500
+        with_facts = sum(1 for record in records if record.get("facts"))
+        assert with_facts == len(records), name
+    assert total >= 9000
 
 
 def test_validate_places_exits_zero():

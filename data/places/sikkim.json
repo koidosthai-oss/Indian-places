@@ -8,7 +8,28 @@
     "coordinates": {
       "lat": 27.18806,
       "lon": 88.67472
-    }
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,498 m elevation.",
+      "Lies in Pakyong district, Sikkim."
+    ]
+  },
+  {
+    "id": "assam-himalaya-sikkim",
+    "name": "Assam Himalaya",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Assam Himalaya is a mountain range.",
+    "coordinates": {
+      "lat": 29.63056,
+      "lon": 95.05528
+    },
+    "facts": [
+      "Stands at about 7,782 m elevation."
+    ]
   },
   {
     "id": "banjhakri-falls-and-energy-park-sikkim",
@@ -22,6 +43,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Gangtok, Sikkim."
     ]
   },
   {
@@ -36,6 +60,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Namchi district, Sikkim."
+    ]
+  },
+  {
+    "id": "buddha-park-of-ravangla-sikkim",
+    "name": "Buddha Park of Ravangla",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Buddha Park of Ravangla is a park in India.",
+    "coordinates": {
+      "lat": 27.3136,
+      "lon": 88.36367
+    },
+    "facts": [
+      "Dates from 2013.",
+      "Lies in Ravangla, Sikkim."
     ]
   },
   {
@@ -50,6 +92,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Sikkim."
     ]
   },
   {
@@ -61,7 +106,71 @@
     "coordinates": {
       "lat": 27.2977,
       "lon": 88.21994
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Sikkim."
+    ]
+  },
+  {
+    "id": "chombu-sikkim",
+    "name": "Chombu",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Chombu is a mountain summit in India.",
+    "coordinates": {
+      "lat": 27.89875,
+      "lon": 88.6446
+    },
+    "facts": [
+      "Stands at about 6,362 m elevation."
+    ]
+  },
+  {
+    "id": "chomo-yummo-sikkim",
+    "name": "Chomo Yummo",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Chomo Yummo is a mountain in Himalaya.",
+    "coordinates": {
+      "lat": 28.03364,
+      "lon": 88.54489
+    },
+    "facts": [
+      "Stands at about 6,829 m elevation."
+    ]
+  },
+  {
+    "id": "chungthang-sikkim",
+    "name": "Chungthang",
+    "state": "Sikkim",
+    "category": "offbeat",
+    "description": "Chungthang is a town in Mangan, India.",
+    "coordinates": {
+      "lat": 27.62,
+      "lon": 88.63
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,790 m elevation.",
+      "Lies in Chungthang subdivision, Sikkim."
+    ]
+  },
+  {
+    "id": "coronation-throne-of-norbugang-near-yuksam-sikkim",
+    "name": "Coronation Throne of Norbugang near Yuksam",
+    "state": "Sikkim",
+    "category": "heritage",
+    "description": "Coronation Throne of Norbugang near Yuksam is a protected monument in Sikkim, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kheochod Phalvi, Sikkim."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "dalling-monastery-sikkim",
@@ -75,6 +184,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Sikkim."
     ]
   },
   {
@@ -86,10 +198,27 @@
     "coordinates": {
       "lat": 27.31278,
       "lon": 88.60472
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Sikkim."
+    ]
   },
   {
-    "id": "dubdi-monastery-sikkim",
+    "id": "dongkya-range-sikkim",
+    "name": "Dongkya Range",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Dongkya Range is a mountain range in the lower Himalayas.",
+    "coordinates": {
+      "lat": 27.68333,
+      "lon": 88.83333
+    },
+    "facts": [
+      "Known as a nature destination in Sikkim."
+    ]
+  },
+  {
+    "id": "dubdi-monastery-sikkim-q5310691",
     "name": "Dubdi Monastery",
     "state": "Sikkim",
     "category": "spiritual",
@@ -100,6 +229,12 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Gyalshing district, Sikkim.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Kheochod Phalvi, Sikkim."
     ]
   },
   {
@@ -114,6 +249,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
@@ -128,13 +266,18 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1984.",
+      "Covers about 51.8 km².",
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
     "id": "gangtok-sikkim",
     "name": "Gangtok",
     "state": "Sikkim",
-    "category": "spiritual",
+    "category": "hill-station",
     "description": "Gangtok is a city in Gangtok district, Sikkim, India.",
     "coordinates": {
       "lat": 27.33,
@@ -142,7 +285,43 @@
     },
     "tags": [
       "hill-station",
+      "palace",
+      "museum",
       "pilgrimage"
+    ],
+    "facts": [
+      "Stands at about 1,436 m elevation.",
+      "Covers about 19.2 km².",
+      "Lies in Gangtok subdivision, Sikkim."
+    ]
+  },
+  {
+    "id": "gimmigela-chuli-sikkim",
+    "name": "Gimmigela Chuli",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Gimmigela Chuli is a mountain in Nepal and Sikkim.",
+    "coordinates": {
+      "lat": 27.73333,
+      "lon": 88.15
+    },
+    "facts": [
+      "Stands at about 7,350 m elevation.",
+      "Lies in Koshi Province, Sikkim."
+    ]
+  },
+  {
+    "id": "gipmochi-sikkim",
+    "name": "Gipmochi",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Gipmochi is a mountain in India/Bhutan.",
+    "coordinates": {
+      "lat": 27.27396,
+      "lon": 88.90006
+    },
+    "facts": [
+      "Stands at about 4,427 m elevation."
     ]
   },
   {
@@ -153,6 +332,9 @@
     "description": "Gnathang Monastery is a building in India.",
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
@@ -164,7 +346,11 @@
     "coordinates": {
       "lat": 27.60433,
       "lon": 88.64585
-    }
+    },
+    "facts": [
+      "Associated with Sikhism.",
+      "Lies in Chungthang, Sikkim."
+    ]
   },
   {
     "id": "gurudongmar-lake-sikkim",
@@ -178,6 +364,25 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 5,148 m elevation.",
+      "Covers about 1.18 km².",
+      "Lies in Mangan district, Sikkim."
+    ]
+  },
+  {
+    "id": "gurudongmar-mountain-sikkim",
+    "name": "Gurudongmar (mountain)",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Gurudongmar (mountain) is a tourism place in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.98028,
+      "lon": 88.69922
+    },
+    "facts": [
+      "Known as a nature destination in Sikkim."
     ]
   },
   {
@@ -192,6 +397,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
@@ -206,18 +414,38 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Mangan district, Sikkim."
+    ]
+  },
+  {
+    "id": "jongsong-peak-sikkim",
+    "name": "Jongsong Peak",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Jongsong Peak is a mountain in China/India/Nepal.",
+    "coordinates": {
+      "lat": 27.88139,
+      "lon": 88.13583
+    },
+    "facts": [
+      "Stands at about 7,462 m elevation."
     ]
   },
   {
     "id": "jorethang-loop-hydroelectric-project-sikkim",
     "name": "Jorethang Loop Hydroelectric project",
     "state": "Sikkim",
-    "category": "other",
+    "category": "nature",
     "description": "Jorethang Loop Hydroelectric project is a power project in Sikkim.",
     "coordinates": {
       "lat": 27.10656,
       "lon": 88.33464
-    }
+    },
+    "facts": [
+      "Set on Rangeet River."
+    ]
   },
   {
     "id": "kabi-lungchok-sikkim",
@@ -228,7 +456,45 @@
     "coordinates": {
       "lat": 27.3983,
       "lon": 88.35
-    }
+    },
+    "facts": [
+      "Lies in Mangan district, Sikkim."
+    ]
+  },
+  {
+    "id": "kabru-sikkim",
+    "name": "Kabru",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Kabru is a mountain of the Himalayas.",
+    "coordinates": {
+      "lat": 27.635,
+      "lon": 88.11833
+    },
+    "facts": [
+      "Stands at about 7,412 m elevation.",
+      "Lies in Taplejung District, Sikkim."
+    ]
+  },
+  {
+    "id": "kangchenjunga-sikkim",
+    "name": "Kangchenjunga",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Kangchenjunga is a third highest mountain in the world, in Nepal and India.",
+    "coordinates": {
+      "lat": 27.703,
+      "lon": 88.14735
+    },
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ],
+    "facts": [
+      "Part of Seven Third Summits.",
+      "Stands at about 8,586 m elevation.",
+      "Lies in Taplejung District, Sikkim."
+    ]
   },
   {
     "id": "karthok-monastery-sikkim",
@@ -242,6 +508,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Pakyong district, Sikkim."
     ]
   },
   {
@@ -252,6 +521,9 @@
     "description": "Kewwzing Monastery is a building in India.",
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Namchi district, Sikkim."
     ]
   },
   {
@@ -267,6 +539,27 @@
     "tags": [
       "world-heritage",
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1977.",
+      "Recognised as World Heritage Site.",
+      "Covers about 178,400 ha.",
+      "Lies in Mangan district, Sikkim."
+    ]
+  },
+  {
+    "id": "khangchengyao-sikkim",
+    "name": "Khangchengyao",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Khangchengyao is a mountain in India.",
+    "coordinates": {
+      "lat": 27.98583,
+      "lon": 88.65472
+    },
+    "facts": [
+      "Stands at about 6,889 m elevation.",
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -281,6 +574,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Sikkim."
+    ]
+  },
+  {
+    "id": "kirat-chuli-sikkim",
+    "name": "Kirat Chuli",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Kirat Chuli is a mountain in the HImalayas.",
+    "coordinates": {
+      "lat": 27.78694,
+      "lon": 88.19444
+    },
+    "facts": [
+      "Stands at about 7,365 m elevation.",
+      "Lies in Koshi Province, Sikkim."
     ]
   },
   {
@@ -295,6 +606,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Sikkim."
     ]
   },
   {
@@ -306,7 +620,11 @@
     "coordinates": {
       "lat": 27.1,
       "lon": 88.33333
-    }
+    },
+    "facts": [
+      "Covers about 6 km².",
+      "Lies in Namchi district, Sikkim."
+    ]
   },
   {
     "id": "kyongnosla-alpine-sanctuary-sikkim",
@@ -317,7 +635,13 @@
     "coordinates": {
       "lat": 27.377,
       "lon": 88.741
-    }
+    },
+    "facts": [
+      "Dates from 1977.",
+      "Stands at about 4,000 m elevation.",
+      "Covers about 31 km².",
+      "Lies in East Sikkim district, Sikkim."
+    ]
   },
   {
     "id": "labrang-monastery-sikkim-sikkim",
@@ -331,6 +655,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -345,6 +672,26 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Mangan district, Sikkim."
+    ]
+  },
+  {
+    "id": "lachen-sikkim-sikkim",
+    "name": "Lachen, Sikkim",
+    "state": "Sikkim",
+    "category": "offbeat",
+    "description": "Lachen, Sikkim is a town in Mangan, India.",
+    "coordinates": {
+      "lat": 27.71668,
+      "lon": 88.55776
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Chungthang subdivision, Sikkim."
     ]
   },
   {
@@ -359,6 +706,10 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1880.",
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -373,6 +724,27 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Sikkim."
+    ]
+  },
+  {
+    "id": "lachung-sikkim",
+    "name": "Lachung",
+    "state": "Sikkim",
+    "category": "hill-station",
+    "description": "Lachung is a town and hill station in Mangan, India.",
+    "coordinates": {
+      "lat": 27.61667,
+      "lon": 88.65
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 2,700 m elevation.",
+      "Lies in Chungthang subdivision, Sikkim."
     ]
   },
   {
@@ -387,6 +759,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Sikkim."
     ]
   },
   {
@@ -401,6 +776,25 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 3,780 m elevation.",
+      "Covers about 0.24 km².",
+      "Lies in East Sikkim district, Sikkim."
+    ]
+  },
+  {
+    "id": "lamo-angdang-sikkim",
+    "name": "Lamo Angdang",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Lamo Angdang is a mountain peak in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.74425,
+      "lon": 88.49243
+    },
+    "facts": [
+      "Stands at about 5,868 m elevation."
     ]
   },
   {
@@ -415,6 +809,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
@@ -429,6 +826,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -443,6 +843,11 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1987.",
+      "Covers about 36.3 km².",
+      "Lies in Namchi district, Sikkim."
     ]
   },
   {
@@ -453,6 +858,9 @@
     "description": "Mankhim is a nepali temple.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Sikkim."
     ]
   },
   {
@@ -467,6 +875,51 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Sikkim."
+    ]
+  },
+  {
+    "id": "melli-sikkim",
+    "name": "Melli",
+    "state": "Sikkim",
+    "category": "offbeat",
+    "description": "Melli is a city/town in West Bengal, India.",
+    "coordinates": {
+      "lat": 27.0901,
+      "lon": 88.45762
+    },
+    "facts": [
+      "Lies in Namchi subdivision, Sikkim."
+    ]
+  },
+  {
+    "id": "mount-frey-sikkim",
+    "name": "Mount Frey",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Mount Frey is a mountain in Sikkim.",
+    "coordinates": {
+      "lat": 27.55243,
+      "lon": 88.09621
+    },
+    "facts": [
+      "Stands at about 5,889 m elevation."
+    ]
+  },
+  {
+    "id": "mount-pandim-sikkim",
+    "name": "Mount Pandim",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Mount Pandim is a mountain in India.",
+    "coordinates": {
+      "lat": 27.5775,
+      "lon": 88.21583
+    },
+    "facts": [
+      "Stands at about 6,691 m elevation."
     ]
   },
   {
@@ -481,6 +934,27 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Namchi district, Sikkim."
+    ]
+  },
+  {
+    "id": "namchi-sikkim",
+    "name": "Namchi",
+    "state": "Sikkim",
+    "category": "hill-station",
+    "description": "Namchi is a city in Namchi district, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.17,
+      "lon": 88.35
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,315 m elevation.",
+      "Lies in Namchi subdivision, Sikkim."
     ]
   },
   {
@@ -495,6 +969,42 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Opened in 1 October 1958.",
+      "Lies in Gangtok, Sikkim."
+    ]
+  },
+  {
+    "id": "nathang-valley-sikkim",
+    "name": "Nathang Valley",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Nathang Valley is a human settlement in Gangtok, India.",
+    "coordinates": {
+      "lat": 27.30006,
+      "lon": 88.8201
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Gangtok subdivision, Sikkim."
+    ]
+  },
+  {
+    "id": "nepal-peak-himalayas-sikkim",
+    "name": "Nepal Peak (Himalayas)",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Nepal Peak (Himalayas) is a mountain on Nepal-Sikkim border.",
+    "coordinates": {
+      "lat": 27.7768,
+      "lon": 88.18293
+    },
+    "facts": [
+      "Stands at about 7,177 m elevation.",
+      "Lies in Taplejung District, Sikkim."
     ]
   },
   {
@@ -509,6 +1019,40 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1999.",
+      "Covers about 124 km².",
+      "Lies in East Sikkim district, Sikkim."
+    ]
+  },
+  {
+    "id": "paohanli-peak-sikkim",
+    "name": "Paohanli Peak",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Paohanli Peak is a mountain peak in the border of Tiber and Sikkim.",
+    "coordinates": {
+      "lat": 27.93444,
+      "lon": 88.84389
+    },
+    "facts": [
+      "Stands at about 7,128 m elevation."
+    ]
+  },
+  {
+    "id": "pauhunri-sikkim",
+    "name": "Pauhunri",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Pauhunri is a mountain at the border India / China (Tibet).",
+    "coordinates": {
+      "lat": 27.95333,
+      "lon": 88.8425
+    },
+    "facts": [
+      "Stands at about 7,128 m elevation.",
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -523,6 +1067,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Gyalshing district, Sikkim."
     ]
   },
   {
@@ -537,6 +1084,10 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1721.",
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -551,6 +1102,25 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Dates from 1740.",
+      "Lies in Mangan district, Sikkim."
+    ]
+  },
+  {
+    "id": "rabdentse-site-of-ancient-capital-of-sikkim-sikkim",
+    "name": "Rabdentse site of ancient capital of Sikkim",
+    "state": "Sikkim",
+    "category": "heritage",
+    "description": "Rabdentse site of ancient capital of Sikkim is a protected monument in Sikkim, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pemayongtse Monastery Estate, Sikkim."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -565,6 +1135,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Namchi district, Sikkim."
     ]
   },
   {
@@ -576,7 +1149,28 @@
     "coordinates": {
       "lat": 27.29454,
       "lon": 88.29218
-    }
+    },
+    "facts": [
+      "Lies in Namchi district, Sikkim."
+    ]
+  },
+  {
+    "id": "rangpo-sikkim",
+    "name": "Rangpo",
+    "state": "Sikkim",
+    "category": "hill-station",
+    "description": "Rangpo is a town in Sikkim, India, bordering West Bengal.",
+    "coordinates": {
+      "lat": 27.18,
+      "lon": 88.53
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 333 m elevation.",
+      "Lies in Pakyong district, Sikkim."
+    ]
   },
   {
     "id": "rani-dhunga-sikkim",
@@ -587,7 +1181,10 @@
     "coordinates": {
       "lat": 27.291,
       "lon": 88.171
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Sikkim."
+    ]
   },
   {
     "id": "rhenock-monastery-sikkim",
@@ -601,6 +1198,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Pakyong district, Sikkim."
     ]
   },
   {
@@ -615,6 +1215,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Gyalshing district, Sikkim."
     ]
   },
   {
@@ -629,6 +1232,10 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Associated with Kagyu.",
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
@@ -643,6 +1250,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Sikkim."
     ]
   },
   {
@@ -653,6 +1263,9 @@
     "description": "Sang Monastery is a building in India.",
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
@@ -667,6 +1280,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Gyalshing district, Sikkim."
+    ]
+  },
+  {
+    "id": "sanglaphu-sikkim",
+    "name": "Sanglaphu",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Sanglaphu is a mountain peak in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.97722,
+      "lon": 88.71678
+    },
+    "facts": [
+      "Stands at about 6,224 m elevation.",
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -678,7 +1309,10 @@
     "coordinates": {
       "lat": 27.277,
       "lon": 88.595
-    }
+    },
+    "facts": [
+      "Lies in Pakyong district, Sikkim."
+    ]
   },
   {
     "id": "shingba-rhododendron-sanctuary-sikkim",
@@ -689,7 +1323,11 @@
     "coordinates": {
       "lat": 27.84111,
       "lon": 88.73917
-    }
+    },
+    "facts": [
+      "Covers about 43 km².",
+      "Lies in Mangan district, Sikkim."
+    ]
   },
   {
     "id": "shri-viswa-vinayaka-mandir-rhenock-sikkim",
@@ -703,6 +1341,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
@@ -713,6 +1354,9 @@
     "description": "Shurishing Yungdrung Dungdrakling Monastery is a building in India.",
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Sikkim."
     ]
   },
   {
@@ -727,6 +1371,23 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in East Sikkim district, Sikkim."
+    ]
+  },
+  {
+    "id": "siniolchu-sikkim",
+    "name": "Siniolchu",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Siniolchu is a mountain in India.",
+    "coordinates": {
+      "lat": 27.75,
+      "lon": 88.31667
+    },
+    "facts": [
+      "Stands at about 6,888 m elevation."
     ]
   },
   {
@@ -741,6 +1402,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Gyalshing district, Sikkim."
     ]
   },
   {
@@ -755,6 +1419,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 5,225 m elevation.",
+      "Covers about 1.26 km².",
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -766,7 +1435,10 @@
     "coordinates": {
       "lat": 27.136,
       "lon": 88.171
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Sikkim."
+    ]
   },
   {
     "id": "sumin-reserve-forest-sikkim",
@@ -777,7 +1449,10 @@
     "coordinates": {
       "lat": 27.22306,
       "lon": 88.52722
-    }
+    },
+    "facts": [
+      "Lies in Pakyong district, Sikkim."
+    ]
   },
   {
     "id": "taktse-ogyen-choekhorling-monastery-sikkim",
@@ -787,6 +1462,9 @@
     "description": "Taktse Ogyen Choekhorling Monastery is a building in India.",
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Sikkim."
     ]
   },
   {
@@ -801,6 +1479,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Gyalshing district, Sikkim."
     ]
   },
   {
@@ -812,7 +1493,10 @@
     "coordinates": {
       "lat": 27.2367,
       "lon": 88.4222
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Sikkim."
+    ]
   },
   {
     "id": "tendong-gumpa-sikkim",
@@ -826,6 +1510,9 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Namchi district, Sikkim."
     ]
   },
   {
@@ -840,6 +1527,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1935."
     ]
   },
   {
@@ -855,6 +1545,9 @@
     "tags": [
       "world-heritage",
       "monastery"
+    ],
+    "facts": [
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -869,6 +1562,11 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Stands at about 5,330 m elevation.",
+      "Covers about 1.06 km².",
+      "Lies in Mangan district, Sikkim."
     ]
   },
   {
@@ -883,6 +1581,9 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Lies in East Sikkim district, Sikkim."
     ]
   },
   {
@@ -894,7 +1595,11 @@
     "coordinates": {
       "lat": 27.1942,
       "lon": 88.1183
-    }
+    },
+    "facts": [
+      "Dates from 2004.",
+      "Covers about 104 km²."
+    ]
   },
   {
     "id": "yangyang-monastery-sikkim",
@@ -904,6 +1609,57 @@
     "description": "Yangyang Monastery is a building in India.",
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Namchi district, Sikkim."
+    ]
+  },
+  {
+    "id": "yumthang-valley-of-flowers-sikkim",
+    "name": "Yumthang Valley of Flowers",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Yumthang Valley of Flowers is a place in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.8268,
+      "lon": 88.6959
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Known as a nature destination in Sikkim."
+    ]
+  },
+  {
+    "id": "zemu-gap-peak-sikkim",
+    "name": "Zemu Gap Peak",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Zemu Gap Peak is an in the Himalayas.",
+    "coordinates": {
+      "lat": 27.6873,
+      "lon": 88.1739
+    },
+    "facts": [
+      "Stands at about 7,780 m elevation."
+    ]
+  },
+  {
+    "id": "zemu-glacier-sikkim",
+    "name": "Zemu Glacier",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Zemu Glacier is a glacier in India.",
+    "coordinates": {
+      "lat": 27.75,
+      "lon": 88.26667
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Covers about 34 km²."
     ]
   }
 ]

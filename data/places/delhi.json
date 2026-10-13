@@ -1,5 +1,33 @@
 [
   {
+    "id": "1984-anti-sikh-riots-delhi",
+    "name": "1984 anti-Sikh riots",
+    "state": "Delhi",
+    "category": "other",
+    "description": "1984 anti-Sikh riots is an anti-Sikh riots in India.",
+    "coordinates": {
+      "lat": 30.77,
+      "lon": 75.47
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "2010-commonwealth-games-village-delhi",
+    "name": "2010 Commonwealth Games Village",
+    "state": "Delhi",
+    "category": "offbeat",
+    "description": "2010 Commonwealth Games Village is an athletes’ village (residency) construed for 2010 Delhi Commonwealth Games. Now a private residential complex.",
+    "coordinates": {
+      "lat": 28.6105,
+      "lon": 77.2737
+    },
+    "facts": [
+      "Known as a offbeat destination in Delhi."
+    ]
+  },
+  {
     "id": "aastha-kunj-delhi",
     "name": "Aastha Kunj",
     "state": "Delhi",
@@ -8,13 +36,16 @@
     "coordinates": {
       "lat": 28.54722,
       "lon": 77.25083
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "afsarwala-tomb-delhi",
     "name": "Afsarwala tomb",
     "state": "Delhi",
-    "category": "spiritual",
+    "category": "heritage",
     "description": "Afsarwala tomb is a tomb and mosque in Delhi, India.",
     "coordinates": {
       "lat": 28.59258,
@@ -23,18 +54,33 @@
     "tags": [
       "world-heritage",
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1566.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Mughal architecture style.",
+      "Part of Humayun's Tomb.",
+      "Lies in South East Delhi district, Delhi."
     ]
   },
   {
-    "id": "agrasen-ki-baoli-delhi",
+    "id": "agrasen-ki-baoli-delhi-q4693773",
     "name": "Agrasen Ki Baoli",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Agrasen Ki Baoli is an one of the Ancient baolis of India.",
     "coordinates": {
       "lat": 28.62608,
       "lon": 77.22501
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as Water Heritage Site.",
+      "Named after Agrasena.",
+      "Lies in New Delhi district, Delhi.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Near Jantar Mantar (Delhi), Delhi."
+    ]
   },
   {
     "id": "ajmal-khan-park-delhi",
@@ -45,7 +91,26 @@
     "coordinates": {
       "lat": 28.6536,
       "lon": 77.1966
-    }
+    },
+    "facts": [
+      "Dates from 1921.",
+      "Lies in Karol Bagh, Delhi."
+    ]
+  },
+  {
+    "id": "ajmeri-gate-delhi",
+    "name": "Ajmeri Gate",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Ajmeri Gate is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bazar Ajmeri Gate, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "akbarabadi-mosque-delhi",
@@ -60,6 +125,9 @@
     "tags": [
       "mosque",
       "archaeological-site"
+    ],
+    "facts": [
+      "Built in the Indo-Islamic architecture style."
     ]
   },
   {
@@ -75,18 +143,56 @@
     "tags": [
       "world-heritage",
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1311.",
+      "Built in the Indo-Islamic architecture style.",
+      "Part of Qutb complex."
+    ]
+  },
+  {
+    "id": "alipur-cemetery-destroyed-in-1980-s-delhi",
+    "name": "Alipur Cemetery. Destroyed in 1980's",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Alipur Cemetery. Destroyed in 1980's is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Delhi-Alipur Camping group, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "amar-jawan-jyoti-delhi",
     "name": "Amar Jawan Jyoti",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Amar Jawan Jyoti is a flame of our Immortal Soldiers.",
     "coordinates": {
       "lat": 28.61286,
       "lon": 77.22931
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "ancient-mosque-baburs-period-together-with-adjacent-area-comprised-in-part-of-survey-plot-no-177-delhi",
+    "name": "Ancient Mosque (Babur’s Period) together with adjacent area comprised in part of Survey plot No. 177",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Ancient Mosque (Babur’s Period) together with adjacent area comprised in part of Survey plot No. 177 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Palam, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "appu-ghar-delhi",
@@ -97,10 +203,16 @@
     "coordinates": {
       "lat": 28.61681,
       "lon": 77.24336
-    }
+    },
+    "facts": [
+      "Dates from 1984.",
+      "Opened in 19 November 1984.",
+      "Named after mascot.",
+      "About 1,825,000 visits in a recorded year."
+    ]
   },
   {
-    "id": "arab-serai-delhi",
+    "id": "arab-serai-delhi-q12414125",
     "name": "Arab Serai",
     "state": "Delhi",
     "category": "heritage",
@@ -111,6 +223,57 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South East Delhi district, Delhi.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Patti, Ghiapur in Hauz Inderpat, Delhi."
+    ]
+  },
+  {
+    "id": "ashoka-a-pillar-delhi",
+    "name": "Ashoka'a pillar",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Ashoka'a pillar is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ferozabad (Ferozshah Kila (Feroz Shah Kotla or Vikram Nagar Colony), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ashoka-rock-edict-delhi",
+    "name": "Ashoka rock Edict",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Ashoka rock Edict is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kailash Hill, East of Kailash colony, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ashokan-pillar-delhi",
+    "name": "Ashokan Pillar",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Ashokan Pillar is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in On the Delhi ridge near Hindu Rao Hospital, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -124,7 +287,21 @@
       "lon": 77.23
     },
     "tags": [
+      "national-park",
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Delhi."
+    ]
+  },
+  {
+    "id": "astronomy-delhi",
+    "name": "Astronomy",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Astronomy is a natural science studying celestial objects and phenomena in the cosmos.",
+    "facts": [
+      "Named after sky."
     ]
   },
   {
@@ -136,7 +313,10 @@
     "coordinates": {
       "lat": 28.72056,
       "lon": 77.15417
-    }
+    },
+    "facts": [
+      "Lies in North West Delhi district, Delhi."
+    ]
   },
   {
     "id": "azim-khan-s-tomb-delhi",
@@ -147,7 +327,27 @@
     "coordinates": {
       "lat": 28.5218,
       "lon": 77.19044
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Mughal architecture style.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "azim-khan-tomb-delhi",
+    "name": "Azim Khan Tomb",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Azim Khan Tomb is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lado Sarai, across Mehrauli Archaeological Park, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "baba-baghel-singh-sikh-heritage-multimedia-museum-delhi",
@@ -157,18 +357,157 @@
     "description": "Baba Baghel Singh Sikh Heritage Multimedia Museum is a sikh museum in New Delhi, India.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "badun-gate-delhi",
+    "name": "Badun Gate",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Badun Gate is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ladho Sarai, Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bag-i-alam-gumbad-with-a-mosque-delhi",
+    "name": "Bag-i-Alam Gumbad with a Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Bag-i-Alam Gumbad with a Mosque is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Humayunpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "baghichi-ki-masjid-ladha-sarai-delhi",
+    "name": "Baghichi ki Masjid, Ladha Sarai",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Baghichi ki Masjid, Ladha Sarai is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bahai-house-of-worship-delhi",
+    "name": "Baháʼí House of Worship",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Baháʼí House of Worship is a place of worship for the Bahá'í Faith.",
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Associated with Baháʼí Faith."
+    ]
+  },
+  {
+    "id": "balban-khan-s-tomb-amp-jamali-kamali-mosque-delhi",
+    "name": "Balban Khan's Tomb &amp; Jamali Kamali mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Balban Khan's Tomb &amp; Jamali Kamali mosque is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lado Sarai, Mehrauli, Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bandi-or-poti-ka-gumbad-iii-280-delhi",
+    "name": "Bandi or Poti ka Gumbad III-280",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Bandi or Poti ka Gumbad III-280 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharera village between Hauz Khas and Qutab road, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "baoli-at-ghiaspur-also-known-as-nizamuddin-baoli-delhi",
+    "name": "Baoli at Ghiaspur, also known as Nizamuddin Baoli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Baoli at Ghiaspur, also known as Nizamuddin Baoli is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizamuddin West, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "baoli-built-1451-1526-a-d-delhi",
+    "name": "Baoli. Built 1451 - 1526 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Baoli. Built 1451 - 1526 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munirka II. 318, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "baoli-known-as-diving-well-locally-known-as-candak-ki-baoli-or-gandhak-ki-baoli-delhi",
+    "name": "Baoli known as diving well locally known as (Candak-ki-baoli or Gandhak-ki-baoli)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Baoli known as diving well locally known as (Candak-ki-baoli or Gandhak-ki-baoli) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Behind Mehrauli Archaeological Park, Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "baolis-of-mehrauli-delhi",
     "name": "Baolis of Mehrauli",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Baolis of Mehrauli is a group of Ancient baolis of India.",
     "coordinates": {
       "lat": 28.52028,
       "lon": 77.18346
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
   },
   {
     "id": "bara-gumbad-delhi",
@@ -182,18 +521,102 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Lies in New Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "bara-khamba-285-delhi",
+    "name": "Bara Khamba -285",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Bara Khamba -285 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kherera village tombs between Hauz Khas, Qutab road, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bara-khamba-barakhamba-outside-north-entrance-to-shrine-delhi",
+    "name": "Bara Khamba (Barakhamba) outside north entrance to shrine",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Bara Khamba (Barakhamba) outside north entrance to shrine is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "bara-pulah-bridge-delhi",
     "name": "Bara Pulah Bridge",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Bara Pulah Bridge is a bridge in India.",
     "coordinates": {
       "lat": 28.58407,
       "lon": 77.25334
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South East Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "bara-pulah-bridge-near-nizammudin-built-1621-1622-a-d-delhi",
+    "name": "Bara Pulah bridge near Nizammudin. Built 1621-1622 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Bara Pulah bridge near Nizammudin. Built 1621-1622 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in South of Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "baradari-mosque-delhi",
+    "name": "Baradari Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Baradari Mosque is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sadhna Enclave, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "barakhamba-cemetery-delisted-delhi",
+    "name": "Barakhamba Cemetery. (Delisted)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Barakhamba Cemetery. (Delisted) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imperial City, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "barakhamba-delhi",
@@ -204,7 +627,13 @@
     "coordinates": {
       "lat": 28.55278,
       "lon": 77.20222
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Built in the Islamic architecture style.",
+      "Lies in South East Delhi district, Delhi."
+    ]
   },
   {
     "id": "baroda-house-delhi",
@@ -215,7 +644,29 @@
     "coordinates": {
       "lat": 28.6168,
       "lon": 77.2305
-    }
+    },
+    "facts": [
+      "Dates from 1936.",
+      "Recognised as Heritage inventory of Indian Railways.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Architect: Edwin Lutyens.",
+      "Lies in New Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "bastion-where-a-wall-of-jahanpanah-meets-the-wall-of-rai-pithora-fort-delhi",
+    "name": "Bastion, where a wall of Jahanpanah meets the wall of Rai Pithora fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Bastion, where a wall of Jahanpanah meets the wall of Rai Pithora fort is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Adchini, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "bawana-fortress-of-jat-zail-delhi",
@@ -230,6 +681,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
     ]
   },
   {
@@ -245,6 +699,9 @@
     "tags": [
       "mosque",
       "archaeological-site"
+    ],
+    "facts": [
+      "Built in the Tughlaq dynasty style."
     ]
   },
   {
@@ -256,7 +713,10 @@
     "coordinates": {
       "lat": 28.62,
       "lon": 77.23
-    }
+    },
+    "facts": [
+      "Lies in New Delhi, Delhi."
+    ]
   },
   {
     "id": "bhai-mati-das-museum-delhi",
@@ -270,6 +730,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
     ]
   },
   {
@@ -284,6 +747,23 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
+  },
+  {
+    "id": "bharat-darshan-park-delhi",
+    "name": "Bharat Darshan Park",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Bharat Darshan Park is a theme park in Delhi, India.",
+    "coordinates": {
+      "lat": 28.667,
+      "lon": 77.126
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
     ]
   },
   {
@@ -295,14 +775,20 @@
     "coordinates": {
       "lat": 28.57056,
       "lon": 77.05833
-    }
+    },
+    "facts": [
+      "Maintained under Delhi Development Authority."
+    ]
   },
   {
     "id": "bhonyra-delhi",
     "name": "Bhonyra",
     "state": "Delhi",
     "category": "other",
-    "description": "Bhonyra is a tourism place in Delhi, India."
+    "description": "Bhonyra is a tourism place in Delhi, India.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "bikaner-house-delhi",
@@ -313,7 +799,75 @@
     "coordinates": {
       "lat": 28.6089,
       "lon": 77.2299
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "biran-ka-gumbad-282-delhi",
+    "name": "Biran-Ka-Gumbad-282",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Biran-Ka-Gumbad-282 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharera village between Hauz Khas and Qutab road, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "biwi-or-dadi-ka-gumbad-281-delhi",
+    "name": "Biwi or Dadi-ka-Gumbad-281",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Biwi or Dadi-ka-Gumbad-281 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharera village between Hauz Khas and Qutab road, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "british-indian-army-delhi",
+    "name": "British Indian Army",
+    "state": "Delhi",
+    "category": "other",
+    "description": "British Indian Army is a 1895–1947 land warfare branch of British India's military, distinct from the British Army in India.",
+    "facts": [
+      "Dates from 1 April 1895."
+    ]
+  },
+  {
+    "id": "bukhara-restaurant-delhi",
+    "name": "Bukhara (restaurant)",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Bukhara (restaurant) is a restaurant in Delhi.",
+    "coordinates": {
+      "lat": 28.5971,
+      "lon": 77.174
+    },
+    "facts": [
+      "Dates from 1977.",
+      "Maintained under ITC Limited."
+    ]
+  },
+  {
+    "id": "butter-chicken-delhi",
+    "name": "Butter chicken",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Butter chicken is an indian curry dish.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "cathedral-church-of-the-redemption-delhi",
@@ -327,18 +881,89 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Architect: Henry Medd.",
+      "Lies in New Delhi, Delhi."
+    ]
+  },
+  {
+    "id": "central-gateway-delhi",
+    "name": "Central Gateway",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Central Gateway is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Badarpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "chandni-chowk-delhi",
     "name": "Chandni Chowk",
     "state": "Delhi",
-    "category": "other",
+    "category": "spiritual",
     "description": "Chandni Chowk is an area in Delhi.",
     "coordinates": {
       "lat": 28.65596,
       "lon": 77.23392
-    }
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Lies in Chandni Chowk tehsil, Delhi."
+    ]
+  },
+  {
+    "id": "chauburji-built-1651-1388-a-d-delhi",
+    "name": "Chauburji. Built 1651 - 1388 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Chauburji. Built 1651 - 1388 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Delhi ridge near Hindu Rao Hospital, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chaumachi-khans-tomb-delhi",
+    "name": "Chaumachi Khan’s Tomb",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Chaumachi Khan’s Tomb is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chausath-khamba-and-tomb-of-mirza-nizammudin-aziz-ka-kokaltash-son-of-ataga-khan-delhi",
+    "name": "Chausath Khamba and tomb of Mirza Nizammudin Aziz-ka-Kokaltash (son of Ataga Khan)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Chausath Khamba and tomb of Mirza Nizammudin Aziz-ka-Kokaltash (son of Ataga Khan) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "chausath-khamba-delhi",
@@ -349,7 +974,13 @@
     "coordinates": {
       "lat": 28.5912,
       "lon": 77.24304
-    }
+    },
+    "facts": [
+      "Dates from 1623.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Mughal architecture style.",
+      "Lies in South East Delhi district, Delhi."
+    ]
   },
   {
     "id": "chhatarpur-temple-delhi",
@@ -363,6 +994,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1970."
     ]
   },
   {
@@ -377,6 +1011,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Part of Red Fort."
     ]
   },
   {
@@ -388,7 +1025,10 @@
     "coordinates": {
       "lat": 28.551,
       "lon": 77.017
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
   },
   {
     "id": "children-s-museum-siri-fort-delhi",
@@ -403,6 +1043,9 @@
     "tags": [
       "fort",
       "museum"
+    ],
+    "facts": [
+      "Dates from 2011."
     ]
   },
   {
@@ -417,6 +1060,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in South East Delhi district, Delhi."
     ]
   },
   {
@@ -428,7 +1074,41 @@
     "coordinates": {
       "lat": 28.54767,
       "lon": 77.20596
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "chor-minar-no-289-vol-iii-delhi",
+    "name": "Chor Minar No. 289 Vol III",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Chor Minar No. 289 Vol III is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharehra (Hauz Khas Enclave), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "choti-gunti-delhi",
+    "name": "Choti Gunti",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Choti Gunti is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharehra village Green Park, Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "chunnamal-haveli-delhi",
@@ -439,7 +1119,10 @@
     "coordinates": {
       "lat": 28.65075,
       "lon": 77.23307
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
   },
   {
     "id": "church-of-immaculate-conception-delhi",
@@ -453,6 +1136,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -464,7 +1150,10 @@
     "coordinates": {
       "lat": 28.72301,
       "lon": 77.19689
-    }
+    },
+    "facts": [
+      "Dates from 1911."
+    ]
   },
   {
     "id": "dargah-mai-sahiba-delhi",
@@ -478,6 +1167,9 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
@@ -489,7 +1181,10 @@
     "coordinates": {
       "lat": 28.6553,
       "lon": 77.2342
-    }
+    },
+    "facts": [
+      "Lies in North India, Delhi."
+    ]
   },
   {
     "id": "deer-park-delhi-delhi",
@@ -500,7 +1195,23 @@
     "coordinates": {
       "lat": 28.5566,
       "lon": 77.1959
-    }
+    },
+    "facts": [
+      "Lies in Hauz Khas, Delhi."
+    ]
+  },
+  {
+    "id": "defensive-wall-delhi",
+    "name": "Defensive wall",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Defensive wall is a fortification used to protect an area from potential aggressors.",
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Part of fortress."
+    ]
   },
   {
     "id": "delhi-art-gallery-delhi",
@@ -514,18 +1225,43 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "delhi-gate-delhi",
+    "name": "Delhi Gate",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Delhi Gate is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bahadur Shah Zafar Marg, Daryaganj, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "delhi-gate-delhi-delhi",
     "name": "Delhi Gate, Delhi",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Delhi Gate, Delhi is a historical place in Delhi, India.",
     "coordinates": {
       "lat": 28.6412,
       "lon": 77.24051
-    }
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Chandni Chowk tehsil, Delhi."
+    ]
   },
   {
     "id": "delhi-gate-red-fort-delhi",
@@ -538,55 +1274,90 @@
       "lon": 77.2401
     },
     "tags": [
+      "world-heritage",
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
     ]
   },
   {
     "id": "delhi-ridge-delhi",
     "name": "Delhi Ridge",
     "state": "Delhi",
-    "category": "other",
+    "category": "nature",
     "description": "Delhi Ridge is a ridge in Delhi, India.",
     "coordinates": {
       "lat": 28.616,
       "lon": 77.169
-    }
+    },
+    "facts": [
+      "Covers about 78 km²."
+    ]
   },
   {
     "id": "delhi-sikh-gurdwara-management-committee-delhi",
     "name": "Delhi Sikh Gurdwara Management Committee",
     "state": "Delhi",
     "category": "spiritual",
-    "description": "Delhi Sikh Gurdwara Management Committee is an indian Sikh administrative organization."
+    "description": "Delhi Sikh Gurdwara Management Committee is an indian Sikh administrative organization.",
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
   },
   {
     "id": "delhi-sikh-gurdwaras-act-1971-delhi",
     "name": "Delhi Sikh Gurdwaras Act, 1971",
     "state": "Delhi",
     "category": "spiritual",
-    "description": "Delhi Sikh Gurdwaras Act, 1971 is an act of the Parliament of India, repealed Act 24 of 1971 from 1974."
+    "description": "Delhi Sikh Gurdwaras Act, 1971 is an act of the Parliament of India, repealed Act 24 of 1971 from 1974.",
+    "facts": [
+      "Part of list of Acts of the Parliament of India for 1971."
+    ]
+  },
+  {
+    "id": "delhi-sultanate-delhi",
+    "name": "Delhi Sultanate",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Delhi Sultanate is a 1206–1526 empire in the Indian subcontinent.",
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Dates from 1206."
+    ]
   },
   {
     "id": "delhi-topra-pillar-delhi",
     "name": "Delhi-Topra pillar",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Delhi-Topra pillar is a series of edicts on the teachings of Buddha.",
     "coordinates": {
       "lat": 28.63583,
       "lon": 77.24528
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Central Delhi district, Delhi."
+    ]
   },
   {
     "id": "delhi-war-cemetery-delhi",
     "name": "Delhi War Cemetery",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Delhi War Cemetery is a cemetery in India.",
     "coordinates": {
       "lat": 28.61624,
       "lon": 77.14542
-    }
+    },
+    "facts": [
+      "Dates from 1951.",
+      "Architect: Henry John Brown.",
+      "Lies in Delhi Cantonment, Delhi."
+    ]
   },
   {
     "id": "dharampura-haveli-delhi",
@@ -597,7 +1368,10 @@
     "coordinates": {
       "lat": 28.6533,
       "lon": 77.23227
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
   },
   {
     "id": "dilli-haat-delhi",
@@ -608,7 +1382,25 @@
     "coordinates": {
       "lat": 28.57316,
       "lon": 77.20851
-    }
+    },
+    "facts": [
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "domed-building-delhi",
+    "name": "Domed building",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Domed building is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in RK Puram, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "dr-ambedkar-national-memorial-delhi",
@@ -622,6 +1414,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
     ]
   },
   {
@@ -633,7 +1428,10 @@
     "coordinates": {
       "lat": 28.49976,
       "lon": 77.26684
-    }
+    },
+    "facts": [
+      "Lies in South Delhi district, Delhi."
+    ]
   },
   {
     "id": "dwarka-baoli-delhi",
@@ -644,7 +1442,85 @@
     "coordinates": {
       "lat": 28.59968,
       "lon": 77.04404
-    }
+    },
+    "facts": [
+      "Lies in South West Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "enclosure-containing-the-grave-of-lt-edwards-and-others-killed-in-1857-delhi",
+    "name": "Enclosure containing the grave of Lt. Edwards and others, killed in 1857",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Enclosure containing the grave of Lt. Edwards and others, killed in 1857 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in North Delhi ridge near Flag Staff Tower, Civil Lines, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "enclosure-containing-the-tomb-of-shah-alam-bahadur-shah-shah-alam-ii-and-akbar-shah-ii-delhi",
+    "name": "Enclosure containing the tomb of Shah Alam Bahadur Shah, Shah Alam II and Akbar Shah II",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Enclosure containing the tomb of Shah Alam Bahadur Shah, Shah Alam II and Akbar Shah II is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli / Wazirabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "enclosure-delhi",
+    "name": "Enclosure",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Enclosure is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "enclosure-wall-with-tomb-of-mirza-najaf-khan-delhi",
+    "name": "Enclosure wall with Tomb of Mirza Najaf Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Enclosure wall with Tomb of Mirza Najaf Khan is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address = Safdarjang Fly over, near Safdarjung Airport, Jor Bagh, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "eremo-cemetery-delhi",
+    "name": "Eremo Cemetery",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Eremo Cemetery is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in near Kishanaganj Railway Station, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "eternal-gandhi-multimedia-museum-delhi",
@@ -658,6 +1534,20 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2005."
+    ]
+  },
+  {
+    "id": "fairy-queen-locomotive-delhi",
+    "name": "Fairy Queen (locomotive)",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Fairy Queen (locomotive) is a 1855-built steam locomotive in India.",
+    "facts": [
+      "Recognised as Heritage inventory of Indian Railways.",
+      "Part of East Indian Railway G class."
     ]
   },
   {
@@ -669,7 +1559,10 @@
     "coordinates": {
       "lat": 28.6187,
       "lon": 77.2306
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "fatehpuri-mosque-delhi",
@@ -683,6 +1576,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -697,18 +1593,84 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Named after Firuz Shah Tughlaq.",
+      "Part of Seven Cities of Delhi.",
+      "Lies in Jangpura tehsil, Delhi."
     ]
   },
   {
-    "id": "flagstaff-tower-delhi",
-    "name": "Flagstaff Tower",
+    "id": "flag-of-india-delhi",
+    "name": "Flag of India",
     "state": "Delhi",
     "category": "other",
+    "description": "Flag of India is a national flag of the Republic of India.",
+    "facts": [
+      "Dates from 22 July 1947.",
+      "Part of National symbols of India."
+    ]
+  },
+  {
+    "id": "flagstaff-tower-delhi-q5457032",
+    "name": "Flagstaff Tower",
+    "state": "Delhi",
+    "category": "heritage",
     "description": "Flagstaff Tower is a 19th-century signal tower in Kamla Nehru Ridge, Delhi, India.",
     "coordinates": {
       "lat": 28.68806,
       "lon": 77.21806
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in North Delhi district, Delhi.",
+      "Recognised as a State Protected Monument.",
+      "Lies in 400 yards North of Cheuburji Mosque, Delhi."
+    ]
+  },
+  {
+    "id": "fortification-delhi",
+    "name": "Fortification",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Fortification is a military constructions and buildings designed for defense in warfare and military bases.",
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "fortification-wall-asad-burj-water-gate-delhi-gate-lahori-gate-jahangiri-gate-chhatta-bazar-baoli-delhi",
+    "name": "Fortification Wall Asad Burj, Water gate, Delhi Gate, Lahori Gate, Jahangiri Gate, Chhatta Bazar, Baoli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Fortification Wall Asad Burj, Water gate, Delhi Gate, Lahori Gate, Jahangiri Gate, Chhatta Bazar, Baoli is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Red Fort, Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fortification-walls-gates-bastions-and-ancient-buildings-of-salimgarh-fort-delhi",
+    "name": "Fortification walls, Gates, Bastions and Ancient Buildings of Salimgarh Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Fortification walls, Gates, Bastions and Ancient Buildings of Salimgarh Fort is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address = Bela Road, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "gandhi-smriti-delhi",
@@ -722,6 +1684,12 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1973.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Named after Mahatma Gandhi.",
+      "Lies in New Delhi district, Delhi."
     ]
   },
   {
@@ -733,7 +1701,70 @@
     "coordinates": {
       "lat": 28.51782,
       "lon": 77.1998
-    }
+    },
+    "facts": [
+      "Named after five wits."
+    ]
+  },
+  {
+    "id": "gates-and-walls-of-mubarakpur-kotla-in-village-mubarakpur-delhi",
+    "name": "Gates and walls of Mubarakpur, Kotla in village Mubarakpur",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Gates and walls of Mubarakpur, Kotla in village Mubarakpur is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in village Mubarakpur, Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gateway-of-rai-pithoria-s-fort-delhi",
+    "name": "Gateway of Rai Pithoria's fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Gateway of Rai Pithoria's fort is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ladho Sarai, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gateways-of-badli-ki-sarai-delhi",
+    "name": "Gateways of Badli-Ki-Sarai",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Gateways of Badli-Ki-Sarai is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Village Pipalthala, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gateways-of-lal-kot-delhi",
+    "name": "Gateways of Lal kot",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Gateways of Lal kot is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ladho Sarai, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "ghalib-ki-haveli-delhi",
@@ -747,6 +1778,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 27 December 2000."
     ]
   },
   {
@@ -761,25 +1795,34 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 22 February 1969."
     ]
   },
   {
     "id": "ghantaghar-delhi",
     "name": "Ghantaghar",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Ghantaghar is a place in Delhi India.",
     "coordinates": {
       "lat": 28.65732,
       "lon": 77.22791
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
   },
   {
     "id": "ghantewala-delhi",
     "name": "Ghantewala",
     "state": "Delhi",
     "category": "other",
-    "description": "Ghantewala is a confectionery seller."
+    "description": "Ghantewala is a confectionery seller.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "golden-mosque-red-fort-delhi",
@@ -794,6 +1837,86 @@
     "tags": [
       "fort",
       "mosque"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the Indo-Islamic architecture style.",
+      "Lies in North Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "golden-triangle-india-delhi",
+    "name": "Golden Triangle (India)",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Golden Triangle (India) is a tourist circuit in India.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "government-of-delhi-delhi",
+    "name": "Government of Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Government of Delhi is a supreme governing authority of the Indian National Capital Territory of Delhi.",
+    "facts": [
+      "Lies in National Capital Territory of Delhi, Delhi."
+    ]
+  },
+  {
+    "id": "governor-general-of-india-delhi",
+    "name": "Governor-General of India",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Governor-General of India is a viceroy of British India.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "grave-of-jahanara-begum-delhi",
+    "name": "Grave of Jahanara Begum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Grave of Jahanara Begum is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "grave-of-mirza-jahangir-delhi",
+    "name": "Grave of Mirza Jahangir",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Grave of Mirza Jahangir is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "grave-of-mohammed-shah-delhi",
+    "name": "Grave of Mohammed Shah",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Grave of Mohammed Shah is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -805,7 +1928,10 @@
     "coordinates": {
       "lat": 28.55,
       "lon": 77.2
-    }
+    },
+    "facts": [
+      "Lies in South Delhi district, Delhi."
+    ]
   },
   {
     "id": "gulmohar-park-delhi",
@@ -816,7 +1942,10 @@
     "coordinates": {
       "lat": 28.5599,
       "lon": 77.2122
-    }
+    },
+    "facts": [
+      "Lies in South Delhi district, Delhi."
+    ]
   },
   {
     "id": "gurdwara-bangla-sahib-delhi",
@@ -827,7 +1956,12 @@
     "coordinates": {
       "lat": 28.6267,
       "lon": 77.2089
-    }
+    },
+    "facts": [
+      "Dates from 1664.",
+      "Built in the Sikh architecture style.",
+      "Lies in New Delhi, Delhi."
+    ]
   },
   {
     "id": "gurdwara-dam-dama-sahib-delhi",
@@ -838,7 +1972,10 @@
     "coordinates": {
       "lat": 28.59475,
       "lon": 77.25257
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
   },
   {
     "id": "gurdwara-mata-sundri-delhi",
@@ -849,7 +1986,11 @@
     "coordinates": {
       "lat": 28.63437,
       "lon": 77.23389
-    }
+    },
+    "facts": [
+      "Associated with Sikhism.",
+      "Lies in New Delhi, Delhi."
+    ]
   },
   {
     "id": "gurdwara-nanak-piao-delhi",
@@ -860,7 +2001,10 @@
     "coordinates": {
       "lat": 28.69,
       "lon": 77.19
-    }
+    },
+    "facts": [
+      "Lies in New Delhi, Delhi."
+    ]
   },
   {
     "id": "gurdwara-rakab-ganj-sahib-delhi",
@@ -871,7 +2015,12 @@
     "coordinates": {
       "lat": 28.61819,
       "lon": 77.20481
-    }
+    },
+    "facts": [
+      "Dates from 1783.",
+      "Built in the Sikh architecture style.",
+      "Lies in New Delhi, Delhi."
+    ]
   },
   {
     "id": "gurdwara-sis-ganj-sahib-delhi",
@@ -882,7 +2031,11 @@
     "coordinates": {
       "lat": 28.6558,
       "lon": 77.2325
-    }
+    },
+    "facts": [
+      "Dates from 1783.",
+      "Built in the Sikh architecture style."
+    ]
   },
   {
     "id": "gurdwara-sri-guru-singh-sabha-greater-kailash-delhi",
@@ -893,18 +2046,39 @@
     "coordinates": {
       "lat": 28.55237,
       "lon": 77.23873
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
   },
   {
     "id": "gyarah-murti-delhi",
     "name": "Gyarah Murti",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Gyarah Murti is a statue in New Delhi.",
     "coordinates": {
       "lat": 28.61,
       "lon": 77.19167
-    }
+    },
+    "facts": [
+      "Created by Debi Prasad Roy Choudhury."
+    ]
+  },
+  {
+    "id": "haji-langa-s-tomb-delhi",
+    "name": "Haji Langa's Tomb",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Haji Langa's Tomb is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in RK Puram, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "hanuman-temple-connaught-place-delhi",
@@ -918,18 +2092,55 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
     "id": "hauz-i-shamsi-delhi",
     "name": "Hauz-i-Shamsi",
     "state": "Delhi",
-    "category": "other",
+    "category": "nature",
     "description": "Hauz-i-Shamsi is a body of water.",
     "coordinates": {
       "lat": 28.51417,
       "lon": 77.17833
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "hauz-i-shamsi-shamsid-tallab-together-with-platform-entrance-gates-delhi",
+    "name": "Hauz-i-Shamsi (Shamsid Tallab) together with platform entrance gates",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Hauz-i-Shamsi (Shamsid Tallab) together with platform entrance gates is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hauz-i-shamsi-with-central-red-stone-pavilion-situated-at-mehrauli-in-field-no-157-81-1586-97-1614-amp-1624-delhi",
+    "name": "Hauz-i-Shamsi with central red stone pavilion situated at Mehrauli in field No. 157-81, 1586-97, 1614 &amp;1624",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Hauz-i-Shamsi with central red stone pavilion situated at Mehrauli in field No. 157-81, 1586-97, 1614 &amp;1624 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Adjacent to Jahaz Mahal, Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "hauz-khas-complex-delhi",
@@ -943,6 +2154,29 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1352.",
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "hauz-khas-delhi",
+    "name": "Hauz Khas",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Hauz Khas is a neighbourhood in Delhi, India.",
+    "coordinates": {
+      "lat": 28.5471,
+      "lon": 77.204
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Named after water reservoir.",
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
@@ -956,8 +2190,15 @@
       "lon": 77.24181
     },
     "tags": [
-      "mosque",
+      "world-heritage",
       "pilgrimage"
+    ],
+    "facts": [
+      "Dates from 1325.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Indo-Islamic architecture style.",
+      "Associated with Sunni Islam.",
+      "Lies in South East Delhi district, Delhi."
     ]
   },
   {
@@ -972,6 +2213,24 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in New Delhi, Delhi."
+    ]
+  },
+  {
+    "id": "horse-stable-delhi",
+    "name": "Horse Stable",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Horse Stable is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -986,6 +2245,44 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Dates from 1560.",
+      "Recognised as World Heritage Site.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Mughal architecture style.",
+      "Named after Humayun.",
+      "Covers about 27 ha."
+    ]
+  },
+  {
+    "id": "i-unnamed-mosque-br-ii-unnamed-tomb-br-at-the-left-of-image-delhi",
+    "name": "i Unnamed Mosque<br> ii Unnamed Tomb<br> (At the left of Image)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "i Unnamed Mosque<br> ii Unnamed Tomb<br> (At the left of Image) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munirka 321&amp;<br>Munirka 322, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "idgah-of-kharehra-no-287-vol-iii-delhi",
+    "name": "Idgah of Kharehra No. 287, Vol III",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Idgah of Kharehra No. 287, Vol III is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharehra village, Hauz Khas Enclave, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -997,18 +2294,71 @@
     "coordinates": {
       "lat": 28.57628,
       "lon": 77.21203
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "inchla-wali-gunti-delisted-delhi",
+    "name": "Inchla Wali Gunti (Delisted)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Inchla Wali Gunti (Delisted) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in village Mubarakpur, Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "independence-day-india-delhi",
+    "name": "Independence Day (India)",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Independence Day (India) is a national day in India, celebrated on 15 August.",
+    "coordinates": {
+      "lat": 22.8,
+      "lon": 83.0
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "india-gate-delhi",
     "name": "India Gate",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "India Gate is a triumphal arch in New Delhi.",
     "coordinates": {
       "lat": 28.61286,
       "lon": 77.22931
-    }
+    },
+    "facts": [
+      "Dates from 12 February 1931.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Architect: Edwin Lutyens.",
+      "Rises about 42 m.",
+      "Lies in New Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "indian-accent-restaurant-delhi",
+    "name": "Indian Accent (restaurant)",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Indian Accent (restaurant) is a restaurant in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.57054,
+      "lon": 77.25655
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "indian-air-force-museum-palam-delhi",
@@ -1022,6 +2372,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Lies in Palam, Delhi."
     ]
   },
   {
@@ -1037,6 +2390,9 @@
     "tags": [
       "fort",
       "museum"
+    ],
+    "facts": [
+      "Dates from 1919."
     ]
   },
   {
@@ -1048,7 +2404,11 @@
     "coordinates": {
       "lat": 28.63111,
       "lon": 77.24944
-    }
+    },
+    "facts": [
+      "Opened in 1 January 1982.",
+      "Lies in New Delhi, Delhi."
+    ]
   },
   {
     "id": "indraprastha-park-delhi",
@@ -1059,14 +2419,25 @@
     "coordinates": {
       "lat": 28.60106,
       "lon": 77.25351
-    }
+    },
+    "facts": [
+      "Lies in Jangpura tehsil, Delhi."
+    ]
   },
   {
-    "id": "international-mango-festival-delhi",
-    "name": "International Mango Festival",
+    "id": "iron-pillar-hindu-delhi",
+    "name": "Iron Pillar Hindu",
     "state": "Delhi",
-    "category": "other",
-    "description": "International Mango Festival is a food festival in Delhi, India."
+    "category": "heritage",
+    "description": "Iron Pillar Hindu is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "iron-pillar-of-delhi-delhi",
@@ -1079,7 +2450,16 @@
       "lon": 77.18507
     },
     "tags": [
+      "world-heritage",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from the 5th century.",
+      "Recognised as Monument of National Importance.",
+      "Recognised as World Heritage Site.",
+      "Part of Qutb complex.",
+      "Rises about 7 m.",
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
@@ -1094,6 +2474,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1998.",
+      "Lies in South East Delhi district, Delhi."
     ]
   },
   {
@@ -1105,7 +2489,10 @@
     "coordinates": {
       "lat": 28.62834,
       "lon": 77.25519
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
   },
   {
     "id": "jagannath-temple-delhi-delhi",
@@ -1119,6 +2506,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
+  },
+  {
+    "id": "jahanpanah-begampur-mosque-begampuri-masjid-delhi",
+    "name": "[[Jahanpanah#Begampur Mosque|Begampuri Masjid]]",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "[[Jahanpanah#Begampur Mosque|Begampuri Masjid]] is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Begampur, in historic Jahanpanah, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jahanpanah-bijay-mandal-bijay-mandal-neighbouring-domes-buildings-and-dalan-to-north-of-begumpur-delhi",
+    "name": "[[Jahanpanah#Bijay Mandal|Bijay Mandal]], neighbouring domes, buildings and dalan to north of Begumpur",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "[[Jahanpanah#Bijay Mandal|Bijay Mandal]], neighbouring domes, buildings and dalan to north of Begumpur is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in In village Kalusarai (Sarvapriya Vihar), part of historic Jahanpanah, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1130,7 +2550,10 @@
     "coordinates": {
       "lat": 28.52668,
       "lon": 77.24389
-    }
+    },
+    "facts": [
+      "Lies in Greater Kailash, Delhi."
+    ]
   },
   {
     "id": "jahanpanah-delhi",
@@ -1143,12 +2566,16 @@
       "lon": 77.246
     },
     "tags": [
-      "fort",
-      "archaeological-site"
+      "fort"
+    ],
+    "facts": [
+      "Part of Seven Cities of Delhi.",
+      "Maintained under Muhammad ibn Tughluq.",
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
-    "id": "jahaz-mahal-delhi",
+    "id": "jahaz-mahal-delhi-q6123216",
     "name": "Jahaz Mahal",
     "state": "Delhi",
     "category": "heritage",
@@ -1159,6 +2586,29 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Dates from 1460.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Mughal architecture style.",
+      "Named after ship.",
+      "Lies in South Delhi district, Delhi.",
+      "Recognised as a State Protected Monument."
+    ]
+  },
+  {
+    "id": "jainism-delhi",
+    "name": "Jainism",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Jainism is an indian religion.",
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Dates from the 5th century.",
+      "Founded by Mahavira.",
+      "Named after Arihant."
     ]
   },
   {
@@ -1170,7 +2620,20 @@
     "coordinates": {
       "lat": 28.6079,
       "lon": 77.2252
-    }
+    },
+    "facts": [
+      "Lies in New Delhi, Delhi."
+    ]
+  },
+  {
+    "id": "jalebi-delhi",
+    "name": "Jalebi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Jalebi is a sweet popular in countries of South Asia, West Asia, North Africa, and East Africa.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "jama-masjid-delhi-delhi",
@@ -1184,6 +2647,13 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1656.",
+      "Built in the Islamic architecture style.",
+      "Associated with Islam.",
+      "Rises about 40 m.",
+      "Lies in Chandni Chowk tehsil, Delhi."
     ]
   },
   {
@@ -1198,6 +2668,27 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1528.",
+      "Recognised as Monument of National Importance.",
+      "Architect: Jamali Kamboh.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "jamali-kamali-mosque-and-tomb-of-maulana-jamali-kamali-jamali-kamboh-built-1526-1535-a-d-delhi",
+    "name": "Jamali Kamali Mosque and Tomb of Maulana Jamali Kamali (Jamali Kamboh). Built ~1526 - 1535 A.D",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Jamali Kamali Mosque and Tomb of Maulana Jamali Kamali (Jamali Kamboh). Built ~1526 - 1535 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli Archaeological Park, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1209,18 +2700,43 @@
     "coordinates": {
       "lat": 28.6104,
       "lon": 77.2282
-    }
+    },
+    "facts": [
+      "Lies in New Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "jantar-mantar-delhi",
+    "name": "Jantar Mantar",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Jantar Mantar is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Connaught Place, New Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "jantar-mantar-new-delhi-delhi",
     "name": "Jantar Mantar, New Delhi",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Jantar Mantar, New Delhi is a historical place in New Delhi.",
     "coordinates": {
       "lat": 28.62711,
       "lon": 77.21648
-    }
+    },
+    "facts": [
+      "Dates from 1724.",
+      "Recognised as Monument of National Importance.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Founded by Jai Singh II.",
+      "Lies in New Delhi district, Delhi."
+    ]
   },
   {
     "id": "jhandewalan-temple-delhi",
@@ -1234,6 +2750,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -1245,14 +2764,35 @@
     "coordinates": {
       "lat": 28.5989,
       "lon": 77.2151
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "jwala-heri-delhi",
     "name": "Jwala Heri",
     "state": "Delhi",
     "category": "other",
-    "description": "Jwala Heri is a tourism place in Delhi, India."
+    "description": "Jwala Heri is a tourism place in Delhi, India.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "kala-gumbad-delhi",
+    "name": "Kala Gumbad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Kala Gumbad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in village Mubarakpur, Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "kalan-masjid-delhi",
@@ -1266,6 +2806,24 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
+  },
+  {
+    "id": "kali-gumti-delhi",
+    "name": "Kali Gumti",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Kali Gumti is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Humayunpur (Hauz Khas), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1277,7 +2835,10 @@
     "coordinates": {
       "lat": 28.5458,
       "lon": 77.3086
-    }
+    },
+    "facts": [
+      "Lies in Kalkaji tehsil, Delhi."
+    ]
   },
   {
     "id": "kalkaji-mandir-delhi",
@@ -1291,6 +2852,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
+  },
+  {
+    "id": "kalu-sarai-near-azad-apartment-delhi",
+    "name": "Kalu Sarai near Azad Apartment;",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Kalu Sarai near Azad Apartment; is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address = near Azad Apartment, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1302,36 +2881,35 @@
     "coordinates": {
       "lat": 28.6059,
       "lon": 77.2236
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
-    "id": "karim-s-delhi",
-    "name": "Karim's",
+    "id": "katyayani-delhi",
+    "name": "Katyayani",
     "state": "Delhi",
     "category": "other",
-    "description": "Karim's is an international restaurant chain headquartered in Delhi, India."
+    "description": "Katyayani is a hindu goddess of power.",
+    "facts": [
+      "Associated with Hinduism."
+    ]
   },
   {
-    "id": "kashmir-house-delhi",
-    "name": "Kashmir House",
+    "id": "khair-ul-manzil-also-khairul-manazil-or-khair-ul-manajil-built-1561-a-d-delhi",
+    "name": "Khair-ul-Manzil (also: Khairul Manazil or Khair-ul-Manajil). Built 1561 A.D",
     "state": "Delhi",
-    "category": "other",
-    "description": "Kashmir House is a government Guest House and Administrative Office in New Delhi, India.",
-    "coordinates": {
-      "lat": 28.6011,
-      "lon": 77.2228
-    }
-  },
-  {
-    "id": "kashmiri-gate-delhi-delhi",
-    "name": "Kashmiri Gate, Delhi",
-    "state": "Delhi",
-    "category": "other",
-    "description": "Kashmiri Gate, Delhi is a historic site.",
-    "coordinates": {
-      "lat": 28.66639,
-      "lon": 77.22889
-    }
+    "category": "heritage",
+    "description": "Khair-ul-Manzil (also: Khairul Manazil or Khair-ul-Manajil). Built 1561 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Babarpur Bazipur (Kakanagar), opposite Purana Qila, Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "khairul-manazil-delhi",
@@ -1345,6 +2923,12 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1561.",
+      "Recognised as Monument of National Importance.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Lies in New Delhi district, Delhi."
     ]
   },
   {
@@ -1356,7 +2940,10 @@
     "coordinates": {
       "lat": 28.60028,
       "lon": 77.22681
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "khari-baoli-delhi",
@@ -1367,7 +2954,25 @@
     "coordinates": {
       "lat": 28.6579,
       "lon": 77.2212
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "khirki-masjid-khirkee-masjid-delhi",
+    "name": "Khirki Masjid (Khirkee Masjid)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Khirki Masjid (Khirkee Masjid) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Village Khirkee, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "khirki-mosque-delhi",
@@ -1381,18 +2986,30 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1351.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Tughlaq architecture style style.",
+      "Associated with Islam.",
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
     "id": "khooni-darwaza-delhi",
     "name": "Khooni Darwaza",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Khooni Darwaza is a gate in Delhi, India.",
     "coordinates": {
       "lat": 28.636,
       "lon": 77.241
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Rises about 15.5 m.",
+      "Lies in Central Delhi district, Delhi."
+    ]
   },
   {
     "id": "kiran-nadar-museum-of-art-delhi",
@@ -1406,6 +3023,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from January 2010.",
+      "Founded by Kiran Nadar."
     ]
   },
   {
@@ -1417,7 +3038,56 @@
     "coordinates": {
       "lat": 28.6504,
       "lon": 77.1444
-    }
+    },
+    "facts": [
+      "Lies in West Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "kos-minar-badarpur-border-village-tajpul-delhi",
+    "name": "Kos Minar, Badarpur Border (Village Tajpul)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Kos Minar, Badarpur Border (Village Tajpul) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Badarpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kos-minar-delhi",
+    "name": "Kos Minar",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Kos Minar is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Badarpur, Delhi.",
+      "Lies in Village Kotla Mahigirim, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kos-minar-or-mughal-mile-stone-delhi",
+    "name": "Kos Minar or Mughal Mile stone",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Kos Minar or Mughal Mile stone is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Babarpur Bazipur( Kakanagar), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "kotla-mubarakpur-complex-delhi",
@@ -1431,6 +3101,25 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1434.",
+      "Lies in South East Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "kotla-mubarakpur-complex-mubarak-shah-s-tomb-tomb-of-mubarak-shah-in-mubarakpur-kotla-built-1434-a-d-delhi",
+    "name": "[[Kotla Mubarakpur Complex#Mubarak Shah's tomb|Tomb of Mubarak Shah]] in Mubarakpur, Kotla. Built 1434 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "[[Kotla Mubarakpur Complex#Mubarak Shah's tomb|Tomb of Mubarak Shah]] in Mubarakpur, Kotla. Built 1434 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in village Mubarakpur, Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1445,6 +3134,71 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Named after Lahore.",
+      "Part of Red Fort.",
+      "Lies in Central Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "lakhar-wal-gumbad-tomb-delhi",
+    "name": "Lakhar wal Gumbad (Tomb)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Lakhar wal Gumbad (Tomb) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Inderpat Estate (Sunder Nursery), Near Delhi Public School, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lal-bangla-c-1780-delhi",
+    "name": "Lal Bangla, c. 1780",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Lal Bangla, c. 1780 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Babarpur (Kaka Nagar), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lal-darwaza-the-northern-gate-of-the-outer-walls-of-the-delhi-of-sher-shah-suri-also-known-as-khooni-darwaza-delhi",
+    "name": "Lal Darwaza, the northern gate of the outer walls of the Delhi of Sher Shah Suri. Also known as Khooni Darwaza",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Lal Darwaza, the northern gate of the outer walls of the Delhi of Sher Shah Suri. Also known as Khooni Darwaza is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Three furlongs due south of Delhi Gate,, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lal-gumbad-maulana-abdul-hakim-tomb-delhi",
+    "name": "Lal Gumbad Maulana Abdul Hakim Tomb",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Lal Gumbad Maulana Abdul Hakim Tomb is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chirag Delhi in Jahanpanah, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1459,6 +3213,30 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1729.",
+      "Built in the Indo-Islamic architecture style."
+    ]
+  },
+  {
+    "id": "lalita-park-building-collapse-delhi",
+    "name": "Lalita Park building collapse",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Lalita Park building collapse is a 2010 building collapse in New Delhi, India.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "langar-sikhism-delhi",
+    "name": "Langar (Sikhism)",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Langar (Sikhism) is a sikh community kitchen where a free meal is served to all visitors by volunteers.",
+    "facts": [
+      "Associated with Sikhism."
     ]
   },
   {
@@ -1473,6 +3251,12 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Built in the Hindu architecture style.",
+      "Founded by Ghanshyam Das Birla.",
+      "Associated with Vaishnavism.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -1484,18 +3268,29 @@
     "coordinates": {
       "lat": 28.59444,
       "lon": 77.22
-    }
+    },
+    "facts": [
+      "Named after Sikandar Khan Lodi.",
+      "Lies in New Delhi district, Delhi."
+    ]
   },
   {
-    "id": "lothian-cemetery-delhi",
+    "id": "lothian-cemetery-delhi-q22807267",
     "name": "Lothian Cemetery",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Lothian Cemetery is a cemetery in India.",
     "coordinates": {
       "lat": 28.66127,
       "lon": 77.23622
-    }
+    },
+    "facts": [
+      "Dates from 1808.",
+      "Recognised as Monument of National Importance.",
+      "Lies in North Delhi district, Delhi.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmiri Gate, Delhi."
+    ]
   },
   {
     "id": "lotus-temple-delhi",
@@ -1510,6 +3305,14 @@
     "tags": [
       "world-heritage",
       "temple"
+    ],
+    "facts": [
+      "Dates from 1986.",
+      "Opened in 24 December 1986.",
+      "Recognised as Tentative World Heritage Site.",
+      "Built in the expressionist architecture style.",
+      "Architect: Fariborz Sahba.",
+      "Associated with Baháʼí Faith."
     ]
   },
   {
@@ -1521,7 +3324,10 @@
     "coordinates": {
       "lat": 28.67394,
       "lon": 77.22188
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "lutyens-bungalow-zone-delhi",
@@ -1532,7 +3338,10 @@
     "coordinates": {
       "lat": 28.59195,
       "lon": 77.21377
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "lutyens-delhi-delhi",
@@ -1543,7 +3352,25 @@
     "coordinates": {
       "lat": 28.63576,
       "lon": 77.22445
-    }
+    },
+    "facts": [
+      "Lies in New Delhi, Delhi."
+    ]
+  },
+  {
+    "id": "madhi-masjid-delhi",
+    "name": "Madhi Masjid",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Madhi Masjid is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ladho Sarai, near Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "madrasa-and-tomb-of-alauddin-khalji-delhi",
@@ -1557,6 +3384,82 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "maharaja-delhi",
+    "name": "Maharaja",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Maharaja is a hindu Indian ruler title.",
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Associated with Hinduism."
+    ]
+  },
+  {
+    "id": "mamluk-dynasty-delhi-delhi",
+    "name": "Mamluk dynasty (Delhi)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Mamluk dynasty (Delhi) is a first dynasty in Delhi Sultanate.",
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Dates from 1206.",
+      "Founded by Qutb-ud-din Aibak.",
+      "Associated with Sunni Islam."
+    ]
+  },
+  {
+    "id": "marble-tomb-reputed-to-be-that-of-newab-bahadur-jawid-khan-delhi",
+    "name": "Marble Tomb reputed to be that of Newab Bahadur Jawid Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Marble Tomb reputed to be that of Newab Bahadur Jawid Khan is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Aliganj, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mazar-of-sheikh-mohammad-ibrahim-zauq-delhi",
+    "name": "Mazar of Sheikh Mohammad Ibrahim Zauq",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Mazar of Sheikh Mohammad Ibrahim Zauq is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in ChindBagh,Kadam Sharif, Paharganj, Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mazar-tomb-of-mirza-ghalib-delhi",
+    "name": "Mazar (tomb) of Mirza Ghalib",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Mazar (tomb) of Mirza Ghalib is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizamuddin West, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1568,7 +3471,10 @@
     "coordinates": {
       "lat": 28.58472,
       "lon": 77.22611
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "mehram-nagar-delhi",
@@ -1579,7 +3485,10 @@
     "coordinates": {
       "lat": 28.56472,
       "lon": 77.11889
-    }
+    },
+    "facts": [
+      "Known as a offbeat destination in Delhi."
+    ]
   },
   {
     "id": "mehram-serai-delhi",
@@ -1590,7 +3499,10 @@
     "coordinates": {
       "lat": 28.56472,
       "lon": 77.11889
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
   },
   {
     "id": "mehrauli-archaeological-park-delhi",
@@ -1604,6 +3516,40 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Mehrauli tehsil, Delhi."
+    ]
+  },
+  {
+    "id": "mehrauli-delhi",
+    "name": "Mehrauli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Mehrauli is a neighbourhood in the South district of Delhi in India.",
+    "coordinates": {
+      "lat": 28.51583,
+      "lon": 77.1775
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Part of Seven Cities of Delhi.",
+      "Lies in Mehrauli tehsil, Delhi."
+    ]
+  },
+  {
+    "id": "memorial-delhi",
+    "name": "Memorial",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Memorial is an area or object, smaller than a monument, which serves as a focus for memory of something.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
     ]
   },
   {
@@ -1615,7 +3561,11 @@
     "coordinates": {
       "lat": 28.5225,
       "lon": 77.1869
-    }
+    },
+    "facts": [
+      "Architect: Sir Thomas Metcalfe, 4th Baronet.",
+      "Named after Sir Thomas Metcalfe, 4th Baronet."
+    ]
   },
   {
     "id": "mini-qutub-minar-delhi",
@@ -1626,7 +3576,85 @@
     "coordinates": {
       "lat": 28.63381,
       "lon": 77.05725
-    }
+    },
+    "facts": [
+      "Dates from 17.",
+      "Built in the Mughal architecture style.",
+      "Lies in Hastsal, Delhi."
+    ]
+  },
+  {
+    "id": "ministry-of-environment-forest-and-climate-change-delhi",
+    "name": "Ministry of Environment, Forest and Climate Change",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Ministry of Environment, Forest and Climate Change is an indian government ministry.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1985.",
+      "Part of Government of India.",
+      "Lies in New Delhi, Delhi."
+    ]
+  },
+  {
+    "id": "modern-art-delhi",
+    "name": "Modern art",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Modern art is an artistic works produced during the period extending roughly from the 1860s to the 1970s.",
+    "facts": [
+      "Dates from the 1860s.",
+      "Part of modernism."
+    ]
+  },
+  {
+    "id": "mosque-attached-to-mubarak-shah-tomb-delhi",
+    "name": "Mosque attached to Mubarak shah Tomb",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Mosque attached to Mubarak shah Tomb is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in village Mubarakpur, Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mosque-delhi",
+    "name": "Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Mosque is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi.",
+      "Lies in Lado Sarai Village, Delhi.",
+      "Associated with Islam."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mosque-with-the-dalans-and-courtyard-and-the-bara-gumbad-the-domed-entrance-to-the-mosque-delhi",
+    "name": "Mosque with the dalans and courtyard and the Bara Gumbad (the domed entrance to the mosque)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Mosque with the dalans and courtyard and the Bara Gumbad (the domed entrance to the mosque) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khairpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "moth-ki-mosque-delhi",
@@ -1640,6 +3668,43 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1505.",
+      "Recognised as Monument of National Importance.",
+      "Built in the Islamic architecture style.",
+      "Associated with Islam.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "moti-ki-masjid-moth-ki-masjid-delhi",
+    "name": "Moti-ki-Masjid (Moth Ki Masjid)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Moti-ki-Masjid (Moth Ki Masjid) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Behind South Extension Part II, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "moti-masjid-delhi",
+    "name": "Moti Masjid",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Moti Masjid is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1654,6 +3719,10 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
@@ -1669,6 +3738,27 @@
     "tags": [
       "fort",
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1662.",
+      "Built in the Indo-Islamic architecture style.",
+      "Associated with Islam.",
+      "Part of Red Fort."
+    ]
+  },
+  {
+    "id": "mound-known-as-jaga-bai-comprise-in-part-of-surve-plot-no-167-missing-delhi",
+    "name": "Mound known as Jaga Bai comprise in part of surve plot no. 167. Missing",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Mound known as Jaga Bai comprise in part of surve plot no. 167. Missing is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Jamia nagar, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -1683,10 +3773,51 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
-    "id": "mutiny-memorial-delhi",
+    "id": "mughal-empire-delhi",
+    "name": "Mughal Empire",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Mughal Empire is a great Turkic descent empire ruling India (1526–1857).",
+    "facts": [
+      "Dates from 1526.",
+      "Covers about 4,000,000 km²."
+    ]
+  },
+  {
+    "id": "mughal-garden-delhi",
+    "name": "Mughal garden",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Mughal garden is a gardens built by Mughals.",
+    "facts": [
+      "Built in the Mughal architecture style.",
+      "Created by Mughal Empire."
+    ]
+  },
+  {
+    "id": "munda-gumbad-delhi",
+    "name": "Munda Gumbad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Munda Gumbad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munirka, Delhi.",
+      "Lies in | address =, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mutiny-memorial-delhi-q6943944",
     "name": "Mutiny Memorial",
     "state": "Delhi",
     "category": "heritage",
@@ -1694,7 +3825,12 @@
     "coordinates": {
       "lat": 28.67167,
       "lon": 77.21389
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as a State Protected Monument.",
+      "Lies in In front of Old Telegraph Building, Kashmiri Gate,, Delhi."
+    ]
   },
   {
     "id": "nabha-house-new-delhi-delhi",
@@ -1705,7 +3841,25 @@
     "coordinates": {
       "lat": 28.6265,
       "lon": 77.2343
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "nai-ka-kot-delhi",
+    "name": "Nai-ka-kot",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Nai-ka-kot is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tughlaqabad Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "najafgarh-drain-bird-sanctuary-delhi",
@@ -1716,7 +3870,10 @@
     "coordinates": {
       "lat": 28.504,
       "lon": 76.944
-    }
+    },
+    "facts": [
+      "Known as a wildlife destination in Delhi."
+    ]
   },
   {
     "id": "najafgarh-drain-delhi",
@@ -1727,7 +3884,10 @@
     "coordinates": {
       "lat": 28.51667,
       "lon": 76.6
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
   },
   {
     "id": "najafgarh-lake-delhi",
@@ -1741,18 +3901,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Delhi."
     ]
   },
   {
-    "id": "najafgarh-stadium-delhi",
-    "name": "Najafgarh Stadium",
+    "id": "national-capital-region-india-delhi",
+    "name": "National Capital Region (India)",
     "state": "Delhi",
-    "category": "other",
-    "description": "Najafgarh Stadium is a stadium in Najafgarh, Delhi, India.",
+    "category": "nature",
+    "description": "National Capital Region (India) is a region in India.",
     "coordinates": {
-      "lat": 28.61111,
-      "lon": 76.98861
-    }
+      "lat": 28.7,
+      "lon": 77.2
+    },
+    "facts": [
+      "Covers about 54,984 km²."
+    ]
   },
   {
     "id": "national-charkha-museum-delhi",
@@ -1766,6 +3932,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 21 May 2017.",
+      "Lies in Connaught Place, Delhi."
     ]
   },
   {
@@ -1780,6 +3950,13 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1954.",
+      "Architect: Arthur Blomfield.",
+      "Founded by Government of India.",
+      "Maintained under Ministry of Culture.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -1794,6 +3971,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1961.",
+      "Named after Mahatma Gandhi.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -1808,6 +3990,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1956.",
+      "Lies in South East Delhi district, Delhi."
     ]
   },
   {
@@ -1822,6 +4008,12 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 15 August 1949.",
+      "Architect: Ganesh Bhikaji Deolalikar.",
+      "About 7,400,000 visits in a recorded year.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -1836,6 +4028,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1972."
     ]
   },
   {
@@ -1850,20 +4045,9 @@
     },
     "tags": [
       "museum"
-    ]
-  },
-  {
-    "id": "national-police-memorial-india-delhi",
-    "name": "National Police Memorial (India)",
-    "state": "Delhi",
-    "category": "heritage",
-    "description": "National Police Memorial (India) is an indian memorial.",
-    "coordinates": {
-      "lat": 28.60447,
-      "lon": 77.19363
-    },
-    "tags": [
-      "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
     ]
   },
   {
@@ -1878,6 +4062,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1977.",
+      "Lies in New Delhi district, Delhi."
     ]
   },
   {
@@ -1892,14 +4080,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1992.",
+      "About 521,260 visits in a recorded year."
     ]
-  },
-  {
-    "id": "national-tribal-dance-festival-delhi",
-    "name": "National Tribal Dance Festival",
-    "state": "Delhi",
-    "category": "other",
-    "description": "National Tribal Dance Festival is a festival in Delhi, India."
   },
   {
     "id": "national-war-memorial-india-delhi",
@@ -1913,6 +4098,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 25 February 2019.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -1924,7 +4113,11 @@
     "coordinates": {
       "lat": 28.60444,
       "lon": 77.2462
-    }
+    },
+    "facts": [
+      "Dates from 1959.",
+      "Lies in Jangpura tehsil, Delhi."
+    ]
   },
   {
     "id": "naya-mandir-delhi",
@@ -1938,6 +4131,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -1949,7 +4145,10 @@
     "coordinates": {
       "lat": 28.52869,
       "lon": 77.16861
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "nehru-park-delhi-delhi",
@@ -1960,14 +4159,42 @@
     "coordinates": {
       "lat": 28.59089,
       "lon": 77.19314
-    }
+    },
+    "facts": [
+      "Named after Jawaharlal Nehru."
+    ]
   },
   {
     "id": "nehru-planetarium-delhi",
     "name": "Nehru Planetarium",
     "state": "Delhi",
     "category": "other",
-    "description": "Nehru Planetarium is a five planetariums in India."
+    "description": "Nehru Planetarium is a five planetariums in India.",
+    "facts": [
+      "Named after Jawaharlal Nehru."
+    ]
+  },
+  {
+    "id": "new-delhi-delhi",
+    "name": "New Delhi",
+    "state": "Delhi",
+    "category": "wildlife",
+    "description": "New Delhi is a capital city of India.",
+    "coordinates": {
+      "lat": 28.61389,
+      "lon": 77.20889
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Dates from 1911.",
+      "Named after novelty.",
+      "Set beside Yamuna.",
+      "Stands at about 216 m elevation.",
+      "Covers about 42.7 km².",
+      "Lies in New Delhi tehsil, Delhi."
+    ]
   },
   {
     "id": "new-delhi-kali-bari-delhi",
@@ -1981,6 +4208,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -1995,18 +4225,42 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Delhi."
     ]
   },
   {
     "id": "nicholson-cemetery-delhi-delhi",
     "name": "Nicholson Cemetery, Delhi",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Nicholson Cemetery, Delhi is a cemetery in India.",
     "coordinates": {
       "lat": 28.66875,
       "lon": 77.22468
-    }
+    },
+    "facts": [
+      "Dates from 1857.",
+      "Recognised as Monument of National Importance.",
+      "Named after John Nicholson.",
+      "Lies in North Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "nicholson-or-kashmiri-gate-cemetery-delhi",
+    "name": "Nicholson (Or Kashmiri Gate) Cemetery",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Nicholson (Or Kashmiri Gate) Cemetery is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashmiri Gate, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "nili-chhatri-delhi",
@@ -2020,6 +4274,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
+  },
+  {
+    "id": "nili-chhatri-or-subz-burz-delhi",
+    "name": "Nili Chhatri or Subz Burz",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Nili Chhatri or Subz Burz is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin East, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "nili-mosque-neeli-masjid-delhi",
+    "name": "Nili Mosque (Neeli Masjid)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Nili Mosque (Neeli Masjid) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharehra village, Hauz Khas Enclave, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2034,6 +4321,24 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Built in the Indo-Islamic architecture style."
+    ]
+  },
+  {
+    "id": "northern-gateway-delhi",
+    "name": "Northern Gateway",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Northern Gateway is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Badarpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2045,7 +4350,10 @@
     "coordinates": {
       "lat": 28.68032,
       "lon": 77.2066
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "okhla-barrage-delhi",
@@ -2059,6 +4367,82 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
+  },
+  {
+    "id": "old-baoli-immediately-to-the-west-of-hindu-rao-s-house-delhi",
+    "name": "Old Baoli immediately to the west of Hindu Rao's House",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Old Baoli immediately to the west of Hindu Rao's House is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in On the Delhi ridge, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-lodhi-bridge-athpula-aka-khairpur-ka-pul-with-approaches-built-1556-1605-a-d-delhi",
+    "name": "Old Lodhi Bridge (Athpula aka Khairpur ka Pul) with approaches. Built 1556 - 1605 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Old Lodhi Bridge (Athpula aka Khairpur ka Pul) with approaches. Built 1556 - 1605 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Near Tomb of Sikandar Lodi, Khairpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-palace-zafar-mahal-of-bahadur-shah-ii-alias-lal-mahal-in-mehrauli-delhi",
+    "name": "Old Palace (Zafar Mahal) of Bahadur Shah II alias Lal Mahal in Mehrauli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Old Palace (Zafar Mahal) of Bahadur Shah II alias Lal Mahal in Mehrauli is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-parliament-house-new-delhi-delhi",
+    "name": "Old Parliament House, New Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Old Parliament House, New Delhi is a former seat of the Parliament of India.",
+    "coordinates": {
+      "lat": 28.61719,
+      "lon": 77.20808
+    },
+    "facts": [
+      "Dates from 1927.",
+      "Opened in 18 January 1927.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Architect: Edwin Lutyens.",
+      "Lies in New Delhi, Delhi."
+    ]
+  },
+  {
+    "id": "pandava-delhi",
+    "name": "Pandava",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Pandava is a main characters of the Mahabharata.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
     ]
   },
   {
@@ -2073,6 +4457,33 @@
     },
     "tags": [
       "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
+  },
+  {
+    "id": "paratha-delhi",
+    "name": "Paratha",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Paratha is a fried flatbread originating in the Indian subcontinent.",
+    "facts": [
+      "Part of Punjabi cuisine."
+    ]
+  },
+  {
+    "id": "parliament-of-india-delhi",
+    "name": "Parliament of India",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Parliament of India is a supreme legislative body of the Republic of India.",
+    "coordinates": {
+      "lat": 28.61722,
+      "lon": 77.20806
+    },
+    "facts": [
+      "Dates from 1951."
     ]
   },
   {
@@ -2087,6 +4498,9 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
     ]
   },
   {
@@ -2098,7 +4512,66 @@
     "coordinates": {
       "lat": 28.6153,
       "lon": 77.2347
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "phool-chadar-aqueduct-near-najafgarh-jhil-aqueduct-demolished-in-the-1970-s-delhi",
+    "name": "Phool Chadar aqueduct near Najafgarh jhil aqueduct. Demolished in the 1970's",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Phool Chadar aqueduct near Najafgarh jhil aqueduct. Demolished in the 1970's is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chaukri Mubarakabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "portion-of-city-wall-near-which-brig-gen-john-nicholson-was-mortally-wounded-on-14th-sept-1857-delhi",
+    "name": "Portion of City wall near which Brig.Gen. John Nicholson was mortally Wounded on 14th Sept., 1857",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Portion of City wall near which Brig.Gen. John Nicholson was mortally Wounded on 14th Sept., 1857 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in On the Delhi ridge, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "portion-of-the-city-wall-of-shahjahanabad-delhi",
+    "name": "Portion of the City Wall of Shahjahanabad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Portion of the City Wall of Shahjahanabad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Daryaganj, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "prime-minister-of-india-delhi",
+    "name": "Prime Minister of India",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Prime Minister of India is a head of the Government of India.",
+    "facts": [
+      "Dates from 15 August 1947.",
+      "Part of Union Council of Ministers of India."
+    ]
   },
   {
     "id": "prime-ministers-museum-and-library-delhi",
@@ -2112,6 +4585,11 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 9 November 1964.",
+      "Named after Prime Minister of India.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -2126,6 +4604,12 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Named after Sher Shah Suri.",
+      "Part of Seven Cities of Delhi.",
+      "Lies in Jangpura tehsil, Delhi."
     ]
   },
   {
@@ -2137,7 +4621,10 @@
     "coordinates": {
       "lat": 28.6498,
       "lon": 77.2119
-    }
+    },
+    "facts": [
+      "Dates from 1376."
+    ]
   },
   {
     "id": "qila-i-kuhna-mosque-delhi",
@@ -2151,6 +4638,12 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1541.",
+      "Built in the Islamic architecture style.",
+      "Part of Purana Qila.",
+      "Lies in Central Delhi district, Delhi."
     ]
   },
   {
@@ -2164,8 +4657,12 @@
       "lon": 77.20252
     },
     "tags": [
+      "world-heritage",
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
@@ -2180,6 +4677,24 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "qudsia-mosque-delhi",
+    "name": "Qudsia Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Qudsia Mosque is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Qudsia Garden (Qudsia Bagh), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2195,6 +4710,11 @@
     "tags": [
       "world-heritage",
       "mosque"
+    ],
+    "facts": [
+      "Recognised as World Heritage Site.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Mehrauli tehsil, Delhi."
     ]
   },
   {
@@ -2209,6 +4729,13 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Recognised as World Heritage Site.",
+      "Built in the Islamic architecture style.",
+      "Part of Qutb complex.",
+      "Rises about 72.5 m.",
+      "About 3,439,575 visits in a recorded year."
     ]
   },
   {
@@ -2220,7 +4747,11 @@
     "coordinates": {
       "lat": 28.56,
       "lon": 77.18861
-    }
+    },
+    "facts": [
+      "Dates from 1982.",
+      "Lies in New Delhi, Delhi."
+    ]
   },
   {
     "id": "raj-ghat-and-associated-memorials-delhi",
@@ -2231,7 +4762,25 @@
     "coordinates": {
       "lat": 28.64055,
       "lon": 77.24943
-    }
+    },
+    "facts": [
+      "Lies in Jangpura tehsil, Delhi."
+    ]
+  },
+  {
+    "id": "rajon-ki-bain-rajon-ki-baoli-with-mosque-and-chhatri-delhi",
+    "name": "Rajon-ki-Bain (Rajon Ki Baoli) with Mosque and Chhatri",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Rajon-ki-Bain (Rajon Ki Baoli) with Mosque and Chhatri is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ladho Sarai, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "rajon-ki-baoli-delhi",
@@ -2245,6 +4794,54 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "rajpath-delhi",
+    "name": "Rajpath",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Rajpath is a national boulevard of India.",
+    "coordinates": {
+      "lat": 28.61339,
+      "lon": 77.2184
+    },
+    "facts": [
+      "Lies in New Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "rajpur-mutiny-cemetery-gateway-rest-now-built-over-by-residential-buildings-delhi",
+    "name": "Rajpur (Mutiny cemetery) gateway, rest now built over by residential buildings",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Rajpur (Mutiny cemetery) gateway, rest now built over by residential buildings is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Rajpur Cantonment, North District, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ramp-and-gateway-of-rai-pithora-s-fort-delhi",
+    "name": "Ramp and gateway of Rai Pithora's Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Ramp and gateway of Rai Pithora's Fort is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Adchini, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2258,7 +4855,14 @@
       "lon": 77.1998
     },
     "tags": [
-      "palace"
+      "fort"
+    ],
+    "facts": [
+      "Dates from 1929.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Built in the Neoclassical architecture style.",
+      "Architect: Edwin Lutyens.",
+      "Lies in New Delhi district, Delhi."
     ]
   },
   {
@@ -2273,6 +4877,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Part of Rashtrapati Bhavan.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -2289,6 +4897,9 @@
       "fort",
       "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
     ]
   },
   {
@@ -2304,7 +4915,31 @@
     "tags": [
       "world-heritage",
       "fort",
-      "palace"
+      "palace",
+      "mosque"
+    ],
+    "facts": [
+      "Dates from 1648.",
+      "Opened in 6 April 1648.",
+      "Recognised as World Heritage Site.",
+      "Recognised as Monument of National Importance.",
+      "Covers about 49.2 ha.",
+      "Rises about 33 m."
+    ]
+  },
+  {
+    "id": "remaining-gateways-of-arab-sarai-and-of-abadi-bagh-buhalima-delhi",
+    "name": "Remaining Gateways of Arab Sarai and of Abadi-Bagh-Buhalima",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Remaining Gateways of Arab Sarai and of Abadi-Bagh-Buhalima is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Near Arab Sarai Village, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2316,7 +4951,25 @@
     "coordinates": {
       "lat": 28.67306,
       "lon": 77.19778
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
+  },
+  {
+    "id": "ruined-line-of-walls-bastions-amp-gateways-of-siri-fort-kh-no-88-265-amp-447-at-village-shahpur-jat-delhi",
+    "name": "Ruined line of walls, bastions &amp; gateways of Siri Fort, Kh. No. 88, 265 &amp;447 at village Shahpur Jat",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Ruined line of walls, bastions &amp; gateways of Siri Fort, Kh. No. 88, 265 &amp;447 at village Shahpur Jat is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shahpur Jat, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "sabz-burj-delhi",
@@ -2330,6 +4983,10 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South East Delhi district, Delhi."
     ]
   },
   {
@@ -2344,6 +5001,38 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1930.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Architect: Henry Medd.",
+      "Associated with Catholicism.",
+      "Lies in New Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "sakri-gumti-284-delhi",
+    "name": "Sakri Gumti-284",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sakri Gumti-284 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharehra village, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "salaam-baalak-city-walk-new-delhi-delhi",
+    "name": "Salaam Baalak City Walk – New Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Salaam Baalak City Walk – New Delhi is a tourism place in Delhi, India.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
     ]
   },
   {
@@ -2358,6 +5047,21 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1546.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Central Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "sandstone-delhi",
+    "name": "Sandstone",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Sandstone is a type of sedimentary rock.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
     ]
   },
   {
@@ -2372,6 +5076,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Delhi."
     ]
   },
   {
@@ -2383,7 +5090,10 @@
     "coordinates": {
       "lat": 28.51861,
       "lon": 77.1675
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
   },
   {
     "id": "sanskriti-museums-delhi",
@@ -2397,6 +5107,40 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1990.",
+      "Lies in Mehrauli, Delhi."
+    ]
+  },
+  {
+    "id": "sarai-shahji-delhi",
+    "name": "Sarai Shahji",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sarai Shahji is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Malaviya Nagar, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sat-narain-bhawan-delhi",
+    "name": "Sat Narain Bhawan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sat Narain Bhawan is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Delhi Sadhora Khurd, Dina Nath Marg, Roshanara Road, New Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2408,7 +5152,39 @@
     "coordinates": {
       "lat": 28.53173,
       "lon": 77.2235
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "satpula-iii-216-delhi",
+    "name": "Satpula-III –216",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Satpula-III –216 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Village Khirkee, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shaheedi-park-delhi",
+    "name": "Shaheedi Park",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Shaheedi Park is an open air museum in Delhi, India.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
   },
   {
     "id": "shahjahanabad-delhi",
@@ -2421,7 +5197,16 @@
       "lon": 77.23
     },
     "tags": [
-      "fort"
+      "world-heritage",
+      "fort",
+      "mosque"
+    ],
+    "facts": [
+      "Dates from 1648.",
+      "Founded by Shah Jahan.",
+      "Named after Shah Jahan.",
+      "Part of Seven Cities of Delhi.",
+      "Lies in Old Delhi district, Delhi."
     ]
   },
   {
@@ -2433,7 +5218,10 @@
     "coordinates": {
       "lat": 28.64408,
       "lon": 77.24897
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
   },
   {
     "id": "shani-dham-temple-delhi",
@@ -2447,6 +5235,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -2461,6 +5252,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 30 November 1965.",
+      "Lies in Bahadur Shah Zafar Marg, Delhi."
     ]
   },
   {
@@ -2472,7 +5267,40 @@
     "coordinates": {
       "lat": 28.60239,
       "lon": 77.25344
-    }
+    },
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
+  },
+  {
+    "id": "sheesh-mahal-built-1653-a-d-delhi",
+    "name": "Sheesh Mahal. Built 1653 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sheesh Mahal. Built 1653 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Village Hyderpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sher-shah-suri-s-gate-with-the-adjoining-curon-walls-and-bastions-and-the-remains-of-the-double-line-of-structure-to-its-front-delhi",
+    "name": "Sher Shah Suri's gate with the adjoining curon walls and Bastions and the remains of the double line of structure to its front",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sher Shah Suri's gate with the adjoining curon walls and Bastions and the remains of the double line of structure to its front is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Opposite purana Qila immediately North-east of the Khairul Manazil Mosque, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "shia-jama-mosque-delhi-delhi",
@@ -2486,6 +5314,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Built in the Indo-Islamic architecture style."
     ]
   },
   {
@@ -2497,14 +5328,22 @@
     "coordinates": {
       "lat": 28.59375,
       "lon": 77.22017
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Lies in New Delhi district, Delhi."
+    ]
   },
   {
     "id": "shopping-in-delhi-delhi",
     "name": "Shopping in Delhi",
     "state": "Delhi",
     "category": "other",
-    "description": "Shopping in Delhi is a tourism place in Delhi, India."
+    "description": "Shopping in Delhi is a tourism place in Delhi, India.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "shri-atma-vallabh-jain-smarak-delhi",
@@ -2518,6 +5357,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Nangli Puna, Delhi."
     ]
   },
   {
@@ -2532,6 +5374,24 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
+  },
+  {
+    "id": "sikargah-kushak-ii-327-built-by-feroze-shah-tughlaq-between-1321-1414-a-d-delhi",
+    "name": "Sikargah Kushak-II -327, built by Feroze Shah Tughlaq between 1321 - 1414 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sikargah Kushak-II -327, built by Feroze Shah Tughlaq between 1321 - 1414 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Old Kushak Village, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2546,6 +5406,12 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1303.",
+      "Recognised as Monument of National Importance.",
+      "Part of Seven Cities of Delhi.",
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
@@ -2560,6 +5426,9 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -2571,7 +5440,91 @@
     "coordinates": {
       "lat": 28.6835,
       "lon": 77.2219
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "site-of-siege-battery-with-inscription-delhi",
+    "name": "Site of siege Battery with inscription",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Site of siege Battery with inscription is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in In the garden near south west entrance to Delhi Golf Club Ground, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-of-siege-battery-with-inscription-demolished-in-1980-s-delhi",
+    "name": "Site of siege Battery with inscription. Demolished in 1980's",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Site of siege Battery with inscription. Demolished in 1980's is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Compound of Curzon House, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "site-of-siege-battery-with-inscription-demolished-in-1995-delhi",
+    "name": "Site of siege Battery with inscription. Demolished in 1995",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Site of siege Battery with inscription. Demolished in 1995 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in East of the Hospital in police Line, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "smallpox-delhi",
+    "name": "Smallpox",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Smallpox is an eradicated human disease.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "southern-gateway-and-enclosure-remains-delhi",
+    "name": "Southern Gateway and enclosure remains",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Southern Gateway and enclosure remains is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Badarpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "springer-publishing-delhi",
+    "name": "Springer Publishing",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Springer Publishing is an american publishing company.",
+    "facts": [
+      "Dates from 1950.",
+      "Founded by Bernhard Springer."
+    ]
   },
   {
     "id": "sri-digambar-jain-lal-mandir-delhi",
@@ -2585,6 +5538,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -2599,6 +5555,12 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1836.",
+      "Founded by James Skinner.",
+      "Associated with Anglicanism.",
+      "Named after St. James the Elder."
     ]
   },
   {
@@ -2613,6 +5575,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -2627,6 +5592,9 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dedicated to Saint Sebastian."
     ]
   },
   {
@@ -2641,6 +5609,10 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1885.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -2652,7 +5624,10 @@
     "coordinates": {
       "lat": 28.62572,
       "lon": 77.22014
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "sulabh-international-museum-of-toilets-delhi",
@@ -2666,6 +5641,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1992.",
+      "Lies in New Delhi, Delhi."
     ]
   },
   {
@@ -2677,18 +5656,56 @@
     "coordinates": {
       "lat": 28.53333,
       "lon": 77.13694
-    }
+    },
+    "facts": [
+      "Dates from 1231.",
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
+    ]
   },
   {
     "id": "sunder-nursery-delhi",
     "name": "Sunder Nursery",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Sunder Nursery is a park in New Delhi, India.",
     "coordinates": {
       "lat": 28.59687,
       "lon": 77.24534
-    }
+    },
+    "facts": [
+      "Lies in Jangpura tehsil, Delhi."
+    ]
+  },
+  {
+    "id": "sunderwala-burj-delhi",
+    "name": "Sunderwala Burj",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sunderwala Burj is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Inderpat Estate (Sunder Nursery), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sunderwala-mahal-delhi",
+    "name": "Sunderwala Mahal",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sunderwala Mahal is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Inderpat Estate (Sunder Nursery), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "sunehri-bagh-masjid-delhi",
@@ -2702,6 +5719,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -2716,6 +5736,24 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Built in the Indo-Islamic architecture style."
+    ]
+  },
+  {
+    "id": "sunehri-masjid-red-fort-delhi",
+    "name": "Sunehri Masjid (Red Fort)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sunehri Masjid (Red Fort) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Red Fort, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2726,6 +5764,20 @@
     "description": "Supreme Court Museum is a museum dedicated to the journey of judiciary in India.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "sur-empire-delhi",
+    "name": "Sur Empire",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Sur Empire is an empire of Pashtun origin who ruled a large territory in Northern part of South Asia between 1540 and 1556.",
+    "facts": [
+      "Dates from 1540.",
+      "Associated with Sunni Islam."
     ]
   },
   {
@@ -2740,6 +5792,11 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 2005.",
+      "Associated with Hinduism.",
+      "Lies in East Delhi district, Delhi."
     ]
   },
   {
@@ -2751,7 +5808,10 @@
     "coordinates": {
       "lat": 28.62417,
       "lon": 77.19333
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
   },
   {
     "id": "teen-murti-bhavan-delhi",
@@ -2765,6 +5825,12 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 1930.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Architect: Robert Tor Russell.",
+      "Lies in New Delhi district, Delhi."
     ]
   },
   {
@@ -2776,16 +5842,144 @@
     "coordinates": {
       "lat": 28.6214,
       "lon": 77.2352
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
-    "id": "tibet-house-delhi",
-    "name": "Tibet House",
+    "id": "thana-wala-shahpur-jat-internal-buildings-of-delhi",
+    "name": "Thana wala Shahpur Jat: Internal buildings of",
     "state": "Delhi",
     "category": "heritage",
-    "description": "Tibet House is a non-Profit Cultural Organization.",
+    "description": "Thana wala Shahpur Jat: Internal buildings of is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shahpur Jat, Delhi."
+    ],
     "tags": [
-      "museum"
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-gate-way-of-arab-sarai-facing-east-towards-the-tomb-of-humayun-delhi",
+    "name": "The Gate way of Arab Sarai facing East towards the tomb of Humayun",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "The Gate way of Arab Sarai facing East towards the tomb of Humayun is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Arab Sarai, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-gate-way-of-arab-sarai-facing-north-towards-purana-qila-delhi",
+    "name": "The Gate way of Arab Sarai facing North towards Purana Qila",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "The Gate way of Arab Sarai facing North towards Purana Qila is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Arab Sarai, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-moti-gate-of-sher-shah-suri-delhi-currently-missing-delhi",
+    "name": "The Moti Gate of Sher Shah Suri, Delhi. Currently missing",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "The Moti Gate of Sher Shah Suri, Delhi. Currently missing is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Babarpur Bazipur (Kakanagar), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-old-entrance-gateway-of-the-qudsia-garden-qudsia-bagh-delhi",
+    "name": "The Old Entrance Gateway of the Qudsia Garden (Qudsia Bagh)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "The Old Entrance Gateway of the Qudsia Garden (Qudsia Bagh) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Qudsia Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-pirghaib-to-the-north-and-near-hindu-rao-s-house-delhi",
+    "name": "The Pirghaib to the north and near Hindu Rao's House",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "The Pirghaib to the north and near Hindu Rao's House is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in On the Delhi ridge, Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-punjabi-gate-in-the-roshanara-bagh-delhi",
+    "name": "The Punjabi gate in the Roshanara Bagh",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "The Punjabi gate in the Roshanara Bagh is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Opposite Municipal Board school, Subji Mandi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-remaining-gateways-of-the-old-magazine-with-their-adjoining-buildings-delhi",
+    "name": "The remaining gateways of the old 'Magazine' with their adjoining buildings",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "The remaining gateways of the old 'Magazine' with their adjoining buildings is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in The Post office, Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-tomb-of-mohammed-shah-known-as-mubarak-khan-ka-gumbaz-delhi",
+    "name": "The tomb of Mohammed Shah known as Mubarak Khan- Ka-Gumbaz",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "The tomb of Mohammed Shah known as Mubarak Khan- Ka-Gumbaz is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khairpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -2797,7 +5991,104 @@
     "coordinates": {
       "lat": 28.48959,
       "lon": 77.21321
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
+  },
+  {
+    "id": "tin-burji-walla-gumbad-delhi",
+    "name": "Tin Burji Walla Gumbad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tin Burji Walla Gumbad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mohammed pur village II, 304, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tohfewala-gumbad-delhi",
+    "name": "Tohfewala Gumbad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tohfewala Gumbad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Humayunpur Deer Park (Hauz Khas), Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-and-majilis-khana-delhi",
+    "name": "Tomb and Majilis Khana",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb and Majilis Khana is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sheikh Sarai Village, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-delhi",
+    "name": "Tomb",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi.",
+      "Lies in | address = Lado Sarai, DDA Park, Delhi.",
+      "Lies in Lado Sarai Village, Delhi.",
+      "Lies in Sadhna Enclave, Delhi.",
+      "Lies in Sheikh Sarai Village, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-greater-kailash-i-delhi",
+    "name": "Tomb, Greater Kailash I",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb, Greater Kailash I is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-gumti-delhi",
+    "name": "Tomb (Gumti)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb (Gumti) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Humayunpur Village, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-adham-khan-delhi",
@@ -2808,10 +6099,60 @@
     "coordinates": {
       "lat": 28.52305,
       "lon": 77.18196
-    }
+    },
+    "facts": [
+      "Dates from 1562.",
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
+    ]
   },
   {
-    "id": "tomb-of-ataga-khan-delhi",
+    "id": "tomb-of-adham-khan-rest-house-built-1561-a-d-delhi",
+    "name": "Tomb of Adham Khan (Rest House), built 1561 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Adham Khan (Rest House), built 1561 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-afsar-wala-immediately-near-to-the-south-of-afsar-wala-ki-masjid-delhi",
+    "name": "Tomb of Afsar-wala immediately near to the south of Afsar-wala-ki-Masjid",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Tomb of Afsar-wala immediately near to the south of Afsar-wala-ki-Masjid is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-amir-khusro-ghiaspur-delhi",
+    "name": "Tomb of Amir Khusro, Ghiaspur",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Amir Khusro, Ghiaspur is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizamuddin West, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-ataga-khan-delhi-q41650747",
     "name": "Tomb of Ataga Khan",
     "state": "Delhi",
     "category": "heritage",
@@ -2819,7 +6160,28 @@
     "coordinates": {
       "lat": 28.59077,
       "lon": 77.24194
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South East Delhi district, Delhi.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizamuddin West, Delhi."
+    ]
+  },
+  {
+    "id": "tomb-of-bahlol-lodi-built-1451-1488-a-d-delhi",
+    "name": "Tomb of Bahlol Lodi. Built 1451 - 1488 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Bahlol Lodi. Built 1451 - 1488 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chirag Delhi, in Jahanpanah, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-bahlul-lodi-delhi",
@@ -2830,7 +6192,13 @@
     "coordinates": {
       "lat": 28.53869,
       "lon": 77.22214
-    }
+    },
+    "facts": [
+      "Dates from 1490.",
+      "Recognised as Monument of National Importance.",
+      "Named after Bahlul Khan Lodi.",
+      "Lies in South Delhi district, Delhi."
+    ]
   },
   {
     "id": "tomb-of-balban-delhi",
@@ -2841,7 +6209,86 @@
     "coordinates": {
       "lat": 28.5194,
       "lon": 77.1886
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in South Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "tomb-of-bhura-khan-delhi",
+    "name": "Tomb of Bhura Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Bhura Khan is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in village Mubarakpur, Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-capt-mac-barnatt-amp-others-who-fall-in-an-attack-on-kishanganj-demolished-delhi",
+    "name": "Tomb of Capt. Mac. Barnatt &amp; others who fall in an attack on Kishanganj. Demolished",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Capt. Mac. Barnatt &amp; others who fall in an attack on Kishanganj. Demolished is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kishan Ganj, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-darya-khan-delhi",
+    "name": "Tomb of Darya Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Darya Khan is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kidwai Nagar East, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-ghaziuddin-khan-delhi",
+    "name": "Tomb of Ghaziuddin Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Ghaziuddin Khan is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ajmeri Gate, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-ghiyasuddin-tughlaq-walls-and-bastions-gates-and-cause-way-including-the-tomb-of-daud-khan-delhi",
+    "name": "Tomb of Ghiyasuddin Tughlaq. walls and bastions, gates and cause way including the tomb of Daud Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Ghiyasuddin Tughlaq. walls and bastions, gates and cause way including the tomb of Daud Khan is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in M.B. Road, Tughlaqabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-imam-zamin-delhi",
@@ -2855,6 +6302,10 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Part of Qutb complex.",
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
@@ -2869,6 +6320,13 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Dates from the 1540s.",
+      "Recognised as World Heritage Site.",
+      "Part of Humayun's Tomb.",
+      "Rises about 2.5 m.",
+      "Lies in South East Delhi district, Delhi."
     ]
   },
   {
@@ -2880,7 +6338,131 @@
     "coordinates": {
       "lat": 28.58996,
       "lon": 77.24233
-    }
+    },
+    "facts": [
+      "Dates from 1368.",
+      "Built in the Tughlaq architecture style style."
+    ]
+  },
+  {
+    "id": "tomb-of-khan-i-khana-delhi",
+    "name": "Tomb of Khan-i-Khana",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Khan-i-Khana is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-mirza-muzaffer-bara-batasha-bara-batashewala-no-151-ghiaspur-delhi",
+    "name": "Tomb of Mirza Muzaffer, Bara Batasha (Bara Batashewala) No. 151 Ghiaspur",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Mirza Muzaffer, Bara Batasha (Bara Batashewala) No. 151 Ghiaspur is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammuddin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-mirza-muzaffer-chota-batasha-no-153-ghiaspur-delhi",
+    "name": "Tomb of Mirza Muzaffer, Chota Batasha No. 153, Ghiaspur",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Mirza Muzaffer, Chota Batasha No. 153, Ghiaspur is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammuddin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-mohammed-tughlaq-shah-at-tughlaqabad-delhi",
+    "name": "Tomb of Mohammed Tughlaq Shah at Tughlaqabad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Mohammed Tughlaq Shah at Tughlaqabad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Badarpur Zail, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-muhammad-quli-khan-delhi",
+    "name": "Tomb of Muhammad Quli Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Muhammad Quli Khan is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-nizamuddin-auliya-ghiaspur-no-197-delhi",
+    "name": "Tomb of Nizamuddin Auliya, Ghiaspur No. 197",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Nizamuddin Auliya, Ghiaspur No. 197 is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizamuddin West, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-razia-begum-razia-sultana-in-mohalla-bulbuli-khana-delhi",
+    "name": "Tomb of Razia Begum (Razia Sultana) in Mohalla Bulbuli Khana",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Razia Begum (Razia Sultana) in Mohalla Bulbuli Khana is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Shahjahanabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-roshanara-begum-amp-baradari-delhi",
+    "name": "Tomb of Roshanara Begum &amp; Baradari",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Roshanara Begum &amp; Baradari is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Roshnara Bagh, Sabzi Mandi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-safdar-jang-delhi",
@@ -2891,7 +6473,60 @@
     "coordinates": {
       "lat": 28.58929,
       "lon": 77.21061
-    }
+    },
+    "facts": [
+      "Dates from 1754.",
+      "Recognised as Monument of National Importance.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Built in the Mughal architecture style.",
+      "Dedicated to Safdar Jang.",
+      "Named after Safdar Jang."
+    ]
+  },
+  {
+    "id": "tomb-of-shaikh-usman-saiyah-delhi",
+    "name": "Tomb of Shaikh Usman Saiyah",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Shaikh Usman Saiyah is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khirki Village, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-shaikh-ziyauddin-delhi",
+    "name": "Tomb of Shaikh Ziyauddin",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Shaikh Ziyauddin is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-sheikh-salahuddin-darwes-delhi",
+    "name": "Tomb of Sheikh Salahuddin Darwes",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Sheikh Salahuddin Darwes is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sheikh Sarai Village, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-sikandar-lodi-delhi",
@@ -2902,7 +6537,43 @@
     "coordinates": {
       "lat": 28.59626,
       "lon": 77.22156
-    }
+    },
+    "facts": [
+      "Dates from 1517.",
+      "Recognised as Monument of National Importance.",
+      "Recognised as NDMC Heritage Building Grade I.",
+      "Lies in New Delhi district, Delhi."
+    ]
+  },
+  {
+    "id": "tomb-of-sikandar-lodi-with-its-enclosure-wall-and-bastions-gates-amp-compound-built-1494-a-d-delhi",
+    "name": "Tomb of Sikandar Lodi with its enclosure wall and bastions, gates &amp; compound. Built 1494 A.D",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Sikandar Lodi with its enclosure wall and bastions, gates &amp; compound. Built 1494 A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khairpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-of-sultan-ghari-delhi",
+    "name": "Tomb of Sultan Ghari",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Sultan Ghari is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nalikpur Kohi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tomb-of-syed-abid-delhi",
@@ -2913,7 +6584,55 @@
     "coordinates": {
       "lat": 28.60024,
       "lon": 77.23712
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "tomb-of-usuf-quttal-yusuf-qattaal-s-tomb-delhi",
+    "name": "Tomb of Usuf-Quttal (Yusuf Qattaal's Tomb)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Usuf-Quttal (Yusuf Qattaal's Tomb) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in At Khirkee village in field no.81 min, Property of Shamlat deh, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tomb-with-three-domes-near-rly-station-missing-delhi",
+    "name": "Tomb with three domes near Rly. Station. Missing",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb with three domes near Rly. Station. Missing is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammudin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tombs-of-bade-khan-and-mubarakpur-kotla-kotla-delhi",
+    "name": "Tombs of Bade-Khan, and Mubarakpur Kotla, Kotla",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tombs of Bade-Khan, and Mubarakpur Kotla, Kotla is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in village Mubarakpur, Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tombs-of-battashewala-complex-delhi",
@@ -2924,29 +6643,70 @@
     "coordinates": {
       "lat": 28.5961,
       "lon": 77.2489
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "tombs-of-chote-khan-mubarakpur-delhi",
+    "name": "Tombs of Chote Khan, Mubarakpur",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tombs of Chote Khan, Mubarakpur is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kotla, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tourism-in-india-delhi",
+    "name": "Tourism in India",
+    "state": "Delhi",
+    "category": "beach",
+    "description": "Tourism in India is an important aspect of the rapidly growing Indian economy.",
+    "tags": [
+      "world-heritage",
+      "beach",
+      "museum"
+    ],
+    "facts": [
+      "Known as a beach destination in Delhi."
+    ]
   },
   {
     "id": "tripolia-gates-delhi",
     "name": "Tripolia Gates",
     "state": "Delhi",
-    "category": "other",
+    "category": "heritage",
     "description": "Tripolia Gates is a gate in Delhi, India.",
     "coordinates": {
       "lat": 28.68719,
       "lon": 77.19424
-    }
+    },
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in North Delhi district, Delhi."
+    ]
   },
   {
-    "id": "triveni-kala-sangam-delhi",
-    "name": "Triveni Kala Sangam",
+    "id": "tripolia-gateways-delhi",
+    "name": "Tripolia Gateways",
     "state": "Delhi",
-    "category": "other",
-    "description": "Triveni Kala Sangam is an organization.",
-    "coordinates": {
-      "lat": 28.62694,
-      "lon": 77.23194
-    }
+    "category": "heritage",
+    "description": "Tripolia Gateways is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Delhi-Karnal Road, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tughlaqabad-fort-delhi",
@@ -2959,7 +6719,15 @@
       "lon": 77.25997
     },
     "tags": [
-      "fort"
+      "fort",
+      "palace"
+    ],
+    "facts": [
+      "Dates from 1321.",
+      "Recognised as Monument of National Importance.",
+      "Founded by Ghiyath al-Din Tughluq.",
+      "Rises about 30 m.",
+      "Lies in Badarpur tehsil, Delhi."
     ]
   },
   {
@@ -2971,7 +6739,131 @@
     "coordinates": {
       "lat": 28.67046,
       "lon": 77.21904
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "unknown-tomb-ghiaspur-153-delhi",
+    "name": "Unknown tomb Ghiaspur 153,",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Unknown tomb Ghiaspur 153, is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nizammuddin, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "unknown-tomb-in-the-vicinity-of-jawaharlal-nehru-stadium-delhi",
+    "name": "Unknown Tomb in the vicinity of Jawaharlal Nehru Stadium",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Unknown Tomb in the vicinity of Jawaharlal Nehru Stadium is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Pragati Vihar, New Delhi, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "unknown-tomb-with-blue-tiles-decoration-known-as-shisha-gumbad-delhi",
+    "name": "Unknown tomb with blue tiles decoration known as Shisha Gumbad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Unknown tomb with blue tiles decoration known as Shisha Gumbad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khairpur, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "unnamed-mosque-from-15th-century-a-d-delhi",
+    "name": "Unnamed Mosque from 15th century A.D",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Unnamed Mosque from 15th century A.D is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munirka 314, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "unnamed-tomb-at-the-center-of-image-delhi",
+    "name": "Unnamed Tomb (At the center of image)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Unnamed Tomb (At the center of image) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munirka 313, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "unnamed-tomb-at-the-right-of-image-delhi",
+    "name": "Unnamed Tomb (At the right of Image)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Unnamed Tomb (At the right of Image) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munirka 316, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "unnamed-tomb-delhi",
+    "name": "Unnamed tomb",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Unnamed tomb is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mohammed pur village, 305, Delhi.",
+      "Lies in Munirka 315, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "unnamed-tomb-small-tomb-on-right-delhi",
+    "name": "Unnamed Tomb (Small tomb on right)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Unnamed Tomb (Small tomb on right) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munirka 317, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "urdu-bazaar-delhi",
@@ -2982,7 +6874,10 @@
     "coordinates": {
       "lat": 28.64975,
       "lon": 77.23347
-    }
+    },
+    "facts": [
+      "Lies in North Delhi district, Delhi."
+    ]
   },
   {
     "id": "uttara-guruvayurappan-temple-delhi",
@@ -2996,6 +6891,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -3010,6 +6908,74 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
+    ]
+  },
+  {
+    "id": "vaishnavism-delhi",
+    "name": "Vaishnavism",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Vaishnavism is a major Hindu tradition that reveres Vishnu as the Supreme Being.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "veterinary-medicine-delhi",
+    "name": "Veterinary medicine",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Veterinary medicine is a medical speciality dealing with the diseases of animals, animal welfare, etc.",
+    "facts": [
+      "Part of zootechnics."
+    ]
+  },
+  {
+    "id": "wajirpur-ka-gumbad-delhi",
+    "name": "Wajirpur ka Gumbad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Wajirpur ka Gumbad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Munirka 312, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "wall-mosque-delhi",
+    "name": "Wall mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Wall mosque is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "wall-of-rai-pithora-s-fort-including-gateways-and-bastions-delhi",
+    "name": "Wall of Rai Pithora's fort including gateways and bastions",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Wall of Rai Pithora's fort including gateways and bastions is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -3021,7 +6987,100 @@
     "coordinates": {
       "lat": 28.61985,
       "lon": 77.20522
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "walls-gate-and-bastions-of-adilabad-mohammadbad-and-causeway-leading-to-there-from-tughlaqabad-delhi",
+    "name": "Walls, gate and bastions of Adilabad (Mohammadbad) and causeway leading to there from Tughlaqabad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Walls, gate and bastions of Adilabad (Mohammadbad) and causeway leading to there from Tughlaqabad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tughlaqabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "walls-gateways-bastions-and-internal-buildings-of-both-inner-and-outer-citadels-of-tughlaqabad-fort-delhi",
+    "name": "Walls, gateways bastions and internal buildings of both inner and outer citadels of Tughlaqabad Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Walls, gateways bastions and internal buildings of both inner and outer citadels of Tughlaqabad Fort is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tughlaqabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "walls-of-lal-kot-and-qila-rai-pithora-s-fort-from-sohan-gate-to-adam-khan-s-tomb-including-the-ditch-where-there-is-an-outer-wall-delhi",
+    "name": "Walls of Lal Kot and Qila Rai Pithora's fort from Sohan Gate to Adam Khan's tomb including the ditch where there is an outer wall",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Walls of Lal Kot and Qila Rai Pithora's fort from Sohan Gate to Adam Khan's tomb including the ditch where there is an outer wall is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mehrauli Kh. No. 1783, 1765, 1766, 1767, 1770, 1772, 1773, 1798 &amp; 1764, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "walls-of-lal-kot-and-rai-pithora-s-fort-at-the-point-where-they-meet-together-delhi",
+    "name": "Walls of Lal Kot and Rai Pithora's fort at the point where they meet together",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Walls of Lal Kot and Rai Pithora's fort at the point where they meet together is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Near Jamali Kamali's Mosque Mehrauli Kh. No. 1754, Loddho Sarai Kh.No. 86,87, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "walls-of-old-city-of-tughlaqabad-delhi",
+    "name": "Walls of old city of Tughlaqabad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Walls of old city of Tughlaqabad is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Badarpur Zail, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "walls-of-rai-pithora-s-fort-and-jahan-panah-at-the-point-where-they-meet-together-delhi",
+    "name": "Walls of Rai Pithora's fort and Jahan Panah at the point where they meet together",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Walls of Rai Pithora's fort and Jahan Panah at the point where they meet together is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Hauz Rani abd Lado Sarai, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "wazirabad-barrage-delhi",
@@ -3035,6 +7094,78 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Delhi."
+    ]
+  },
+  {
+    "id": "wazirabad-bridge-delhi",
+    "name": "Wazirabad Bridge",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Wazirabad Bridge is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Wazirabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "wazirabad-mosque-delhi",
+    "name": "Wazirabad mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Wazirabad mosque is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Wazirabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "wazirabad-tomb-tomb-of-shah-alam-i-delhi",
+    "name": "Wazirabad Tomb, (Tomb of Shah Alam I)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Wazirabad Tomb, (Tomb of Shah Alam I) is a protected monument in Delhi, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Wazirabad, Delhi."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "world-heritage-site-delhi",
+    "name": "World Heritage Site",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "World Heritage Site is a place of significance listed by UNESCO.",
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ],
+    "facts": [
+      "Known as a heritage destination in Delhi."
+    ]
+  },
+  {
+    "id": "world-war-i-delhi",
+    "name": "World War I",
+    "state": "Delhi",
+    "category": "other",
+    "description": "World War I is a 1914–1918 global conflict.",
+    "facts": [
+      "Set on Europe."
     ]
   },
   {
@@ -3042,7 +7173,10 @@
     "name": "Worldmark Aerocity",
     "state": "Delhi",
     "category": "other",
-    "description": "Worldmark Aerocity is an indian real estate project."
+    "description": "Worldmark Aerocity is an indian real estate project.",
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
   },
   {
     "id": "yamuna-biodiversity-park-delhi",
@@ -3053,7 +7187,27 @@
     "coordinates": {
       "lat": 28.73418,
       "lon": 77.21467
-    }
+    },
+    "facts": [
+      "Known as a tourism destination in Delhi."
+    ]
+  },
+  {
+    "id": "yamuna-delhi",
+    "name": "Yamuna",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Yamuna is a river in India.",
+    "coordinates": {
+      "lat": 31.0225,
+      "lon": 78.455
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Set on Taj Mahal."
+    ]
   },
   {
     "id": "yogmaya-temple-delhi-delhi",
@@ -3067,6 +7221,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Delhi."
     ]
   },
   {
@@ -3077,6 +7234,9 @@
     "description": "Yuge Yugeen Bharat is a museum in Delhi, India.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Covers about 117,000 m²."
     ]
   },
   {
@@ -3091,6 +7251,11 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Architect: Akbar Shah II.",
+      "Lies in South Delhi district, Delhi."
     ]
   },
   {
@@ -3105,6 +7270,9 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Lies in Kotwali tehsil, Delhi."
     ]
   }
 ]

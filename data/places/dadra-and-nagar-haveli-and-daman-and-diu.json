@@ -1,5 +1,83 @@
 [
   {
+    "id": "bangli-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Bangli",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "description": "Bangli is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Diu, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "church-of-holy-jesus-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Church of Holy Jesus",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "description": "Church of Holy Jesus is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Daman, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "dadra-and-nagar-haveli-wildlife-sanctuary-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Dadra and Nagar Haveli Wildlife Sanctuary",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "wildlife",
+    "description": "Dadra and Nagar Haveli Wildlife Sanctuary is a wildlife Sanctuary in India.",
+    "coordinates": {
+      "lat": 20.2899,
+      "lon": 73.0949
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Dadra and Nagar Haveli district, Dadra and Nagar Haveli and Daman and Diu."
+    ]
+  },
+  {
+    "id": "daman-india-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Daman, India",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "nature",
+    "description": "Daman, India is a city in India.",
+    "coordinates": {
+      "lat": 20.41694,
+      "lon": 72.83402
+    },
+    "facts": [
+      "Stands at about 5 m elevation.",
+      "Covers about 72 km².",
+      "Lies in Daman district, Dadra and Nagar Haveli and Daman and Diu."
+    ]
+  },
+  {
+    "id": "diu-fort-together-with-the-inside-building-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Diu Fort together with the inside building",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "description": "Diu Fort together with the inside building is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Diu, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
     "id": "diu-fortress-dadra-and-nagar-haveli-and-daman-and-diu",
     "name": "Diu Fortress",
     "state": "Dadra and Nagar Haveli and Daman and Diu",
@@ -11,6 +89,31 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Lies in Diu district, Dadra and Nagar Haveli and Daman and Diu."
+    ]
+  },
+  {
+    "id": "diu-india-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Diu, India",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "beach",
+    "description": "Diu, India is a town in India.",
+    "coordinates": {
+      "lat": 20.715,
+      "lon": 70.98436
+    },
+    "tags": [
+      "beach"
+    ],
+    "facts": [
+      "Set beside Arabian Sea.",
+      "Stands at about 0 m elevation.",
+      "Covers about 38.8 km².",
+      "Lies in Diu district, Dadra and Nagar Haveli and Daman and Diu."
     ]
   },
   {
@@ -25,6 +128,11 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Stands at about 8 m elevation.",
+      "Covers about 38.8 km².",
+      "Lies in Diu district, Dadra and Nagar Haveli and Daman and Diu."
     ]
   },
   {
@@ -39,6 +147,41 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 1722.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Lies in Diu district, Dadra and Nagar Haveli and Daman and Diu."
+    ]
+  },
+  {
+    "id": "fort-walls-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fort Walls",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "description": "Fort Walls is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Daman, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-walls-including-gates-structures-moat-open-land-outside-inside-fort-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fort Walls (Including Gates, Structures, Moat, Open land, Outside & Inside Fort)",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "description": "Fort Walls (Including Gates, Structures, Moat, Open land, Outside & Inside Fort) is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Daman, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -50,7 +193,27 @@
     "coordinates": {
       "lat": 20.72514,
       "lon": 70.95443
-    }
+    },
+    "facts": [
+      "Known as a wildlife destination in Dadra and Nagar Haveli and Daman and Diu."
+    ]
+  },
+  {
+    "id": "gogola-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Gogolá",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "beach",
+    "description": "Gogolá is a town in Diu district, India.",
+    "coordinates": {
+      "lat": 20.72333,
+      "lon": 70.9875
+    },
+    "tags": [
+      "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Dadra and Nagar Haveli and Daman and Diu."
+    ]
   },
   {
     "id": "nagoa-beach-dadra-and-nagar-haveli-and-daman-and-diu",
@@ -64,6 +227,39 @@
     },
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Dadra and Nagar Haveli and Daman and Diu."
+    ]
+  },
+  {
+    "id": "old-mosque-jama-masjid-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Old Mosque (Jama Masjid)",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "description": "Old Mosque (Jama Masjid) is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Diu, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruined-church-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Ruined Church",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "description": "Ruined Church is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Daman, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -78,6 +274,74 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 1807.",
+      "Recognised as Heritage of Portuguese Influence.",
+      "Recognised as Monument of National Importance.",
+      "Built in the baroque architecture style.",
+      "Dedicated to Paul the Apostle.",
+      "Named after Paul the Apostle."
+    ]
+  },
+  {
+    "id": "st-pauls-church-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "St. Paul’s Church",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "description": "St. Paul’s Church is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Diu, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-chapel-of-our-lady-of-rosario-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "The Chapel of Our Lady of Rosario",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "description": "The Chapel of Our Lady of Rosario is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Daman, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-church-of-our-lady-of-remedios-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "The Church of Our Lady of Remedios",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "description": "The Church of Our Lady of Remedios is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Daman, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tower-of-silence-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Tower of Silence",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "description": "Tower of Silence is a protected monument in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Diu, Dadra and Nagar Haveli and Daman and Diu."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   }
 ]

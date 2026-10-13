@@ -11,6 +11,12 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Laccadive Sea.",
+      "Part of Laccadive Islands.",
+      "Stands at about 2 m elevation.",
+      "Covers about 3.23 km²."
     ]
   },
   {
@@ -25,6 +31,12 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Laccadive Sea.",
+      "Part of Laccadive Islands.",
+      "Stands at about 1 m elevation.",
+      "Covers about 1.23 km²."
     ]
   },
   {
@@ -39,6 +51,12 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Indian Ocean.",
+      "Part of Aminidivi.",
+      "Stands at about 2 m elevation.",
+      "Covers about 11 ha."
     ]
   },
   {
@@ -53,6 +71,11 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Indian Ocean.",
+      "Part of Aminidivi.",
+      "Stands at about 2 m elevation."
     ]
   },
   {
@@ -67,6 +90,12 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Indian Ocean.",
+      "Part of Laccadive Islands.",
+      "Stands at about 2 m elevation.",
+      "Covers about 0.01 km²."
     ]
   },
   {
@@ -81,6 +110,12 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Indian Ocean.",
+      "Part of Aminidivi.",
+      "Stands at about 2 m elevation.",
+      "Covers about 1.17 km²."
     ]
   },
   {
@@ -95,6 +130,10 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Part of Aminidivi.",
+      "Covers about 3.12 km²."
     ]
   },
   {
@@ -109,6 +148,10 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Stands at about 1 m elevation.",
+      "Covers about 0.09 km²."
     ]
   },
   {
@@ -123,6 +166,12 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Laccadive Sea.",
+      "Part of Laccadive Islands.",
+      "Stands at about 0 m elevation.",
+      "Covers about 3.08 km²."
     ]
   },
   {
@@ -137,6 +186,12 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Laccadive Sea.",
+      "Part of Laccadive Islands.",
+      "Stands at about 1 m elevation.",
+      "Covers about 4.22 km²."
     ]
   },
   {
@@ -151,20 +206,53 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Indian Ocean.",
+      "Part of Aminidivi.",
+      "Stands at about 2 m elevation.",
+      "Covers about 1.78 km²."
+    ]
+  },
+  {
+    "id": "minicoy-island-lighthouse-lakshadweep",
+    "name": "Minicoy Island Lighthouse",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Minicoy Island Lighthouse is a lighthouse in India.",
+    "coordinates": {
+      "lat": 8.26933,
+      "lon": 73.02604
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Dates from 1885.",
+      "Architect: James Nicholas Douglass.",
+      "Set beside Laccadive Sea.",
+      "Set on Minicoy Island.",
+      "Rises about 49.5 m."
     ]
   },
   {
     "id": "minicoy-lakshadweep",
     "name": "Minicoy",
     "state": "Lakshadweep",
-    "category": "nature",
+    "category": "beach",
     "description": "Minicoy is an atoll in India.",
     "coordinates": {
       "lat": 8.275,
       "lon": 73.05278
     },
     "tags": [
+      "beach",
       "island"
+    ],
+    "facts": [
+      "Set beside Laccadive Sea.",
+      "Stands at about 2 m elevation.",
+      "Covers about 4.8 km²."
     ]
   },
   {
@@ -179,6 +267,29 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Built in the Islamic architecture style."
+    ]
+  },
+  {
+    "id": "perumal-par-lakshadweep",
+    "name": "Perumal Par",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Perumal Par is a reef in India.",
+    "coordinates": {
+      "lat": 11.16667,
+      "lon": 72.06667
+    },
+    "tags": [
+      "island"
+    ],
+    "facts": [
+      "Set beside Indian Ocean.",
+      "Part of Aminidivi.",
+      "Stands at about 0 m elevation.",
+      "Covers about 0.02 km²."
     ]
   },
   {
@@ -193,6 +304,21 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Indian Ocean.",
+      "Stands at about 2 m elevation.",
+      "Covers about 0.04 km²."
+    ]
+  },
+  {
+    "id": "pm-sayeed-marine-birds-conservation-reserve-lakshadweep",
+    "name": "PM Sayeed Marine Birds Conservation Reserve",
+    "state": "Lakshadweep",
+    "category": "other",
+    "description": "PM Sayeed Marine Birds Conservation Reserve is a protected area in Lakshadweep, India.",
+    "facts": [
+      "Known as a tourism destination in Lakshadweep."
     ]
   },
   {
@@ -207,6 +333,12 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Laccadive Sea.",
+      "Part of Laccadive Islands.",
+      "Stands at about 1 m elevation.",
+      "Covers about 0.89 km²."
     ]
   },
   {
@@ -221,6 +353,13 @@
     },
     "tags": [
       "island"
+    ],
+    "facts": [
+      "Set beside Laccadive Sea.",
+      "Set on Minicoy.",
+      "Part of Minicoy.",
+      "Stands at about 0 m elevation.",
+      "Covers about 0.03 km²."
     ]
   }
 ]

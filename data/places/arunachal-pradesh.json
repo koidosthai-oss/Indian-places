@@ -11,6 +11,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Arunachal Pradesh."
     ]
   },
   {
@@ -24,7 +27,12 @@
       "lon": 96.00453
     },
     "tags": [
+      "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Lower Dibang Valley district, Arunachal Pradesh."
     ]
   },
   {
@@ -39,6 +47,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Tawang district, Arunachal Pradesh."
     ]
   },
   {
@@ -53,6 +64,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Arunachal Pradesh."
     ]
   },
   {
@@ -60,11 +74,29 @@
     "name": "Dibang Dam",
     "state": "Arunachal Pradesh",
     "category": "nature",
-    "description": "Planned concrete gravity dam, located in the Lower Dibang Valley District in Arunachal Pradesh, India.",
+    "description": "A planned concrete gravity dam, located in the Lower Dibang Valley District in Arunachal Pradesh, India.",
     "coordinates": {
       "lat": 28.3375,
       "lon": 95.77083
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "dibang-river-arunachal-pradesh",
+    "name": "Dibang River",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Dibang River is a tributary river of the Brahmaputra.",
+    "coordinates": {
+      "lat": 27.8,
+      "lon": 95.5833
+    },
+    "facts": [
+      "Stands at about 119 m elevation.",
+      "Lies in Assam, Arunachal Pradesh."
+    ]
   },
   {
     "id": "dibang-wildlife-sanctuary-arunachal-pradesh",
@@ -78,6 +110,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1992."
     ]
   },
   {
@@ -89,7 +124,47 @@
     "coordinates": {
       "lat": 27.98333,
       "lon": 94.5
-    }
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Covers about 5,112 km².",
+      "Lies in Upper Siang district, Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "dihing-river-arunachal-pradesh",
+    "name": "Dihing River",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Dihing River is a river in India.",
+    "coordinates": {
+      "lat": 27.2333,
+      "lon": 94.7
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a nature destination in Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "dzong-architecture-arunachal-pradesh",
+    "name": "Dzong architecture",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Dzong architecture is a kind of fortress.",
+    "tags": [
+      "world-heritage",
+      "fort"
+    ],
+    "facts": [
+      "Dates from 21.",
+      "Part of Inheritage Foundation.",
+      "Lies in Bremen, Arunachal Pradesh."
+    ]
   },
   {
     "id": "eaglenest-wildlife-sanctuary-arunachal-pradesh",
@@ -103,6 +178,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in West Kameng district, Arunachal Pradesh."
     ]
   },
   {
@@ -117,6 +195,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Lies in Itanagar, Arunachal Pradesh."
     ]
   },
   {
@@ -131,6 +212,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 2010."
     ]
   },
   {
@@ -144,7 +228,31 @@
       "lon": 95.33
     },
     "tags": [
+      "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "government-of-arunachal-pradesh-arunachal-pradesh",
+    "name": "Government of Arunachal Pradesh",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Government of Arunachal Pradesh is an indian State Government.",
+    "facts": [
+      "Known as a tourism destination in Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "inner-line-permit-arunachal-pradesh",
+    "name": "Inner Line Permit",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Inner Line Permit is a permission required for mainland Indian citizens to travel in North-East states and Jammu and Kashmir state.",
+    "facts": [
+      "Known as a tourism destination in Arunachal Pradesh."
     ]
   },
   {
@@ -160,20 +268,29 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Arunachal Pradesh."
     ]
   },
   {
     "id": "itanagar-arunachal-pradesh",
     "name": "Itanagar",
     "state": "Arunachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Itanagar is a capital of Arunachal Pradesh, India.",
     "coordinates": {
       "lat": 27.1,
       "lon": 93.62
     },
     "tags": [
-      "hill-station"
+      "hill-station",
+      "museum"
+    ],
+    "facts": [
+      "Set beside Dikrong River.",
+      "Stands at about 750 m elevation.",
+      "Lies in Papum Pare district, Arunachal Pradesh."
     ]
   },
   {
@@ -189,6 +306,9 @@
     "tags": [
       "wildlife-sanctuary",
       "tiger-reserve"
+    ],
+    "facts": [
+      "Lies in Papum Pare district, Arunachal Pradesh."
     ]
   },
   {
@@ -203,6 +323,12 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 15 January 1990.",
+      "Named after Jawaharlal Nehru.",
+      "Maintained under Government of Arunachal Pradesh.",
+      "Lies in Itanagar, Arunachal Pradesh."
     ]
   },
   {
@@ -217,6 +343,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Arunachal Pradesh."
     ]
   },
   {
@@ -231,6 +360,29 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 2002.",
+      "Stands at about 3,250 m elevation.",
+      "Covers about 1,894 km².",
+      "Lies in East Kameng district, Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "kameng-river-arunachal-pradesh",
+    "name": "Kameng River",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Kameng River is a river in India.",
+    "coordinates": {
+      "lat": 26.6333,
+      "lon": 92.8833
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 64 m elevation."
     ]
   },
   {
@@ -246,6 +398,9 @@
     "tags": [
       "wildlife-sanctuary",
       "tiger-reserve"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Arunachal Pradesh."
     ]
   },
   {
@@ -260,6 +415,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Arunachal Pradesh."
     ]
   },
   {
@@ -274,6 +432,26 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "lohit-river-arunachal-pradesh",
+    "name": "Lohit River",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Lohit River is a river in Arunachal Pradesh in India.",
+    "coordinates": {
+      "lat": 27.78806,
+      "lon": 95.4808
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Tibet Autonomous Region, Arunachal Pradesh."
     ]
   },
   {
@@ -288,13 +466,16 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Lies in Tawang district, Arunachal Pradesh."
     ]
   },
   {
     "id": "malinithan-arunachal-pradesh",
     "name": "Malinithan",
     "state": "Arunachal Pradesh",
-    "category": "heritage",
+    "category": "spiritual",
     "description": "Malinithan is an archaeological site in Arunachal Pradesh, India.",
     "coordinates": {
       "lat": 27.65667,
@@ -303,6 +484,9 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Lower Siang district, Arunachal Pradesh."
     ]
   },
   {
@@ -318,6 +502,9 @@
     "tags": [
       "wildlife-sanctuary",
       "tiger-reserve"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Arunachal Pradesh."
     ]
   },
   {
@@ -332,6 +519,24 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1986."
+    ]
+  },
+  {
+    "id": "naksaparbat-arunachal-pradesh",
+    "name": "Naksaparbat",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Naksaparbat is a protected monument in Arunachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in East Kameng, Arunachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -347,6 +552,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Arunachal Pradesh."
     ]
   },
   {
@@ -363,6 +571,12 @@
       "world-heritage",
       "national-park",
       "tiger-reserve"
+    ],
+    "facts": [
+      "Dates from 1974.",
+      "Recognised as Tentative World Heritage Site.",
+      "Covers about 1,985 km².",
+      "Lies in Changlang district, Arunachal Pradesh."
     ]
   },
   {
@@ -377,6 +591,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Arunachal Pradesh."
     ]
   },
   {
@@ -391,21 +608,12 @@
     },
     "tags": [
       "tiger-reserve"
-    ]
-  },
-  {
-    "id": "payahaju-shiva-linga-temple-arunachal-pradesh",
-    "name": "Paya–Haju Shiva Linga Temple",
-    "state": "Arunachal Pradesh",
-    "category": "spiritual",
-    "description": "Paya–Haju Shiva Linga Temple is a medieval temple of Lohit Valley, Arunachal Pradesh.",
-    "coordinates": {
-      "lat": 27.94824,
-      "lon": 96.02049
-    },
-    "tags": [
-      "temple",
-      "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1966.",
+      "Stands at about 2,040 m elevation.",
+      "Covers about 862 km².",
+      "Lies in East Kameng district, Arunachal Pradesh."
     ]
   },
   {
@@ -421,6 +629,9 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Arunachal Pradesh."
     ]
   },
   {
@@ -432,7 +643,10 @@
     "coordinates": {
       "lat": 27.3428,
       "lon": 93.8167
-    }
+    },
+    "facts": [
+      "Rises about 68 m."
+    ]
   },
   {
     "id": "rangnuwk-hum-arunachal-pradesh",
@@ -442,6 +656,24 @@
     "description": "Rangnuwk hum is a place of worship for the Tangsa people.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "remains-in-bhismak-nagar-arunachal-pradesh",
+    "name": "Remains in Bhismak Nagar",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Remains in Bhismak Nagar is a protected monument in Arunachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lower Dibang Valley, Arunachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -452,6 +684,9 @@
     "description": "Rigyalling Monastery is a building in India.",
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Arunachal Pradesh."
     ]
   },
   {
@@ -466,6 +701,42 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "ruins-bhalukpong-arunachal-pradesh",
+    "name": "Ruins, Bhalukpong",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Ruins, Bhalukpong is a protected monument in Arunachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhalukpong (Balipara), Arunachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruins-of-copper-temple-arunachal-pradesh",
+    "name": "Ruins of Copper temple",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Ruins of Copper temple is a protected monument in Arunachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Lohit, Arunachal Pradesh.",
+      "Lies in Papum Pare, Arunachal Pradesh.",
+      "Lies in West Kameng, Arunachal Pradesh.",
+      "Lies in West Siang, Arunachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -481,6 +752,27 @@
     "tags": [
       "fort",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "sela-pass-arunachal-pradesh",
+    "name": "Sela Pass",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Sela Pass is a high-altitude mountain pass.",
+    "coordinates": {
+      "lat": 27.5035,
+      "lon": 92.1045
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Stands at about 4,170 m elevation.",
+      "Lies in West Kameng district, Arunachal Pradesh."
     ]
   },
   {
@@ -495,6 +787,28 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1989.",
+      "Covers about 100 km².",
+      "Lies in West Kameng district, Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "siyom-river-arunachal-pradesh",
+    "name": "Siyom River",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Siyom River is a river in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 28.2351,
+      "lon": 94.9993
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a nature destination in Arunachal Pradesh."
     ]
   },
   {
@@ -509,16 +823,39 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1995.",
+      "Covers about 337 km².",
+      "Lies in Lower Subansiri district, Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "tamreswari-kechai-khati-temple-near-sadiya-lohit-arunachal-pradesh",
+    "name": "Tamreswari (Kechai-Khati) Temple near Sadiya, Lohit",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Tamreswari (Kechai-Khati) Temple near Sadiya, Lohit is a protected monument in Arunachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Near Sadia, Arunachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
     "id": "tato-arunachal-pradesh-arunachal-pradesh",
     "name": "Tato, Arunachal Pradesh",
     "state": "Arunachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Tato, Arunachal Pradesh is a district Headquarter in Arunachal Pradesh, India.",
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Lies in Shi Yomi district, Arunachal Pradesh."
     ]
   },
   {
@@ -533,6 +870,10 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Dates from the 17th century.",
+      "Lies in Tawang district, Arunachal Pradesh."
     ]
   },
   {
@@ -544,6 +885,9 @@
     "tags": [
       "temple",
       "monastery"
+    ],
+    "facts": [
+      "Lies in Tawang district, Arunachal Pradesh."
     ]
   },
   {
@@ -558,6 +902,10 @@
     },
     "tags": [
       "mosque"
+    ],
+    "facts": [
+      "Dates from 1826.",
+      "Built in the Islamic architecture style."
     ]
   },
   {
@@ -572,6 +920,9 @@
     },
     "tags": [
       "world-heritage"
+    ],
+    "facts": [
+      "Recognised as Tentative World Heritage Site."
     ]
   },
   {
@@ -583,7 +934,10 @@
     "coordinates": {
       "lat": 28.6921,
       "lon": 95.0443
-    }
+    },
+    "facts": [
+      "Set on Brahmaputra River."
+    ]
   },
   {
     "id": "urgelling-monastery-arunachal-pradesh",
@@ -597,6 +951,24 @@
     },
     "tags": [
       "monastery"
+    ],
+    "facts": [
+      "Lies in Tawang district, Arunachal Pradesh."
+    ]
+  },
+  {
+    "id": "vijaynagar-arunachal-pradesh",
+    "name": "Vijaynagar",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Vijaynagar is a protected monument in Arunachal Pradesh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Changlang, Arunachal Pradesh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -611,20 +983,28 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Arunachal Pradesh."
     ]
   },
   {
     "id": "ziro-arunachal-pradesh",
     "name": "Ziro",
     "state": "Arunachal Pradesh",
-    "category": "other",
+    "category": "hill-station",
     "description": "Ziro is a town in India.",
     "coordinates": {
       "lat": 27.59497,
       "lon": 93.83854
     },
     "tags": [
+      "world-heritage",
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,700 m elevation.",
+      "Lies in Lower Subansiri district, Arunachal Pradesh."
     ]
   }
 ]

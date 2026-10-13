@@ -1,5 +1,95 @@
 [
   {
+    "id": "a-hillock-manipur",
+    "name": "A Hillock",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "A Hillock is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "a-menhir-manipur",
+    "name": "A Menhir",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "A Menhir is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "andro-inscription-manipur",
+    "name": "Andro Inscription",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Andro Inscription is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "boulder-of-lord-wangbrel-wangpurel-manipur",
+    "name": "Boulder of Lord Wangbrel(Wangpurel)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Boulder of Lord Wangbrel(Wangpurel) is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chandel, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chibu-stone-inscriptions-manipur",
+    "name": "Chibu Stone Inscriptions",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Chibu Stone Inscriptions is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Churachandpur, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chothe-thangwai-pakhangba-manipur",
+    "name": "Chothe Thangwai Pakhangba",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Chothe Thangwai Pakhangba is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bishnupur, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
     "id": "churachandpur-khoupum-protected-forest-manipur",
     "name": "Churachandpur-Khoupum Protected Forest",
     "state": "Manipur",
@@ -8,18 +98,97 @@
     "coordinates": {
       "lat": 24.4682,
       "lon": 93.6624
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "dolai-thaba-chingu-khubam-manipur",
+    "name": "Dolai Thaba Chingu Khubam",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Dolai Thaba Chingu Khubam is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gateway-amp-brick-wall-in-ruins-apanbi-amp-haomacha-pukhri-manipur",
+    "name": "Gateway &amp;Brick Wall (in ruins) Apanbi &amp; Haomacha Pukhri",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Gateway &amp;Brick Wall (in ruins) Apanbi &amp; Haomacha Pukhri is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "hapta-kangjeibung-manipur",
+    "name": "Hapta Kangjeibung",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Hapta Kangjeibung is a location in Imphal, Manipur, India.",
+    "coordinates": {
+      "lat": 24.79944,
+      "lon": 93.94694
+    },
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "heingang-assembly-constituency-manipur",
+    "name": "Heingang Assembly constituency",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Heingang Assembly constituency is a constituency of the Manipur legislative assembly in India.",
+    "coordinates": {
+      "lat": 24.84,
+      "lon": 93.94
+    },
+    "facts": [
+      "Lies in Imphal East district, Manipur."
+    ]
   },
   {
     "id": "heingang-ching-manipur",
     "name": "Heingang Ching",
     "state": "Manipur",
-    "category": "other",
+    "category": "nature",
     "description": "Heingang Ching is a sacred hill in Imphal.",
     "coordinates": {
       "lat": 24.879,
       "lon": 93.954
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "hicham-yaichampat-cremation-ground-of-bir-tikendrajit-manipur",
+    "name": "Hicham Yaichampat (Cremation Ground of Bir Tikendrajit",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Hicham Yaichampat (Cremation Ground of Bir Tikendrajit is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "hijagang-manipur",
@@ -30,6 +199,24 @@
     "tags": [
       "fort",
       "museum"
+    ],
+    "facts": [
+      "Lies in Imphal, Manipur."
+    ]
+  },
+  {
+    "id": "historical-site-of-wangkhei-meiraba-manipur",
+    "name": "Historical Site of Wangkhei Meiraba",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historical Site of Wangkhei Meiraba is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thoubal, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -40,6 +227,9 @@
     "description": "Hiyangthang Lairembi Temple is a meitei temple in Hiyangthang, Manipur.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Imphal West district, Manipur."
     ]
   },
   {
@@ -54,6 +244,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Manipur."
     ]
   },
   {
@@ -65,20 +258,107 @@
     "coordinates": {
       "lat": 24.808,
       "lon": 93.935
-    }
+    },
+    "facts": [
+      "Lies in Imphal, Manipur."
+    ]
+  },
+  {
+    "id": "imoinu-iratpa-manipur",
+    "name": "Imoinu Iratpa",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Imoinu Iratpa is a religious festival of Manipuri Goddess Imoinu.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "imphal-barracks-manipur",
+    "name": "Imphal Barracks",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Imphal Barracks is a barracks in York, City of York, England, UK.",
+    "facts": [
+      "Dates from 1877.",
+      "Lies in York, Manipur."
+    ]
+  },
+  {
+    "id": "imphal-manipur",
+    "name": "Imphal",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Imphal is a capital of the Indian state of Manipur.",
+    "coordinates": {
+      "lat": 24.82,
+      "lon": 93.95
+    },
+    "tags": [
+      "palace",
+      "temple",
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 786 m elevation."
+    ]
   },
   {
     "id": "imphal-peace-museum-manipur",
     "name": "Imphal Peace Museum",
     "state": "Manipur",
     "category": "heritage",
-    "description": "Imphal Peace Museum is a wWII museum in Manipur.",
+    "description": "Imphal Peace Museum is a WWII museum in Manipur.",
     "coordinates": {
       "lat": 24.70518,
       "lon": 93.81744
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 2019.",
+      "Lies in Imphal, Manipur."
+    ]
+  },
+  {
+    "id": "imphal-river-manipur",
+    "name": "Imphal River",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Imphal River is a river in India.",
+    "coordinates": {
+      "lat": 24.84306,
+      "lon": 93.95806
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "imphal-war-cemetery-manipur",
+    "name": "Imphal War Cemetery",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Imphal War Cemetery is a cemetery in India.",
+    "coordinates": {
+      "lat": 24.8225,
+      "lon": 93.9462
+    },
+    "facts": [
+      "Lies in Imphal, Manipur."
+    ]
+  },
+  {
+    "id": "ina-martyrs-memorial-complex-manipur",
+    "name": "INA Martyrs' Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "INA Martyrs' Memorial Complex is a war memorial at Moirang, India.",
+    "facts": [
+      "Dates from September 1969.",
+      "Dedicated to Indian National Army.",
+      "Lies in Bishnupur district, Manipur."
     ]
   },
   {
@@ -89,6 +369,102 @@
     "description": "INA War Museum is a war museum in Manipur.",
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Manipur."
+    ]
+  },
+  {
+    "id": "inscribed-stone-monument-manipur",
+    "name": "Inscribed Stone Monument",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Inscribed Stone Monument is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thoubal, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "inscribed-stone-monuments-manipur",
+    "name": "Inscribed Stone Monuments",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Inscribed Stone Monuments is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "inscribed-stone-of-maharaja-garibniwaj-manipur",
+    "name": "Inscribed Stone of Maharaja Garibniwaj",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Inscribed Stone of Maharaja Garibniwaj is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thoubal, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "inscribed-stone-of-maharaja-marjit-manipur",
+    "name": "Inscribed Stone of Maharaja Marjit",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Inscribed Stone of Maharaja Marjit is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur.",
+      "Lies in Thoubal, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kaina-manipur-manipur",
+    "name": "Kaina (Manipur)",
+    "state": "Manipur",
+    "category": "hill-station",
+    "description": "Kaina (Manipur) is a small hillock in Manipur sacred to Hindu.",
+    "coordinates": {
+      "lat": 24.673,
+      "lon": 94.015
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Known as a hill-station destination in Manipur."
+    ]
+  },
+  {
+    "id": "kangla-fort-including-quarter-moat-amp-kekrupat-manipur",
+    "name": "Kangla Fort (Including Quarter Moat &amp; Kekrupat",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Kangla Fort (Including Quarter Moat &amp; Kekrupat is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -102,9 +478,10 @@
       "lon": 93.94
     },
     "tags": [
-      "fort",
-      "palace",
-      "archaeological-site"
+      "fort"
+    ],
+    "facts": [
+      "Lies in Imphal, Manipur."
     ]
   },
   {
@@ -115,14 +492,20 @@
     "description": "Kangla Nongpok Thong is an eastern Gate of the Kangla Fort.",
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Manipur."
     ]
   },
   {
     "id": "kangla-nongpok-torban-manipur",
     "name": "Kangla Nongpok Torban",
     "state": "Manipur",
-    "category": "other",
-    "description": "Kangla Nongpok Torban is an indian recreation area."
+    "category": "heritage",
+    "description": "Kangla Nongpok Torban is an indian recreation area.",
+    "facts": [
+      "Known as a heritage destination in Manipur."
+    ]
   },
   {
     "id": "keibul-lamjao-national-park-manipur",
@@ -135,7 +518,43 @@
       "lon": 93.8402
     },
     "tags": [
-      "national-park"
+      "national-park",
+      "island"
+    ],
+    "facts": [
+      "Dates from 1977.",
+      "Recognised as Tentative World Heritage Site.",
+      "Covers about 40 km²."
+    ]
+  },
+  {
+    "id": "khagemba-leikol-manipur",
+    "name": "Khagemba Leikol",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Khagemba Leikol is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "khongjom-battle-field-tengol-lampak-manipur",
+    "name": "Khongjom Battle Field (Tengol Lampak)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Khongjom Battle Field (Tengol Lampak) is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thoubal, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -143,7 +562,10 @@
     "name": "Khongjom War Memorial Complex",
     "state": "Manipur",
     "category": "heritage",
-    "description": "Khongjom War Memorial Complex is a war memorial in Manipur."
+    "description": "Khongjom War Memorial Complex is a war memorial in Manipur.",
+    "facts": [
+      "Known as a heritage destination in Manipur."
+    ]
   },
   {
     "id": "khuga-dam-manipur",
@@ -154,7 +576,102 @@
     "coordinates": {
       "lat": 24.3,
       "lon": 93.15
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "khuga-river-manipur",
+    "name": "Khuga River",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Khuga River is a river in India.",
+    "coordinates": {
+      "lat": 24.4285,
+      "lon": 93.8378
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "khurai-ahongpund-manipur",
+    "name": "Khurai Ahongpund",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Khurai Ahongpund is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "krishna-avatar-carved-stone-manipur",
+    "name": "Krishna Avatar (Carved Stone)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Krishna Avatar (Carved Stone) is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thoubal, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kuki-baptist-convention-manipur",
+    "name": "Kuki Baptist Convention",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Kuki Baptist Convention is a christian denomination in Northeast India.",
+    "facts": [
+      "Dates from 16 March 1958."
+    ]
+  },
+  {
+    "id": "kuki-christian-church-manipur",
+    "name": "Kuki Christian Church",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Kuki Christian Church is a tourism place in Manipur, India.",
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Dates from 1943."
+    ]
+  },
+  {
+    "id": "kwaak-taanba-manipur",
+    "name": "Kwaak Taanba",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Kwaak Taanba is a festival of Manipur.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "lainingthou-marjing-manipur",
+    "name": "Lainingthou Marjing",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Lainingthou Marjing is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "lainingthou-sanamahi-kiyong-manipur",
@@ -168,6 +685,51 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 2006.",
+      "Associated with Sanamahism.",
+      "Lies in Imphal East district, Manipur."
+    ]
+  },
+  {
+    "id": "lainingthou-sanamahi-manipur",
+    "name": "Lainingthou Sanamahi",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Lainingthou Sanamahi is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lamtol-khagemba-laikol-manipur",
+    "name": "Lamtol (Khagemba Laikol)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Lamtol (Khagemba Laikol) is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Senapati, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lilium-mackliniae-manipur",
+    "name": "Lilium mackliniae",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Lilium mackliniae is a species of plant.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
     ]
   },
   {
@@ -182,6 +744,10 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Opened in 16 October 2016.",
+      "Lies in Thanga, Manipur."
     ]
   },
   {
@@ -195,15 +761,87 @@
       "lon": 93.78333
     },
     "tags": [
+      "world-heritage",
+      "national-park",
       "lake"
+    ],
+    "facts": [
+      "Covers about 287 km²."
     ]
   },
   {
-    "id": "lui-ngai-ni-manipur",
-    "name": "Lui Ngai Ni",
+    "id": "lungpha-archaeological-site-manipur",
+    "name": "Lungpha (Archaeological Site)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Lungpha (Archaeological Site) is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ukhrul, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "maibam-lotpa-ching-manipur",
+    "name": "Maibam Lotpa Ching",
     "state": "Manipur",
     "category": "other",
-    "description": "Lui Ngai Ni is a seed-sowing festiva in Manipur India."
+    "description": "Maibam Lotpa Ching is a WWII historical site in Manipur, India.",
+    "coordinates": {
+      "lat": 24.703,
+      "lon": 93.817
+    },
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "makoinungol-ching-manipur",
+    "name": "Makoinungol Ching",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Makoinungol Ching is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "manipur-baptist-convention-manipur",
+    "name": "Manipur Baptist Convention",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Manipur Baptist Convention is a baptist Christian denomination in Manipur, India.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "manipur-bush-quail-manipur",
+    "name": "Manipur bush quail",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Manipur bush quail is a species of bird.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "manipur-bush-rat-manipur",
+    "name": "Manipur bush rat",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Manipur bush rat is a species of mammal.",
+    "facts": [
+      "Named after Allan Hume."
+    ]
   },
   {
     "id": "manipur-state-museum-manipur",
@@ -217,6 +855,20 @@
     },
     "tags": [
       "museum"
+    ],
+    "facts": [
+      "Dates from 23 September 1969.",
+      "Lies in Imphal, Manipur."
+    ]
+  },
+  {
+    "id": "manipuri-pony-manipur",
+    "name": "Manipuri pony",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Manipuri pony is a traditional breed of horse originated from Manipur (Kangleipalk) State.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
     ]
   },
   {
@@ -231,6 +883,11 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Kangla Fort.",
+      "Founded by Ningthou Kangba.",
+      "Maintained under Government of Manipur."
     ]
   },
   {
@@ -242,31 +899,95 @@
     "coordinates": {
       "lat": 24.8238,
       "lon": 94.1421
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
   },
   {
     "id": "marjing-polo-complex-manipur",
     "name": "Marjing Polo Complex",
     "state": "Manipur",
-    "category": "other",
-    "description": "Marjing Polo Complex is a polo Complex in Imphal."
+    "category": "heritage",
+    "description": "Marjing Polo Complex is a polo Complex in Imphal.",
+    "facts": [
+      "Known as a heritage destination in Manipur."
+    ]
   },
   {
     "id": "marjing-polo-statue-manipur",
     "name": "Marjing Polo Statue",
     "state": "Manipur",
-    "category": "other",
+    "category": "heritage",
     "description": "Marjing Polo Statue is a world's tallest polo player statue.",
     "coordinates": {
       "lat": 24.87937,
       "lon": 93.95405
-    }
+    },
+    "facts": [
+      "Known as a heritage destination in Manipur."
+    ]
+  },
+  {
+    "id": "megalithic-monument-a-menhir-manipur",
+    "name": "Megalithic Monument (A Menhir)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Megalithic Monument (A Menhir) is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thoubal, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-monument-manipur",
+    "name": "Megalithic Monument",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Megalithic Monument is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Senapati, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-site-manipur",
+    "name": "Megalithic Site",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Megalithic Site is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chandel, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "meitei-culture-manipur",
+    "name": "Meitei culture",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Meitei culture is a culture of Meitei civilization of India.",
+    "facts": [
+      "Part of culture of the Indian subcontinent."
+    ]
   },
   {
     "id": "menjor-multipurpose-research-centre-and-unity-park-manipur",
     "name": "Menjor Multipurpose Research Centre and Unity Park",
     "state": "Manipur",
-    "category": "heritage",
+    "category": "wildlife",
     "description": "Menjor Multipurpose Research Centre and Unity Park is a research centre and unity park in Manipur, India.",
     "coordinates": {
       "lat": 24.61895,
@@ -276,6 +997,101 @@
       "temple",
       "church",
       "museum"
+    ],
+    "facts": [
+      "Recognised as cultural heritage.",
+      "Associated with Sanamahism.",
+      "Lies in Khangabok, Manipur."
+    ]
+  },
+  {
+    "id": "mera-chaorel-houba-manipur",
+    "name": "Mera Chaorel Houba",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Mera Chaorel Houba is a festival of Manipur.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "mera-hou-chongba-manipur",
+    "name": "Mera Hou Chongba",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Mera Hou Chongba is a festival of Manipur.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "mizorammanipurkachin-rain-forests-manipur",
+    "name": "Mizoram–Manipur–Kachin rain forests",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Mizoram–Manipur–Kachin rain forests is an ecoregion (WWF).",
+    "coordinates": {
+      "lat": 24.2333,
+      "lon": 94.0
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "mount-koubru-manipur",
+    "name": "Mount Koubru",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Mount Koubru is a sacred Mountain in Manipur, India.",
+    "coordinates": {
+      "lat": 25.06083,
+      "lon": 93.87611
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "mount-manipur-manipur",
+    "name": "Mount Manipur",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Mount Manipur is a third highest mountain in the Andaman and Nicobar islands of India.",
+    "coordinates": {
+      "lat": 11.72222,
+      "lon": 92.73278
+    },
+    "tags": [
+      "national-park",
+      "hill-station",
+      "island"
+    ],
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "mrs-hume-s-pheasant-manipur",
+    "name": "Mrs. Hume's pheasant",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Mrs. Hume's pheasant is a species of bird.",
+    "facts": [
+      "Named after Mary Ann Grindall."
+    ]
+  },
+  {
+    "id": "ningol-chakkouba-manipur",
+    "name": "Ningol Chakkouba",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Ningol Chakkouba is a festival of Manipur.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
     ]
   },
   {
@@ -287,14 +1103,40 @@
     "coordinates": {
       "lat": 24.804,
       "lon": 94.035
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
   },
   {
     "id": "nongmaiching-reserved-forest-manipur",
     "name": "Nongmaiching Reserved Forest",
     "state": "Manipur",
     "category": "nature",
-    "description": "Nongmaiching Reserved Forest is a reserved forest in Imphal East."
+    "description": "Nongmaiching Reserved Forest is a reserved forest in Imphal East.",
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "orchid-manipur",
+    "name": "Orchid",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Orchid is a family of plants.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "osteobrama-belangeri-manipur",
+    "name": "Osteobrama belangeri",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Osteobrama belangeri is a species of fish.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
   },
   {
     "id": "pakhangba-temple-kangla-manipur",
@@ -309,6 +1151,29 @@
     "tags": [
       "fort",
       "temple"
+    ],
+    "facts": [
+      "Lies in Imphal, Manipur."
+    ]
+  },
+  {
+    "id": "panthoibi-iratpa-manipur",
+    "name": "Panthoibi Iratpa",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Panthoibi Iratpa is a meitei religious festival dedicated to Goddess Panthoibi.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "phoebe-bootanica-manipur",
+    "name": "Phoebe bootanica",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Phoebe bootanica is a species of plant.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
     ]
   },
   {
@@ -323,6 +1188,59 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Manipur."
+    ]
+  },
+  {
+    "id": "pinoumai-tamartuo-manipur",
+    "name": "Pinoumai Tamartuo",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Pinoumai Tamartuo is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Senapati, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "politics-of-manipur-manipur",
+    "name": "Politics of Manipur",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Politics of Manipur is a tourism place in Manipur, India.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "polo-manipur",
+    "name": "Polo",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Polo is an equestrian team sport.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "pond-of-lord-wangbrel-manipur",
+    "name": "Pond of Lord Wangbrel",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Pond of Lord Wangbrel is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chandel, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -337,6 +1255,54 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Manipur."
+    ]
+  },
+  {
+    "id": "rash-mandal-pukhri-manipur",
+    "name": "Rash Mandal Pukhri",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Rash Mandal Pukhri is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sacred-fire-place-manipur",
+    "name": "Sacred Fire Place",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sacred Fire Place is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sacred-jack-tree-manipur",
+    "name": "Sacred Jack Tree",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sacred Jack Tree is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Thoubal, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -351,6 +1317,49 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Thoubal district, Manipur."
+    ]
+  },
+  {
+    "id": "sajibu-nongma-panba-manipur",
+    "name": "Sajibu Nongma Panba",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Sajibu Nongma Panba is a manipuri new year festival.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "samadhi-of-maharaja-gambhir-singh-manipur",
+    "name": "Samadhi of Maharaja Gambhir Singh",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Samadhi of Maharaja Gambhir Singh is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "samadhi-of-maharaja-khaba-manipur",
+    "name": "Samadhi of Maharaja Khaba",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Samadhi of Maharaja Khaba is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -358,7 +1367,10 @@
     "name": "Samban-Lei Sekpil",
     "state": "Manipur",
     "category": "other",
-    "description": "Samban-Lei Sekpil is a tourism place in Manipur, India."
+    "description": "Samban-Lei Sekpil is a tourism place in Manipur, India.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
   },
   {
     "id": "sana-konung-manipur",
@@ -372,6 +1384,19 @@
     },
     "tags": [
       "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Manipur."
+    ]
+  },
+  {
+    "id": "sanamahi-ahong-khong-chingba-manipur",
+    "name": "Sanamahi Ahong Khong Chingba",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Sanamahi Ahong Khong Chingba is a religious festival of pulling a grand chariot of Lord Sanamahi.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
     ]
   },
   {
@@ -379,9 +1404,41 @@
     "name": "Sanamahi Temple",
     "state": "Manipur",
     "category": "spiritual",
-    "description": "Sanamahi Temple is a Meitei temple.",
+    "description": "Sanamahi Temple is a meitei temple.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Dates from 1891.",
+      "Lies in Imphal West district, Manipur."
+    ]
+  },
+  {
+    "id": "sangai-manipur",
+    "name": "Sangai",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sangai is a subspecies of deer.",
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Known as a heritage destination in Manipur."
+    ]
+  },
+  {
+    "id": "sangaiyumpham-maharaja-gambhir-singh-manipur",
+    "name": "Sangaiyumpham Maharaja Gambhir Singh",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sangaiyumpham Maharaja Gambhir Singh is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -394,6 +1451,12 @@
       "fort",
       "palace",
       "archaeological-site"
+    ],
+    "facts": [
+      "Built in the Meitei architecture style.",
+      "Dedicated to Ningthouja dynasty.",
+      "Maintained under Government of Manipur.",
+      "Lies in Imphal, Manipur."
     ]
   },
   {
@@ -409,6 +1472,41 @@
     "tags": [
       "museum",
       "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 1991."
+    ]
+  },
+  {
+    "id": "sekta-kei-mound-manipur",
+    "name": "Sekta-Kei Mound",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sekta-Kei Mound is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sekta-manipur",
+    "name": "Sekta",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Sekta is a village in Manipur, India.",
+    "coordinates": {
+      "lat": 24.887,
+      "lon": 94.037
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Lies in Imphal East district, Manipur."
     ]
   },
   {
@@ -423,6 +1521,9 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1982."
     ]
   },
   {
@@ -437,6 +1538,41 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Imphal East district, Manipur."
+    ]
+  },
+  {
+    "id": "shrine-of-lord-wangbrel-wangpurel-manipur",
+    "name": "Shrine of Lord Wangbrel(Wangpurel)",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Shrine of Lord Wangbrel(Wangpurel) is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chandel, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "siju-wildlife-sanctuary-manipur",
+    "name": "Siju Wildlife Sanctuary",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "Siju Wildlife Sanctuary is a wildlife sanctuary in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.33778,
+      "lon": 90.68639
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Manipur."
     ]
   },
   {
@@ -451,6 +1587,11 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Associated with Catholicism.",
+      "Named after Saint Joseph.",
+      "Lies in Imphal, Manipur."
     ]
   },
   {
@@ -465,6 +1606,12 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Dates from 15 June 2002.",
+      "Dedicated to Maharaja Nara Singh.",
+      "Maintained under Government of Manipur.",
+      "Lies in Imphal, Manipur."
     ]
   },
   {
@@ -479,6 +1626,159 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Manipur."
+    ]
+  },
+  {
+    "id": "temple-of-leimapokpa-keirungba-manipur",
+    "name": "Temple of Leimapokpa Keirungba",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Temple of Leimapokpa Keirungba is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-madan-mohanji-manipur",
+    "name": "Temple of Madan Mohanji",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Temple of Madan Mohanji is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-radha-damodar-manipur",
+    "name": "Temple of Radha Damodar",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Temple of Radha Damodar is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-sanamahi-manipur",
+    "name": "Temple of Sanamahi",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Temple of Sanamahi is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-shri-krishna-manipur",
+    "name": "Temple of Shri Krishna",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Temple of Shri Krishna is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-thangal-general-manipur",
+    "name": "Temple of Thangal General",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Temple of Thangal General is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal East, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "temple-of-vishnu-manipur",
+    "name": "Temple of Vishnu",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Temple of Vishnu is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bishenpur, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tengnoupal-manipur",
+    "name": "Tengnoupal",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Tengnoupal is a village in Manipur, India.",
+    "coordinates": {
+      "lat": 24.328,
+      "lon": 93.986
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,677 m elevation.",
+      "Lies in Chandel district, Manipur."
+    ]
+  },
+  {
+    "id": "thanga-manipur",
+    "name": "Thanga",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Thanga is a village in Manipur, India.",
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Lies in Bishnupur district, Manipur."
+    ]
+  },
+  {
+    "id": "thangjing-hill-manipur",
+    "name": "Thangjing Hill",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Thangjing Hill is a mountain in India.",
+    "coordinates": {
+      "lat": 24.4685,
+      "lon": 93.6617
+    },
+    "facts": [
+      "Known as a nature destination in Manipur."
     ]
   },
   {
@@ -494,6 +1794,24 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Bishnupur district, Manipur."
+    ]
+  },
+  {
+    "id": "thong-nambonbi-humped-bridge-manipur",
+    "name": "Thong Nambonbi (Humped Bridge)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Thong Nambonbi (Humped Bridge) is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -501,7 +1819,10 @@
     "name": "Tiddim Road",
     "state": "Manipur",
     "category": "other",
-    "description": "Tiddim Road is a historical military road in India."
+    "description": "Tiddim Road is a historical military road in India.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
   },
   {
     "id": "tipaimukh-dam-manipur",
@@ -512,7 +1833,50 @@
     "coordinates": {
       "lat": 24.23639,
       "lon": 93.01528
-    }
+    },
+    "facts": [
+      "Set on Barak River."
+    ]
+  },
+  {
+    "id": "vanda-coerulea-manipur",
+    "name": "Vanda coerulea",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Vanda coerulea is a species of plant.",
+    "facts": [
+      "Known as a tourism destination in Manipur."
+    ]
+  },
+  {
+    "id": "wangthonbi-mound-manipur",
+    "name": "Wangthonbi Mound",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Wangthonbi Mound is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Imphal West, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "willong-megalithic-memorial-stones-manipur",
+    "name": "Willong Megalithic Memorial Stones",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Willong Megalithic Memorial Stones is a protected monument in Manipur, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Senapati, Manipur."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "yangoupokpi-lokchao-wildlife-sanctuary-manipur",
@@ -526,6 +1890,11 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1989.",
+      "Covers about 185 km².",
+      "Lies in Chandel district, Manipur."
     ]
   }
 ]

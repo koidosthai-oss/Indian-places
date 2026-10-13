@@ -12,6 +12,47 @@
     "tags": [
       "wildlife-sanctuary",
       "tiger-reserve"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "ambikapur-chhattisgarh-chhattisgarh",
+    "name": "Ambikapur, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Ambikapur, Chhattisgarh is a city in India.",
+    "coordinates": {
+      "lat": 23.12,
+      "lon": 83.2
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Stands at about 623 m elevation.",
+      "Covers about 1,983 km².",
+      "Lies in Surguja district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "ambivali-caves-chhattisgarh",
+    "name": "Ambivali Caves",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Ambivali Caves is an archaeological site in Raigarh district, India.",
+    "coordinates": {
+      "lat": 19.01867,
+      "lon": 73.49705
+    },
+    "tags": [
+      "cave",
+      "archaeological-site",
+      "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Raigarh district, Chhattisgarh."
     ]
   },
   {
@@ -26,6 +67,100 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Part of Hasdeo River."
+    ]
+  },
+  {
+    "id": "anand-prabhu-kuti-bihar-chhattisgarh",
+    "name": "Anand Prabhu Kuti Bihar",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Anand Prabhu Kuti Bihar is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sirpur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-brick-mounds-chhattisgarh",
+    "name": "Ancient Brick Mounds",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Ancient Brick Mounds is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Garh Dhanora, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-brick-temple-chhattisgarh",
+    "name": "Ancient Brick Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ancient Brick Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dondilohara, Chhattisgarh.",
+      "Lies in Nawagaon, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-sculpture-in-danteswari-temple-chhattisgarh",
+    "name": "Ancient sculpture in Danteswari Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ancient sculpture in Danteswari Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barsur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-shiva-temple-chhattisgarh",
+    "name": "Ancient Shiva Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ancient Shiva Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kirari Godhi, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "andaldeo-temple-chhattisgarh",
+    "name": "Andaldeo Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Andaldeo Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharod, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -40,10 +175,38 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Arang Vidhan Sabha constituency, Chhattisgarh."
     ]
   },
   {
-    "id": "ashtabhuji-temple-chhattisgarh",
+    "id": "ardhanariswara-image-chhattisgarh",
+    "name": "Ardhanariswara Image",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Ardhanariswara Image is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhairam Deo Gudi, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "arpa-river-chhattisgarh-chhattisgarh",
+    "name": "Arpa River (Chhattisgarh)",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Arpa River (Chhattisgarh) is a river in Odisha, India.",
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "ashtabhuji-temple-chhattisgarh-q19456906",
     "name": "Ashtabhuji Temple",
     "state": "Chhattisgarh",
     "category": "spiritual",
@@ -54,6 +217,12 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Janjgir–Champa district, Chhattisgarh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Adbhar, Chhattisgarh."
     ]
   },
   {
@@ -68,6 +237,39 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "bahadur-kalarin-s-machi-chhattisgarh",
+    "name": "Bahadur Kalarin's Machi",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Bahadur Kalarin's Machi is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nawapara, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bajarangbali-temple-chhattisgarh",
+    "name": "Bajarangbali Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Bajarangbali Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sahaspur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -83,6 +285,24 @@
     "tags": [
       "temple",
       "pilgrimage"
+    ],
+    "facts": [
+      "Lies in Rajnandgaon district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "bankeshwar-mahadev-temple-and-mounds-of-sculptured-and-unsculptured-stones-chhattisgarh",
+    "name": "Bankeshwar mahadev temple and mounds of sculptured and unsculptured stones",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Bankeshwar mahadev temple and mounds of sculptured and unsculptured stones is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tuman, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -97,6 +317,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Rajnandgaon district, Chhattisgarh."
     ]
   },
   {
@@ -111,6 +334,24 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "battisa-temple-chhattisgarh",
+    "name": "Battisa temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Battisa temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barsur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -125,6 +366,55 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "bhand-dewal-chhattisgarh",
+    "name": "Bhand Dewal",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Bhand Dewal is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Arang, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhilai-chhattisgarh",
+    "name": "Bhilai",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Bhilai is a city in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.21,
+      "lon": 81.38
+    },
+    "facts": [
+      "Stands at about 452 m elevation.",
+      "Covers about 341 km².",
+      "Lies in Durg district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "bhima-kichak-temple-chhattisgarh",
+    "name": "Bhima-kichak temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Bhima-kichak temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Malhar, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -139,6 +429,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Gariaband district, Chhattisgarh."
     ]
   },
   {
@@ -153,6 +446,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Kawardha, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "bhoramdev-temple-chhattisgarh",
+    "name": "Bhoramdev Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Bhoramdev Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kawardha, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -167,10 +479,95 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
     ]
   },
   {
-    "id": "chaiturgarh-chhattisgarh",
+    "id": "bijapur-fort-chhattisgarh",
+    "name": "Bijapur Fort",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Bijapur Fort is a fort in Bijapur, India.",
+    "coordinates": {
+      "lat": 16.8276,
+      "lon": 75.7087
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ],
+    "facts": [
+      "Lies in Bijapur District, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "bilaspur-chhattisgarh-chhattisgarh",
+    "name": "Bilaspur, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Bilaspur, Chhattisgarh is a city in Chhattisgarh state of India.",
+    "coordinates": {
+      "lat": 22.15,
+      "lon": 82.01667
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Stands at about 262 m elevation.",
+      "Covers about 255 km².",
+      "Lies in Bilaspur district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "brick-mound-chhattisgarh",
+    "name": "Brick mound",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Brick mound is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gadh Dhanora, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "brick-temple-of-shabari-chhattisgarh",
+    "name": "Brick Temple of Shabari",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Brick Temple of Shabari is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharod, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "buddha-s-statue-at-ancient-mound-chhattisgarh",
+    "name": "Buddha's Statue at Ancient mound",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Buddha's Statue at Ancient mound is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhongapal, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "chaiturgarh-chhattisgarh-q5068137",
     "name": "Chaiturgarh",
     "state": "Chhattisgarh",
     "category": "heritage",
@@ -181,6 +578,41 @@
     },
     "tags": [
       "fort"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Korba district, Chhattisgarh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Close to Bagdara, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "champaran-chhattisgarh-chhattisgarh",
+    "name": "Champaran, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "category": "offbeat",
+    "description": "Champaran, Chhattisgarh is a village in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.03694,
+      "lon": 81.92139
+    },
+    "facts": [
+      "Known as a offbeat destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "chandraditya-temple-chhattisgarh",
+    "name": "Chandraditya Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Chandraditya Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barsur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -195,6 +627,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Dantewada district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "cherki-mahal-chhattisgarh",
+    "name": "Cherki Mahal",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Cherki Mahal is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kawardha, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -206,7 +657,25 @@
     "coordinates": {
       "lat": 21.53,
       "lon": 80.98
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "chitawari-devi-temple-chhattisgarh",
+    "name": "Chitawari Devi Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Chitawari Devi Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhobani, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "chitrakote-falls-chhattisgarh",
@@ -220,6 +689,10 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Part of Indravati River.",
+      "Lies in Jagdalpur, Chhattisgarh."
     ]
   },
   {
@@ -227,7 +700,10 @@
     "name": "Damau dhara",
     "state": "Chhattisgarh",
     "category": "nature",
-    "description": "Damau dhara is a tourism place in Chhattisgarh, India."
+    "description": "Damau dhara is a tourism place in Chhattisgarh, India.",
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
   },
   {
     "id": "danteshwari-temple-chhattisgarh",
@@ -241,6 +717,70 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Dantewada district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "danteswari-devi-temple-chhattisgarh",
+    "name": "Danteswari Devi Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Danteswari Devi Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dantewada, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "deur-temple-chhattisgarh",
+    "name": "Deur Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Deur Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Maharanipur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "devi-temple-cherika-deur-chhattisgarh",
+    "name": "Devi Temple (Cherika Deur)",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Devi Temple (Cherika Deur) is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in | address =, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "devrai-jaithani-temple-tala-chhattisgarh",
+    "name": "Devrai-jaithani Temple(Tala)",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Devrai-jaithani Temple(Tala) is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tala, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -256,10 +796,13 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
     ]
   },
   {
-    "id": "dhumnath-temple-chhattisgarh",
+    "id": "dhumnath-temple-chhattisgarh-q97119238",
     "name": "Dhumnath Temple",
     "state": "Chhattisgarh",
     "category": "spiritual",
@@ -270,6 +813,12 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Bilaspur district, Chhattisgarh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Sargaon, Chhattisgarh."
     ]
   },
   {
@@ -284,6 +833,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
     ]
   },
   {
@@ -295,7 +847,26 @@
     "coordinates": {
       "lat": 20.30778,
       "lon": 81.77167
-    }
+    },
+    "facts": [
+      "Set on Mahanadi.",
+      "Rises about 30.5 m."
+    ]
+  },
+  {
+    "id": "ganesh-statues-chhattisgarh",
+    "name": "Ganesh statues",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Ganesh statues is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barsur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "ganga-maiya-chhattisgarh",
@@ -305,6 +876,9 @@
     "description": "Ganga Maiya is a hindu temple in Chhattisgarh, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
     ]
   },
   {
@@ -316,7 +890,26 @@
     "coordinates": {
       "lat": 20.61667,
       "lon": 81.56972
-    }
+    },
+    "facts": [
+      "Set on Mahanadi.",
+      "Lies in Dhamtari district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "ghughusraja-temple-chhattisgarh",
+    "name": "Ghughusraja Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ghughusraja Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Deokar, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "gomardha-wildlife-sanctuary-chhattisgarh",
@@ -330,6 +923,69 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "grave-of-three-kabir-panthi-s-chhattisgarh",
+    "name": "Grave of three kabir panthi's",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Grave of three kabir panthi's is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kudurmal, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "group-of-satmahala-temples-chhattisgarh",
+    "name": "Group of Satmahala Temples",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Group of Satmahala Temples is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bhadwahi, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "group-of-temples-known-as-the-rajiva-lochana-or-rajim-temples-chhattisgarh",
+    "name": "Group of temples known as the Rajiva Lochana or Rajim Temples",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Group of temples known as the Rajiva Lochana or Rajim Temples is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rajim, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "gudiyari-temple-chhattisgarh",
+    "name": "Gudiyari Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Gudiyari Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kesharpal, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -345,6 +1001,24 @@
     "tags": [
       "national-park",
       "tiger-reserve"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "half-ruined-temple-of-kesava-narayan-chhattisgarh",
+    "name": "Half ruined temple of Kesava Narayan",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Half ruined temple of Kesava Narayan is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sheori Narayan, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -356,7 +1030,24 @@
     "coordinates": {
       "lat": 22.605,
       "lon": 82.598
-    }
+    },
+    "facts": [
+      "Set on Hasdeo River."
+    ]
+  },
+  {
+    "id": "hasdeo-river-chhattisgarh",
+    "name": "Hasdeo River",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Hasdeo River is a river in India.",
+    "coordinates": {
+      "lat": 21.72335,
+      "lon": 82.76984
+    },
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
   },
   {
     "id": "indal-deul-temple-chhattisgarh",
@@ -370,6 +1061,9 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
     ]
   },
   {
@@ -384,6 +1078,62 @@
     },
     "tags": [
       "national-park"
+    ],
+    "facts": [
+      "Dates from 1982.",
+      "Covers about 1,258 km².",
+      "Lies in Bijapur District, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "jaganath-temple-chhattisgarh",
+    "name": "Jaganath Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Jaganath Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khallari, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jagdalpur-chhattisgarh",
+    "name": "Jagdalpur",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Jagdalpur is a city.",
+    "coordinates": {
+      "lat": 19.07,
+      "lon": 82.03
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Stands at about 552 m elevation.",
+      "Covers about 29 km².",
+      "Lies in Bastar district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "jama-mosque-bhilai-chhattisgarh",
+    "name": "Jama Mosque, Bhilai",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Jama Mosque, Bhilai is a mosque in India.",
+    "coordinates": {
+      "lat": 21.20142,
+      "lon": 81.35006
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
     ]
   },
   {
@@ -394,13 +1144,16 @@
     "description": "Jatmai Mata Mandir is a hindu temple of Goddess Durga.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
     ]
   },
   {
     "id": "jogimara-and-sitabenga-caves-chhattisgarh",
     "name": "Jogimara and Sitabenga Caves",
     "state": "Chhattisgarh",
-    "category": "nature",
+    "category": "heritage",
     "description": "Jogimara and Sitabenga Caves is a 3rd to 2nd century BCE site with frescoes and Brahmi inscription.",
     "coordinates": {
       "lat": 22.89829,
@@ -408,6 +1161,41 @@
     },
     "tags": [
       "cave"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Built in the rock-cut architecture style.",
+      "Part of Ramgarh Hill.",
+      "Lies in Surguja district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "jogimara-caves-chhattisgarh",
+    "name": "Jogimara Caves",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Jogimara Caves is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ramagarh hill, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jonk-river-chhattisgarh",
+    "name": "Jonk River",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Jonk River is a river in India.",
+    "coordinates": {
+      "lat": 21.7,
+      "lon": 82.55
+    },
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
     ]
   },
   {
@@ -415,7 +1203,10 @@
     "name": "Kabir Dharm Nagar Damakheda",
     "state": "Chhattisgarh",
     "category": "nature",
-    "description": "Kabir Dharm Nagar Damakheda is a kabir Panth religious centre in Chhattisgarh, India."
+    "description": "Kabir Dharm Nagar Damakheda is a kabir Panth religious centre in Chhattisgarh, India.",
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
   },
   {
     "id": "kaleshwarnath-temple-pithampur-chhattisgarh",
@@ -425,6 +1216,24 @@
     "description": "Kaleshwarnath Temple, Pithampur is a temple in India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "kamma-memorial-or-urasgattta-post-chhattisgarh",
+    "name": "Kamma Memorial or Urasgattta Post",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Kamma Memorial or Urasgattta Post is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhilmil, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -440,6 +1249,87 @@
     "tags": [
       "national-park",
       "cave"
+    ],
+    "facts": [
+      "Dates from 1982.",
+      "Recognised as Tentative World Heritage Site.",
+      "Covers about 200 km².",
+      "Lies in Bastar district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "kanthi-dewal-temple-chhattisgarh",
+    "name": "Kanthi Dewal Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Kanthi Dewal Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ratanpur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kapileswar-shiva-temple-group-and-baori-chhattisgarh",
+    "name": "Kapileswar Shiva Temple Group and Baori",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Kapileswar Shiva Temple Group and Baori is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Balod, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "karli-mahadeo-temple-chhattisgarh",
+    "name": "Karli Mahadeo Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Karli Mahadeo Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Samlur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "karneshwar-mahadev-group-of-temple-chhattisgarh",
+    "name": "Karneshwar Mahadev Group of Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Karneshwar Mahadev Group of Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Chhipalip, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kashigarh-fort-chhattisgarh",
+    "name": "Kashigarh fort",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Kashigarh fort is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kashigarh, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -454,6 +1344,9 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
     ]
   },
   {
@@ -465,7 +1358,40 @@
     "coordinates": {
       "lat": 22.0198,
       "lon": 81.6861
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "kotgarh-chhattisgarh",
+    "name": "Kotgarh",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Kotgarh is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Near Bargawan, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kotmi-fort-chhattisgarh",
+    "name": "Kotmi Fort",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Kotmi Fort is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kotmi, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "kotumsar-cave-chhattisgarh",
@@ -479,6 +1405,9 @@
     },
     "tags": [
       "cave"
+    ],
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
     ]
   },
   {
@@ -489,6 +1418,84 @@
     "description": "Kudargarh is a hindu temple in Chhattisgarh, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "kukurdev-temple-chhattisgarh",
+    "name": "Kukurdev Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Kukurdev Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Khapri, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "kuleshwar-temple-chhattisgarh",
+    "name": "Kuleshwar Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Kuleshwar Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rajim, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "lakshamaneswar-temple-chhattisgarh",
+    "name": "Lakshamaneswar Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Lakshamaneswar Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kharod, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "larger-vishnu-temple-chhattisgarh",
+    "name": "Larger Vishnu temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Larger Vishnu temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Janjgir, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "madhiyapat-temple-ruined-temple-chhattisgarh",
+    "name": "Madhiyapat Temple (Ruined Temple)",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Madhiyapat Temple (Ruined Temple) is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dondilohara, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -503,6 +1510,25 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Kawardha, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "mahadeo-temple-chhattisgarh",
+    "name": "Mahadeo Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mahadeo Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Bastar, Chhattisgarh.",
+      "Lies in Pali, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -517,10 +1543,29 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Durg district, Chhattisgarh."
     ]
   },
   {
-    "id": "mahamaya-temple-chhattisgarh",
+    "id": "mahadev-temple-including-math-of-bairagi-and-mandapa-chhattisgarh",
+    "name": "Mahadev Temple including math of Bairagi and Mandapa",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mahadev Temple including math of Bairagi and Mandapa is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narainpur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mahamaya-temple-chhattisgarh-q6733045",
     "name": "Mahamaya Temple",
     "state": "Chhattisgarh",
     "category": "spiritual",
@@ -531,6 +1576,12 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as State Protected Monument.",
+      "Lies in Bilaspur district, Chhattisgarh.",
+      "Recognised as a State Protected Monument.",
+      "Lies in Ratanpur, Chhattisgarh."
     ]
   },
   {
@@ -545,6 +1596,23 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "maikal-hills-chhattisgarh",
+    "name": "Maikal Hills",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Maikal Hills is a mountain in India.",
+    "coordinates": {
+      "lat": 22.5,
+      "lon": 81.5
+    },
+    "facts": [
+      "Stands at about 941 m elevation."
     ]
   },
   {
@@ -559,6 +1627,24 @@
     },
     "tags": [
       "hill-station"
+    ],
+    "facts": [
+      "Stands at about 1,085 m elevation."
+    ]
+  },
+  {
+    "id": "maitri-bagh-chhattisgarh",
+    "name": "Maitri Bagh",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Maitri Bagh is a zoo in Bhilai, India.",
+    "coordinates": {
+      "lat": 21.16971,
+      "lon": 81.35381
+    },
+    "facts": [
+      "Dates from 1972.",
+      "Lies in Bhilai, Chhattisgarh."
     ]
   },
   {
@@ -573,6 +1659,24 @@
     },
     "tags": [
       "archaeological-site"
+    ],
+    "facts": [
+      "Lies in Bilaspur district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "malhar-fort-chhattisgarh",
+    "name": "Malhar Fort",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Malhar Fort is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Malhar, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -588,6 +1692,40 @@
     "tags": [
       "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Dantewada district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "mamabhanjaka-temple-chhattisgarh",
+    "name": "Mamabhanjaka Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mamabhanjaka Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Barsur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mandava-mahal-chhattisgarh",
+    "name": "Mandava Mahal",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Mandava Mahal is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Kawardha, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -602,6 +1740,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Jagdalpur, Chhattisgarh."
     ]
   },
   {
@@ -616,6 +1757,100 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "mauli-devi-temple-chhattisgarh",
+    "name": "Mauli Devi Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mauli Devi Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Tarponga, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-monument-at-karahibhadar-chhattisgarh",
+    "name": "Megalithic Monument at Karahibhadar",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Megalithic Monument at Karahibhadar is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Karahibhadar, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-monument-at-karakabhat-chhattisgarh",
+    "name": "Megalithic Monument at Karakabhat",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Megalithic Monument at Karakabhat is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Karakabhat, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-monument-at-mujgahan-chhattisgarh",
+    "name": "Megalithic Monument at Mujgahan",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Megalithic Monument at Mujgahan is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Mujgahan, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-monument-chhattisgarh",
+    "name": "Megalithic Monument",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Megalithic Monument is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhanora, Chhattisgarh.",
+      "Lies in Kuliya, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "megalithic-site-containing-uraskals-chhattisgarh",
+    "name": "Megalithic site containing uraskals",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Megalithic site containing uraskals is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gammewada, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -630,6 +1865,24 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Jagdalpur, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "monuments-temples-chhattisgarh",
+    "name": "Monuments & Temples",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Monuments & Temples is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sirpur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -641,7 +1894,40 @@
     "coordinates": {
       "lat": 20.53806,
       "lon": 81.66167
-    }
+    },
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "nagdev-temple-chhattisgarh",
+    "name": "Nagdev Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Nagdev Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Nagpura, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "narayan-temple-chhattisgarh",
+    "name": "Narayan Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Narayan Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narayanpal, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "narayanpal-temple-chhattisgarh",
@@ -655,6 +1941,40 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Bastar district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "narmadeshwar-mahadev-temple-chhattisgarh",
+    "name": "Narmadeshwar Mahadev Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Narmadeshwar Mahadev Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Belpan, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "old-temple-of-sita-devi-and-sati-pillar-chhattisgarh",
+    "name": "Old temple of Sita Devi and Sati pillar",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Old temple of Sita Devi and Sati pillar is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Deorbija, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -669,6 +1989,12 @@
     },
     "tags": [
       "church"
+    ],
+    "facts": [
+      "Dates from 27 October 1979.",
+      "Dedicated to Our Lady of the Rosary.",
+      "Associated with Catholicism.",
+      "Lies in Kunkuri, Chhattisgarh."
     ]
   },
   {
@@ -683,6 +2009,43 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "phanikeshwar-mahadev-temple-chhattisgarh",
+    "name": "Phanikeshwar Mahadev Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Phanikeshwar Mahadev Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Fingeshwar, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "raipur-chhattisgarh",
+    "name": "Raipur",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Raipur is a capital of Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.23795,
+      "lon": 81.63368
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Stands at about 291 m elevation.",
+      "Covers about 226 km².",
+      "Lies in Raipur district, Chhattisgarh."
     ]
   },
   {
@@ -697,6 +2060,10 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance.",
+      "Lies in Gariaband district, Chhattisgarh."
     ]
   },
   {
@@ -711,6 +2078,68 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Rajim, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "ruined-temple-near-rani-talab-chhattisgarh",
+    "name": "Ruined Temple (Near Rani Talab)",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ruined Temple (Near Rani Talab) is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dipadih, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ruined-temple-near-shala-bhavan-chhattisgarh",
+    "name": "Ruined Temple(Near Shala Bhavan)",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ruined Temple(Near Shala Bhavan) is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dipadih, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sandstone-shiva-temple-chhattisgarh",
+    "name": "Sandstone Shiva temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Sandstone Shiva temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Deobaloda, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sankh-river-chhattisgarh",
+    "name": "Sankh River",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Sankh River is a river in India.",
+    "coordinates": {
+      "lat": 22.24356,
+      "lon": 84.796
+    },
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
     ]
   },
   {
@@ -721,6 +2150,9 @@
     "description": "Sarvamangla is a hindu temple in Chhattisgarh, India.",
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Chhattisgarh."
     ]
   },
   {
@@ -731,6 +2163,9 @@
     "description": "Satrenga, Chhattisgarh is a beach in Chattisgarh.",
     "tags": [
       "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Chhattisgarh."
     ]
   },
   {
@@ -745,6 +2180,103 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1978.",
+      "Covers about 430 km²."
+    ]
+  },
+  {
+    "id": "shiv-mandir-chhattisgarh",
+    "name": "Shiv Mandir",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Shiv Mandir is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gandai-Pandaria, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shiv-mandir-mahamaya-devi-temple-chhattisgarh",
+    "name": "Shiv Mandir & Mahamaya Devi Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Shiv Mandir & Mahamaya Devi Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Damru, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shiv-temple-chhattisgarh",
+    "name": "Shiv Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Shiv Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Gatoura, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shiva-temple-chaturbhuji-temple-chhattisgarh",
+    "name": "Shiva Temple Chaturbhuji Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Shiva Temple Chaturbhuji Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Dhamdha, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shiva-temple-chhattisgarh",
+    "name": "Shiva Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Shiva Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Singhaigudi, Chhattisgarh.",
+      "Lies in Gumadpal, Chhattisgarh.",
+      "Lies in Chhindgaon, Chhattisgarh.",
+      "Lies in Ganiyari, Chhattisgarh.",
+      "Lies in Nagpura, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "shivnath-river-chhattisgarh",
+    "name": "Shivnath River",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Shivnath River is a river in India.",
+    "coordinates": {
+      "lat": 21.72951,
+      "lon": 82.47579
+    },
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
     ]
   },
   {
@@ -759,6 +2291,39 @@
     },
     "tags": [
       "temple"
+    ],
+    "facts": [
+      "Lies in Baloda Bazar district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "siddheshwar-temple-chhattisgarh",
+    "name": "Siddheshwar Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Siddheshwar Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Palari, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "singhanpur-cave-rockshelter-chhattisgarh",
+    "name": "Singhanpur Cave Rockshelter",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Singhanpur Cave Rockshelter is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Naharpali, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -772,7 +2337,41 @@
       "lon": 82.18481
     },
     "tags": [
+      "temple",
       "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "sita-baree-chhattisgarh",
+    "name": "Sita Baree",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Sita Baree is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rajim, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sita-bengra-caves-chhattisgarh",
+    "name": "Sita Bengra caves",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Sita Bengra caves is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Ramagarh hill, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -787,6 +2386,27 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1974.",
+      "Part of Udanti-Sitanadi Tiger Reserve.",
+      "Covers about 553 km².",
+      "Lies in Dhamtari district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "smaller-vishnu-temple-chhattisgarh",
+    "name": "Smaller Vishnu Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Smaller Vishnu Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Janjgir, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -798,7 +2418,39 @@
     "coordinates": {
       "lat": 20.2275,
       "lon": 82.10333
-    }
+    },
+    "facts": [
+      "Rises about 26.7 m."
+    ]
+  },
+  {
+    "id": "sondur-river-chhattisgarh",
+    "name": "Sondur River",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Sondur River is a river in India.",
+    "coordinates": {
+      "lat": 20.66667,
+      "lon": 82.01667
+    },
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "swastik-vihar-chhattisgarh",
+    "name": "Swastik Vihar",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Swastik Vihar is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sirpur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
   },
   {
     "id": "tamda-ghumar-chhattisgarh",
@@ -812,6 +2464,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Lies in Jagdalpur, Chhattisgarh."
     ]
   },
   {
@@ -826,6 +2481,9 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Chhattisgarh."
     ]
   },
   {
@@ -837,7 +2495,11 @@
     "coordinates": {
       "lat": 20.703,
       "lon": 81.218
-    }
+    },
+    "facts": [
+      "Rises about 25 m.",
+      "Lies in Balod district, Chhattisgarh."
+    ]
   },
   {
     "id": "teerathgarh-falls-chhattisgarh",
@@ -851,6 +2513,9 @@
     },
     "tags": [
       "waterfall"
+    ],
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
     ]
   },
   {
@@ -865,6 +2530,64 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "temple-of-ramchandra-chhattisgarh",
+    "name": "Temple of Ramchandra",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Temple of Ramchandra is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Rajim, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-pali-inscription-stone-chhattisgarh",
+    "name": "The Pali inscription stone",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "The Pali inscription stone is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Samarsal, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "the-temple-belonging-to-mahant-laldass-of-sheorinarayan-chhattisgarh",
+    "name": "The temple belonging to Mahant Laldass of Sheorinarayan",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "The temple belonging to Mahant Laldass of Sheorinarayan is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Narainpur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tourism-in-chhattisgarh-chhattisgarh",
+    "name": "Tourism in Chhattisgarh",
+    "state": "Chhattisgarh",
+    "category": "other",
+    "description": "Tourism in Chhattisgarh is an about tourism in the Indian state of Chhattisgarh.",
+    "facts": [
+      "Part of tourism in India."
     ]
   },
   {
@@ -879,6 +2602,27 @@
     },
     "tags": [
       "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1985.",
+      "Part of Udanti-Sitanadi Tiger Reserve.",
+      "Covers about 237 km².",
+      "Lies in Gariaband district, Chhattisgarh."
+    ]
+  },
+  {
+    "id": "vishnu-temple-chhattisgarh",
+    "name": "Vishnu Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Vishnu Temple is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Banbarad, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   },
   {
@@ -893,6 +2637,24 @@
     },
     "tags": [
       "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Chhattisgarh."
+    ]
+  },
+  {
+    "id": "where-the-monuments-are-to-be-found-and-the-mound-to-the-east-of-arang-chhattisgarh",
+    "name": "Where the monuments are to be found and the mound to the east of Arang",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Where the monuments are to be found and the mound to the east of Arang is a protected monument in Chhattisgarh, India.",
+    "facts": [
+      "Recognised as a State Protected Monument.",
+      "Lies in Sirpur, Chhattisgarh."
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
     ]
   }
 ]
