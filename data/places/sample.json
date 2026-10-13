@@ -1,0 +1,20 @@
+[
+  {
+    "id": "chitkul-himachal",
+    "name": "Chitkul",
+    "state": "Himachal Pradesh",
+    "category": "offbeat",
+    "description": "Last inhabited village near the Indo-Tibet border on the Baspa River, known for wooden houses and mountain views.",
+    "coordinates": { "lat": 31.3504, "lon": 78.4812 },
+    "tags": ["hidden-gem", "village", "baspa-valley"]
+  },
+  {
+    "id": "chettinad-tamil-nadu",
+    "name": "Chettinad",
+    "state": "Tamil Nadu",
+    "category": "heritage",
+    "description": "Region of ornate mansions, tile work, and distinctive cuisine in the Sivaganga district.",
+    "coordinates": { "lat": 10.1632, "lon": 78.8103 },
+    "tags": ["architecture", "food", "lesser-known"]
+  }
+]
