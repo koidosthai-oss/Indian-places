@@ -13,8 +13,28 @@
       "fort"
     ],
     "facts": [
-      "Lies in Tezpur, Assam."
+      "Lies in Tezpur, Assam"
     ]
+  },
+  {
+    "id": "ahom-raja-s-palace-assam",
+    "name": "Ahom Raja's Palace",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Ahom Raja's Palace is a palace in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a palace in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "palace"
+    ],
+    "coordinates": {
+      "lat": 26.93634,
+      "lon": 94.74511
+    }
   },
   {
     "id": "akashiganga-ruins-assam",
@@ -23,13 +43,33 @@
     "category": "heritage",
     "description": "Akashiganga Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "akashiganga-water-falls-assam",
+    "name": "Akashiganga water falls",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Akashiganga water falls is a waterfall in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 26.17721,
+      "lon": 92.93792
+    }
   },
   {
     "id": "akashiganga-waterfalls-assam",
@@ -45,8 +85,49 @@
       "waterfall"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
+  },
+  {
+    "id": "alakjhari-pahar-assam",
+    "name": "Alakjhāri Pahār",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Alakjhāri Pahār is a mountain in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Assam",
+      "Mapped elevation is about 52 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 26.25168,
+      "lon": 89.86397
+    }
+  },
+  {
+    "id": "ambari-archeological-site-assam",
+    "name": "Ambari Archeological Site",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Ambari Archeological Site is a archaeological site in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a archaeological site in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "archaeological-site"
+    ],
+    "coordinates": {
+      "lat": 26.118,
+      "lon": 91.4521
+    }
   },
   {
     "id": "ambari-assam",
@@ -55,8 +136,8 @@
     "category": "heritage",
     "description": "Ambari is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -77,7 +158,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Covers about 78.6 km²."
+      "Covers about 78.6 km²"
     ]
   },
   {
@@ -87,8 +168,8 @@
     "category": "heritage",
     "description": "Ancient Caves/Tombs is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Jogighopa, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Jogighopa, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -105,7 +186,7 @@
       "national-park"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
   },
   {
@@ -122,8 +203,8 @@
       "museum"
     ],
     "facts": [
-      "Dates from 21 April 1940.",
-      "Lies in Guwahati, Assam."
+      "Dates from 21 April 1940",
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -137,10 +218,30 @@
       "lon": 91.7868
     },
     "facts": [
-      "Dates from 1958.",
-      "Covers about 175 ha.",
-      "Lies in Guwahati, Assam."
+      "Dates from 1958",
+      "Covers about 175 ha",
+      "Lies in Guwahati, Assam"
     ]
+  },
+  {
+    "id": "assam-valley-assam",
+    "name": "Assam Valley",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Assam Valley is a valley in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a valley in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "valley"
+    ],
+    "coordinates": {
+      "lat": 26.5,
+      "lon": 92.75
+    }
   },
   {
     "id": "aswaklanta-temple-assam",
@@ -149,13 +250,33 @@
     "category": "spiritual",
     "description": "Aswaklanta Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in North Guwahati, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in North Guwahati, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "aswakranta-temple-assam",
+    "name": "Aswakranta temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Aswakranta temple is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.18689,
+      "lon": 91.72398
+    }
   },
   {
     "id": "atal-udyan-assam",
@@ -168,7 +289,7 @@
       "lon": 91.68667
     },
     "facts": [
-      "Lies in Guwahati, Assam."
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -186,7 +307,7 @@
       "pilgrimage"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -196,8 +317,8 @@
     "category": "heritage",
     "description": "Baghar Chukar Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -218,8 +339,8 @@
       "temple"
     ],
     "facts": [
-      "Dedicated to Bagheswari.",
-      "Lies in Bongaigaon district, Assam."
+      "Dedicated to Bagheswari",
+      "Lies in Bongaigaon district, Assam"
     ]
   },
   {
@@ -229,7 +350,7 @@
     "category": "other",
     "description": "Bakata is a historic province of the Ahom kingdom.",
     "facts": [
-      "Known as a tourism destination in Assam."
+      "Known as a tourism destination in Assam"
     ]
   },
   {
@@ -239,13 +360,74 @@
     "category": "heritage",
     "description": "Baman Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "bamani-kora-assam",
+    "name": "Bāmani Kora",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Bāmani Kora is a hill in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Assam",
+      "Mapped elevation is about 114 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 27.35,
+      "lon": 95.1
+    }
+  },
+  {
+    "id": "bar-jalah-assam",
+    "name": "Bar Jalāh",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Bar Jalāh is a lake in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.11667,
+      "lon": 92.3
+    }
+  },
+  {
+    "id": "baradwari-of-cachari-ruins-assam",
+    "name": "Baradwari of Cachari ruins",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Baradwari of Cachari ruins is a monument in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a monument in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 24.93345,
+      "lon": 92.93075
+    }
   },
   {
     "id": "barnagar-sadiya-assam",
@@ -258,7 +440,7 @@
       "archaeological-site"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -275,7 +457,7 @@
       "pilgrimage"
     ],
     "facts": [
-      "Lies in Barpeta district, Assam."
+      "Lies in Barpeta district, Assam"
     ]
   },
   {
@@ -292,7 +474,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -309,7 +491,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -326,9 +508,9 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 1917.",
-      "Covers about 140 km².",
-      "Lies in Bishwanath district, Assam."
+      "Dates from 1917",
+      "Covers about 140 km²",
+      "Lies in Bishwanath district, Assam"
     ]
   },
   {
@@ -338,8 +520,8 @@
     "category": "heritage",
     "description": "Bezor Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address = Bezor pothar, Dhemechi, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address = Bezor pothar, Dhemechi, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -353,8 +535,8 @@
     "category": "spiritual",
     "description": "Bhairabeswari Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Rangia, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Rangia, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -375,7 +557,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Sonitpur district, Assam."
+      "Lies in Sonitpur district, Assam"
     ]
   },
   {
@@ -389,7 +571,7 @@
       "lon": 92.115
     },
     "facts": [
-      "Stands at about 703 m elevation."
+      "Stands at about 703 m elevation"
     ]
   },
   {
@@ -406,7 +588,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -423,7 +605,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
   },
   {
@@ -440,7 +622,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Kamrup Metropolitan district, Assam."
+      "Lies in Kamrup Metropolitan district, Assam"
     ]
   },
   {
@@ -450,8 +632,8 @@
     "category": "spiritual",
     "description": "Bileswar Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -472,8 +654,8 @@
       "temple"
     ],
     "facts": [
-      "Recognised as State Protected Monument.",
-      "Lies in Nalbari district, Assam."
+      "Recognised as State Protected Monument",
+      "Lies in Nalbari district, Assam"
     ]
   },
   {
@@ -483,7 +665,7 @@
     "category": "other",
     "description": "Biodiversity of Assam, a state in North-East India.",
     "facts": [
-      "Known as a tourism destination in Assam."
+      "Known as a tourism destination in Assam"
     ]
   },
   {
@@ -500,8 +682,8 @@
       "waterfall"
     ],
     "facts": [
-      "Rises about 135 m.",
-      "Lies in Shillong, Assam."
+      "Rises about 135 m",
+      "Lies in Shillong, Assam"
     ]
   },
   {
@@ -511,9 +693,9 @@
     "category": "heritage",
     "description": "Bisnudol is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Gaurisagar, Assam.",
-      "Lies in Joysagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Gaurisagar, Assam",
+      "Lies in Joysagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -534,7 +716,7 @@
       "pilgrimage"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -544,8 +726,8 @@
     "category": "heritage",
     "description": "Bogi Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -559,13 +741,33 @@
     "category": "heritage",
     "description": "Bolosaon Group monoliths is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Nuchubunglo, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Nuchubunglo, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "bongal-pukhuri-assam",
+    "name": "Bongal Pukhuri",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Bongal Pukhuri is a lake in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.745,
+      "lon": 94.21306
+    }
   },
   {
     "id": "borail-wildlife-sanctuary-assam",
@@ -581,8 +783,28 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
+  },
+  {
+    "id": "bordol-temple-assam",
+    "name": "Bordol temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Bordol temple is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.65974,
+      "lon": 93.17203
+    }
   },
   {
     "id": "bordole-temple-assam",
@@ -591,8 +813,8 @@
     "category": "spiritual",
     "description": "Bordole temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Biswanathghat, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Biswanathghat, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -614,9 +836,9 @@
       "pilgrimage"
     ],
     "facts": [
-      "Dates from 1468.",
-      "Founded by Sankardev.",
-      "Associated with Ekasarana Dharma."
+      "Dates from 1468",
+      "Founded by Sankardev",
+      "Associated with Ekasarana Dharma"
     ]
   },
   {
@@ -626,8 +848,8 @@
     "category": "heritage",
     "description": "Borgang Rock Inscription is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Borgang, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Borgang, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -648,9 +870,9 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 1980.",
-      "Covers about 26.2 km².",
-      "Lies in Udalguri district, Assam."
+      "Dates from 1980",
+      "Covers about 26.2 km²",
+      "Lies in Udalguri district, Assam"
     ]
   },
   {
@@ -660,8 +882,8 @@
     "category": "heritage",
     "description": "Borpatra Tank is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -682,7 +904,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
   },
   {
@@ -692,8 +914,8 @@
     "category": "heritage",
     "description": "Burhagosain Than is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -714,8 +936,8 @@
       "temple"
     ],
     "facts": [
-      "Dates from 1794.",
-      "Lies in Jorhat district, Assam."
+      "Dates from 1794",
+      "Lies in Jorhat district, Assam"
     ]
   },
   {
@@ -725,8 +947,8 @@
     "category": "heritage",
     "description": "Cachari Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Khaspur, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Khaspur, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -747,8 +969,28 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
+  },
+  {
+    "id": "champawati-falls-assam",
+    "name": "Champawati Falls",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Champawati Falls is a waterfall in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 26.31899,
+      "lon": 92.91134
+    }
   },
   {
     "id": "chandar-marghar-assam",
@@ -757,8 +999,8 @@
     "category": "heritage",
     "description": "Chandar Marghar is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -772,8 +1014,8 @@
     "category": "spiritual",
     "description": "Chandrasekhar Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Umananda, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Umananda, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -794,7 +1036,7 @@
       "lake"
     ],
     "facts": [
-      "Lies in Kamrup district, Assam."
+      "Lies in Kamrup district, Assam"
     ]
   },
   {
@@ -804,13 +1046,74 @@
     "category": "heritage",
     "description": "Charaideo is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "chatrakar-devalaya-assam",
+    "name": "Chatrakar Devalaya",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Chatrakar Devalaya is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.1956,
+      "lon": 91.75847
+    }
+  },
+  {
+    "id": "chenghehishon-assam",
+    "name": "Chenghehishon",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Chenghehishon is a hill in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Assam",
+      "Mapped elevation is about 1,337 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 26.25943,
+      "lon": 93.37136
+    }
+  },
+  {
+    "id": "chikanchara-bil-assam",
+    "name": "Chikanchara Bīl",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Chikanchara Bīl is a lake in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.36667,
+      "lon": 90.9
+    }
   },
   {
     "id": "chilating-rock-inscription-assam",
@@ -819,8 +1122,8 @@
     "category": "heritage",
     "description": "Chilating Rock Inscription is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -834,13 +1137,33 @@
     "category": "heritage",
     "description": "Christian Cemetery is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "coal-heritage-park-and-museum-assam",
+    "name": "Coal Heritage Park and Museum",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Coal Heritage Park and Museum is a museum in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 27.28867,
+      "lon": 95.67358
+    }
   },
   {
     "id": "dakhinpat-satra-assam",
@@ -857,8 +1180,28 @@
       "pilgrimage"
     ],
     "facts": [
-      "Lies in Majuli district, Assam."
+      "Lies in Majuli district, Assam"
     ]
+  },
+  {
+    "id": "dalani-bil-assam",
+    "name": "Dalāni Bīl",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Dalāni Bīl is a lake in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.3,
+      "lon": 90.53333
+    }
   },
   {
     "id": "daojali-hading-assam",
@@ -870,7 +1213,7 @@
       "archaeological-site"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -880,8 +1223,8 @@
     "category": "heritage",
     "description": "Daurgarila Rock Inscription, Kamakhya Hill is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Kamakhya Hill, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Kamakhya Hill, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -903,8 +1246,8 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Covers about 231 km².",
-      "Lies in Tinsukia district, Assam."
+      "Covers about 231 km²",
+      "Lies in Tinsukia district, Assam"
     ]
   },
   {
@@ -922,8 +1265,8 @@
       "archaeological-site"
     ],
     "facts": [
-      "Recognised as State Protected Monument.",
-      "Lies in Golaghat district, Assam."
+      "Recognised as State Protected Monument",
+      "Lies in Golaghat district, Assam"
     ]
   },
   {
@@ -940,7 +1283,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Karbi Anglong district, Assam."
+      "Lies in Karbi Anglong district, Assam"
     ]
   },
   {
@@ -950,8 +1293,8 @@
     "category": "heritage",
     "description": "Deoparvat Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -965,8 +1308,8 @@
     "category": "heritage",
     "description": "Devasthan Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -980,8 +1323,8 @@
     "category": "heritage",
     "description": "Devi Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -995,8 +1338,8 @@
     "category": "heritage",
     "description": "Devidol is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Gaurisagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Gaurisagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1010,8 +1353,8 @@
     "category": "heritage",
     "description": "Dhandi Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1025,8 +1368,8 @@
     "category": "spiritual",
     "description": "Dhandi Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Dhandi (Gohpur), Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Dhandi (Gohpur), Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1047,7 +1390,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Jorhat district, Assam."
+      "Lies in Jorhat district, Assam"
     ]
   },
   {
@@ -1065,7 +1408,7 @@
       "island"
     ],
     "facts": [
-      "Dates from 1999."
+      "Dates from 1999"
     ]
   },
   {
@@ -1082,7 +1425,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -1092,7 +1435,7 @@
     "category": "heritage",
     "description": "Dimasa Kingdom is a kingdom in medieval Assam, Northeast India.",
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -1109,9 +1452,29 @@
       "lake"
     ],
     "facts": [
-      "Recognised as Ramsar site.",
-      "Lies in Kamrup Metropolitan district, Assam."
+      "Recognised as Ramsar site",
+      "Lies in Kamrup Metropolitan district, Assam"
     ]
+  },
+  {
+    "id": "dipur-bil-assam",
+    "name": "Dipur Bīl",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Dipur Bīl is a lake in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.11922,
+      "lon": 91.65321
+    }
   },
   {
     "id": "dirgheshwari-temple-assam",
@@ -1127,7 +1490,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -1137,8 +1500,8 @@
     "category": "heritage",
     "description": "Dirgheswari Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1152,8 +1515,8 @@
     "category": "heritage",
     "description": "Dolmens is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1174,7 +1537,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -1191,7 +1554,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Kamrup district, Assam."
+      "Lies in Kamrup district, Assam"
     ]
   },
   {
@@ -1204,7 +1567,7 @@
       "archaeological-site"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -1221,7 +1584,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
   },
   {
@@ -1231,8 +1594,8 @@
     "category": "heritage",
     "description": "Eight Cannons of the Ahom period on the bank of the Sibsagar tank is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Joysagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Joysagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1246,8 +1609,8 @@
     "category": "heritage",
     "description": "Fakuwa Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1261,8 +1624,8 @@
     "category": "heritage",
     "description": "Gachtal Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1276,13 +1639,33 @@
     "category": "heritage",
     "description": "Gallows site of Piyoli Phukan is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "gandhi-mandap-assam",
+    "name": "Gandhi Mandap",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Gandhi Mandap is a museum in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 26.17777,
+      "lon": 91.76801
+    }
   },
   {
     "id": "ganesa-mandir-assam",
@@ -1291,13 +1674,33 @@
     "category": "spiritual",
     "description": "Ganesa Mandir is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Abhayapuri, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Abhayapuri, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "garaimara-bil-assam",
+    "name": "Garaimāra Bīl",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Garaimāra Bīl is a lake in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.38333,
+      "lon": 90.9
+    }
   },
   {
     "id": "garampani-wildlife-sanctuary-assam",
@@ -1313,7 +1716,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
   },
   {
@@ -1330,8 +1733,8 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Covers about 117 km².",
-      "Lies in Guwahati, Assam."
+      "Covers about 117 km²",
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -1348,7 +1751,7 @@
       "fort"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -1366,10 +1769,10 @@
       "palace"
     ],
     "facts": [
-      "Recognised as State Protected Monument.",
-      "Lies in Sonitpur district, Assam.",
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as State Protected Monument",
+      "Lies in Sonitpur district, Assam",
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ]
   },
   {
@@ -1379,13 +1782,53 @@
     "category": "heritage",
     "description": "Garhgaon Raja’s Palace is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Garhgaon, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Garhgaon, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "gaurisagar-devidol-assam",
+    "name": "Gaurisagar Devidol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Gaurisagar Devidol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.94762,
+      "lon": 94.53822
+    }
+  },
+  {
+    "id": "gaurisagar-sivadol-assam",
+    "name": "Gaurisagar Sivadol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Gaurisagar Sivadol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.94725,
+      "lon": 94.53541
+    }
   },
   {
     "id": "gaurisagar-tank-assam",
@@ -1394,13 +1837,33 @@
     "category": "heritage",
     "description": "Gaurisagar Tank is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Gaurisagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Gaurisagar, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "gaurisagar-vishnudol-assam",
+    "name": "Gaurisagar Vishnudol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Gaurisagar Vishnudol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.94708,
+      "lon": 94.53401
+    }
   },
   {
     "id": "ghanashyam-s-house-assam",
@@ -1409,8 +1872,8 @@
     "category": "heritage",
     "description": "Ghanashyam's house is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Joysagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Joysagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1424,8 +1887,8 @@
     "category": "heritage",
     "description": "Ghuguha Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1442,7 +1905,7 @@
       "archaeological-site"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -1456,9 +1919,9 @@
       "lon": 94.62218
     },
     "facts": [
-      "Recognised as State Protected Monument.",
-      "Recognised as Monument of National Importance.",
-      "Lies in Sivasagar district, Assam."
+      "Recognised as State Protected Monument",
+      "Recognised as Monument of National Importance",
+      "Lies in Sivasagar district, Assam"
     ]
   },
   {
@@ -1468,8 +1931,8 @@
     "category": "heritage",
     "description": "Gola Ghar or Magazine House is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Joysagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Joysagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1483,13 +1946,53 @@
     "category": "heritage",
     "description": "Golaghar is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "golaghat-baptist-church-assam",
+    "name": "Golaghat Baptist Church",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Golaghat Baptist Church is a church in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a church in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 26.52462,
+      "lon": 93.96776
+    }
+  },
+  {
+    "id": "gorokhiya-doul-assam",
+    "name": "Gorokhiya Doul",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Gorokhiya Doul is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.93394,
+      "lon": 94.72672
+    }
   },
   {
     "id": "gorokhiya-doul-of-mai-doul-assam",
@@ -1498,8 +2001,8 @@
     "category": "heritage",
     "description": "Gorokhiya Doul of Mai Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1513,8 +2016,8 @@
     "category": "heritage",
     "description": "Gosaipukhuri Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1535,7 +2038,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -1545,7 +2048,7 @@
     "category": "other",
     "description": "Government of Assam is an indian State Government.",
     "facts": [
-      "Known as a tourism destination in Assam."
+      "Known as a tourism destination in Assam"
     ]
   },
   {
@@ -1562,7 +2065,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Hojai district, Assam."
+      "Lies in Hojai district, Assam"
     ]
   },
   {
@@ -1572,8 +2075,8 @@
     "category": "heritage",
     "description": "Grave of Bahadur Gaon Burha is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1587,8 +2090,8 @@
     "category": "heritage",
     "description": "Grave of Lieutenant Lewis Van Sadan is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Biswanathghat, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Biswanathghat, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1602,8 +2105,8 @@
     "category": "heritage",
     "description": "Grave of Lieutenant Thomas Kennedy is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Biswanathghat, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Biswanathghat, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1617,8 +2120,8 @@
     "category": "heritage",
     "description": "Group of four Maidams is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Charaideo, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Charaideo, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1636,7 +2139,7 @@
       "lon": 89.99434
     },
     "facts": [
-      "Lies in Dhubri district, Assam."
+      "Lies in Dhubri district, Assam"
     ]
   },
   {
@@ -1654,9 +2157,9 @@
       "museum"
     ],
     "facts": [
-      "Stands at about 51 m elevation.",
-      "Covers about 216 km².",
-      "Lies in Kamrup Metropolitan district, Assam."
+      "Stands at about 51 m elevation",
+      "Covers about 216 km²",
+      "Lies in Kamrup Metropolitan district, Assam"
     ]
   },
   {
@@ -1673,7 +2176,7 @@
       "museum"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -1690,8 +2193,8 @@
       "archaeological-site"
     ],
     "facts": [
-      "Stands at about 42 m elevation.",
-      "Lies in Nalbari district, Assam."
+      "Stands at about 42 m elevation",
+      "Lies in Nalbari district, Assam"
     ]
   },
   {
@@ -1708,7 +2211,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -1718,8 +2221,8 @@
     "category": "spiritual",
     "description": "Hara Gauri Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Umananda, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Umananda, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1733,13 +2236,33 @@
     "category": "heritage",
     "description": "Haragouri Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "hatigarh-siva-dewalaya-assam",
+    "name": "Hatigarh Siva Dewalaya",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Hatigarh Siva Dewalaya is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.77768,
+      "lon": 94.26554
+    }
   },
   {
     "id": "hatimura-temple-assam-q5681625",
@@ -1755,9 +2278,9 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam.",
-      "Recognised as a State Protected Monument.",
-      "Lies in Jakhlabanda, Assam."
+      "Known as a spiritual destination in Assam",
+      "Recognised as a State Protected Monument",
+      "Lies in Jakhlabanda, Assam"
     ]
   },
   {
@@ -1774,8 +2297,8 @@
       "temple"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Kamrup district, Assam."
+      "Recognised as Monument of National Importance",
+      "Lies in Kamrup district, Assam"
     ]
   },
   {
@@ -1792,9 +2315,9 @@
       "waterfall"
     ],
     "facts": [
-      "Stands at about 58 m elevation.",
-      "Covers about 21.2 km².",
-      "Lies in Hojai district, Assam."
+      "Stands at about 58 m elevation",
+      "Covers about 21.2 km²",
+      "Lies in Hojai district, Assam"
     ]
   },
   {
@@ -1808,9 +2331,9 @@
       "lon": 94.38333
     },
     "facts": [
-      "Dates from 1997.",
-      "Covers about 21 km².",
-      "Lies in Jorhat district, Assam."
+      "Dates from 1997",
+      "Covers about 21 km²",
+      "Lies in Jorhat district, Assam"
     ]
   },
   {
@@ -1820,8 +2343,8 @@
     "category": "heritage",
     "description": "Idgah on the Rangamati Hill with its enclose Walls and a space of 16’-20’ around there is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Panbari (Rangamati Hill), Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Panbari (Rangamati Hill), Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1835,8 +2358,8 @@
     "category": "heritage",
     "description": "Jagadhatri Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1857,7 +2380,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Dibrugarh, Assam."
+      "Lies in Dibrugarh, Assam"
     ]
   },
   {
@@ -1874,7 +2397,7 @@
       "hill-station"
     ],
     "facts": [
-      "Lies in Dima Hasao district, Assam."
+      "Lies in Dima Hasao district, Assam"
     ]
   },
   {
@@ -1887,8 +2410,8 @@
       "mosque"
     ],
     "facts": [
-      "Dates from 1570.",
-      "Lies in Kuwarital, Assam."
+      "Dates from 1570",
+      "Lies in Kuwarital, Assam"
     ]
   },
   {
@@ -1902,10 +2425,10 @@
       "lon": 94.20306
     },
     "facts": [
-      "Dates from 1909.",
-      "Stands at about 116 m elevation.",
-      "Covers about 9 km².",
-      "Lies in Jorhat district, Assam."
+      "Dates from 1909",
+      "Stands at about 116 m elevation",
+      "Covers about 9 km²",
+      "Lies in Jorhat district, Assam"
     ]
   },
   {
@@ -1915,8 +2438,8 @@
     "category": "heritage",
     "description": "Jorpukhuri Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -1937,24 +2460,84 @@
       "temple"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Sivasagar district, Assam."
+      "Recognised as Monument of National Importance",
+      "Lies in Sivasagar district, Assam"
     ]
   },
   {
     "id": "joy-dol-devi-dol-devidol-assam",
-    "name": "[[Joy dol#Devi dol|Devidol]]",
+    "name": "Devidol",
     "state": "Assam",
     "category": "heritage",
-    "description": "[[Joy dol#Devi dol|Devidol]] is a protected monument in Assam, India.",
+    "description": "Devidol is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Joysagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Joysagar, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "joysagar-devidol-assam",
+    "name": "Joysagar Devidol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Joysagar Devidol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.95453,
+      "lon": 94.61893
+    }
+  },
+  {
+    "id": "joysagar-lake-assam",
+    "name": "Joysagar Lake",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Joysagar Lake is a lake in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.95237,
+      "lon": 94.62375
+    }
+  },
+  {
+    "id": "joysagar-sivadol-assam",
+    "name": "Joysagar Sivadol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Joysagar Sivadol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.95556,
+      "lon": 94.62067
+    }
   },
   {
     "id": "joysagar-tank-assam",
@@ -1970,8 +2553,28 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
+  },
+  {
+    "id": "joysagar-vishnudol-assam",
+    "name": "Joysagar Vishnudol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Joysagar Vishnudol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.95553,
+      "lon": 94.62421
+    }
   },
   {
     "id": "judges-field-assam",
@@ -1984,9 +2587,29 @@
       "lon": 91.74905
     },
     "facts": [
-      "Dates from 1908.",
-      "Maintained under Guwahati Town Club."
+      "Dates from 1908",
+      "Maintained under Guwahati Town Club"
     ]
+  },
+  {
+    "id": "kajali-chowki-assam",
+    "name": "Kajali Chowki",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Kajali Chowki is a monument in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a monument in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 26.23629,
+      "lon": 91.96485
+    }
   },
   {
     "id": "kakoijana-reserved-forest-assam",
@@ -1999,8 +2622,8 @@
       "lon": 91.0075
     },
     "facts": [
-      "Dates from 1966.",
-      "Lies in Bongaigaon district, Assam."
+      "Dates from 1966",
+      "Lies in Bongaigaon district, Assam"
     ]
   },
   {
@@ -2017,7 +2640,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Guwahati, Assam."
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -2027,8 +2650,8 @@
     "category": "heritage",
     "description": "Kanai Boroshi Bowa Rock inscription is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2049,7 +2672,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -2059,8 +2682,8 @@
     "category": "heritage",
     "description": "Karbi Memorial is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2078,8 +2701,8 @@
       "lon": 93.423
     },
     "facts": [
-      "Dates from 1974.",
-      "Lies in Karbi Anglong district, Assam."
+      "Dates from 1974",
+      "Lies in Karbi Anglong district, Assam"
     ]
   },
   {
@@ -2097,8 +2720,8 @@
       "palace"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Sivasagar district, Assam."
+      "Recognised as Monument of National Importance",
+      "Lies in Sivasagar district, Assam"
     ]
   },
   {
@@ -2108,8 +2731,8 @@
     "category": "heritage",
     "description": "Kareng Ghar of the Ahom Kings (Talatal ghar) is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Joysagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Joysagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2123,8 +2746,8 @@
     "category": "heritage",
     "description": "Kawaimari Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2147,8 +2770,8 @@
       "tiger-reserve"
     ],
     "facts": [
-      "Dates from 1905.",
-      "Recognised as World Heritage Site."
+      "Dates from 1905",
+      "Recognised as World Heritage Site"
     ]
   },
   {
@@ -2158,8 +2781,8 @@
     "category": "heritage",
     "description": "Kenduguri Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2180,7 +2803,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -2194,8 +2817,28 @@
       "lon": 92.63278
     },
     "facts": [
-      "Lies in Dima Hasao district, Assam."
+      "Lies in Dima Hasao district, Assam"
     ]
+  },
+  {
+    "id": "korila-bil-assam",
+    "name": "Korila Bīl",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Korila Bīl is a lake in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.36667,
+      "lon": 91.13333
+    }
   },
   {
     "id": "lachit-borphukan-maidam-assam",
@@ -2204,7 +2847,7 @@
     "category": "nature",
     "description": "Lachit Borphukan Maidam is a tourism place in Assam, India.",
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -2221,7 +2864,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Guwahati, Assam."
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -2238,7 +2881,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 1972."
+      "Dates from 1972"
     ]
   },
   {
@@ -2255,10 +2898,10 @@
       "archaeological-site"
     ],
     "facts": [
-      "Recognised as State Protected Monument.",
-      "Lies in Kamrup district, Assam.",
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as State Protected Monument",
+      "Lies in Kamrup district, Assam",
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ]
   },
   {
@@ -2275,7 +2918,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -2285,13 +2928,33 @@
     "category": "heritage",
     "description": "Magazine House is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "maghnowa-doul-assam",
+    "name": "Maghnowa Doul",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Maghnowa Doul is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.95847,
+      "lon": 93.79846
+    }
   },
   {
     "id": "maghnowa-temple-assam",
@@ -2300,8 +2963,8 @@
     "category": "spiritual",
     "description": "Maghnowa Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Narayanpur, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Narayanpur, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2322,7 +2985,7 @@
       "lake"
     ],
     "facts": [
-      "Lies in Tinsukia district, Assam."
+      "Lies in Tinsukia district, Assam"
     ]
   },
   {
@@ -2339,7 +3002,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -2356,7 +3019,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Sonitpur district, Assam."
+      "Lies in Sonitpur district, Assam"
     ]
   },
   {
@@ -2366,8 +3029,8 @@
     "category": "heritage",
     "description": "Mahadev Parvat is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2388,7 +3051,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Kokrajhar district, Assam."
+      "Lies in Kokrajhar district, Assam"
     ]
   },
   {
@@ -2406,11 +3069,51 @@
       "pilgrimage"
     ],
     "facts": [
-      "Recognised as Tentative World Heritage Site.",
-      "Set beside Brahmaputra River.",
-      "Covers about 422 km².",
-      "Lies in Majuli district, Assam."
+      "Recognised as Tentative World Heritage Site",
+      "Set beside Brahmaputra River",
+      "Covers about 422 km²",
+      "Lies in Majuli district, Assam"
     ]
+  },
+  {
+    "id": "majuli-island-assam",
+    "name": "Mājuli Island",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Mājuli Island is a island in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a island in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 26.96667,
+      "lon": 94.23333
+    }
+  },
+  {
+    "id": "malinithan-of-likabali-museum-arunachal-pradesh-assam",
+    "name": "Malinithan of Likabali museum, Arunachal Pradesh",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Malinithan of Likabali museum, Arunachal Pradesh is a museum in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 27.65879,
+      "lon": 94.71353
+    }
   },
   {
     "id": "manas-national-park-assam",
@@ -2428,9 +3131,9 @@
       "tiger-reserve"
     ],
     "facts": [
-      "Dates from 1990.",
-      "Recognised as World Heritage Site.",
-      "Covers about 2,600 km²."
+      "Dates from 1990",
+      "Recognised as World Heritage Site",
+      "Covers about 2,600 km²"
     ]
   },
   {
@@ -2440,8 +3143,8 @@
     "category": "spiritual",
     "description": "Manikarnesvar Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Rajaduar, North Guwahati, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Rajaduar, North Guwahati, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2462,7 +3165,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -2475,7 +3178,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -2492,7 +3195,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
   },
   {
@@ -2509,8 +3212,8 @@
       "national-park"
     ],
     "facts": [
-      "Stands at about 162 m elevation.",
-      "Lies in Tinsukia district, Assam."
+      "Stands at about 162 m elevation",
+      "Lies in Tinsukia district, Assam"
     ]
   },
   {
@@ -2527,11 +3230,11 @@
       "church"
     ],
     "facts": [
-      "Dates from 1936.",
-      "Built in the Gothic Revival style.",
-      "Dedicated to Mary Help of Christians.",
-      "Associated with Catholicism.",
-      "Lies in Shillong, Assam."
+      "Dates from 1936",
+      "Built in the Gothic Revival style",
+      "Dedicated to Mary Help of Christians",
+      "Associated with Catholicism",
+      "Lies in Shillong, Assam"
     ]
   },
   {
@@ -2541,8 +3244,8 @@
     "category": "heritage",
     "description": "Masonry remains on the Bamuni Hills is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Tezpur, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Tezpur, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2556,8 +3259,8 @@
     "category": "heritage",
     "description": "Matharbari Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2579,7 +3282,7 @@
       "palace"
     ],
     "facts": [
-      "Lies in Gauripur, Assam."
+      "Lies in Gauripur, Assam"
     ]
   },
   {
@@ -2589,8 +3292,8 @@
     "category": "heritage",
     "description": "Maudonga Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2611,8 +3314,28 @@
       "lake"
     ],
     "facts": [
-      "Covers about 25 ha."
+      "Covers about 25 ha"
     ]
+  },
+  {
+    "id": "meteka-rangnathdol-assam",
+    "name": "Meteka Rangnathdol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Meteka Rangnathdol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.95999,
+      "lon": 94.62243
+    }
   },
   {
     "id": "metha-long-a-assam",
@@ -2621,8 +3344,8 @@
     "category": "heritage",
     "description": "Metha-long-A is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2636,8 +3359,8 @@
     "category": "heritage",
     "description": "Mikirati Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2658,10 +3381,30 @@
       "world-heritage"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Recognised as World Heritage Site.",
-      "Lies in Charaideo district, Assam."
+      "Recognised as Monument of National Importance",
+      "Recognised as World Heritage Site",
+      "Lies in Charaideo district, Assam"
     ]
+  },
+  {
+    "id": "moinaporia-namghar-assam",
+    "name": "Moinaporia Namghar",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Moinaporia Namghar is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.8,
+      "lon": 94.3
+    }
   },
   {
     "id": "moiramora-doul-assam-q84362577",
@@ -2677,10 +3420,10 @@
       "archaeological-site"
     ],
     "facts": [
-      "Recognised as State Protected Monument.",
-      "Lies in Dibrugarh district, Assam.",
-      "Recognised as a State Protected Monument.",
-      "Lies in Khamtighat, Assam."
+      "Recognised as State Protected Monument",
+      "Lies in Dibrugarh district, Assam",
+      "Recognised as a State Protected Monument",
+      "Lies in Khamtighat, Assam"
     ]
   },
   {
@@ -2697,8 +3440,8 @@
       "island"
     ],
     "facts": [
-      "Named after Jadav Payeng.",
-      "Covers about 5.5 km²."
+      "Named after Jadav Payeng",
+      "Covers about 5.5 km²"
     ]
   },
   {
@@ -2708,8 +3451,8 @@
     "category": "heritage",
     "description": "Monoliths is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Kasomari Pathar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Kasomari Pathar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2723,8 +3466,8 @@
     "category": "heritage",
     "description": "Monument over the grave of Mr. B. J. Stow is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Goalpara, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Goalpara, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2745,7 +3488,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -2755,8 +3498,8 @@
     "category": "spiritual",
     "description": "Moterijhar Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2770,8 +3513,8 @@
     "category": "spiritual",
     "description": "Mound and ruins of the stone temple, Dahparbatia is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Dahparbatia, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Dahparbatia, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2785,8 +3528,8 @@
     "category": "heritage",
     "description": "Na-Math is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2800,8 +3543,8 @@
     "category": "heritage",
     "description": "Na-Nath Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2822,8 +3565,8 @@
       "temple"
     ],
     "facts": [
-      "Recognised as State Protected Monument.",
-      "Lies in Sivasagar district, Assam."
+      "Recognised as State Protected Monument",
+      "Lies in Sivasagar district, Assam"
     ]
   },
   {
@@ -2840,7 +3583,7 @@
       "waterfall"
     ],
     "facts": [
-      "Stands at about 54 m elevation."
+      "Stands at about 54 m elevation"
     ]
   },
   {
@@ -2857,7 +3600,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Sonitpur district, Assam."
+      "Lies in Sonitpur district, Assam"
     ]
   },
   {
@@ -2874,7 +3617,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 2003."
+      "Dates from 2003"
     ]
   },
   {
@@ -2891,9 +3634,29 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 2000.",
-      "Lies in Golaghat district, Assam."
+      "Dates from 2000",
+      "Lies in Golaghat district, Assam"
     ]
+  },
+  {
+    "id": "nameri-national-park-and-forest-reserve-assam",
+    "name": "Nameri National Park and Forest Reserve",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Nameri National Park and Forest Reserve is a nature reserve in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a nature reserve in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "wildlife-sanctuary"
+    ],
+    "coordinates": {
+      "lat": 26.93138,
+      "lon": 92.87547
+    }
   },
   {
     "id": "nameri-national-park-assam",
@@ -2910,8 +3673,8 @@
       "tiger-reserve"
     ],
     "facts": [
-      "Dates from 1998.",
-      "Lies in Sonitpur district, Assam."
+      "Dates from 1998",
+      "Lies in Sonitpur district, Assam"
     ]
   },
   {
@@ -2924,7 +3687,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -2934,8 +3697,8 @@
     "category": "heritage",
     "description": "Nandikeswar Dewalaya is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Jamuguri, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Jamuguri, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2949,8 +3712,8 @@
     "category": "heritage",
     "description": "Narikoli Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -2971,7 +3734,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -2981,8 +3744,8 @@
     "category": "heritage",
     "description": "Nazirakhat Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3003,8 +3766,8 @@
       "temple"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Golaghat district, Assam."
+      "Recognised as Monument of National Importance",
+      "Lies in Golaghat district, Assam"
     ]
   },
   {
@@ -3018,7 +3781,7 @@
       "lon": 91.74722
     },
     "facts": [
-      "Lies in Guwahati, Assam."
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -3028,8 +3791,8 @@
     "category": "heritage",
     "description": "No.1 Dubarani Archaeological Site is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3050,7 +3813,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Assam."
+      "Known as a wildlife destination in Assam"
     ]
   },
   {
@@ -3067,8 +3830,8 @@
       "national-park"
     ],
     "facts": [
-      "Dates from 1999.",
-      "Covers about 492 km²."
+      "Dates from 1999",
+      "Covers about 492 km²"
     ]
   },
   {
@@ -3085,7 +3848,7 @@
       "archaeological-site"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -3099,7 +3862,7 @@
       "lon": 91.49975
     },
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -3109,8 +3872,8 @@
     "category": "heritage",
     "description": "Paglatek ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3131,7 +3894,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -3148,9 +3911,9 @@
       "mosque"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Built in the Islamic architecture style.",
-      "Lies in Dhubri district, Assam."
+      "Recognised as Monument of National Importance",
+      "Built in the Islamic architecture style",
+      "Lies in Dhubri district, Assam"
     ]
   },
   {
@@ -3160,8 +3923,8 @@
     "category": "heritage",
     "description": "Panbari Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3182,8 +3945,8 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 1996.",
-      "Lies in Sivasagar district, Assam."
+      "Dates from 1996",
+      "Lies in Sivasagar district, Assam"
     ]
   },
   {
@@ -3200,8 +3963,28 @@
       "waterfall"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
+  },
+  {
+    "id": "peacock-island-assam",
+    "name": "Peacock Island",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Peacock Island is a island in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a island in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 26.19639,
+      "lon": 91.745
+    }
   },
   {
     "id": "persian-rock-inscription-assam",
@@ -3210,8 +3993,8 @@
     "category": "heritage",
     "description": "Persian Rock Inscription is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3225,8 +4008,8 @@
     "category": "heritage",
     "description": "Pingaleswar Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3240,13 +4023,33 @@
     "category": "heritage",
     "description": "Piyali Phukanar Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "poa-mecca-mosque-assam",
+    "name": "Poa Mecca Mosque",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Poa Mecca Mosque is a mosque in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a mosque in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mosque"
+    ],
+    "coordinates": {
+      "lat": 26.24188,
+      "lon": 91.54021
+    }
   },
   {
     "id": "pobitora-wildlife-sanctuary-assam",
@@ -3262,9 +4065,49 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 1987.",
-      "Lies in Morigaon district, Assam."
+      "Dates from 1987",
+      "Lies in Morigaon district, Assam"
     ]
+  },
+  {
+    "id": "podumoni-than-assam",
+    "name": "Podumoni Than",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Podumoni Than is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 27.41071,
+      "lon": 94.19512
+    }
+  },
+  {
+    "id": "powa-makkah-assam",
+    "name": "Powa Makkah",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Powa Makkah is a mosque in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a mosque in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mosque"
+    ],
+    "coordinates": {
+      "lat": 26.24201,
+      "lon": 91.54016
+    }
   },
   {
     "id": "puranigudam-jame-masjid-assam",
@@ -3280,8 +4123,48 @@
       "mosque"
     ],
     "facts": [
-      "Dates from 1824."
+      "Dates from 1824"
     ]
+  },
+  {
+    "id": "puranigudam-jame-mosque-assam",
+    "name": "Puranigudam Jame Mosque",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Puranigudam Jame Mosque is a mosque in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a mosque in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mosque"
+    ],
+    "coordinates": {
+      "lat": 26.36601,
+      "lon": 92.78594
+    }
+  },
+  {
+    "id": "purva-tirupati-sri-balaji-temple-guwahati-assam",
+    "name": "Purva Tirupati Sri Balaji Temple, Guwahati",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Purva Tirupati Sri Balaji Temple, Guwahati is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.1164,
+      "lon": 91.725
+    }
   },
   {
     "id": "raidongia-doul-assam",
@@ -3290,8 +4173,8 @@
     "category": "heritage",
     "description": "Raidongia Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address = Lejai Miripathar village, Lejai-Kalakhowa, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address = Lejai Miripathar village, Lejai-Kalakhowa, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3312,7 +4195,7 @@
       "museum"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -3329,8 +4212,8 @@
       "national-park"
     ],
     "facts": [
-      "Dates from 5 June 2021.",
-      "Lies in Kokrajhar district, Assam."
+      "Dates from 5 June 2021",
+      "Lies in Kokrajhar district, Assam"
     ]
   },
   {
@@ -3347,8 +4230,8 @@
       "archaeological-site"
     ],
     "facts": [
-      "Stands at about 42 m elevation.",
-      "Lies in Kamrup district, Assam."
+      "Stands at about 42 m elevation",
+      "Lies in Kamrup district, Assam"
     ]
   },
   {
@@ -3361,7 +4244,7 @@
       "palace"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -3371,13 +4254,34 @@
     "category": "spiritual",
     "description": "Rajbari Group of Temples is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Rajbari, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Rajbari, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "rakini-hill-assam",
+    "name": "Rakini Hill",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Rakini Hill is a hill in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Assam",
+      "Mapped elevation is about 44 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 26.18417,
+      "lon": 91.6125
+    }
   },
   {
     "id": "rampart-stone-inscription-assam",
@@ -3386,8 +4290,8 @@
     "category": "heritage",
     "description": "Rampart Stone Inscription is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3405,8 +4309,8 @@
       "lon": 94.61909
     },
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Sivasagar district, Assam."
+      "Recognised as Monument of National Importance",
+      "Lies in Sivasagar district, Assam"
     ]
   },
   {
@@ -3416,8 +4320,8 @@
     "category": "heritage",
     "description": "Rang Ghar Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Joysagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Joysagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3431,8 +4335,8 @@
     "category": "spiritual",
     "description": "Rangamati Mosque and the ablution tank attached thereto is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Panbari (Rangamati Hill), Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Panbari (Rangamati Hill), Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3446,8 +4350,8 @@
     "category": "heritage",
     "description": "Ranganath Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3468,11 +4372,31 @@
       "temple"
     ],
     "facts": [
-      "Recognised as State Protected Monument.",
-      "Lies in Sivasagar district, Assam.",
-      "Recognised as a State Protected Monument.",
-      "Lies in Joysagar, Assam."
+      "Recognised as State Protected Monument",
+      "Lies in Sivasagar district, Assam",
+      "Recognised as a State Protected Monument",
+      "Lies in Joysagar, Assam"
     ]
+  },
+  {
+    "id": "regional-science-centre-guwahati-assam",
+    "name": "Regional Science Centre, Guwahati",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Regional Science Centre, Guwahati is a museum in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 26.12054,
+      "lon": 91.81621
+    }
   },
   {
     "id": "rock-cut-durga-at-tilapara-assam",
@@ -3481,8 +4405,8 @@
     "category": "heritage",
     "description": "Rock-cut Durga at Tilapara is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3496,8 +4420,8 @@
     "category": "heritage",
     "description": "Rock-cut figures and one Stone Gateway is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Kamakhya Hill, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Kamakhya Hill, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3511,8 +4435,8 @@
     "category": "heritage",
     "description": "Rock-cut Ganesa at Boga Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3526,8 +4450,8 @@
     "category": "spiritual",
     "description": "Rock-cut temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Maibang, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Maibang, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3541,8 +4465,8 @@
     "category": "heritage",
     "description": "Rock Inscription is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3556,8 +4480,8 @@
     "category": "heritage",
     "description": "Rock known as \"Bishwanath Sivalinga\" is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Biswanathghat, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Biswanathghat, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3571,8 +4495,8 @@
     "category": "heritage",
     "description": "Rousch Monument is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3593,9 +4517,9 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam.",
-      "Recognised as a State Protected Monument.",
-      "Lies in Silsako in North Guwahati, Assam."
+      "Known as a spiritual destination in Assam",
+      "Recognised as a State Protected Monument",
+      "Lies in Silsako in North Guwahati, Assam"
     ]
   },
   {
@@ -3605,8 +4529,8 @@
     "category": "heritage",
     "description": "Ruins at Sarthe Rangpha is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3620,8 +4544,8 @@
     "category": "heritage",
     "description": "Ruins at Sikari Rongpi Gaon is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3635,8 +4559,8 @@
     "category": "spiritual",
     "description": "Ruins of Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Mahadeosal Devaka, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Mahadeosal Devaka, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3645,13 +4569,13 @@
   },
   {
     "id": "ruins-singri-assam-gupteswar-temple-singri-hill-assam",
-    "name": "Ruins, [[Singri (Assam)#Gupteswar temple|Singri]] Hill",
+    "name": "Ruins, Singri Hill",
     "state": "Assam",
     "category": "spiritual",
-    "description": "Ruins, [[Singri (Assam)#Gupteswar temple|Singri]] Hill is a protected monument in Assam, India.",
+    "description": "Ruins, Singri Hill is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Singri Hill, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Singri Hill, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3672,7 +4596,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -3682,8 +4606,8 @@
     "category": "heritage",
     "description": "Sankhadevi Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3701,8 +4625,28 @@
       "lon": 91.64323
     },
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
+  },
+  {
+    "id": "sasoni-merbil-assam",
+    "name": "Sasoni Merbil",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Sasoni Merbil is a lake in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 27.3156,
+      "lon": 95.2058
+    }
   },
   {
     "id": "sculpture-at-chummery-compound-assam",
@@ -3711,8 +4655,8 @@
     "category": "heritage",
     "description": "Sculpture at Chummery Compound is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3726,8 +4670,8 @@
     "category": "heritage",
     "description": "Sculptures in the Chummery compound(Chitralekha Udyan) is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Tezpur, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Tezpur, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3745,7 +4689,7 @@
       "lon": 92.2237
     },
     "facts": [
-      "Lies in Karbi Anglong district, Assam."
+      "Lies in Karbi Anglong district, Assam"
     ]
   },
   {
@@ -3764,9 +4708,9 @@
       "waterfall"
     ],
     "facts": [
-      "Stands at about 1,525 m elevation.",
-      "Covers about 64.4 km².",
-      "Lies in East Khasi Hills district, Assam."
+      "Stands at about 1,525 m elevation",
+      "Covers about 64.4 km²",
+      "Lies in East Khasi Hills district, Assam"
     ]
   },
   {
@@ -3783,7 +4727,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Guwahati, Assam."
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -3800,7 +4744,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -3810,8 +4754,8 @@
     "category": "spiritual",
     "description": "Shri Shri Ganesh temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Hajo, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Hajo, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3825,8 +4769,8 @@
     "category": "spiritual",
     "description": "Shri Shri Hayagriva Madhava temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Hajo, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Hajo, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3840,8 +4784,8 @@
     "category": "spiritual",
     "description": "Shri Shri Kameshwar temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Hajo, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Hajo, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3855,8 +4799,8 @@
     "category": "spiritual",
     "description": "Shri Shri Kedar temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Hajo, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Hajo, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3870,8 +4814,8 @@
     "category": "heritage",
     "description": "Sibpur Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3885,13 +4829,33 @@
     "category": "spiritual",
     "description": "Siddheswar Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Sualkuchi, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Sualkuchi, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "sikhna-jwhwlao-national-park-assam",
+    "name": "Sikhna Jwhwlao National Park",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Sikhna Jwhwlao National Park is a national park in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a national park in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "national-park"
+    ],
+    "coordinates": {
+      "lat": 26.71697,
+      "lon": 90.29589
+    }
   },
   {
     "id": "silsako-lake-assam",
@@ -3907,7 +4871,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -3917,8 +4881,8 @@
     "category": "heritage",
     "description": "Siva dole is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Sivasagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Sivasagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3932,8 +4896,8 @@
     "category": "heritage",
     "description": "Siva Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Rudrasagar Napukhri, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Rudrasagar Napukhri, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3947,8 +4911,8 @@
     "category": "spiritual",
     "description": "Siva Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Chatrakar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Chatrakar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3962,8 +4926,8 @@
     "category": "spiritual",
     "description": "Siva Temple at Sivatila is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Sonai, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Sonai, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3977,9 +4941,9 @@
     "category": "heritage",
     "description": "Sivadol is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Gaurisagar, Assam.",
-      "Lies in Joysagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Gaurisagar, Assam",
+      "Lies in Joysagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -3993,13 +4957,33 @@
     "category": "heritage",
     "description": "Sivadol, Neghriting is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Neghriting, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Neghriting, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "sivasagar-devidol-assam",
+    "name": "Sivasagar Devidol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sivasagar Devidol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.98903,
+      "lon": 94.6323
+    }
   },
   {
     "id": "sivasagar-lake-assam",
@@ -4015,7 +4999,7 @@
       "lake"
     ],
     "facts": [
-      "Lies in Sivasagar district, Assam."
+      "Lies in Sivasagar district, Assam"
     ]
   },
   {
@@ -4032,20 +5016,20 @@
       "temple"
     ],
     "facts": [
-      "Dates from 1734.",
-      "Recognised as Monument of National Importance.",
-      "Lies in Sivasagar, Assam."
+      "Dates from 1734",
+      "Recognised as Monument of National Importance",
+      "Lies in Sivasagar, Assam"
     ]
   },
   {
     "id": "sivasagar-sivadol-visnudol-and-devidol-bishnu-dol-assam",
-    "name": "[[Sivasagar Sivadol#Visnudol and Devidol|Bishnu dol]]",
+    "name": "Bishnu dol",
     "state": "Assam",
     "category": "heritage",
-    "description": "[[Sivasagar Sivadol#Visnudol and Devidol|Bishnu dol]] is a protected monument in Assam, India.",
+    "description": "Bishnu dol is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Sivasagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Sivasagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4054,13 +5038,13 @@
   },
   {
     "id": "sivasagar-sivadol-visnudol-and-devidol-devidol-assam",
-    "name": "[[Sivasagar Sivadol#Visnudol and Devidol|Devidol]]",
+    "name": "Devidol",
     "state": "Assam",
     "category": "heritage",
-    "description": "[[Sivasagar Sivadol#Visnudol and Devidol|Devidol]] is a protected monument in Assam, India.",
+    "description": "Devidol is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Sivasagar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Sivasagar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4078,10 +5062,30 @@
       "lon": 94.6336
     },
     "facts": [
-      "Dates from 1734.",
-      "Recognised as Water Heritage Site.",
-      "Lies in Sivasagar district, Assam."
+      "Dates from 1734",
+      "Recognised as Water Heritage Site",
+      "Lies in Sivasagar district, Assam"
     ]
+  },
+  {
+    "id": "sivasagar-vishnudol-assam",
+    "name": "Sivasagar Vishnudol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sivasagar Vishnudol is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.98883,
+      "lon": 94.63414
+    }
   },
   {
     "id": "son-beel-assam",
@@ -4097,8 +5101,28 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
+  },
+  {
+    "id": "son-bil-assam",
+    "name": "Son Bīl",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Son Bīl is a lake in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 24.69757,
+      "lon": 92.44113
+    }
   },
   {
     "id": "sonai-rupai-wildlife-sanctuary-assam",
@@ -4114,8 +5138,108 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 1998."
+      "Dates from 1998"
     ]
+  },
+  {
+    "id": "sri-ganesh-temple-hajo-assam",
+    "name": "Sri Ganesh Temple, Hajo",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sri Ganesh Temple, Hajo is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.23615,
+      "lon": 91.53401
+    }
+  },
+  {
+    "id": "sri-kameswar-temple-assam",
+    "name": "Sri Kameswar Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sri Kameswar Temple is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.23516,
+      "lon": 91.5346
+    }
+  },
+  {
+    "id": "sri-kedar-temple-assam",
+    "name": "Sri Kedar Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sri Kedar Temple is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.24178,
+      "lon": 91.54397
+    }
+  },
+  {
+    "id": "sri-sri-koli-aai-thaan-assam",
+    "name": "Sri Sri Koli Aai Thaan",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sri Sri Koli Aai Thaan is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 27.4728,
+      "lon": 94.912
+    }
+  },
+  {
+    "id": "sri-sri-parihareswar-devalay-assam",
+    "name": "Sri Sri Parihareswar Devalay",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sri Sri Parihareswar Devalay is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.4801,
+      "lon": 91.18886
+    }
   },
   {
     "id": "sri-surya-pahar-assam",
@@ -4131,8 +5255,8 @@
       "archaeological-site"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Goalpara district, Assam."
+      "Recognised as Monument of National Importance",
+      "Lies in Goalpara district, Assam"
     ]
   },
   {
@@ -4142,8 +5266,8 @@
     "category": "heritage",
     "description": "Sri Suryapahar Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Sri Suryapahar, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Sri Suryapahar, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4164,8 +5288,8 @@
       "museum"
     ],
     "facts": [
-      "Dates from 1996.",
-      "Lies in Guwahati, Assam."
+      "Dates from 1996",
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -4175,18 +5299,18 @@
     "category": "heritage",
     "description": "Statue of Valour is a tourism place in Assam, India.",
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
     "id": "stone-inscription-inside-the-hajo-17th-century-powa-mecca-mosque-assam",
-    "name": "Stone inscription inside the [[Hajo#17th century|\"Powa Mecca Mosque\"]]",
+    "name": "Stone inscription inside the \"Powa Mecca Mosque\"",
     "state": "Assam",
     "category": "spiritual",
-    "description": "Stone inscription inside the [[Hajo#17th century|\"Powa Mecca Mosque\"]] is a protected monument in Assam, India.",
+    "description": "Stone inscription inside the \"Powa Mecca Mosque\" is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Hajo, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Hajo, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4204,8 +5328,8 @@
       "lon": 94.259
     },
     "facts": [
-      "Set on Subansiri River.",
-      "Rises about 130 m."
+      "Set on Subansiri River",
+      "Rises about 130 m"
     ]
   },
   {
@@ -4219,7 +5343,7 @@
       "lon": 93.91306
     },
     "facts": [
-      "Lies in Tibet Autonomous Region, Assam."
+      "Lies in Tibet Autonomous Region, Assam"
     ]
   },
   {
@@ -4232,7 +5356,7 @@
       "museum"
     ],
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -4249,7 +5373,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Kamrup Metropolitan district, Assam."
+      "Lies in Kamrup Metropolitan district, Assam"
     ]
   },
   {
@@ -4259,8 +5383,8 @@
     "category": "heritage",
     "description": "Surya image at Golchepa is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4274,7 +5398,7 @@
     "category": "heritage",
     "description": "Swaraj Udyan is a tourism place in Assam, India.",
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
   },
   {
@@ -4292,8 +5416,8 @@
       "palace"
     ],
     "facts": [
-      "Dates from 1769.",
-      "Lies in Sivasagar, Assam."
+      "Dates from 1769",
+      "Lies in Sivasagar, Assam"
     ]
   },
   {
@@ -4303,8 +5427,8 @@
     "category": "heritage",
     "description": "Tamreswar Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4325,7 +5449,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -4342,9 +5466,9 @@
       "temple"
     ],
     "facts": [
-      "Stands at about 48 m elevation.",
-      "Covers about 40 km².",
-      "Lies in Sonitpur district, Assam."
+      "Stands at about 48 m elevation",
+      "Covers about 40 km²",
+      "Lies in Sonitpur district, Assam"
     ]
   },
   {
@@ -4354,8 +5478,8 @@
     "category": "heritage",
     "description": "Thanks and Rampart is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4369,8 +5493,8 @@
     "category": "heritage",
     "description": "The Carvings, Inscriptions and pillar on the Urbasi Island[https://wikimapia.org/1410330/Urvashi-Island] is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Guwahati, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Guwahati, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4384,8 +5508,8 @@
     "category": "heritage",
     "description": "The Derebara Group of monoliths is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Dubungling, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Dubungling, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4399,8 +5523,8 @@
     "category": "heritage",
     "description": "The gun of Emperor Sher Shah, Sadiya, Tinsukia is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in The circuit house of Chapakhowa Sadiya, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in The circuit house of Chapakhowa Sadiya, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4414,8 +5538,8 @@
     "category": "heritage",
     "description": "The Khartong Group of monoliths is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Kartongsip, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Kartongsip, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4429,8 +5553,8 @@
     "category": "heritage",
     "description": "The Kobak Group monoliths is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Khobak, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Khobak, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4444,8 +5568,8 @@
     "category": "heritage",
     "description": "The rock-cut sculpture representing Vishnu (with adjoining figures of Surya, Ganesa, Devi etc locally Known as Vishnu Janardhan is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Guwahati, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Guwahati, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4459,8 +5583,8 @@
     "category": "heritage",
     "description": "The rock known as “Sakreswar” is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in The island “Unatumani” in the neighbourhood of village Bishwanath, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in The island “Unatumani” in the neighbourhood of village Bishwanath, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4474,13 +5598,33 @@
     "category": "heritage",
     "description": "The rock on the bank of the Bharmaputra about 2 miles below Tezpur and the inscription thereon is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Tezpur, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Tezpur, Assam"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "thengal-cultural-centre-museum-assam",
+    "name": "Thengal Cultural Centre & Museum",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Thengal Cultural Centre & Museum is a museum in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 26.62655,
+      "lon": 94.20404
+    }
   },
   {
     "id": "thetha-gohain-than-assam",
@@ -4496,7 +5640,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -4506,8 +5650,8 @@
     "category": "heritage",
     "description": "Thowra Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4521,8 +5665,28 @@
     "category": "heritage",
     "description": "Thulungapuri is a built structure in Assam, India.",
     "facts": [
-      "Known as a heritage destination in Assam."
+      "Known as a heritage destination in Assam"
     ]
+  },
+  {
+    "id": "tilinga-mandir-assam",
+    "name": "Tilinga Mandir",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Tilinga Mandir is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 27.3933,
+      "lon": 95.3178
+    }
   },
   {
     "id": "tinsukia-assam",
@@ -4538,8 +5702,8 @@
       "national-park"
     ],
     "facts": [
-      "Stands at about 116 m elevation.",
-      "Lies in Tinsukia district, Assam."
+      "Stands at about 116 m elevation",
+      "Lies in Tinsukia district, Assam"
     ]
   },
   {
@@ -4549,8 +5713,8 @@
     "category": "heritage",
     "description": "Tomb of Lieutenant Cresswell is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Goalpara, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Goalpara, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4564,7 +5728,7 @@
     "category": "other",
     "description": "Tourism in Assam, India.",
     "facts": [
-      "Known as a tourism destination in Assam."
+      "Known as a tourism destination in Assam"
     ]
   },
   {
@@ -4581,7 +5745,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Assam."
+      "Known as a spiritual destination in Assam"
     ]
   },
   {
@@ -4591,8 +5755,8 @@
     "category": "heritage",
     "description": "Two inscribed stones: on the treaty between the Dimasa King (Naranarayan) and the Ahom King is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Maibang, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Maibang, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4606,8 +5770,8 @@
     "category": "heritage",
     "description": "Two Swivel guns belonging to the Mughal Nawwara is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in The circuit house of Chapakhowa Sadiya, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in The circuit house of Chapakhowa Sadiya, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4628,8 +5792,28 @@
       "temple"
     ],
     "facts": [
-      "Lies in Guwahati, Assam."
+      "Lies in Guwahati, Assam"
     ]
+  },
+  {
+    "id": "ugro-tara-temple-assam",
+    "name": "Ugro Tara Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Ugro Tara Temple is a temple in Assam, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 26.1891,
+      "lon": 91.7538
+    }
   },
   {
     "id": "ultapani-reserve-forest-assam",
@@ -4642,7 +5826,7 @@
       "lon": 90.27712
     },
     "facts": [
-      "Lies in Kokrajhar district, Assam."
+      "Lies in Kokrajhar district, Assam"
     ]
   },
   {
@@ -4655,7 +5839,7 @@
       "cave"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
   },
   {
@@ -4665,8 +5849,8 @@
     "category": "heritage",
     "description": "Umachal rock inscription is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4688,7 +5872,7 @@
       "pilgrimage"
     ],
     "facts": [
-      "Set beside Brahmaputra River."
+      "Set beside Brahmaputra River"
     ]
   },
   {
@@ -4698,8 +5882,8 @@
     "category": "spiritual",
     "description": "Umananda Temple Archaeological Site is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4721,7 +5905,7 @@
       "pilgrimage"
     ],
     "facts": [
-      "Lies in Guwahati, Assam."
+      "Lies in Guwahati, Assam"
     ]
   },
   {
@@ -4738,8 +5922,28 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Assam."
+      "Known as a nature destination in Assam"
     ]
+  },
+  {
+    "id": "urpad-bil-assam",
+    "name": "Urpad Bīl",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Urpad Bīl is a lake in Assam, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Assam",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 26.1,
+      "lon": 90.6
+    }
   },
   {
     "id": "vaisistha-temple-assam",
@@ -4748,8 +5952,8 @@
     "category": "spiritual",
     "description": "Vaisistha Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Guwahati, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Guwahati, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4763,8 +5967,8 @@
     "category": "spiritual",
     "description": "Vaiswanath Temple is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Viswanath Chariali, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in Viswanath Chariali, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4778,8 +5982,8 @@
     "category": "heritage",
     "description": "Vasudev Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4793,8 +5997,8 @@
     "category": "heritage",
     "description": "Vishnu Doul is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",
@@ -4808,8 +6012,8 @@
     "category": "heritage",
     "description": "Warigadeng Ruins is a protected monument in Assam, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Assam."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Assam"
     ],
     "tags": [
       "lesser-known",

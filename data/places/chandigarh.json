@@ -13,7 +13,7 @@
       "fort"
     ],
     "facts": [
-      "Known as a heritage destination in Chandigarh."
+      "Known as a heritage destination in Chandigarh"
     ]
   },
   {
@@ -31,7 +31,7 @@
       "pilgrimage"
     ],
     "facts": [
-      "Known as a spiritual destination in Chandigarh."
+      "Known as a spiritual destination in Chandigarh"
     ]
   },
   {
@@ -45,7 +45,7 @@
       "lon": 76.81028
     },
     "facts": [
-      "Known as a wildlife destination in Chandigarh."
+      "Known as a wildlife destination in Chandigarh"
     ]
   },
   {
@@ -62,9 +62,9 @@
       "world-heritage"
     ],
     "facts": [
-      "Dates from 1953.",
-      "Recognised as part of UNESCO World Heritage Site.",
-      "Architect: Le Corbusier."
+      "Dates from 1953",
+      "Recognised as part of UNESCO World Heritage Site",
+      "Architect: Le Corbusier"
     ]
   },
   {
@@ -78,8 +78,28 @@
       "lon": 76.8161
     },
     "facts": [
-      "Known as a tourism destination in Chandigarh."
+      "Known as a tourism destination in Chandigarh"
     ]
+  },
+  {
+    "id": "dhanas-lake-chandigarh",
+    "name": "Dhanas Lake",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Dhanas Lake is a lake in Chandigarh, India.",
+    "facts": [
+      "Listed in structured geographic data as a lake in Chandigarh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 30.76597,
+      "lon": 76.75729
+    }
   },
   {
     "id": "gandhi-bhawan-chandigarh-chandigarh",
@@ -92,7 +112,7 @@
       "lon": 76.77141
     },
     "facts": [
-      "Known as a tourism destination in Chandigarh."
+      "Known as a tourism destination in Chandigarh"
     ]
   },
   {
@@ -106,7 +126,7 @@
       "lon": 76.82967
     },
     "facts": [
-      "Known as a nature destination in Chandigarh."
+      "Known as a nature destination in Chandigarh"
     ]
   },
   {
@@ -120,7 +140,7 @@
       "lon": 76.736
     },
     "facts": [
-      "Known as a nature destination in Chandigarh."
+      "Known as a nature destination in Chandigarh"
     ]
   },
   {
@@ -137,8 +157,28 @@
       "museum"
     ],
     "facts": [
-      "Dates from 1947."
+      "Dates from 1947"
     ]
+  },
+  {
+    "id": "indian-air-force-heritage-museum-chandigarh-chandigarh",
+    "name": "Indian Air Force Heritage Museum, Chandigarh",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Indian Air Force Heritage Museum, Chandigarh is a museum in Chandigarh, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Chandigarh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 30.75,
+      "lon": 76.78333
+    }
   },
   {
     "id": "japanese-garden-chandigarh-chandigarh",
@@ -151,8 +191,28 @@
       "lon": 76.78206
     },
     "facts": [
-      "Known as a nature destination in Chandigarh."
+      "Known as a nature destination in Chandigarh"
     ]
+  },
+  {
+    "id": "le-corbusier-centre-chandigarh",
+    "name": "Le Corbusier Centre",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Le Corbusier Centre is a museum in Chandigarh, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Chandigarh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 30.73022,
+      "lon": 76.79947
+    }
   },
   {
     "id": "leisure-valley-chandigarh-chandigarh",
@@ -165,7 +225,7 @@
       "lon": 76.79194
     },
     "facts": [
-      "Known as a nature destination in Chandigarh."
+      "Known as a nature destination in Chandigarh"
     ]
   },
   {
@@ -179,7 +239,7 @@
       "lon": 76.7928
     },
     "facts": [
-      "Dates from 1977."
+      "Dates from 1977"
     ]
   },
   {
@@ -196,7 +256,7 @@
       "fort"
     ],
     "facts": [
-      "Known as a heritage destination in Chandigarh."
+      "Known as a heritage destination in Chandigarh"
     ]
   },
   {
@@ -210,11 +270,11 @@
       "lon": 76.8074
     },
     "facts": [
-      "Dates from 1964.",
-      "Architect: Le Corbusier.",
-      "Created by Le Corbusier.",
-      "Part of Chandigarh Capitol Complex.",
-      "Rises about 26 m."
+      "Dates from 1964",
+      "Architect: Le Corbusier",
+      "Created by Le Corbusier",
+      "Part of Chandigarh Capitol Complex",
+      "Rises about 26 m"
     ]
   },
   {
@@ -232,9 +292,9 @@
       "palace"
     ],
     "facts": [
-      "Built in the brutalist architecture style.",
-      "Architect: Le Corbusier.",
-      "Part of Chandigarh Capitol Complex."
+      "Built in the brutalist architecture style",
+      "Architect: Le Corbusier",
+      "Part of Chandigarh Capitol Complex"
     ]
   },
   {
@@ -248,8 +308,8 @@
       "lon": 76.77917
     },
     "facts": [
-      "Dates from 1998.",
-      "Covers about 2.9 km²."
+      "Dates from 1998",
+      "Covers about 2.9 km²"
     ]
   },
   {
@@ -263,8 +323,8 @@
       "lon": 76.807
     },
     "facts": [
-      "Dates from 1957.",
-      "Founded by Nek Chand Saini."
+      "Dates from 1957",
+      "Founded by Nek Chand Saini"
     ]
   },
   {
@@ -278,11 +338,11 @@
       "lon": 76.80056
     },
     "facts": [
-      "Dates from 1953.",
-      "Recognised as World Heritage Site.",
-      "Built in the modern architecture style.",
-      "Architect: Le Corbusier.",
-      "Part of Chandigarh Capitol Complex."
+      "Dates from 1953",
+      "Recognised as World Heritage Site",
+      "Built in the modern architecture style",
+      "Architect: Le Corbusier",
+      "Part of Chandigarh Capitol Complex"
     ]
   },
   {
@@ -300,7 +360,7 @@
       "museum"
     ],
     "facts": [
-      "Known as a heritage destination in Chandigarh."
+      "Known as a heritage destination in Chandigarh"
     ]
   },
   {
@@ -317,7 +377,7 @@
       "lake"
     ],
     "facts": [
-      "Architect: Le Corbusier."
+      "Architect: Le Corbusier"
     ]
   },
   {
@@ -334,8 +394,8 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Dates from 1986.",
-      "Covers about 26 km²."
+      "Dates from 1986",
+      "Covers about 26 km²"
     ]
   },
   {
@@ -349,7 +409,7 @@
       "lon": 76.77167
     },
     "facts": [
-      "Known as a nature destination in Chandigarh."
+      "Known as a nature destination in Chandigarh"
     ]
   },
   {
@@ -363,7 +423,7 @@
       "lon": 76.78374
     },
     "facts": [
-      "Known as a nature destination in Chandigarh."
+      "Known as a nature destination in Chandigarh"
     ]
   }
 ]

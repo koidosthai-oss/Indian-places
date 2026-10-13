@@ -1,5 +1,26 @@
 [
   {
+    "id": "chinkhu-nagaland",
+    "name": "Chinkhu",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Chinkhu is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,526 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.82465,
+      "lon": 94.60284
+    }
+  },
+  {
     "id": "chumoukedima-nagaland",
     "name": "Chümoukedima",
     "state": "Nagaland",
@@ -10,9 +31,30 @@
       "lon": 93.7818
     },
     "facts": [
-      "Dates from 1866.",
-      "Lies in Chümoukedima district, Nagaland."
+      "Dates from 1866",
+      "Lies in Chümoukedima district, Nagaland"
     ]
+  },
+  {
+    "id": "dazipfu-nagaland",
+    "name": "Dazipfu",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Dazipfu is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,106 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.55,
+      "lon": 94.85
+    }
   },
   {
     "id": "dimapur-jain-temple-nagaland",
@@ -28,7 +70,7 @@
       "temple"
     ],
     "facts": [
-      "Lies in Dimapur, Nagaland."
+      "Lies in Dimapur, Nagaland"
     ]
   },
   {
@@ -45,8 +87,8 @@
       "temple"
     ],
     "facts": [
-      "Dates from 1956.",
-      "Lies in Dimapur district, Nagaland."
+      "Dates from 1956",
+      "Lies in Dimapur district, Nagaland"
     ]
   },
   {
@@ -60,7 +102,7 @@
       "lon": 94.06702
     },
     "facts": [
-      "Lies in Viswema, Nagaland."
+      "Lies in Viswema, Nagaland"
     ]
   },
   {
@@ -77,8 +119,8 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Covers about 642 ha.",
-      "Lies in Kiphire district, Nagaland."
+      "Covers about 642 ha",
+      "Lies in Kiphire district, Nagaland"
     ]
   },
   {
@@ -88,7 +130,7 @@
     "category": "other",
     "description": "Hornbill Festival is an annual festival in Nagaland, India.",
     "facts": [
-      "Dates from 2000."
+      "Dates from 2000"
     ]
   },
   {
@@ -102,7 +144,7 @@
       "lon": 94.0021
     },
     "facts": [
-      "Lies in Kohima district, Nagaland."
+      "Lies in Kohima district, Nagaland"
     ]
   },
   {
@@ -116,7 +158,7 @@
       "lon": 94.10824
     },
     "facts": [
-      "Known as a tourism destination in Nagaland."
+      "Known as a tourism destination in Nagaland"
     ]
   },
   {
@@ -133,7 +175,7 @@
       "hill-station"
     ],
     "facts": [
-      "Lies in Kohima district, Nagaland."
+      "Lies in Kohima district, Nagaland"
     ]
   },
   {
@@ -150,7 +192,7 @@
       "church"
     ],
     "facts": [
-      "Lies in Kohima, Nagaland."
+      "Lies in Kohima, Nagaland"
     ]
   },
   {
@@ -167,7 +209,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Nagaland."
+      "Known as a spiritual destination in Nagaland"
     ]
   },
   {
@@ -184,7 +226,7 @@
       "church"
     ],
     "facts": [
-      "Known as a spiritual destination in Nagaland."
+      "Known as a spiritual destination in Nagaland"
     ]
   },
   {
@@ -201,7 +243,7 @@
       "church"
     ],
     "facts": [
-      "Known as a spiritual destination in Nagaland."
+      "Known as a spiritual destination in Nagaland"
     ]
   },
   {
@@ -219,9 +261,9 @@
       "museum"
     ],
     "facts": [
-      "Dates from 1879.",
-      "Stands at about 1,444 m elevation.",
-      "Lies in Kohima district, Nagaland."
+      "Dates from 1879",
+      "Stands at about 1,444 m elevation",
+      "Lies in Kohima district, Nagaland"
     ]
   },
   {
@@ -238,7 +280,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Nagaland."
+      "Known as a nature destination in Nagaland"
     ]
   },
   {
@@ -255,7 +297,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Nagaland."
+      "Known as a nature destination in Nagaland"
     ]
   },
   {
@@ -269,7 +311,7 @@
       "lon": 94.4123
     },
     "facts": [
-      "Known as a offbeat destination in Nagaland."
+      "Known as a offbeat destination in Nagaland"
     ]
   },
   {
@@ -279,8 +321,8 @@
     "category": "heritage",
     "description": "Lt. H. H. Forbes' Grave is a protected monument in Nagaland, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Sechüma, Nagaland."
+      "Recognised as a State Protected Monument",
+      "Lies in Sechüma, Nagaland"
     ],
     "tags": [
       "lesser-known",
@@ -301,9 +343,30 @@
       "church"
     ],
     "facts": [
-      "Associated with Catholicism.",
-      "Lies in Kohima, Nagaland."
+      "Associated with Catholicism",
+      "Lies in Kohima, Nagaland"
     ]
+  },
+  {
+    "id": "mataungse-kyein-nagaland",
+    "name": "Mataungse Kyein",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Mataungse Kyein is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 3,245 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.95,
+      "lon": 95.08333
+    }
   },
   {
     "id": "memorials-of-mr-g-h-damant-major-cook-and-subedar-nurbir-sahi-nagaland",
@@ -312,8 +375,8 @@
     "category": "heritage",
     "description": "Memorials of Mr. G.H. Damant, Major Cook and Subedar Nurbir Sahi is a protected monument in Nagaland, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Khonoma, Nagaland."
+      "Recognised as a State Protected Monument",
+      "Lies in Khonoma, Nagaland"
     ],
     "tags": [
       "lesser-known",
@@ -334,8 +397,50 @@
       "church"
     ],
     "facts": [
-      "Known as a spiritual destination in Nagaland."
+      "Known as a spiritual destination in Nagaland"
     ]
+  },
+  {
+    "id": "mol-len-nagaland",
+    "name": "Mol Len",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Mol Len is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,751 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.5,
+      "lon": 94.75
+    }
+  },
+  {
+    "id": "mount-saramati-nagaland",
+    "name": "Mount Saramati",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Mount Saramati is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 3,823 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.73976,
+      "lon": 95.03762
+    }
   },
   {
     "id": "naga-hills-nagaland",
@@ -351,9 +456,29 @@
       "world-heritage"
     ],
     "facts": [
-      "Named after Naga people.",
-      "Stands at about 3,827 m elevation."
+      "Named after Naga people",
+      "Stands at about 3,827 m elevation"
     ]
+  },
+  {
+    "id": "nagaland-state-museum-nagaland",
+    "name": "Nagaland State Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Nagaland State Museum is a museum in Nagaland, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Nagaland",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 25.685,
+      "lon": 94.1049
+    }
   },
   {
     "id": "nagaland-zoological-park-nagaland",
@@ -366,8 +491,8 @@
       "lon": 93.72428
     },
     "facts": [
-      "Dates from 28 August 2008.",
-      "Lies in Dimapur district, Nagaland."
+      "Dates from 28 August 2008",
+      "Lies in Dimapur district, Nagaland"
     ]
   },
   {
@@ -384,7 +509,7 @@
       "national-park"
     ],
     "facts": [
-      "Lies in Peren district, Nagaland."
+      "Lies in Peren district, Nagaland"
     ]
   },
   {
@@ -401,8 +526,29 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Nagaland."
+      "Known as a wildlife destination in Nagaland"
     ]
+  },
+  {
+    "id": "punkhung-nagaland",
+    "name": "Punkhung",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Punkhung is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 1,029 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 26.7538,
+      "lon": 94.96873
+    }
   },
   {
     "id": "rangapahar-wildlife-sanctuary-nagaland",
@@ -418,7 +564,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Lies in Dimapur, Nagaland."
+      "Lies in Dimapur, Nagaland"
     ]
   },
   {
@@ -428,8 +574,8 @@
     "category": "heritage",
     "description": "Ruins of Kachari Rajbari is a protected monument in Nagaland, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Dimapur, Nagaland."
+      "Recognised as a State Protected Monument",
+      "Lies in Dimapur, Nagaland"
     ],
     "tags": [
       "lesser-known",
@@ -447,7 +593,7 @@
       "lon": 94.10583
     },
     "facts": [
-      "Known as a tourism destination in Nagaland."
+      "Known as a tourism destination in Nagaland"
     ]
   },
   {
@@ -464,7 +610,7 @@
       "waterfall"
     ],
     "facts": [
-      "Lies in Kohima district, Nagaland."
+      "Lies in Kohima district, Nagaland"
     ]
   },
   {
@@ -474,7 +620,7 @@
     "category": "other",
     "description": "Sekrenyi is an angami Nagas festival based in Nagaland, India.",
     "facts": [
-      "Known as a tourism destination in Nagaland."
+      "Known as a tourism destination in Nagaland"
     ]
   },
   {
@@ -487,7 +633,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Lies in Mon district, Nagaland."
+      "Lies in Mon district, Nagaland"
     ]
   },
   {
@@ -497,8 +643,8 @@
     "category": "heritage",
     "description": "Stone Cairn to the memory of Mr. Damant is a protected monument in Nagaland, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Kohima, Nagaland."
+      "Recognised as a State Protected Monument",
+      "Lies in Kohima, Nagaland"
     ],
     "tags": [
       "lesser-known",
@@ -519,7 +665,49 @@
       "church"
     ],
     "facts": [
-      "Lies in Zunheboto, Nagaland."
+      "Lies in Zunheboto, Nagaland"
     ]
+  },
+  {
+    "id": "tiyingchomo-nagaland",
+    "name": "Tiyingchomo",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Tiyingchomo is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 1,777 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 26.10126,
+      "lon": 94.28184
+    }
+  },
+  {
+    "id": "yakko-nagaland",
+    "name": "Yakkō",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Yakkō is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,677 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 26.19419,
+      "lon": 94.91453
+    }
   }
 ]

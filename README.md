@@ -16,4 +16,7 @@ Each record has a short description and a `facts` list (dates, heritage status, 
 
 ```bash
 .venv/bin/python scripts/extract_places.py
+.venv/bin/python scripts/merge_open_sources.py
 ```
+
+`merge_open_sources.py` then adds named places from GeoNames and Wikidata, and from OpenStreetMap when the public Overpass service answers. That pass keeps mapped sites that have little or no published visitor information, including temples, forts, falls, lakes, dunes, passes, and wildlife reserves that do not have their own articles. Forest-reserve parcels, hotels, stations, and unnamed spots stay out.

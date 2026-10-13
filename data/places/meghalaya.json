@@ -13,7 +13,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Meghalaya."
+      "Known as a wildlife destination in Meghalaya"
     ]
   },
   {
@@ -30,10 +30,50 @@
       "national-park"
     ],
     "facts": [
-      "Dates from 1986.",
-      "Covers about 352 km².",
-      "Lies in South Garo Hills district, Meghalaya."
+      "Dates from 1986",
+      "Covers about 352 km²",
+      "Lies in South Garo Hills district, Meghalaya"
     ]
+  },
+  {
+    "id": "bishop-falls-meghalaya",
+    "name": "Bishop Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Bishop Falls is a waterfall in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 25.584,
+      "lon": 91.864
+    }
+  },
+  {
+    "id": "blue-heaven-falls-meghalaya",
+    "name": "Blue Heaven Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Blue Heaven Falls is a waterfall in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 25.55959,
+      "lon": 91.88381
+    }
   },
   {
     "id": "buddhist-stupa-meghalaya",
@@ -42,8 +82,8 @@
     "category": "spiritual",
     "description": "Buddhist Stupa is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Meghalaya"
     ],
     "tags": [
       "lesser-known",
@@ -61,7 +101,7 @@
       "lon": 90.32738
     },
     "facts": [
-      "Lies in West Garo Hills district, Meghalaya."
+      "Lies in West Garo Hills district, Meghalaya"
     ]
   },
   {
@@ -75,9 +115,49 @@
       "lon": 91.72417
     },
     "facts": [
-      "Stands at about 1,484 m elevation.",
-      "Lies in East Khasi Hills district, Meghalaya."
+      "Stands at about 1,484 m elevation",
+      "Lies in East Khasi Hills district, Meghalaya"
     ]
+  },
+  {
+    "id": "church-of-the-epiphany-meghalaya",
+    "name": "Church of the Epiphany",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Church of the Epiphany is a church in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a church in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "church"
+    ],
+    "coordinates": {
+      "lat": 25.20297,
+      "lon": 91.91486
+    }
+  },
+  {
+    "id": "dainthlen-falls-meghalaya",
+    "name": "Dainthlen Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Dainthlen Falls is a waterfall in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 25.29363,
+      "lon": 91.68344
+    }
   },
   {
     "id": "daribokgre-meghalaya",
@@ -90,7 +170,7 @@
       "lon": 90.32399
     },
     "facts": [
-      "Lies in East Garo Hills district, Meghalaya."
+      "Lies in East Garo Hills district, Meghalaya"
     ]
   },
   {
@@ -107,8 +187,49 @@
       "hill-station"
     ],
     "facts": [
-      "Lies in Jaintia Hills district, Meghalaya."
+      "Lies in Jaintia Hills district, Meghalaya"
     ]
+  },
+  {
+    "id": "dhamrai-jagannath-roth-meghalaya",
+    "name": "Dhamrai Jagannath Roth",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Dhamrai Jagannath Roth is a temple in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 25.91833,
+      "lon": 90.21139
+    }
+  },
+  {
+    "id": "dhamrai-rathayatra-meghalaya",
+    "name": "Dhamrai Rathayatra",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Dhamrai Rathayatra is a temple in Meghalaya, India.",
+    "facts": [
+      "Listed in geographic records as a temple in Meghalaya",
+      "Mapped elevation is about 48 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 25.91833,
+      "lon": 90.21139
+    }
   },
   {
     "id": "elephant-falls-meghalaya",
@@ -124,7 +245,7 @@
       "waterfall"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -134,8 +255,8 @@
     "category": "spiritual",
     "description": "Excavated Temple is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Meghalaya"
     ],
     "tags": [
       "lesser-known",
@@ -149,13 +270,33 @@
     "category": "heritage",
     "description": "Fortress is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in | address =, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in | address =, Meghalaya"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "gandrak-dare-falls-meghalaya",
+    "name": "Gandrak Dare Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Gandrak Dare Falls is a waterfall in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 25.52097,
+      "lon": 90.22809
+    }
   },
   {
     "id": "garo-hills-meghalaya",
@@ -171,8 +312,28 @@
       "world-heritage"
     ],
     "facts": [
-      "Recognised as Tentative World Heritage Site."
+      "Recognised as Tentative World Heritage Site"
     ]
+  },
+  {
+    "id": "ka-likai-meghalaya",
+    "name": "Ka Likai",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ka Likai is a waterfall in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 25.276,
+      "lon": 91.686
+    }
   },
   {
     "id": "khasi-hills-meghalaya",
@@ -185,7 +346,7 @@
       "lon": 91.63333
     },
     "facts": [
-      "Stands at about 1,200 m elevation."
+      "Stands at about 1,200 m elevation"
     ]
   },
   {
@@ -199,7 +360,7 @@
       "lon": 91.48
     },
     "facts": [
-      "Lies in East Khasi Hills district, Meghalaya."
+      "Lies in East Khasi Hills district, Meghalaya"
     ]
   },
   {
@@ -213,7 +374,7 @@
       "lon": 92.27639
     },
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -226,7 +387,7 @@
       "cave"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -239,7 +400,7 @@
       "cave"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -256,7 +417,7 @@
       "waterfall"
     ],
     "facts": [
-      "Lies in East Khasi Hills district, Meghalaya."
+      "Lies in East Khasi Hills district, Meghalaya"
     ]
   },
   {
@@ -273,7 +434,7 @@
       "waterfall"
     ],
     "facts": [
-      "Lies in West Khasi Hills district, Meghalaya."
+      "Lies in West Khasi Hills district, Meghalaya"
     ]
   },
   {
@@ -283,7 +444,7 @@
     "category": "other",
     "description": "Living root bridge is a type of pedestrian bridge made with live tree roots.",
     "facts": [
-      "Known as a tourism destination in Meghalaya."
+      "Known as a tourism destination in Meghalaya"
     ]
   },
   {
@@ -300,7 +461,7 @@
       "mosque"
     ],
     "facts": [
-      "Built in the Islamic architecture style."
+      "Built in the Islamic architecture style"
     ]
   },
   {
@@ -310,13 +471,34 @@
     "category": "heritage",
     "description": "Manipur Memorial, Shillong is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Shillong, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in Shillong, Meghalaya"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "maryngksih-meghalaya",
+    "name": "Maryngksih",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Maryngksih is a mountain in Meghalaya, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Meghalaya",
+      "Mapped elevation is about 1,240 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.24781,
+      "lon": 92.64798
+    }
   },
   {
     "id": "mawlynnong-meghalaya",
@@ -332,7 +514,7 @@
       "hill-station"
     ],
     "facts": [
-      "Lies in East Khasi Hills district, Meghalaya."
+      "Lies in East Khasi Hills district, Meghalaya"
     ]
   },
   {
@@ -350,7 +532,7 @@
       "cave"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -367,8 +549,28 @@
       "hill-station"
     ],
     "facts": [
-      "Lies in Eastern West Khasi Hills district, Meghalaya."
+      "Lies in Eastern West Khasi Hills district, Meghalaya"
     ]
+  },
+  {
+    "id": "mawsmai-cave-meghalaya",
+    "name": "Mawsmai Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Mawsmai Cave is a cave in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a cave in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "cave"
+    ],
+    "coordinates": {
+      "lat": 25.2448,
+      "lon": 91.7247
+    }
   },
   {
     "id": "mawsynram-meghalaya",
@@ -384,9 +586,9 @@
       "hill-station"
     ],
     "facts": [
-      "Stands at about 1,430 m elevation.",
-      "Covers about 510 km².",
-      "Lies in East Khasi Hills district, Meghalaya."
+      "Stands at about 1,430 m elevation",
+      "Covers about 510 km²",
+      "Lies in East Khasi Hills district, Meghalaya"
     ]
   },
   {
@@ -396,8 +598,8 @@
     "category": "heritage",
     "description": "Megalithic Bridge known as Thulum-wi between Jowai and Jarain, Maput, is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Maput, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in Maput, Meghalaya"
     ],
     "tags": [
       "lesser-known",
@@ -411,8 +613,8 @@
     "category": "heritage",
     "description": "Megalithic Bridge on the Um-Kumbeh is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Um-Kumbeh, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in Um-Kumbeh, Meghalaya"
     ],
     "tags": [
       "lesser-known",
@@ -426,8 +628,8 @@
     "category": "heritage",
     "description": "Megalithic Bridge on the Um-Nyakaneth, between Jaraem and Syndai is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Um-Nyakaneth River, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in Um-Nyakaneth River, Meghalaya"
     ],
     "tags": [
       "lesser-known",
@@ -448,7 +650,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Known as a wildlife destination in Meghalaya."
+      "Known as a wildlife destination in Meghalaya"
     ]
   },
   {
@@ -465,7 +667,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Meghalaya."
+      "Known as a spiritual destination in Meghalaya"
     ]
   },
   {
@@ -478,7 +680,7 @@
       "hill-station"
     ],
     "facts": [
-      "Known as a hill-station destination in Meghalaya."
+      "Known as a hill-station destination in Meghalaya"
     ]
   },
   {
@@ -495,7 +697,7 @@
       "waterfall"
     ],
     "facts": [
-      "Lies in East Khasi Hills district, Meghalaya."
+      "Lies in East Khasi Hills district, Meghalaya"
     ]
   },
   {
@@ -512,7 +714,7 @@
       "waterfall"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -529,8 +731,29 @@
       "national-park"
     ],
     "facts": [
-      "Lies in West Garo Hills district, Meghalaya."
+      "Lies in West Garo Hills district, Meghalaya"
     ]
+  },
+  {
+    "id": "nokrek-peak-meghalaya",
+    "name": "Nokrek Peak",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Nokrek Peak is a hill in Meghalaya, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Meghalaya",
+      "Mapped elevation is about 1,416 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 25.46176,
+      "lon": 90.32199
+    }
   },
   {
     "id": "nongkhyllem-wildlife-sanctuary-meghalaya",
@@ -546,7 +769,7 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Lies in Ri-Bhoi district, Meghalaya."
+      "Lies in Ri-Bhoi district, Meghalaya"
     ]
   },
   {
@@ -563,7 +786,7 @@
       "world-heritage"
     ],
     "facts": [
-      "Lies in East Khasi Hills district, Meghalaya."
+      "Lies in East Khasi Hills district, Meghalaya"
     ]
   },
   {
@@ -580,7 +803,7 @@
       "hill-station"
     ],
     "facts": [
-      "Lies in Jaintia Hills district, Meghalaya."
+      "Lies in Jaintia Hills district, Meghalaya"
     ]
   },
   {
@@ -590,7 +813,7 @@
     "category": "other",
     "description": "Rangthylliang 1 root bridge is a living root bridge in Cherrapunji, Meghalaya, India.",
     "facts": [
-      "Known as a tourism destination in Meghalaya."
+      "Known as a tourism destination in Meghalaya"
     ]
   },
   {
@@ -604,7 +827,7 @@
       "lon": 90.32738
     },
     "facts": [
-      "Lies in West Garo Hills district, Meghalaya."
+      "Lies in West Garo Hills district, Meghalaya"
     ]
   },
   {
@@ -614,13 +837,34 @@
     "category": "heritage",
     "description": "Scott's Memorials, Cherrapunji is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Cherrapunji, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in Cherrapunji, Meghalaya"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "sherpai-meghalaya",
+    "name": "Sherpai",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Sherpai is a mountain in Meghalaya, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Meghalaya",
+      "Mapped elevation is about 1,492 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.15,
+      "lon": 92.73333
+    }
   },
   {
     "id": "siju-cave-meghalaya",
@@ -632,8 +876,28 @@
       "cave"
     ],
     "facts": [
-      "Lies in South Garo Hills district, Meghalaya."
+      "Lies in South Garo Hills district, Meghalaya"
     ]
+  },
+  {
+    "id": "spread-eagle-falls-meghalaya",
+    "name": "Spread Eagle Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Spread Eagle Falls is a waterfall in Meghalaya, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 25.57717,
+      "lon": 91.91017
+    }
   },
   {
     "id": "stone-memorial-of-u-mawthaw-dur-briew-nartiang-meghalaya",
@@ -642,8 +906,8 @@
     "category": "heritage",
     "description": "Stone memorial of U.Mawthaw - dur-briew, Nartiang is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Nartiang, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in Nartiang, Meghalaya"
     ],
     "tags": [
       "lesser-known",
@@ -657,8 +921,8 @@
     "category": "heritage",
     "description": "Stone memorial of U-Mawthoh-dur, Bhoi Country is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Bhoi Country, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in Bhoi Country, Meghalaya"
     ],
     "tags": [
       "lesser-known",
@@ -679,7 +943,7 @@
       "waterfall"
     ],
     "facts": [
-      "Lies in East Khasi Hills district, Meghalaya."
+      "Lies in East Khasi Hills district, Meghalaya"
     ]
   },
   {
@@ -689,8 +953,8 @@
     "category": "heritage",
     "description": "Tank, Syndai is a protected monument in Meghalaya, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Syndai, Meghalaya."
+      "Recognised as a State Protected Monument",
+      "Lies in Syndai, Meghalaya"
     ],
     "tags": [
       "lesser-known",
@@ -711,8 +975,28 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
+  },
+  {
+    "id": "thain-mawdem-forest-meghalaya",
+    "name": "Thain Mawdem Forest",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Thain Mawdem Forest is a forest in Meghalaya, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Meghalaya",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 25.84069,
+      "lon": 91.41449
+    }
   },
   {
     "id": "tura-meghalaya-meghalaya",
@@ -725,8 +1009,8 @@
       "lon": 90.22
     },
     "facts": [
-      "Stands at about 349 m elevation.",
-      "Lies in West Garo Hills district, Meghalaya."
+      "Stands at about 349 m elevation",
+      "Lies in West Garo Hills district, Meghalaya"
     ]
   },
   {
@@ -743,7 +1027,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -757,7 +1041,7 @@
       "lon": 91.67195
     },
     "facts": [
-      "Known as a tourism destination in Meghalaya."
+      "Known as a tourism destination in Meghalaya"
     ]
   },
   {
@@ -774,7 +1058,7 @@
       "waterfall"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -791,7 +1075,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   },
   {
@@ -808,7 +1092,7 @@
       "waterfall"
     ],
     "facts": [
-      "Known as a nature destination in Meghalaya."
+      "Known as a nature destination in Meghalaya"
     ]
   }
 ]

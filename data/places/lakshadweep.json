@@ -13,11 +13,51 @@
       "island"
     ],
     "facts": [
-      "Set beside Laccadive Sea.",
-      "Part of Laccadive Islands.",
-      "Stands at about 2 m elevation.",
-      "Covers about 3.23 km²."
+      "Set beside Laccadive Sea",
+      "Part of Laccadive Islands",
+      "Stands at about 2 m elevation",
+      "Covers about 3.23 km²"
     ]
+  },
+  {
+    "id": "amini-island-lakshadweep",
+    "name": "Amini Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Amini Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.12114,
+      "lon": 72.72263
+    }
+  },
+  {
+    "id": "androth-island-lakshadweep",
+    "name": "Andrōth Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Andrōth Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.81172,
+      "lon": 73.67569
+    }
   },
   {
     "id": "bangaram-atoll-lakshadweep",
@@ -33,11 +73,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Laccadive Sea.",
-      "Part of Laccadive Islands.",
-      "Stands at about 1 m elevation.",
-      "Covers about 1.23 km²."
+      "Set beside Laccadive Sea",
+      "Part of Laccadive Islands",
+      "Stands at about 1 m elevation",
+      "Covers about 1.23 km²"
     ]
+  },
+  {
+    "id": "bingaram-island-lakshadweep",
+    "name": "Bingaram Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Bingaram Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.94043,
+      "lon": 72.28693
+    }
   },
   {
     "id": "bitra-lakshadweep",
@@ -53,10 +113,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Aminidivi.",
-      "Stands at about 2 m elevation.",
-      "Covers about 11 ha."
+      "Set beside Indian Ocean",
+      "Part of Aminidivi",
+      "Stands at about 2 m elevation",
+      "Covers about 11 ha"
     ]
   },
   {
@@ -73,9 +133,9 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Aminidivi.",
-      "Stands at about 2 m elevation."
+      "Set beside Indian Ocean",
+      "Part of Aminidivi",
+      "Stands at about 2 m elevation"
     ]
   },
   {
@@ -92,11 +152,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Laccadive Islands.",
-      "Stands at about 2 m elevation.",
-      "Covers about 0.01 km²."
+      "Set beside Indian Ocean",
+      "Part of Laccadive Islands",
+      "Stands at about 2 m elevation",
+      "Covers about 0.01 km²"
     ]
+  },
+  {
+    "id": "cheriyam-island-lakshadweep",
+    "name": "Cheriyam Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Cheriyam Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.14142,
+      "lon": 73.66393
+    }
   },
   {
     "id": "chetlat-island-lakshadweep",
@@ -112,11 +192,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Aminidivi.",
-      "Stands at about 2 m elevation.",
-      "Covers about 1.17 km²."
+      "Set beside Indian Ocean",
+      "Part of Aminidivi",
+      "Stands at about 2 m elevation",
+      "Covers about 1.17 km²"
     ]
+  },
+  {
+    "id": "kadmat-beach-lakshadweep",
+    "name": "Kadmat Beach",
+    "state": "Lakshadweep",
+    "category": "beach",
+    "description": "Kadmat Beach is a beach in Lakshadweep, India.",
+    "facts": [
+      "Listed in structured geographic data as a beach in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.22866,
+      "lon": 72.78028
+    }
   },
   {
     "id": "kadmat-island-lakshadweep",
@@ -132,8 +232,8 @@
       "island"
     ],
     "facts": [
-      "Part of Aminidivi.",
-      "Covers about 3.12 km²."
+      "Part of Aminidivi",
+      "Covers about 3.12 km²"
     ]
   },
   {
@@ -150,8 +250,8 @@
       "island"
     ],
     "facts": [
-      "Stands at about 1 m elevation.",
-      "Covers about 0.09 km²."
+      "Stands at about 1 m elevation",
+      "Covers about 0.09 km²"
     ]
   },
   {
@@ -168,11 +268,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Laccadive Sea.",
-      "Part of Laccadive Islands.",
-      "Stands at about 0 m elevation.",
-      "Covers about 3.08 km²."
+      "Set beside Laccadive Sea",
+      "Part of Laccadive Islands",
+      "Stands at about 0 m elevation",
+      "Covers about 3.08 km²"
     ]
+  },
+  {
+    "id": "kalputhi-island-lakshadweep",
+    "name": "Kalputhi Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Kalputhi Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.81349,
+      "lon": 72.16825
+    }
   },
   {
     "id": "kavaratti-lakshadweep",
@@ -188,10 +308,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Laccadive Sea.",
-      "Part of Laccadive Islands.",
-      "Stands at about 1 m elevation.",
-      "Covers about 4.22 km²."
+      "Set beside Laccadive Sea",
+      "Part of Laccadive Islands",
+      "Stands at about 1 m elevation",
+      "Covers about 4.22 km²"
     ]
   },
   {
@@ -208,10 +328,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Aminidivi.",
-      "Stands at about 2 m elevation.",
-      "Covers about 1.78 km²."
+      "Set beside Indian Ocean",
+      "Part of Aminidivi",
+      "Stands at about 2 m elevation",
+      "Covers about 1.78 km²"
     ]
   },
   {
@@ -228,11 +348,11 @@
       "island"
     ],
     "facts": [
-      "Dates from 1885.",
-      "Architect: James Nicholas Douglass.",
-      "Set beside Laccadive Sea.",
-      "Set on Minicoy Island.",
-      "Rises about 49.5 m."
+      "Dates from 1885",
+      "Architect: James Nicholas Douglass",
+      "Set beside Laccadive Sea",
+      "Set on Minicoy Island",
+      "Rises about 49.5 m"
     ]
   },
   {
@@ -250,10 +370,50 @@
       "island"
     ],
     "facts": [
-      "Set beside Laccadive Sea.",
-      "Stands at about 2 m elevation.",
-      "Covers about 4.8 km²."
+      "Set beside Laccadive Sea",
+      "Stands at about 2 m elevation",
+      "Covers about 4.8 km²"
     ]
+  },
+  {
+    "id": "minicoy-lighthouse-lakshadweep",
+    "name": "Minicoy Lighthouse",
+    "state": "Lakshadweep",
+    "category": "heritage",
+    "description": "Minicoy Lighthouse is a lighthouse in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a lighthouse in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lighthouse"
+    ],
+    "coordinates": {
+      "lat": 8.26941,
+      "lon": 73.02605
+    }
+  },
+  {
+    "id": "minicoy-thundi-beach-lakshadweep",
+    "name": "Minicoy Thundi Beach",
+    "state": "Lakshadweep",
+    "category": "beach",
+    "description": "Minicoy Thundi Beach is a beach in Lakshadweep, India.",
+    "facts": [
+      "Listed in structured geographic data as a beach in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 8.26826,
+      "lon": 73.02664
+    }
   },
   {
     "id": "mohidden-mosque-lakshadweep-lakshadweep",
@@ -269,8 +429,48 @@
       "mosque"
     ],
     "facts": [
-      "Built in the Islamic architecture style."
+      "Built in the Islamic architecture style"
     ]
+  },
+  {
+    "id": "north-island-lakshadweep",
+    "name": "North Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "North Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.13333,
+      "lon": 72.33333
+    }
+  },
+  {
+    "id": "north-islet-lakshadweep",
+    "name": "North Islet",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "North Islet is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.4,
+      "lon": 71.9
+    }
   },
   {
     "id": "perumal-par-lakshadweep",
@@ -286,11 +486,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Aminidivi.",
-      "Stands at about 0 m elevation.",
-      "Covers about 0.02 km²."
+      "Set beside Indian Ocean",
+      "Part of Aminidivi",
+      "Stands at about 0 m elevation",
+      "Covers about 0.02 km²"
     ]
+  },
+  {
+    "id": "pitti-island-lakshadweep",
+    "name": "Pitti Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Pitti Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.07307,
+      "lon": 73.6278
+    }
   },
   {
     "id": "pitti-lakshadweep",
@@ -306,9 +526,9 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Stands at about 2 m elevation.",
-      "Covers about 0.04 km²."
+      "Set beside Indian Ocean",
+      "Stands at about 2 m elevation",
+      "Covers about 0.04 km²"
     ]
   },
   {
@@ -318,8 +538,48 @@
     "category": "other",
     "description": "PM Sayeed Marine Birds Conservation Reserve is a protected area in Lakshadweep, India.",
     "facts": [
-      "Known as a tourism destination in Lakshadweep."
+      "Known as a tourism destination in Lakshadweep"
     ]
+  },
+  {
+    "id": "sand-cay-lakshadweep",
+    "name": "Sand Cay",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Sand Cay is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.26667,
+      "lon": 71.9
+    }
+  },
+  {
+    "id": "south-island-lakshadweep",
+    "name": "South Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "South Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.05,
+      "lon": 72.28333
+    }
   },
   {
     "id": "suheli-par-lakshadweep",
@@ -335,11 +595,51 @@
       "island"
     ],
     "facts": [
-      "Set beside Laccadive Sea.",
-      "Part of Laccadive Islands.",
-      "Stands at about 1 m elevation.",
-      "Covers about 0.89 km²."
+      "Set beside Laccadive Sea",
+      "Part of Laccadive Islands",
+      "Stands at about 1 m elevation",
+      "Covers about 0.89 km²"
     ]
+  },
+  {
+    "id": "tinnakara-island-lakshadweep",
+    "name": "Tinnakara Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Tinnakara Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.94709,
+      "lon": 72.3175
+    }
+  },
+  {
+    "id": "tree-island-lakshadweep",
+    "name": "Tree Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Tree Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.59818,
+      "lon": 72.1867
+    }
   },
   {
     "id": "viringili-maliku-atoll-lakshadweep",
@@ -355,11 +655,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Laccadive Sea.",
-      "Set on Minicoy.",
-      "Part of Minicoy.",
-      "Stands at about 0 m elevation.",
-      "Covers about 0.03 km²."
+      "Set beside Laccadive Sea",
+      "Set on Minicoy",
+      "Part of Minicoy",
+      "Stands at about 0 m elevation",
+      "Covers about 0.03 km²"
     ]
+  },
+  {
+    "id": "wiringli-island-lakshadweep",
+    "name": "Wiringli Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Wiringli Island is a island in Lakshadweep, India.",
+    "facts": [
+      "Listed in geographic records as a island in Lakshadweep",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 8.27813,
+      "lon": 73.01153
+    }
   }
 ]

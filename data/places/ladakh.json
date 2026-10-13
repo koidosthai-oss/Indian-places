@@ -1,5 +1,26 @@
 [
   {
+    "id": "abdullun-dhar-ladakh",
+    "name": "Abdullun Dhār",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Abdullun Dhār is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,718 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.51667,
+      "lon": 75.28333
+    }
+  },
+  {
     "id": "alchi-ladakh",
     "name": "Alchi",
     "state": "Ladakh",
@@ -13,7 +34,7 @@
       "palace"
     ],
     "facts": [
-      "Known as a offbeat destination in Ladakh."
+      "Known as a offbeat destination in Ladakh"
     ]
   },
   {
@@ -30,12 +51,54 @@
       "monastery"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Associated with Tibetan Buddhism.",
-      "Lies in Leh district, Ladakh.",
-      "Recognised as a State Protected Monument.",
-      "Lies in Alchi, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Associated with Tibetan Buddhism",
+      "Lies in Leh district, Ladakh",
+      "Recognised as a State Protected Monument",
+      "Lies in Alchi, Ladakh"
     ]
+  },
+  {
+    "id": "alharizan-hijhan-ladakh",
+    "name": "Alhārizan Hijhan",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Alhārizan Hijhan is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,408 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.39481,
+      "lon": 75.25349
+    }
+  },
+  {
+    "id": "amarnath-cave-ladakh",
+    "name": "Amarnāth Cave",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Amarnāth Cave is a cave in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a cave in Ladakh",
+      "Mapped elevation is about 3,931 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "cave"
+    ],
+    "coordinates": {
+      "lat": 34.21544,
+      "lon": 75.50594
+    }
   },
   {
     "id": "ancient-gonpa-complex-ladakh",
@@ -44,8 +107,8 @@
     "category": "heritage",
     "description": "Ancient Gonpa Complex is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Wanla, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Wanla, Ladakh"
     ],
     "tags": [
       "lesser-known",
@@ -59,8 +122,8 @@
     "category": "heritage",
     "description": "Ancient Gumpha is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Thiksey, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Thiksey, Ladakh"
     ],
     "tags": [
       "lesser-known",
@@ -74,8 +137,8 @@
     "category": "heritage",
     "description": "Ancient Palace at Leh is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Leh, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Leh, Ladakh"
     ],
     "tags": [
       "lesser-known",
@@ -89,13 +152,74 @@
     "category": "heritage",
     "description": "Ancient Palace including Shrine is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Shey, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Shey, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "ane-la-ladakh",
+    "name": "Āne La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Āne La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,478 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.96478,
+      "lon": 78.73759
+    }
+  },
+  {
+    "id": "anyar-forest-ladakh",
+    "name": "Anyar Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Anyar Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.67698,
+      "lon": 75.79313
+    }
+  },
+  {
+    "id": "apan-rakh-ladakh",
+    "name": "Apan Rakh",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Apan Rakh is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.72331,
+      "lon": 75.75292
+    }
   },
   {
     "id": "apsarasas-kangri-ladakh",
@@ -108,9 +232,9 @@
       "lon": 77.14917
     },
     "facts": [
-      "Set on China–India border.",
-      "Stands at about 7,245 m elevation.",
-      "Lies in Xinjiang, Ladakh."
+      "Set on China–India border",
+      "Stands at about 7,245 m elevation",
+      "Lies in Xinjiang, Ladakh"
     ]
   },
   {
@@ -124,8 +248,49 @@
       "lon": 77.89956
     },
     "facts": [
-      "Stands at about 6,789 m elevation."
+      "Stands at about 6,789 m elevation"
     ]
+  },
+  {
+    "id": "baiwar-ladakh",
+    "name": "Baiwar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Baiwar is a peak in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a peak in Ladakh",
+      "Mapped elevation is about 3,315 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "peak"
+    ],
+    "coordinates": {
+      "lat": 34.23303,
+      "lon": 75.09473
+    }
+  },
+  {
+    "id": "baltal-forest-ladakh",
+    "name": "Bāltal Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Bāltal Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.24633,
+      "lon": 75.42379
+    }
   },
   {
     "id": "bardan-monastery-ladakh",
@@ -141,8 +306,50 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Zanskar district, Ladakh."
+      "Lies in Zanskar district, Ladakh"
     ]
+  },
+  {
+    "id": "bardum-ladakh",
+    "name": "Bārdūm",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Bārdūm is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,537 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.53333,
+      "lon": 76.30972
+    }
+  },
+  {
+    "id": "barla-la-ladakh",
+    "name": "Barla La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Barla La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,187 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.55278,
+      "lon": 76.31389
+    }
   },
   {
     "id": "basgo-monastery-ladakh",
@@ -158,8 +365,278 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Leh district, Ladakh."
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "basmai-gali-ladakh",
+    "name": "Basmai Gali",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Basmai Gali is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,301 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.25017,
+      "lon": 75.26059
+    }
+  },
+  {
+    "id": "basmal-ladakh",
+    "name": "Basmal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Basmal is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,685 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.23349,
+      "lon": 75.2329
+    }
+  },
+  {
+    "id": "baug-forest-ladakh",
+    "name": "Baug Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Baug Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.39062,
+      "lon": 76.3208
+    }
+  },
+  {
+    "id": "bhairo-bal-ladakh",
+    "name": "Bhairo Bāl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Bhairo Bāl is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,406 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 34.20173,
+      "lon": 75.5252
+    }
+  },
+  {
+    "id": "bhairo-ghati-pass-ladakh",
+    "name": "Bhairo Ghāti Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Bhairo Ghāti Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,350 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.20759,
+      "lon": 75.50924
+    }
+  },
+  {
+    "id": "biamocheni-gob-ladakh",
+    "name": "Biāmocheni Gob",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Biāmocheni Gob is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,211 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.57639,
+      "lon": 76.31667
+    }
+  },
+  {
+    "id": "boizardin-la-ladakh",
+    "name": "Boizardin La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Boizardin La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,217 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.60312,
+      "lon": 79.08778
+    }
+  },
+  {
+    "id": "bonothombo-ladakh",
+    "name": "Bonothombo",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Bonothombo is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,383 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.625,
+      "lon": 76.37222
+    }
+  },
+  {
+    "id": "borkhur-forest-ladakh",
+    "name": "Bōrkhūr Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Bōrkhūr Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.97788,
+      "lon": 75.53056
+    }
+  },
+  {
+    "id": "borsar-ladakh",
+    "name": "Borsar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Borsar is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,222 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.9239,
+      "lon": 75.47762
+    }
+  },
+  {
+    "id": "bot-kulan-ganj-pass-ladakh",
+    "name": "Bot Kulan Ganj Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Bot Kulan Ganj Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,496 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.37774,
+      "lon": 75.37809
+    }
+  },
+  {
+    "id": "brammah-ladakh",
+    "name": "Brammah",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Brammah is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 5,339 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.45613,
+      "lon": 76.08164
+    }
+  },
+  {
+    "id": "brunikhur-forest-ladakh",
+    "name": "Brūnikhūr Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Brūnikhūr Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.92726,
+      "lon": 75.55455
+    }
   },
   {
     "id": "buddhist-monastery-ladakh",
@@ -168,13 +645,116 @@
     "category": "spiritual",
     "description": "Buddhist Monastery is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Lamayuru, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Lamayuru, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "buna-saribel-forest-ladakh",
+    "name": "Buna Saribel Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Buna Saribel Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.26633,
+      "lon": 75.34689
+    }
+  },
+  {
+    "id": "bur-dalau-ladakh",
+    "name": "Bur Dalau",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Bur Dalau is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,959 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.15165,
+      "lon": 75.34414
+    }
+  },
+  {
+    "id": "burzagur-ladakh",
+    "name": "Burzagūr",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Burzagūr is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,073 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.80464,
+      "lon": 75.71347
+    }
+  },
+  {
+    "id": "buttress-peak-ladakh",
+    "name": "Buttress Peak",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Buttress Peak is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,951 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.1509,
+      "lon": 75.32822
+    }
+  },
+  {
+    "id": "central-asian-museum-ladakh",
+    "name": "Central Asian Museum",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Central Asian Museum is a museum in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 34.16531,
+      "lon": 77.58478
+    }
   },
   {
     "id": "chadar-trek-ladakh",
@@ -187,8 +767,28 @@
       "lon": 77.2105
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "chagar-tso-ladakh",
+    "name": "Chagar Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chagar Tso is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.00011,
+      "lon": 78.33952
+    }
   },
   {
     "id": "chakula-ladakh",
@@ -201,8 +801,49 @@
       "lon": 78.44156
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "chamkang-ladakh",
+    "name": "Chāmkang",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chāmkang is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 6,083 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.42339,
+      "lon": 79.22659
+    }
+  },
+  {
+    "id": "chanda-sar-ladakh",
+    "name": "Chanda Sar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chanda Sar is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.15675,
+      "lon": 75.11363
+    }
   },
   {
     "id": "chang-chenmo-kangri-ladakh",
@@ -215,8 +856,71 @@
       "lon": 78.65844
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "chang-la-ladakh",
+    "name": "Chang La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chang La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,303 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.04399,
+      "lon": 77.92751
+    }
+  },
+  {
+    "id": "changlung-barma-la-ladakh",
+    "name": "Changlung Barma La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Changlung Barma La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,732 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.55266,
+      "lon": 78.98488
+    }
+  },
+  {
+    "id": "changlung-la-ladakh",
+    "name": "Changlung La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Changlung La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,744 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.58483,
+      "lon": 78.7071
+    }
   },
   {
     "id": "changthang-wildlife-sanctuary-ladakh",
@@ -232,8 +936,29 @@
       "wildlife-sanctuary"
     ],
     "facts": [
-      "Lies in Leh district, Ladakh."
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "chapra-ladakh",
+    "name": "Chaprā",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chaprā is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,474 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.45395,
+      "lon": 76.25592
+    }
   },
   {
     "id": "charbagh-kangri-ladakh",
@@ -246,8 +971,29 @@
       "lon": 78.28723
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "charding-la-ladakh",
+    "name": "Charding La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Charding La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,828 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.53333,
+      "lon": 79.41667
+    }
   },
   {
     "id": "chemrey-monastery-ladakh",
@@ -263,8 +1009,92 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Leh, Ladakh."
+      "Lies in Leh, Ladakh"
     ]
+  },
+  {
+    "id": "cherisar-ladakh",
+    "name": "Cherisar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Cherisar is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,384 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.83124,
+      "lon": 75.60451
+    }
+  },
+  {
+    "id": "chhillo-phia-ladakh",
+    "name": "Chhillo Phia",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chhillo Phia is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,250 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.53333,
+      "lon": 75.33333
+    }
+  },
+  {
+    "id": "chhumanai-gali-ladakh",
+    "name": "Chhumanai Gali",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chhumanai Gali is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 3,951 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.13688,
+      "lon": 75.19434
+    }
+  },
+  {
+    "id": "chhut-ladakh",
+    "name": "Chhut",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chhut is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,201 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.16507,
+      "lon": 75.45718
+    }
   },
   {
     "id": "chiktan-ladakh",
@@ -280,7 +1110,7 @@
       "fort"
     ],
     "facts": [
-      "Lies in Kargil district, Ladakh."
+      "Lies in Kargil district, Ladakh"
     ]
   },
   {
@@ -294,9 +1124,30 @@
       "lon": 76.16222
     },
     "facts": [
-      "Stands at about 6,349 m elevation.",
-      "Lies in Jammu and Kashmir, Ladakh."
+      "Stands at about 6,349 m elevation",
+      "Lies in Jammu and Kashmir, Ladakh"
     ]
+  },
+  {
+    "id": "chilung-la-ladakh",
+    "name": "Chilung La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chilung La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,343 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.86127,
+      "lon": 76.19191
+    }
   },
   {
     "id": "chong-kumdang-ri-ladakh",
@@ -309,8 +1160,71 @@
       "lon": 77.58528
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "chong-kundam-kangri-ii-ladakh",
+    "name": "Chong Kundam Kangri II",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chong Kundam Kangri II is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 6,896 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 35.19534,
+      "lon": 77.53906
+    }
+  },
+  {
+    "id": "chorbat-la-ladakh",
+    "name": "Chorbat La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chorbat La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,104 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.75381,
+      "lon": 76.58719
+    }
+  },
+  {
+    "id": "chumik-ladakh",
+    "name": "Chumik",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Chumik is a hill in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Ladakh",
+      "Mapped elevation is about 5,625 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 32.73241,
+      "lon": 78.30538
+    }
   },
   {
     "id": "chutak-hydroelectric-plant-ladakh",
@@ -323,8 +1237,194 @@
       "lon": 76.07444
     },
     "facts": [
-      "Lies in Kargil district, Ladakh."
+      "Lies in Kargil district, Ladakh"
     ]
+  },
+  {
+    "id": "dachinhal-forest-ladakh",
+    "name": "Dachīnhāl Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dachīnhāl Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.76273,
+      "lon": 75.72098
+    }
+  },
+  {
+    "id": "dadiwan-forest-ladakh",
+    "name": "Dadiwan Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dadiwan Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.93816,
+      "lon": 75.51026
+    }
+  },
+  {
+    "id": "dadwar-ladakh",
+    "name": "Dadwār",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dadwār is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,490 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.07572,
+      "lon": 75.31964
+    }
+  },
+  {
+    "id": "danderan-guru-ladakh",
+    "name": "Dānderan Guru",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dānderan Guru is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,318 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.12825,
+      "lon": 75.39416
+    }
+  },
+  {
+    "id": "dangarhel-ladakh",
+    "name": "Dängarhel",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dängarhel is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,651 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.7051,
+      "lon": 75.79909
+    }
+  },
+  {
+    "id": "dantsun-forest-ladakh",
+    "name": "Dantsūn Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dantsūn Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.93588,
+      "lon": 75.52373
+    }
+  },
+  {
+    "id": "dehra-la-ladakh",
+    "name": "Dehra La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dehra La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,412 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.89979,
+      "lon": 78.72514
+    }
+  },
+  {
+    "id": "deo-masjid-ladakh",
+    "name": "Deo Masjid",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Deo Masjid is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,289 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.16976,
+      "lon": 75.1183
+    }
+  },
+  {
+    "id": "digar-la-ladakh",
+    "name": "Digar La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Digar La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,305 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.21793,
+      "lon": 77.70324
+    }
   },
   {
     "id": "diskit-ladakh",
@@ -337,7 +1437,7 @@
       "lon": 77.54848
     },
     "facts": [
-      "Lies in Nubra Valley, Ladakh."
+      "Lies in Nubra Valley, Ladakh"
     ]
   },
   {
@@ -354,8 +1454,48 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Nubra Valley, Ladakh."
+      "Lies in Nubra Valley, Ladakh"
     ]
+  },
+  {
+    "id": "doda-sar-ladakh",
+    "name": "Doda Sar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Doda Sar is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.22736,
+      "lon": 75.22475
+    }
+  },
+  {
+    "id": "domal-forest-ladakh",
+    "name": "Domal Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Domal Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.22939,
+      "lon": 75.41191
+    }
   },
   {
     "id": "drigung-kagyud-zhadpa-dorjeeling-nunnery-ladakh",
@@ -368,8 +1508,90 @@
       "lon": 76.57185
     },
     "facts": [
-      "Known as a tourism destination in Ladakh."
+      "Known as a tourism destination in Ladakh"
     ]
+  },
+  {
+    "id": "dudhnag-ladakh",
+    "name": "Dudhnāg",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dudhnāg is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,691 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.17427,
+      "lon": 75.30976
+    }
+  },
+  {
+    "id": "dujwas-ladakh",
+    "name": "Dujwās",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dujwās is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,395 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.82001,
+      "lon": 75.73007
+    }
+  },
+  {
+    "id": "dund-forest-ladakh",
+    "name": "Dund Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Dund Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.66234,
+      "lon": 75.85016
+    }
+  },
+  {
+    "id": "durinar-lake-ladakh",
+    "name": "Durinar Lake",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Durinar Lake is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.23611,
+      "lon": 75.3275
+    }
   },
   {
     "id": "dzongkhul-monastery-ladakh",
@@ -385,8 +1607,71 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Zanskar district, Ladakh."
+      "Lies in Zanskar district, Ladakh"
     ]
+  },
+  {
+    "id": "fotu-la-ladakh",
+    "name": "Fotu La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Fotu La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,020 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.28737,
+      "lon": 76.7047
+    }
+  },
+  {
+    "id": "gagartal-ladakh",
+    "name": "Gāgartal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gāgartal is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,105 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.85768,
+      "lon": 75.55464
+    }
+  },
+  {
+    "id": "ganj-ladakh",
+    "name": "Ganj",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Ganj is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,418 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.2691,
+      "lon": 75.25393
+    }
   },
   {
     "id": "geography-of-ladakh-ladakh",
@@ -395,8 +1680,28 @@
     "category": "nature",
     "description": "Geography of Ladakh is an aspect of geography.",
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "ghatoran-forest-ladakh",
+    "name": "Ghatōran Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Ghatōran Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.40521,
+      "lon": 76.26044
+    }
   },
   {
     "id": "ghent-kangri-ladakh",
@@ -409,8 +1714,8 @@
       "lon": 76.80028
     },
     "facts": [
-      "Stands at about 7,401 m elevation.",
-      "Lies in Gilgit-Baltistan, Ladakh."
+      "Stands at about 7,401 m elevation",
+      "Lies in Gilgit-Baltistan, Ladakh"
     ]
   },
   {
@@ -424,9 +1729,238 @@
       "lon": 77.2486
     },
     "facts": [
-      "Stands at about 5,520 m elevation.",
-      "Lies in Zanskar district, Ladakh."
+      "Stands at about 5,520 m elevation",
+      "Lies in Zanskar district, Ladakh"
     ]
+  },
+  {
+    "id": "gonhar-ladakh",
+    "name": "Gonhar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gonhar is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,620 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.11366,
+      "lon": 75.37504
+    }
+  },
+  {
+    "id": "gonher-ladakh",
+    "name": "Gonher",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gonher is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,050 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.0999,
+      "lon": 75.36032
+    }
+  },
+  {
+    "id": "goniril-chhish-ladakh",
+    "name": "Goniril Chhish",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Goniril Chhish is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,422 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 34.5804,
+      "lon": 75.30458
+    }
+  },
+  {
+    "id": "gormukh-ladakh",
+    "name": "Gormukh",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gormukh is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,655 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.65833,
+      "lon": 76.36667
+    }
+  },
+  {
+    "id": "gratinar-forest-ladakh",
+    "name": "Gratinar Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gratinar Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.95155,
+      "lon": 75.49827
+    }
+  },
+  {
+    "id": "gripches-go-ladakh",
+    "name": "Gripches Go",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gripches Go is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,706 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.61667,
+      "lon": 76.36667
+    }
+  },
+  {
+    "id": "gulol-gali-ladakh",
+    "name": "Gulol Galī",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gulol Galī is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,311 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.09792,
+      "lon": 75.53056
+    }
+  },
+  {
+    "id": "gumbar-ladakh",
+    "name": "Gumbar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gumbar is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 3,865 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.21012,
+      "lon": 75.19573
+    }
+  },
+  {
+    "id": "gumur-mal-ladakh",
+    "name": "Gumur Māl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gumur Māl is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,012 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.72944,
+      "lon": 75.76282
+    }
+  },
+  {
+    "id": "gund-forest-ladakh",
+    "name": "Gund Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gund Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.2338,
+      "lon": 75.08459
+    }
+  },
+  {
+    "id": "gur-ladakh",
+    "name": "Gur",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gur is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,414 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.56838,
+      "lon": 75.96628
+    }
   },
   {
     "id": "gurdwara-patthar-sahib-ladakh",
@@ -435,8 +1969,132 @@
     "category": "spiritual",
     "description": "Gurdwara Patthar Sahib is a gurudwaras in Ladakh, India.",
     "facts": [
-      "Known as a spiritual destination in Ladakh."
+      "Known as a spiritual destination in Ladakh"
     ]
+  },
+  {
+    "id": "guribal-ladakh",
+    "name": "Guribāl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Guribāl is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 3,305 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 34.07033,
+      "lon": 75.3547
+    }
+  },
+  {
+    "id": "gurkum-ladakh",
+    "name": "Gurkum",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gurkum is a valley in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a valley in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "valley"
+    ],
+    "coordinates": {
+      "lat": 34.06494,
+      "lon": 75.27571
+    }
+  },
+  {
+    "id": "gursaran-ladakh",
+    "name": "Gūrsaran",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gūrsaran is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,417 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.87693,
+      "lon": 75.6321
+    }
+  },
+  {
+    "id": "gutumishungi-chhish-ladakh",
+    "name": "Gūtumishungi Chhish",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Gūtumishungi Chhish is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,658 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.56667,
+      "lon": 75.33611
+    }
+  },
+  {
+    "id": "halnar-forest-ladakh",
+    "name": "Hālnār Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hālnār Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.9443,
+      "lon": 75.49812
+    }
+  },
+  {
+    "id": "hamboting-la-ladakh",
+    "name": "Hamboting La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hamboting La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,060 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.58461,
+      "lon": 76.27538
+    }
   },
   {
     "id": "hamis-gompa-ladakh",
@@ -445,13 +2103,96 @@
     "category": "spiritual",
     "description": "Hamis Gompa is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Hemis, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Hemis, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "hampathar-ladakh",
+    "name": "Hāmpathar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hāmpathar is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,695 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.22343,
+      "lon": 75.09507
+    }
+  },
+  {
+    "id": "handil-sar-ladakh",
+    "name": "Handil Sar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Handil Sar is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.20304,
+      "lon": 75.20659
+    }
+  },
+  {
+    "id": "hang-ladakh",
+    "name": "Hang",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hang is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,441 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.178,
+      "lon": 75.48267
+    }
+  },
+  {
+    "id": "hangalmarg-ladakh",
+    "name": "Hangalmarg",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hangalmarg is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,113 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.15473,
+      "lon": 75.08745
+    }
   },
   {
     "id": "hanle-monastery-ladakh",
@@ -467,8 +2208,70 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Leh district, Ladakh."
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "har-nag-ladakh",
+    "name": "Har Näg",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Har Näg is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.13869,
+      "lon": 75.37942
+    }
+  },
+  {
+    "id": "hari-gati-ladakh",
+    "name": "Hari Gati",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hari Gati is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 3,775 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.12976,
+      "lon": 75.37068
+    }
+  },
+  {
+    "id": "harong-la-ladakh",
+    "name": "Harong La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Harong La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,508 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.93194,
+      "lon": 78.25232
+    }
   },
   {
     "id": "hemis-monastery-ladakh",
@@ -484,11 +2287,11 @@
       "monastery"
     ],
     "facts": [
-      "Opened in 1672.",
-      "Recognised as Monument of National Importance.",
-      "Founded by Sengge Namgyal.",
-      "Associated with Drukpa Lineage.",
-      "Lies in Leh district, Ladakh."
+      "Opened in 1672",
+      "Recognised as Monument of National Importance",
+      "Founded by Sengge Namgyal",
+      "Associated with Drukpa Lineage",
+      "Lies in Leh district, Ladakh"
     ]
   },
   {
@@ -505,10 +2308,114 @@
       "national-park"
     ],
     "facts": [
-      "Dates from 1981.",
-      "Covers about 4,100 km².",
-      "Lies in Leh district, Ladakh."
+      "Dates from 1981",
+      "Covers about 4,100 km²",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "hiurbagwan-gulu-ladakh",
+    "name": "Hiurbagwan Gulu",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hiurbagwan Gulu is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,296 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.13691,
+      "lon": 75.40147
+    }
+  },
+  {
+    "id": "hiurbagwan-ladakh",
+    "name": "Hiurbagwan",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hiurbagwan is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,657 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.20093,
+      "lon": 75.36208
+    }
+  },
+  {
+    "id": "hoka-sar-ladakh",
+    "name": "Hoka Sar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hoka Sar is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.16028,
+      "lon": 75.09824
+    }
+  },
+  {
+    "id": "hoksar-gali-ladakh",
+    "name": "Hōksar Gali",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hōksar Gali is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,390 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.17413,
+      "lon": 75.29732
+    }
+  },
+  {
+    "id": "hoksar-ladakh",
+    "name": "Hoksar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hoksar is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,382 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.00501,
+      "lon": 75.57627
+    }
   },
   {
     "id": "hongshan-lake-ladakh",
@@ -524,8 +2431,29 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "horlam-la-ladakh",
+    "name": "Horlam La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Horlam La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,947 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.19993,
+      "lon": 78.00222
+    }
   },
   {
     "id": "hundur-monastery-ladakh",
@@ -541,8 +2469,29 @@
       "monastery"
     ],
     "facts": [
-      "Known as a spiritual destination in Ladakh."
+      "Known as a spiritual destination in Ladakh"
     ]
+  },
+  {
+    "id": "imis-la-ladakh",
+    "name": "Imis La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Imis La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,271 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.38198,
+      "lon": 79.01727
+    }
   },
   {
     "id": "indus-river-ladakh",
@@ -551,8 +2500,91 @@
     "category": "nature",
     "description": "Indus River is a river in Asia.",
     "facts": [
-      "Lies in Punjab, Ladakh."
+      "Lies in Punjab, Ladakh"
     ]
+  },
+  {
+    "id": "jabbal-ladakh",
+    "name": "Jabbal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Jabbal is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,735 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.87233,
+      "lon": 75.72733
+    }
+  },
+  {
+    "id": "jama-masjid-padum-ladakh",
+    "name": "Jama Masjid, Padum",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Jama Masjid, Padum is a mosque in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a mosque in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mosque"
+    ],
+    "coordinates": {
+      "lat": 33.46262,
+      "lon": 76.87961
+    }
+  },
+  {
+    "id": "jara-la-ladakh",
+    "name": "Jara La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Jara La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,513 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.78333,
+      "lon": 79.58333
+    }
+  },
+  {
+    "id": "jarog-ladakh",
+    "name": "Jarog",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Jarog is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,903 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.6,
+      "lon": 75.08333
+    }
   },
   {
     "id": "k12-mountain-ladakh",
@@ -565,8 +2597,91 @@
       "lon": 76.98528
     },
     "facts": [
-      "Stands at about 7,428 m elevation."
+      "Stands at about 7,428 m elevation"
     ]
+  },
+  {
+    "id": "kakstet-la-ladakh",
+    "name": "Kakstet La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kakstet La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,543 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.45536,
+      "lon": 78.54358
+    }
+  },
+  {
+    "id": "kaldang-kildang-la-ladakh",
+    "name": "Kāldang Kildang La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kāldang Kildang La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,073 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.52917,
+      "lon": 76.36111
+    }
+  },
+  {
+    "id": "kallan-ladakh",
+    "name": "Kallan",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kallan is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,018 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.18465,
+      "lon": 75.26291
+    }
+  },
+  {
+    "id": "kanari-forest-ladakh",
+    "name": "Kanāri Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kanāri Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.37521,
+      "lon": 76.01641
+    }
   },
   {
     "id": "kang-yatze-ladakh",
@@ -579,7 +2694,7 @@
       "lon": 77.55694
     },
     "facts": [
-      "Stands at about 6,400 m elevation."
+      "Stands at about 6,400 m elevation"
     ]
   },
   {
@@ -593,9 +2708,70 @@
       "lon": 78.5283
     },
     "facts": [
-      "Part of Pangong Range.",
-      "Stands at about 6,725 m elevation."
+      "Part of Pangong Range",
+      "Stands at about 6,725 m elevation"
     ]
+  },
+  {
+    "id": "kaobai-gali-ladakh",
+    "name": "Kāobāi Gali",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kāobāi Gali is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,121 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.46961,
+      "lon": 75.35594
+    }
+  },
+  {
+    "id": "kar-tso-ladakh",
+    "name": "Kar Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kar Tso is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 33.30944,
+      "lon": 77.99845
+    }
+  },
+  {
+    "id": "kardi-forest-ladakh",
+    "name": "Kārdi Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kārdi Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.46861,
+      "lon": 75.97282
+    }
   },
   {
     "id": "kargil-ladakh",
@@ -612,10 +2788,10 @@
       "museum"
     ],
     "facts": [
-      "Dates from 1 July 1979.",
-      "Stands at about 2,676 m elevation.",
-      "Covers about 14,086 km².",
-      "Lies in Kargil district, Ladakh."
+      "Dates from 1 July 1979",
+      "Stands at about 2,676 m elevation",
+      "Covers about 14,086 km²",
+      "Lies in Kargil district, Ladakh"
     ]
   },
   {
@@ -629,8 +2805,29 @@
       "lon": 75.80581
     },
     "facts": [
-      "Known as a heritage destination in Ladakh."
+      "Known as a heritage destination in Ladakh"
     ]
+  },
+  {
+    "id": "karobai-gali-ladakh",
+    "name": "Kārobai Gali",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kārobai Gali is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,149 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.62734,
+      "lon": 75.24923
+    }
   },
   {
     "id": "karsha-ladakh-ladakh",
@@ -643,7 +2840,7 @@
       "lon": 76.8286
     },
     "facts": [
-      "Known as a tourism destination in Ladakh."
+      "Known as a tourism destination in Ladakh"
     ]
   },
   {
@@ -661,8 +2858,28 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Kargil district, Ladakh."
+      "Lies in Kargil district, Ladakh"
     ]
+  },
+  {
+    "id": "karzok-gompa-ladakh",
+    "name": "Karzok Gömpa",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Karzok Gömpa is a monastery in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a monastery in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "monastery"
+    ],
+    "coordinates": {
+      "lat": 33.0,
+      "lon": 78.25
+    }
   },
   {
     "id": "kataklik-kangri-ladakh",
@@ -675,8 +2892,193 @@
       "lon": 78.20833
     },
     "facts": [
-      "Stands at about 6,876 m elevation."
+      "Stands at about 6,876 m elevation"
     ]
+  },
+  {
+    "id": "katora-forest-ladakh",
+    "name": "Katōra Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Katōra Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.41935,
+      "lon": 76.00304
+    }
+  },
+  {
+    "id": "kaupal-ladakh",
+    "name": "Kaupal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kaupal is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,487 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.91066,
+      "lon": 75.6082
+    }
+  },
+  {
+    "id": "kawandandu-forest-ladakh",
+    "name": "Kāwāndandu Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kāwāndandu Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.76554,
+      "lon": 75.71111
+    }
+  },
+  {
+    "id": "kazim-pahalin-bal-ladakh",
+    "name": "Kāzim Pahalin Bāl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kāzim Pahalin Bāl is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,580 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 34.23846,
+      "lon": 75.29646
+    }
+  },
+  {
+    "id": "kelnar-ladakh",
+    "name": "Kelnār",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kelnār is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,631 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.15321,
+      "lon": 75.46327
+    }
+  },
+  {
+    "id": "kepsang-la-ladakh",
+    "name": "Kepsang La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kepsang La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,676 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.28333,
+      "lon": 79.5
+    }
+  },
+  {
+    "id": "kerbal-ladakh",
+    "name": "Kērbāl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kērbāl is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 2,928 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.39124,
+      "lon": 76.01088
+    }
+  },
+  {
+    "id": "khabu-forest-ladakh",
+    "name": "Khabu Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Khabu Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.39171,
+      "lon": 76.28724
+    }
+  },
+  {
+    "id": "khanakhari-jel-forest-ladakh",
+    "name": "Khanakhari Jel Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Khanakhari Jel Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.50278,
+      "lon": 75.29167
+    }
   },
   {
     "id": "khardung-la-ladakh",
@@ -689,8 +3091,359 @@
       "lon": 77.60417
     },
     "facts": [
-      "Stands at about 5,359 m elevation."
+      "Stands at about 5,359 m elevation"
     ]
+  },
+  {
+    "id": "kharihal-ladakh",
+    "name": "Khārihāl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Khārihāl is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,556 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.51408,
+      "lon": 75.9965
+    }
+  },
+  {
+    "id": "khinor-forest-ladakh",
+    "name": "Khinōr Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Khinōr Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.41377,
+      "lon": 76.32906
+    }
+  },
+  {
+    "id": "khitai-dawan-ladakh",
+    "name": "Khitai Dawān",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Khitai Dawān is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,831 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 35.54887,
+      "lon": 79.51898
+    }
+  },
+  {
+    "id": "khumil-gri-ladakh",
+    "name": "Khumil Gri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Khumil Gri is a peak in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a peak in Ladakh",
+      "Mapped elevation is about 6,375 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "peak"
+    ],
+    "coordinates": {
+      "lat": 35.64242,
+      "lon": 76.54689
+    }
+  },
+  {
+    "id": "khurnak-fort-ladakh",
+    "name": "Khurnak Fort",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Khurnak Fort is a ruin in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ruin in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "archaeological-site"
+    ],
+    "coordinates": {
+      "lat": 33.76531,
+      "lon": 78.98883
+    }
+  },
+  {
+    "id": "kiagar-la-ladakh",
+    "name": "Kiāgar La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kiāgar La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,837 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.14633,
+      "lon": 78.35975
+    }
+  },
+  {
+    "id": "kiagar-tso-ladakh",
+    "name": "Kiāgar Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kiāgar Tso is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 33.1069,
+      "lon": 78.30427
+    }
+  },
+  {
+    "id": "kinari-darkash-dob-pass-ladakh",
+    "name": "Kināri Darkash Dob Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kināri Darkash Dob Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,556 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.47431,
+      "lon": 75.26585
+    }
+  },
+  {
+    "id": "kinari-darkush-chhish-ladakh",
+    "name": "Kināri Darkūsh Chhish",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kināri Darkūsh Chhish is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,694 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.43875,
+      "lon": 75.32211
+    }
+  },
+  {
+    "id": "kokurun-forest-ladakh",
+    "name": "Kokurun Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kokurun Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.28241,
+      "lon": 75.34196
+    }
+  },
+  {
+    "id": "kolahoi-ladakh",
+    "name": "Kolahoi",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kolahoi is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 5,086 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.16584,
+      "lon": 75.32855
+    }
+  },
+  {
+    "id": "kon-nag-ladakh",
+    "name": "Kōn Nāg",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kōn Nāg is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.03714,
+      "lon": 75.4734
+    }
+  },
+  {
+    "id": "kone-la-ladakh",
+    "name": "Kone La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kone La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,457 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.16316,
+      "lon": 79.43644
+    }
+  },
+  {
+    "id": "kongka-la-ladakh",
+    "name": "Kongka La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kongka La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,171 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.335,
+      "lon": 79.03528
+    }
+  },
+  {
+    "id": "konka-la-ladakh",
+    "name": "Konka La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Konka La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,197 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.84187,
+      "lon": 79.67766
+    }
+  },
+  {
+    "id": "korapatnar-ladakh",
+    "name": "Korapatnar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Korapatnar is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,565 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.09173,
+      "lon": 75.34277
+    }
+  },
+  {
+    "id": "koronlompa-forest-ladakh",
+    "name": "Korōnlōmpa Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Korōnlōmpa Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.43415,
+      "lon": 76.30984
+    }
   },
   {
     "id": "korzok-monastery-ladakh",
@@ -706,8 +3459,112 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Korzok, Ladakh."
+      "Lies in Korzok, Ladakh"
     ]
+  },
+  {
+    "id": "kotho-phia-ladakh",
+    "name": "Kotho Phia",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kotho Phia is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,516 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.50833,
+      "lon": 75.30278
+    }
+  },
+  {
+    "id": "kralsar-pass-ladakh",
+    "name": "Krālsar Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Krālsar Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,325 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.94232,
+      "lon": 75.66266
+    }
+  },
+  {
+    "id": "krat-ladakh",
+    "name": "Krāt",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Krāt is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,506 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.90856,
+      "lon": 75.5773
+    }
+  },
+  {
+    "id": "kukyan-ladakh",
+    "name": "Kukyan",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kukyan is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 2,841 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.0394,
+      "lon": 75.28513
+    }
+  },
+  {
+    "id": "kulan-forest-ladakh",
+    "name": "Kulan Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kulan Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.23768,
+      "lon": 75.16885
+    }
   },
   {
     "id": "kunchang-kangri-ladakh",
@@ -720,7 +3577,7 @@
       "lon": 77.48487
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
   },
   {
@@ -730,8 +3587,71 @@
     "category": "other",
     "description": "Kung Fu Nuns is an order of Buddhist nuns who belong to the Drukpa Lineage.",
     "facts": [
-      "Known as a tourism destination in Ladakh."
+      "Known as a tourism destination in Ladakh"
     ]
+  },
+  {
+    "id": "kungi-la-ladakh",
+    "name": "Kungi La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kungi La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,155 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.10562,
+      "lon": 76.5261
+    }
+  },
+  {
+    "id": "kunyirhayan-ladakh",
+    "name": "Kunyīrhāyan",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kunyīrhāyan is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,975 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.04214,
+      "lon": 75.51572
+    }
+  },
+  {
+    "id": "kuthal-ladakh",
+    "name": "Kuthal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kuthal is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 5,173 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.40825,
+      "lon": 76.20284
+    }
   },
   {
     "id": "kyago-tso-ladakh",
@@ -747,9 +3667,50 @@
       "lake"
     ],
     "facts": [
-      "Stands at about 4,671 m elevation.",
-      "Lies in Leh district, Ladakh."
+      "Stands at about 4,671 m elevation",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "kyun-tso-ladakh",
+    "name": "Kyun Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kyun Tso is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 32.92129,
+      "lon": 78.60177
+    }
+  },
+  {
+    "id": "kyungzing-la-ladakh",
+    "name": "Kyungzing La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kyungzing La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,514 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.61139,
+      "lon": 78.78
+    }
   },
   {
     "id": "la-yongma-ri-ladakh",
@@ -762,8 +3723,50 @@
       "lon": 77.14833
     },
     "facts": [
-      "Stands at about 6,826 m elevation."
+      "Stands at about 6,826 m elevation"
     ]
+  },
+  {
+    "id": "lachalung-la-ladakh",
+    "name": "Lāchālūng La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lāchālūng La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,052 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.10432,
+      "lon": 77.62985
+    }
+  },
+  {
+    "id": "lad-ladakh",
+    "name": "Lad",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lad is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,001 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.84807,
+      "lon": 75.74892
+    }
   },
   {
     "id": "ladakh-marathon-ladakh",
@@ -772,8 +3775,49 @@
     "category": "other",
     "description": "Ladakh Marathon is a marathon held in Leh, a town in the Ladakh region of India.",
     "facts": [
-      "Known as a tourism destination in Ladakh."
+      "Known as a tourism destination in Ladakh"
     ]
+  },
+  {
+    "id": "lagma-go-ladakh",
+    "name": "Lāgma Go",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lāgma Go is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,029 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.60278,
+      "lon": 76.36389
+    }
+  },
+  {
+    "id": "lam-tso-ladakh",
+    "name": "Lam Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lam Tso is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 32.74734,
+      "lon": 78.5246
+    }
   },
   {
     "id": "lamayuru-monastery-ladakh",
@@ -789,10 +3833,31 @@
       "monastery"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Founded by Naropa.",
-      "Lies in Leh district, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Founded by Naropa",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "lamzo-la-ladakh",
+    "name": "Lamzo La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lamzo La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,953 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.04925,
+      "lon": 78.48101
+    }
   },
   {
     "id": "leh-ladakh",
@@ -809,10 +3874,10 @@
       "mosque"
     ],
     "facts": [
-      "Dates from the 8th century.",
-      "Stands at about 3,500 m elevation.",
-      "Covers about 45,110 km².",
-      "Lies in Leh district, Ladakh."
+      "Dates from the 8th century",
+      "Stands at about 3,500 m elevation",
+      "Covers about 45,110 km²",
+      "Lies in Leh district, Ladakh"
     ]
   },
   {
@@ -829,9 +3894,51 @@
       "palace"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Leh district, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "lenak-la-ladakh",
+    "name": "Lenak La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lenak La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,567 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.78872,
+      "lon": 78.67572
+    }
+  },
+  {
+    "id": "lhor-ladakh",
+    "name": "Lhōr",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lhōr is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 2,871 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.5403,
+      "lon": 75.93265
+    }
   },
   {
     "id": "likir-monastery-ladakh-q4261502",
@@ -847,11 +3954,11 @@
       "monastery"
     ],
     "facts": [
-      "Dates from 1065.",
-      "Recognised as Monument of National Importance.",
-      "Lies in Leh district, Ladakh.",
-      "Recognised as a State Protected Monument.",
-      "Lies in Likir, Ladakh."
+      "Dates from 1065",
+      "Recognised as Monument of National Importance",
+      "Lies in Leh district, Ladakh",
+      "Recognised as a State Protected Monument",
+      "Lies in Likir, Ladakh"
     ]
   },
   {
@@ -868,9 +3975,113 @@
       "monastery"
     ],
     "facts": [
-      "Dates from 1440.",
-      "Lies in Leh district, Ladakh."
+      "Dates from 1440",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "lokina-forest-ladakh",
+    "name": "Lokina Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lokina Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.43708,
+      "lon": 76.34266
+    }
+  },
+  {
+    "id": "lolikhai-ladakh",
+    "name": "Lolikhāi",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lolikhāi is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,232 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.63056,
+      "lon": 75.10556
+    }
+  },
+  {
+    "id": "ludaraka-ladakh",
+    "name": "Ludaraka",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Ludaraka is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,133 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.75909,
+      "lon": 75.74239
+    }
+  },
+  {
+    "id": "ludarwas-ladakh",
+    "name": "Ludarwas",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Ludarwas is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,665 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.32904,
+      "lon": 75.28125
+    }
+  },
+  {
+    "id": "lumkang-la-ladakh",
+    "name": "Lumkang La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Lumkang La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,769 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.44417,
+      "lon": 79.14832
+    }
   },
   {
     "id": "magnetic-hill-india-ladakh",
@@ -883,7 +4094,7 @@
       "lon": 77.3525
     },
     "facts": [
-      "Known as a tourism destination in Ladakh."
+      "Known as a tourism destination in Ladakh"
     ]
   },
   {
@@ -897,8 +4108,29 @@
       "lon": 77.2175
     },
     "facts": [
-      "Stands at about 6,940 m elevation."
+      "Stands at about 6,940 m elevation"
     ]
+  },
+  {
+    "id": "makneli-ladakh",
+    "name": "Makneli",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Makneli is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,976 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.56944,
+      "lon": 75.275
+    }
   },
   {
     "id": "mamostong-kangri-ladakh",
@@ -911,8 +4143,48 @@
       "lon": 77.5775
     },
     "facts": [
-      "Stands at about 7,516 m elevation."
+      "Stands at about 7,516 m elevation"
     ]
+  },
+  {
+    "id": "manar-forest-ladakh",
+    "name": "Mānar Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mānar Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.877,
+      "lon": 75.55308
+    }
+  },
+  {
+    "id": "mandangulu-forest-ladakh",
+    "name": "Mandangulu Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mandangulu Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.70801,
+      "lon": 75.75648
+    }
   },
   {
     "id": "mangyu-temple-complex-ladakh",
@@ -928,9 +4200,134 @@
       "temple"
     ],
     "facts": [
-      "Dates from the 1st century.",
-      "Lies in Leh district, Ladakh."
+      "Dates from the 1st century",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "mantha-la-ladakh",
+    "name": "Mantha La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mantha La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,170 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.58611,
+      "lon": 76.33056
+    }
+  },
+  {
+    "id": "mapo-tang-ladakh",
+    "name": "Mapo Tāng",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mapo Tāng is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,964 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 35.38432,
+      "lon": 79.14034
+    }
+  },
+  {
+    "id": "mar-sar-ladakh",
+    "name": "Mār Sar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mār Sar is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.14519,
+      "lon": 75.11112
+    }
+  },
+  {
+    "id": "marang-la-ladakh",
+    "name": "Marang La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Marang La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,329 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.1531,
+      "lon": 77.56641
+    }
+  },
+  {
+    "id": "marsimik-la-ladakh",
+    "name": "Mārsimik La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mārsimik La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,583 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.09327,
+      "lon": 78.61768
+    }
+  },
+  {
+    "id": "mashran-bal-ladakh",
+    "name": "Mashran Bal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mashran Bal is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,656 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 34.18122,
+      "lon": 75.58705
+    }
   },
   {
     "id": "matho-monastery-ladakh",
@@ -946,8 +4343,90 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Leh district, Ladakh."
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "mentok-ladakh",
+    "name": "Mentok",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mentok is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 6,065 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 32.93651,
+      "lon": 78.18232
+    }
+  },
+  {
+    "id": "metwan-forest-ladakh",
+    "name": "Mētwan Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mētwan Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.69323,
+      "lon": 75.8411
+    }
+  },
+  {
+    "id": "mitpal-tso-ladakh",
+    "name": "Mitpal Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mitpal Tso is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 33.46515,
+      "lon": 78.61174
+    }
+  },
+  {
+    "id": "moskhilnar-ladakh",
+    "name": "Mōskhilnār",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mōskhilnār is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,556 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.91045,
+      "lon": 75.6515
+    }
   },
   {
     "id": "mount-kun-ladakh",
@@ -960,8 +4439,8 @@
       "lon": 76.05684
     },
     "facts": [
-      "Part of Nun-Kun Massif.",
-      "Stands at about 7,077 m elevation."
+      "Part of Nun-Kun Massif",
+      "Stands at about 7,077 m elevation"
     ]
   },
   {
@@ -978,23 +4457,44 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Kargil district, Ladakh."
+      "Lies in Kargil district, Ladakh"
     ]
   },
   {
     "id": "mulbekh-monastery-mulbekh-chamba-rock-cut-cliff-face-statue-of-buddha-rock-cut-four-armed-bodhisatva-ladakh",
-    "name": "[[Mulbekh Monastery#Mulbekh Chamba: Rock-cut cliff-face statue of Buddha|Rock cut Four Armed Bodhisatva]]",
+    "name": "Rock cut Four Armed Bodhisatva",
     "state": "Ladakh",
     "category": "spiritual",
-    "description": "[[Mulbekh Monastery#Mulbekh Chamba: Rock-cut cliff-face statue of Buddha|Rock cut Four Armed Bodhisatva]] is a protected monument in Ladakh, India.",
+    "description": "Rock cut Four Armed Bodhisatva is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Mulbekh, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Mulbekh, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "muldaiau-ladakh",
+    "name": "Mūldaiau",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Mūldaiau is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,611 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.96471,
+      "lon": 75.64828
+    }
   },
   {
     "id": "munshi-aziz-bhat-museum-of-central-asian-and-kargil-trade-artefacts-ladakh",
@@ -1010,9 +4510,69 @@
       "museum"
     ],
     "facts": [
-      "Dates from 2004.",
-      "Lies in Kargil, Ladakh."
+      "Dates from 2004",
+      "Lies in Kargil, Ladakh"
     ]
+  },
+  {
+    "id": "muthili-forest-ladakh",
+    "name": "Muthili Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Muthili Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.40295,
+      "lon": 76.25447
+    }
+  },
+  {
+    "id": "nagbal-ladakh",
+    "name": "Nāgbal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nāgbal is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 33.74684,
+      "lon": 75.90642
+    }
+  },
+  {
+    "id": "nagdal-ladakh",
+    "name": "Nāgdal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nāgdal is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 33.39993,
+      "lon": 76.15864
+    }
   },
   {
     "id": "namgyal-dynasty-of-ladakh-ladakh",
@@ -1024,7 +4584,7 @@
       "palace"
     ],
     "facts": [
-      "Known as a heritage destination in Ladakh."
+      "Known as a heritage destination in Ladakh"
     ]
   },
   {
@@ -1041,8 +4601,8 @@
       "monastery"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Leh district, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Lies in Leh district, Ladakh"
     ]
   },
   {
@@ -1056,9 +4616,175 @@
       "lon": 77.66485
     },
     "facts": [
-      "Stands at about 5,776 m elevation.",
-      "Lies in Leh district, Ladakh."
+      "Stands at about 5,776 m elevation",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "nanth-nai-forest-ladakh",
+    "name": "Nanth Nai Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nanth Nai Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.52349,
+      "lon": 75.94694
+    }
+  },
+  {
+    "id": "natron-ladakh",
+    "name": "Nātron",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nātron is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 3,543 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 34.11437,
+      "lon": 75.35306
+    }
+  },
+  {
+    "id": "newas-ladakh",
+    "name": "Newās",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Newās is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,123 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.34992,
+      "lon": 75.26025
+    }
+  },
+  {
+    "id": "nichhang-ladakh",
+    "name": "Nichhāng",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nichhāng is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 5,257 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.1461,
+      "lon": 75.54846
+    }
+  },
+  {
+    "id": "nila-la-ladakh",
+    "name": "Nila La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nila La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,381 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.37411,
+      "lon": 77.30281
+    }
+  },
+  {
+    "id": "nilagrar-forest-ladakh",
+    "name": "Nilagrār Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nilagrār Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.29257,
+      "lon": 75.3384
+    }
+  },
+  {
+    "id": "nilkhan-gulu-ladakh",
+    "name": "Nilkhan Gulu",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Nilkhan Gulu is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 3,008 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.03611,
+      "lon": 75.36379
+    }
+  },
+  {
+    "id": "noli-dub-ladakh",
+    "name": "Noli Dūb",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Noli Dūb is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,103 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.51389,
+      "lon": 75.26111
+    }
   },
   {
     "id": "nubra-ladakh",
@@ -1071,8 +4797,8 @@
       "lon": 77.54848
     },
     "facts": [
-      "Set beside Nubra River.",
-      "Lies in Leh district, Ladakh."
+      "Set beside Nubra River",
+      "Lies in Leh district, Ladakh"
     ]
   },
   {
@@ -1082,13 +4808,53 @@
     "category": "heritage",
     "description": "Old Castle (Tsemo Hill) is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Leh, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Leh, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "old-mosque-padum-ladakh",
+    "name": "Old Mosque, Padum",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Old Mosque, Padum is a mosque in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a mosque in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mosque"
+    ],
+    "coordinates": {
+      "lat": 33.45924,
+      "lon": 76.87981
+    }
+  },
+  {
+    "id": "pachranga-forest-ladakh",
+    "name": "Pachrānga Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Pachrānga Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.26367,
+      "lon": 75.3997
+    }
   },
   {
     "id": "padmanabh-ladakh",
@@ -1101,8 +4867,29 @@
       "lon": 77.1813
     },
     "facts": [
-      "Stands at about 7,030 m elevation."
+      "Stands at about 7,030 m elevation"
     ]
+  },
+  {
+    "id": "palwas-ladakh",
+    "name": "Pālwās",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Pālwās is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,831 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.98944,
+      "lon": 75.62485
+    }
   },
   {
     "id": "pangong-tso-ladakh",
@@ -1118,10 +4905,92 @@
       "lake"
     ],
     "facts": [
-      "Stands at about 4,250 m elevation.",
-      "Covers about 690 km².",
-      "Lies in Ngari Prefecture, Ladakh."
+      "Stands at about 4,250 m elevation",
+      "Covers about 690 km²",
+      "Lies in Ngari Prefecture, Ladakh"
     ]
+  },
+  {
+    "id": "pantabaran-forest-ladakh",
+    "name": "Pāntabaran Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Pāntabaran Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.88224,
+      "lon": 75.59313
+    }
+  },
+  {
+    "id": "pensi-la-ladakh",
+    "name": "Pensi La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Pensi La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,475 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.86521,
+      "lon": 76.35773
+    }
+  },
+  {
+    "id": "petha-saribal-forest-ladakh",
+    "name": "Petha Saribal Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Petha Saribal Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.25402,
+      "lon": 75.3868
+    }
+  },
+  {
+    "id": "photi-la-ladakh",
+    "name": "Phōti La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Phōti La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,478 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.75941,
+      "lon": 79.09853
+    }
   },
   {
     "id": "phugtal-monastery-ladakh",
@@ -1137,9 +5006,29 @@
       "monastery"
     ],
     "facts": [
-      "Stands at about 3,920 m elevation.",
-      "Lies in Kargil district, Ladakh."
+      "Stands at about 3,920 m elevation",
+      "Lies in Kargil district, Ladakh"
     ]
+  },
+  {
+    "id": "phuktal-monastery-ladakh",
+    "name": "Phuktal Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Phuktal Monastery is a monastery in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a monastery in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "monastery"
+    ],
+    "coordinates": {
+      "lat": 33.26836,
+      "lon": 77.17954
+    }
   },
   {
     "id": "phyang-monastery-ladakh-q4347714",
@@ -1155,11 +5044,11 @@
       "monastery"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Associated with Drikung Kagyu.",
-      "Lies in Leh district, Ladakh.",
-      "Recognised as a State Protected Monument.",
-      "Lies in Phyang, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Associated with Drikung Kagyu",
+      "Lies in Leh district, Ladakh",
+      "Recognised as a State Protected Monument",
+      "Lies in Phyang, Ladakh"
     ]
   },
   {
@@ -1173,8 +5062,29 @@
       "lon": 76.07983
     },
     "facts": [
-      "Stands at about 6,930 m elevation."
+      "Stands at about 6,930 m elevation"
     ]
+  },
+  {
+    "id": "poat-la-ladakh",
+    "name": "Poat La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Poat La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,596 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.2844,
+      "lon": 76.72924
+    }
   },
   {
     "id": "point-5240-ladakh",
@@ -1183,7 +5093,7 @@
     "category": "nature",
     "description": "Point 5240 is a mountain peak on the Line of Control in Kashmir.",
     "facts": [
-      "Stands at about 5,240 m elevation."
+      "Stands at about 5,240 m elevation"
     ]
   },
   {
@@ -1197,7 +5107,7 @@
       "lon": 76.48111
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
   },
   {
@@ -1211,8 +5121,153 @@
       "lon": 78.19861
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "polokongka-la-ladakh",
+    "name": "Polokongka La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Polokongka La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,996 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.26469,
+      "lon": 78.18585
+    }
+  },
+  {
+    "id": "poshpathar-gulu-ladakh",
+    "name": "Poshpathar Gulu",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Poshpathar Gulu is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 3,981 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.14021,
+      "lon": 75.4498
+    }
+  },
+  {
+    "id": "prot-forest-ladakh",
+    "name": "Prōt Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Prōt Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.86695,
+      "lon": 75.56721
+    }
+  },
+  {
+    "id": "punchi-ladakh",
+    "name": "Punchi",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Punchi is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,234 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.39043,
+      "lon": 76.25701
+    }
+  },
+  {
+    "id": "qiangchenmo-ladakh",
+    "name": "Qiangchenmo",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Qiangchenmo is a valley in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a valley in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "valley"
+    ],
+    "coordinates": {
+      "lat": 34.24283,
+      "lon": 78.64309
+    }
+  },
+  {
+    "id": "qizil-dawan-ladakh",
+    "name": "Qizil Dawān",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Qizil Dawān is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,396 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 35.04716,
+      "lon": 79.12027
+    }
+  },
+  {
+    "id": "raenur-ladakh",
+    "name": "Raēnūr",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Raēnūr is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,340 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.23464,
+      "lon": 75.37822
+    }
   },
   {
     "id": "rangdum-monastery-ladakh",
@@ -1228,8 +5283,8 @@
       "monastery"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Kargil district, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Lies in Kargil district, Ladakh"
     ]
   },
   {
@@ -1239,13 +5294,117 @@
     "category": "spiritual",
     "description": "Rangdum Monastery (Shadup Dzamlinggyan) is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Rangdum, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Rangdum, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "rangmarg-pass-ladakh",
+    "name": "Rangmarg Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Rangmarg Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,531 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.97239,
+      "lon": 75.72403
+    }
+  },
+  {
+    "id": "rasi-la-ladakh",
+    "name": "Rasi La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Rasi La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,982 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.30868,
+      "lon": 76.11522
+    }
+  },
+  {
+    "id": "raul-ladakh",
+    "name": "Raul",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Raul is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,824 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.35725,
+      "lon": 76.34892
+    }
+  },
+  {
+    "id": "razdain-ladakh",
+    "name": "Rāzdaīn",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Rāzdaīn is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,534 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.13208,
+      "lon": 75.40783
+    }
+  },
+  {
+    "id": "reyil-forest-ladakh",
+    "name": "Reyil Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Reyil Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.23794,
+      "lon": 75.13185
+    }
   },
   {
     "id": "rimo-massif-ladakh",
@@ -1258,8 +5417,28 @@
       "lon": 77.36806
     },
     "facts": [
-      "Stands at about 7,385 m elevation."
+      "Stands at about 7,385 m elevation"
     ]
+  },
+  {
+    "id": "rinnai-ladakh",
+    "name": "Rinnai",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Rinnai is a valley in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a valley in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "valley"
+    ],
+    "coordinates": {
+      "lat": 33.66402,
+      "lon": 75.82671
+    }
   },
   {
     "id": "rizong-monastery-ladakh",
@@ -1275,10 +5454,51 @@
       "monastery"
     ],
     "facts": [
-      "Dates from 1831.",
-      "Associated with Gelug.",
-      "Lies in Leh district, Ladakh."
+      "Dates from 1831",
+      "Associated with Gelug",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "ruberung-la-ladakh",
+    "name": "Ruberung La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Ruberung La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,075 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.75106,
+      "lon": 77.39616
+    }
+  },
+  {
+    "id": "ruyil-ladakh",
+    "name": "Rūyil",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Rūyil is a valley in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a valley in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "valley"
+    ],
+    "coordinates": {
+      "lat": 34.20439,
+      "lon": 75.2237
+    }
   },
   {
     "id": "ryul-tso-ladakh",
@@ -1290,8 +5510,50 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "sajum-ladakh",
+    "name": "Sājum",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sājum is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 6,064 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.3205,
+      "lon": 79.02706
+    }
+  },
+  {
+    "id": "salsal-la-ladakh",
+    "name": "Salsal La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Salsal La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,307 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.88333,
+      "lon": 78.63333
+    }
   },
   {
     "id": "saltoro-kangri-ladakh",
@@ -1304,8 +5566,8 @@
       "lon": 76.84752
     },
     "facts": [
-      "Stands at about 7,742 m elevation.",
-      "Lies in Gilgit-Baltistan, Ladakh."
+      "Stands at about 7,742 m elevation",
+      "Lies in Gilgit-Baltistan, Ladakh"
     ]
   },
   {
@@ -1319,8 +5581,8 @@
       "lon": 76.83333
     },
     "facts": [
-      "Stands at about 7,742 m elevation.",
-      "Lies in Gilgit-Baltistan, Ladakh."
+      "Stands at about 7,742 m elevation",
+      "Lies in Gilgit-Baltistan, Ladakh"
     ]
   },
   {
@@ -1338,7 +5600,7 @@
       "monastery"
     ],
     "facts": [
-      "Associated with Tibetan Buddhism."
+      "Associated with Tibetan Buddhism"
     ]
   },
   {
@@ -1355,8 +5617,49 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Leh, Ladakh."
+      "Lies in Leh, Ladakh"
     ]
+  },
+  {
+    "id": "saras-nag-ladakh",
+    "name": "Saras Nag",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Saras Nag is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 33.71817,
+      "lon": 75.77566
+    }
+  },
+  {
+    "id": "sarital-pass-ladakh",
+    "name": "Sarital Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sarital Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,221 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.90838,
+      "lon": 75.67995
+    }
   },
   {
     "id": "saser-kangri-ladakh",
@@ -1369,9 +5672,71 @@
       "lon": 77.73333
     },
     "facts": [
-      "Stands at about 7,672 m elevation.",
-      "Lies in Leh district, Ladakh."
+      "Stands at about 7,672 m elevation",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "saser-pass-ladakh",
+    "name": "Saser Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Saser Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,336 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 35.04156,
+      "lon": 77.73656
+    }
+  },
+  {
+    "id": "saserga-ladakh",
+    "name": "Saserga",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Saserga is a spring in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a spring in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "spring"
+    ],
+    "coordinates": {
+      "lat": 33.58333,
+      "lon": 78.86667
+    }
+  },
+  {
+    "id": "saskat-ladakh",
+    "name": "Sāskat",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sāskat is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,475 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.11691,
+      "lon": 75.48473
+    }
   },
   {
     "id": "saspol-caves-ladakh",
@@ -1388,8 +5753,50 @@
       "cave"
     ],
     "facts": [
-      "Known as a spiritual destination in Ladakh."
+      "Known as a spiritual destination in Ladakh"
     ]
+  },
+  {
+    "id": "satapur-ladakh",
+    "name": "Satapūr",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Satapūr is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,453 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.74051,
+      "lon": 75.81691
+    }
+  },
+  {
+    "id": "sateni-ladakh",
+    "name": "Sateni",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sateni is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 3,645 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.61667,
+      "lon": 75.05
+    }
   },
   {
     "id": "sculpture-at-drass-ladakh",
@@ -1398,13 +5805,34 @@
     "category": "heritage",
     "description": "Sculpture at Drass is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Drass, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Drass, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "seki-pantsal-pass-ladakh",
+    "name": "Seki Pāntsāl Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Seki Pāntsāl Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,576 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.23318,
+      "lon": 75.50472
+    }
   },
   {
     "id": "sengge-la-ladakh",
@@ -1413,7 +5841,7 @@
     "category": "nature",
     "description": "Sengge-La is a mountain in India.",
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
   },
   {
@@ -1427,7 +5855,7 @@
       "lon": 77.83083
     },
     "facts": [
-      "Stands at about 6,934 m elevation."
+      "Stands at about 6,934 m elevation"
     ]
   },
   {
@@ -1441,9 +5869,51 @@
       "lon": 77.57472
     },
     "facts": [
-      "Dates from 1991.",
-      "Lies in Leh district, Ladakh."
+      "Dates from 1991",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "shashi-chhu-ladakh",
+    "name": "Shāshi Chhu",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shāshi Chhu is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,251 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.56806,
+      "lon": 76.35417
+    }
+  },
+  {
+    "id": "shaugun-ladakh",
+    "name": "Shaugun",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shaugun is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 3,233 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.38553,
+      "lon": 76.08409
+    }
   },
   {
     "id": "sherpi-kangri-ladakh",
@@ -1456,7 +5926,7 @@
       "lon": 76.77222
     },
     "facts": [
-      "Stands at about 7,380 m elevation."
+      "Stands at about 7,380 m elevation"
     ]
   },
   {
@@ -1474,9 +5944,111 @@
       "monastery"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Leh district, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "shila-waterfall-ladakh",
+    "name": "Shila Waterfall",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shila Waterfall is a waterfall in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a waterfall in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "waterfall"
+    ],
+    "coordinates": {
+      "lat": 33.43178,
+      "lon": 76.89799
+    }
+  },
+  {
+    "id": "shilung-la-ladakh",
+    "name": "Shīlung La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shīlung La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,082 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.98114,
+      "lon": 78.55501
+    }
+  },
+  {
+    "id": "shingo-la-ladakh",
+    "name": "Shingo La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shingo La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,131 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 32.91667,
+      "lon": 77.11667
+    }
+  },
+  {
+    "id": "shishlan-forest-ladakh",
+    "name": "Shishlan Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shishlan Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.65133,
+      "lon": 75.81884
+    }
+  },
+  {
+    "id": "shishram-nag-ladakh",
+    "name": "Shīshram Nāg",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shīshram Nāg is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.09374,
+      "lon": 75.49726
+    }
   },
   {
     "id": "shrine-of-four-lords-gon-khang-tsemo-hill-ladakh",
@@ -1485,13 +6057,34 @@
     "category": "spiritual",
     "description": "Shrine of four Lords Gon-Khang (Tsemo Hill) is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Leh, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Leh, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "shuip-mal-ladakh",
+    "name": "Shūip Māl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Shūip Māl is a ridge in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a ridge in Ladakh",
+      "Mapped elevation is about 4,367 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "ridge"
+    ],
+    "coordinates": {
+      "lat": 33.81017,
+      "lon": 75.62845
+    }
   },
   {
     "id": "singhi-kangri-ladakh",
@@ -1504,9 +6097,72 @@
       "lon": 76.9828
     },
     "facts": [
-      "Stands at about 7,202 m elevation.",
-      "Lies in Gilgit-Baltistan, Ladakh."
+      "Stands at about 7,202 m elevation",
+      "Lies in Gilgit-Baltistan, Ladakh"
     ]
+  },
+  {
+    "id": "singi-la-ladakh",
+    "name": "Singi La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Singi La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,872 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.9703,
+      "lon": 76.90281
+    }
+  },
+  {
+    "id": "sire-chhish-ladakh",
+    "name": "Sire Chhish",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sire Chhish is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,622 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.50861,
+      "lon": 75.34998
+    }
+  },
+  {
+    "id": "sirsir-la-ladakh",
+    "name": "Sirsir La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sirsir La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,604 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.0947,
+      "lon": 76.79039
+    }
   },
   {
     "id": "skyampoche-ri-ladakh",
@@ -1515,8 +6171,69 @@
     "category": "nature",
     "description": "Skyampoche Ri is a mountain peak in Ladakh, India.",
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "sona-sar-ladakh",
+    "name": "Sona Sar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sona Sar is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.16694,
+      "lon": 75.08473
+    }
+  },
+  {
+    "id": "sonasar-gulu-ladakh",
+    "name": "Sōnasar Gulu",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sōnasar Gulu is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,363 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.04063,
+      "lon": 75.47434
+    }
+  },
+  {
+    "id": "spanggur-tso-ladakh",
+    "name": "Spanggur Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Spanggur Tso is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 33.51818,
+      "lon": 78.90777
+    }
   },
   {
     "id": "spangnak-ri-ladakh",
@@ -1529,7 +6246,7 @@
       "lon": 78.17472
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
   },
   {
@@ -1546,8 +6263,48 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Leh district, Ladakh."
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "startsapuk-tso-ladakh",
+    "name": "Startsapuk Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Startsapuk Tso is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 33.25198,
+      "lon": 78.04354
+    }
+  },
+  {
+    "id": "statue-of-the-buddha-in-karsha-ladakh",
+    "name": "Statue of the Buddha in Karsha",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Statue of the Buddha in Karsha is a monument in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a monument in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 33.53071,
+      "lon": 76.90242
+    }
   },
   {
     "id": "stok-kangri-ladakh",
@@ -1560,8 +6317,8 @@
       "lon": 77.44222
     },
     "facts": [
-      "Part of Zanskar district.",
-      "Stands at about 6,137 m elevation."
+      "Part of Zanskar district",
+      "Stands at about 6,137 m elevation"
     ]
   },
   {
@@ -1578,8 +6335,8 @@
       "palace"
     ],
     "facts": [
-      "Stands at about 3,497 m elevation.",
-      "Lies in Leh district, Ladakh."
+      "Stands at about 3,497 m elevation",
+      "Lies in Leh district, Ladakh"
     ]
   },
   {
@@ -1596,7 +6353,7 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Leh district, Ladakh."
+      "Lies in Leh district, Ladakh"
     ]
   },
   {
@@ -1613,7 +6370,7 @@
       "monastery"
     ],
     "facts": [
-      "Lies in Kargil, Ladakh."
+      "Lies in Kargil, Ladakh"
     ]
   },
   {
@@ -1623,13 +6380,54 @@
     "category": "spiritual",
     "description": "Stupa Tiserru is a protected monument in Ladakh, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Shestang, Ladakh."
+      "Recognised as a State Protected Monument",
+      "Lies in Shestang, Ladakh"
     ],
     "tags": [
       "lesser-known",
       "state-protected"
     ]
+  },
+  {
+    "id": "sumda-chun-monastery-ladakh",
+    "name": "Sumda Chun Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Sumda Chun Monastery is a monastery in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a monastery in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "monastery"
+    ],
+    "coordinates": {
+      "lat": 34.13373,
+      "lon": 77.1538
+    }
+  },
+  {
+    "id": "sumna-la-ladakh",
+    "name": "Sumna La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sumna La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,662 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 35.23333,
+      "lon": 78.98333
+    }
   },
   {
     "id": "surigh-yilganing-kol-ladakh",
@@ -1645,7 +6443,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
   },
   {
@@ -1659,10 +6457,51 @@
       "lon": 76.12065
     },
     "facts": [
-      "Set on Suru Valley.",
-      "Stands at about 2,630 m elevation.",
-      "Lies in Kargil district, Ladakh."
+      "Set on Suru Valley",
+      "Stands at about 2,630 m elevation",
+      "Lies in Kargil district, Ladakh"
     ]
+  },
+  {
+    "id": "suruj-tal-ladakh",
+    "name": "Suruj Tāl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Suruj Tāl is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 32.75805,
+      "lon": 77.40489
+    }
+  },
+  {
+    "id": "sutukhol-ladakh",
+    "name": "Sutukhōl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sutukhōl is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,182 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.78838,
+      "lon": 75.7408
+    }
   },
   {
     "id": "takthok-monastery-ladakh",
@@ -1678,9 +6517,30 @@
       "monastery"
     ],
     "facts": [
-      "Stands at about 3,900 m elevation.",
-      "Lies in Leh district, Ladakh."
+      "Stands at about 3,900 m elevation",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "telekon-la-ladakh",
+    "name": "Telekon La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Telekon La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,045 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.0303,
+      "lon": 77.96574
+    }
   },
   {
     "id": "teram-kangri-ladakh",
@@ -1693,9 +6553,29 @@
       "lon": 77.07833
     },
     "facts": [
-      "Stands at about 7,462 m elevation.",
-      "Lies in Cenling County, Ladakh."
+      "Stands at about 7,462 m elevation",
+      "Lies in Cenling County, Ladakh"
     ]
+  },
+  {
+    "id": "thajiwas-forest-ladakh",
+    "name": "Thājiwas Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Thājiwas Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.29535,
+      "lon": 75.28475
+    }
   },
   {
     "id": "thangman-kangri-ladakh",
@@ -1708,7 +6588,7 @@
       "lon": 77.6225
     },
     "facts": [
-      "Stands at about 6,864 m elevation."
+      "Stands at about 6,864 m elevation"
     ]
   },
   {
@@ -1725,11 +6605,53 @@
       "monastery"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Associated with Tibetan Buddhism.",
-      "Stands at about 3,600 m elevation.",
-      "Lies in Leh district, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Associated with Tibetan Buddhism",
+      "Stands at about 3,600 m elevation",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "thit-zarbo-la-ladakh",
+    "name": "Thit Zarbo La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Thit Zarbo La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,164 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.02106,
+      "lon": 78.60432
+    }
+  },
+  {
+    "id": "thratsang-la-ladakh",
+    "name": "Thratsang La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Thratsang La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,983 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.02612,
+      "lon": 78.67369
+    }
   },
   {
     "id": "thusa-kangri-ladakh",
@@ -1742,8 +6664,29 @@
       "lon": 77.2258
     },
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "toglung-marpo-la-ladakh",
+    "name": "Toglung Marpo La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Toglung Marpo La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,407 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.28444,
+      "lon": 79.19873
+    }
   },
   {
     "id": "tourism-in-ladakh-ladakh",
@@ -1752,8 +6695,91 @@
     "category": "other",
     "description": "Tourism in Ladakh is a tourism in a region in Ladakh, India.",
     "facts": [
-      "Known as a tourism destination in Ladakh."
+      "Known as a tourism destination in Ladakh"
     ]
+  },
+  {
+    "id": "tramkazan-ladakh",
+    "name": "Trāmkāzan",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Trāmkāzan is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,462 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.03595,
+      "lon": 75.40628
+    }
+  },
+  {
+    "id": "tramsar-pass-ladakh",
+    "name": "Trāmsar Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Trāmsar Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,147 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.86574,
+      "lon": 75.66875
+    }
+  },
+  {
+    "id": "tsa-soma-mosque-ladakh",
+    "name": "Tsa Soma Mosque",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Tsa Soma Mosque is a mosque in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a mosque in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mosque"
+    ],
+    "coordinates": {
+      "lat": 34.16539,
+      "lon": 77.585
+    }
+  },
+  {
+    "id": "tsaka-la-ladakh",
+    "name": "Tsaka La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Tsaka La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,656 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.38254,
+      "lon": 78.82507
+    }
   },
   {
     "id": "tso-kar-ladakh",
@@ -1769,9 +6795,9 @@
       "lake"
     ],
     "facts": [
-      "Stands at about 4,541 m elevation.",
-      "Covers about 16 km².",
-      "Lies in Leh district, Ladakh."
+      "Stands at about 4,541 m elevation",
+      "Covers about 16 km²",
+      "Lies in Leh district, Ladakh"
     ]
   },
   {
@@ -1788,9 +6814,9 @@
       "lake"
     ],
     "facts": [
-      "Recognised as Ramsar site.",
-      "Stands at about 4,522 m elevation.",
-      "Covers about 145 km²."
+      "Recognised as Ramsar site",
+      "Stands at about 4,522 m elevation",
+      "Covers about 145 km²"
     ]
   },
   {
@@ -1807,8 +6833,111 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Ladakh."
+      "Known as a nature destination in Ladakh"
     ]
+  },
+  {
+    "id": "tsogun-forest-ladakh",
+    "name": "Tsōgun Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Tsōgun Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.5447,
+      "lon": 75.95513
+    }
+  },
+  {
+    "id": "tsura-pantsal-ladakh",
+    "name": "Tsura Pāntsāl",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Tsura Pāntsāl is a seasonal lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a seasonal lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.06415,
+      "lon": 75.52949
+    }
+  },
+  {
+    "id": "tumulasar-ladakh",
+    "name": "Tumulasar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Tumulasar is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,500 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.84492,
+      "lon": 75.65738
+    }
+  },
+  {
+    "id": "umasi-la-ladakh",
+    "name": "Umāsi La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Umāsi La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 5,241 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 33.44769,
+      "lon": 76.57716
+    }
+  },
+  {
+    "id": "umba-la-ladakh",
+    "name": "Umba La",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Umba La is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,315 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.3506,
+      "lon": 75.87169
+    }
   },
   {
     "id": "upshi-ladakh",
@@ -1824,9 +6953,70 @@
       "hill-station"
     ],
     "facts": [
-      "Stands at about 3,400 m elevation.",
-      "Lies in Leh district, Ladakh."
+      "Stands at about 3,400 m elevation",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "vaojan-pantsal-pass-ladakh",
+    "name": "Vāojan Pāntsāl Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Vāojan Pāntsāl Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,213 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.12489,
+      "lon": 75.50181
+    }
+  },
+  {
+    "id": "vichhmargi-forest-ladakh",
+    "name": "Vichhmargi Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Vichhmargi Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.28932,
+      "lon": 75.31442
+    }
+  },
+  {
+    "id": "vishansar-ladakh",
+    "name": "Vishansar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Vishansar is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.38793,
+      "lon": 75.11818
+    }
   },
   {
     "id": "wanla-monastery-ladakh",
@@ -1842,9 +7032,235 @@
       "monastery"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Leh district, Ladakh."
+      "Recognised as Monument of National Importance",
+      "Lies in Leh district, Ladakh"
     ]
+  },
+  {
+    "id": "watraj-ladakh",
+    "name": "Watrāj",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Watrāj is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,243 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.7679,
+      "lon": 75.68012
+    }
+  },
+  {
+    "id": "wunat-ladakh",
+    "name": "Wunat",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Wunat is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,611 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 34.13374,
+      "lon": 75.47529
+    }
+  },
+  {
+    "id": "wuntikat-forest-ladakh",
+    "name": "Wuntikat Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Wuntikat Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.0038,
+      "lon": 75.54434
+    }
+  },
+  {
+    "id": "wuntlkat-forest-ladakh",
+    "name": "Wuntlkat Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Wuntlkat Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.0254,
+      "lon": 75.56108
+    }
+  },
+  {
+    "id": "yaigin-ladakh",
+    "name": "Yaigin",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Yaigin is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,380 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.90102,
+      "lon": 75.55811
+    }
+  },
+  {
+    "id": "yamhar-ladakh",
+    "name": "Yamhār",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Yamhār is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 4,086 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.20567,
+      "lon": 75.15469
+    }
+  },
+  {
+    "id": "yarabaz-ladakh",
+    "name": "Yarabaz",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Yarabaz is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,335 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.94462,
+      "lon": 75.46835
+    }
+  },
+  {
+    "id": "zabnar-forest-ladakh",
+    "name": "Zabnār Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Zabnār Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 34.29344,
+      "lon": 75.30065
+    }
+  },
+  {
+    "id": "zagal-ladakh",
+    "name": "Zāgal",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Zāgal is a mountain in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Ladakh",
+      "Mapped elevation is about 4,643 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 33.41944,
+      "lon": 76.27809
+    }
+  },
+  {
+    "id": "zamtir-nag-ladakh",
+    "name": "Zāmtir Nāg",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Zāmtir Nāg is a lake in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a lake in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "lake"
+    ],
+    "coordinates": {
+      "lat": 34.08459,
+      "lon": 75.5119
+    }
+  },
+  {
+    "id": "zangla-khar-ladakh",
+    "name": "Zangla Khar",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Zangla Khar is a fort in Ladakh, India.",
+    "facts": [
+      "Listed in structured geographic data as a fort in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "fort"
+    ],
+    "coordinates": {
+      "lat": 33.67,
+      "lon": 76.98
+    }
   },
   {
     "id": "zangla-monastery-ladakh",
@@ -1862,9 +7278,30 @@
       "monastery"
     ],
     "facts": [
-      "Stands at about 3,650 m elevation.",
-      "Lies in Zanskar district, Ladakh."
+      "Stands at about 3,650 m elevation",
+      "Lies in Zanskar district, Ladakh"
     ]
+  },
+  {
+    "id": "zoji-la-pass-ladakh",
+    "name": "Zoji La Pass",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Zoji La Pass is a mountain pass in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a mountain pass in Ladakh",
+      "Mapped elevation is about 3,549 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "pass"
+    ],
+    "coordinates": {
+      "lat": 34.28006,
+      "lon": 75.46995
+    }
   },
   {
     "id": "zorawar-fort-ladakh",
@@ -1880,7 +7317,27 @@
       "fort"
     ],
     "facts": [
-      "Known as a heritage destination in Ladakh."
+      "Known as a heritage destination in Ladakh"
     ]
+  },
+  {
+    "id": "zugat-forest-ladakh",
+    "name": "Zugāt Forest",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Zugāt Forest is a forest in Ladakh, India.",
+    "facts": [
+      "Listed in geographic records as a forest in Ladakh",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "forest"
+    ],
+    "coordinates": {
+      "lat": 33.40882,
+      "lon": 76.38463
+    }
   }
 ]

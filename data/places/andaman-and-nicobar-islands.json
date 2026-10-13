@@ -13,11 +13,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 23.4 km².",
-      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 23.4 km²",
+      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "alexandra-island-andaman-and-nicobar-islands",
+    "name": "Alexandra Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Alexandra Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.57926,
+      "lon": 92.60882
+    }
   },
   {
     "id": "andaman-islands-andaman-and-nicobar-islands",
@@ -34,11 +54,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Stands at about 732 m elevation.",
-      "Covers about 6,408 km².",
-      "Lies in Bengal Presidency, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Stands at about 732 m elevation",
+      "Covers about 6,408 km²",
+      "Lies in Bengal Presidency, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "anderson-bay-andaman-and-nicobar-islands",
+    "name": "Anderson Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Anderson Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 6.88611,
+      "lon": 93.92222
+    }
   },
   {
     "id": "anderson-island-andaman-islands-andaman-and-nicobar-islands",
@@ -54,12 +94,52 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Interview Group.",
-      "Stands at about 0 m elevation.",
-      "Covers about 13.2 km².",
-      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Interview Group",
+      "Stands at about 0 m elevation",
+      "Covers about 13.2 km²",
+      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "api-island-andaman-and-nicobar-islands",
+    "name": "Api Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Api Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 10.65,
+      "lon": 92.33333
+    }
+  },
+  {
+    "id": "austen-harbour-andaman-and-nicobar-islands",
+    "name": "Austen Harbour",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Austen Harbour is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 12.91667,
+      "lon": 92.75
+    }
   },
   {
     "id": "aves-island-andaman-islands-andaman-and-nicobar-islands",
@@ -75,10 +155,30 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 0.2 km²."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 0.2 km²"
     ]
+  },
+  {
+    "id": "bamboo-flat-bay-andaman-and-nicobar-islands",
+    "name": "Bamboo Flat Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Bamboo Flat Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.7,
+      "lon": 92.73333
+    }
   },
   {
     "id": "bamboo-island-wildlife-sanctuary-andaman-and-nicobar-islands",
@@ -95,7 +195,7 @@
       "island"
     ],
     "facts": [
-      "Known as a wildlife destination in Andaman and Nicobar Islands."
+      "Known as a wildlife destination in Andaman and Nicobar Islands"
     ]
   },
   {
@@ -112,12 +212,33 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Set on Andaman Islands.",
-      "Part of Andaman Islands.",
-      "Stands at about 76 m elevation.",
-      "Covers about 243 km²."
+      "Set beside Indian Ocean",
+      "Set on Andaman Islands",
+      "Part of Andaman Islands",
+      "Stands at about 76 m elevation",
+      "Covers about 243 km²"
     ]
+  },
+  {
+    "id": "bare-hill-andaman-and-nicobar-islands",
+    "name": "Bare Hill",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Bare Hill is a hill in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Andaman and Nicobar Islands",
+      "Mapped elevation is about 62 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 11.31667,
+      "lon": 92.71667
+    }
   },
   {
     "id": "barren-island-andaman-islands-andaman-and-nicobar-islands",
@@ -133,11 +254,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Stands at about 353 m elevation.",
-      "Covers about 8 km²."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Stands at about 353 m elevation",
+      "Covers about 8 km²"
     ]
+  },
+  {
+    "id": "batti-malv-island-andaman-and-nicobar-islands",
+    "name": "Batti Malv Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Batti Malv Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 8.8274,
+      "lon": 92.85833
+    }
   },
   {
     "id": "battimalv-island-andaman-and-nicobar-islands",
@@ -153,12 +294,32 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Nicobar Islands.",
-      "Stands at about 73 m elevation.",
-      "Covers about 1.58 km².",
-      "Lies in Nicobar district, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Part of Nicobar Islands",
+      "Stands at about 73 m elevation",
+      "Covers about 1.58 km²",
+      "Lies in Nicobar district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "belle-island-andaman-and-nicobar-islands",
+    "name": "Belle Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Belle Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.56909,
+      "lon": 92.56608
+    }
   },
   {
     "id": "belle-island-andaman-islands-andaman-and-nicobar-islands",
@@ -174,9 +335,9 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 22.8 km²."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 22.8 km²"
     ]
   },
   {
@@ -193,12 +354,32 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Interview Group.",
-      "Stands at about 0 m elevation.",
-      "Covers about 3.75 km².",
-      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Interview Group",
+      "Stands at about 0 m elevation",
+      "Covers about 3.75 km²",
+      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "blair-bay-andaman-and-nicobar-islands",
+    "name": "Blair Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Blair Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 13.33333,
+      "lon": 92.98333
+    }
   },
   {
     "id": "bluff-island-andaman-islands-andaman-and-nicobar-islands",
@@ -214,12 +395,72 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 30 m elevation.",
-      "Covers about 0.21 km².",
-      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 30 m elevation",
+      "Covers about 0.21 km²",
+      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "boat-island-andaman-and-nicobar-islands",
+    "name": "Boat Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Boat Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.53032,
+      "lon": 92.55758
+    }
+  },
+  {
+    "id": "boat-rock-andaman-and-nicobar-islands",
+    "name": "Boat Rock",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Boat Rock is a rock in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a rock in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "rock"
+    ],
+    "coordinates": {
+      "lat": 6.91667,
+      "lon": 93.93333
+    }
+  },
+  {
+    "id": "bompoka-island-andaman-and-nicobar-islands",
+    "name": "Bompoka Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Bompoka Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 8.24241,
+      "lon": 93.23616
+    }
   },
   {
     "id": "button-islands-andaman-islands-andaman-and-nicobar-islands",
@@ -235,9 +476,69 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 0.52 km²."
+      "Part of Andaman Islands",
+      "Covers about 0.52 km²"
     ]
+  },
+  {
+    "id": "cadell-bay-andaman-and-nicobar-islands",
+    "name": "Cadell Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cadell Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 13.41667,
+      "lon": 93.05
+    }
+  },
+  {
+    "id": "camorta-island-andaman-and-nicobar-islands",
+    "name": "Camorta Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Camorta Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 8.13333,
+      "lon": 93.5
+    }
+  },
+  {
+    "id": "campbell-bay-andaman-and-nicobar-islands",
+    "name": "Campbell Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Campbell Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 7.0,
+      "lon": 93.9
+    }
   },
   {
     "id": "campbell-bay-national-park-andaman-and-nicobar-islands",
@@ -254,9 +555,189 @@
       "island"
     ],
     "facts": [
-      "Dates from 1992.",
-      "Covers about 426 km²."
+      "Dates from 1992",
+      "Covers about 426 km²"
     ]
+  },
+  {
+    "id": "cape-albany-andaman-and-nicobar-islands",
+    "name": "Cape Albany",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Albany is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 7.88333,
+      "lon": 93.45
+    }
+  },
+  {
+    "id": "cape-barwell-andaman-and-nicobar-islands",
+    "name": "Cape Barwell",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Barwell is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.83333,
+      "lon": 92.53333
+    }
+  },
+  {
+    "id": "cape-bluff-andaman-and-nicobar-islands",
+    "name": "Cape Bluff",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Bluff is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 12.21667,
+      "lon": 92.66667
+    }
+  },
+  {
+    "id": "cape-connaught-andaman-and-nicobar-islands",
+    "name": "Cape Connaught",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Connaught is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 7.93429,
+      "lon": 93.57536
+    }
+  },
+  {
+    "id": "cape-edinburgh-andaman-and-nicobar-islands",
+    "name": "Cape Edinburgh",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Edinburgh is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 7.25,
+      "lon": 93.63333
+    }
+  },
+  {
+    "id": "cape-maud-andaman-and-nicobar-islands",
+    "name": "Cape Maud",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Maud is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 8.56667,
+      "lon": 93.6
+    }
+  },
+  {
+    "id": "cape-price-andaman-and-nicobar-islands",
+    "name": "Cape Price",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Price is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 13.56667,
+      "lon": 93.05
+    }
+  },
+  {
+    "id": "cape-strachan-andaman-and-nicobar-islands",
+    "name": "Cape Strachan",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Strachan is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 12.71667,
+      "lon": 92.96667
+    }
+  },
+  {
+    "id": "cape-winifred-andaman-and-nicobar-islands",
+    "name": "Cape Winifred",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Cape Winifred is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 8.41667,
+      "lon": 93.6
+    }
   },
   {
     "id": "car-nicobar-andaman-and-nicobar-islands",
@@ -272,12 +753,52 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Nicobar Islands.",
-      "Stands at about 10 m elevation.",
-      "Covers about 127 km².",
-      "Lies in Nicobar district, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Nicobar Islands",
+      "Stands at about 10 m elevation",
+      "Covers about 127 km²",
+      "Lies in Nicobar district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "castle-bay-andaman-and-nicobar-islands",
+    "name": "Castle Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Castle Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 8.45,
+      "lon": 93.61667
+    }
+  },
+  {
+    "id": "casuarina-bay-andaman-and-nicobar-islands",
+    "name": "Casuarina Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Casuarina Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 13.25,
+      "lon": 92.85
+    }
   },
   {
     "id": "cellular-jail-andaman-and-nicobar-islands",
@@ -295,10 +816,30 @@
       "island"
     ],
     "facts": [
-      "Dates from 1906.",
-      "Recognised as Tentative World Heritage Site.",
-      "Lies in Srivijayapuram, Andaman and Nicobar Islands."
+      "Dates from 1906",
+      "Recognised as Tentative World Heritage Site",
+      "Lies in Srivijayapuram, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "chatham-island-andaman-and-nicobar-islands",
+    "name": "Chatham Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Chatham Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.3188,
+      "lon": 93.01884
+    }
   },
   {
     "id": "chatham-island-andaman-islands-andaman-and-nicobar-islands",
@@ -314,11 +855,31 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 0.09 km².",
-      "Lies in South Andaman district, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 0.09 km²",
+      "Lies in South Andaman district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "chester-island-andaman-and-nicobar-islands",
+    "name": "Chester Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Chester Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.58292,
+      "lon": 92.5781
+    }
   },
   {
     "id": "chowra-island-andaman-and-nicobar-islands",
@@ -334,11 +895,131 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Set on Nicobar Islands.",
-      "Part of Nicobar Islands.",
-      "Covers about 8.28 km²."
+      "Set beside Indian Ocean",
+      "Set on Nicobar Islands",
+      "Part of Nicobar Islands",
+      "Covers about 8.28 km²"
     ]
+  },
+  {
+    "id": "clyde-island-andaman-and-nicobar-islands",
+    "name": "Clyde Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Clyde Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.91346,
+      "lon": 92.59715
+    }
+  },
+  {
+    "id": "command-bay-andaman-and-nicobar-islands",
+    "name": "Command Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Command Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.7,
+      "lon": 92.73333
+    }
+  },
+  {
+    "id": "cone-hill-andaman-and-nicobar-islands",
+    "name": "Cone Hill",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Cone Hill is a hill in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 11.25,
+      "lon": 92.7
+    }
+  },
+  {
+    "id": "constance-bay-andaman-and-nicobar-islands",
+    "name": "Constance Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Constance Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.68333,
+      "lon": 92.6
+    }
+  },
+  {
+    "id": "constance-island-andaman-and-nicobar-islands",
+    "name": "Constance Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Constance Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.5172,
+      "lon": 92.27237
+    }
+  },
+  {
+    "id": "craggy-island-andaman-and-nicobar-islands",
+    "name": "Craggy Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Craggy Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.22372,
+      "lon": 93.05911
+    }
   },
   {
     "id": "curlew-island-andaman-islands-andaman-and-nicobar-islands",
@@ -354,8 +1035,8 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 0.04 km²."
+      "Part of Andaman Islands",
+      "Covers about 0.04 km²"
     ]
   },
   {
@@ -373,7 +1054,7 @@
       "island"
     ],
     "facts": [
-      "Known as a wildlife destination in Andaman and Nicobar Islands."
+      "Known as a wildlife destination in Andaman and Nicobar Islands"
     ]
   },
   {
@@ -391,9 +1072,49 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 5.04 km²."
+      "Part of Andaman Islands",
+      "Covers about 5.04 km²"
     ]
+  },
+  {
+    "id": "delgarno-island-andaman-and-nicobar-islands",
+    "name": "Delgarno Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Delgarno Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.41475,
+      "lon": 93.09068
+    }
+  },
+  {
+    "id": "east-bay-andaman-and-nicobar-islands",
+    "name": "East Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "East Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 7.98333,
+      "lon": 93.4
+    }
   },
   {
     "id": "east-island-andaman-islands-andaman-and-nicobar-islands",
@@ -409,8 +1130,8 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 3.1 km²."
+      "Part of Andaman Islands",
+      "Covers about 3.1 km²"
     ]
   },
   {
@@ -427,7 +1148,7 @@
       "island"
     ],
     "facts": [
-      "Part of The Sisters."
+      "Part of The Sisters"
     ]
   },
   {
@@ -444,9 +1165,49 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 16 km²."
+      "Part of Andaman Islands",
+      "Covers about 16 km²"
     ]
+  },
+  {
+    "id": "ekin-bay-andaman-and-nicobar-islands",
+    "name": "Ekin Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Ekin Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 10.88157,
+      "lon": 92.46064
+    }
+  },
+  {
+    "id": "ekiti-bay-andaman-and-nicobar-islands",
+    "name": "Ekiti Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Ekiti Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 10.51667,
+      "lon": 92.45
+    }
   },
   {
     "id": "embankment-dam-andaman-and-nicobar-islands",
@@ -458,8 +1219,48 @@
       "island"
     ],
     "facts": [
-      "Known as a nature destination in Andaman and Nicobar Islands."
+      "Known as a nature destination in Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "excelsior-island-andaman-and-nicobar-islands",
+    "name": "Excelsior Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Excelsior Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.43278,
+      "lon": 93.09986
+    }
+  },
+  {
+    "id": "flat-bay-andaman-and-nicobar-islands",
+    "name": "Flat Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Flat Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.61667,
+      "lon": 92.68333
+    }
   },
   {
     "id": "flat-island-wildlife-sanctuary-andaman-and-nicobar-islands",
@@ -476,9 +1277,29 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 2.48 km²."
+      "Part of Andaman Islands",
+      "Covers about 2.48 km²"
     ]
+  },
+  {
+    "id": "flat-rock-andaman-and-nicobar-islands",
+    "name": "Flat Rock",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Flat Rock is a rock in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a rock in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "rock"
+    ],
+    "coordinates": {
+      "lat": 11.13333,
+      "lon": 93.5
+    }
   },
   {
     "id": "galathea-national-park-andaman-and-nicobar-islands",
@@ -495,8 +1316,8 @@
       "island"
     ],
     "facts": [
-      "Dates from 18 March 1992.",
-      "Covers about 110 km²."
+      "Dates from 18 March 1992",
+      "Covers about 110 km²"
     ]
   },
   {
@@ -509,7 +1330,7 @@
       "island"
     ],
     "facts": [
-      "Known as a nature destination in Andaman and Nicobar Islands."
+      "Known as a nature destination in Andaman and Nicobar Islands"
     ]
   },
   {
@@ -526,10 +1347,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 0 m elevation.",
-      "Covers about 4,824 km²."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 0 m elevation",
+      "Covers about 4,824 km²"
     ]
   },
   {
@@ -546,10 +1367,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Nicobar Islands.",
-      "Stands at about 642 m elevation.",
-      "Covers about 921 km²."
+      "Set beside Bay of Bengal",
+      "Part of Nicobar Islands",
+      "Stands at about 642 m elevation",
+      "Covers about 921 km²"
     ]
   },
   {
@@ -562,8 +1383,48 @@
       "island"
     ],
     "facts": [
-      "Known as a nature destination in Andaman and Nicobar Islands."
+      "Known as a nature destination in Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "grub-island-andaman-and-nicobar-islands",
+    "name": "Grub Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Grub Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.58935,
+      "lon": 92.59344
+    }
+  },
+  {
+    "id": "guitar-island-andaman-and-nicobar-islands",
+    "name": "Guitar Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Guitar Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.35,
+      "lon": 92.91667
+    }
   },
   {
     "id": "havelock-island-andaman-and-nicobar-islands",
@@ -579,10 +1440,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 167 m elevation.",
-      "Covers about 114 km²."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 167 m elevation",
+      "Covers about 114 km²"
     ]
   },
   {
@@ -599,11 +1460,111 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 137 m elevation.",
-      "Covers about 54.7 km²."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 137 m elevation",
+      "Covers about 54.7 km²"
     ]
+  },
+  {
+    "id": "hoare-bay-andaman-and-nicobar-islands",
+    "name": "Hoare Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Hoare Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 12.91667,
+      "lon": 92.76667
+    }
+  },
+  {
+    "id": "hobday-island-andaman-and-nicobar-islands",
+    "name": "Hobday Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Hobday Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.54823,
+      "lon": 92.61509
+    }
+  },
+  {
+    "id": "horace-point-andaman-and-nicobar-islands",
+    "name": "Horace Point",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Horace Point is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 8.23333,
+      "lon": 93.5
+    }
+  },
+  {
+    "id": "hudson-bay-andaman-and-nicobar-islands",
+    "name": "Hudson Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Hudson Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 13.3,
+      "lon": 92.83333
+    }
+  },
+  {
+    "id": "hut-bay-andaman-and-nicobar-islands",
+    "name": "Hut Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Hut Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 10.63333,
+      "lon": 92.6
+    }
   },
   {
     "id": "indira-point-andaman-and-nicobar-islands",
@@ -619,11 +1580,31 @@
       "island"
     ],
     "facts": [
-      "Named after Indira Gandhi.",
-      "Set beside Andaman Sea.",
-      "Set on Great Nicobar Island.",
-      "Stands at about 47 m elevation."
+      "Named after Indira Gandhi",
+      "Set beside Andaman Sea",
+      "Set on Great Nicobar Island",
+      "Stands at about 47 m elevation"
     ]
+  },
+  {
+    "id": "inglis-island-andaman-and-nicobar-islands",
+    "name": "Inglis Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Inglis Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.13835,
+      "lon": 93.11737
+    }
   },
   {
     "id": "interview-group-andaman-and-nicobar-islands",
@@ -639,10 +1620,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Covers about 128 km².",
-      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Covers about 128 km²",
+      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands"
     ]
   },
   {
@@ -659,12 +1640,32 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Interview Group.",
-      "Stands at about 113 m elevation.",
-      "Covers about 101 km².",
-      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Interview Group",
+      "Stands at about 113 m elevation",
+      "Covers about 101 km²",
+      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "isle-of-man-andaman-and-nicobar-islands",
+    "name": "Isle of Man",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Isle of Man is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 8.39188,
+      "lon": 93.65119
+    }
   },
   {
     "id": "jama-mosque-delanipur-andaman-and-nicobar-islands",
@@ -681,7 +1682,7 @@
       "island"
     ],
     "facts": [
-      "Built in the Islamic architecture style."
+      "Built in the Islamic architecture style"
     ]
   },
   {
@@ -698,10 +1699,50 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 0.91 km²."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 0.91 km²"
     ]
+  },
+  {
+    "id": "john-lawrence-island-andaman-and-nicobar-islands",
+    "name": "John Lawrence Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "John Lawrence Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.1,
+      "lon": 93.03333
+    }
+  },
+  {
+    "id": "kabra-island-andaman-and-nicobar-islands",
+    "name": "Kābra Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Kābra Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.28815,
+      "lon": 93.84556
+    }
   },
   {
     "id": "kalpong-river-andaman-and-nicobar-islands",
@@ -713,7 +1754,7 @@
       "island"
     ],
     "facts": [
-      "Known as a nature destination in Andaman and Nicobar Islands."
+      "Known as a nature destination in Andaman and Nicobar Islands"
     ]
   },
   {
@@ -730,8 +1771,68 @@
       "island"
     ],
     "facts": [
-      "Set on Kalpong River."
+      "Set on Kalpong River"
     ]
+  },
+  {
+    "id": "katchall-island-andaman-and-nicobar-islands",
+    "name": "Katchall Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Katchall Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.95,
+      "lon": 93.36667
+    }
+  },
+  {
+    "id": "kemios-bay-andaman-and-nicobar-islands",
+    "name": "Kēmios Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Kēmios Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 9.11667,
+      "lon": 92.76667
+    }
+  },
+  {
+    "id": "kondul-island-andaman-and-nicobar-islands",
+    "name": "Kondul Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Kondul Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.21535,
+      "lon": 93.71424
+    }
   },
   {
     "id": "kwangtung-island-wildlife-sanctuary-andaman-and-nicobar-islands",
@@ -748,8 +1849,28 @@
       "island"
     ],
     "facts": [
-      "Known as a wildlife destination in Andaman and Nicobar Islands."
+      "Known as a wildlife destination in Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "kyd-island-andaman-and-nicobar-islands",
+    "name": "Kyd Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Kyd Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.9562,
+      "lon": 92.75272
+    }
   },
   {
     "id": "landfall-island-andaman-and-nicobar-islands",
@@ -765,11 +1886,11 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 79 m elevation.",
-      "Covers about 14.7 km².",
-      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 79 m elevation",
+      "Covers about 14.7 km²",
+      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands"
     ]
   },
   {
@@ -786,12 +1907,32 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Set on Andaman Islands.",
-      "Part of Andaman Islands.",
-      "Stands at about 183 m elevation.",
-      "Covers about 707 km²."
+      "Set beside Indian Ocean",
+      "Set on Andaman Islands",
+      "Part of Andaman Islands",
+      "Stands at about 183 m elevation",
+      "Covers about 707 km²"
     ]
+  },
+  {
+    "id": "little-nicobar-island-andaman-and-nicobar-islands",
+    "name": "Little Nicobar Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Little Nicobar Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.33523,
+      "lon": 93.68265
+    }
   },
   {
     "id": "long-island-andaman-islands-andaman-and-nicobar-islands",
@@ -807,10 +1948,31 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Stands at about 75 m elevation.",
-      "Covers about 14.1 km²."
+      "Part of Andaman Islands",
+      "Stands at about 75 m elevation",
+      "Covers about 14.1 km²"
     ]
+  },
+  {
+    "id": "maharani-peak-andaman-and-nicobar-islands",
+    "name": "Mahārāni Peak",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Mahārāni Peak is a hill in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Andaman and Nicobar Islands",
+      "Mapped elevation is about 1 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 8.48333,
+      "lon": 93.61667
+    }
   },
   {
     "id": "mahatma-gandhi-marine-national-park-andaman-and-nicobar-islands",
@@ -827,13 +1989,33 @@
       "island"
     ],
     "facts": [
-      "Dates from 24 May 1983.",
-      "Named after Mahatma Gandhi.",
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 78 m elevation.",
-      "Covers about 282 km²."
+      "Dates from 24 May 1983",
+      "Named after Mahatma Gandhi",
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 78 m elevation",
+      "Covers about 282 km²"
     ]
+  },
+  {
+    "id": "malay-tapu-andaman-and-nicobar-islands",
+    "name": "Malay Tāpu",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Malay Tāpu is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.5291,
+      "lon": 92.60406
+    }
   },
   {
     "id": "man-island-nicobar-islands-andaman-and-nicobar-islands",
@@ -849,12 +2031,92 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Nicobar Islands.",
-      "Stands at about 111 m elevation.",
-      "Covers about 0.37 km².",
-      "Lies in Nicobar district, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Part of Nicobar Islands",
+      "Stands at about 111 m elevation",
+      "Covers about 0.37 km²",
+      "Lies in Nicobar district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "matla-bay-andaman-and-nicobar-islands",
+    "name": "Matla Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Matla Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.66667,
+      "lon": 92.71667
+    }
+  },
+  {
+    "id": "megapod-island-andaman-and-nicobar-islands",
+    "name": "Megapod Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Megapod Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 6.85,
+      "lon": 93.78333
+    }
+  },
+  {
+    "id": "menchal-island-andaman-and-nicobar-islands",
+    "name": "Menchāl Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Menchāl Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.39771,
+      "lon": 93.769
+    }
+  },
+  {
+    "id": "meroe-island-andaman-and-nicobar-islands",
+    "name": "Meroe Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Meroe Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.51736,
+      "lon": 93.54412
+    }
   },
   {
     "id": "middle-andaman-island-andaman-and-nicobar-islands",
@@ -870,11 +2132,11 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Set on Andaman Islands.",
-      "Part of Andaman Islands.",
-      "Stands at about 512 m elevation.",
-      "Covers about 1,523 km²."
+      "Set beside Indian Ocean",
+      "Set on Andaman Islands",
+      "Part of Andaman Islands",
+      "Stands at about 512 m elevation",
+      "Covers about 1,523 km²"
     ]
   },
   {
@@ -892,8 +2154,90 @@
       "island"
     ],
     "facts": [
-      "Known as a wildlife destination in Andaman and Nicobar Islands."
+      "Known as a wildlife destination in Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "minto-bay-andaman-and-nicobar-islands",
+    "name": "Minto Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Minto Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.3,
+      "lon": 92.71667
+    }
+  },
+  {
+    "id": "montgomery-island-andaman-and-nicobar-islands",
+    "name": "Montgomery Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Montgomery Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.94781,
+      "lon": 92.56745
+    }
+  },
+  {
+    "id": "mount-deoban-andaman-and-nicobar-islands",
+    "name": "Mount Deoban",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Mount Deoban is a hill in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a hill in Andaman and Nicobar Islands",
+      "Mapped elevation is about 407 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "hill"
+    ],
+    "coordinates": {
+      "lat": 7.3305,
+      "lon": 93.69527
+    }
+  },
+  {
+    "id": "mount-diavolo-andaman-and-nicobar-islands",
+    "name": "Mount Diavolo",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Mount Diavolo is a mountain in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Andaman and Nicobar Islands",
+      "Mapped elevation is about 295 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 12.7,
+      "lon": 92.91667
+    }
   },
   {
     "id": "mount-harriet-national-park-andaman-and-nicobar-islands",
@@ -910,10 +2254,31 @@
       "island"
     ],
     "facts": [
-      "Dates from 16 February 1987.",
-      "Covers about 46.6 km².",
-      "Lies in Ferrargunj tehsil, Andaman and Nicobar Islands."
+      "Dates from 16 February 1987",
+      "Covers about 46.6 km²",
+      "Lies in Ferrargunj tehsil, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "mount-kurtz-andaman-and-nicobar-islands",
+    "name": "Mount Kurtz",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Mount Kurtz is a mountain in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Andaman and Nicobar Islands",
+      "Mapped elevation is about 14 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 12.26667,
+      "lon": 92.76667
+    }
   },
   {
     "id": "mount-manipur-memorial-andaman-and-nicobar-islands",
@@ -925,8 +2290,70 @@
       "island"
     ],
     "facts": [
-      "Known as a heritage destination in Andaman and Nicobar Islands."
+      "Known as a heritage destination in Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "mount-manipur-national-park-andaman-and-nicobar-islands",
+    "name": "Mount Manipur National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Mount Manipur National Park is a national park in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in structured geographic data as a national park in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "national-park"
+    ],
+    "coordinates": {
+      "lat": 11.8074,
+      "lon": 92.7571
+    }
+  },
+  {
+    "id": "mount-oldham-andaman-and-nicobar-islands",
+    "name": "Mount Oldham",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Mount Oldham is a mountain in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Andaman and Nicobar Islands",
+      "Mapped elevation is about 312 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 12.4957,
+      "lon": 92.73143
+    }
+  },
+  {
+    "id": "mount-wood-andaman-and-nicobar-islands",
+    "name": "Mount Wood",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Mount Wood is a mountain in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Andaman and Nicobar Islands",
+      "Mapped elevation is about 43 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 12.61667,
+      "lon": 92.91667
+    }
   },
   {
     "id": "murga-island-andaman-and-nicobar-islands",
@@ -942,12 +2369,72 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Interview Group.",
-      "Stands at about 0 m elevation.",
-      "Covers about 3.77 km².",
-      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Interview Group",
+      "Stands at about 0 m elevation",
+      "Covers about 3.77 km²",
+      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "murray-point-andaman-and-nicobar-islands",
+    "name": "Murray Point",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Murray Point is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 7.23333,
+      "lon": 93.83333
+    }
+  },
+  {
+    "id": "nancowry-island-andaman-and-nicobar-islands",
+    "name": "Nancowry Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Nancowry Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.98333,
+      "lon": 93.53333
+    }
+  },
+  {
+    "id": "nanjappa-bay-andaman-and-nicobar-islands",
+    "name": "Nanjappa Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Nanjappa Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 6.85278,
+      "lon": 93.77361
+    }
   },
   {
     "id": "narcondam-island-andaman-and-nicobar-islands",
@@ -964,13 +2451,33 @@
       "island"
     ],
     "facts": [
-      "Recognised as Tentative World Heritage Site.",
-      "Set beside Andaman Sea.",
-      "Part of Andaman Islands.",
-      "Stands at about 710 m elevation.",
-      "Covers about 6.81 km².",
-      "Lies in Diglipur tehsil, Andaman and Nicobar Islands."
+      "Recognised as Tentative World Heritage Site",
+      "Set beside Andaman Sea",
+      "Part of Andaman Islands",
+      "Stands at about 710 m elevation",
+      "Covers about 6.81 km²",
+      "Lies in Diglipur tehsil, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "navy-bay-andaman-and-nicobar-islands",
+    "name": "Navy Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Navy Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.65867,
+      "lon": 92.7207
+    }
   },
   {
     "id": "neil-island-andaman-and-nicobar-islands",
@@ -986,12 +2493,32 @@
       "island"
     ],
     "facts": [
-      "Set beside Andaman Sea.",
-      "Set on Ritchie's Archipelago.",
-      "Part of Andaman Islands.",
-      "Stands at about 101 m elevation.",
-      "Covers about 13.7 km²."
+      "Set beside Andaman Sea",
+      "Set on Ritchie's Archipelago",
+      "Part of Andaman Islands",
+      "Stands at about 101 m elevation",
+      "Covers about 13.7 km²"
     ]
+  },
+  {
+    "id": "nicholson-island-andaman-and-nicobar-islands",
+    "name": "Nicholson Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Nicholson Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.10042,
+      "lon": 92.95326
+    }
   },
   {
     "id": "nicobar-islands-andaman-and-nicobar-islands",
@@ -1008,9 +2535,9 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Stands at about 642 m elevation.",
-      "Covers about 1,841 km²."
+      "Set beside Indian Ocean",
+      "Stands at about 642 m elevation",
+      "Covers about 1,841 km²"
     ]
   },
   {
@@ -1027,13 +2554,33 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Set on Andaman Islands.",
-      "Part of Andaman Islands.",
-      "Stands at about 732 m elevation.",
-      "Covers about 1,317 km².",
-      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Set on Andaman Islands",
+      "Part of Andaman Islands",
+      "Stands at about 732 m elevation",
+      "Covers about 1,317 km²",
+      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "north-bay-andaman-and-nicobar-islands",
+    "name": "North Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "North Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.7,
+      "lon": 92.75
+    }
   },
   {
     "id": "north-brother-island-andaman-islands-andaman-and-nicobar-islands",
@@ -1049,7 +2596,7 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean."
+      "Set beside Indian Ocean"
     ]
   },
   {
@@ -1067,7 +2614,7 @@
       "island"
     ],
     "facts": [
-      "Known as a wildlife destination in Andaman and Nicobar Islands."
+      "Known as a wildlife destination in Andaman and Nicobar Islands"
     ]
   },
   {
@@ -1084,12 +2631,52 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 173 m elevation.",
-      "Covers about 1.99 km².",
-      "Lies in South Andaman district, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 173 m elevation",
+      "Covers about 1.99 km²",
+      "Lies in South Andaman district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "north-passage-island-andaman-and-nicobar-islands",
+    "name": "North Passage Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "North Passage Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.27308,
+      "lon": 92.92614
+    }
+  },
+  {
+    "id": "north-reef-island-andaman-and-nicobar-islands",
+    "name": "North Reef Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "North Reef Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.08734,
+      "lon": 92.70264
+    }
   },
   {
     "id": "north-sentinel-island-andaman-and-nicobar-islands",
@@ -1105,12 +2692,32 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Set on Andaman Islands.",
-      "Part of Sentinel Islands.",
-      "Stands at about 122 m elevation.",
-      "Covers about 59.7 km²."
+      "Set beside Indian Ocean",
+      "Set on Andaman Islands",
+      "Part of Sentinel Islands",
+      "Stands at about 122 m elevation",
+      "Covers about 59.7 km²"
     ]
+  },
+  {
+    "id": "novara-bay-andaman-and-nicobar-islands",
+    "name": "Novāra Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Novāra Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 8.51667,
+      "lon": 93.6
+    }
   },
   {
     "id": "outram-island-andaman-and-nicobar-islands",
@@ -1126,11 +2733,71 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Ritchie's Archipelago.",
-      "Covers about 13.9 km².",
-      "Lies in Port Blair tehsil, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Part of Ritchie's Archipelago",
+      "Covers about 13.9 km²",
+      "Lies in Port Blair tehsil, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "paget-island-andaman-and-nicobar-islands",
+    "name": "Paget Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Paget Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.43333,
+      "lon": 92.83333
+    }
+  },
+  {
+    "id": "paikat-bay-andaman-and-nicobar-islands",
+    "name": "Paikat Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Paikat Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 12.78333,
+      "lon": 92.95
+    }
+  },
+  {
+    "id": "paira-rock-andaman-and-nicobar-islands",
+    "name": "Paira Rock",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Paira Rock is a rock in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a rock in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "rock"
+    ],
+    "coordinates": {
+      "lat": 8.58333,
+      "lon": 93.6
+    }
   },
   {
     "id": "passage-island-andaman-islands-andaman-and-nicobar-islands",
@@ -1146,10 +2813,130 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 0.43 km²."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 0.43 km²"
     ]
+  },
+  {
+    "id": "petman-island-andaman-and-nicobar-islands",
+    "name": "Petman Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Petman Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.98333,
+      "lon": 92.75
+    }
+  },
+  {
+    "id": "petrie-island-andaman-and-nicobar-islands",
+    "name": "Petrie Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Petrie Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.97862,
+      "lon": 92.5832
+    }
+  },
+  {
+    "id": "phoenix-bay-andaman-and-nicobar-islands",
+    "name": "Phoenix Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Phoenix Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.66924,
+      "lon": 92.74975
+    }
+  },
+  {
+    "id": "pigeon-island-andaman-and-nicobar-islands",
+    "name": "Pigeon Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Pigeon Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.07883,
+      "lon": 93.90367
+    }
+  },
+  {
+    "id": "pluto-island-andaman-and-nicobar-islands",
+    "name": "Pluto Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Pluto Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.54584,
+      "lon": 92.62835
+    }
+  },
+  {
+    "id": "point-island-andaman-and-nicobar-islands",
+    "name": "Point Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Point Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.41216,
+      "lon": 92.81559
+    }
   },
   {
     "id": "port-blair-andaman-and-nicobar-islands",
@@ -1166,9 +2953,9 @@
       "island"
     ],
     "facts": [
-      "Dates from 1858.",
-      "Stands at about 17 m elevation.",
-      "Covers about 16.6 km²."
+      "Dates from 1858",
+      "Stands at about 17 m elevation",
+      "Covers about 16.6 km²"
     ]
   },
   {
@@ -1185,10 +2972,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 1.14 km².",
-      "Lies in Port Blair tehsil, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 1.14 km²",
+      "Lies in Port Blair tehsil, Andaman and Nicobar Islands"
     ]
   },
   {
@@ -1205,9 +2992,49 @@
       "island"
     ],
     "facts": [
-      "Set on North Andaman Island.",
-      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands."
+      "Set on North Andaman Island",
+      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "portman-bay-andaman-and-nicobar-islands",
+    "name": "Portman Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Portman Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.4,
+      "lon": 92.66667
+    }
+  },
+  {
+    "id": "pulo-milo-andaman-and-nicobar-islands",
+    "name": "Pulo Milo",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Pulo Milo is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.40332,
+      "lon": 93.68711
+    }
   },
   {
     "id": "pulomilo-island-andaman-and-nicobar-islands",
@@ -1223,12 +3050,32 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Nicobar Islands.",
-      "Stands at about 10 m elevation.",
-      "Covers about 0.82 km².",
-      "Lies in Nicobar district, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Part of Nicobar Islands",
+      "Stands at about 10 m elevation",
+      "Covers about 0.82 km²",
+      "Lies in Nicobar district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "radhanagar-beach-andaman-and-nicobar-islands",
+    "name": "Radhanagar Beach",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Radhanagar Beach is a beach in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in structured geographic data as a beach in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.982,
+      "lon": 92.964
+    }
   },
   {
     "id": "rani-jhansi-marine-national-park-andaman-and-nicobar-islands",
@@ -1245,9 +3092,89 @@
       "island"
     ],
     "facts": [
-      "Dates from 1996.",
-      "Covers about 320 km²."
+      "Dates from 1996",
+      "Covers about 320 km²"
     ]
+  },
+  {
+    "id": "red-skin-island-andaman-and-nicobar-islands",
+    "name": "Red Skin Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Red Skin Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.55319,
+      "lon": 92.592
+    }
+  },
+  {
+    "id": "reef-island-andaman-and-nicobar-islands",
+    "name": "Reef Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Reef Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.50716,
+      "lon": 92.87086
+    }
+  },
+  {
+    "id": "rongat-bay-andaman-and-nicobar-islands",
+    "name": "Rongat Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Rongat Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 12.48333,
+      "lon": 92.96667
+    }
+  },
+  {
+    "id": "ross-island-andaman-and-nicobar-islands",
+    "name": "Ross Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Ross Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.30059,
+      "lon": 93.07514
+    }
   },
   {
     "id": "rutland-island-andaman-and-nicobar-islands",
@@ -1263,11 +3190,11 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Set on Andaman Islands.",
-      "Part of Andaman Islands.",
-      "Stands at about 433 m elevation.",
-      "Covers about 122 km²."
+      "Set beside Indian Ocean",
+      "Set on Andaman Islands",
+      "Part of Andaman Islands",
+      "Stands at about 433 m elevation",
+      "Covers about 122 km²"
     ]
   },
   {
@@ -1285,9 +3212,9 @@
       "island"
     ],
     "facts": [
-      "Dates from 1979.",
-      "Covers about 32.5 km².",
-      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands."
+      "Dates from 1979",
+      "Covers about 32.5 km²",
+      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands"
     ]
   },
   {
@@ -1305,8 +3232,148 @@
       "island"
     ],
     "facts": [
-      "Lies in Srivijayapuram, Andaman and Nicobar Islands."
+      "Lies in Srivijayapuram, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "sandy-island-andaman-and-nicobar-islands",
+    "name": "Sandy Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Sandy Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.8,
+      "lon": 92.61667
+    }
+  },
+  {
+    "id": "sawi-bay-andaman-and-nicobar-islands",
+    "name": "Sāwi Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Sāwi Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 9.21667,
+      "lon": 92.75
+    }
+  },
+  {
+    "id": "semiramis-bay-andaman-and-nicobar-islands",
+    "name": "Semiramis Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Semiramis Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.7,
+      "lon": 92.73333
+    }
+  },
+  {
+    "id": "shark-island-andaman-and-nicobar-islands",
+    "name": "Shark Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Shark Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.20189,
+      "lon": 92.75607
+    }
+  },
+  {
+    "id": "shearme-island-andaman-and-nicobar-islands",
+    "name": "Shearme Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Shearme Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.4,
+      "lon": 92.85
+    }
+  },
+  {
+    "id": "shoal-bay-andaman-and-nicobar-islands",
+    "name": "Shoal Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Shoal Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.93333,
+      "lon": 92.76667
+    }
+  },
+  {
+    "id": "sir-hugh-rose-island-andaman-and-nicobar-islands",
+    "name": "Sir Hugh Rose Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Sir Hugh Rose Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.78411,
+      "lon": 93.08157
+    }
   },
   {
     "id": "sir-william-peel-island-andaman-and-nicobar-islands",
@@ -1322,9 +3389,9 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 23.7 km²."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 23.7 km²"
     ]
   },
   {
@@ -1341,9 +3408,89 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 20.4 km²."
+      "Part of Andaman Islands",
+      "Covers about 20.4 km²"
     ]
+  },
+  {
+    "id": "snake-island-andaman-and-nicobar-islands",
+    "name": "Snake Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Snake Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.63333,
+      "lon": 92.78333
+    }
+  },
+  {
+    "id": "snob-island-andaman-and-nicobar-islands",
+    "name": "Snob Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Snob Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.56505,
+      "lon": 92.57406
+    }
+  },
+  {
+    "id": "sombrero-point-andaman-and-nicobar-islands",
+    "name": "Sombrero Point",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Sombrero Point is a cape in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a cape in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 7.45,
+      "lon": 93.68333
+    }
+  },
+  {
+    "id": "sound-island-andaman-and-nicobar-islands",
+    "name": "Sound Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Sound Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.96333,
+      "lon": 92.97292
+    }
   },
   {
     "id": "south-andaman-island-andaman-and-nicobar-islands",
@@ -1359,12 +3506,32 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Great Andaman.",
-      "Stands at about 459 m elevation.",
-      "Covers about 1,262 km².",
-      "Lies in South Andaman district, Andaman and Nicobar Islands."
+      "Set beside Indian Ocean",
+      "Part of Great Andaman",
+      "Stands at about 459 m elevation",
+      "Covers about 1,262 km²",
+      "Lies in South Andaman district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "south-bay-andaman-and-nicobar-islands",
+    "name": "South Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "South Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 10.55,
+      "lon": 92.38333
+    }
   },
   {
     "id": "south-brother-island-andaman-islands-andaman-and-nicobar-islands",
@@ -1380,7 +3547,7 @@
       "island"
     ],
     "facts": [
-      "Lies in South Andaman district, Andaman and Nicobar Islands."
+      "Lies in South Andaman district, Andaman and Nicobar Islands"
     ]
   },
   {
@@ -1398,8 +3565,8 @@
       "island"
     ],
     "facts": [
-      "Dates from 1987.",
-      "Covers about 0.03 km²."
+      "Dates from 1987",
+      "Covers about 0.03 km²"
     ]
   },
   {
@@ -1416,11 +3583,11 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 166 m elevation.",
-      "Covers about 4.56 km².",
-      "Lies in South Andaman district, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 166 m elevation",
+      "Covers about 4.56 km²",
+      "Lies in South Andaman district, Andaman and Nicobar Islands"
     ]
   },
   {
@@ -1437,11 +3604,11 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Interview Group.",
-      "Stands at about 7 m elevation.",
-      "Covers about 0.08 km².",
-      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Interview Group",
+      "Stands at about 7 m elevation",
+      "Covers about 0.08 km²",
+      "Lies in Mayabunder tehsil, Andaman and Nicobar Islands"
     ]
   },
   {
@@ -1458,10 +3625,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 2 m elevation.",
-      "Covers about 1.61 km²."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 2 m elevation",
+      "Covers about 1.61 km²"
     ]
   },
   {
@@ -1478,9 +3645,9 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Andaman Islands.",
-      "Covers about 9.76 km²."
+      "Set beside Indian Ocean",
+      "Part of Andaman Islands",
+      "Covers about 9.76 km²"
     ]
   },
   {
@@ -1498,7 +3665,7 @@
       "island"
     ],
     "facts": [
-      "Dates from 1926."
+      "Dates from 1926"
     ]
   },
   {
@@ -1515,9 +3682,9 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Stands at about 0 m elevation.",
-      "Covers about 7.05 km²."
+      "Part of Andaman Islands",
+      "Stands at about 0 m elevation",
+      "Covers about 7.05 km²"
     ]
   },
   {
@@ -1534,11 +3701,11 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 27 m elevation.",
-      "Covers about 2.87 km².",
-      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 27 m elevation",
+      "Covers about 2.87 km²",
+      "Lies in North and Middle Andaman district, Andaman and Nicobar Islands"
     ]
   },
   {
@@ -1555,9 +3722,69 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 2.91 km²."
+      "Part of Andaman Islands",
+      "Covers about 2.91 km²"
     ]
+  },
+  {
+    "id": "talang-mu-andaman-and-nicobar-islands",
+    "name": "Talang Mu",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Talang Mu is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 13.13333,
+      "lon": 92.83333
+    }
+  },
+  {
+    "id": "tarasa-dwip-andaman-and-nicobar-islands",
+    "name": "Tarāsa Dwīp",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Tarāsa Dwīp is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 8.2594,
+      "lon": 93.11565
+    }
+  },
+  {
+    "id": "tarmugli-island-andaman-and-nicobar-islands",
+    "name": "Tarmugli Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Tarmugli Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 11.58333,
+      "lon": 92.55
+    }
   },
   {
     "id": "teressa-island-andaman-and-nicobar-islands",
@@ -1573,10 +3800,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Nicobar Islands.",
-      "Stands at about 250 m elevation.",
-      "Covers about 101 km²."
+      "Set beside Indian Ocean",
+      "Part of Nicobar Islands",
+      "Stands at about 250 m elevation",
+      "Covers about 101 km²"
     ]
   },
   {
@@ -1593,9 +3820,9 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Stands at about 27 m elevation.",
-      "Covers about 2.2 km²."
+      "Part of Andaman Islands",
+      "Stands at about 27 m elevation",
+      "Covers about 2.2 km²"
     ]
   },
   {
@@ -1612,12 +3839,52 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 76 m elevation.",
-      "Covers about 0.49 km².",
-      "Lies in South Andaman district, Andaman and Nicobar Islands."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 76 m elevation",
+      "Covers about 0.49 km²",
+      "Lies in South Andaman district, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "thornhill-island-andaman-and-nicobar-islands",
+    "name": "Thornhill Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Thornhill Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.53453,
+      "lon": 92.90915
+    }
+  },
+  {
+    "id": "tillanchang-dwip-andaman-and-nicobar-islands",
+    "name": "Tillanchāng Dwīp",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Tillanchāng Dwīp is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 8.5,
+      "lon": 93.61667
+    }
   },
   {
     "id": "tillangchong-andaman-and-nicobar-islands",
@@ -1633,10 +3900,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Nicobar Islands.",
-      "Stands at about 244 m elevation.",
-      "Covers about 14.7 km²."
+      "Set beside Indian Ocean",
+      "Part of Nicobar Islands",
+      "Stands at about 244 m elevation",
+      "Covers about 14.7 km²"
     ]
   },
   {
@@ -1649,8 +3916,108 @@
       "island"
     ],
     "facts": [
-      "Known as a nature destination in Andaman and Nicobar Islands."
+      "Known as a nature destination in Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "trak-island-andaman-and-nicobar-islands",
+    "name": "Trak Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Trak Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.4766,
+      "lon": 93.63283
+    }
+  },
+  {
+    "id": "treis-island-andaman-and-nicobar-islands",
+    "name": "Treis Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Treis Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 7.47358,
+      "lon": 93.6481
+    }
+  },
+  {
+    "id": "trilby-island-andaman-and-nicobar-islands",
+    "name": "Trilby Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Trilby Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 13.42076,
+      "lon": 93.06905
+    }
+  },
+  {
+    "id": "trinkat-champlong-bay-andaman-and-nicobar-islands",
+    "name": "Trinkat Champlong Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Trinkat Champlong Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 7.21667,
+      "lon": 93.85
+    }
+  },
+  {
+    "id": "trinkat-island-andaman-and-nicobar-islands",
+    "name": "Trinkat Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Trinkat Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 8.09594,
+      "lon": 93.5788
+    }
   },
   {
     "id": "trinket-island-andaman-and-nicobar-islands",
@@ -1666,10 +4033,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Indian Ocean.",
-      "Part of Nicobar Islands.",
-      "Stands at about 10 m elevation.",
-      "Covers about 17.8 km²."
+      "Set beside Indian Ocean",
+      "Part of Nicobar Islands",
+      "Stands at about 10 m elevation",
+      "Covers about 17.8 km²"
     ]
   },
   {
@@ -1686,9 +4053,29 @@
       "island"
     ],
     "facts": [
-      "Part of Andaman Islands.",
-      "Covers about 0.59 km²."
+      "Part of Andaman Islands",
+      "Covers about 0.59 km²"
     ]
+  },
+  {
+    "id": "twin-rock-andaman-and-nicobar-islands",
+    "name": "Twin Rock",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Twin Rock is a rock in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a rock in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "rock"
+    ],
+    "coordinates": {
+      "lat": 6.92222,
+      "lon": 93.94722
+    }
   },
   {
     "id": "viper-island-andaman-and-nicobar-islands",
@@ -1704,10 +4091,10 @@
       "island"
     ],
     "facts": [
-      "Set beside Bay of Bengal.",
-      "Part of Andaman Islands.",
-      "Stands at about 0 m elevation.",
-      "Covers about 0.3 km²."
+      "Set beside Bay of Bengal",
+      "Part of Andaman Islands",
+      "Stands at about 0 m elevation",
+      "Covers about 0.3 km²"
     ]
   },
   {
@@ -1722,8 +4109,28 @@
       "island"
     ],
     "facts": [
-      "Lies in Ferrargunj tehsil, Andaman and Nicobar Islands."
+      "Lies in Ferrargunj tehsil, Andaman and Nicobar Islands"
     ]
+  },
+  {
+    "id": "west-bay-andaman-and-nicobar-islands",
+    "name": "West Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "West Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 10.6,
+      "lon": 92.36667
+    }
   },
   {
     "id": "west-island-andaman-islands-andaman-and-nicobar-islands",
@@ -1739,7 +4146,7 @@
       "island"
     ],
     "facts": [
-      "Covers about 2.85 km²."
+      "Covers about 2.85 km²"
     ]
   },
   {
@@ -1756,7 +4163,47 @@
       "island"
     ],
     "facts": [
-      "Part of The Sisters."
+      "Part of The Sisters"
     ]
+  },
+  {
+    "id": "wilson-island-andaman-and-nicobar-islands",
+    "name": "Wilson Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Wilson Island is a island in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a island in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "island"
+    ],
+    "coordinates": {
+      "lat": 12.13333,
+      "lon": 92.98333
+    }
+  },
+  {
+    "id": "woodmason-bay-andaman-and-nicobar-islands",
+    "name": "Woodmason Bay",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Woodmason Bay is a bay in Andaman and Nicobar Islands, India.",
+    "facts": [
+      "Listed in geographic records as a bay in Andaman and Nicobar Islands",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.41667,
+      "lon": 92.58333
+    }
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "aayi-mandapam-puducherry",
+    "name": "Aayi Mandapam",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Aayi Mandapam is a monument in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a monument in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 11.9331,
+      "lon": 79.8342
+    }
+  },
+  {
     "id": "aayiram-kaliamman-temple-puducherry",
     "name": "Aayiram Kaliamman Temple",
     "state": "Puducherry",
@@ -13,7 +33,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -23,8 +43,8 @@
     "category": "heritage",
     "description": "Arikamedu, Early Historic Site is a protected monument in Puducherry, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Ariyankuppam, Puducherry."
+      "Recognised as a State Protected Monument",
+      "Lies in Ariyankuppam, Puducherry"
     ],
     "tags": [
       "lesser-known",
@@ -46,8 +66,8 @@
       "archaeological-site"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Puducherry district, Puducherry."
+      "Recognised as Monument of National Importance",
+      "Lies in Puducherry district, Puducherry"
     ]
   },
   {
@@ -64,8 +84,8 @@
       "lake"
     ],
     "facts": [
-      "Recognised as Water Heritage Site.",
-      "Lies in Puducherry district, Puducherry."
+      "Recognised as Water Heritage Site",
+      "Lies in Puducherry district, Puducherry"
     ]
   },
   {
@@ -82,12 +102,12 @@
       "church"
     ],
     "facts": [
-      "Dates from 1907.",
-      "Built in the Gothic Revival style.",
-      "Dedicated to Sacred Heart.",
-      "Associated with Catholicism.",
-      "Named after Sacred Heart.",
-      "Lies in Pondicherry, Puducherry."
+      "Dates from 1907",
+      "Built in the Gothic Revival style",
+      "Dedicated to Sacred Heart",
+      "Associated with Catholicism",
+      "Named after Sacred Heart",
+      "Lies in Pondicherry, Puducherry"
     ]
   },
   {
@@ -100,10 +120,10 @@
       "church"
     ],
     "facts": [
-      "Dates from the 1st century.",
-      "Founded by Jesus Christ.",
-      "Associated with Christianity.",
-      "Part of Catholicism."
+      "Dates from the 1st century",
+      "Founded by Jesus Christ",
+      "Associated with Christianity",
+      "Part of Catholicism"
     ]
   },
   {
@@ -120,7 +140,7 @@
       "beach"
     ],
     "facts": [
-      "Known as a beach destination in Puducherry."
+      "Known as a beach destination in Puducherry"
     ]
   },
   {
@@ -130,8 +150,8 @@
     "category": "spiritual",
     "description": "Ekambaresvara Temple is a protected monument in Puducherry, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Sethur, Puducherry."
+      "Recognised as a State Protected Monument",
+      "Lies in Sethur, Puducherry"
     ],
     "tags": [
       "lesser-known",
@@ -152,7 +172,7 @@
       "fort"
     ],
     "facts": [
-      "Known as a heritage destination in Puducherry."
+      "Known as a heritage destination in Puducherry"
     ]
   },
   {
@@ -166,7 +186,7 @@
       "church"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -183,10 +203,10 @@
       "church"
     ],
     "facts": [
-      "Dates from 1791.",
-      "Built in the baroque architecture style.",
-      "Associated with Catholicism.",
-      "Lies in Pondicherry, Puducherry."
+      "Dates from 1791",
+      "Built in the baroque architecture style",
+      "Associated with Catholicism",
+      "Lies in Pondicherry, Puducherry"
     ]
   },
   {
@@ -203,7 +223,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -220,7 +240,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -237,7 +257,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -254,7 +274,7 @@
       "beach"
     ],
     "facts": [
-      "Known as a beach destination in Puducherry."
+      "Known as a beach destination in Puducherry"
     ]
   },
   {
@@ -268,8 +288,8 @@
       "lon": 79.83194
     },
     "facts": [
-      "Stands at about 0 m elevation.",
-      "Lies in Karaikal district, Puducherry."
+      "Stands at about 0 m elevation",
+      "Lies in Karaikal district, Puducherry"
     ]
   },
   {
@@ -286,7 +306,7 @@
       "mosque"
     ],
     "facts": [
-      "Built in the Indo-Islamic architecture style."
+      "Built in the Indo-Islamic architecture style"
     ]
   },
   {
@@ -303,8 +323,28 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
+  },
+  {
+    "id": "meeran-mosque-puducherry",
+    "name": "Meeran Mosque",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Meeran Mosque is a mosque in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a mosque in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mosque"
+    ],
+    "coordinates": {
+      "lat": 11.928,
+      "lon": 79.83
+    }
   },
   {
     "id": "meerapalli-puducherry",
@@ -320,7 +360,7 @@
       "mosque"
     ],
     "facts": [
-      "Built in the Islamic architecture style."
+      "Built in the Islamic architecture style"
     ]
   },
   {
@@ -333,8 +373,8 @@
       "church"
     ],
     "facts": [
-      "Founded by John Wesley.",
-      "Associated with Christianity."
+      "Founded by John Wesley",
+      "Associated with Christianity"
     ]
   },
   {
@@ -344,8 +384,8 @@
     "category": "spiritual",
     "description": "Mulanathaswami Temple is a protected monument in Puducherry, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Bahour, Puducherry."
+      "Recognised as a State Protected Monument",
+      "Lies in Bahour, Puducherry"
     ],
     "tags": [
       "lesser-known",
@@ -366,8 +406,28 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Puducherry."
+      "Known as a nature destination in Puducherry"
     ]
+  },
+  {
+    "id": "nedungadu-tantondresswara-temple-puducherry",
+    "name": "Nedungadu Tantondresswara temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Nedungadu Tantondresswara temple is a temple in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 10.9676,
+      "lon": 79.7714
+    }
   },
   {
     "id": "nithyakalyana-perumal-temple-karaikal-puducherry",
@@ -383,7 +443,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -400,8 +460,8 @@
       "church"
     ],
     "facts": [
-      "Built in the Gothic Revival style.",
-      "Lies in Karaikal, Puducherry."
+      "Built in the Gothic Revival style",
+      "Lies in Karaikal, Puducherry"
     ]
   },
   {
@@ -418,8 +478,8 @@
       "church"
     ],
     "facts": [
-      "Dedicated to Our Lady of Lourdes.",
-      "Lies in Pondicherry, Puducherry."
+      "Dedicated to Our Lady of Lourdes",
+      "Lies in Pondicherry, Puducherry"
     ]
   },
   {
@@ -436,10 +496,10 @@
       "church"
     ],
     "facts": [
-      "Built in the Gothic Revival style.",
-      "Dedicated to Our Lady of Lourdes.",
-      "Associated with Catholicism.",
-      "Lies in Villianur, Puducherry."
+      "Built in the Gothic Revival style",
+      "Dedicated to Our Lady of Lourdes",
+      "Associated with Catholicism",
+      "Lies in Villianur, Puducherry"
     ]
   },
   {
@@ -453,8 +513,8 @@
       "lon": 79.74182
     },
     "facts": [
-      "Dates from 2018.",
-      "Covers about 3.9 km²."
+      "Dates from 2018",
+      "Covers about 3.9 km²"
     ]
   },
   {
@@ -471,7 +531,7 @@
       "lake"
     ],
     "facts": [
-      "Lies in Puducherry district, Puducherry."
+      "Lies in Puducherry district, Puducherry"
     ]
   },
   {
@@ -481,8 +541,8 @@
     "category": "spiritual",
     "description": "Panchanadisvara Temple is a protected monument in Puducherry, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Thiruvandarkoil, Puducherry."
+      "Recognised as a State Protected Monument",
+      "Lies in Thiruvandarkoil, Puducherry"
     ],
     "tags": [
       "lesser-known",
@@ -503,7 +563,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -517,9 +577,9 @@
       "lon": 79.83558
     },
     "facts": [
-      "Dates from 1836.",
-      "Rises about 27 m.",
-      "Lies in Pondicherry, Puducherry."
+      "Dates from 1836",
+      "Rises about 27 m",
+      "Lies in Pondicherry, Puducherry"
     ]
   },
   {
@@ -537,10 +597,10 @@
       "museum"
     ],
     "facts": [
-      "Dates from 1 November 1954.",
-      "Founded by François Martin.",
-      "Stands at about 3 m elevation.",
-      "Covers about 19.5 km²."
+      "Dates from 1 November 1954",
+      "Founded by François Martin",
+      "Stands at about 3 m elevation",
+      "Covers about 19.5 km²"
     ]
   },
   {
@@ -557,8 +617,28 @@
       "beach"
     ],
     "facts": [
-      "Lies in Pondicherry, Puducherry."
+      "Lies in Pondicherry, Puducherry"
     ]
+  },
+  {
+    "id": "puducherry-museum-puducherry",
+    "name": "Puducherry Museum",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Puducherry Museum is a museum in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 11.93442,
+      "lon": 79.83493
+    }
   },
   {
     "id": "puducherry-union-territory-puducherry",
@@ -577,10 +657,10 @@
       "lesser-known"
     ],
     "facts": [
-      "Dates from 1 November 1954.",
-      "Part of South India.",
-      "Stands at about 16 m elevation.",
-      "Covers about 492 km²."
+      "Dates from 1 November 1954",
+      "Part of South India",
+      "Stands at about 16 m elevation",
+      "Covers about 492 km²"
     ]
   },
   {
@@ -597,7 +677,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -610,25 +690,28 @@
       "church"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
-    "id": "south-india-puducherry",
-    "name": "South India",
+    "id": "sri-sengazhuneer-amman-temple-puducherry",
+    "name": "Sri Sengazhuneer Amman Temple",
     "state": "Puducherry",
     "category": "spiritual",
-    "description": "South India is a geographic region in India.",
-    "coordinates": {
-      "lat": 13.0,
-      "lon": 77.0
-    },
-    "tags": [
-      "church"
-    ],
+    "description": "Sri Sengazhuneer Amman Temple is a temple in Puducherry, India.",
     "facts": [
-      "Covers about 635,780 km²."
-    ]
+      "Listed in structured geographic data as a temple in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 11.89424,
+      "lon": 79.82424
+    }
   },
   {
     "id": "st-andrew-s-church-puducherry-puducherry",
@@ -644,7 +727,7 @@
       "church"
     ],
     "facts": [
-      "Built in the Gothic architecture style."
+      "Built in the Gothic architecture style"
     ]
   },
   {
@@ -657,7 +740,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -667,8 +750,8 @@
     "category": "spiritual",
     "description": "Swayambunathaswamy Temple is a protected monument in Puducherry, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Nedungadu, Puducherry."
+      "Recognised as a State Protected Monument",
+      "Lies in Nedungadu, Puducherry"
     ],
     "tags": [
       "lesser-known",
@@ -689,7 +772,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -699,8 +782,8 @@
     "category": "spiritual",
     "description": "Thirukundangudimahadeva Temple is a protected monument in Puducherry, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Madagadipattu, Puducherry."
+      "Recognised as a State Protected Monument",
+      "Lies in Madagadipattu, Puducherry"
     ],
     "tags": [
       "lesser-known",
@@ -717,7 +800,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -734,9 +817,29 @@
       "temple"
     ],
     "facts": [
-      "Built in the Dravidian architecture style.",
-      "Lies in Karaikal district, Puducherry."
+      "Built in the Dravidian architecture style",
+      "Lies in Karaikal district, Puducherry"
     ]
+  },
+  {
+    "id": "tirunallar-saniswaran-temple-puducherry",
+    "name": "Tirunallar Saniswaran Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Tirunallar Saniswaran Temple is a temple in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 10.9167,
+      "lon": 79.7833
+    }
   },
   {
     "id": "tiruttelicheri-parvatheeswarar-temple-puducherry",
@@ -752,8 +855,28 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
+  },
+  {
+    "id": "uppalam-harbour-beach-puducherry",
+    "name": "Uppalam Harbour Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "description": "Uppalam Harbour Beach is a beach in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a beach in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.90728,
+      "lon": 79.83076
+    }
   },
   {
     "id": "vadukeeswarar-temple-puducherry",
@@ -769,7 +892,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -779,8 +902,8 @@
     "category": "spiritual",
     "description": "Varadaraja Perumal Temple is a protected monument in Puducherry, India.",
     "facts": [
-      "Recognised as a State Protected Monument.",
-      "Lies in Thirubhuvani, Puducherry."
+      "Recognised as a State Protected Monument",
+      "Lies in Thirubhuvani, Puducherry"
     ],
     "tags": [
       "lesser-known",
@@ -802,8 +925,8 @@
       "archaeological-site"
     ],
     "facts": [
-      "Recognised as Monument of National Importance.",
-      "Lies in Puducherry district, Puducherry."
+      "Recognised as Monument of National Importance",
+      "Lies in Puducherry district, Puducherry"
     ]
   },
   {
@@ -821,9 +944,9 @@
       "archaeological-site"
     ],
     "facts": [
-      "Dates from 955.",
-      "Founded by Parantaka I.",
-      "Lies in Puducherry district, Puducherry."
+      "Dates from 955",
+      "Founded by Parantaka I",
+      "Lies in Puducherry district, Puducherry"
     ]
   },
   {
@@ -840,7 +963,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   },
   {
@@ -857,7 +980,7 @@
       "lake"
     ],
     "facts": [
-      "Known as a nature destination in Puducherry."
+      "Known as a nature destination in Puducherry"
     ]
   },
   {
@@ -874,7 +997,7 @@
       "beach"
     ],
     "facts": [
-      "Known as a beach destination in Puducherry."
+      "Known as a beach destination in Puducherry"
     ]
   },
   {
@@ -891,7 +1014,7 @@
       "temple"
     ],
     "facts": [
-      "Known as a spiritual destination in Puducherry."
+      "Known as a spiritual destination in Puducherry"
     ]
   }
 ]

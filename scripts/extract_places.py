@@ -465,10 +465,13 @@ def category_members(title: str) -> list[dict]:
 def clean_wiki(text: str) -> str:
     text = re.sub(r"<ref[^>]*>.*?</ref>", " ", text, flags=re.I | re.S)
     text = re.sub(r"<ref[^>]*/>", " ", text, flags=re.I)
-    text = re.sub(r"\[\[([^\]|#]+)\|([^\]]+)\]\]", r"\2", text)
+    text = re.sub(r"<br\s*/?>", " ", text, flags=re.I)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\[\[([^\]|]+)\|([^\]]+)\]\]", r"\2", text)
     text = re.sub(r"\[\[([^\]|#]+)\]\]", r"\1", text)
     text = re.sub(r"\{\{[^{}]*\}\}", " ", text)
     text = re.sub(r"''+", "", text)
+    text = text.replace("[[", " ").replace("]]", " ")
     return " ".join(text.replace("_", " ").split()).strip(" .")
 
 
@@ -763,7 +766,13 @@ LIST_NAME_RE = re.compile(
 
 
 def is_tourism_record(name: str, description: str) -> bool:
-    if name in STATES:
+    if name in STATES or name in {
+        "1984 anti-Sikh riots",
+        "Independence Day (India)",
+        "South India",
+    }:
+        return False
+    if re.search(r"unnamed|<br|\[\[|\{\{", name, re.I):
         return False
     if re.match(r"^All (ancient|mounds|structures|buildings)\b", name, re.I):
         return False

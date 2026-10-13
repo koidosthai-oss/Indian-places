@@ -56,7 +56,7 @@ def test_every_state_and_territory_has_places():
         total += len(records)
         with_facts = sum(1 for record in records if record.get("facts"))
         assert with_facts == len(records), name
-    assert total >= 9000
+    assert total >= 40000
 
 
 def test_validate_places_exits_zero():
