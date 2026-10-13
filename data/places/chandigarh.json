@@ -1,0 +1,295 @@
+[
+  {
+    "id": "burail-fort-chandigarh",
+    "name": "Burail Fort",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Burail Fort is a fortification in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.7075,
+      "lon": 76.76111
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "chandi-mandir-chandigarh",
+    "name": "Chandi Mandir",
+    "state": "Chandigarh",
+    "category": "spiritual",
+    "description": "Chandi Mandir is a hindu temple in India.",
+    "coordinates": {
+      "lat": 30.73528,
+      "lon": 76.79111
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "chandigarh-bird-park-chandigarh",
+    "name": "Chandigarh Bird Park",
+    "state": "Chandigarh",
+    "category": "wildlife",
+    "description": "Chandigarh Bird Park is a zoo in Chandigarh.",
+    "coordinates": {
+      "lat": 30.74861,
+      "lon": 76.81028
+    }
+  },
+  {
+    "id": "chandigarh-capitol-complex-chandigarh",
+    "name": "Chandigarh Capitol Complex",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Chandigarh Capitol Complex is a UNESCO World Heritage Site in Chandigarh capital region, India.",
+    "coordinates": {
+      "lat": 30.75917,
+      "lon": 76.80472
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "chandigarh-golf-club-chandigarh",
+    "name": "Chandigarh Golf Club",
+    "state": "Chandigarh",
+    "category": "other",
+    "description": "Chandigarh Golf Club is a golf Club.",
+    "coordinates": {
+      "lat": 30.7361,
+      "lon": 76.8161
+    }
+  },
+  {
+    "id": "chandigarh-hockey-stadium-chandigarh",
+    "name": "Chandigarh Hockey Stadium",
+    "state": "Chandigarh",
+    "category": "other",
+    "description": "Chandigarh Hockey Stadium is a building in India.",
+    "coordinates": {
+      "lat": 30.72889,
+      "lon": 76.74583
+    }
+  },
+  {
+    "id": "gandhi-bhawan-chandigarh-chandigarh",
+    "name": "Gandhi Bhawan, Chandigarh",
+    "state": "Chandigarh",
+    "category": "other",
+    "description": "Gandhi Bhawan, Chandigarh is an auditorium hall in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.76187,
+      "lon": 76.77141
+    }
+  },
+  {
+    "id": "garden-of-silence-chandigarh",
+    "name": "Garden of Silence",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Garden of Silence is a meditative space in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.7385,
+      "lon": 76.82967
+    }
+  },
+  {
+    "id": "garden-of-springs-chandigarh-chandigarh",
+    "name": "Garden of Springs, Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Garden of Springs, Chandigarh is a park in India.",
+    "coordinates": {
+      "lat": 30.723,
+      "lon": 76.736
+    }
+  },
+  {
+    "id": "government-museum-and-art-gallery-chandigarh-chandigarh",
+    "name": "Government Museum and Art Gallery, Chandigarh",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Government Museum and Art Gallery, Chandigarh is an art museum, architecture museum, natural history museum in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.74888,
+      "lon": 76.78742
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "japanese-garden-chandigarh-chandigarh",
+    "name": "Japanese Garden, Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Japanese Garden, Chandigarh is a park located in Sector 31, Chandigarh.",
+    "coordinates": {
+      "lat": 30.70453,
+      "lon": 76.78206
+    }
+  },
+  {
+    "id": "leisure-valley-chandigarh-chandigarh",
+    "name": "Leisure Valley, Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Leisure Valley, Chandigarh is a botanical garden in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.75306,
+      "lon": 76.79194
+    }
+  },
+  {
+    "id": "mahendra-chaudhary-zoological-park-chandigarh",
+    "name": "Mahendra Chaudhary Zoological Park",
+    "state": "Chandigarh",
+    "category": "wildlife",
+    "description": "Mahendra Chaudhary Zoological Park is a zoo in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.6036,
+      "lon": 76.7928
+    }
+  },
+  {
+    "id": "manimajra-fort-chandigarh",
+    "name": "Manimajra Fort",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Manimajra Fort is a fort situated in Mani Majra town of Chandigarh city.",
+    "coordinates": {
+      "lat": 30.43,
+      "lon": 76.5
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "open-hand-monument-chandigarh",
+    "name": "Open Hand Monument",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Open Hand Monument is a monument in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.759,
+      "lon": 76.8074
+    }
+  },
+  {
+    "id": "palace-of-assembly-chandigarh",
+    "name": "Palace of Assembly",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Palace of Assembly is a building in India.",
+    "coordinates": {
+      "lat": 30.76111,
+      "lon": 76.80306
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "parrot-bird-sanctuary-chandigarh-chandigarh",
+    "name": "Parrot Bird Sanctuary, Chandigarh",
+    "state": "Chandigarh",
+    "category": "wildlife",
+    "description": "Parrot Bird Sanctuary, Chandigarh is a bird sanctuary in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.725,
+      "lon": 76.77917
+    }
+  },
+  {
+    "id": "rock-garden-of-chandigarh-chandigarh",
+    "name": "Rock Garden of Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.752,
+      "lon": 76.807
+    }
+  },
+  {
+    "id": "secretariat-building-chandigarh-chandigarh",
+    "name": "Secretariat Building, Chandigarh",
+    "state": "Chandigarh",
+    "category": "other",
+    "description": "Secretariat Building, Chandigarh is a building in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.76111,
+      "lon": 76.80056
+    }
+  },
+  {
+    "id": "sukhna-interpretation-centre-chandigarh",
+    "name": "Sukhna Interpretation Centre",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "description": "Sukhna Interpretation Centre is an art museum in Sukhna Lake.",
+    "coordinates": {
+      "lat": 30.7387,
+      "lon": 76.81336
+    },
+    "tags": [
+      "lake",
+      "museum"
+    ]
+  },
+  {
+    "id": "sukhna-lake-chandigarh",
+    "name": "Sukhna Lake",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Sukhna Lake is a reservoir in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.74029,
+      "lon": 76.81894
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sukhna-wildlife-sanctuary-chandigarh",
+    "name": "Sukhna Wildlife Sanctuary",
+    "state": "Chandigarh",
+    "category": "wildlife",
+    "description": "Sukhna Wildlife Sanctuary is a wildlife sanctuary in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.7757,
+      "lon": 76.8512
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "terraced-garden-chandigarh-chandigarh",
+    "name": "Terraced Garden, Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Terraced Garden, Chandigarh is a public garden in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.71444,
+      "lon": 76.77167
+    }
+  },
+  {
+    "id": "zakir-husain-rose-garden-chandigarh",
+    "name": "Zakir Husain Rose Garden",
+    "state": "Chandigarh",
+    "category": "nature",
+    "description": "Zakir Husain Rose Garden is a botanical garden in Chandigarh, India.",
+    "coordinates": {
+      "lat": 30.74811,
+      "lon": 76.78374
+    }
+  }
+]

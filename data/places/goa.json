@@ -1,0 +1,1764 @@
+[
+  {
+    "id": "adil-shah-palace-goa",
+    "name": "Adil Shah Palace",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Adil Shah Palace is a heritage building in Goa, India.",
+    "coordinates": {
+      "lat": 15.50002,
+      "lon": 73.82993
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "agonda-goa",
+    "name": "Agonda",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Agonda is a village in South Goa, India.",
+    "coordinates": {
+      "lat": 15.05091,
+      "lon": 73.9876
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "agrashala-goa",
+    "name": "Agrashala",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Agrashala is a tourism place in Goa, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "alorna-fort-goa",
+    "name": "Alorna Fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Alorna Fort is a building in India.",
+    "coordinates": {
+      "lat": 15.70022,
+      "lon": 73.90539
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "anjediva-island-goa",
+    "name": "Anjediva Island",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Anjediva Island is an island in India.",
+    "coordinates": {
+      "lat": 14.75667,
+      "lon": 74.1125
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "anjuna-goa",
+    "name": "Anjuna",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Anjuna is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.5833,
+      "lon": 73.7333
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "arambol-goa",
+    "name": "Arambol",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Arambol is a resort town in Goa, India.",
+    "coordinates": {
+      "lat": 15.7,
+      "lon": 73.7
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "arch-of-the-viceroys-goa",
+    "name": "Arch of the Viceroys",
+    "state": "Goa",
+    "category": "other",
+    "description": "Arch of the Viceroys is a velha Goa, Goa, Índia.",
+    "coordinates": {
+      "lat": 15.50602,
+      "lon": 73.91371
+    }
+  },
+  {
+    "id": "archaeological-museum-and-portrait-gallery-goa",
+    "name": "Archaeological Museum and Portrait Gallery",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Archaeological Museum and Portrait Gallery in Old Goa.",
+    "coordinates": {
+      "lat": 15.50314,
+      "lon": 73.91086
+    },
+    "tags": [
+      "museum",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "ashvek-vintage-world-goa",
+    "name": "Ashvek Vintage World",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Ashvek Vintage World is a vintage car museum in South Goa, India.",
+    "coordinates": {
+      "lat": 15.32113,
+      "lon": 73.94149
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "azad-maidan-public-square-goa",
+    "name": "Azad Maidan (public square)",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Azad Maidan (public square) is a martyrs' monument and ground in Panaji, Goa.",
+    "coordinates": {
+      "lat": 15.5,
+      "lon": 73.82611
+    }
+  },
+  {
+    "id": "basilica-of-bom-jesus-goa",
+    "name": "Basilica of Bom Jesus",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Basilica of Bom Jesus is a church in Velha Goa, India.",
+    "coordinates": {
+      "lat": 15.50087,
+      "lon": 73.91159
+    },
+    "tags": [
+      "world-heritage",
+      "church"
+    ]
+  },
+  {
+    "id": "benaulim-goa",
+    "name": "Benaulim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Benaulim is a village in South Goa District, Goa, India.",
+    "coordinates": {
+      "lat": 15.25,
+      "lon": 73.92
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "bhagwan-mahaveer-sanctuary-and-mollem-national-park-goa",
+    "name": "Bhagwan Mahaveer Sanctuary and Mollem National Park",
+    "state": "Goa",
+    "category": "wildlife",
+    "description": "Bhagwan Mahaveer Sanctuary and Mollem National Park is a national park in Goa, India.",
+    "coordinates": {
+      "lat": 15.37361,
+      "lon": 74.25861
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "big-foot-museum-goa",
+    "name": "Big Foot Museum",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Big Foot Museum is a museum and theme park in Goa, India.",
+    "coordinates": {
+      "lat": 15.3396,
+      "lon": 73.9875
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "bogmalo-goa",
+    "name": "Bogmalo",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Bogmalo is a village in Goa.",
+    "coordinates": {
+      "lat": 15.36972,
+      "lon": 73.83361
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "bondla-wildlife-sanctuary-goa",
+    "name": "Bondla Wildlife Sanctuary",
+    "state": "Goa",
+    "category": "wildlife",
+    "description": "Bondla Wildlife Sanctuary is a wildlife sanctuary in Goa, India.",
+    "coordinates": {
+      "lat": 15.4268,
+      "lon": 74.1136
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "brahma-temple-bramha-karmali-goa",
+    "name": "Brahma Temple, Bramha Karmali",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Brahma Temple, Bramha Karmali is a temple in Goa, India.",
+    "coordinates": {
+      "lat": 15.56954,
+      "lon": 74.16267
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "cabo-de-rama-fort-goa",
+    "name": "Cabo de Rama Fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Cabo de Rama Fort is a building in India.",
+    "coordinates": {
+      "lat": 15.08861,
+      "lon": 73.92194
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "calangute-goa",
+    "name": "Calangute",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Calangute is a census town in North Goa.",
+    "coordinates": {
+      "lat": 15.545,
+      "lon": 73.76306
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "candolim-goa",
+    "name": "Candolim",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Candolim is a town in North Goa District, Goa, India.",
+    "coordinates": {
+      "lat": 15.52,
+      "lon": 73.75
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "capela-de-nossa-senhora-da-saude-goa",
+    "name": "Capela de Nossa Senhora da Saúde",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Capela de Nossa Senhora da Saúde is a church in Goa, India.",
+    "coordinates": {
+      "lat": 15.54912,
+      "lon": 73.89188
+    },
+    "tags": [
+      "church",
+      "island"
+    ]
+  },
+  {
+    "id": "caranzalem-goa",
+    "name": "Caranzalem",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Caranzalem is a village in India.",
+    "coordinates": {
+      "lat": 15.45,
+      "lon": 73.8
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "carmona-goa-goa",
+    "name": "Carmona, Goa",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Carmona, Goa is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.2,
+      "lon": 73.95
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "cavelossim-goa",
+    "name": "Cavelossim",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Cavelossim is a village in India.",
+    "coordinates": {
+      "lat": 15.174,
+      "lon": 73.945
+    },
+    "tags": [
+      "beach",
+      "cave"
+    ]
+  },
+  {
+    "id": "chapel-of-our-lady-of-the-mount-goa",
+    "name": "Chapel of Our Lady of the Mount",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Chapel of Our Lady of the Mount is a velha Goa, Goa, Índia.",
+    "coordinates": {
+      "lat": 15.50436,
+      "lon": 73.92335
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "chapel-of-sacra-familia-chorao-island-goa",
+    "name": "Chapel of Sacra Familia (Chorão Island)",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Chapel of Sacra Familia (Chorão Island) is a church in Goa, India.",
+    "coordinates": {
+      "lat": 15.557,
+      "lon": 73.885
+    },
+    "tags": [
+      "church",
+      "island"
+    ]
+  },
+  {
+    "id": "chapel-of-st-catherine-goa",
+    "name": "Chapel of St. Catherine",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Chapel of St. Catherine is a church in Old Goa, India.",
+    "coordinates": {
+      "lat": 15.50348,
+      "lon": 73.91047
+    },
+    "tags": [
+      "world-heritage",
+      "church"
+    ]
+  },
+  {
+    "id": "chapel-of-st-jerome-chorao-island-goa",
+    "name": "Chapel of St. Jerome (Chorão Island)",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Chapel of St. Jerome (Chorão Island) is a church in Goa, India.",
+    "coordinates": {
+      "lat": 15.52745,
+      "lon": 73.87789
+    },
+    "tags": [
+      "church",
+      "island"
+    ]
+  },
+  {
+    "id": "chapora-beach-goa",
+    "name": "Chapora Beach",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Chapora Beach is a beach and village near the fort.",
+    "coordinates": {
+      "lat": 15.60605,
+      "lon": 73.74017
+    },
+    "tags": [
+      "beach",
+      "fort"
+    ]
+  },
+  {
+    "id": "chapora-fort-goa",
+    "name": "Chapora Fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Chapora Fort is a fort in Goa, India.",
+    "coordinates": {
+      "lat": 15.60611,
+      "lon": 73.73639
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "chorao-island-goa",
+    "name": "Chorão (island)",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Chorão (island) is a village and river island in Goa, India.",
+    "coordinates": {
+      "lat": 15.52556,
+      "lon": 73.87528
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "church-and-convent-of-st-francis-of-assisi-goa",
+    "name": "Church and Convent of St. Francis of Assisi",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Church and Convent of St. Francis of Assisi is a church and cloister in Velha Goa, India.",
+    "coordinates": {
+      "lat": 15.50317,
+      "lon": 73.91138
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "church-of-our-lady-of-springs-goa",
+    "name": "Church of Our Lady of Springs",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Church of Our Lady of Springs is a church in Angediva, Goa, India.",
+    "coordinates": {
+      "lat": 14.76094,
+      "lon": 74.11126
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "church-of-our-lady-of-the-rosary-goa-goa",
+    "name": "Church of Our Lady of the Rosary (Goa)",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Church of Our Lady of the Rosary (Goa) is a church in Old Goa.",
+    "coordinates": {
+      "lat": 15.50174,
+      "lon": 73.90495
+    },
+    "tags": [
+      "world-heritage",
+      "church"
+    ]
+  },
+  {
+    "id": "church-of-st-anne-talaulim-goa",
+    "name": "Church of St. Anne, Talaulim",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Church of St. Anne, Talaulim is a building in India.",
+    "coordinates": {
+      "lat": 15.4781,
+      "lon": 73.8914
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "church-of-st-augustine-goa-goa",
+    "name": "Church of St. Augustine, Goa",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Church of St. Augustine, Goa is a church in India.",
+    "coordinates": {
+      "lat": 15.50017,
+      "lon": 73.90649
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "churches-and-convents-of-goa-goa",
+    "name": "Churches and convents of Goa",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Churches and convents of Goa is an indian World Heritage site.",
+    "coordinates": {
+      "lat": 15.5024,
+      "lon": 73.9117
+    },
+    "tags": [
+      "world-heritage",
+      "church"
+    ]
+  },
+  {
+    "id": "colva-goa",
+    "name": "Colva",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Colva is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.27611,
+      "lon": 73.91722
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "corjuem-fort-goa",
+    "name": "Corjuem Fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Corjuem Fort is a building in India.",
+    "coordinates": {
+      "lat": 15.5968,
+      "lon": 73.8928
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "cotigao-wildlife-sanctuary-goa",
+    "name": "Cotigao Wildlife Sanctuary",
+    "state": "Goa",
+    "category": "wildlife",
+    "description": "Cotigao Wildlife Sanctuary is a wildlife Sanctuary.",
+    "coordinates": {
+      "lat": 14.976,
+      "lon": 74.206
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "d-mello-house-goa",
+    "name": "D'Mello House",
+    "state": "Goa",
+    "category": "other",
+    "description": "D'Mello House is a mansion/Bungalow in Goa, India.",
+    "coordinates": {
+      "lat": 15.31513,
+      "lon": 73.9959
+    }
+  },
+  {
+    "id": "damodar-sansthaan-goa",
+    "name": "Damodar Sansthaan",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Damodar Sansthaan is a hindu temple in Goa.",
+    "coordinates": {
+      "lat": 15.18664,
+      "lon": 74.09484
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dona-paula-goa",
+    "name": "Dona Paula",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Dona Paula is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.45056,
+      "lon": 73.80333
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "dudhsagar-falls-goa",
+    "name": "Dudhsagar Falls",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Dudhsagar Falls is a tiered waterfall located on the Mandovi River in the Indian state of Goa.",
+    "coordinates": {
+      "lat": 15.31277,
+      "lon": 74.31416
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "fort-aguada-goa",
+    "name": "Fort Aguada",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort Aguada is a seventeenth-century Portuguese fort in Goa.",
+    "coordinates": {
+      "lat": 15.49229,
+      "lon": 73.77365
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "fort-anjediva-goa",
+    "name": "Fort Anjediva",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort Anjediva is a building in India.",
+    "coordinates": {
+      "lat": 14.7864,
+      "lon": 74.12
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "fort-naroa-goa",
+    "name": "Fort Naroa",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort Naroa is a fort in Goa, India.",
+    "coordinates": {
+      "lat": 15.53795,
+      "lon": 73.92241
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "fort-of-sao-tiago-of-banastarim-goa",
+    "name": "Fort of São Tiago of Banastarim",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort of São Tiago of Banastarim is a building in India.",
+    "coordinates": {
+      "lat": 15.49122,
+      "lon": 73.95657
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "fort-santo-estevao-goa",
+    "name": "Fort Santo Estevão",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort Santo Estevão is a military structure erected in Santo Estevão Island, in Goa, India.",
+    "coordinates": {
+      "lat": 15.53605,
+      "lon": 73.95425
+    },
+    "tags": [
+      "fort",
+      "island"
+    ]
+  },
+  {
+    "id": "fort-sao-bartolomeu-goa",
+    "name": "Fort São Bartolomeu",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort São Bartolomeu is a portuguese fort in Goa, India.",
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "fort-tiracol-goa",
+    "name": "Fort Tiracol",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fort Tiracol is a building in India.",
+    "coordinates": {
+      "lat": 15.7306,
+      "lon": 73.682
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "fortaleza-de-sao-sebastiao-goa",
+    "name": "Fortaleza de São Sebastião",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Fortaleza de São Sebastião is a building in India.",
+    "coordinates": {
+      "lat": 15.61972,
+      "lon": 73.82972
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "galgibaga-beach-goa",
+    "name": "Galgibaga Beach",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Galgibaga Beach is a galgibaga the cleanest beach in India.",
+    "coordinates": {
+      "lat": 14.96,
+      "lon": 74.049
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "gandaulim-fort-goa",
+    "name": "Gandaulim Fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Gandaulim Fort is a fort in Goa, India.",
+    "coordinates": {
+      "lat": 15.51382,
+      "lon": 73.94358
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "goa-chitra-museum-goa",
+    "name": "Goa Chitra Museum",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Goa Chitra Museum is an ethnographic museum in Goa.",
+    "coordinates": {
+      "lat": 15.26469,
+      "lon": 73.94161
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "goa-science-centre-goa",
+    "name": "Goa Science Centre",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Goa Science Centre is a science museum in Panjim, Goa.",
+    "coordinates": {
+      "lat": 15.47743,
+      "lon": 73.80908
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "goa-state-museum-goa",
+    "name": "Goa State Museum",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Goa State Museum is a museum in Goa, India.",
+    "coordinates": {
+      "lat": 15.49592,
+      "lon": 73.83361
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "goan-temple-goa",
+    "name": "Goan temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Goan temple is a hindu temples in Goa.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "holy-spirit-church-margao-goa",
+    "name": "Holy Spirit Church, Margao",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Holy Spirit Church, Margao is a roman Catholic church in Margao, Goa, India.",
+    "coordinates": {
+      "lat": 15.28164,
+      "lon": 73.95914
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "krishnadas-shama-goa-state-central-library-goa",
+    "name": "Krishnadas Shama Goa State Central Library",
+    "state": "Goa",
+    "category": "other",
+    "description": "Krishnadas Shama Goa State Central Library is a library.",
+    "coordinates": {
+      "lat": 15.494,
+      "lon": 73.833
+    }
+  },
+  {
+    "id": "lakshmi-narayan-devasthan-kundaim-goa",
+    "name": "Lakshmi Narayan Devasthan, Kundaim",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Lakshmi Narayan Devasthan, Kundaim is a hindu temple in Kundaim, Goa, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lakshmi-narayan-devasthan-narvem-goa",
+    "name": "Lakshmi Narayan Devasthan, Narvem",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Lakshmi Narayan Devasthan, Narvem is a hindu temple in Naroa, Bicholim, Goa.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lok-bhavan-panaji-goa",
+    "name": "Lok Bhavan, Panaji",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Lok Bhavan, Panaji is an official residence of the Governor of Goa.",
+    "coordinates": {
+      "lat": 15.46283,
+      "lon": 73.78916
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "madhav-govind-rameshwar-temple-goa",
+    "name": "Madhav Govind Rameshwar Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Madhav Govind Rameshwar Temple is a temple in Ponda taluk, Goa State, India.",
+    "coordinates": {
+      "lat": 15.3885,
+      "lon": 73.96454
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahadev-temple-tambdi-surla-goa",
+    "name": "Mahadev Temple, Tambdi Surla",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Mahadev Temple, Tambdi Surla is a building in India.",
+    "coordinates": {
+      "lat": 15.43907,
+      "lon": 74.25256
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahalasa-narayani-temple-mardol-goa",
+    "name": "Mahalasa Narayani Temple, Mardol",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Mahalasa Narayani Temple, Mardol is a hindu Temple in Mardol, Goa.",
+    "coordinates": {
+      "lat": 15.44045,
+      "lon": 73.97253
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahamaya-kalika-devasthan-kasarpal-goa",
+    "name": "Mahamaya Kalika Devasthan Kasarpal",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Mahamaya Kalika Devasthan Kasarpal is a temple complex in Goa, India.",
+    "coordinates": {
+      "lat": 15.649,
+      "lon": 73.935
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "majorda-goa",
+    "name": "Majorda",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Majorda is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.31611,
+      "lon": 73.91972
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "mallikarjuna-temple-goa-goa",
+    "name": "Mallikarjuna Temple, Goa",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Mallikarjuna Temple, Goa is a hindu temple in Goa, India.",
+    "coordinates": {
+      "lat": 15.21528,
+      "lon": 73.86667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mandodari-temple-betki-goa",
+    "name": "Mandodari Temple, Betki",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Mandodari Temple, Betki is a hindu temple in Goa.",
+    "coordinates": {
+      "lat": 15.506,
+      "lon": 73.99
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mandrem-goa",
+    "name": "Mandrem",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Mandrem is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.65812,
+      "lon": 73.71306
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "mangueshi-temple-goa",
+    "name": "Mangueshi Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Mangueshi Temple is a mangeshi Village.",
+    "coordinates": {
+      "lat": 15.51631,
+      "lon": 73.983
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mapusa-municipal-market-goa",
+    "name": "Mapusa Municipal Market",
+    "state": "Goa",
+    "category": "other",
+    "description": "Mapusa Municipal Market is a tourism place in Goa, India.",
+    "coordinates": {
+      "lat": 15.588,
+      "lon": 73.813
+    }
+  },
+  {
+    "id": "mapusa-river-goa",
+    "name": "Mapusa River",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Mapusa River is a river in India.",
+    "coordinates": {
+      "lat": 15.5,
+      "lon": 73.85
+    }
+  },
+  {
+    "id": "mayem-lake-goa",
+    "name": "Mayem Lake",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Freshwater lake located on the Indian state of Goa.",
+    "coordinates": {
+      "lat": 15.57563,
+      "lon": 73.93935
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "menezes-braganza-house-goa",
+    "name": "Menezes Braganza House",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Menezes Braganza House is a heritage house in Goa, India.",
+    "coordinates": {
+      "lat": 15.26153,
+      "lon": 74.04346
+    }
+  },
+  {
+    "id": "mhadei-wildlife-sanctuary-goa",
+    "name": "Mhadei Wildlife Sanctuary",
+    "state": "Goa",
+    "category": "wildlife",
+    "description": "Mhadei Wildlife Sanctuary is a wildlife sanctuary in Goa, India.",
+    "coordinates": {
+      "lat": 15.5717,
+      "lon": 74.1708
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "mhamai-kamat-house-goa",
+    "name": "Mhamai Kamat House",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Mhamai Kamat House is a heritage house in Goa, India.",
+    "coordinates": {
+      "lat": 15.50052,
+      "lon": 73.82952
+    }
+  },
+  {
+    "id": "miramar-goa-goa",
+    "name": "Miramar, Goa",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Miramar, Goa is a beach area of the Goan capital of Panjim.",
+    "coordinates": {
+      "lat": 15.48306,
+      "lon": 73.80722
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "morjim-goa",
+    "name": "Morjim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Morjim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.62944,
+      "lon": 73.73583
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "mormugao-fort-goa",
+    "name": "Mormugão fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Mormugão fort is a building in India.",
+    "coordinates": {
+      "lat": 15.42667,
+      "lon": 73.82222
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "museum-of-christian-art-goa",
+    "name": "Museum of Christian Art",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Museum of Christian Art is a museum of Christian art.",
+    "coordinates": {
+      "lat": 15.50135,
+      "lon": 73.9073
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "museum-of-goa-goa",
+    "name": "Museum of Goa",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Museum of Goa is a privately owned contemporary art gallery.",
+    "coordinates": {
+      "lat": 15.52552,
+      "lon": 73.79526
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "nagueshi-goa",
+    "name": "Nagueshi",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Nagueshi is a shree Nagesh Maharudra Temple, Goa.",
+    "coordinates": {
+      "lat": 15.40747,
+      "lon": 73.98374
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nanda-lake-goa",
+    "name": "Nanda Lake",
+    "state": "Goa",
+    "category": "nature",
+    "description": "Nanda Lake is a lake in Goa, India.",
+    "coordinates": {
+      "lat": 15.23625,
+      "lon": 74.10917
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "national-institute-of-water-sports-goa",
+    "name": "National Institute of Water Sports",
+    "state": "Goa",
+    "category": "other",
+    "description": "National Institute of Water Sports is a designated centre.",
+    "coordinates": {
+      "lat": 15.45978,
+      "lon": 73.80207
+    }
+  },
+  {
+    "id": "naval-aviation-museum-goa-goa",
+    "name": "Naval Aviation Museum (Goa)",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Naval Aviation Museum (Goa) is a military museum in Goa, India.",
+    "coordinates": {
+      "lat": 15.37474,
+      "lon": 73.83854
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "navdurga-temple-kundaim-goa",
+    "name": "Navdurga Temple, Kundaim",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Navdurga Temple, Kundaim is a hindu temple in Kundaim, Goa, India.",
+    "coordinates": {
+      "lat": 15.44642,
+      "lon": 73.95749
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "navdurga-temple-madkai-goa",
+    "name": "Navdurga Temple, Madkai",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Navdurga Temple, Madkai is a hindu temple in Madkai, Goa, India.",
+    "coordinates": {
+      "lat": 15.41879,
+      "lon": 73.94351
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "netravali-wildlife-sanctuary-goa",
+    "name": "Netravali Wildlife Sanctuary",
+    "state": "Goa",
+    "category": "wildlife",
+    "description": "Netravali Wildlife Sanctuary is a located at Goa, India.",
+    "coordinates": {
+      "lat": 15.1085,
+      "lon": 74.2561
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "old-goa-goa",
+    "name": "Old Goa",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Old Goa is an ancient city in Ilhas district, Goa.",
+    "coordinates": {
+      "lat": 15.50238,
+      "lon": 73.91175
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "our-lady-of-grace-church-chorao-island-goa",
+    "name": "Our Lady of Grace Church (Chorão Island)",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Our Lady of Grace Church (Chorão Island) is a church in Goa, India.",
+    "coordinates": {
+      "lat": 15.52325,
+      "lon": 73.86895
+    },
+    "tags": [
+      "church",
+      "island"
+    ]
+  },
+  {
+    "id": "our-lady-of-the-immaculate-conception-church-goa-goa",
+    "name": "Our Lady of the Immaculate Conception Church, Goa",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Our Lady of the Immaculate Conception Church, Goa is a church in Panjim, Goa.",
+    "coordinates": {
+      "lat": 15.49833,
+      "lon": 73.82944
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "palace-of-the-fortress-goa",
+    "name": "Palace of the Fortress",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Palace of the Fortress is a tourism place in Goa, India.",
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "palolem-beach-goa",
+    "name": "Palolem Beach",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Palolem Beach is a village and beach in Goa, India.",
+    "coordinates": {
+      "lat": 15.00889,
+      "lon": 74.02278
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "panaji-goa",
+    "name": "Panaji",
+    "state": "Goa",
+    "category": "other",
+    "description": "Panaji is a capital city of Goa.",
+    "coordinates": {
+      "lat": 15.48,
+      "lon": 73.83
+    }
+  },
+  {
+    "id": "ponda-fort-goa",
+    "name": "Ponda Fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Ponda Fort is a restored ancient fort.",
+    "coordinates": {
+      "lat": 15.41278,
+      "lon": 73.98917
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "querim-beach-goa",
+    "name": "Querim Beach",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Querim Beach is a beach in Goa, India.",
+    "coordinates": {
+      "lat": 15.71279,
+      "lon": 73.69161
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "rachol-fort-goa",
+    "name": "Rachol Fort",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Rachol Fort is a building in India.",
+    "coordinates": {
+      "lat": 15.30856,
+      "lon": 74.00092
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "rachol-seminary-goa",
+    "name": "Rachol Seminary",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Rachol Seminary is a building in India.",
+    "coordinates": {
+      "lat": 15.31,
+      "lon": 74.00139
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "ramnathi-goa",
+    "name": "Ramnathi",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Ramnathi is a hindu temple in Goa.",
+    "coordinates": {
+      "lat": 15.39878,
+      "lon": 73.9815
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ratnagiri-goa",
+    "name": "Ratnagiri",
+    "state": "Goa",
+    "category": "other",
+    "description": "Ratnagiri is a city in Ratnagiri district, Konkan division, Maharashtra, India.",
+    "coordinates": {
+      "lat": 16.98333,
+      "lon": 73.3
+    }
+  },
+  {
+    "id": "real-colegio-de-educacao-de-chorao-goa",
+    "name": "Real Colégio de Educação de Chorão",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Real Colégio de Educação de Chorão is a defunct Catholic seminary in Goa, India.",
+    "coordinates": {
+      "lat": 15.527,
+      "lon": 73.878
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "rodrigues-home-goa",
+    "name": "Rodrigues Home",
+    "state": "Goa",
+    "category": "other",
+    "description": "Rodrigues Home is a mansion in Goa, India."
+  },
+  {
+    "id": "rudreshwar-devasthan-goa",
+    "name": "Rudreshwar Devasthan",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Rudreshwar Devasthan is a hindu temple in Goa, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "safa-mosque-goa-goa",
+    "name": "Safa Mosque, Goa",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Safa Mosque, Goa is a mosque in Goa.",
+    "coordinates": {
+      "lat": 15.40632,
+      "lon": 74.00012
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "salim-ali-bird-sanctuary-goa",
+    "name": "Salim Ali Bird Sanctuary",
+    "state": "Goa",
+    "category": "wildlife",
+    "description": "Salim Ali Bird Sanctuary is a mangrove habitat and bird sanctuary in Goa, India.",
+    "coordinates": {
+      "lat": 15.5146,
+      "lon": 73.8575
+    }
+  },
+  {
+    "id": "sanvordekar-wada-goa",
+    "name": "Sanvordekar Wada",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Sanvordekar Wada is a heritage house in Goa, India.",
+    "coordinates": {
+      "lat": 15.26855,
+      "lon": 74.10818
+    }
+  },
+  {
+    "id": "saptakoteshwar-temple-goa",
+    "name": "Saptakoteshwar Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Saptakoteshwar Temple is a hindu temple in Goa, India.",
+    "coordinates": {
+      "lat": 15.554,
+      "lon": 73.937
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "se-cathedral-goa",
+    "name": "Se Cathedral",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Se Cathedral is a church in Velha Goa, India.",
+    "coordinates": {
+      "lat": 15.50377,
+      "lon": 73.91229
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "serendipity-arts-festival-goa",
+    "name": "Serendipity Arts Festival",
+    "state": "Goa",
+    "category": "other",
+    "description": "Serendipity Arts Festival is an annual arts festival in Panaji, Goa."
+  },
+  {
+    "id": "shanta-durga-temple-goa",
+    "name": "Shanta Durga Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Shanta Durga Temple is a hindu temple in Goa, India.",
+    "coordinates": {
+      "lat": 15.50772,
+      "lon": 73.80312
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shantadurga-kalangutkarin-temple-goa",
+    "name": "Shantadurga Kalangutkarin Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Shantadurga Kalangutkarin Temple is a hindu temple in Goa, India.",
+    "coordinates": {
+      "lat": 15.63444,
+      "lon": 73.925
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sharvani-devasthan-goa",
+    "name": "Sharvani Devasthan",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Sharvani Devasthan is a hindu temple in Goa, India.",
+    "coordinates": {
+      "lat": 15.63833,
+      "lon": 73.9025
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shree-betal-temple-goa",
+    "name": "Shree Betal temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Shree Betal temple is a hindu temple of Goa.",
+    "coordinates": {
+      "lat": 15.53333,
+      "lon": 73.98333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sinquerim-goa",
+    "name": "Sinquerim",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Sinquerim is a village in Goa, India.",
+    "coordinates": {
+      "lat": 15.50267,
+      "lon": 73.76693
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "st-anthony-s-chapel-goa-velha-goa",
+    "name": "St. Anthony's Chapel, Goa Velha",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "St. Anthony's Chapel, Goa Velha is a tourism place in Goa, India.",
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-bartholomew-s-church-chorao-island-goa",
+    "name": "St Bartholomew's Church (Chorão Island)",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "St Bartholomew's Church (Chorão Island) is a church in Goa, India.",
+    "coordinates": {
+      "lat": 15.548,
+      "lon": 73.879
+    },
+    "tags": [
+      "church",
+      "island"
+    ]
+  },
+  {
+    "id": "st-cajetan-church-assagao-goa",
+    "name": "St. Cajetan Church, Assagao",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "St. Cajetan Church, Assagao is a church in Goa, India.",
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-cajetan-church-goa",
+    "name": "St. Cajetan Church",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "St. Cajetan Church is a church in Velha Goa, India.",
+    "coordinates": {
+      "lat": 15.50567,
+      "lon": 73.91511
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-clara-s-church-assonora-goa",
+    "name": "St Clara's Church (Assonora)",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "St Clara's Church (Assonora) is a church in Goa, India.",
+    "coordinates": {
+      "lat": 15.61851,
+      "lon": 73.89462
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-jerome-church-mapusa-goa",
+    "name": "St. Jerome Church (Mapusa)",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "St. Jerome Church (Mapusa) is a church in India.",
+    "coordinates": {
+      "lat": 15.58961,
+      "lon": 73.81831
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-michael-s-church-anjuna-goa",
+    "name": "St. Michael's Church, Anjuna",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "St. Michael's Church, Anjuna is a building in India.",
+    "coordinates": {
+      "lat": 15.59,
+      "lon": 73.764
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "sunburn-festival-goa",
+    "name": "Sunburn Festival",
+    "state": "Goa",
+    "category": "other",
+    "description": "Sunburn Festival is an eDM Music Festival In India."
+  },
+  {
+    "id": "three-kings-chapel-goa",
+    "name": "Three Kings Chapel",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Three Kings Chapel is a roman Catholic chapel in Goa, India.",
+    "coordinates": {
+      "lat": 15.36041,
+      "lon": 73.90031
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "tiswadi-taluka-goa",
+    "name": "Tiswadi taluka",
+    "state": "Goa",
+    "category": "other",
+    "description": "Tiswadi taluka is a subdivision of Goa.",
+    "coordinates": {
+      "lat": 15.4986,
+      "lon": 73.82934
+    }
+  },
+  {
+    "id": "usgalimal-rock-engravings-goa",
+    "name": "Usgalimal rock engravings",
+    "state": "Goa",
+    "category": "heritage",
+    "description": "Usgalimal rock engravings is an archaeological site in South Goa District, India.",
+    "coordinates": {
+      "lat": 15.12194,
+      "lon": 74.13056
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "vagator-beach-goa",
+    "name": "Vagator Beach",
+    "state": "Goa",
+    "category": "beach",
+    "description": "Vagator Beach is a beach in Goa, India.",
+    "coordinates": {
+      "lat": 15.59797,
+      "lon": 73.74484
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "varca-goa",
+    "name": "Varca",
+    "state": "Goa",
+    "category": "offbeat",
+    "description": "Varca is a village in South Goa District, Goa, India.",
+    "coordinates": {
+      "lat": 15.22,
+      "lon": 73.92
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "vimleshwar-temple-goa",
+    "name": "Vimleshwar Temple",
+    "state": "Goa",
+    "category": "spiritual",
+    "description": "Vimleshwar Temple is an indian temple.",
+    "coordinates": {
+      "lat": 15.165,
+      "lon": 74.107
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "zagor-folk-drama-goa",
+    "name": "Zagor (folk drama)",
+    "state": "Goa",
+    "category": "other",
+    "description": "Zagor (folk drama) is an indian folk drama.",
+    "coordinates": {
+      "lat": 15.61454,
+      "lon": 73.77045
+    }
+  }
+]

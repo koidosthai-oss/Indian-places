@@ -1,0 +1,83 @@
+[
+  {
+    "id": "diu-fortress-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Diu Fortress",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "description": "Diu Fortress is a fort in India.",
+    "coordinates": {
+      "lat": 20.71479,
+      "lon": 70.99603
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "diu-island-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Diu Island",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "nature",
+    "description": "Diu Island is an island in India.",
+    "coordinates": {
+      "lat": 20.71,
+      "lon": 70.98
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "fort-st-anthony-of-simbor-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fort St. Anthony of Simbor",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "description": "Fort St. Anthony of Simbor is a building in India.",
+    "coordinates": {
+      "lat": 20.76316,
+      "lon": 71.1516
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "fudam-bird-sanctuary-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fudam Bird Sanctuary",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "wildlife",
+    "description": "Fudam Bird Sanctuary is a bird sanctuary in India.",
+    "coordinates": {
+      "lat": 20.72514,
+      "lon": 70.95443
+    }
+  },
+  {
+    "id": "nagoa-beach-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Nagoá Beach",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "beach",
+    "description": "Nagoá Beach is a beach in Dadra and Nagar Haveli and Daman and Diu, India.",
+    "coordinates": {
+      "lat": 20.70528,
+      "lon": 70.91583
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "st-paul-s-church-diu-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "St. Paul's Church, Diu",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "description": "St. Paul's Church, Diu is a church in Diu, India.",
+    "coordinates": {
+      "lat": 20.71454,
+      "lon": 70.99067
+    },
+    "tags": [
+      "church"
+    ]
+  }
+]

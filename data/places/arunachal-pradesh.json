@@ -1,0 +1,630 @@
+[
+  {
+    "id": "bap-teng-kang-waterfall-arunachal-pradesh",
+    "name": "Bap Teng Kang Waterfall",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Bap Teng Kang Waterfall is a waterfall in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.63507,
+      "lon": 91.73215
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "bhismaknagar-arunachal-pradesh",
+    "name": "Bhismaknagar",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Bhismaknagar is an archeological site in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 28.04827,
+      "lon": 96.00453
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "chumi-gyatse-falls-arunachal-pradesh",
+    "name": "Chumi Gyatse Falls",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Chumi Gyatse Falls is a waterfall in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.7762,
+      "lon": 91.9829
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "d-ering-memorial-wildlife-sanctuary-arunachal-pradesh",
+    "name": "D'Ering Memorial Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "D'Ering Memorial Wildlife Sanctuary is a protected area in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.93778,
+      "lon": 95.44583
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "dibang-dam-arunachal-pradesh",
+    "name": "Dibang Dam",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Planned concrete gravity dam, located in the Lower Dibang Valley District in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 28.3375,
+      "lon": 95.77083
+    }
+  },
+  {
+    "id": "dibang-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Dibang Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Dibang Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 29.047,
+      "lon": 95.79
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "dihang-dibang-biosphere-reserve-arunachal-pradesh",
+    "name": "Dihang-Dibang Biosphere Reserve",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Dihang-Dibang Biosphere Reserve is a biosphere Reserve in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.98333,
+      "lon": 94.5
+    }
+  },
+  {
+    "id": "eaglenest-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Eaglenest Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Eaglenest Wildlife Sanctuary is a protected area of Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.1,
+      "lon": 92.4
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "ganga-lake-india-arunachal-pradesh",
+    "name": "Ganga Lake (India)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Ganga Lake (India) is a lake in India.",
+    "coordinates": {
+      "lat": 27.075,
+      "lon": 93.568
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "golden-pagoda-namsai-arunachal-pradesh",
+    "name": "Golden Pagoda, Namsai",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Golden Pagoda, Namsai is a burmese style Buddhist temple.",
+    "coordinates": {
+      "lat": 27.7725,
+      "lon": 95.9749
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gomsi-arunachal-pradesh",
+    "name": "Gomsi",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Gomsi is a 13th-14th century archaeological site in India.",
+    "coordinates": {
+      "lat": 28.07,
+      "lon": 95.33
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "ita-fort-arunachal-pradesh",
+    "name": "Ita Fort",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Ita Fort is a fort in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.092,
+      "lon": 93.632
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "itanagar-arunachal-pradesh",
+    "name": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Itanagar is a capital of Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.1,
+      "lon": 93.62
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "itanagar-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Itanagar Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Itanagar Wildlife Sanctuary is a sanctuary in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.06847,
+      "lon": 93.58136
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "jawaharlal-nehru-museum-itanagar-arunachal-pradesh",
+    "name": "Jawaharlal Nehru Museum, Itanagar",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Jawaharlal Nehru Museum, Itanagar is a state museum at Itanagar, Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.10204,
+      "lon": 93.625
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "kamala-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Kamala Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Kamala Wildlife Sanctuary is a protected area in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.64167,
+      "lon": 96.62917
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kameng-elephant-reserve-arunachal-pradesh",
+    "name": "Kameng Elephant Reserve",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Kameng Elephant Reserve is a wildlife sanctuary in Arunachal Pradesh/Tibet Autonomous Region, India/ China.",
+    "coordinates": {
+      "lat": 27.08333,
+      "lon": 92.43333
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kamlang-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Kamlang Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Kamlang Wildlife Sanctuary is an indian Natural Park.",
+    "coordinates": {
+      "lat": 27.66667,
+      "lon": 96.43333
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "kane-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Kane Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Kane Wildlife Sanctuary is a protected area in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.66667,
+      "lon": 94.65
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "lake-of-no-return-arunachal-pradesh",
+    "name": "Lake of No Return",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Lake of No Return is a body of water.",
+    "coordinates": {
+      "lat": 27.21917,
+      "lon": 96.14386
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "lumla-arunachal-pradesh",
+    "name": "Lumla",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Lumla is a village in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.529,
+      "lon": 91.713
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "malinithan-arunachal-pradesh",
+    "name": "Malinithan",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Malinithan is an archaeological site in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.65667,
+      "lon": 94.70583
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "mehao-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Mehao Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Mehao Wildlife Sanctuary is a wildlife refuge in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 28.1575,
+      "lon": 95.94
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "mouling-national-park-arunachal-pradesh",
+    "name": "Mouling National Park",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Mouling National Park is a national park in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 28.58333,
+      "lon": 94.86667
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "naksaparvat-arunachal-pradesh",
+    "name": "Naksaparvat",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Naksaparvat is a medieval archaeological site in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 26.95978,
+      "lon": 93.17001
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "namdapha-national-park-arunachal-pradesh",
+    "name": "Namdapha National Park",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Namdapha National Park is a national park in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.64984,
+      "lon": 96.11029
+    },
+    "tags": [
+      "world-heritage",
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "nuranang-falls-arunachal-pradesh",
+    "name": "Nuranang Falls",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Nuranang Falls is a waterfall in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.58944,
+      "lon": 91.98417
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "pakke-tiger-reserve-arunachal-pradesh",
+    "name": "Pakke Tiger Reserve",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Pakke Tiger Reserve is a tiger reserve in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.08333,
+      "lon": 92.85833
+    },
+    "tags": [
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "payahaju-shiva-linga-temple-arunachal-pradesh",
+    "name": "Paya–Haju Shiva Linga Temple",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Paya–Haju Shiva Linga Temple is a medieval temple of Lohit Valley, Arunachal Pradesh.",
+    "coordinates": {
+      "lat": 27.94824,
+      "lon": 96.02049
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "ramghat-tarasso-ruins-arunachal-pradesh",
+    "name": "Ramghat-Tarasso Ruins",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Ramghat-Tarasso Ruins is a fortified archaeological complex in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 26.95943,
+      "lon": 93.40563
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "ranganadi-dam-arunachal-pradesh",
+    "name": "Ranganadi Dam",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Ranganadi Dam is a dam in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.3428,
+      "lon": 93.8167
+    }
+  },
+  {
+    "id": "rangnuwk-hum-arunachal-pradesh",
+    "name": "Rangnuwk hum",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Rangnuwk hum is a place of worship for the Tangsa people.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "rigyalling-monastery-arunachal-pradesh",
+    "name": "Rigyalling Monastery",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Rigyalling Monastery is a building in India.",
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "ringba-roba-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Ringba-Roba Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Ringba-Roba Wildlife Sanctuary is a protected area in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 28.16083,
+      "lon": 93.88333
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "rukmininagar-fort-arunachal-pradesh",
+    "name": "Rukmininagar Fort",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Rukmininagar Fort is an archaeological hill fort in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 28.18526,
+      "lon": 95.78989
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "sessa-orchid-sanctuary-arunachal-pradesh",
+    "name": "Sessa Orchid Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Sessa Orchid Sanctuary is a wildlife sanctuary in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.2,
+      "lon": 92.5
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "talle-valley-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Talle Valley Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Talle Valley Wildlife Sanctuary is a protected area in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.54768,
+      "lon": 93.89755
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "tato-arunachal-pradesh-arunachal-pradesh",
+    "name": "Tato, Arunachal Pradesh",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Tato, Arunachal Pradesh is a district Headquarter in Arunachal Pradesh, India.",
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "tawang-monastery-arunachal-pradesh",
+    "name": "Tawang Monastery",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Tawang Monastery is a buddhist monastery in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.58639,
+      "lon": 91.8575
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "tawang-taktshang-monastery-arunachal-pradesh",
+    "name": "Tawang Taktshang Monastery",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Tawang Taktshang Monastery is a tibetan Buddhist sacred site and temple complex in India.",
+    "tags": [
+      "temple",
+      "monastery"
+    ]
+  },
+  {
+    "id": "tezu-jama-mosque-arunachal-pradesh-arunachal-pradesh",
+    "name": "Tezu Jama Mosque, Arunachal Pradesh",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Tezu Jama Mosque, Arunachal Pradesh is a mosque in India.",
+    "coordinates": {
+      "lat": 27.9126,
+      "lon": 96.1642
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "thembang-arunachal-pradesh",
+    "name": "Thembang",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Thembang is a village in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 27.35,
+      "lon": 92.4
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "upper-siang-hydroelectric-project-arunachal-pradesh",
+    "name": "Upper Siang Hydroelectric Project",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Upper Siang Hydroelectric Project is a hydroelectric power dams in the Upper Siang district of Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 28.6921,
+      "lon": 95.0443
+    }
+  },
+  {
+    "id": "urgelling-monastery-arunachal-pradesh",
+    "name": "Urgelling Monastery",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Urgelling Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.5883,
+      "lon": 91.8653
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "yordi-rabe-supse-wildlife-sanctuary-arunachal-pradesh",
+    "name": "Yordi Rabe Supse Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Yordi Rabe Supse Wildlife Sanctuary is a protected area in Arunachal Pradesh, India.",
+    "coordinates": {
+      "lat": 29.01639,
+      "lon": 95.20861
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "ziro-arunachal-pradesh",
+    "name": "Ziro",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Ziro is a town in India.",
+    "coordinates": {
+      "lat": 27.59497,
+      "lon": 93.83854
+    },
+    "tags": [
+      "hill-station"
+    ]
+  }
+]

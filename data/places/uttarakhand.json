@@ -1,0 +1,1893 @@
+[
+  {
+    "id": "abi-gamin-uttarakhand",
+    "name": "Abi Gamin",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Abi Gamin is a mountain in India.",
+    "coordinates": {
+      "lat": 30.93,
+      "lon": 79.6
+    }
+  },
+  {
+    "id": "almora-uttarakhand",
+    "name": "Almora",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Almora is a town.",
+    "coordinates": {
+      "lat": 29.62,
+      "lon": 79.67
+    }
+  },
+  {
+    "id": "arwa-group-uttarakhand",
+    "name": "Arwa Group",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Arwa Group is a mountain group in Uttarakhand, India."
+  },
+  {
+    "id": "asan-barrage-uttarakhand",
+    "name": "Asan Barrage",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Asan Barrage is a dam in Dakpathar.",
+    "coordinates": {
+      "lat": 30.43583,
+      "lon": 77.66556
+    }
+  },
+  {
+    "id": "askot-musk-deer-sanctuary-uttarakhand",
+    "name": "Askot Musk Deer Sanctuary",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Askot Musk Deer Sanctuary is an indian wildlife reserve in Uttarakhand.",
+    "coordinates": {
+      "lat": 30.12083,
+      "lon": 80.6525
+    }
+  },
+  {
+    "id": "auden-s-col-uttarakhand",
+    "name": "Auden's Col",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Auden's Col is a mountain pass in Uttarakhand state of India.",
+    "coordinates": {
+      "lat": 30.8735,
+      "lon": 78.892
+    }
+  },
+  {
+    "id": "avalanche-peak-india-uttarakhand",
+    "name": "Avalanche Peak (India)",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Avalanche Peak (India) is a mountain peak in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.84,
+      "lon": 79.4
+    }
+  },
+  {
+    "id": "badhangarhi-temple-uttarakhand",
+    "name": "Badhangarhi Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Badhangarhi Temple is a hindu temple in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.0128,
+      "lon": 79.5229
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "badrinath-temple-uttarakhand",
+    "name": "Badrinath Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Badrinath Temple is a major Vishnu temple and pilgrimage site in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.7447,
+      "lon": 79.49117
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "bagnath-temple-uttarakhand",
+    "name": "Bagnath Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Bagnath Temple is a human settlement in India.",
+    "coordinates": {
+      "lat": 29.83667,
+      "lon": 79.8225
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "baijnath-temple-complex-uttarakhand",
+    "name": "Baijnath Temple Complex",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Baijnath Temple Complex is a group of 18 Hindu temples, Baijnath, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.90706,
+      "lon": 79.61528
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "balakun-uttarakhand",
+    "name": "Balakun",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Balakun is a mountain in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.76,
+      "lon": 79.34
+    }
+  },
+  {
+    "id": "baleshwar-temple-uttarakhand",
+    "name": "Baleshwar Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Baleshwar Temple is a group of ancient temples located in Champawat.",
+    "coordinates": {
+      "lat": 29.3366,
+      "lon": 80.0904
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bedni-bugyal-uttarakhand",
+    "name": "Bedni Bugyal",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Bedni Bugyal is a himalayan meadow in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.206,
+      "lon": 79.663
+    }
+  },
+  {
+    "id": "bhagirathi-river-uttarakhand",
+    "name": "Bhagirathi River",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Bhagirathi River is a river in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.94194,
+      "lon": 79.06111
+    }
+  },
+  {
+    "id": "bhimgoda-barrage-uttarakhand",
+    "name": "Bhimgoda Barrage",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Bhimgoda Barrage is a dam in India.",
+    "coordinates": {
+      "lat": 29.95639,
+      "lon": 78.18028
+    }
+  },
+  {
+    "id": "bhimtal-lake-uttarakhand",
+    "name": "Bhimtal Lake",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Bhimtal Lake is a lake in Bhimtal, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.34306,
+      "lon": 79.55917
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "bhimtal-uttarakhand",
+    "name": "Bhimtal",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Bhimtal is a town and municipality in Nainital district, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.34444,
+      "lon": 79.56306
+    },
+    "tags": [
+      "hill-station",
+      "lake"
+    ]
+  },
+  {
+    "id": "bhowali-uttarakhand",
+    "name": "Bhowali",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Bhowali is a town.",
+    "coordinates": {
+      "lat": 29.38,
+      "lon": 79.52
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "bijapur-dam-uttarakhand",
+    "name": "Bijapur Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Bijapur Dam is a dam in Dehra Dun, India."
+  },
+  {
+    "id": "binsar-mahadev-uttarakhand",
+    "name": "Binsar Mahadev",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Binsar Mahadev is an ancient rock temple in India.",
+    "coordinates": {
+      "lat": 30.0165,
+      "lon": 79.1621
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "binsar-wildlife-sanctuary-uttarakhand",
+    "name": "Binsar Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Binsar Wildlife Sanctuary is a nature reserve in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.63222,
+      "lon": 79.3375
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "chakrata-uttarakhand",
+    "name": "Chakrata",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Chakrata is a cantonment town in Deharadun district, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.69,
+      "lon": 77.86
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "chandi-devi-temple-haridwar-uttarakhand",
+    "name": "Chandi Devi Temple, Haridwar",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Chandi Devi Temple, Haridwar is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 29.93417,
+      "lon": 78.17944
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chandrabadani-devi-uttarakhand",
+    "name": "Chandrabadani Devi",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Chandrabadani Devi is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 30.38259,
+      "lon": 78.4738
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chaudhara-uttarakhand",
+    "name": "Chaudhara",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Chaudhara is a himalayan mountain peak in Kumaon, India.",
+    "coordinates": {
+      "lat": 30.28,
+      "lon": 80.37
+    }
+  },
+  {
+    "id": "chota-char-dham-uttarakhand",
+    "name": "Chota Char Dham",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Chota Char Dham is a hindu pilgrimage circuit of four sites in India.",
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "christ-church-mussoorie-uttarakhand",
+    "name": "Christ Church, Mussoorie",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Christ Church, Mussoorie is a church building in Mussoorie, Uttarakhand, India.",
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "dakpathar-barrage-uttarakhand",
+    "name": "Dakpathar Barrage",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Dakpathar Barrage is a barrage in India.",
+    "coordinates": {
+      "lat": 30.50389,
+      "lon": 77.79472
+    }
+  },
+  {
+    "id": "daksheswar-mahadev-temple-uttarakhand",
+    "name": "Daksheswar Mahadev Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Daksheswar Mahadev Temple is a shiva's Temple in India.",
+    "coordinates": {
+      "lat": 29.92187,
+      "lon": 78.14584
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dayara-bugyal-uttarakhand",
+    "name": "Dayara Bugyal",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Dayara Bugyal is a bugyal (Himalayan Alpine Meadow) in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.83837,
+      "lon": 78.55503
+    }
+  },
+  {
+    "id": "dehradun-uttarakhand",
+    "name": "Dehradun",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Dehradun is a capital of Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.318,
+      "lon": 78.029
+    }
+  },
+  {
+    "id": "deoria-tal-uttarakhand",
+    "name": "Deoria Tal",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Deoria Tal is a high-altitude lake in India.",
+    "coordinates": {
+      "lat": 30.52219,
+      "lon": 79.12769
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "devprayag-uttarakhand",
+    "name": "Devprayag",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Devprayag is a town in Uttarakhand India, a Panch Prayag pilgrimage site.",
+    "coordinates": {
+      "lat": 30.14578,
+      "lon": 78.59794
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "dhari-devi-uttarakhand",
+    "name": "Dhari Devi",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Dhari Devi is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 30.25808,
+      "lon": 78.87738
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dhauliganga-dam-uttarakhand",
+    "name": "Dhauliganga Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Dhauliganga Dam is a dam in Uttarakhand.",
+    "coordinates": {
+      "lat": 29.9785,
+      "lon": 80.572
+    }
+  },
+  {
+    "id": "dodital-uttarakhand",
+    "name": "Dodital",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Dodital is a lake in India.",
+    "coordinates": {
+      "lat": 30.89778,
+      "lon": 78.52528
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "dudhatoli-uttarakhand",
+    "name": "Dudhatoli",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Dudhatoli is a mountain in the Himalayas."
+  },
+  {
+    "id": "forest-research-institute-india-uttarakhand",
+    "name": "Forest Research Institute (India)",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Forest Research Institute (India) is a facility in Dehradun, India.",
+    "coordinates": {
+      "lat": 30.3439,
+      "lon": 77.9994
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "g-b-pant-high-altitude-zoo-uttarakhand",
+    "name": "G. B. Pant High Altitude Zoo",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "G. B. Pant High Altitude Zoo is a zoo in India.",
+    "coordinates": {
+      "lat": 29.381,
+      "lon": 79.469
+    }
+  },
+  {
+    "id": "gangolihat-uttarakhand",
+    "name": "Gangolihat",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Gangolihat is a town in Pithoragarh district, Kumaon division, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.65722,
+      "lon": 80.04028
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "gangotri-glacier-uttarakhand",
+    "name": "Gangotri Glacier",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Gangotri Glacier is a glacier in India.",
+    "coordinates": {
+      "lat": 30.98333,
+      "lon": 78.98333
+    }
+  },
+  {
+    "id": "gangotri-national-park-uttarakhand",
+    "name": "Gangotri National Park",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Gangotri National Park is an indian national park.",
+    "coordinates": {
+      "lat": 31.08819,
+      "lon": 79.1455
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "gangotri-uttarakhand",
+    "name": "Gangotri",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Gangotri is a town.",
+    "coordinates": {
+      "lat": 30.98,
+      "lon": 78.93
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "garjiya-devi-uttarakhand",
+    "name": "Garjiya Devi",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Garjiya Devi is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 29.494,
+      "lon": 79.1412
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "golu-devata-uttarakhand",
+    "name": "Golu Devata",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Golu Devata is a hindu temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 29.79518,
+      "lon": 79.87308
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gomukh-uttarakhand",
+    "name": "Gomukh",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Gomukh is a glacier in India.",
+    "coordinates": {
+      "lat": 30.92678,
+      "lon": 79.08079
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "gopinath-temple-gopeshwar-uttarakhand",
+    "name": "Gopinath Temple, Gopeshwar",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Gopinath Temple, Gopeshwar is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 30.4138,
+      "lon": 79.316
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "govind-pashu-vihar-national-park-uttarakhand",
+    "name": "Govind Pashu Vihar National Park",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Govind Pashu Vihar National Park is an indian wildlife sanctuary.",
+    "coordinates": {
+      "lat": 31.1,
+      "lon": 78.29
+    },
+    "tags": [
+      "national-park",
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "gujrugarhi-uttarakhand",
+    "name": "Gujrugarhi",
+    "state": "Uttarakhand",
+    "category": "heritage",
+    "description": "Gujrugarhi is a historic site in Uttarakhand.",
+    "coordinates": {
+      "lat": 29.78133,
+      "lon": 79.08858
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ]
+  },
+  {
+    "id": "gurdwara-gyan-godri-sahib-uttarakhand",
+    "name": "Gurdwara Gyan Godri Sahib",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Gurdwara Gyan Godri Sahib is an ancient religious site in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.95583,
+      "lon": 78.17059
+    }
+  },
+  {
+    "id": "guru-ram-rai-darbar-sahib-uttarakhand",
+    "name": "Guru Ram Rai Darbar Sahib",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Guru Ram Rai Darbar Sahib is a sikh place of worship in Dehradun, India.",
+    "coordinates": {
+      "lat": 30.3181,
+      "lon": 78.0318
+    }
+  },
+  {
+    "id": "hanumangarhi-nainital-uttarakhand",
+    "name": "Hanumangarhi, Nainital",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Hanumangarhi, Nainital is a hindu Temple in Uttarakhand.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "har-ki-doon-uttarakhand",
+    "name": "Har Ki Doon",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Har Ki Doon is a himalaya valley in Uttarakhand, India."
+  },
+  {
+    "id": "ichari-dam-uttarakhand",
+    "name": "Ichari Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Ichari Dam is a dam in Dakpathar.",
+    "coordinates": {
+      "lat": 30.61361,
+      "lon": 77.79111
+    }
+  },
+  {
+    "id": "jama-masjid-nainital-uttarakhand",
+    "name": "Jama Masjid, Nainital",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Jama Masjid, Nainital is a mosque in Nainital, India.",
+    "coordinates": {
+      "lat": 29.39107,
+      "lon": 79.45346
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "jim-corbett-national-park-uttarakhand",
+    "name": "Jim Corbett National Park",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Jim Corbett National Park is a national park in India.",
+    "coordinates": {
+      "lat": 29.53333,
+      "lon": 78.93333
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "jwalpa-devi-uttarakhand",
+    "name": "Jwalpa Devi",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Jwalpa Devi is a hindu temple in Uttarakhand Pauri Garhwal, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jyotir-math-uttarakhand",
+    "name": "Jyotir Math",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Jyotir Math is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 30.55064,
+      "lon": 79.56595
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kafni-glacier-uttarakhand",
+    "name": "Kafni Glacier",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Kafni Glacier is a glacier in India.",
+    "coordinates": {
+      "lat": 30.21806,
+      "lon": 80.05556
+    }
+  },
+  {
+    "id": "kainchi-dham-uttarakhand",
+    "name": "Kainchi Dham",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Kainchi Dham is a spiritual ashram and temple.",
+    "coordinates": {
+      "lat": 29.42255,
+      "lon": 79.51245
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "kala-chauna-uttarakhand",
+    "name": "Kala Chauna",
+    "state": "Uttarakhand",
+    "category": "offbeat",
+    "description": "Kala Chauna is a village in India.",
+    "coordinates": {
+      "lat": 29.80583,
+      "lon": 79.28056
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "kalinka-temple-uttarakhand",
+    "name": "Kalinka Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Kalinka Temple is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 29.8621,
+      "lon": 79.0693
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kaliyar-sharif-uttarakhand",
+    "name": "Kaliyar Sharif",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Kaliyar Sharif is a sufi Shrine in Kaliyar, India.",
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "kalpeshwar-uttarakhand",
+    "name": "Kalpeshwar",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Kalpeshwar is a hindu temple in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.54881,
+      "lon": 79.44976
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kedarnath-glacier-uttarakhand",
+    "name": "Kedarnath Glacier",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Kedarnath Glacier is a glacier in India.",
+    "coordinates": {
+      "lat": 30.8,
+      "lon": 79.06667
+    }
+  },
+  {
+    "id": "kedarnath-temple-uttarakhand",
+    "name": "Kedarnath Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Kedarnath Temple is a temple.",
+    "coordinates": {
+      "lat": 30.73334,
+      "lon": 79.06666
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kedarnath-wildlife-sanctuary-uttarakhand",
+    "name": "Kedarnath Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Kedarnath Wildlife Sanctuary is a wildlife sanctuary in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.75,
+      "lon": 79.6
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kedartal-uttarakhand",
+    "name": "Kedartal",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Kedartal is a body of water.",
+    "coordinates": {
+      "lat": 30.91206,
+      "lon": 78.95758
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "kempty-falls-uttarakhand",
+    "name": "Kempty Falls",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Kempty Falls is a waterfall in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.48732,
+      "lon": 78.03621
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "khalanga-war-memorial-uttarakhand",
+    "name": "Khalanga War Memorial",
+    "state": "Uttarakhand",
+    "category": "heritage",
+    "description": "Khalanga War Memorial is a war memorial in Dehradun, India.",
+    "coordinates": {
+      "lat": 30.34261,
+      "lon": 78.0983
+    }
+  },
+  {
+    "id": "khatling-glacier-uttarakhand",
+    "name": "Khatling Glacier",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Khatling Glacier is a glacier in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.82778,
+      "lon": 78.92222
+    }
+  },
+  {
+    "id": "kipling-trail-uttarakhand",
+    "name": "Kipling Trail",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Kipling Trail is a walking route in India."
+  },
+  {
+    "id": "kishau-dam-uttarakhand",
+    "name": "Kishau Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Kishau Dam is a dam in Himachal Pradesh/Uttarakhand.",
+    "coordinates": {
+      "lat": 30.7498,
+      "lon": 77.7044
+    }
+  },
+  {
+    "id": "koligarh-uttarakhand",
+    "name": "Koligarh",
+    "state": "Uttarakhand",
+    "category": "heritage",
+    "description": "Koligarh is a tourism place in Uttarakhand, India.",
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "koteshwar-dam-uttarakhand",
+    "name": "Koteshwar Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Koteshwar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 30.26028,
+      "lon": 78.49806
+    }
+  },
+  {
+    "id": "koteshwar-mahadev-uttarakhand",
+    "name": "Koteshwar Mahadev",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Koteshwar Mahadev is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 30.28,
+      "lon": 78.98
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kulsari-uttarakhand",
+    "name": "Kulsari",
+    "state": "Uttarakhand",
+    "category": "offbeat",
+    "description": "Kulsari is a village in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.08333,
+      "lon": 79.45
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "kush-kalyan-uttarakhand",
+    "name": "Kush Kalyan",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Kush Kalyan is a bugyal in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.704,
+      "lon": 78.66
+    }
+  },
+  {
+    "id": "lakhamandal-uttarakhand",
+    "name": "Lakhamandal",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Lakhamandal is a 5th to 11th century monuments, artwork and temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 30.73144,
+      "lon": 78.06756
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lakhudiyar-caves-uttarakhand",
+    "name": "Lakhudiyar Caves",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Lakhudiyar Caves is an indian caves decorated with prehistoric paintings.",
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "lakhwar-dam-uttarakhand",
+    "name": "Lakhwar Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Lakhwar Dam is a dam.",
+    "coordinates": {
+      "lat": 30.50361,
+      "lon": 77.79528
+    }
+  },
+  {
+    "id": "maa-balsundari-uttarakhand",
+    "name": "Maa Balsundari",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Maa Balsundari is a temple in Kashipur, India.",
+    "coordinates": {
+      "lat": 29.2,
+      "lon": 78.98
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "madhyamaheshwar-uttarakhand",
+    "name": "Madhyamaheshwar",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Madhyamaheshwar is a hindu temple in Mansoona village, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.63694,
+      "lon": 79.21611
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahasu-devta-temple-uttarakhand",
+    "name": "Mahasu Devta Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Mahasu Devta Temple is an oldest temple site of Jaunsari religious tradition in central Himalayas, India.",
+    "coordinates": {
+      "lat": 30.97128,
+      "lon": 77.92778
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "maneri-dam-uttarakhand",
+    "name": "Maneri Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Maneri Dam is a hydroelectric dam in India.",
+    "coordinates": {
+      "lat": 30.73917,
+      "lon": 78.52861
+    }
+  },
+  {
+    "id": "mansa-devi-temple-haridwar-uttarakhand",
+    "name": "Mansa Devi Temple, Haridwar",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Mansa Devi Temple, Haridwar is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 29.95806,
+      "lon": 78.16472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mathiyana-devi-uttarakhand",
+    "name": "Mathiyana Devi",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Mathiyana Devi is a hindu Temple in Uttarakhand.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maya-devi-temple-haridwar-uttarakhand",
+    "name": "Maya Devi Temple, Haridwar",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Maya Devi Temple, Haridwar is a temple in Haridwar.",
+    "coordinates": {
+      "lat": 29.95,
+      "lon": 78.16194
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "milam-glacier-uttarakhand",
+    "name": "Milam Glacier",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Milam Glacier is a glacier in India.",
+    "coordinates": {
+      "lat": 30.48333,
+      "lon": 80.1
+    }
+  },
+  {
+    "id": "mindrolling-monastery-uttarakhand",
+    "name": "Mindrolling Monastery",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Mindrolling Monastery is a buddhist monastery in Chaqi, Zhanang County, Tibetan Autonomous Region, China.",
+    "coordinates": {
+      "lat": 29.18365,
+      "lon": 91.40616
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "moteshwar-mahadev-uttarakhand",
+    "name": "Moteshwar Mahadev",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Moteshwar Mahadev is a hindu Temple in Uttarakhand.",
+    "coordinates": {
+      "lat": 29.12,
+      "lon": 78.57
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "mukteshwar-uttarakhand",
+    "name": "Mukteshwar",
+    "state": "Uttarakhand",
+    "category": "offbeat",
+    "description": "Mukteshwar is a village in Nainital district, Kumaon division, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.4722,
+      "lon": 79.6479
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "mussoorie-uttarakhand",
+    "name": "Mussoorie",
+    "state": "Uttarakhand",
+    "category": "hill-station",
+    "description": "Mussoorie is a hill station in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.45611,
+      "lon": 78.07806
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "mussoorie-wildlife-sanctuary-uttarakhand",
+    "name": "Mussoorie Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Mussoorie Wildlife Sanctuary is a wildlife sanctuary in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.46528,
+      "lon": 78.0125
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "nag-tibba-uttarakhand",
+    "name": "Nag Tibba",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Nag Tibba is a mountain in India.",
+    "coordinates": {
+      "lat": 30.58639,
+      "lon": 78.15111
+    }
+  },
+  {
+    "id": "naina-devi-himalayan-bird-conservation-reserve-uttarakhand",
+    "name": "Naina Devi Himalayan Bird Conservation Reserve",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Naina Devi Himalayan Bird Conservation Reserve is a protected area in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.38,
+      "lon": 79.45
+    }
+  },
+  {
+    "id": "nainital-lake-uttarakhand",
+    "name": "Nainital Lake",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Nainital Lake is a lake in the city of nainital.",
+    "coordinates": {
+      "lat": 29.3875,
+      "lon": 79.4575
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "nanda-devi-and-valley-of-flowers-national-parks-uttarakhand",
+    "name": "Nanda Devi and Valley of Flowers National Parks",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Nanda Devi and Valley of Flowers National Parks is a national Park.",
+    "coordinates": {
+      "lat": 30.71667,
+      "lon": 79.66667
+    },
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ]
+  },
+  {
+    "id": "nanda-devi-glacier-uttarakhand",
+    "name": "Nanda Devi Glacier",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Nanda Devi Glacier is a glacier in India.",
+    "coordinates": {
+      "lat": 30.41256,
+      "lon": 79.98285
+    }
+  },
+  {
+    "id": "nanda-devi-national-park-uttarakhand",
+    "name": "Nanda Devi National Park",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Nanda Devi National Park is a national park in India.",
+    "coordinates": {
+      "lat": 30.41861,
+      "lon": 79.84972
+    },
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ]
+  },
+  {
+    "id": "nanda-devi-uttarakhand",
+    "name": "Nanda Devi",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Nanda Devi is a second highest mountain in India.",
+    "coordinates": {
+      "lat": 30.37389,
+      "lon": 79.97083
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "nandhaur-wildlife-sanctuary-uttarakhand",
+    "name": "Nandhaur Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Nandhaur Wildlife Sanctuary is a wildlife sanctuary in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.03333,
+      "lon": 79.8
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "naukuchiatal-uttarakhand",
+    "name": "Naukuchiatal",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Naukuchiatal is a lake in India.",
+    "coordinates": {
+      "lat": 29.32222,
+      "lon": 79.58556
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "new-tehri-uttarakhand",
+    "name": "New Tehri",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "New Tehri is a city in Tehri Garhwal district, Garhwal division, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.38333,
+      "lon": 78.48333
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "nilkanth-mahadev-uttarakhand",
+    "name": "Nilkanth Mahadev",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Nilkanth Mahadev is a hindu temple in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.0807,
+      "lon": 78.3409
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "panch-kedar-uttarakhand",
+    "name": "Panch Kedar",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Panch Kedar is a five Mahadev temple Hindu pilgrim circuit in the Garhwal region, Uttarakhand India.",
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "panch-prayag-uttarakhand",
+    "name": "Panch Prayag",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Panch Prayag is a five ancient Hindu pilgrimage sites in central Himalayas.",
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "pandukeshwar-uttarakhand",
+    "name": "Pandukeshwar",
+    "state": "Uttarakhand",
+    "category": "offbeat",
+    "description": "Pandukeshwar is a village in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.63323,
+      "lon": 79.55035
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "panwali-kantha-bugyal-uttarakhand",
+    "name": "Panwali Kantha Bugyal",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Panwali Kantha Bugyal is a mountain in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.56592,
+      "lon": 78.86419
+    }
+  },
+  {
+    "id": "pashulok-barrage-uttarakhand",
+    "name": "Pashulok Barrage",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Pashulok Barrage is a dam in India.",
+    "coordinates": {
+      "lat": 30.07417,
+      "lon": 78.28833
+    }
+  },
+  {
+    "id": "patal-bhuvaneshwar-uttarakhand",
+    "name": "Patal Bhuvaneshwar",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Patal Bhuvaneshwar is a caves in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.90764,
+      "lon": 79.60989
+    },
+    "tags": [
+      "hill-station",
+      "cave"
+    ]
+  },
+  {
+    "id": "pindari-glacier-uttarakhand",
+    "name": "Pindari Glacier",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Pindari Glacier is a glacier in India.",
+    "coordinates": {
+      "lat": 30.3,
+      "lon": 80.01667
+    }
+  },
+  {
+    "id": "pithoragarh-district-uttarakhand",
+    "name": "Pithoragarh district",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Pithoragarh district is a district of Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.4,
+      "lon": 80.0
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "pithoragarh-uttarakhand",
+    "name": "Pithoragarh",
+    "state": "Uttarakhand",
+    "category": "heritage",
+    "description": "Pithoragarh is a human settlement in India.",
+    "coordinates": {
+      "lat": 29.58587,
+      "lon": 80.21517
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "raghunath-temple-devprayag-uttarakhand",
+    "name": "Raghunath Temple, Devprayag",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Raghunath Temple, Devprayag is a hindu temple in Devprayag, Tehri Garhwal district, Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.14556,
+      "lon": 78.56444
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "rajaji-national-park-uttarakhand",
+    "name": "Rajaji National Park",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Rajaji National Park is a national park.",
+    "coordinates": {
+      "lat": 30.08333,
+      "lon": 78.03333
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "ram-jhula-uttarakhand",
+    "name": "Ram Jhula",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Ram Jhula is a bridge in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.12324,
+      "lon": 78.31444
+    }
+  },
+  {
+    "id": "ramganga-dam-uttarakhand",
+    "name": "Ramganga Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Ramganga Dam is a dam in Kalagrh.",
+    "coordinates": {
+      "lat": 29.51944,
+      "lon": 78.75861
+    }
+  },
+  {
+    "id": "ramgarh-uttarakhand-uttarakhand",
+    "name": "Ramgarh, Uttarakhand",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Ramgarh, Uttarakhand is a human settlement in Nainital district.",
+    "coordinates": {
+      "lat": 29.42233,
+      "lon": 79.55115
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "robber-s-cave-india-uttarakhand",
+    "name": "Robber's Cave, India",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Robber's Cave, India is a cave in India.",
+    "coordinates": {
+      "lat": 30.3759,
+      "lon": 78.06092
+    },
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "rock-edicts-of-khalsi-uttarakhand",
+    "name": "Rock edicts of Khalsi",
+    "state": "Uttarakhand",
+    "category": "heritage",
+    "description": "Rock edicts of Khalsi is a 3rd century BCE inscribed rock with 14 edicts of Ashoka.",
+    "coordinates": {
+      "lat": 30.51806,
+      "lon": 77.84833
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "roopkund-uttarakhand",
+    "name": "Roopkund",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Roopkund is a high altitude glacial lake in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.26194,
+      "lon": 79.73167
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "rudranath-uttarakhand",
+    "name": "Rudranath",
+    "state": "Uttarakhand",
+    "category": "offbeat",
+    "description": "Rudranath is a village in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.53333,
+      "lon": 79.33333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "rudreshwar-uttarakhand-uttarakhand",
+    "name": "Rudreshwar, Uttarakhand",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Rudreshwar, Uttarakhand is a hindu Temple in Uttarakhand.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sakya-monastery-uttarakhand",
+    "name": "Sakya Monastery",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Sakya Monastery is a building in Sa'gya county, Shigatse, Tibet, China.",
+    "coordinates": {
+      "lat": 28.90476,
+      "lon": 88.01782
+    },
+    "tags": [
+      "temple",
+      "monastery"
+    ]
+  },
+  {
+    "id": "sanjay-jheel-rishikesh-uttarakhand",
+    "name": "Sanjay Jheel, Rishikesh",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Sanjay Jheel, Rishikesh is an urban lake in Rishikesh, Uttarakhand, India.",
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "santala-devi-temple-uttarakhand",
+    "name": "Santala devi temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Santala devi temple is a hindu temple in Uttarakhand.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "satopanth-glacier-uttarakhand",
+    "name": "Satopanth Glacier",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Satopanth Glacier is a glacier in India.",
+    "coordinates": {
+      "lat": 30.7534,
+      "lon": 79.3642
+    }
+  },
+  {
+    "id": "satopanth-tal-uttarakhand",
+    "name": "Satopanth Tal",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Satopanth Tal is a body of water.",
+    "coordinates": {
+      "lat": 30.74306,
+      "lon": 79.35694
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sattal-uttarakhand",
+    "name": "Sattal",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Sattal is a lake in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.34806,
+      "lon": 79.53194
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sitabani-wildlife-reserve-uttarakhand",
+    "name": "Sitabani Wildlife Reserve",
+    "state": "Uttarakhand",
+    "category": "other",
+    "description": "Sitabani Wildlife Reserve is a wildlife reserve in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 29.76667,
+      "lon": 79.43333
+    },
+    "tags": [
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "st-john-in-the-wilderness-church-nainital-uttarakhand",
+    "name": "St. John in the Wilderness Church (Nainital)",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "St. John in the Wilderness Church (Nainital) is a church in Nainital, India.",
+    "coordinates": {
+      "lat": 23.39439,
+      "lon": 79.44686
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-paul-s-church-landour-uttarakhand",
+    "name": "St. Paul's Church, Landour",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "St. Paul's Church, Landour is a church in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.46083,
+      "lon": 78.09556
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "surkanda-devi-uttarakhand",
+    "name": "Surkanda Devi",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Surkanda Devi is a hindu temple in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.4114,
+      "lon": 78.2887
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "suryadhar-lake-uttarakhand",
+    "name": "Suryadhar Lake",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Suryadhar Lake is an artificial lake developed by Government of Uttarakhand.",
+    "coordinates": {
+      "lat": 30.25094,
+      "lon": 78.25649
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "tapkeshwar-temple-uttarakhand",
+    "name": "Tapkeshwar Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Tapkeshwar Temple is a hindu Temple in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.35727,
+      "lon": 78.01668
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tapovan-vishnugad-hydropower-plant-uttarakhand",
+    "name": "Tapovan Vishnugad Hydropower Plant",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Tapovan Vishnugad Hydropower Plant is a dam in India.",
+    "coordinates": {
+      "lat": 30.49414,
+      "lon": 79.62753
+    }
+  },
+  {
+    "id": "tehri-dam-uttarakhand",
+    "name": "Tehri Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Tehri Dam is a dam in India.",
+    "coordinates": {
+      "lat": 30.37778,
+      "lon": 78.48056
+    }
+  },
+  {
+    "id": "tiger-falls-uttarakhand",
+    "name": "Tiger Falls",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Tiger Falls is a waterfall.",
+    "coordinates": {
+      "lat": 30.70494,
+      "lon": 77.89387
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "triyuginarayan-temple-uttarakhand",
+    "name": "Triyuginarayan Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Triyuginarayan Temple is a building in India.",
+    "coordinates": {
+      "lat": 30.65236,
+      "lon": 78.98236
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "tungnath-uttarakhand",
+    "name": "Tungnath",
+    "state": "Uttarakhand",
+    "category": "offbeat",
+    "description": "Tungnath is a village in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.48944,
+      "lon": 79.21528
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "uttara-museum-of-contemporary-art-uttarakhand",
+    "name": "Uttara Museum of Contemporary Art",
+    "state": "Uttarakhand",
+    "category": "heritage",
+    "description": "Uttara Museum of Contemporary Art is an art Museum in Dehradun, India.",
+    "coordinates": {
+      "lat": 30.32462,
+      "lon": 78.04277
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "valley-of-flowers-national-park-uttarakhand",
+    "name": "Valley of Flowers National Park",
+    "state": "Uttarakhand",
+    "category": "wildlife",
+    "description": "Valley of Flowers National Park is a national park in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.73,
+      "lon": 79.6175
+    },
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ]
+  },
+  {
+    "id": "vasudhara-falls-uttarakhand",
+    "name": "Vasudhara Falls",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Vasudhara Falls is a waterfall in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.78856,
+      "lon": 79.45261
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "virbhadra-temple-uttarakhand",
+    "name": "Virbhadra Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Virbhadra Temple is a hindu temple in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 30.06753,
+      "lon": 78.28008
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "vishnuprayag-dam-uttarakhand",
+    "name": "Vishnuprayag Dam",
+    "state": "Uttarakhand",
+    "category": "nature",
+    "description": "Vishnuprayag Dam is a dam in Chamoli District.",
+    "coordinates": {
+      "lat": 30.5669,
+      "lon": 79.5468
+    }
+  },
+  {
+    "id": "yamunotri-temple-uttarakhand",
+    "name": "Yamunotri Temple",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Yamunotri Temple is a hindu Temple in Uttarakhand, India.",
+    "coordinates": {
+      "lat": 31.0167,
+      "lon": 78.45
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "yamunotri-uttarakhand",
+    "name": "Yamunotri",
+    "state": "Uttarakhand",
+    "category": "spiritual",
+    "description": "Yamunotri is a tourist attraction.",
+    "coordinates": {
+      "lat": 31.01667,
+      "lon": 78.4125
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "agatti-island-lakshadweep",
+    "name": "Agatti Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Agatti Island is an island in India.",
+    "coordinates": {
+      "lat": 10.86667,
+      "lon": 72.19722
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "bangaram-atoll-lakshadweep",
+    "name": "Bangaram Atoll",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Bangaram Atoll is an island.",
+    "coordinates": {
+      "lat": 10.93889,
+      "lon": 72.28611
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "bitra-lakshadweep",
+    "name": "Bitra",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Bitra is an island in India.",
+    "coordinates": {
+      "lat": 11.55,
+      "lon": 72.15
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "byramgore-reef-lakshadweep",
+    "name": "Byramgore Reef",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Byramgore Reef is a reef in India.",
+    "coordinates": {
+      "lat": 11.9,
+      "lon": 71.81667
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "cherbaniani-reef-lakshadweep",
+    "name": "Cherbaniani Reef",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Cherbaniani Reef is a reef in India.",
+    "coordinates": {
+      "lat": 12.3,
+      "lon": 71.88333
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "chetlat-island-lakshadweep",
+    "name": "Chetlat Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Chetlat Island is an island in India.",
+    "coordinates": {
+      "lat": 11.68333,
+      "lon": 72.7
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "kadmat-island-lakshadweep",
+    "name": "Kadmat Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Kadmat Island is an island in India.",
+    "coordinates": {
+      "lat": 11.23,
+      "lon": 72.78
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "kalpati-lakshadweep",
+    "name": "Kalpati",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Kalpati is an island in Lakshadweep, India.",
+    "coordinates": {
+      "lat": 10.813,
+      "lon": 72.167
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "kalpeni-lakshadweep",
+    "name": "Kalpeni",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Kalpeni is an island in India.",
+    "coordinates": {
+      "lat": 10.06909,
+      "lon": 73.64496
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "kavaratti-lakshadweep",
+    "name": "Kavaratti",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Kavaratti is an island of Lakshadweep.",
+    "coordinates": {
+      "lat": 10.56667,
+      "lon": 72.63889
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "kiltan-lakshadweep",
+    "name": "Kiltan",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Kiltan is an island in India.",
+    "coordinates": {
+      "lat": 11.48333,
+      "lon": 73.0
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "minicoy-lakshadweep",
+    "name": "Minicoy",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Minicoy is an atoll in India.",
+    "coordinates": {
+      "lat": 8.275,
+      "lon": 73.05278
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "mohidden-mosque-lakshadweep-lakshadweep",
+    "name": "Mohidden Mosque, Lakshadweep",
+    "state": "Lakshadweep",
+    "category": "spiritual",
+    "description": "Mohidden Mosque, Lakshadweep is a mosque in India.",
+    "coordinates": {
+      "lat": 10.57,
+      "lon": 72.62
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "pitti-lakshadweep",
+    "name": "Pitti",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Pitti is an uninhabited coral islet in India.",
+    "coordinates": {
+      "lat": 10.76667,
+      "lon": 72.53333
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "suheli-par-lakshadweep",
+    "name": "Suheli Par",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Suheli Par is an island in India.",
+    "coordinates": {
+      "lat": 10.08333,
+      "lon": 72.28333
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "viringili-maliku-atoll-lakshadweep",
+    "name": "Viringili (Maliku Atoll)",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "description": "Viringili (Maliku Atoll) is an island in India.",
+    "coordinates": {
+      "lat": 8.27833,
+      "lon": 73.01139
+    },
+    "tags": [
+      "island"
+    ]
+  }
+]

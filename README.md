@@ -10,4 +10,10 @@ bash scripts/cloud-agent-install.sh
 .venv/bin/pytest -q
 ```
 
-Place records live in `data/places/*.json` and must match `schema/place.schema.json`.
+Place records live in `data/places/<state-or-territory>.json` and must match `schema/place.schema.json`.
+
+Regenerate the catalog from English Wikipedia tourism categories and Wikidata coordinates (descriptions are composed from Wikidata facts, not copied article text):
+
+```bash
+.venv/bin/python scripts/extract_places.py
+```

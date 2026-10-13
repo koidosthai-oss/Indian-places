@@ -1,0 +1,1903 @@
+[
+  {
+    "id": "agnigarh-assam",
+    "name": "Agnigarh",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Agnigarh is a hillock which was built by Banasura to keep his daughter Usha in isolation.",
+    "coordinates": {
+      "lat": 26.6175,
+      "lon": 92.80194
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "akashiganga-waterfalls-assam",
+    "name": "Akashiganga Waterfalls",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Akashiganga Waterfalls is a waterfall in Assam, India.",
+    "coordinates": {
+      "lat": 26.17721,
+      "lon": 92.93792
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "amchang-wildlife-sanctuary-assam",
+    "name": "Amchang Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Amchang Wildlife Sanctuary is a protected area in India.",
+    "coordinates": {
+      "lat": 26.18422,
+      "lon": 91.86213
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "assam-state-museum-assam",
+    "name": "Assam State Museum",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Assam State Museum is a museum in Assam, India.",
+    "coordinates": {
+      "lat": 26.18534,
+      "lon": 91.7519
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "assam-state-zoo-cum-botanical-garden-assam",
+    "name": "Assam State Zoo cum Botanical Garden",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Assam State Zoo cum Botanical Garden is a zoo in Guwahati, India.",
+    "coordinates": {
+      "lat": 26.1632,
+      "lon": 91.7868
+    }
+  },
+  {
+    "id": "atal-udyan-assam",
+    "name": "Atal Udyan",
+    "state": "Assam",
+    "category": "other",
+    "description": "Atal Udyan is an urban park in India.",
+    "coordinates": {
+      "lat": 26.15806,
+      "lon": 91.68667
+    }
+  },
+  {
+    "id": "athkheliya-namghar-assam",
+    "name": "Athkheliya Namghar",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Athkheliya Namghar is a hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.47,
+      "lon": 94.09
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "bagheswari-temple-bongaigaon-assam",
+    "name": "Bagheswari Temple, Bongaigaon",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Bagheswari Temple, Bongaigaon is a hindu Temple in Assam.",
+    "coordinates": {
+      "lat": 26.4693,
+      "lon": 91.5643
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bakata-assam",
+    "name": "Bakata",
+    "state": "Assam",
+    "category": "other",
+    "description": "Bakata is a historic province of the Ahom kingdom."
+  },
+  {
+    "id": "barnagar-sadiya-assam",
+    "name": "Barnagar, Sadiya",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Barnagar, Sadiya is a historical Chutia royal centre and fortified settlement in Sadiya.",
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "barpeta-satra-assam",
+    "name": "Barpeta Satra",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Barpeta Satra is a satra located in Barpeta district, Assam.",
+    "coordinates": {
+      "lat": 26.4988,
+      "lon": 90.9668
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "basistha-temple-assam",
+    "name": "Basistha Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Basistha Temple is a temple in India.",
+    "coordinates": {
+      "lat": 26.095,
+      "lon": 91.78444
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "basudev-devalaya-assam",
+    "name": "Basudev Devalaya",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Basudev Devalaya is a religious place in Assam, India.",
+    "coordinates": {
+      "lat": 26.43408,
+      "lon": 91.40831
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "behali-wildlife-sanctuary-assam",
+    "name": "Behali Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Behali Wildlife Sanctuary is a natural area under government of India.",
+    "coordinates": {
+      "lat": 26.90889,
+      "lon": 93.30806
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bhairabi-temple-assam",
+    "name": "Bhairabi Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Bhairabi Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 26.61806,
+      "lon": 92.81944
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhairabkunda-assam",
+    "name": "Bhairabkunda",
+    "state": "Assam",
+    "category": "offbeat",
+    "description": "Bhairabkunda is a village in Assam, India.",
+    "coordinates": {
+      "lat": 26.89,
+      "lon": 92.115
+    }
+  },
+  {
+    "id": "bharali-namghar-assam",
+    "name": "Bharali Namghar",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Bharali Namghar is a hindu Temple in Bharali, Assam.",
+    "coordinates": {
+      "lat": 26.56118,
+      "lon": 92.97533
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bherjan-borajan-padumoni-wildlife-sanctuary-assam",
+    "name": "Bherjan-Borajan-Padumoni Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Bherjan-Borajan-Padumoni Wildlife Sanctuary is a protected area in Assam, India.",
+    "coordinates": {
+      "lat": 27.53,
+      "lon": 95.37
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bhimeswar-dham-assam",
+    "name": "Bhimeswar Dham",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Bhimeswar Dham is a temple in India.",
+    "coordinates": {
+      "lat": 26.0971,
+      "lon": 91.69605
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "billeswar-devalaya-assam",
+    "name": "Billeswar Devalaya",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Billeswar Devalaya is an ancient Hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.38183,
+      "lon": 91.35261
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "boga-baba-mazhar-assam",
+    "name": "Boga Baba Mazhar",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Boga Baba Mazhar is a muslim place of worship in Assam, India.",
+    "coordinates": {
+      "lat": 27.47917,
+      "lon": 94.91472
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "borail-wildlife-sanctuary-assam",
+    "name": "Borail Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Borail Wildlife Sanctuary is a wildlife sanctuary in Assam, India.",
+    "coordinates": {
+      "lat": 25.082,
+      "lon": 92.678
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bordowa-than-assam",
+    "name": "Bordowa Than",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Bordowa Than is a hindu pilgrimage site in Assam.",
+    "coordinates": {
+      "lat": 26.35038,
+      "lon": 92.67959
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "bornadi-wildlife-sanctuary-assam",
+    "name": "Bornadi Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Bornadi Wildlife Sanctuary is a wildlife sanctuary in Assam, India.",
+    "coordinates": {
+      "lat": 26.80583,
+      "lon": 91.74028
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bura-chapori-wildlife-sanctuary-assam",
+    "name": "Bura Chapori Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Bura Chapori Wildlife Sanctuary is a protected area in Assam, India.",
+    "coordinates": {
+      "lat": 26.5148,
+      "lon": 92.6929
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "burhi-gosani-devalaya-jorhat-assam",
+    "name": "Burhi Gosani Devalaya Jorhat",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Burhi Gosani Devalaya Jorhat is a hindu Shakta temple in Jorhat Assam.",
+    "coordinates": {
+      "lat": 26.75889,
+      "lon": 94.21472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chakrashila-wildlife-sanctuary-assam",
+    "name": "Chakrashila Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Chakrashila Wildlife Sanctuary is a wildlife sanctuary falling under Dhubri and Kokrajhar districts of Assam, India.",
+    "coordinates": {
+      "lat": 26.338,
+      "lon": 90.329
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "chandubi-lake-assam",
+    "name": "Chandubi Lake",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Chandubi Lake is a lake in India.",
+    "coordinates": {
+      "lat": 25.87977,
+      "lon": 91.4196
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "charaideo-district-assam",
+    "name": "Charaideo district",
+    "state": "Assam",
+    "category": "other",
+    "description": "Charaideo district is a district of Assam, India.",
+    "coordinates": {
+      "lat": 27.07,
+      "lon": 95.03
+    }
+  },
+  {
+    "id": "dakhinpat-satra-assam",
+    "name": "Dakhinpat Satra",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Dakhinpat Satra is a hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.918,
+      "lon": 94.26673
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "daojali-hading-assam",
+    "name": "Daojali Hading",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Daojali Hading is an archaeological site in India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "dehing-patkai-national-park-assam",
+    "name": "Dehing Patkai National Park",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Dehing Patkai National Park is a wildlife sanctuary in Assam, India.",
+    "coordinates": {
+      "lat": 27.331,
+      "lon": 95.526
+    },
+    "tags": [
+      "national-park",
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "deopahar-assam",
+    "name": "Deopahar",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Deopahar is an archaeological site in Assam India.",
+    "coordinates": {
+      "lat": 26.60222,
+      "lon": 93.73111
+    },
+    "tags": [
+      "museum",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "deopani-durga-mandir-assam",
+    "name": "Deopani Durga Mandir",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Deopani Durga Mandir is a hindu Shakta temple of Goddess Durga situated in Asean,India.",
+    "coordinates": {
+      "lat": 26.21885,
+      "lon": 93.8275
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dhekiakhowa-bornamghar-assam",
+    "name": "Dhekiakhowa Bornamghar",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Dhekiakhowa Bornamghar is a place of worship of Eksaran Namdharma in Assam, India.",
+    "coordinates": {
+      "lat": 26.47,
+      "lon": 94.19
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dibru-saikhowa-national-park-assam",
+    "name": "Dibru-Saikhowa National Park",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Dibru-Saikhowa National Park is a national park in Assam, India.",
+    "coordinates": {
+      "lat": 27.64984,
+      "lon": 95.34029
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "dighalipukhuri-assam",
+    "name": "Dighalipukhuri",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Dighalipukhuri is a man-made pond in Guwahati, India.",
+    "coordinates": {
+      "lat": 26.188,
+      "lon": 91.751
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "dipor-bil-assam",
+    "name": "Dipor Bil",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Dipor Bil is a permanent freshwater lake in India.",
+    "coordinates": {
+      "lat": 26.11917,
+      "lon": 91.65333
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "dirgheshwari-temple-assam",
+    "name": "Dirgheshwari temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Dirgheshwari temple is a temple in India.",
+    "coordinates": {
+      "lat": 26.24258,
+      "lon": 91.74939
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dora-beel-assam",
+    "name": "Dora Beel",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Dora Beel is a lake in Assam.",
+    "coordinates": {
+      "lat": 26.08886,
+      "lon": 91.45886
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "doul-govinda-temple-assam",
+    "name": "Doul Govinda Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Doul Govinda Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 26.20677,
+      "lon": 91.74171
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "doyangdhansiri-valley-assam",
+    "name": "Doyang–Dhansiri Valley",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Doyang–Dhansiri Valley is an archaeological site in India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "east-karbi-anglong-wildlife-sanctuary-assam",
+    "name": "East Karbi-Anglong Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "East Karbi-Anglong Wildlife Sanctuary is a wildlife sanctuary in Assam, India.",
+    "coordinates": {
+      "lat": 25.92,
+      "lon": 93.3829
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "garampani-wildlife-sanctuary-assam",
+    "name": "Garampani Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Garampani Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 26.3887,
+      "lon": 93.8782
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "garbhanga-wildlife-sanctuary-assam",
+    "name": "Garbhanga Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Garbhanga Wildlife Sanctuary is a 25th Wildlife Sanctuary of Assam.",
+    "coordinates": {
+      "lat": 26.09333,
+      "lon": 91.74917
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "garchuk-lachit-garh-assam",
+    "name": "Garchuk Lachit Garh",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Garchuk Lachit Garh is a fort in Assam, India.",
+    "coordinates": {
+      "lat": 26.1056,
+      "lon": 91.70951
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "garh-doul-assam",
+    "name": "Garh Doul",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Garh Doul is a building in Assam, India.",
+    "coordinates": {
+      "lat": 26.64611,
+      "lon": 92.75528
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "ghuguha-doul-assam",
+    "name": "Ghuguha Doul",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Ghuguha Doul is a ghuguha Dol often referred as Ghuguha Temple is a 18th-century Ahom-period temple in Dhemaji district, Assam, India.",
+    "coordinates": {
+      "lat": 27.37,
+      "lon": 94.47
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "giant-jars-of-assam-assam",
+    "name": "Giant jars of Assam",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Giant jars of Assam is an archaeological artifacts found in India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "gola-ghar-assam",
+    "name": "Gola Ghar",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Gola Ghar is a historical monument in Sivasagar, Assam, India.",
+    "coordinates": {
+      "lat": 26.96433,
+      "lon": 94.62218
+    }
+  },
+  {
+    "id": "gourisagar-pukhuri-assam",
+    "name": "Gourisagar Pukhuri",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Gourisagar Pukhuri is an artificial lake in the Sivasagar, locality in the town of Sivasagar district in Assam.",
+    "coordinates": {
+      "lat": 26.94375,
+      "lon": 94.5379
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "govinda-temple-hojai-assam",
+    "name": "Govinda Temple, Hojai",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Govinda Temple, Hojai is a hindu Temple in Hojai, Assam.",
+    "coordinates": {
+      "lat": 25.9654,
+      "lon": 92.87242
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gurdwara-sri-guru-tegh-bahadur-sahib-assam",
+    "name": "Gurdwara Sri Guru Tegh Bahadur Sahib",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Gurdwara Sri Guru Tegh Bahadur Sahib is a gurdwara in Assam, India.",
+    "coordinates": {
+      "lat": 26.01791,
+      "lon": 89.99434
+    }
+  },
+  {
+    "id": "guwahati-planetarium-assam",
+    "name": "Guwahati Planetarium",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Guwahati Planetarium is a planetarium museum and library in Dighali Pukhuri, Guwahati.",
+    "coordinates": {
+      "lat": 26.19153,
+      "lon": 91.75196
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "guwakuchi-assam",
+    "name": "Guwakuchi",
+    "state": "Assam",
+    "category": "offbeat",
+    "description": "Guwakuchi is a village in Assam, India.",
+    "coordinates": {
+      "lat": 26.4,
+      "lon": 91.42
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "hajo-assam",
+    "name": "Hajo",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Hajo is a town in Assam.",
+    "coordinates": {
+      "lat": 26.24412,
+      "lon": 91.52553
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "haleswar-temple-assam",
+    "name": "Haleswar Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Haleswar Temple is a 18th-century Hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.70826,
+      "lon": 92.76744
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hatimura-temple-assam",
+    "name": "Hatimura Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Hatimura Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 26.6101,
+      "lon": 92.99586
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hayagriva-madhava-temple-assam",
+    "name": "Hayagriva Madhava Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Hayagriva Madhava Temple is a temple in India.",
+    "coordinates": {
+      "lat": 26.2427,
+      "lon": 91.5265
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hoollongapar-gibbon-sanctuary-assam",
+    "name": "Hoollongapar Gibbon Sanctuary",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Hoollongapar Gibbon Sanctuary is a protected area of evergreen forest in Assam, India.",
+    "coordinates": {
+      "lat": 26.71667,
+      "lon": 94.38333
+    }
+  },
+  {
+    "id": "jagannath-temple-dibrugarh-assam",
+    "name": "Jagannath Temple, Dibrugarh",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Dibrugarh is a hindu temple in Dibrugarh, Assam, India.",
+    "coordinates": {
+      "lat": 27.43636,
+      "lon": 94.93136
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jayantipur-bor-mosque-assam",
+    "name": "Jayantipur Bor Mosque",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Jayantipur Bor Mosque is a mosque in Assam.",
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "joy-dol-assam",
+    "name": "Joy dol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Joy dol is a temple in India.",
+    "coordinates": {
+      "lat": 26.95553,
+      "lon": 94.62421
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "joysagar-tank-assam",
+    "name": "Joysagar Tank",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Joysagar Tank is a body of water.",
+    "coordinates": {
+      "lat": 26.95237,
+      "lon": 94.62375
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "judges-field-assam",
+    "name": "Judges Field",
+    "state": "Assam",
+    "category": "other",
+    "description": "Judges Field is a multi-purpose sports ground in Guwahati, Assam, India.",
+    "coordinates": {
+      "lat": 26.18932,
+      "lon": 91.74905
+    }
+  },
+  {
+    "id": "kakoijana-reserved-forest-assam",
+    "name": "Kakoijana reserved forest",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Kakoijana reserved forest is a forest.",
+    "coordinates": {
+      "lat": 26.55,
+      "lon": 91.0075
+    }
+  },
+  {
+    "id": "kamakhya-temple-assam",
+    "name": "Kamakhya Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Kamakhya Temple is a hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.16643,
+      "lon": 91.70551
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kapla-beel-assam",
+    "name": "Kapla Beel",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Kapla Beel is a lake in Assam (India).",
+    "coordinates": {
+      "lat": 26.33717,
+      "lon": 91.22414
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "kareng-ghar-assam",
+    "name": "Kareng Ghar",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Kareng Ghar is a historic building in India.",
+    "coordinates": {
+      "lat": 26.93641,
+      "lon": 94.74519
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "kaziranga-national-park-assam",
+    "name": "Kaziranga National Park",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Kaziranga National Park is a national park in the state of Assam, India.",
+    "coordinates": {
+      "lat": 26.66667,
+      "lon": 93.35
+    },
+    "tags": [
+      "world-heritage",
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "ketakeshwar-dewal-assam",
+    "name": "Ketakeshwar Dewal",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Ketakeshwar Dewal is a holy site in Assam, India.",
+    "coordinates": {
+      "lat": 26.649,
+      "lon": 92.78039
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kopili-hydro-electric-project-assam",
+    "name": "Kopili Hydro Electric Project",
+    "state": "Assam",
+    "category": "other",
+    "description": "Kopili Hydro Electric Project is a power project in Assam.",
+    "coordinates": {
+      "lat": 25.52861,
+      "lon": 92.63278
+    }
+  },
+  {
+    "id": "lachit-borphukan-maidam-assam",
+    "name": "Lachit Borphukan Maidam",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Lachit Borphukan Maidam is a tourism place in Assam, India."
+  },
+  {
+    "id": "lankeshwar-temple-assam",
+    "name": "Lankeshwar Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Lankeshwar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 26.17145,
+      "lon": 91.64478
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "laokhowa-wildlife-sanctuary-assam",
+    "name": "Laokhowa Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Laokhowa Wildlife Sanctuary is a protected area in Assam, India.",
+    "coordinates": {
+      "lat": 26.50667,
+      "lon": 92.71056
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "madan-kamdev-assam",
+    "name": "Madan Kamdev",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Madan Kamdev is an archaeological site of Assam.",
+    "coordinates": {
+      "lat": 26.31972,
+      "lon": 91.74083
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "madhab-than-assam",
+    "name": "Madhab Than",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Madhab Than is a hindu temple in India.",
+    "coordinates": {
+      "lat": 26.2,
+      "lon": 92.63
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maguri-motapung-beel-assam",
+    "name": "Maguri Motapung Beel",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Maguri Motapung Beel is a lake in Assam.",
+    "coordinates": {
+      "lat": 27.57672,
+      "lon": 95.39525
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "maha-mrityunjay-temple-assam",
+    "name": "Maha Mrityunjay Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Maha Mrityunjay Temple is a hindu temple in Nagaon,Assam, India.",
+    "coordinates": {
+      "lat": 26.34306,
+      "lon": 92.77613
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahabhairav-temple-assam",
+    "name": "Mahabhairav Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Mahabhairav Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 26.63417,
+      "lon": 92.79639
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahamaya-dham-assam",
+    "name": "Mahamaya Dham",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Mahamaya Dham is a hindu temple in India.",
+    "coordinates": {
+      "lat": 26.2143,
+      "lon": 90.1185
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "majuli-assam",
+    "name": "Majuli",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Majuli is an island in Assam, Northeast India.",
+    "coordinates": {
+      "lat": 26.95,
+      "lon": 94.16667
+    },
+    "tags": [
+      "island",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "manas-national-park-assam",
+    "name": "Manas National Park",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Manas National Park is a national park in Assam, India.",
+    "coordinates": {
+      "lat": 26.71667,
+      "lon": 90.93333
+    },
+    "tags": [
+      "world-heritage",
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "manikarneswar-devalaya-assam",
+    "name": "Manikarneswar Devalaya",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Manikarneswar Devalaya is a temple dedicated to mother god Shiva.",
+    "coordinates": {
+      "lat": 26.20714,
+      "lon": 91.748
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manikut-assam",
+    "name": "Manikut",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Manikut is a tourism place in Assam, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "marat-longri-wildlife-sanctuary-assam",
+    "name": "Marat Longri Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Marat Longri Wildlife Sanctuary is a wildlife sanctuary in Assam, India.",
+    "coordinates": {
+      "lat": 25.9006,
+      "lon": 93.2842
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "matiabag-palace-assam",
+    "name": "Matiabag Palace",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Matiabag Palace is a building in India.",
+    "coordinates": {
+      "lat": 26.5,
+      "lon": 89.58
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "mer-beel-assam",
+    "name": "Mer Beel",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Mer Beel is a lake in Assam.",
+    "coordinates": {
+      "lat": 26.40425,
+      "lon": 92.19011
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "moidam-assam",
+    "name": "Moidam",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Moidam is a tumuli of the Ahom Kingdom.",
+    "coordinates": {
+      "lat": 26.94361,
+      "lon": 94.875
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "moiramora-doul-assam",
+    "name": "Moiramora Doul",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Moiramora Doul is a historical site in India.",
+    "coordinates": {
+      "lat": 27.33513,
+      "lon": 94.93159
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "morikalang-beel-assam",
+    "name": "Morikalang Beel",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Morikalang Beel is a lake in Assam.",
+    "coordinates": {
+      "lat": 26.24497,
+      "lon": 92.32283
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "na-pukhuri-shiva-dol-assam",
+    "name": "Na-Pukhuri Shiva Dol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Na-Pukhuri Shiva Dol is a hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.9527,
+      "lon": 94.5855
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nagsankar-mandir-assam",
+    "name": "Nagsankar Mandir",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Nagsankar Mandir is an indian 4th century temple.",
+    "coordinates": {
+      "lat": 26.72534,
+      "lon": 92.99482
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nambor-doigrung-wildlife-sanctuary-assam",
+    "name": "Nambor - Doigrung Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Nambor - Doigrung Wildlife Sanctuary is a wildlife sanctuary in Assam, India.",
+    "coordinates": {
+      "lat": 26.4185,
+      "lon": 93.8728
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "nambor-wildlife-sanctuary-assam",
+    "name": "Nambor Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Nambor Wildlife Sanctuary is a wildlife reserve in India.",
+    "coordinates": {
+      "lat": 26.39528,
+      "lon": 93.8825
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "nameri-national-park-assam",
+    "name": "Nameri National Park",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Nameri National Park is a national park in Assam, India.",
+    "coordinates": {
+      "lat": 27.01,
+      "lon": 92.79
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "namghar-assam",
+    "name": "Namghar",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Namghar is a places of worship in Assam, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "navagraha-mandir-guwahati-assam",
+    "name": "Navagraha Mandir, Guwahati",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Navagraha Mandir, Guwahati is a hindu temple.",
+    "coordinates": {
+      "lat": 26.19092,
+      "lon": 91.76525
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "negheriting-shiva-doul-assam",
+    "name": "Negheriting Shiva Doul",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Negheriting Shiva Doul is a temple in India.",
+    "coordinates": {
+      "lat": 26.71,
+      "lon": 93.96
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nehru-park-guwahati-assam",
+    "name": "Nehru Park, Guwahati",
+    "state": "Assam",
+    "category": "other",
+    "description": "Nehru Park, Guwahati is an urban park in India.",
+    "coordinates": {
+      "lat": 26.18861,
+      "lon": 91.74722
+    }
+  },
+  {
+    "id": "north-karbi-anglong-wildlife-sanctuary-assam",
+    "name": "North Karbi-Anglong Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "North Karbi-Anglong Wildlife Sanctuary is a protected area in Assam, India.",
+    "coordinates": {
+      "lat": 25.55,
+      "lon": 92.16667
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "orang-national-park-assam",
+    "name": "Orang National Park",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Orang National Park is a national park in the state of Assam, India.",
+    "coordinates": {
+      "lat": 26.61,
+      "lon": 92.36
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "padum-pukhuri-sadiya-assam",
+    "name": "Padum Pukhuri, Sadiya",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Padum Pukhuri, Sadiya is a tourism place in Assam, India.",
+    "coordinates": {
+      "lat": 27.96337,
+      "lon": 95.76135
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "pahukata-namghar-assam",
+    "name": "Pahukata Namghar",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Pahukata Namghar is a hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.8498,
+      "lon": 92.5678
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "panbari-mosque-assam",
+    "name": "Panbari Mosque",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Panbari Mosque is a mosque of India.",
+    "coordinates": {
+      "lat": 26.15515,
+      "lon": 90.05476
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "pani-dihing-wildlife-sanctuary-assam",
+    "name": "Pani Dihing Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Pani Dihing Wildlife Sanctuary is a bird sanctuary in Assam, India.",
+    "coordinates": {
+      "lat": 27.12194,
+      "lon": 94.59639
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "panimur-assam",
+    "name": "Panimur",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Panimur is a scenic destination in Dima Hasao, Assam.",
+    "coordinates": {
+      "lat": 25.71667,
+      "lon": 92.82333
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "pobitora-wildlife-sanctuary-assam",
+    "name": "Pobitora Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Pobitora Wildlife Sanctuary is a wildlife reserve in Assam, India.",
+    "coordinates": {
+      "lat": 26.24111,
+      "lon": 92.03139
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "puranigudam-jame-masjid-assam",
+    "name": "Puranigudam Jame Masjid",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Puranigudam Jame Masjid is a mosque in Assam.",
+    "coordinates": {
+      "lat": 26.36601,
+      "lon": 92.78594
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "railway-heritage-park-tinsukia-assam",
+    "name": "Railway Heritage Park, Tinsukia",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Railway Heritage Park, Tinsukia is a railway museum in Assam, India.",
+    "coordinates": {
+      "lat": 27.4803,
+      "lon": 95.3351
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "raimona-national-park-assam",
+    "name": "Raimona National Park",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Raimona National Park is a national park in the state of Assam, India.",
+    "coordinates": {
+      "lat": 26.65972,
+      "lon": 89.97611
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "rajaduar-assam",
+    "name": "Rajaduar",
+    "state": "Assam",
+    "category": "offbeat",
+    "description": "Rajaduar is a village in Assam, India.",
+    "coordinates": {
+      "lat": 26.20187,
+      "lon": 91.72858
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "rajbari-abhayapuri-assam",
+    "name": "Rajbari, Abhayapuri",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Rajbari, Abhayapuri is a tourism place in Assam, India.",
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "rang-ghar-assam",
+    "name": "Rang Ghar",
+    "state": "Assam",
+    "category": "other",
+    "description": "Rang Ghar is a historic building in India.",
+    "coordinates": {
+      "lat": 26.96705,
+      "lon": 94.61909
+    }
+  },
+  {
+    "id": "rangnath-dol-assam",
+    "name": "Rangnath Dol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Rangnath Dol is a hindu temple in India.",
+    "coordinates": {
+      "lat": 26.95997,
+      "lon": 94.62247
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "rudreswar-temple-assam",
+    "name": "Rudreswar Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Rudreswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 26.20944,
+      "lon": 91.72456
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "samaguri-beel-assam",
+    "name": "Samaguri Beel",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Samaguri Beel is a lake in Assam.",
+    "coordinates": {
+      "lat": 26.42372,
+      "lon": 92.86103
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "saraighat-war-memorial-park-assam",
+    "name": "Saraighat War Memorial Park",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Saraighat War Memorial Park is a park at Agyathuri in North Guwahati,.",
+    "coordinates": {
+      "lat": 26.19078,
+      "lon": 91.64323
+    }
+  },
+  {
+    "id": "shikdamakha-assam",
+    "name": "Shikdamakha",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Shikdamakha is a village in Assam, India.",
+    "coordinates": {
+      "lat": 25.9487,
+      "lon": 92.2237
+    }
+  },
+  {
+    "id": "shree-shyam-mandir-guwahati-assam",
+    "name": "Shree Shyam Mandir, Guwahati",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Shree Shyam Mandir, Guwahati is a khatu Shyam Mandir in Guwahati.",
+    "coordinates": {
+      "lat": 26.17904,
+      "lon": 91.74361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-kedar-temple-assam",
+    "name": "Shri Kedar Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Shri Kedar Temple is a hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.24178,
+      "lon": 91.54397
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "silsako-lake-assam",
+    "name": "Silsako Lake",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Silsako Lake is a lake in Assam.",
+    "coordinates": {
+      "lat": 26.15675,
+      "lon": 91.82172
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sivasagar-lake-assam",
+    "name": "Sivasagar Lake",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Sivasagar Lake is a lake in Assam, India.",
+    "coordinates": {
+      "lat": 26.9932,
+      "lon": 94.6334
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sivasagar-sivadol-assam",
+    "name": "Sivasagar Sivadol",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sivasagar Sivadol is a temple in India.",
+    "coordinates": {
+      "lat": 26.98876,
+      "lon": 94.63312
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "son-beel-assam",
+    "name": "Son Beel",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Son Beel is a lake in India.",
+    "coordinates": {
+      "lat": 24.68742,
+      "lon": 92.44308
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sonai-rupai-wildlife-sanctuary-assam",
+    "name": "Sonai Rupai Wildlife Sanctuary",
+    "state": "Assam",
+    "category": "wildlife",
+    "description": "Sonai Rupai Wildlife Sanctuary is a protected area in Assam, India.",
+    "coordinates": {
+      "lat": 26.89417,
+      "lon": 92.34583
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "sri-surya-pahar-assam",
+    "name": "Sri Surya Pahar",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Sri Surya Pahar is an archaeological site in Assam, India.",
+    "coordinates": {
+      "lat": 26.11266,
+      "lon": 90.68926
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "srimanta-sankardev-kalakshetra-assam",
+    "name": "Srimanta Sankardev Kalakshetra",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Srimanta Sankardev Kalakshetra is a museum of Assamese culture and heritage.",
+    "coordinates": {
+      "lat": 26.1306,
+      "lon": 91.8224
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "statue-of-valour-assam",
+    "name": "Statue of Valour",
+    "state": "Assam",
+    "category": "other",
+    "description": "Statue of Valour is a tourism place in Assam, India."
+  },
+  {
+    "id": "subansiri-lower-dam-assam",
+    "name": "Subansiri Lower Dam",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Subansiri Lower Dam is a dam in India.",
+    "coordinates": {
+      "lat": 27.55236,
+      "lon": 94.259
+    }
+  },
+  {
+    "id": "sukreswar-temple-assam",
+    "name": "Sukreswar Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Sukreswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 26.18781,
+      "lon": 91.74101
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "talatal-ghar-assam",
+    "name": "Talatal Ghar",
+    "state": "Assam",
+    "category": "heritage",
+    "description": "Talatal Ghar is a historical monument.",
+    "coordinates": {
+      "lat": 26.96631,
+      "lon": 94.62469
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "tamreswari-temple-assam",
+    "name": "Tamreswari Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Tamreswari Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 27.94852,
+      "lon": 96.0155
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "thetha-gohain-than-assam",
+    "name": "Thetha Gohain Than",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Thetha Gohain Than is a religious place in Assam, India.",
+    "coordinates": {
+      "lat": 26.33242,
+      "lon": 91.49022
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "thulungapuri-assam",
+    "name": "Thulungapuri",
+    "state": "Assam",
+    "category": "other",
+    "description": "Thulungapuri is a built structure in Assam, India."
+  },
+  {
+    "id": "tourism-in-assam-assam",
+    "name": "Tourism in Assam",
+    "state": "Assam",
+    "category": "other",
+    "description": "Tourism in Assam, India."
+  },
+  {
+    "id": "tukreswari-temple-assam",
+    "name": "Tukreswari Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Tukreswari Temple is a hindu temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.04956,
+      "lon": 90.63219
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ugratara-devalaya-assam",
+    "name": "Ugratara Devalaya",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Ugratara Devalaya is a temple in India.",
+    "coordinates": {
+      "lat": 26.1891,
+      "lon": 91.7538
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ultapani-reserve-forest-assam",
+    "name": "Ultapani Reserve Forest",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Ultapani Reserve Forest is an indian nature preserve.",
+    "coordinates": {
+      "lat": 26.70016,
+      "lon": 90.27712
+    }
+  },
+  {
+    "id": "umachal-rock-cave-assam",
+    "name": "Umachal rock cave",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Umachal rock cave is a cave in Assam, India.",
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "umananda-island-assam",
+    "name": "Umananda Island",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Umananda Island is a river island in Assam, northeast India.",
+    "coordinates": {
+      "lat": 26.1964,
+      "lon": 91.745
+    },
+    "tags": [
+      "island",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "umananda-temple-assam",
+    "name": "Umananda Temple",
+    "state": "Assam",
+    "category": "spiritual",
+    "description": "Umananda Temple is a temple in Assam, India.",
+    "coordinates": {
+      "lat": 26.1966,
+      "lon": 91.7454
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "urpad-beel-assam",
+    "name": "Urpad Beel",
+    "state": "Assam",
+    "category": "nature",
+    "description": "Urpad Beel is a lake in Assam (India).",
+    "coordinates": {
+      "lat": 26.09061,
+      "lon": 90.58886
+    },
+    "tags": [
+      "lake"
+    ]
+  }
+]

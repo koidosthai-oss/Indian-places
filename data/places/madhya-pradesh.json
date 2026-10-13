@@ -1,0 +1,4342 @@
+[
+  {
+    "id": "aabchand-caves-madhya-pradesh",
+    "name": "Aabchand Caves",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Aabchand Caves is a caves and archaeological site in Sagar, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.78,
+      "lon": 79.0
+    },
+    "tags": [
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "aantri-mata-madhya-pradesh",
+    "name": "Aantri Mata",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Aantri Mata is a hindu temple in Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.3141,
+      "lon": 75.23
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "achanakmar-amarkantak-biosphere-reserve-madhya-pradesh",
+    "name": "Achanakmar-Amarkantak Biosphere Reserve",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Achanakmar-Amarkantak Biosphere Reserve is a biosphere reserves in India.",
+    "coordinates": {
+      "lat": 22.1086,
+      "lon": 81.7481
+    }
+  },
+  {
+    "id": "adamgarh-hills-madhya-pradesh",
+    "name": "Adamgarh Hills",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Adamgarh Hills is a village in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.73002,
+      "lon": 77.73262
+    }
+  },
+  {
+    "id": "adhyatma-niketan-madhya-pradesh",
+    "name": "Adhyatma Niketan",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Adhyatma Niketan is a hindu temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 26.14,
+      "lon": 78.1
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "adinatha-temple-khajuraho-madhya-pradesh",
+    "name": "Adinatha temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Adinatha temple, Khajuraho is a building in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.84511,
+      "lon": 79.93661
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "aharji-jain-teerth-madhya-pradesh",
+    "name": "Aharji Jain Teerth",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Aharji Jain Teerth is a tourism place in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.73939,
+      "lon": 78.99069
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ajaigarh-madhya-pradesh",
+    "name": "Ajaigarh",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Ajaigarh is a town.",
+    "coordinates": {
+      "lat": 24.90149,
+      "lon": 80.2584
+    }
+  },
+  {
+    "id": "amarkantak-madhya-pradesh",
+    "name": "Amarkantak",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Amarkantak is a hlll station in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.67508,
+      "lon": 81.75957
+    },
+    "tags": [
+      "hill-station",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "ambadevi-rock-shelters-madhya-pradesh",
+    "name": "Ambadevi rock shelters",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Ambadevi rock shelters is a caves and archaeological site in India.",
+    "coordinates": {
+      "lat": 21.40712,
+      "lon": 77.94806
+    },
+    "tags": [
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "ancient-monuments-in-ujjain-madhya-pradesh",
+    "name": "Ancient monuments in Ujjain",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Ancient monuments in Ujjain is an ancient structures in India.",
+    "coordinates": {
+      "lat": 23.17125,
+      "lon": 75.76667
+    }
+  },
+  {
+    "id": "ashoknagar-madhya-pradesh-madhya-pradesh",
+    "name": "Ashoknagar, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Ashoknagar, Madhya Pradesh is a city in Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.34,
+      "lon": 77.43
+    }
+  },
+  {
+    "id": "asirgarh-fort-madhya-pradesh",
+    "name": "Asirgarh Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Asirgarh Fort is an indian fort.",
+    "coordinates": {
+      "lat": 21.47107,
+      "lon": 76.2938
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "atal-bihari-vajpayee-regional-park-madhya-pradesh",
+    "name": "Atal Bihari Vajpayee Regional Park",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Atal Bihari Vajpayee Regional Park is a park in Maharashtra, India.",
+    "coordinates": {
+      "lat": 22.677,
+      "lon": 75.856
+    }
+  },
+  {
+    "id": "ater-fort-madhya-pradesh",
+    "name": "Ater Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Ater Fort is a 17th century Indian fort.",
+    "coordinates": {
+      "lat": 26.748,
+      "lon": 78.637
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "baba-baijnath-temple-agar-madhya-pradesh",
+    "name": "Baba Baijnath Temple, Agar",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Baba Baijnath Temple, Agar is a hindu temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.73,
+      "lon": 76.04
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bade-baba-temple-madhya-pradesh",
+    "name": "Bade Baba Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bade Baba Temple is a jain temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.97998,
+      "lon": 79.7242
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bagalamukhi-temple-nalkheda-madhya-pradesh",
+    "name": "Bagalamukhi Temple, Nalkheda",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bagalamukhi Temple, Nalkheda is a hindu temple in Nalkheda, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.84031,
+      "lon": 76.23671
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bagdara-wildlife-sanctuary-madhya-pradesh",
+    "name": "Bagdara Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Bagdara Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 24.6338,
+      "lon": 82.49597
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bageshwar-dham-balaji-temple-madhya-pradesh",
+    "name": "Bageshwar Dham Balaji Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bageshwar Dham Balaji Temple is a hindu temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.93055,
+      "lon": 79.59583
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bagh-caves-madhya-pradesh",
+    "name": "Bagh Caves",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bagh Caves is a buddhist caves in southwest Madhya Pradesh.",
+    "coordinates": {
+      "lat": 22.32268,
+      "lon": 74.80621
+    },
+    "tags": [
+      "cave",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "baghor-stone-madhya-pradesh",
+    "name": "Baghor stone",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Baghor stone is an indian archeological artifact.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bahuti-falls-madhya-pradesh",
+    "name": "Bahuti Falls",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bahuti Falls is a waterfall.",
+    "coordinates": {
+      "lat": 24.7609,
+      "lon": 81.8289
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "bajramath-temple-madhya-pradesh",
+    "name": "Bajramath Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bajramath Temple is a 10th century Hindu temple converted into Jain temple in Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.6626,
+      "lon": 78.11172
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bajrangarh-fort-madhya-pradesh",
+    "name": "Bajrangarh Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Bajrangarh Fort is a fort in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.58583,
+      "lon": 77.29278
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "bandhaji-madhya-pradesh",
+    "name": "Bandhaji",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bandhaji is a jain tirtha.",
+    "coordinates": {
+      "lat": 25.0403,
+      "lon": 78.74304
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bandhavgarh-national-park-madhya-pradesh",
+    "name": "Bandhavgarh National Park",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Bandhavgarh National Park is a national park.",
+    "coordinates": {
+      "lat": 23.69944,
+      "lon": 80.96194
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "bansagar-dam-madhya-pradesh",
+    "name": "Bansagar Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bansagar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 24.19167,
+      "lon": 81.2875
+    }
+  },
+  {
+    "id": "bargi-dam-madhya-pradesh",
+    "name": "Bargi Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bargi Dam is a dam in India.",
+    "coordinates": {
+      "lat": 22.94167,
+      "lon": 79.925
+    }
+  },
+  {
+    "id": "barna-dam-madhya-pradesh",
+    "name": "Barna Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Barna Dam is a dam in Bari tahsil in Raisen district, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.05136,
+      "lon": 78.06254
+    }
+  },
+  {
+    "id": "bateshwar-hindu-temples-madhya-pradesh-madhya-pradesh",
+    "name": "Bateshwar Hindu temples, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bateshwar Hindu temples, Madhya Pradesh is a 8th-century stone temples group near Gwalior and Morena, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 26.42706,
+      "lon": 78.19674
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "beejamandal-madhya-pradesh",
+    "name": "Beejamandal",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Beejamandal is a ruins of an 11th century Hindu temple, archaeological site.",
+    "coordinates": {
+      "lat": 24.82944,
+      "lon": 79.93452
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "beenaji-madhya-pradesh",
+    "name": "Beenaji",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Beenaji is a jain Temple in Sagar, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.36,
+      "lon": 79.07
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhadbhada-dam-madhya-pradesh",
+    "name": "Bhadbhada Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bhadbhada Dam is a dam in Bhopal, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.20833,
+      "lon": 77.37889
+    }
+  },
+  {
+    "id": "bhadwamata-madhya-pradesh",
+    "name": "Bhadwamata",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bhadwamata is a kuldevi of Bhils.",
+    "coordinates": {
+      "lat": 24.4724,
+      "lon": 75.0443
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "bharat-bhavan-madhya-pradesh",
+    "name": "Bharat Bhavan",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Bharat Bhavan is an autonomous multi-arts complex and museum in Bhopal, India.",
+    "coordinates": {
+      "lat": 23.24702,
+      "lon": 77.39233
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "bharhut-madhya-pradesh",
+    "name": "Bharhut",
+    "state": "Madhya Pradesh",
+    "category": "offbeat",
+    "description": "Bharhut is a village in Satna district, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.44694,
+      "lon": 80.845
+    },
+    "tags": [
+      "archaeological-site",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "bharhut-yavana-madhya-pradesh",
+    "name": "Bharhut Yavana",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Bharhut Yavana is a high relief of a warrior from Madhya Pradesh, India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bhedaghat-madhya-pradesh",
+    "name": "Bhedaghat",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bhedaghat is a town.",
+    "coordinates": {
+      "lat": 23.13,
+      "lon": 79.8
+    }
+  },
+  {
+    "id": "bheemgarh-dam-madhya-pradesh",
+    "name": "Bheemgarh Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bheemgarh Dam is a dam in India.",
+    "coordinates": {
+      "lat": 22.38083,
+      "lon": 79.65556
+    }
+  },
+  {
+    "id": "bhim-janmabhoomi-madhya-pradesh",
+    "name": "Bhim Janmabhoomi",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Bhim Janmabhoomi is a memorial, birth place of B. R. Ambedkar, located at Dr. Ambedkar Nagar (Mhow).",
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "bhimbetka-rock-shelters-madhya-pradesh",
+    "name": "Bhimbetka rock shelters",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Bhimbetka rock shelters is a 30,000+ years old archaeological World Heritage site in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.93863,
+      "lon": 77.61438
+    },
+    "tags": [
+      "world-heritage",
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bhimkund-madhya-pradesh",
+    "name": "Bhimkund",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bhimkund is a natural water tank and a holy place in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.43833,
+      "lon": 79.37608
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "bhoj-wetland-madhya-pradesh",
+    "name": "Bhoj Wetland",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bhoj Wetland is a two lakes (Bhojtal and the Lower Lake) in Bhopal, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.25,
+      "lon": 77.34
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "bhojeshwar-temple-madhya-pradesh",
+    "name": "Bhojeshwar Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bhojeshwar Temple is a 11th century unfinished Shiva Temple near Bhopal.",
+    "coordinates": {
+      "lat": 23.1003,
+      "lon": 77.5797
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhojpur-madhya-pradesh-madhya-pradesh",
+    "name": "Bhojpur, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Bhojpur, Madhya Pradesh is a town in India.",
+    "coordinates": {
+      "lat": 23.115,
+      "lon": 77.59528
+    }
+  },
+  {
+    "id": "bhojshala-madhya-pradesh",
+    "name": "Bhojshala",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Bhojshala is a historic building in Dhar, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.5905,
+      "lon": 75.295
+    }
+  },
+  {
+    "id": "bhojtal-madhya-pradesh",
+    "name": "Bhojtal",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Bhojtal is a lake near Bhopal, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.25,
+      "lon": 77.34
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "bhumara-temple-madhya-pradesh",
+    "name": "Bhumara Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bhumara Temple is a 5th or 6th-century Gupta era Hindu temple.",
+    "coordinates": {
+      "lat": 24.4285,
+      "lon": 80.64116
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bibi-ki-masjid-madhya-pradesh",
+    "name": "Bibi Ki Masjid",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bibi Ki Masjid is a mosque in Burhanpur, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 21.31583,
+      "lon": 76.23694
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "bijasan-mata-temple-indore-madhya-pradesh",
+    "name": "Bijasan Mata Temple, Indore",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bijasan Mata Temple, Indore is a temple in India.",
+    "coordinates": {
+      "lat": 22.73036,
+      "lon": 75.79827
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bijasan-mata-temple-salkanpur-madhya-pradesh",
+    "name": "Bijasan Mata Temple, Salkanpur",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Bijasan Mata Temple, Salkanpur is a temple in Salkanpur.",
+    "coordinates": {
+      "lat": 22.74517,
+      "lon": 77.47994
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bori-wildlife-sanctuary-madhya-pradesh",
+    "name": "Bori Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Bori Wildlife Sanctuary is a wildlife sanctuary in central India.",
+    "coordinates": {
+      "lat": 22.403,
+      "lon": 78.08
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "brahma-temple-khajuraho-madhya-pradesh",
+    "name": "Brahma Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Brahma Temple, Khajuraho is an early 9th century Vishnu temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.8492,
+      "lon": 79.93276
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "brihaspati-kund-madhya-pradesh",
+    "name": "Brihaspati Kund",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Brihaspati Kund is a crater in India.",
+    "coordinates": {
+      "lat": 24.844,
+      "lon": 80.486
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "chachai-falls-madhya-pradesh",
+    "name": "Chachai Falls",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Chachai Falls is a waterfall in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.79186,
+      "lon": 81.30276
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "chaman-mahal-madhya-pradesh",
+    "name": "Chaman Mahal",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Chaman Mahal is a palace in Bhopal, India.",
+    "coordinates": {
+      "lat": 23.35768,
+      "lon": 77.41787
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "champavati-fort-madhya-pradesh",
+    "name": "Champavati Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Champavati Fort is a fort in Chachaura, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.17667,
+      "lon": 76.99611
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "chanderi-fort-madhya-pradesh",
+    "name": "Chanderi fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Chanderi fort is a fort in Chanderi, Ashoknagar, India.",
+    "coordinates": {
+      "lat": 24.72,
+      "lon": 78.13
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "chandreh-madhya-pradesh",
+    "name": "Chandreh",
+    "state": "Madhya Pradesh",
+    "category": "offbeat",
+    "description": "Chandreh is a village in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.29064,
+      "lon": 81.47726
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "chaturbhuj-temple-gwalior-madhya-pradesh",
+    "name": "Chaturbhuj Temple, Gwalior",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Chaturbhuj Temple, Gwalior is a 9th century rock cut Hindu temple in Gwalior Fort, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 26.23088,
+      "lon": 78.16993
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ]
+  },
+  {
+    "id": "chaturbhuj-temple-khajuraho-madhya-pradesh",
+    "name": "Chaturbhuj Temple (Khajuraho)",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chaturbhuj Temple (Khajuraho) is a hindu temple dedicated to Vishnu (c. 1100 CE).",
+    "coordinates": {
+      "lat": 24.82511,
+      "lon": 79.93101
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "chaturbhuj-temple-orchha-madhya-pradesh",
+    "name": "Chaturbhuj Temple (Orchha)",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chaturbhuj Temple (Orchha) is a 16th century temple for Rama avatar of Vishnu.",
+    "coordinates": {
+      "lat": 25.3501,
+      "lon": 78.6399
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chaubara-dera-no-1-madhya-pradesh",
+    "name": "Chaubara Dera No. 1",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chaubara Dera No. 1 is a hindu temple.",
+    "coordinates": {
+      "lat": 21.82171,
+      "lon": 75.45458
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chauragarh-madhya-pradesh",
+    "name": "Chauragarh",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Chauragarh is a 16th-century fort in Narsinghpur district, India.",
+    "coordinates": {
+      "lat": 22.7586,
+      "lon": 78.9276
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "chausath-yogini-temple-bhedaghat-madhya-pradesh",
+    "name": "Chausath Yogini Temple, Bhedaghat",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chausath Yogini Temple, Bhedaghat is a 7th to 10th century circular goddess tradition Hindu temple near Jabalpur.",
+    "coordinates": {
+      "lat": 23.1297,
+      "lon": 79.8013
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chausath-yogini-temple-khajuraho-madhya-pradesh",
+    "name": "Chausath Yogini Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chausath Yogini Temple, Khajuraho is a temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.84861,
+      "lon": 79.91806
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chausath-yogini-temple-mitaoli-madhya-pradesh",
+    "name": "Chausath Yogini Temple, Mitaoli",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chausath Yogini Temple, Mitaoli is a 11th-century circular plan Hindu temple.",
+    "coordinates": {
+      "lat": 26.4368,
+      "lon": 78.2352
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chhapara-madhya-pradesh",
+    "name": "Chhapara",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Chhapara is a town in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.39,
+      "lon": 79.54
+    }
+  },
+  {
+    "id": "chichali-archaeological-site-madhya-pradesh",
+    "name": "Chichali (archaeological site)",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Chichali (archaeological site) is an archaeological site in India.",
+    "coordinates": {
+      "lat": 22.13333,
+      "lon": 75.36667
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "chintaman-ganesh-temple-ujjain-madhya-pradesh",
+    "name": "Chintaman Ganesh Temple, Ujjain",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chintaman Ganesh Temple, Ujjain is a temple in India.",
+    "coordinates": {
+      "lat": 23.1467,
+      "lon": 75.7391
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chitragupta-temple-khajuraho-madhya-pradesh",
+    "name": "Chitragupta Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chitragupta Temple, Khajuraho is an early 11th century Surya temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.85442,
+      "lon": 79.92007
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chitrakoot-madhya-pradesh-madhya-pradesh",
+    "name": "Chitrakoot, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Chitrakoot, Madhya Pradesh is a religious town of Madhya Pradesh.",
+    "coordinates": {
+      "lat": 25.18,
+      "lon": 80.87
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "dada-darbar-khandwa-madhya-pradesh",
+    "name": "Dada Darbar (Khandwa)",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Dada Darbar (Khandwa) is a hindu Temple in India.",
+    "coordinates": {
+      "lat": 21.81861,
+      "lon": 76.33361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "damaru-ghati-madhya-pradesh",
+    "name": "Damaru Ghati",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Damaru Ghati is an indian Shiva temple.",
+    "coordinates": {
+      "lat": 22.9305,
+      "lon": 78.7968
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dargah-of-shaykh-kamal-al-din-madhya-pradesh",
+    "name": "Dargāh of Shaykh Kamāl al-Dīn",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Dargāh of Shaykh Kamāl al-Dīn is a shrine in Dhar, Madhya Pradesh, India.",
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "datia-palace-madhya-pradesh",
+    "name": "Datia Palace",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Datia Palace is a 17th century palace in central India.",
+    "coordinates": {
+      "lat": 25.67378,
+      "lon": 78.45418
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "deogarh-fort-madhya-pradesh",
+    "name": "Deogarh Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Deogarh Fort is a historical fort in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 21.88278,
+      "lon": 78.73278
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "deur-kothar-madhya-pradesh",
+    "name": "Deur Kothar",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Deur Kothar is an archaeological site in India.",
+    "coordinates": {
+      "lat": 24.93239,
+      "lon": 81.66304
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "devi-jagadambi-temple-madhya-pradesh",
+    "name": "Devi Jagadambi Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Devi Jagadambi Temple is a 11th century Hindu temple.",
+    "coordinates": {
+      "lat": 24.85339,
+      "lon": 79.91967
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "dewas-tekri-madhya-pradesh",
+    "name": "Dewas Tekri",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Dewas Tekri is a hindu temple in India.",
+    "coordinates": {
+      "lat": 22.97083,
+      "lon": 76.05778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dhaba-archaeological-site-madhya-pradesh",
+    "name": "Dhaba (archaeological site)",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Dhaba (archaeological site) is an archaeological site in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.49933,
+      "lon": 82.00972
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "dhamnar-caves-madhya-pradesh",
+    "name": "Dhamnar Caves",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Dhamnar Caves is a cave in India.",
+    "coordinates": {
+      "lat": 24.19306,
+      "lon": 75.49806
+    },
+    "tags": [
+      "cave",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "dhar-madhya-pradesh",
+    "name": "Dhar",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Dhar is a historic city in central India.",
+    "coordinates": {
+      "lat": 22.59917,
+      "lon": 75.30278
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "dharmrajeshwar-madhya-pradesh",
+    "name": "Dharmrajeshwar",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Dharmrajeshwar is an ancient cave temple site in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.19395,
+      "lon": 75.49901
+    },
+    "tags": [
+      "temple",
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "dhuandhar-falls-madhya-pradesh",
+    "name": "Dhuandhar Falls",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Dhuandhar Falls is a tourist site in India.",
+    "coordinates": {
+      "lat": 23.125,
+      "lon": 79.813
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "dhuty-dam-madhya-pradesh",
+    "name": "Dhuty Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Dhuty Dam is a dam in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.11778,
+      "lon": 80.055
+    }
+  },
+  {
+    "id": "dr-bhimrao-ambedkar-wildlife-sanctuary-madhya-pradesh",
+    "name": "Dr. Bhimrao Ambedkar Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Dr. Bhimrao Ambedkar Wildlife Sanctuary is a wildlife sanctuary in Sagar district, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.18079,
+      "lon": 79.04712
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "duladeo-temple-madhya-pradesh",
+    "name": "Duladeo Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Duladeo Temple is a 12th century Hindu temple and monastery site in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.83905,
+      "lon": 79.93175
+    },
+    "tags": [
+      "world-heritage",
+      "temple",
+      "monastery"
+    ]
+  },
+  {
+    "id": "dumna-nature-reserve-park-madhya-pradesh",
+    "name": "Dumna Nature Reserve Park",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Dumna Nature Reserve Park is an ecotourism site in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.28333,
+      "lon": 80.26667
+    }
+  },
+  {
+    "id": "eran-madhya-pradesh",
+    "name": "Eran",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Eran is an archaeological site in north Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.09152,
+      "lon": 78.16487
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "gadarmal-devi-temple-madhya-pradesh",
+    "name": "Gadarmal Devi Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Gadarmal Devi Temple is a hindu Yogini temple in India.",
+    "coordinates": {
+      "lat": 23.91828,
+      "lon": 78.22249
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gajanan-maharaj-temple-indore-madhya-pradesh",
+    "name": "Gajanan Maharaj Temple, Indore",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Gajanan Maharaj Temple, Indore is a temple in India.",
+    "coordinates": {
+      "lat": 22.723,
+      "lon": 75.898
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gandhi-sagar-dam-madhya-pradesh",
+    "name": "Gandhi Sagar Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Gandhi Sagar Dam is a dam.",
+    "coordinates": {
+      "lat": 24.70667,
+      "lon": 75.55333
+    }
+  },
+  {
+    "id": "gandhi-sagar-sanctuary-madhya-pradesh",
+    "name": "Gandhi Sagar Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Gandhi Sagar Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 24.583,
+      "lon": 75.712
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "garhpehra-madhya-pradesh",
+    "name": "Garhpehra",
+    "state": "Madhya Pradesh",
+    "category": "offbeat",
+    "description": "Garhpehra is a village in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.04,
+      "lon": 78.63
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "gatha-falls-madhya-pradesh",
+    "name": "Gatha Falls",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Gatha Falls is a waterfall.",
+    "coordinates": {
+      "lat": 24.71398,
+      "lon": 80.095
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "ghantai-temple-madhya-pradesh",
+    "name": "Ghantai temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Ghantai temple is a building in India.",
+    "coordinates": {
+      "lat": 24.84615,
+      "lon": 79.9333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ghatigaon-wildlife-sanctuary-madhya-pradesh",
+    "name": "Ghatigaon Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Ghatigaon Wildlife Sanctuary is a wildlife Sanctuary in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 26.05,
+      "lon": 77.93333
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "ghughua-fossil-park-madhya-pradesh",
+    "name": "Ghughua Fossil Park",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Ghughua Fossil Park is a tourism.",
+    "coordinates": {
+      "lat": 23.11306,
+      "lon": 80.61436
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "ginnorgarh-madhya-pradesh",
+    "name": "Ginnorgarh",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Ginnorgarh is a fort in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.841,
+      "lon": 77.5338
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "gohad-fort-madhya-pradesh",
+    "name": "Gohad Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Gohad Fort is a historic site in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 26.42611,
+      "lon": 78.44694
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "golakot-jain-temple-madhya-pradesh",
+    "name": "Golakot Jain temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Golakot Jain temple is a jain temple complex in Madhya Pradesh, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "golghar-museum-madhya-pradesh",
+    "name": "Golghar Museum",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Golghar Museum is a golghar has been repaired on 19 August 2023.",
+    "coordinates": {
+      "lat": 23.26809,
+      "lon": 77.39019
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "gopachal-rock-cut-jain-monuments-madhya-pradesh",
+    "name": "Gopachal rock-cut Jain monuments",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Gopachal rock-cut Jain monuments is a rock-cut Jain reliefs southeast of Gwalior Fort.",
+    "coordinates": {
+      "lat": 26.21478,
+      "lon": 78.1675
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ]
+  },
+  {
+    "id": "gopal-mandir-jhabua-madhya-pradesh",
+    "name": "Gopal Mandir Jhabua",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Gopal Mandir Jhabua is a hindu temple in Jhabua, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 22.76295,
+      "lon": 74.59658
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "govindgarh-palace-madhya-pradesh",
+    "name": "Govindgarh Palace",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Govindgarh Palace is a palace in Govindgarh, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.37111,
+      "lon": 81.29396
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "gujari-mahal-archaeological-museum-madhya-pradesh",
+    "name": "Gujari Mahal Archaeological Museum",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Gujari Mahal Archaeological Museum is a state museum.",
+    "coordinates": {
+      "lat": 26.23005,
+      "lon": 78.16863
+    },
+    "tags": [
+      "museum",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "gulawat-lotus-valley-madhya-pradesh",
+    "name": "Gulawat Lotus valley",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Gulawat Lotus valley is a valley in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.78722,
+      "lon": 75.69639
+    }
+  },
+  {
+    "id": "gulganj-fort-madhya-pradesh",
+    "name": "Gulganj Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Gulganj Fort is a fort in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.69917,
+      "lon": 79.37472
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "gwalior-fort-madhya-pradesh",
+    "name": "Gwalior Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Gwalior Fort is a fort in Gwalior, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 26.2303,
+      "lon": 78.1689
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "gwalior-inscription-of-mihirakula-madhya-pradesh",
+    "name": "Gwalior inscription of Mihirakula",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Gwalior inscription of Mihirakula is a geographical feature in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 26.22152,
+      "lon": 78.17802
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gyaraspur-madhya-pradesh",
+    "name": "Gyaraspur",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Gyaraspur is an ancient town near Vidisha, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.66547,
+      "lon": 78.11172
+    }
+  },
+  {
+    "id": "halali-reservoir-madhya-pradesh",
+    "name": "Halali Reservoir",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Halali Reservoir is a reservoir in the Raisen district of Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.33333,
+      "lon": 77.5
+    }
+  },
+  {
+    "id": "hanumantal-bada-jain-mandir-madhya-pradesh",
+    "name": "Hanumantal Bada Jain Mandir",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Hanumantal Bada Jain Mandir is a historic Jain temple in Jabalpur, India.",
+    "coordinates": {
+      "lat": 23.1667,
+      "lon": 79.9333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hanuwantiya-madhya-pradesh",
+    "name": "Hanuwantiya",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Hanuwantiya is a tourist attraction in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.14443,
+      "lon": 76.58759
+    }
+  },
+  {
+    "id": "harsiddhi-devi-mandir-rangir-madhya-pradesh",
+    "name": "Harsiddhi Devi Mandir, Rangir",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Harsiddhi Devi Mandir, Rangir is a temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.61,
+      "lon": 78.92
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "heliodorus-pillar-madhya-pradesh",
+    "name": "Heliodorus pillar",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Heliodorus pillar is a 2nd century BCE stone column with inscription.",
+    "coordinates": {
+      "lat": 23.5493,
+      "lon": 77.8003
+    }
+  },
+  {
+    "id": "hindola-mahal-madhya-pradesh",
+    "name": "Hindola Mahal",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Hindola Mahal is a historical site in India.",
+    "coordinates": {
+      "lat": 22.35696,
+      "lon": 75.39289
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "hinglajgarh-madhya-pradesh",
+    "name": "Hinglajgarh",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Hinglajgarh is a human settlement in India.",
+    "coordinates": {
+      "lat": 24.66667,
+      "lon": 75.78333
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "hoshangabad-madhya-pradesh",
+    "name": "Hoshangabad",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Hoshangabad is a city in India.",
+    "coordinates": {
+      "lat": 22.75,
+      "lon": 77.72
+    },
+    "tags": [
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "indira-gandhi-rashtriya-manav-sangrahalaya-madhya-pradesh",
+    "name": "Indira Gandhi Rashtriya Manav Sangrahalaya",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Indira Gandhi Rashtriya Manav Sangrahalaya is an anthropology museums in Bhopal , India.",
+    "coordinates": {
+      "lat": 23.23228,
+      "lon": 77.37761
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "indirasagar-dam-madhya-pradesh",
+    "name": "Indirasagar Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Indirasagar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 22.28389,
+      "lon": 76.47139
+    }
+  },
+  {
+    "id": "indore-museum-madhya-pradesh",
+    "name": "Indore Museum",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Indore Museum is a museum in Indore, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.70535,
+      "lon": 75.8793
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "jahangir-mahal-orchha-madhya-pradesh",
+    "name": "Jahangir Mahal, Orchha",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Jahangir Mahal, Orchha is a 17th century palace in Bundelkhand.",
+    "coordinates": {
+      "lat": 25.35056,
+      "lon": 78.64417
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "jai-vilas-mahal-madhya-pradesh",
+    "name": "Jai Vilas Mahal",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Jai Vilas Mahal is a scindia Dynasty royal palace.",
+    "coordinates": {
+      "lat": 26.20472,
+      "lon": 78.16859
+    },
+    "tags": [
+      "palace",
+      "museum"
+    ]
+  },
+  {
+    "id": "jain-temples-of-khajuraho-madhya-pradesh",
+    "name": "Jain temples of Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Jain temples of Khajuraho is a 9th to 12th century temples of Digambar Jains.",
+    "coordinates": {
+      "lat": 24.84474,
+      "lon": 79.93645
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jain-temples-vidisha-madhya-pradesh",
+    "name": "Jain temples, Vidisha",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Jain temples, Vidisha is a temples and archaeological site.",
+    "coordinates": {
+      "lat": 23.65892,
+      "lon": 78.11364
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "jama-masjid-burhanpur-madhya-pradesh",
+    "name": "Jama Masjid, Burhanpur",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Jama Masjid, Burhanpur is a mosque in Burhanpur, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 21.3163,
+      "lon": 76.2323
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "jama-masjid-chanderi-madhya-pradesh",
+    "name": "Jama Masjid, Chanderi",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Jama Masjid, Chanderi is a mosque in Chanderi district, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.71029,
+      "lon": 78.13506
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "jama-masjid-mandu-madhya-pradesh",
+    "name": "Jama Masjid, Mandu",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Jama Masjid, Mandu is a historic mosque in India.",
+    "coordinates": {
+      "lat": 22.34837,
+      "lon": 75.3971
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "jantar-mantar-ujjain-madhya-pradesh",
+    "name": "Jantar Mantar, Ujjain",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Jantar Mantar, Ujjain is an observatory in Ujjain, India.",
+    "coordinates": {
+      "lat": 23.1713,
+      "lon": 75.7665
+    }
+  },
+  {
+    "id": "jatashankar-madhya-pradesh",
+    "name": "Jatashankar",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Jatashankar is a cave and Hindu shrine in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.482,
+      "lon": 78.439
+    },
+    "tags": [
+      "temple",
+      "cave"
+    ]
+  },
+  {
+    "id": "javari-temple-khajuraho-madhya-pradesh",
+    "name": "Javari Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Javari Temple, Khajuraho is a 11th century Vishnu temple.",
+    "coordinates": {
+      "lat": 24.8495,
+      "lon": 79.93532
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "kadwaya-madhya-pradesh",
+    "name": "Kadwaya",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Kadwaya is a place in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.964,
+      "lon": 77.916
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "kakanmath-madhya-pradesh",
+    "name": "Kakanmath",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Kakanmath is a pratihara-style panchayatana Shiva temple complex (1000–1025 CE).",
+    "coordinates": {
+      "lat": 26.58493,
+      "lon": 78.24856
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kal-bhairav-temple-ujjain-madhya-pradesh",
+    "name": "Kal Bhairav Temple, Ujjain",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Kal Bhairav Temple, Ujjain is a temple in India.",
+    "coordinates": {
+      "lat": 23.21817,
+      "lon": 75.76862
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kali-bari-chhindwara-madhya-pradesh",
+    "name": "Kali Bari Chhindwara",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Kali Bari Chhindwara is a hindu temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.07,
+      "lon": 78.93
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kaliadeh-palace-madhya-pradesh",
+    "name": "Kaliadeh Palace",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Kaliadeh Palace is a 15th century palace in central India.",
+    "coordinates": {
+      "lat": 23.249,
+      "lon": 75.778
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "kamal-maula-mosque-madhya-pradesh",
+    "name": "Kamal Maula Mosque",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Kamal Maula Mosque is a 14th century building assembled from parts of earlier temples.",
+    "coordinates": {
+      "lat": 22.59058,
+      "lon": 75.29506
+    },
+    "tags": [
+      "temple",
+      "mosque"
+    ]
+  },
+  {
+    "id": "kamla-nehru-prani-sangrahalay-madhya-pradesh",
+    "name": "Kamla Nehru Prani Sangrahalay",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Kamla Nehru Prani Sangrahalay is a zoo in India.",
+    "coordinates": {
+      "lat": 22.702,
+      "lon": 75.88
+    }
+  },
+  {
+    "id": "kamlapati-palace-madhya-pradesh",
+    "name": "Kamlapati Palace",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Kamlapati Palace is a building in India.",
+    "coordinates": {
+      "lat": 23.25094,
+      "lon": 77.39792
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "kanch-mandir-madhya-pradesh",
+    "name": "Kanch Mandir",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Kanch Mandir is a building in India.",
+    "coordinates": {
+      "lat": 22.747,
+      "lon": 75.869
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kandariya-mahadeva-temple-madhya-pradesh",
+    "name": "Kandariya Mahadeva Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Kandariya Mahadeva Temple is the largest historic temple in Khajuraho (11th century).",
+    "coordinates": {
+      "lat": 24.85297,
+      "lon": 79.91956
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kanha-tiger-reserve-madhya-pradesh",
+    "name": "Kanha Tiger Reserve",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Kanha Tiger Reserve is a national park in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.2275,
+      "lon": 80.645
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "karera-wildlife-sanctuary-madhya-pradesh",
+    "name": "Karera Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Karera Wildlife Sanctuary is a park in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.6304,
+      "lon": 78.1346
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "ken-gharial-sanctuary-madhya-pradesh",
+    "name": "Ken Gharial Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Ken Gharial Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 24.89056,
+      "lon": 80.07667
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "keoti-falls-madhya-pradesh",
+    "name": "Keoti Falls",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Keoti Falls is a waterfall in central India.",
+    "coordinates": {
+      "lat": 24.816,
+      "lon": 81.453
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "keoti-fort-madhya-pradesh",
+    "name": "Keoti Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Keoti Fort is a historical fort in central India.",
+    "coordinates": {
+      "lat": 24.81714,
+      "lon": 81.45725
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "kerwa-dam-madhya-pradesh",
+    "name": "Kerwa Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Kerwa Dam is a dam in Mendora, Bhopal.",
+    "coordinates": {
+      "lat": 23.17423,
+      "lon": 77.36517
+    }
+  },
+  {
+    "id": "khajrana-ganesh-temple-madhya-pradesh",
+    "name": "Khajrana Ganesh Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Khajrana Ganesh Temple is a temple in India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "khajuraho-dance-festival-madhya-pradesh",
+    "name": "Khajuraho Dance Festival",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Khajuraho Dance Festival is an one-week festival of classical dances held annually in central India.",
+    "coordinates": {
+      "lat": 24.854,
+      "lon": 79.921
+    }
+  },
+  {
+    "id": "khajuraho-group-of-monuments-madhya-pradesh",
+    "name": "Khajuraho Group of Monuments",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Khajuraho Group of Monuments is a historical temples located in India.",
+    "coordinates": {
+      "lat": 24.85,
+      "lon": 79.93333
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "khandargiri-jain-caves-madhya-pradesh",
+    "name": "Khandargiri Jain Caves",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Khandargiri Jain Caves is a jain rock-cut cave complex in Chanderi, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.70131,
+      "lon": 78.13839
+    },
+    "tags": [
+      "temple",
+      "cave"
+    ]
+  },
+  {
+    "id": "kheoni-wildlife-sanctuary-madhya-pradesh",
+    "name": "Kheoni Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Kheoni Wildlife Sanctuary is a wildlife sanctuary in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.8373,
+      "lon": 76.8765
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "khirala-sharif-dargah-madhya-pradesh",
+    "name": "Khirala Sharif Dargah",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Khirala Sharif Dargah is an indian shrine.",
+    "coordinates": {
+      "lat": 21.69487,
+      "lon": 76.22038
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "kolar-dam-bhopal-madhya-pradesh",
+    "name": "Kolar Dam (Bhopal)",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Kolar Dam (Bhopal) is a dam in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.95952,
+      "lon": 77.34618
+    }
+  },
+  {
+    "id": "kolar-dam-madhya-pradesh",
+    "name": "Kolar Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Kolar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 21.40375,
+      "lon": 78.80653
+    }
+  },
+  {
+    "id": "krishnapura-chhatri-madhya-pradesh",
+    "name": "Krishnapura Chhatri",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Krishnapura Chhatri is a holkar memorial in Indore, India.",
+    "coordinates": {
+      "lat": 22.71864,
+      "lon": 75.858
+    }
+  },
+  {
+    "id": "kundalpur-madhya-pradesh-madhya-pradesh",
+    "name": "Kundalpur, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Kundalpur, Madhya Pradesh is a town in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.98494,
+      "lon": 79.71996
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kundeshwar-madhya-pradesh",
+    "name": "Kundeshwar",
+    "state": "Madhya Pradesh",
+    "category": "offbeat",
+    "description": "Kundeshwar is a village in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.69111,
+      "lon": 78.79694
+    }
+  },
+  {
+    "id": "kuno-national-park-madhya-pradesh",
+    "name": "Kuno National Park",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Kuno National Park is a national park in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.66667,
+      "lon": 77.25
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "kutni-dam-khajwa-madhya-pradesh",
+    "name": "Kutni Dam (Khajwa)",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Kutni Dam (Khajwa) is a dam in khajwa, Chhatarpur, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.94223,
+      "lon": 79.94639
+    }
+  },
+  {
+    "id": "lakha-banjara-lake-madhya-pradesh",
+    "name": "Lakha Banjara Lake",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Lakha Banjara Lake is a lake in Sagar District, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.83,
+      "lon": 78.746
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "lakshmana-temple-khajuraho-madhya-pradesh",
+    "name": "Lakshmana Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Lakshmana Temple, Khajuraho is a 10th century Vishnu temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.85222,
+      "lon": 79.9218
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "lakshmi-temple-khajuraho-madhya-pradesh",
+    "name": "Lakshmi Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Lakshmi Temple, Khajuraho is a 10th-century Garuda shrine in Khajuraho.",
+    "coordinates": {
+      "lat": 24.85214,
+      "lon": 79.92222
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "lalbagh-palace-madhya-pradesh",
+    "name": "Lalbagh Palace",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Lalbagh Palace is a residence of the Holkar Maharaja of Indore, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.7001,
+      "lon": 75.8471
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "lalguan-mahadeva-temple-madhya-pradesh",
+    "name": "Lalguan Mahadeva Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Lalguan Mahadeva Temple is a temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.85081,
+      "lon": 79.91127
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lameta-formation-madhya-pradesh",
+    "name": "Lameta Formation",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Lameta Formation is a geologic formation in India.",
+    "coordinates": {
+      "lat": 23.2,
+      "lon": 80.0
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "lat-mosque-madhya-pradesh",
+    "name": "Lat Mosque",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Lat Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 22.584,
+      "lon": 75.298
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "lower-lake-bhopal-madhya-pradesh",
+    "name": "Lower Lake (Bhopal)",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Lower Lake (Bhopal) is a lake in Bhopal, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.2478,
+      "lon": 77.40578
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "maa-sharda-mandir-maihar-madhya-pradesh",
+    "name": "Maa Sharda Mandir, Maihar",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Maa Sharda Mandir, Maihar is a hindu temple in Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.2612,
+      "lon": 80.72316
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "madan-mahal-jabalpur-madhya-pradesh",
+    "name": "Madan Mahal, Jabalpur",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Madan Mahal, Jabalpur is a human settlement in India.",
+    "coordinates": {
+      "lat": 23.14832,
+      "lon": 79.90157
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "madhav-national-park-madhya-pradesh",
+    "name": "Madhav National Park",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Madhav National Park is a national park in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.46667,
+      "lon": 77.75
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "madikheda-dam-madhya-pradesh",
+    "name": "Madikheda Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Madikheda Dam is a dam in India.",
+    "coordinates": {
+      "lat": 25.55556,
+      "lon": 77.85278
+    }
+  },
+  {
+    "id": "mahakaleshwar-jyotirlinga-madhya-pradesh",
+    "name": "Mahakaleshwar Jyotirlinga",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Mahakaleshwar Jyotirlinga is a temple in India.",
+    "coordinates": {
+      "lat": 23.18278,
+      "lon": 75.76833
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "maharaja-chhatrasal-museum-madhya-pradesh",
+    "name": "Maharaja Chhatrasal Museum",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Maharaja Chhatrasal Museum is a museum in India.",
+    "coordinates": {
+      "lat": 25.0081,
+      "lon": 79.47976
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "maheshwar-madhya-pradesh",
+    "name": "Maheshwar",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Maheshwar is a town and a historic capital on the banks of Narmada river.",
+    "coordinates": {
+      "lat": 22.17694,
+      "lon": 75.58556
+    }
+  },
+  {
+    "id": "maksi-jain-temple-madhya-pradesh",
+    "name": "Maksi Jain temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Maksi Jain temple is a jain temples in Maksi, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.25906,
+      "lon": 76.14444
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maladevi-temple-madhya-pradesh",
+    "name": "Maladevi Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Maladevi Temple is a jain temple located in Gyaraspur, Vidisha, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.65886,
+      "lon": 78.11367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "malajpur-temple-madhya-pradesh",
+    "name": "Malajpur temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Malajpur temple is a hindu temple in Madhya Pradesh, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mandav-madhya-pradesh",
+    "name": "Mandav",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Mandav is a town in Dhar district, Indore division, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.33639,
+      "lon": 75.41556
+    }
+  },
+  {
+    "id": "mandu-madhya-pradesh-madhya-pradesh",
+    "name": "Mandu, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Mandu, Madhya Pradesh is an uninhabited ancient city in the present-day Mandav area of the Dhar district, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.33528,
+      "lon": 75.41583
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "mangala-devi-temple-kagpur-vidisha-madhya-pradesh",
+    "name": "Mangala Devi Temple, Kagpur, Vidisha",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Mangala Devi Temple, Kagpur, Vidisha is a hindu Temple in Vidisha Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.74789,
+      "lon": 77.8015
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mangalnath-temple-madhya-pradesh",
+    "name": "Mangalnath Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Mangalnath Temple is a temple in India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manik-bagh-madhya-pradesh",
+    "name": "Manik Bagh",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Manik Bagh is a palace in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.6925,
+      "lon": 75.85639
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "marble-rocks-madhya-pradesh",
+    "name": "Marble Rocks",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Marble Rocks is a gorge and fall of the Narmada River.",
+    "coordinates": {
+      "lat": 23.1312,
+      "lon": 79.7965
+    },
+    "tags": [
+      "world-heritage",
+      "waterfall"
+    ]
+  },
+  {
+    "id": "marhia-temple-madhya-pradesh",
+    "name": "Marhia Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Marhia Temple is a tourism place in Madhya Pradesh, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mastani-mahal-madhya-pradesh",
+    "name": "Mastani Mahal",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Mastani Mahal is a building in Madhya Pradesh, India."
+  },
+  {
+    "id": "matangeshvara-temple-khajuraho-madhya-pradesh",
+    "name": "Matangeshvara Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Matangeshvara Temple, Khajuraho is a 10th century Shiva temple in active use by Hindus.",
+    "coordinates": {
+      "lat": 24.85193,
+      "lon": 79.92172
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mohajmata-temple-madhya-pradesh",
+    "name": "Mohajmata Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Mohajmata Temple is a 10th-century Hindu goddess tradition temple.",
+    "coordinates": {
+      "lat": 25.04567,
+      "lon": 77.94925
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mohankheda-madhya-pradesh",
+    "name": "Mohankheda",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Mohankheda is a jain tirtha in the Dhar district of Madhya Pradesh.",
+    "coordinates": {
+      "lat": 22.67356,
+      "lon": 74.92175
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mohas-hanuman-mandir-madhya-pradesh",
+    "name": "Mohas Hanuman Mandir",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Mohas Hanuman Mandir is a hanuman temple in Madhya Pradesh.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "morwan-dam-madhya-pradesh",
+    "name": "Morwan Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Morwan Dam is a dam in Jawad, Neemuch District, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.62901,
+      "lon": 75.00377
+    }
+  },
+  {
+    "id": "moti-mahal-mandla-madhya-pradesh",
+    "name": "Moti Mahal, Mandla",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Moti Mahal, Mandla is a palace in Mandla, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 22.6145,
+      "lon": 80.5113
+    },
+    "tags": [
+      "world-heritage",
+      "palace"
+    ]
+  },
+  {
+    "id": "moti-masjid-bhopal-madhya-pradesh",
+    "name": "Moti Masjid, Bhopal",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Moti Masjid, Bhopal is a mosque in Bhopal, India.",
+    "coordinates": {
+      "lat": 23.25568,
+      "lon": 77.39891
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "muktagiri-madhya-pradesh",
+    "name": "Muktagiri",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Muktagiri is a place in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 21.38389,
+      "lon": 77.59639
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nachna-hindu-temples-madhya-pradesh",
+    "name": "Nachna Hindu temples",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Nachna Hindu temples is a village and archaeological site with 5th to 9th century monuments.",
+    "coordinates": {
+      "lat": 24.39894,
+      "lon": 80.44775
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "nainagiri-madhya-pradesh",
+    "name": "Nainagiri",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Nainagiri is an indian religious attraction.",
+    "coordinates": {
+      "lat": 24.139,
+      "lon": 79.119
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nandi-temple-khajuraho-india-madhya-pradesh",
+    "name": "Nandi Temple, Khajuraho India",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Nandi Temple, Khajuraho India is a temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.85331,
+      "lon": 79.92269
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "narmada-kothi-madhya-pradesh",
+    "name": "Narmada Kothi",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Narmada Kothi is a palace in Barwaha, India.",
+    "coordinates": {
+      "lat": 22.22975,
+      "lon": 76.04844
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "narsinghgarh-wildlife-sanctuary-madhya-pradesh",
+    "name": "Narsinghgarh Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Narsinghgarh Wildlife Sanctuary is a wildlife sanctuary in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.625,
+      "lon": 77.0667
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "narwar-fort-madhya-pradesh",
+    "name": "Narwar Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Narwar Fort is a fort in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.64583,
+      "lon": 77.90444
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "national-chambal-sanctuary-madhya-pradesh",
+    "name": "National Chambal Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "National Chambal Sanctuary is a wildlife sanctuary.",
+    "coordinates": {
+      "lat": 26.76833,
+      "lon": 78.64444
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "nauradehi-wildlife-sanctuary-madhya-pradesh",
+    "name": "Nauradehi Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Nauradehi Wildlife Sanctuary is a wildlife sanctuary in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.17814,
+      "lon": 79.20189
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "nava-toran-temple-madhya-pradesh",
+    "name": "Nava Toran Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Nava Toran Temple is a 11th century Hindu temple ruins.",
+    "coordinates": {
+      "lat": 24.593,
+      "lon": 74.8175
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "navagarh-tirth-madhya-pradesh",
+    "name": "Navagarh Tirth",
+    "state": "Madhya Pradesh",
+    "category": "offbeat",
+    "description": "Navagarh Tirth is a village in Bemetara District of Chhatisgarh.",
+    "coordinates": {
+      "lat": 24.556,
+      "lon": 78.935
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nilakanthesvara-temple-madhya-pradesh",
+    "name": "Nīlakaṇṭheśvara temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Nīlakaṇṭheśvara temple is a town in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.90018,
+      "lon": 78.05666
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nohleshwar-temple-madhya-pradesh",
+    "name": "Nohleshwar Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Nohleshwar Temple is a temple in Damoh.",
+    "coordinates": {
+      "lat": 23.67161,
+      "lon": 79.58132
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "omkareshwar-dam-madhya-pradesh",
+    "name": "Omkareshwar Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Omkareshwar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 22.2437,
+      "lon": 76.163
+    }
+  },
+  {
+    "id": "omkareshwar-temple-madhya-pradesh",
+    "name": "Omkareshwar Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Omkareshwar Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 22.24558,
+      "lon": 76.15106
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "orchha-fort-complex-madhya-pradesh",
+    "name": "Orchha Fort complex",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Orchha Fort complex is a historical monument site in Orchha, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.3499,
+      "lon": 78.6444
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "orchha-wildlife-sanctuary-madhya-pradesh",
+    "name": "Orchha Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Orchha Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 25.35,
+      "lon": 78.64
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "paat-baba-mandir-madhya-pradesh",
+    "name": "Paat Baba Mandir",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Paat Baba Mandir is a hanuman Temple in Jabalpur.",
+    "coordinates": {
+      "lat": 23.17255,
+      "lon": 79.97825
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pachmarhi-biosphere-reserve-madhya-pradesh",
+    "name": "Pachmarhi Biosphere Reserve",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Pachmarhi Biosphere Reserve is a biosphere reserve in India | designated in 2009.",
+    "coordinates": {
+      "lat": 22.183,
+      "lon": 77.783
+    }
+  },
+  {
+    "id": "pachmarhi-madhya-pradesh",
+    "name": "Pachmarhi",
+    "state": "Madhya Pradesh",
+    "category": "hill-station",
+    "description": "Pachmarhi is a hill station in India.",
+    "coordinates": {
+      "lat": 22.4667,
+      "lon": 78.4333
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "padmavati-pawaya-madhya-pradesh",
+    "name": "Padmavati (Pawaya)",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Padmavati (Pawaya) is a city in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.77,
+      "lon": 78.25
+    }
+  },
+  {
+    "id": "pahargarh-caves-madhya-pradesh",
+    "name": "Pahargarh Caves",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Pahargarh Caves is a cave complex containing prehistoric paintings in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 26.211,
+      "lon": 77.769
+    },
+    "tags": [
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "pandav-falls-madhya-pradesh",
+    "name": "Pandav Falls",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Pandav Falls is a waterfall in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.73006,
+      "lon": 80.06714
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "panna-madhya-pradesh-madhya-pradesh",
+    "name": "Panna, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Panna, Madhya Pradesh is a city in India.",
+    "coordinates": {
+      "lat": 24.72,
+      "lon": 80.2
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "panna-national-park-madhya-pradesh",
+    "name": "Panna National Park",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Panna National Park is a national park in India.",
+    "coordinates": {
+      "lat": 24.73044,
+      "lon": 80.01022
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "panpatha-wildlife-sanctuary-madhya-pradesh",
+    "name": "Panpatha Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Panpatha Wildlife Sanctuary is a wildlife sanctuary in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.69944,
+      "lon": 80.96194
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "parshvanatha-temple-khajuraho-madhya-pradesh",
+    "name": "Parshvanatha temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Parshvanatha temple, Khajuraho is a temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.84485,
+      "lon": 79.93657
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "parvati-temple-khajuraho-madhya-pradesh",
+    "name": "Parvati Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Parvati Temple, Khajuraho is a 11th-century Vishnu temple, now with Parvati statue in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.85317,
+      "lon": 79.92194
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "pashupatinath-temple-mandsaur-madhya-pradesh",
+    "name": "Pashupatinath Temple, Mandsaur",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Pashupatinath Temple, Mandsaur is a hindu temple with eight face Shiva linga in Mandsaur, western Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.05472,
+      "lon": 75.07292
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pataini-temple-madhya-pradesh",
+    "name": "Pataini temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Pataini temple is a temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.43836,
+      "lon": 80.77556
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "patalpani-waterfall-madhya-pradesh",
+    "name": "Patalpani Waterfall",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Patalpani Waterfall is a waterfall in India.",
+    "coordinates": {
+      "lat": 22.5039,
+      "lon": 75.7987
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "pateriya-ji-madhya-pradesh",
+    "name": "Pateriya Ji",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Pateriya Ji is a jain Temple in Sagar, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.77,
+      "lon": 79.15
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pathari-jain-temples-madhya-pradesh",
+    "name": "Pathari Jain temples",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Pathari Jain temples is a group of medieval Jain temples in Madhya Pradesh, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pawagiri-jain-temple-madhya-pradesh",
+    "name": "Pawagiri Jain temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Pawagiri Jain temple is a jain temple in the state of Madhya Pradesh.",
+    "coordinates": {
+      "lat": 21.82061,
+      "lon": 75.45417
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pench-national-park-madhya-pradesh",
+    "name": "Pench National Park",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Pench National Park is a national park in India (Madhya Pradesh and Maharashtra).",
+    "coordinates": {
+      "lat": 21.6716,
+      "lon": 79.3033
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "pench-tiger-reserve-madhya-pradesh",
+    "name": "Pench Tiger Reserve",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Pench Tiger Reserve is a madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 21.6716,
+      "lon": 79.3033
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "pisanhari-ki-marhia-madhya-pradesh",
+    "name": "Pisanhari Ki Marhia",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Pisanhari ki Marhia, Jabalpur, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.15125,
+      "lon": 79.88667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pitambara-peeth-madhya-pradesh",
+    "name": "Pitambara Peeth",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Pitambara Peeth is a hindu temple in Madhya Pradesh, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pravin-rai-mahal-madhya-pradesh",
+    "name": "Pravin Rai Mahal",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Pravin Rai Mahal is a historic site in Orchha.",
+    "coordinates": {
+      "lat": 25.35167,
+      "lon": 78.64472
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "purwa-falls-madhya-pradesh",
+    "name": "Purwa Falls",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Purwa Falls is a waterfall in Rewa district in the Indian state of Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.783,
+      "lon": 81.265
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "rahatgarh-fort-madhya-pradesh",
+    "name": "Rahatgarh Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Rahatgarh Fort is a historic fort, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.78,
+      "lon": 78.37
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "rahatgarh-waterfall-madhya-pradesh",
+    "name": "Rahatgarh Waterfall",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Rahatgarh Waterfall is a waterfall in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.7637,
+      "lon": 78.39756
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "rajat-prapat-madhya-pradesh",
+    "name": "Rajat Prapat",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Rajat Prapat is a waterfall.",
+    "coordinates": {
+      "lat": 22.452,
+      "lon": 78.445
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "rajeev-sagar-dam-madhya-pradesh",
+    "name": "Rajeev Sagar Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Rajeev Sagar Dam is a dam in Kudwa.",
+    "coordinates": {
+      "lat": 21.5442,
+      "lon": 79.5473
+    }
+  },
+  {
+    "id": "rajmati-stepwell-madhya-pradesh",
+    "name": "Rājmatī stepwell",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Rājmatī stepwell is a stepwell in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.58,
+      "lon": 78.1
+    }
+  },
+  {
+    "id": "rajwada-madhya-pradesh",
+    "name": "Rajwada",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Rajwada is a palace of Holker Dynasty.",
+    "coordinates": {
+      "lat": 22.71844,
+      "lon": 75.85517
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "ralamandal-wildlife-sanctuary-madhya-pradesh",
+    "name": "Ralamandal Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Ralamandal Wildlife Sanctuary is a wildlife sanctuary in Indore, India.",
+    "coordinates": {
+      "lat": 22.6503,
+      "lon": 75.974
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "ram-raja-temple-madhya-pradesh",
+    "name": "Ram Raja Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Ram Raja Temple is a hindu temple in Orchha, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.35083,
+      "lon": 78.63917
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "raneh-falls-madhya-pradesh",
+    "name": "Raneh Falls",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Raneh Falls is a waterfall.",
+    "coordinates": {
+      "lat": 24.884,
+      "lon": 80.044
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "rani-durgawati-museum-madhya-pradesh",
+    "name": "Rani Durgawati Museum",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Rani Durgawati Museum is a museum in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.163,
+      "lon": 79.934
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "ranjit-vilas-palace-ratlam-madhya-pradesh",
+    "name": "Ranjit Vilas Palace (Ratlam)",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Ranjit Vilas Palace (Ratlam) is a palace in Ratlam, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.32417,
+      "lon": 75.04111
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "ratangarh-mata-temple-madhya-pradesh",
+    "name": "Ratangarh Mata Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Ratangarh Mata Temple is an indian Hindu temple.",
+    "coordinates": {
+      "lat": 26.09611,
+      "lon": 78.625
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ratapani-tiger-reserve-madhya-pradesh",
+    "name": "Ratapani Tiger Reserve",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Ratapani Tiger Reserve is a tiger reserve in India.",
+    "coordinates": {
+      "lat": 22.918,
+      "lon": 77.722
+    },
+    "tags": [
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "regional-museum-of-natural-history-bhopal-madhya-pradesh",
+    "name": "Regional Museum of Natural History, Bhopal",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Regional Museum of Natural History, Bhopal is a natural history Museum.",
+    "coordinates": {
+      "lat": 23.21374,
+      "lon": 77.42615
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "regional-science-centre-bhopal-madhya-pradesh",
+    "name": "Regional Science Centre, Bhopal",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Regional Science Centre, Bhopal is a children's Science museum in Shyamla Hills, Bhopal -.",
+    "coordinates": {
+      "lat": 23.25993,
+      "lon": 77.41262
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "rehwa-society-madhya-pradesh",
+    "name": "Rehwa Society",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Rehwa Society is a not-for-profit foundation."
+  },
+  {
+    "id": "remember-bhopal-museum-madhya-pradesh",
+    "name": "Remember Bhopal Museum",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Remember Bhopal Museum is a museum in Bhopal, Madhya Pradesh, India that commemorates the Bhopal disaster.",
+    "coordinates": {
+      "lat": 23.29266,
+      "lon": 77.4006
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "sabalgarh-fort-madhya-pradesh",
+    "name": "Sabalgarh Fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Sabalgarh Fort is a 16th-17th century fort in India.",
+    "coordinates": {
+      "lat": 26.24133,
+      "lon": 77.40561
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "sair-sapata-madhya-pradesh",
+    "name": "Sair Sapata",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Sair Sapata is a tourism place in Madhya Pradesh, India."
+  },
+  {
+    "id": "sanawad-madhya-pradesh",
+    "name": "Sanawad",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Sanawad is a city in India.",
+    "coordinates": {
+      "lat": 22.18,
+      "lon": 76.07
+    }
+  },
+  {
+    "id": "sanchi-stupa-madhya-pradesh",
+    "name": "Sanchi Stupa",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sanchi Stupa is a buddhist complex, famous for its Great Stupa, in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.47944,
+      "lon": 77.73972
+    },
+    "tags": [
+      "world-heritage",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "sanchi-stupa-no-2-madhya-pradesh",
+    "name": "Sanchi Stupa No. 2",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sanchi Stupa No. 2 is a building in India.",
+    "coordinates": {
+      "lat": 23.48,
+      "lon": 77.73
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "sanjay-national-park-madhya-pradesh",
+    "name": "Sanjay National Park",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Sanjay National Park is a national park in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.96861,
+      "lon": 81.65528
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "sarafa-bazaar-madhya-pradesh",
+    "name": "Sarafa Bazaar",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Sarafa Bazaar is a market in Indore, India.",
+    "coordinates": {
+      "lat": 22.71805,
+      "lon": 75.85196
+    }
+  },
+  {
+    "id": "sardarpur-wildlife-sanctuary-madhya-pradesh",
+    "name": "Sardarpur Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Sardarpur Wildlife Sanctuary is a wildlife sanctuary in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.7428,
+      "lon": 74.9138
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "saru-maru-madhya-pradesh",
+    "name": "Saru Maru",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Saru Maru is a buddhist archaeological site in India.",
+    "coordinates": {
+      "lat": 22.73197,
+      "lon": 77.51853
+    },
+    "tags": [
+      "cave",
+      "archaeological-site",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "sarvodaya-jain-temple-madhya-pradesh",
+    "name": "Sarvodaya Jain temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sarvodaya Jain temple is a jain temple in Amarkantak.",
+    "coordinates": {
+      "lat": 22.67917,
+      "lon": 81.75972
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sasbahu-temple-gwalior-madhya-pradesh",
+    "name": "Sasbahu Temple, Gwalior",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sasbahu Temple, Gwalior is a 11th century twin Hindu temples in Gwalior, in north Madhya Pradesh.",
+    "coordinates": {
+      "lat": 26.22394,
+      "lon": 78.17025
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "satpura-tiger-reserve-madhya-pradesh",
+    "name": "Satpura Tiger Reserve",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Satpura Tiger Reserve is a national park.",
+    "coordinates": {
+      "lat": 22.495,
+      "lon": 78.231
+    },
+    "tags": [
+      "world-heritage",
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "sethani-ghat-madhya-pradesh",
+    "name": "Sethani Ghat",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sethani Ghat is a hindu temple in India.",
+    "coordinates": {
+      "lat": 22.76265,
+      "lon": 77.7165
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shahi-mahal-and-mosque-madhya-pradesh",
+    "name": "Shahi Mahal and Mosque",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Shahi Mahal and Mosque is a former mosque in Udaypur, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.90042,
+      "lon": 78.05969
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "shahi-qila-burhanpur-madhya-pradesh",
+    "name": "Shahi Qila, Burhanpur",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Shahi Qila, Burhanpur is a fortress in Central India.",
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "shahzadi-ka-roza-madhya-pradesh",
+    "name": "Shahzadi Ka Roza",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Shahzadi Ka Roza is a historic site.",
+    "coordinates": {
+      "lat": 24.71982,
+      "lon": 78.13351
+    }
+  },
+  {
+    "id": "shantinatha-temple-khajuraho-madhya-pradesh",
+    "name": "Shantinatha temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Shantinatha temple, Khajuraho is a building in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.84462,
+      "lon": 79.9363
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shaurya-smarak-madhya-pradesh",
+    "name": "Shaurya Smarak",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Shaurya Smarak is a war memorial in Bhopal, India.",
+    "coordinates": {
+      "lat": 23.23163,
+      "lon": 77.4282
+    }
+  },
+  {
+    "id": "shiv-vilas-palace-madhya-pradesh",
+    "name": "Shiv Vilas Palace",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Shiv Vilas Palace is a building in Madhya Pradesh, India.",
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "shree-siddhi-vinayak-ganesh-temple-nagda-madhya-pradesh",
+    "name": "Shree Siddhi Vinayak Ganesh Temple, Nagda",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Shree Siddhi Vinayak Ganesh Temple, Nagda is a hindu temple dedicated to Ganesha in Nagda, Dewas.",
+    "coordinates": {
+      "lat": 22.907,
+      "lon": 76.05119
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shreyansh-giri-madhya-pradesh",
+    "name": "Shreyansh Giri",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Shreyansh Giri is a religious building in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.393,
+      "lon": 80.449
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-dattatreya-akhara-madhya-pradesh",
+    "name": "Shri Dattatreya Akhara",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Shri Dattatreya Akhara is a tourism place in Madhya Pradesh, India."
+  },
+  {
+    "id": "shri-kala-bhairava-nath-swami-temple-madhya-pradesh",
+    "name": "Shri Kala Bhairava Nath Swami Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Shri Kala Bhairava Nath Swami Temple is a hindu temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.61722,
+      "lon": 79.48778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-mahakal-mahalok-madhya-pradesh",
+    "name": "Shri Mahakal Mahalok",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Shri Mahakal Mahalok is a corridor built in Mahakaleshwar temple complex in Ujjain.",
+    "coordinates": {
+      "lat": 23.17649,
+      "lon": 75.77049
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shyam-kaka-temple-madhya-pradesh",
+    "name": "Shyam Kaka Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Shyam Kaka Temple is a hindu temple in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.009,
+      "lon": 76.728
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shyam-vatika-madhya-pradesh",
+    "name": "Shyam Vatika",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Shyam Vatika is a largest indoor mural , painted in Gwalior, India, in 2005."
+  },
+  {
+    "id": "siddhachal-caves-madhya-pradesh",
+    "name": "Siddhachal Caves",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Siddhachal Caves is a built by Gurjara Pratihara's in 7th to 10th CE.",
+    "coordinates": {
+      "lat": 26.22397,
+      "lon": 78.16517
+    },
+    "tags": [
+      "temple",
+      "cave"
+    ]
+  },
+  {
+    "id": "siddhanath-temple-nemawar-madhya-pradesh",
+    "name": "Siddhanath Temple, Nemawar",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Siddhanath Temple, Nemawar is a 10th to 11th century Shiva temple from the Paramara era.",
+    "coordinates": {
+      "lat": 22.49314,
+      "lon": 76.97792
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "siddhwat-temple-madhya-pradesh",
+    "name": "Siddhwat Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Siddhwat Temple is a hindu Temple in Ujjain, Madhya pradesh.",
+    "coordinates": {
+      "lat": 23.22421,
+      "lon": 75.77707
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sihoniya-madhya-pradesh",
+    "name": "Sihoniya",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Sihoniya is a village and historic site north of Gwalior, that was once the capital of Kacchapaghata dynasty.",
+    "coordinates": {
+      "lat": 26.57333,
+      "lon": 78.26528
+    }
+  },
+  {
+    "id": "singorgarh-fort-madhya-pradesh",
+    "name": "Singorgarh fort",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Singorgarh fort is a tourism place in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.535,
+      "lon": 79.752
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "sirpur-lake-madhya-pradesh",
+    "name": "Sirpur Lake",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Sirpur Lake is a lake in India.",
+    "coordinates": {
+      "lat": 22.70056,
+      "lon": 75.81278
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "son-gharial-wildlife-sanctuary-madhya-pradesh",
+    "name": "Son Gharial Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Son Gharial Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 24.28293,
+      "lon": 81.45285
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "sonagiri-madhya-pradesh",
+    "name": "Sonagiri",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sonagiri is a jain pilgrim.",
+    "coordinates": {
+      "lat": 23.25107,
+      "lon": 77.46965
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sonari-stupas-madhya-pradesh",
+    "name": "Sonari Stupas",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sonari Stupas is an archaeological site in India.",
+    "coordinates": {
+      "lat": 23.43222,
+      "lon": 77.66417
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "state-museum-bhopal-madhya-pradesh",
+    "name": "State Museum, Bhopal",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "State Museum, Bhopal is a museum in Bhopal, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.247,
+      "lon": 77.3923
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "sukhanand-dham-madhya-pradesh",
+    "name": "Sukhanand Dham",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sukhanand Dham is a historic place of Preaching and Worship in Jawad.",
+    "tags": [
+      "temple",
+      "cave"
+    ]
+  },
+  {
+    "id": "sukhanand-sagar-dam-madhya-pradesh",
+    "name": "Sukhanand Sagar Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Sukhanand Sagar Dam is a dam in Jawad, Neemuch District, Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.67613,
+      "lon": 74.8486
+    }
+  },
+  {
+    "id": "sun-temple-madkhera-madhya-pradesh",
+    "name": "Sun Temple, Madkhera",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Sun Temple, Madkhera is a 9th-century Surya temple in north Madhya Pradesh.",
+    "coordinates": {
+      "lat": 24.87008,
+      "lon": 78.78531
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "taj-mahal-palace-madhya-pradesh",
+    "name": "Taj Mahal (palace)",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Taj Mahal (palace) is a taj Mahal Palace,Bhopal.",
+    "coordinates": {
+      "lat": 23.26703,
+      "lon": 77.39237
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "taj-ul-masajid-madhya-pradesh",
+    "name": "Taj-ul-Masajid",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Taj-ul-Masajid is a mosque in India.",
+    "coordinates": {
+      "lat": 23.2629,
+      "lon": 77.3928
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "talpura-madhya-pradesh",
+    "name": "Talpura",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Talpura is a buddhist site in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.47,
+      "lon": 77.39
+    }
+  },
+  {
+    "id": "tawa-reservoir-madhya-pradesh",
+    "name": "Tawa Reservoir",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Tawa Reservoir is a lake in India.",
+    "coordinates": {
+      "lat": 22.56222,
+      "lon": 77.97722
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "taxakeshwar-temple-mandsaur-madhya-pradesh",
+    "name": "Taxakeshwar Temple, Mandsaur",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Taxakeshwar Temple, Mandsaur is a hindu temple.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "teli-ka-mandir-madhya-pradesh",
+    "name": "Teli ka Mandir",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Teli ka Mandir is a 9th century Hindu temple in Gwalior.",
+    "coordinates": {
+      "lat": 26.22031,
+      "lon": 78.16589
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tigawa-madhya-pradesh",
+    "name": "Tigawa",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Tigawa is an early 5th century Hindu temple in Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.69069,
+      "lon": 80.06656
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tigra-dam-madhya-pradesh",
+    "name": "Tigra Dam",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Tigra Dam is a dam in India.",
+    "coordinates": {
+      "lat": 26.22139,
+      "lon": 78.00167
+    }
+  },
+  {
+    "id": "tikla-madhya-pradesh",
+    "name": "Tikla",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Tikla is an archeological site and cave in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.87799,
+      "lon": 77.76269
+    },
+    "tags": [
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "tincha-waterfall-madhya-pradesh",
+    "name": "Tincha Waterfall",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Tincha Waterfall is a waterfall in Indore district, MP.",
+    "coordinates": {
+      "lat": 22.5758,
+      "lon": 75.9771
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "tomb-of-sawai-singh-madhya-pradesh",
+    "name": "Tomb of Sawai Singh",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Tomb of Sawai Singh is a historic site in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 25.00283,
+      "lon": 79.49555
+    }
+  },
+  {
+    "id": "tomb-of-shah-nawaz-khan-madhya-pradesh",
+    "name": "Tomb of Shah Nawaz Khan",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Tomb of Shah Nawaz Khan is a building in Burhanpur, India.",
+    "coordinates": {
+      "lat": 21.32789,
+      "lon": 76.24332
+    }
+  },
+  {
+    "id": "tomb-of-shaykh-changal-madhya-pradesh",
+    "name": "Tomb of Shaykh Changal",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Tomb of Shaykh Changal is a shrine in Dhar, Madhya Pradesh.",
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "tribal-museum-bhopal-madhya-pradesh",
+    "name": "Tribal Museum Bhopal",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Tribal Museum Bhopal is a museum of tribal art in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.2344,
+      "lon": 77.3848
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "tughluq-shahi-mosque-madhya-pradesh",
+    "name": "Tughluq Shāhī Mosque",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Tughluq Shāhī Mosque is a former mosque in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.58389,
+      "lon": 75.29806
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "tulsi-peeth-madhya-pradesh",
+    "name": "Tulsi Peeth",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Tulsi Peeth is an indian religious and social service institution based at Chitrakoot.",
+    "coordinates": {
+      "lat": 25.1633,
+      "lon": 80.8675
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "udayagiri-caves-madhya-pradesh",
+    "name": "Udayagiri Caves",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Udayagiri Caves is an early 5th century 19 Hindu and 1 Jain cave temples.",
+    "coordinates": {
+      "lat": 23.53872,
+      "lon": 77.77212
+    },
+    "tags": [
+      "temple",
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "ujjain-madhya-pradesh",
+    "name": "Ujjain",
+    "state": "Madhya Pradesh",
+    "category": "nature",
+    "description": "Ujjain is an ancient city beside the Kshipra River in the central Indian state of Madhya Pradesh.",
+    "coordinates": {
+      "lat": 23.18278,
+      "lon": 75.77722
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "usha-kiran-palace-madhya-pradesh",
+    "name": "Usha Kiran Palace",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Usha Kiran Palace is a building in India.",
+    "coordinates": {
+      "lat": 26.204,
+      "lon": 78.166
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "vamana-temple-khajuraho-madhya-pradesh",
+    "name": "Vamana Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Vamana Temple, Khajuraho is a 11th century Hindu temple for Vamana-Vishnu.",
+    "coordinates": {
+      "lat": 24.85148,
+      "lon": 79.93498
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "van-vihar-national-park-madhya-pradesh",
+    "name": "Van Vihar National Park",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Van Vihar National Park is a national park in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.22948,
+      "lon": 77.36977
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "vankhandeshwar-mahadev-temple-madhya-pradesh",
+    "name": "Vankhandeshwar Mahadev Temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Vankhandeshwar Mahadev Temple is a hindu deities temple in India.",
+    "coordinates": {
+      "lat": 26.5598,
+      "lon": 78.79194
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "varaha-temple-khajuraho-madhya-pradesh",
+    "name": "Varaha Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Varaha Temple, Khajuraho is a temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.852,
+      "lon": 79.9222
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "veerangana-durgavati-wildlife-sanctuary-madhya-pradesh",
+    "name": "Veerangana Durgavati Wildlife Sanctuary",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "Veerangana Durgavati Wildlife Sanctuary is a wildlife sanctuary in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.547,
+      "lon": 79.7286
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "vidisha-madhya-pradesh",
+    "name": "Vidisha",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Vidisha is a city.",
+    "coordinates": {
+      "lat": 23.5239,
+      "lon": 77.8061
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "vidisha-museum-madhya-pradesh",
+    "name": "Vidisha Museum",
+    "state": "Madhya Pradesh",
+    "category": "heritage",
+    "description": "Vidisha Museum is an archaeological museum in Vidisha.",
+    "coordinates": {
+      "lat": 23.51974,
+      "lon": 77.8165
+    },
+    "tags": [
+      "museum",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "vikramaditya-statue-madhya-pradesh",
+    "name": "Vikramaditya Statue",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Vikramaditya Statue is a statue of Indian King Vikramaditya at Vikram Teela behind Mahakal Temple in, Ujjain, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.1825,
+      "lon": 75.76556
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "virateshwar-temple-madhya-pradesh",
+    "name": "Virateshwar temple",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Virateshwar temple is a 11th century Shiva temple near Shahdol.",
+    "coordinates": {
+      "lat": 23.32047,
+      "lon": 81.35886
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "vishvanatha-temple-khajuraho-madhya-pradesh",
+    "name": "Vishvanatha Temple, Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "spiritual",
+    "description": "Vishvanatha Temple, Khajuraho is a 10th century Shiva temple in Khajuraho, India.",
+    "coordinates": {
+      "lat": 24.85333,
+      "lon": 79.9225
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "walled-enclave-at-deori-madhya-pradesh",
+    "name": "Walled Enclave at Deori",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Walled Enclave at Deori is a royal enclave in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 23.13326,
+      "lon": 78.68691
+    }
+  },
+  {
+    "id": "white-tiger-safari-zoo-mukundpur-madhya-pradesh",
+    "name": "White Tiger Safari & Zoo Mukundpur",
+    "state": "Madhya Pradesh",
+    "category": "wildlife",
+    "description": "White Tiger Safari & Zoo Mukundpur is a zoo in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 24.42818,
+      "lon": 81.24794
+    }
+  },
+  {
+    "id": "yashwant-sagar-madhya-pradesh",
+    "name": "Yashwant Sagar",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Yashwant Sagar is a body of water.",
+    "coordinates": {
+      "lat": 22.80933,
+      "lon": 75.69439
+    }
+  },
+  {
+    "id": "yeshwant-club-madhya-pradesh",
+    "name": "Yeshwant Club",
+    "state": "Madhya Pradesh",
+    "category": "other",
+    "description": "Yeshwant Club is a tourism place in Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 22.724,
+      "lon": 75.877
+    }
+  }
+]

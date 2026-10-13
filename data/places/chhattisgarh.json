@@ -1,0 +1,898 @@
+[
+  {
+    "id": "achanakmar-wildlife-sanctuary-chhattisgarh",
+    "name": "Achanakmar Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Achanakmar Wildlife Sanctuary is a wildlife sanctuary and Tiger reserve in central India.",
+    "coordinates": {
+      "lat": 22.55023,
+      "lon": 81.73494
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "amritdhara-falls-chhattisgarh",
+    "name": "Amritdhara Falls",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Amritdhara Falls is a waterfall in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 23.33333,
+      "lon": 82.32139
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "arang-jain-temples-chhattisgarh",
+    "name": "Arang Jain temples",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Arang Jain temples is a hindu Temple in Arang, Chhattisgarh.",
+    "coordinates": {
+      "lat": 21.19508,
+      "lon": 81.96956
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ashtabhuji-temple-chhattisgarh",
+    "name": "Ashtabhuji Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ashtabhuji Temple is a shiva temple ruins (700 CE).",
+    "coordinates": {
+      "lat": 21.95303,
+      "lon": 83.02479
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "badalkhol-wildlife-sanctuary-chhattisgarh",
+    "name": "Badalkhol Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Badalkhol Wildlife Sanctuary is a protected area in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 22.55222,
+      "lon": 81.73472
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bambleshwari-temple-chhattisgarh",
+    "name": "Bambleshwari Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Bambleshwari Temple is a temple in India.",
+    "coordinates": {
+      "lat": 21.23778,
+      "lon": 81.60778
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "barfani-dham-chhattisgarh",
+    "name": "Barfani Dham",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Barfani Dham is a temple in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.09278,
+      "lon": 81.00611
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "barnawapara-wildlife-sanctuary-chhattisgarh",
+    "name": "Barnawapara Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Barnawapara Wildlife Sanctuary is an indian wildlife sanctuary.",
+    "coordinates": {
+      "lat": 21.5,
+      "lon": 82.47
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bhairamgarh-wildlife-sanctuary-chhattisgarh",
+    "name": "Bhairamgarh Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Bhairamgarh Wildlife Sanctuary is a protected area in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 19.0991,
+      "lon": 80.9394
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bhooteshwarnath-chhattisgarh",
+    "name": "Bhooteshwarnath",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Bhooteshwarnath is a shiva temple in Gariaband district of Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 20.60836,
+      "lon": 82.04549
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhoramdeo-temple-chhattisgarh",
+    "name": "Bhoramdeo Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Bhoramdeo Temple is a temple in India.",
+    "coordinates": {
+      "lat": 22.116,
+      "lon": 81.148
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhoramdev-wildlife-sanctuary-chhattisgarh",
+    "name": "Bhoramdev Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Bhoramdev Wildlife Sanctuary is a wildlife Sanctuary in India.",
+    "coordinates": {
+      "lat": 22.11,
+      "lon": 81.14444
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "chaiturgarh-chhattisgarh",
+    "name": "Chaiturgarh",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Chaiturgarh is a 11th-century Hindu fort in Korba district, Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 22.5103,
+      "lon": 82.2714
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "chandratiya-temple-chhattisgarh",
+    "name": "Chandratiya Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Chandratiya Temple is a 11th century HIndu temple in south Chhattisgarh.",
+    "coordinates": {
+      "lat": 19.13718,
+      "lon": 81.38285
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chhindari-dam-chhattisgarh",
+    "name": "Chhindari Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Chhindari Dam is a dam in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.53,
+      "lon": 80.98
+    }
+  },
+  {
+    "id": "chitrakote-falls-chhattisgarh",
+    "name": "Chitrakote Falls",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Chitrakote Falls is a waterfall on the Indravati River in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 19.2065,
+      "lon": 81.69998
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "damau-dhara-chhattisgarh",
+    "name": "Damau dhara",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Damau dhara is a tourism place in Chhattisgarh, India."
+  },
+  {
+    "id": "danteshwari-temple-chhattisgarh",
+    "name": "Danteshwari Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Danteshwari Temple is a hindu goddess temple – one of 52 Shakti Pithas in India.",
+    "coordinates": {
+      "lat": 19.1362,
+      "lon": 81.37806
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "devrani-jethani-temple-complex-chhattisgarh",
+    "name": "Devrani Jethani Temple Complex",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Devrani Jethani Temple Complex is an archaeological site in Tala, Chhattisgarh.",
+    "coordinates": {
+      "lat": 21.9072,
+      "lon": 82.0259
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "dhumnath-temple-chhattisgarh",
+    "name": "Dhumnath Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Dhumnath Temple is a hindu temple.",
+    "coordinates": {
+      "lat": 21.90122,
+      "lon": 81.97553
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dudhadhari-temple-chhattisgarh",
+    "name": "Dudhadhari temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Dudhadhari temple is a hindu temple in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.22418,
+      "lon": 81.62932
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dudhawa-dam-chhattisgarh",
+    "name": "Dudhawa Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Dudhawa Dam is a dam in India.",
+    "coordinates": {
+      "lat": 20.30778,
+      "lon": 81.77167
+    }
+  },
+  {
+    "id": "ganga-maiya-chhattisgarh",
+    "name": "Ganga Maiya",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ganga Maiya is a hindu temple in Chhattisgarh, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gangrel-dam-chhattisgarh",
+    "name": "Gangrel Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Gangrel Dam is a dam in India.",
+    "coordinates": {
+      "lat": 20.61667,
+      "lon": 81.56972
+    }
+  },
+  {
+    "id": "gomardha-wildlife-sanctuary-chhattisgarh",
+    "name": "Gomardha Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Gomardha Wildlife Sanctuary is a protected area in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.501,
+      "lon": 83.1366
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "guru-ghasidas-tamor-pingla-tiger-reserve-chhattisgarh",
+    "name": "Guru Ghasidas - Tamor Pingla Tiger Reserve",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Guru Ghasidas - Tamor Pingla Tiger Reserve is a 56th Tiger reserve in India.",
+    "coordinates": {
+      "lat": 23.60194,
+      "lon": 82.47194
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "hasdeo-bango-dam-chhattisgarh",
+    "name": "Hasdeo Bango Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Hasdeo Bango Dam is a dam in India.",
+    "coordinates": {
+      "lat": 22.605,
+      "lon": 82.598
+    }
+  },
+  {
+    "id": "indal-deul-temple-chhattisgarh",
+    "name": "Indal Deul Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Indal Deul Temple is a 7th century Hindu temple in Chhattisgarh.",
+    "coordinates": {
+      "lat": 21.74683,
+      "lon": 82.57961
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "indravati-national-park-chhattisgarh",
+    "name": "Indravati National Park",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Indravati National Park is a national park in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 19.33333,
+      "lon": 81.0
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "jatmai-mata-mandir-chhattisgarh",
+    "name": "Jatmai Mata Mandir",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Jatmai Mata Mandir is a hindu temple of Goddess Durga.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jogimara-and-sitabenga-caves-chhattisgarh",
+    "name": "Jogimara and Sitabenga Caves",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Jogimara and Sitabenga Caves is a 3rd to 2nd century BCE site with frescoes and Brahmi inscription.",
+    "coordinates": {
+      "lat": 22.89829,
+      "lon": 82.92926
+    },
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "kabir-dharm-nagar-damakheda-chhattisgarh",
+    "name": "Kabir Dharm Nagar Damakheda",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Kabir Dharm Nagar Damakheda is a kabir Panth religious centre in Chhattisgarh, India."
+  },
+  {
+    "id": "kaleshwarnath-temple-pithampur-chhattisgarh",
+    "name": "Kaleshwarnath Temple, Pithampur",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Kaleshwarnath Temple, Pithampur is a temple in India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kanger-valley-national-park-chhattisgarh",
+    "name": "Kanger Valley National Park",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Kanger Valley National Park is a national Park near Jagdalpur.",
+    "coordinates": {
+      "lat": 18.832,
+      "lon": 82.011
+    },
+    "tags": [
+      "national-park",
+      "cave"
+    ]
+  },
+  {
+    "id": "kherkatta-dam-chhattisgarh",
+    "name": "Kherkatta Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Kherkatta Dam is a man-made lake in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 20.1548,
+      "lon": 80.6423
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "khudia-dam-chhattisgarh",
+    "name": "Khudia Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Khudia Dam is a dam in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 22.0198,
+      "lon": 81.6861
+    }
+  },
+  {
+    "id": "kotumsar-cave-chhattisgarh",
+    "name": "Kotumsar Cave",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Kotumsar Cave is a cave in Indian state of Chhattisgarh.",
+    "coordinates": {
+      "lat": 18.87167,
+      "lon": 81.935
+    },
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "kudargarh-chhattisgarh",
+    "name": "Kudargarh",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Kudargarh is a hindu temple in Chhattisgarh, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "madwa-mahal-temple-chhattisgarh",
+    "name": "Madwa Mahal Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Madwa Mahal Temple is a 14th century Shiva temple near Bhoramdeo temple, Chhattisgarh.",
+    "coordinates": {
+      "lat": 22.10948,
+      "lon": 81.1541
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahadev-temple-deobaloda-chhattisgarh",
+    "name": "Mahadev Temple, Deobaloda",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mahadev Temple, Deobaloda is a shiva temple in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.21884,
+      "lon": 81.47347
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahamaya-temple-chhattisgarh",
+    "name": "Mahamaya Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mahamaya Temple is a 11th century Durga temple in Chhattisgarh.",
+    "coordinates": {
+      "lat": 22.883,
+      "lon": 82.159
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahamaya-temple-raipur-chhattisgarh",
+    "name": "Mahamaya Temple, Raipur",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mahamaya Temple, Raipur is a hindu temple in India.",
+    "coordinates": {
+      "lat": 21.23167,
+      "lon": 81.62861
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mainpat-chhattisgarh",
+    "name": "Mainpat",
+    "state": "Chhattisgarh",
+    "category": "offbeat",
+    "description": "Mainpat is a village in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 22.837,
+      "lon": 83.315
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "malhar-chhattisgarh-chhattisgarh",
+    "name": "Malhar, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Malhar, Chhattisgarh is a human settlement in Bilaspur district, Bilaspur Division, Madhya Pradesh, India.",
+    "coordinates": {
+      "lat": 21.74721,
+      "lon": 82.54388
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "mama-bhanja-temple-chhattisgarh",
+    "name": "Mama Bhanja Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mama Bhanja Temple is a shiva temple in south Chhattisgarh (11th century).",
+    "coordinates": {
+      "lat": 19.13765,
+      "lon": 81.37355
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "mandwa-waterfalls-chhattisgarh",
+    "name": "Mandwa Waterfalls",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Mandwa Waterfalls is a waterfall in India.",
+    "coordinates": {
+      "lat": 18.99081,
+      "lon": 81.7933
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "mata-kaushalya-temple-chhattisgarh",
+    "name": "Mata Kaushalya Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Mata Kaushalya Temple is a hindu temple dedicated to Mata Kaushalya.",
+    "coordinates": {
+      "lat": 21.31883,
+      "lon": 81.81233
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mendri-ghumar-chhattisgarh",
+    "name": "Mendri Ghumar",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Mendri Ghumar is a waterfall in Jagdalpur, India.",
+    "coordinates": {
+      "lat": 19.16523,
+      "lon": 81.66337
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "murrum-silli-dam-chhattisgarh",
+    "name": "Murrum Silli Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Murrum Silli Dam is a dam in Dhamtari District.",
+    "coordinates": {
+      "lat": 20.53806,
+      "lon": 81.66167
+    }
+  },
+  {
+    "id": "narayanpal-temple-chhattisgarh",
+    "name": "Narayanpal Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Narayanpal Temple is a 12th century Vishnu temple in south Chhattisgarh.",
+    "coordinates": {
+      "lat": 19.19965,
+      "lon": 81.74051
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "our-lady-of-the-rosary-cathedral-jashpur-chhattisgarh",
+    "name": "Our Lady of the Rosary Cathedral, Jashpur",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Our Lady of the Rosary Cathedral, Jashpur is a church in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 22.74333,
+      "lon": 83.96028
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "pamed-wildlife-sanctuary-chhattisgarh",
+    "name": "Pamed Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Pamed Wildlife Sanctuary is a wildlife refuge in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 18.3171,
+      "lon": 80.841
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "rajiv-lochan-temple-chhattisgarh",
+    "name": "Rajiv Lochan Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Rajiv Lochan Temple is a 6th to 7th century Vishnu temple in Chhattisgarh.",
+    "coordinates": {
+      "lat": 20.964,
+      "lon": 81.8775
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ramachandra-temple-chhattisgarh",
+    "name": "Ramachandra Temple",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Ramachandra Temple is a 7th to 12th century Vishnu tradition temple near Mahanadi river.",
+    "coordinates": {
+      "lat": 20.96312,
+      "lon": 81.87897
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sarvamangla-chhattisgarh",
+    "name": "Sarvamangla",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Sarvamangla is a hindu temple in Chhattisgarh, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "satrenga-chhattisgarh-chhattisgarh",
+    "name": "Satrenga, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "category": "beach",
+    "description": "Satrenga, Chhattisgarh is a beach in Chattisgarh.",
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "semarsot-wildlife-sanctuary-chhattisgarh",
+    "name": "Semarsot Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Semarsot Wildlife Sanctuary is a wildlife refuge in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 23.548,
+      "lon": 83.5283
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "siddheshwar-mandir-palari-chhattisgarh",
+    "name": "Siddheshwar Mandir, Palari",
+    "state": "Chhattisgarh",
+    "category": "spiritual",
+    "description": "Siddheshwar Mandir, Palari is a 7th to 8th century Hindu brick temple from Dakshina Kosala period.",
+    "coordinates": {
+      "lat": 21.5349,
+      "lon": 82.17773
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sirpur-group-of-monuments-chhattisgarh",
+    "name": "Sirpur Group of Monuments",
+    "state": "Chhattisgarh",
+    "category": "heritage",
+    "description": "Sirpur Group of Monuments is a historical and archaeological site in Chhattisgarh.",
+    "coordinates": {
+      "lat": 21.34522,
+      "lon": 82.18481
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "sitanadi-wildlife-sanctuary-chhattisgarh",
+    "name": "Sitanadi Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Sitanadi Wildlife Sanctuary is a wildlife sanctuary in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 20.1857,
+      "lon": 81.9362
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "sondur-dam-chhattisgarh",
+    "name": "Sondur Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Sondur Dam is a dam in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 20.2275,
+      "lon": 82.10333
+    }
+  },
+  {
+    "id": "tamda-ghumar-chhattisgarh",
+    "name": "Tamda Ghumar",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Tamda Ghumar is a natural waterfalls in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 19.17278,
+      "lon": 81.62905
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "tamor-pingla-wildlife-sanctuary-chhattisgarh",
+    "name": "Tamor Pingla Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Tamor Pingla Wildlife Sanctuary is a human settlement in India.",
+    "coordinates": {
+      "lat": 23.6,
+      "lon": 83.0
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "tandula-dam-chhattisgarh",
+    "name": "Tandula Dam",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Tandula Dam is a dam in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 20.703,
+      "lon": 81.218
+    }
+  },
+  {
+    "id": "teerathgarh-falls-chhattisgarh",
+    "name": "Teerathgarh Falls",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Teerathgarh Falls is a waterfall in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 18.91417,
+      "lon": 81.86528
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "telibandha-lake-chhattisgarh",
+    "name": "Telibandha Lake",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Telibandha Lake is a freshwater lake in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.239,
+      "lon": 81.659
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "udanti-wildlife-sanctuary-chhattisgarh",
+    "name": "Udanti Wildlife Sanctuary",
+    "state": "Chhattisgarh",
+    "category": "wildlife",
+    "description": "Udanti Wildlife Sanctuary is a wildlife sanctuary in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 20.0716,
+      "lon": 82.3223
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "vivekananda-sarovar-raipur-chhattisgarh",
+    "name": "Vivekananda Sarovar, Raipur",
+    "state": "Chhattisgarh",
+    "category": "nature",
+    "description": "Vivekananda Sarovar, Raipur is a freshwater Lake in Chhattisgarh, India.",
+    "coordinates": {
+      "lat": 21.232,
+      "lon": 81.633
+    },
+    "tags": [
+      "lake"
+    ]
+  }
+]

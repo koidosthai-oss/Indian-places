@@ -1,0 +1,909 @@
+[
+  {
+    "id": "aritar-sikkim-sikkim",
+    "name": "Aritar, Sikkim",
+    "state": "Sikkim",
+    "category": "offbeat",
+    "description": "Aritar, Sikkim is a village in Rongli subdivision, Pakyong district, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.18806,
+      "lon": 88.67472
+    }
+  },
+  {
+    "id": "banjhakri-falls-and-energy-park-sikkim",
+    "name": "Banjhakri Falls and Energy Park",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Banjhakri Falls and Energy Park is a recreation centre and tourist attraction near Gangtok, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.35083,
+      "lon": 88.60361
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "bermiok-monastery-sikkim",
+    "name": "Bermiok Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Bermiok Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.22628,
+      "lon": 88.45744
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "chawayng-ani-monastery-sikkim",
+    "name": "Chawayng Ani Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Chawayng Ani Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.534,
+      "lon": 88.512
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "chenrezig-statue-and-skywalk-sikkim",
+    "name": "Chenrezig statue and skywalk",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Chenrezig statue and skywalk is a tourist attraction in Pelling, Sikkim.",
+    "coordinates": {
+      "lat": 27.2977,
+      "lon": 88.21994
+    }
+  },
+  {
+    "id": "dalling-monastery-sikkim",
+    "name": "Dalling Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Dalling Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.288,
+      "lon": 88.344
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "do-drul-chorten-sikkim",
+    "name": "Do-drul Chorten",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Do-drul Chorten is a stupa in Gangtok, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.31278,
+      "lon": 88.60472
+    }
+  },
+  {
+    "id": "dubdi-monastery-sikkim",
+    "name": "Dubdi Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Dubdi Monastery is a buddhist monastery near Yuksom, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.36682,
+      "lon": 88.22996
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "enchey-monastery-sikkim",
+    "name": "Enchey Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Enchey Monastery is a monastery in Sikkim.",
+    "coordinates": {
+      "lat": 27.34056,
+      "lon": 88.6275
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "fambong-lho-wildlife-sanctuary-sikkim",
+    "name": "Fambong Lho Wildlife Sanctuary",
+    "state": "Sikkim",
+    "category": "wildlife",
+    "description": "Fambong Lho Wildlife Sanctuary is a wildlife sanctuary in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.3113,
+      "lon": 88.53367
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "gangtok-sikkim",
+    "name": "Gangtok",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Gangtok is a city in Gangtok district, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.33,
+      "lon": 88.62
+    },
+    "tags": [
+      "hill-station",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "gnathang-monastery-sikkim",
+    "name": "Gnathang Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Gnathang Monastery is a building in India.",
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "gurdwara-nanaklama-sikkim",
+    "name": "Gurdwara Nanaklama",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Gurdwara Nanaklama is a building in India.",
+    "coordinates": {
+      "lat": 27.60433,
+      "lon": 88.64585
+    }
+  },
+  {
+    "id": "gurudongmar-lake-sikkim",
+    "name": "Gurudongmar Lake",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Gurudongmar Lake is a lake in Sikkim, India.",
+    "coordinates": {
+      "lat": 28.02,
+      "lon": 88.71
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "hanuman-tok-sikkim",
+    "name": "Hanuman Tok",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Hanuman Tok is a temple in India.",
+    "coordinates": {
+      "lat": 27.3478,
+      "lon": 88.6286
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hee-gyathang-monastery-sikkim",
+    "name": "Hee Gyathang Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Hee Gyathang Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.476,
+      "lon": 88.501
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "jorethang-loop-hydroelectric-project-sikkim",
+    "name": "Jorethang Loop Hydroelectric project",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Jorethang Loop Hydroelectric project is a power project in Sikkim.",
+    "coordinates": {
+      "lat": 27.10656,
+      "lon": 88.33464
+    }
+  },
+  {
+    "id": "kabi-lungchok-sikkim",
+    "name": "Kabi Lungchok",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Kabi Lungchok is a historical site in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.3983,
+      "lon": 88.35
+    }
+  },
+  {
+    "id": "karthok-monastery-sikkim",
+    "name": "Karthok Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Karthok Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.2408,
+      "lon": 88.588
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "kewwzing-monastery-sikkim",
+    "name": "Kewwzing Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Kewwzing Monastery is a building in India.",
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "khangchendzonga-national-park-sikkim",
+    "name": "Khangchendzonga National Park",
+    "state": "Sikkim",
+    "category": "wildlife",
+    "description": "Khangchendzonga National Park is a national park in India.",
+    "coordinates": {
+      "lat": 27.6563,
+      "lon": 88.3123
+    },
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ]
+  },
+  {
+    "id": "khecheopalri-lake-sikkim",
+    "name": "Khecheopalri Lake",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Khecheopalri Lake is a lake in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.37333,
+      "lon": 88.20833
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "kirateshwar-mahadev-temple-sikkim",
+    "name": "Kirateshwar Mahadev Temple",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Kirateshwar Mahadev Temple is a hindu temple.",
+    "coordinates": {
+      "lat": 27.45,
+      "lon": 88.45
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kitam-bird-sanctuary-sikkim",
+    "name": "Kitam Bird Sanctuary",
+    "state": "Sikkim",
+    "category": "wildlife",
+    "description": "Kitam Bird Sanctuary is a bird sanctuary of India.",
+    "coordinates": {
+      "lat": 27.1,
+      "lon": 88.33333
+    }
+  },
+  {
+    "id": "kyongnosla-alpine-sanctuary-sikkim",
+    "name": "Kyongnosla Alpine Sanctuary",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Kyongnosla Alpine Sanctuary is a nature reserve in India.",
+    "coordinates": {
+      "lat": 27.377,
+      "lon": 88.741
+    }
+  },
+  {
+    "id": "labrang-monastery-sikkim-sikkim",
+    "name": "Labrang Monastery (Sikkim)",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Labrang Monastery (Sikkim) is a buddhist monastery in India.",
+    "coordinates": {
+      "lat": 27.41806,
+      "lon": 88.57944
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "lachen-monastery-sikkim",
+    "name": "Lachen Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Lachen Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.71624,
+      "lon": 88.55661
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "lachung-monastery-sikkim",
+    "name": "Lachung Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Lachung Monastery is a buddhist monastery in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.61667,
+      "lon": 88.65
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "lachung-river-sikkim",
+    "name": "Lachung River",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Lachung River is a left headwater of Teesta River in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.60142,
+      "lon": 88.64743
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "lake-menmecho-sikkim",
+    "name": "Lake Menmecho",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Lake Menmecho is a lake in India.",
+    "coordinates": {
+      "lat": 27.33022,
+      "lon": 88.84644
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "lake-tsomgo-sikkim",
+    "name": "Lake Tsomgo",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Lake Tsomgo is a glacial lake in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.37528,
+      "lon": 88.76389
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "lingdum-monastery-sikkim",
+    "name": "Lingdum Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Lingdum Monastery is a buddhist monastery near Ranka, Gangtok, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.33081,
+      "lon": 88.57948
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "lingthem-monastery-sikkim",
+    "name": "Lingthem Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Lingthem Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.522,
+      "lon": 88.501
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "maenam-wildlife-sanctuary-sikkim",
+    "name": "Maenam Wildlife Sanctuary",
+    "state": "Sikkim",
+    "category": "wildlife",
+    "description": "Maenam Wildlife Sanctuary is a wildlife reserve in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.33803,
+      "lon": 88.38559
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "mankhim-sikkim",
+    "name": "Mankhim",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Mankhim is a nepali temple.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "melli-atsing-monastery-sikkim",
+    "name": "Melli Atsing Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Melli Atsing Monastery is a buddhist monastery in India.",
+    "coordinates": {
+      "lat": 27.32722,
+      "lon": 88.20694
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "namchi-monastery-sikkim",
+    "name": "Namchi Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Namchi Monastery is a monastery in Sikkim on route to Lhasa.",
+    "coordinates": {
+      "lat": 27.165,
+      "lon": 88.366
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "namgyal-institute-of-tibetology-sikkim",
+    "name": "Namgyal Institute of Tibetology",
+    "state": "Sikkim",
+    "category": "heritage",
+    "description": "Namgyal Institute of Tibetology is a tibet museum in Gangtok, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.315,
+      "lon": 88.6056
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "pangolakha-wildlife-sanctuary-sikkim",
+    "name": "Pangolakha Wildlife Sanctuary",
+    "state": "Sikkim",
+    "category": "wildlife",
+    "description": "Pangolakha Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 27.34,
+      "lon": 88.76
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "pemayangtse-monastery-sikkim",
+    "name": "Pemayangtse Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Pemayangtse Monastery is a buddhist monastery in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.30444,
+      "lon": 88.25278
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "phensang-monastery-sikkim",
+    "name": "Phensang Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Phensang Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.42028,
+      "lon": 88.61028
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "phodong-monastery-sikkim",
+    "name": "Phodong Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Phodong Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.06667,
+      "lon": 88.46667
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "ralang-monastery-sikkim",
+    "name": "Ralang Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Ralang Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.32838,
+      "lon": 88.33486
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "rangit-dam-sikkim",
+    "name": "Rangit Dam",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Rangit Dam is a dam in India.",
+    "coordinates": {
+      "lat": 27.29454,
+      "lon": 88.29218
+    }
+  },
+  {
+    "id": "rani-dhunga-sikkim",
+    "name": "Rani Dhunga",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Rani Dhunga is a tourism place in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.291,
+      "lon": 88.171
+    }
+  },
+  {
+    "id": "rhenock-monastery-sikkim",
+    "name": "Rhenock Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Rhenock Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.1844,
+      "lon": 88.6771
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "rinchenpong-monastery-sikkim",
+    "name": "Rinchenpong Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Rinchenpong Monastery is a vihāra in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.2353,
+      "lon": 88.2685
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "rumtek-monastery-sikkim",
+    "name": "Rumtek Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Rumtek Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.28861,
+      "lon": 88.56139
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "samiti-lake-sikkim",
+    "name": "Samiti Lake",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Samiti Lake is a body of water in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.5615,
+      "lon": 88.1875
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sang-monastery-sikkim",
+    "name": "Sang Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Sang Monastery is a building in India.",
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "sanga-choeling-monastery-sikkim",
+    "name": "Sanga Choeling Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Sanga Choeling Monastery is a buddhist monastery in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.29775,
+      "lon": 88.22169
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "saramsa-garden-sikkim",
+    "name": "Saramsa Garden",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Saramsa Garden is a botanical Garden in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.277,
+      "lon": 88.595
+    }
+  },
+  {
+    "id": "shingba-rhododendron-sanctuary-sikkim",
+    "name": "Shingba Rhododendron Sanctuary",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Shingba Rhododendron Sanctuary is a nature park in the Indian state of Sikkim.",
+    "coordinates": {
+      "lat": 27.84111,
+      "lon": 88.73917
+    }
+  },
+  {
+    "id": "shri-viswa-vinayaka-mandir-rhenock-sikkim",
+    "name": "Shri Viswa Vinayaka Mandir Rhenock",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Shri Viswa Vinayaka Mandir Rhenock is a hindu temple in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.17,
+      "lon": 88.64
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shurishing-yungdrung-dungdrakling-monastery-sikkim",
+    "name": "Shurishing Yungdrung Dungdrakling Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Shurishing Yungdrung Dungdrakling Monastery is a building in India.",
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "simik-monastery-sikkim",
+    "name": "Simik Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Simik Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.28714,
+      "lon": 88.47081
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "sinon-monastery-sikkim",
+    "name": "Sinon Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Sinon Monastery is a building in India.",
+    "coordinates": {
+      "lat": 27.34218,
+      "lon": 88.28906
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "south-lhonak-lake-sikkim",
+    "name": "South Lhonak Lake",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "South Lhonak Lake is a glacial-moraine-dammed lake.",
+    "coordinates": {
+      "lat": 27.91368,
+      "lon": 88.19847
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sri-sathya-sai-sarva-dharma-kendra-daramdin-sikkim",
+    "name": "Sri Sathya Sai Sarva Dharma Kendra Daramdin",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Sri Sathya Sai Sarva Dharma Kendra Daramdin is a multi-faith centre in Daramdin, Sikkim, India.",
+    "coordinates": {
+      "lat": 27.136,
+      "lon": 88.171
+    }
+  },
+  {
+    "id": "sumin-reserve-forest-sikkim",
+    "name": "Sumin Reserve Forest",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Sumin Reserve Forest is a protected area in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.22306,
+      "lon": 88.52722
+    }
+  },
+  {
+    "id": "taktse-ogyen-choekhorling-monastery-sikkim",
+    "name": "Taktse Ogyen Choekhorling Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Taktse Ogyen Choekhorling Monastery is a building in India.",
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "tashiding-monastery-sikkim",
+    "name": "Tashiding Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Tashiding Monastery is a buddhist monastery in Gyalshing, India.",
+    "coordinates": {
+      "lat": 27.06667,
+      "lon": 88.46667
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "temi-tea-garden-sikkim",
+    "name": "Temi Tea Garden",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Temi Tea Garden is a tea plantation in Ravangla.",
+    "coordinates": {
+      "lat": 27.2367,
+      "lon": 88.4222
+    }
+  },
+  {
+    "id": "tendong-gumpa-sikkim",
+    "name": "Tendong Gumpa",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Tendong Gumpa is a monastery in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.20611,
+      "lon": 88.40806
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "thakurbari-temple-gangtok-sikkim",
+    "name": "Thakurbari Temple, Gangtok",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Thakurbari Temple, Gangtok is a hindu temple in India.",
+    "coordinates": {
+      "lat": 27.3301,
+      "lon": 88.6131
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tholung-monastery-sikkim",
+    "name": "Tholung Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Tholung Monastery is a vihāra in Sikkim, India.",
+    "coordinates": {
+      "lat": 27.637,
+      "lon": 88.461
+    },
+    "tags": [
+      "world-heritage",
+      "monastery"
+    ]
+  },
+  {
+    "id": "tso-lhamo-lake-sikkim",
+    "name": "Tso Lhamo Lake",
+    "state": "Sikkim",
+    "category": "nature",
+    "description": "Tso Lhamo Lake is a lake in Sikkim, India.",
+    "coordinates": {
+      "lat": 28.011,
+      "lon": 88.756
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "tsuklakhang-palace-sikkim",
+    "name": "Tsuklakhang Palace",
+    "state": "Sikkim",
+    "category": "heritage",
+    "description": "Tsuklakhang Palace is a building in India.",
+    "coordinates": {
+      "lat": 27.326,
+      "lon": 88.615
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "varsey-rhododendron-sanctuary-sikkim",
+    "name": "Varsey Rhododendron Sanctuary",
+    "state": "Sikkim",
+    "category": "other",
+    "description": "Varsey Rhododendron Sanctuary is a wildlife protection area in India.",
+    "coordinates": {
+      "lat": 27.1942,
+      "lon": 88.1183
+    }
+  },
+  {
+    "id": "yangyang-monastery-sikkim",
+    "name": "Yangyang Monastery",
+    "state": "Sikkim",
+    "category": "spiritual",
+    "description": "Yangyang Monastery is a building in India.",
+    "tags": [
+      "monastery"
+    ]
+  }
+]

@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "amreshwar-dham-jharkhand",
+    "name": "Amreshwar Dham",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Amreshwar Dham is a hindu temple.",
+    "coordinates": {
+      "lat": 23.03083,
+      "lon": 85.19944
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "baidyanath-temple-jharkhand",
+    "name": "Baidyanath Temple",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Baidyanath Temple is a temple.",
+    "coordinates": {
+      "lat": 24.4925,
+      "lon": 86.7
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "basilica-of-the-divine-motherhood-of-our-lady-jharkhand",
+    "name": "Basilica of the Divine Motherhood of Our Lady",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Basilica of the Divine Motherhood of Our Lady is a building in India.",
+    "coordinates": {
+      "lat": 23.29333,
+      "lon": 85.44028
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "basukinath-temple-jharkhand",
+    "name": "Basukinath Temple",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Basukinath Temple is a hindu temple in Dumka district, Jharkhand.",
+    "coordinates": {
+      "lat": 24.66222,
+      "lon": 87.1525
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "betla-national-park-jharkhand",
+    "name": "Betla National Park",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Betla National Park is a national park in India.",
+    "coordinates": {
+      "lat": 23.8878,
+      "lon": 84.1901
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "bhatinda-falls-jharkhand",
+    "name": "Bhatinda Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Bhatinda Falls is a waterfall in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.7108,
+      "lon": 86.33173
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "bindudham-jharkhand",
+    "name": "Bindudham",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Bindudham is a hindu temple in Jharkhand, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "birsa-munda-agro-park-gumla-jharkhand",
+    "name": "Birsa Munda Agro Park Gumla",
+    "state": "Jharkhand",
+    "category": "other",
+    "description": "Birsa Munda Agro Park Gumla is a park in India."
+  },
+  {
+    "id": "chandil-dam-jharkhand",
+    "name": "Chandil Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Chandil Dam is a dam in Seraikela Kharsawan district, Jharkhand.",
+    "coordinates": {
+      "lat": 22.9747,
+      "lon": 86.0203
+    }
+  },
+  {
+    "id": "charowa-dam-jharkhand",
+    "name": "Charowa dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Charowa dam is a dam in Hazaribagh district, Jharkhand.",
+    "coordinates": {
+      "lat": 24.0286,
+      "lon": 85.3154
+    }
+  },
+  {
+    "id": "chhinnamasta-temple-rajrappa-jharkhand",
+    "name": "Chhinnamasta Temple, Rajrappa",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Chhinnamasta Temple, Rajrappa is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.63222,
+      "lon": 85.71056
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dalma-wildlife-sanctuary-jharkhand",
+    "name": "Dalma Wildlife Sanctuary",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Dalma Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 22.90417,
+      "lon": 86.21639
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "dassam-falls-jharkhand",
+    "name": "Dassam Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Dassam Falls is a waterfall in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.14336,
+      "lon": 85.46644
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "dhori-mata-tirthalaya-jharkhand",
+    "name": "Dhori Mata Tirthalaya",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Dhori Mata Tirthalaya is a church in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.77368,
+      "lon": 85.91225
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "dhurwa-dam-jharkhand",
+    "name": "Dhurwa Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Dhurwa Dam is a dam in Jharkhand.",
+    "coordinates": {
+      "lat": 23.29144,
+      "lon": 85.25655
+    }
+  },
+  {
+    "id": "dimna-lake-jharkhand",
+    "name": "Dimna Lake",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Dimna Lake is a lake in Jamshedpur, India.",
+    "coordinates": {
+      "lat": 22.86311,
+      "lon": 86.26156
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "gayatri-gyan-mandir-mahuda-jharkhand",
+    "name": "Gayatri Gyan Mandir, Mahuda",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Gayatri Gyan Mandir, Mahuda is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.74867,
+      "lon": 86.26389
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "getalsud-dam-jharkhand",
+    "name": "Getalsud Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Getalsud Dam is a dam in India.",
+    "coordinates": {
+      "lat": 23.45669,
+      "lon": 85.55534
+    }
+  },
+  {
+    "id": "harihar-dham-jharkhand",
+    "name": "Harihar Dham",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Harihar Dham is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.07,
+      "lon": 85.82111
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hazaribagh-jharkhand",
+    "name": "Hazaribagh",
+    "state": "Jharkhand",
+    "category": "other",
+    "description": "Hazaribagh is a city.",
+    "coordinates": {
+      "lat": 23.98,
+      "lon": 85.35
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "hazaribagh-jheel-jharkhand",
+    "name": "Hazaribagh jheel",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Hazaribagh jheel is a tourism place in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.009,
+      "lon": 85.363
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "hazaribagh-wildlife-sanctuary-jharkhand",
+    "name": "Hazaribagh Wildlife Sanctuary",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Hazaribagh Wildlife Sanctuary is a wildlife sanctuary in Kharkhand, India.",
+    "coordinates": {
+      "lat": 24.139,
+      "lon": 85.366
+    },
+    "tags": [
+      "national-park",
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "hirni-falls-jharkhand",
+    "name": "Hirni Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Hirni Falls is a waterfall in India.",
+    "coordinates": {
+      "lat": 22.8667,
+      "lon": 85.3333
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "hundru-falls-jharkhand",
+    "name": "Hundru Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Hundru Falls is a waterfall on the Subarnarekha River in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.45,
+      "lon": 85.65
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "jagannath-temple-ranchi-jharkhand",
+    "name": "Jagannath Temple, Ranchi",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Ranchi is a hindu temple in Ranchi district.",
+    "coordinates": {
+      "lat": 23.31694,
+      "lon": 85.28167
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jama-mosque-ramgarh-jharkhand",
+    "name": "Jama Mosque, Ramgarh",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Jama Mosque, Ramgarh is a mosque in India.",
+    "coordinates": {
+      "lat": 23.571,
+      "lon": 85.652
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "jawaharlal-nehru-biological-park-jharkhand",
+    "name": "Jawaharlal Nehru Biological Park",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Jawaharlal Nehru Biological Park is a zoo in Jharkhand, India."
+  },
+  {
+    "id": "jharkhand-dham-jharkhand",
+    "name": "Jharkhand Dham",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Jharkhand Dham is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.33389,
+      "lon": 86.01778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jharkhand-war-memorial-jharkhand",
+    "name": "Jharkhand War Memorial",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Jharkhand War Memorial is a war memorial in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.397,
+      "lon": 85.387
+    }
+  },
+  {
+    "id": "jonha-falls-jharkhand",
+    "name": "Jonha Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Jonha Falls is a waterfall located in Ranchi district, India.",
+    "coordinates": {
+      "lat": 23.34167,
+      "lon": 85.60833
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "kapilnath-temple-jharkhand",
+    "name": "Kapilnath Temple",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Kapilnath Temple is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.11667,
+      "lon": 84.76667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "karneshwar-dham-jharkhand",
+    "name": "Karneshwar Dham",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Karneshwar Dham is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.12722,
+      "lon": 86.74472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kauleshwari-temple-jharkhand",
+    "name": "Kauleshwari Temple",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Kauleshwari Temple is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.37627,
+      "lon": 84.86429
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "khandoli-dam-jharkhand",
+    "name": "Khandoli Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Khandoli Dam is a dam in India.",
+    "coordinates": {
+      "lat": 24.23944,
+      "lon": 86.34861
+    }
+  },
+  {
+    "id": "khukhragarh-jharkhand",
+    "name": "Khukhragarh",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Khukhragarh is an archaeological site in India.",
+    "coordinates": {
+      "lat": 23.31667,
+      "lon": 84.95
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "koderma-wildlife-sanctuary-jharkhand",
+    "name": "Koderma Wildlife Sanctuary",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Koderma Wildlife Sanctuary is a wildlife refuge in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.5373,
+      "lon": 85.5939
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "konar-dam-jharkhand",
+    "name": "Konar Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Konar Dam is a dam if India.",
+    "coordinates": {
+      "lat": 23.94111,
+      "lon": 85.775
+    }
+  },
+  {
+    "id": "lawalong-wildlife-sanctuary-jharkhand",
+    "name": "Lawalong Wildlife Sanctuary",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Lawalong Wildlife Sanctuary is a nature reserve in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.2367,
+      "lon": 84.5175
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "lawapani-falls-jharkhand",
+    "name": "Lawapani Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Lawapani Falls is a waterfall in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.59744,
+      "lon": 84.5456
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "lodh-falls-jharkhand",
+    "name": "Lodh Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Lodh Falls is a waterfall.",
+    "coordinates": {
+      "lat": 23.48056,
+      "lon": 84.01944
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "lower-ghaghri-falls-jharkhand",
+    "name": "Lower Ghaghri Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Lower Ghaghri Falls is a waterfall.",
+    "coordinates": {
+      "lat": 23.53155,
+      "lon": 84.24591
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "maa-dewri-temple-jharkhand",
+    "name": "Maa Dewri Temple",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Maa Dewri Temple is a hindu temple of Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.04611,
+      "lon": 85.68278
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahuadanr-wolf-sanctuary-jharkhand",
+    "name": "Mahuadanr Wolf Sanctuary",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Mahuadanr Wolf Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 23.43333,
+      "lon": 84.03333
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "maithon-dam-jharkhand",
+    "name": "Maithon Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Maithon Dam is a dam in India.",
+    "coordinates": {
+      "lat": 23.78532,
+      "lon": 86.81243
+    }
+  },
+  {
+    "id": "maluti-temples-jharkhand",
+    "name": "Maluti temples",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Maluti temples is a temples of Maluti village of India.",
+    "coordinates": {
+      "lat": 24.15,
+      "lon": 87.66667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "massanjore-dam-jharkhand",
+    "name": "Massanjore Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Massanjore Dam is a dam located on the border of Jharkhand & West Bengal.",
+    "coordinates": {
+      "lat": 24.1068,
+      "lon": 87.3084
+    }
+  },
+  {
+    "id": "nakshatra-van-jharkhand",
+    "name": "Nakshatra Van",
+    "state": "Jharkhand",
+    "category": "other",
+    "description": "Nakshatra Van is a park in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.381,
+      "lon": 85.321
+    }
+  },
+  {
+    "id": "naulakha-temple-deoghar-jharkhand",
+    "name": "Naulakha Temple, Deoghar",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Naulakha Temple, Deoghar is a temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.48306,
+      "lon": 86.7
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pahari-mandir-jharkhand",
+    "name": "Pahari Mandir",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Pahari Mandir is a shiva temple at Ranchi.",
+    "coordinates": {
+      "lat": 23.375,
+      "lon": 85.311
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "palamau-tiger-reserve-jharkhand",
+    "name": "Palamau Tiger Reserve",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Palamau Tiger Reserve is a tiger Reserve in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.70556,
+      "lon": 84.18222
+    },
+    "tags": [
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "palamu-fort-jharkhand",
+    "name": "Palamu fort",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Palamu fort is a two ruined forts in Palamu district, Jhardhand, India.",
+    "coordinates": {
+      "lat": 23.8946,
+      "lon": 84.2328
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "palkot-wildlife-sanctuary-jharkhand",
+    "name": "Palkot Wildlife Sanctuary",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Palkot Wildlife Sanctuary is a wildlife sanctuary in Jharkhand, India.",
+    "coordinates": {
+      "lat": 22.74462,
+      "lon": 84.58636
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "panchet-dam-jharkhand",
+    "name": "Panchet Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Panchet Dam is a dam in West Bengal, India.",
+    "coordinates": {
+      "lat": 23.67806,
+      "lon": 86.74694
+    }
+  },
+  {
+    "id": "panchghagh-falls-jharkhand",
+    "name": "Panchghagh Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Panchghagh Falls is a waterfall.",
+    "coordinates": {
+      "lat": 22.95556,
+      "lon": 85.26287
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "pathrol-kali-temple-madhupur-jharkhand",
+    "name": "Pathrol Kali Temple, Madhupur",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Pathrol Kali Temple, Madhupur is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.24472,
+      "lon": 86.70194
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "perwaghagh-falls-jharkhand",
+    "name": "Perwaghagh Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Perwaghagh Falls is a waterfall in Jharkhand, India.",
+    "coordinates": {
+      "lat": 22.8356,
+      "lon": 85.16465
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "raja-talab-jharkhand",
+    "name": "Raja Talab",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Raja Talab is a man-made lake in Jharia Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.745,
+      "lon": 86.415
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "rajrappa-jharkhand",
+    "name": "Rajrappa",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Rajrappa is a waterfall in India.",
+    "coordinates": {
+      "lat": 23.632,
+      "lon": 85.711
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "ramgarh-chinese-cemetery-jharkhand",
+    "name": "Ramgarh Chinese Cemetery",
+    "state": "Jharkhand",
+    "category": "other",
+    "description": "Ramgarh Chinese Cemetery is a chinese WWII cemetery in Ramgarh, India.",
+    "coordinates": {
+      "lat": 23.60999,
+      "lon": 85.49332
+    }
+  },
+  {
+    "id": "ranchi-lake-jharkhand",
+    "name": "Ranchi Lake",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Ranchi Lake is a freshwater lake in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.367,
+      "lon": 85.317
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "ranchi-science-centre-jharkhand",
+    "name": "Ranchi Science Centre",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Ranchi Science Centre is a science centre in the state of Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.407,
+      "lon": 85.34
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "rani-sati-mandir-mahuda-jharkhand",
+    "name": "Rani Sati Mandir Mahuda",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Rani Sati Mandir Mahuda is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.75059,
+      "lon": 86.26942
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "rankini-temple-jadugora-jharkhand",
+    "name": "Rankini Temple, Jadugora",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Rankini Temple, Jadugora is a temple in Jharkhand.",
+    "coordinates": {
+      "lat": 22.6405,
+      "lon": 86.33653
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sadni-falls-jharkhand",
+    "name": "Sadni Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Sadni Falls is a waterfall.",
+    "coordinates": {
+      "lat": 23.2833,
+      "lon": 84.2333
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "sanskriti-museum-art-gallery-jharkhand",
+    "name": "Sanskriti Museum & Art Gallery",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Sanskriti Museum & Art Gallery is a museum in Hazaribagh, India.",
+    "coordinates": {
+      "lat": 24.009,
+      "lon": 85.378
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "shikharji-jharkhand",
+    "name": "Shikharji",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Shikharji is a jain pilgrimage centre and hill forest in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.9611,
+      "lon": 86.1371
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "sita-falls-jharkhand",
+    "name": "Sita Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Sita Falls is a waterfall in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.34167,
+      "lon": 85.64389
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "sri-sri-kalika-maharani-temple-jharkhand",
+    "name": "Sri Sri Kalika Maharani Temple",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Sri Sri Kalika Maharani Temple is a hindu temple in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.65,
+      "lon": 86.17
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "st-mary-s-cathedral-ranchi-jharkhand",
+    "name": "St. Mary's Cathedral, Ranchi",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "St. Mary's Cathedral, Ranchi is a church in Ranchi, India.",
+    "coordinates": {
+      "lat": 23.3675,
+      "lon": 85.33
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "state-museum-ranchi-jharkhand",
+    "name": "State Museum, Ranchi",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "State Museum, Ranchi is an indian cultural museum in Jharkhand.",
+    "coordinates": {
+      "lat": 23.38354,
+      "lon": 85.38546
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "surajkund-hot-spring-jharkhand",
+    "name": "Surajkund hot spring",
+    "state": "Jharkhand",
+    "category": "other",
+    "description": "Surajkund hot spring is a thermal spring.",
+    "coordinates": {
+      "lat": 24.1495,
+      "lon": 85.6454
+    }
+  },
+  {
+    "id": "surya-temple-ranchi-jharkhand",
+    "name": "Surya Temple, Ranchi",
+    "state": "Jharkhand",
+    "category": "spiritual",
+    "description": "Surya Temple, Ranchi is a surya temple in Ranchi, Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.18167,
+      "lon": 85.56167
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tenughat-dam-jharkhand",
+    "name": "Tenughat Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Tenughat Dam is a dam in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.73,
+      "lon": 85.8319
+    }
+  },
+  {
+    "id": "tilaiya-dam-jharkhand",
+    "name": "Tilaiya Dam",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Tilaiya Dam is a dam in Jharkhand, India.",
+    "coordinates": {
+      "lat": 24.3239,
+      "lon": 85.5211
+    }
+  },
+  {
+    "id": "topchanchi-wildlife-sanctuary-jharkhand",
+    "name": "Topchanchi Wildlife Sanctuary",
+    "state": "Jharkhand",
+    "category": "wildlife",
+    "description": "Topchanchi Wildlife Sanctuary is a protected area in Jharkhand, India.",
+    "coordinates": {
+      "lat": 23.9361,
+      "lon": 86.1923
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "tribal-research-institute-and-museum-jharkhand",
+    "name": "Tribal Research Institute and Museum",
+    "state": "Jharkhand",
+    "category": "heritage",
+    "description": "Tribal Research Institute and Museum is a tribal museum in Ranchi, Jharkhand.",
+    "coordinates": {
+      "lat": 23.394,
+      "lon": 85.333
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "usri-falls-jharkhand",
+    "name": "Usri Falls",
+    "state": "Jharkhand",
+    "category": "nature",
+    "description": "Usri Falls is a waterfall.",
+    "coordinates": {
+      "lat": 24.09639,
+      "lon": 86.37056
+    },
+    "tags": [
+      "waterfall"
+    ]
+  }
+]

@@ -1,0 +1,1371 @@
+[
+  {
+    "id": "aam-khas-bagh-punjab",
+    "name": "Aam Khas Bagh",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Aam Khas Bagh is an inn in Fatehgarh Sahib District, India.",
+    "coordinates": {
+      "lat": 30.63635,
+      "lon": 76.39716
+    }
+  },
+  {
+    "id": "abohar-wildlife-sanctuary-punjab",
+    "name": "Abohar Wildlife Sanctuary",
+    "state": "Punjab",
+    "category": "wildlife",
+    "description": "Abohar Wildlife Sanctuary is a protected area in punjab, india.",
+    "coordinates": {
+      "lat": 30.025,
+      "lon": 74.34444
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "ajnala-india-punjab",
+    "name": "Ajnala, India",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Ajnala, India is a town in Punjab, India.",
+    "coordinates": {
+      "lat": 31.84,
+      "lon": 74.76
+    }
+  },
+  {
+    "id": "akal-takht-punjab",
+    "name": "Akal Takht",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Akal Takht is an one of the 5 Thakts of Sikhism in Amritsar, Punjab, India.",
+    "coordinates": {
+      "lat": 31.62061,
+      "lon": 74.87533
+    }
+  },
+  {
+    "id": "anglo-sikh-war-memorial-punjab",
+    "name": "Anglo-Sikh War Memorial",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Anglo-Sikh War Memorial is a memorial and Museum commemorating Sikh soldiers.",
+    "coordinates": {
+      "lat": 30.86278,
+      "lon": 74.81667
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "anwaar-mosque-punjab",
+    "name": "Anwaar Mosque",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Anwaar Mosque is a mosque in Darul Anwaar, Qadian, India.",
+    "coordinates": {
+      "lat": 31.81487,
+      "lon": 75.38516
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "aqsa-mosque-qadian-punjab",
+    "name": "Aqsa Mosque, Qadian",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Aqsa Mosque, Qadian is an oldest mosque of Qadian, India.",
+    "coordinates": {
+      "lat": 31.81889,
+      "lon": 75.37639
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "attariwagah-border-ceremony-punjab",
+    "name": "Attari–Wagah border ceremony",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Attari–Wagah border ceremony is a daily ceremony involving Indian and Pakistani military.",
+    "coordinates": {
+      "lat": 31.60469,
+      "lon": 74.57292
+    }
+  },
+  {
+    "id": "baba-lal-badshah-punjab",
+    "name": "Baba Lal Badshah",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Baba Lal Badshah is a non-profit organisation.",
+    "coordinates": {
+      "lat": 31.1301,
+      "lon": 75.47339
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "bahadurgarh-fort-punjab",
+    "name": "Bahadurgarh Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Bahadurgarh Fort is a building in India.",
+    "coordinates": {
+      "lat": 30.3638,
+      "lon": 76.4708
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "bajwara-fort-punjab",
+    "name": "Bajwara Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Bajwara Fort is a fort in Bajwara, India.",
+    "coordinates": {
+      "lat": 31.51518,
+      "lon": 75.94937
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "beas-conservation-reserve-punjab",
+    "name": "Beas Conservation Reserve",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Beas Conservation Reserve is a protected natural area in India.",
+    "coordinates": {
+      "lat": 31.38333,
+      "lon": 75.18333
+    }
+  },
+  {
+    "id": "bir-aishvan-wildlife-sanctuary-punjab",
+    "name": "Bir Aishvan Wildlife Sanctuary",
+    "state": "Punjab",
+    "category": "wildlife",
+    "description": "Bir Aishvan Wildlife Sanctuary is a protected area in punjab, india.",
+    "coordinates": {
+      "lat": 30.242,
+      "lon": 75.84
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bir-bunerheri-wildlife-sanctuary-punjab",
+    "name": "Bir Bunerheri Wildlife Sanctuary",
+    "state": "Punjab",
+    "category": "wildlife",
+    "description": "Bir Bunerheri Wildlife Sanctuary is a protected area in punjab, india.",
+    "coordinates": {
+      "lat": 30.19,
+      "lon": 76.46
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "cemetery-h-culture-punjab",
+    "name": "Cemetery H culture",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Cemetery H culture is a culture of the Indus Valley Civilization.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "central-sikh-museum-punjab",
+    "name": "Central Sikh Museum",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Central Sikh Museum is an indian museum that holds rare handwritings of Sikh gurus and pictures of Sikh gurus, warriors, heroes of history, collection of old Sikh coins, old Sikh armaments etc.",
+    "coordinates": {
+      "lat": 31.62063,
+      "lon": 74.87717
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "chhota-ghallughara-memorial-punjab",
+    "name": "Chhota Ghallughara Memorial",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Chhota Ghallughara Memorial is a memorial in Punjab, India.",
+    "coordinates": {
+      "lat": 31.9697,
+      "lon": 75.4761
+    }
+  },
+  {
+    "id": "damsal-dam-punjab",
+    "name": "Damsal Dam",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Damsal Dam is a dam in India.",
+    "coordinates": {
+      "lat": 31.67,
+      "lon": 75.95
+    }
+  },
+  {
+    "id": "dera-baba-murad-shah-punjab",
+    "name": "Dera Baba Murad Shah",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Dera Baba Murad Shah is a sufi shrine in Nakodar, Jalandhar Punjab, India.",
+    "coordinates": {
+      "lat": 31.1301,
+      "lon": 75.47339
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "devi-talab-mandir-punjab",
+    "name": "Devi Talab Mandir",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Devi Talab Mandir is a Hindu Mandir located in Jalandhar, Punjab, India. The temple is devoted to Goddess Durga and is visited by thousands of pilgrims every year. It is regarded as one of the 51 Shakti Pithas in India.",
+    "coordinates": {
+      "lat": 31.34361,
+      "lon": 75.58306
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "durgiana-temple-punjab",
+    "name": "Durgiana Temple",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Durgiana Temple is a hindu temple in Amritsar, Punjab, India.",
+    "coordinates": {
+      "lat": 31.62723,
+      "lon": 74.86741
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "fateh-burj-punjab",
+    "name": "Fateh Burj",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Fateh Burj is a museum in India.",
+    "coordinates": {
+      "lat": 30.7031,
+      "lon": 76.667
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "ferozepur-headworks-punjab",
+    "name": "Ferozepur Headworks",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Ferozepur Headworks is a barrage over the Sutlej river in Punjab, India.",
+    "coordinates": {
+      "lat": 30.99145,
+      "lon": 74.55161
+    }
+  },
+  {
+    "id": "firozpur-fort-punjab",
+    "name": "Firozpur Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Firozpur Fort is a 14th-century fortress in Punjab, India.",
+    "coordinates": {
+      "lat": 30.946,
+      "lon": 74.598
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "first-anglo-sikh-war-memorial-punjab",
+    "name": "First Anglo-Sikh War Memorial",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "First Anglo-Sikh War Memorial is a war memorial.",
+    "coordinates": {
+      "lat": 30.86298,
+      "lon": 74.81664
+    }
+  },
+  {
+    "id": "geeta-mandir-jalandhar-punjab",
+    "name": "Geeta Mandir Jalandhar",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Geeta Mandir Jalandhar is an indian temple.",
+    "coordinates": {
+      "lat": 31.3069,
+      "lon": 75.5804
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gobindgarh-fort-punjab",
+    "name": "Gobindgarh Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Gobindgarh Fort is a fortress with theme park in India.",
+    "coordinates": {
+      "lat": 31.6269,
+      "lon": 74.86
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "goindwal-punjab",
+    "name": "Goindwal",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Goindwal is a town in Tarn Taran district.",
+    "coordinates": {
+      "lat": 31.36667,
+      "lon": 75.15
+    }
+  },
+  {
+    "id": "golden-temple-punjab",
+    "name": "Golden Temple",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Golden Temple is a sikh religious site in Amritsar, Punjab, India.",
+    "coordinates": {
+      "lat": 31.62,
+      "lon": 74.87667
+    },
+    "tags": [
+      "world-heritage",
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "gurdwara-baba-atal-punjab",
+    "name": "Gurdwara Baba Atal",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Baba Atal is a gurdwara in Amritsar, India.",
+    "coordinates": {
+      "lat": 31.61731,
+      "lon": 74.87711
+    }
+  },
+  {
+    "id": "gurdwara-baba-bakala-sahib-punjab",
+    "name": "Gurdwara Baba Bakala Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Baba Bakala Sahib is a building in India.",
+    "coordinates": {
+      "lat": 31.55544,
+      "lon": 75.26406
+    }
+  },
+  {
+    "id": "gurdwara-dukh-nivaran-sahib-punjab",
+    "name": "Gurdwara Dukh Nivaran Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Dukh Nivaran Sahib is a building in Patiala, India.",
+    "coordinates": {
+      "lat": 30.34708,
+      "lon": 76.39608
+    }
+  },
+  {
+    "id": "gurdwara-fatehgarh-sahib-punjab",
+    "name": "Gurdwara Fatehgarh Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Fatehgarh Sahib is a building in India.",
+    "coordinates": {
+      "lat": 30.61738,
+      "lon": 76.38875
+    }
+  },
+  {
+    "id": "gurdwara-guptsar-sahib-punjab",
+    "name": "Gurdwara Guptsar Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Guptsar Sahib is a gurdwara in Punjab, India.",
+    "coordinates": {
+      "lat": 30.3165,
+      "lon": 74.6755
+    }
+  },
+  {
+    "id": "gurdwara-karamsar-rara-sahib-punjab",
+    "name": "Gurdwara Karamsar Rara Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Karamsar Rara Sahib is a sikh temple in Rara Sahib, Pendjab, India.",
+    "coordinates": {
+      "lat": 30.72774,
+      "lon": 75.94749
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gurdwara-likhansar-sahib-punjab",
+    "name": "Gurdwara Likhansar Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Likhansar Sahib is a gurudwara in Talwandi Sabo, Bathinda, India.",
+    "coordinates": {
+      "lat": 29.98766,
+      "lon": 75.07932
+    }
+  },
+  {
+    "id": "gurdwara-mata-sunder-kaur-punjab",
+    "name": "Gurdwara Mata Sunder Kaur",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Mata Sunder Kaur is a gurdwara in Punjab, India."
+  },
+  {
+    "id": "gurdwara-mehdiana-sahib-punjab",
+    "name": "Gurdwara Mehdiana Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Mehdiana Sahib is a sikh Gurudwara in Ludhiana.",
+    "coordinates": {
+      "lat": 30.67403,
+      "lon": 75.42662
+    }
+  },
+  {
+    "id": "gurdwara-naulakha-sahib-punjab",
+    "name": "Gurdwara Naulakha Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Naulakha Sahib is a situated in the village of Naulakha, Fatehgarh Sahib district in Punjab, India.",
+    "coordinates": {
+      "lat": 30.53,
+      "lon": 76.4
+    }
+  },
+  {
+    "id": "gurdwara-patalpuri-sahib-punjab",
+    "name": "Gurdwara Patalpuri Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Patalpuri Sahib is a building in India.",
+    "coordinates": {
+      "lat": 31.17806,
+      "lon": 76.56319
+    }
+  },
+  {
+    "id": "gurdwara-qila-anandgarh-sahib-punjab",
+    "name": "Gurdwara Qila Anandgarh Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Qila Anandgarh Sahib is a sikh gurdwara in Anandpur Sahib, India.",
+    "coordinates": {
+      "lat": 31.2317,
+      "lon": 76.5054
+    }
+  },
+  {
+    "id": "gurdwara-sri-ber-sahib-punjab",
+    "name": "Gurdwara Sri Ber Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Sri Ber Sahib is a sikh tempal.",
+    "coordinates": {
+      "lat": 31.21652,
+      "lon": 75.18502
+    }
+  },
+  {
+    "id": "gurdwara-sri-tarn-taran-sahib-punjab",
+    "name": "Gurdwara Sri Tarn Taran Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurdwara Sri Tarn Taran Sahib is a gurudwara in the city of Tarn Taran Sahib, Punjab, India.",
+    "coordinates": {
+      "lat": 31.45171,
+      "lon": 74.92522
+    }
+  },
+  {
+    "id": "guru-ki-maseet-punjab",
+    "name": "Guru Ki Maseet",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Guru Ki Maseet is a mosque built by Sixth Sikh guru, Guru Hargobind for the Muslim community to provide them place of worship.",
+    "coordinates": {
+      "lat": 31.68744,
+      "lon": 75.47982
+    },
+    "tags": [
+      "world-heritage",
+      "mosque"
+    ]
+  },
+  {
+    "id": "gurudwara-nagiana-sahib-punjab",
+    "name": "Gurudwara Nagiana Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Gurudwara Nagiana Sahib is a building in Uchoke Kalan, about from Amritsar.",
+    "coordinates": {
+      "lat": 31.735,
+      "lon": 75.17861
+    }
+  },
+  {
+    "id": "harike-wetland-punjab",
+    "name": "Harike Wetland",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Harike Wetland is a wetland in Punjab, India.",
+    "coordinates": {
+      "lat": 31.15,
+      "lon": 74.96667
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "heritage-street-amritsar-punjab",
+    "name": "Heritage Street Amritsar",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Heritage Street Amritsar is a street in Amritsar, Punjab, India."
+  },
+  {
+    "id": "hussainiwala-national-martyrs-memorial-punjab",
+    "name": "Hussainiwala National Martyrs Memorial",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Hussainiwala National Martyrs Memorial is a martyrs' memorial in Hussainiwala village of Punjab in memory of Bhagat Singh, Sukhdev and Rajguru.",
+    "coordinates": {
+      "lat": 30.9975,
+      "lon": 74.54694
+    }
+  },
+  {
+    "id": "jahaz-haveli-punjab",
+    "name": "Jahaz Haveli",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Jahaz Haveli is a 17th-century residence of Todar Mal Jain in India."
+  },
+  {
+    "id": "jallianwala-bagh-punjab",
+    "name": "Jallianwala Bagh",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Jallianwala Bagh is a historic site in India.",
+    "coordinates": {
+      "lat": 31.6205,
+      "lon": 74.8806
+    }
+  },
+  {
+    "id": "jamia-mosque-nathowal-punjab",
+    "name": "Jamia Mosque, Nathowal",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Jamia Mosque, Nathowal is a mosque in India.",
+    "coordinates": {
+      "lat": 30.61167,
+      "lon": 75.51167
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "jang-e-azadi-memorial-punjab",
+    "name": "Jang-e-Azadi Memorial",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Jang-e-Azadi Memorial is a memorial and museum.",
+    "coordinates": {
+      "lat": 31.43944,
+      "lon": 75.49778
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "julfa-mata-temple-punjab",
+    "name": "Julfa Mata Temple",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Julfa Mata Temple is a hindu temple in north India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kanjli-wetland-punjab",
+    "name": "Kanjli Wetland",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Kanjli Wetland is a lake in India.",
+    "coordinates": {
+      "lat": 31.42,
+      "lon": 75.37
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "kathlaur-kushlian-wildlife-sanctuary-punjab",
+    "name": "Kathlaur Kushlian Wildlife Sanctuary",
+    "state": "Punjab",
+    "category": "wildlife",
+    "description": "Kathlaur Kushlian Wildlife Sanctuary is a protected area in punjab, india.",
+    "coordinates": {
+      "lat": 32.255,
+      "lon": 75.4425
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "khanda-museum-punjab",
+    "name": "Khanda Museum",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Khanda Museum is a community museum in Fatehgarh Sahib, Punjab, India.",
+    "coordinates": {
+      "lat": 30.65103,
+      "lon": 76.39355
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "khatkar-kalan-punjab",
+    "name": "Khatkar Kalan",
+    "state": "Punjab",
+    "category": "offbeat",
+    "description": "Khatkar Kalan is a village in Punjab, India.",
+    "coordinates": {
+      "lat": 31.1167,
+      "lon": 76.1333
+    }
+  },
+  {
+    "id": "kos-minar-punjab",
+    "name": "Kos Minar",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Kos Minar is a medieval Indian monuments serving as milestones."
+  },
+  {
+    "id": "kotla-nihang-khan-fort-punjab",
+    "name": "Kotla Nihang Khan Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Kotla Nihang Khan Fort is a historic site in Rupnagar Punjab, India.",
+    "coordinates": {
+      "lat": 30.58,
+      "lon": 76.31
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "lodi-fort-punjab",
+    "name": "Lodi Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Lodi Fort is a fort at Ludhiana.",
+    "coordinates": {
+      "lat": 30.9239,
+      "lon": 75.8518
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "madhopur-headworks-punjab",
+    "name": "Madhopur Headworks",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Madhopur Headworks is a dam in India.",
+    "coordinates": {
+      "lat": 32.37552,
+      "lon": 75.60618
+    }
+  },
+  {
+    "id": "maiser-khana-punjab",
+    "name": "Maiser Khana",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Maiser Khana is a hindu temple in Punjab, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manauli-fort-punjab",
+    "name": "Manauli Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Manauli Fort is a derelict fortress located in Punjab, India.",
+    "coordinates": {
+      "lat": 30.3835,
+      "lon": 76.432
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "manji-sahib-punjab",
+    "name": "Manji Sahib",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Manji Sahib is a gurdwara in Alamgir, Punjab, India.",
+    "coordinates": {
+      "lat": 30.8107,
+      "lon": 75.8622
+    }
+  },
+  {
+    "id": "masol-paleontology-punjab",
+    "name": "Masol (paleontology)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Masol (paleontology) is an archaeological site in India.",
+    "coordinates": {
+      "lat": 30.83333,
+      "lon": 76.83333
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "moorish-mosque-kapurthala-punjab",
+    "name": "Moorish Mosque, Kapurthala",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Moorish Mosque, Kapurthala is a mosque in Punjab, India.",
+    "coordinates": {
+      "lat": 31.369,
+      "lon": 75.381
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "moti-bagh-palace-punjab",
+    "name": "Moti Bagh Palace",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Moti Bagh Palace is a royal palace in Punjab, India.",
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "mubarak-mosque-qadian-punjab",
+    "name": "Mubarak Mosque, Qadian",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Mubarak Mosque, Qadian is a mosque in Qadian, India.",
+    "coordinates": {
+      "lat": 31.8183,
+      "lon": 75.37701
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "mughal-serai-doraha-punjab",
+    "name": "Mughal Serai, Doraha",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Mughal Serai, Doraha is a mughal fortress and rest house in Doraha, India.",
+    "coordinates": {
+      "lat": 30.79833,
+      "lon": 76.02167
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "mughal-serai-punjab",
+    "name": "Mughal Serai",
+    "state": "Punjab",
+    "category": "offbeat",
+    "description": "Mughal Serai is a caravanserai situated at village Shambhu on Sher Shah Suri Marg.",
+    "coordinates": {
+      "lat": 30.435,
+      "lon": 76.685
+    }
+  },
+  {
+    "id": "mukteshwar-mahadev-temple-punjab",
+    "name": "Mukteshwar Mahadev Temple",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Mukteshwar Mahadev Temple is a shrine to Lord Shiva in Punjab, India.",
+    "coordinates": {
+      "lat": 32.4251,
+      "lon": 75.733
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nangal-wildlife-sanctuary-punjab",
+    "name": "Nangal Wildlife Sanctuary",
+    "state": "Punjab",
+    "category": "wildlife",
+    "description": "Nangal Wildlife Sanctuary is a protected area in punjab, india.",
+    "coordinates": {
+      "lat": 31.4025,
+      "lon": 76.37
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "netaji-subhas-national-institute-of-sports-punjab",
+    "name": "Netaji Subhas National Institute of Sports",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Netaji Subhas National Institute of Sports is an academic wing of the Sports Authority of India, located in Patiala, India.",
+    "coordinates": {
+      "lat": 30.3081,
+      "lon": 76.3936
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "noor-mosque-qadian-punjab",
+    "name": "Noor Mosque, Qadian",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Noor Mosque, Qadian is a mosque in Qadian, India.",
+    "coordinates": {
+      "lat": 31.82793,
+      "lon": 75.37794
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "pandori-dham-punjab",
+    "name": "Pandori Dham",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Pandori Dham is a ramanandi Hindu temple in Gurdaspur district, Punjab, India.",
+    "coordinates": {
+      "lat": 32.0571,
+      "lon": 75.5023
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "parivar-vichora-punjab",
+    "name": "Parivar Vichora",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Parivar Vichora is a gurdwara in Punjab, India.",
+    "coordinates": {
+      "lat": 31.0599,
+      "lon": 76.59031
+    }
+  },
+  {
+    "id": "partition-museum-punjab",
+    "name": "Partition Museum",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Partition Museum is a museum in Punjab, India.",
+    "coordinates": {
+      "lat": 31.62581,
+      "lon": 74.87869
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "payal-fort-punjab",
+    "name": "Payal Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Payal Fort is a historic monument in Punjabi, India.",
+    "coordinates": {
+      "lat": 30.72333,
+      "lon": 76.05778
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "phillaur-fort-punjab",
+    "name": "Phillaur Fort",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Phillaur Fort is a fort.",
+    "coordinates": {
+      "lat": 31.01181,
+      "lon": 75.78889
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "qila-mubarak-bathinda-punjab",
+    "name": "Qila Mubarak, Bathinda",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Qila Mubarak, Bathinda is a fort in Bathinda.",
+    "coordinates": {
+      "lat": 30.208,
+      "lon": 74.93717
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "qila-mubarak-faridkot-punjab",
+    "name": "Qila Mubarak, Faridkot",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Qila Mubarak, Faridkot is a fort in Faridkot, India.",
+    "coordinates": {
+      "lat": 30.67292,
+      "lon": 74.75377
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "qila-mubarak-patiala-punjab",
+    "name": "Qila Mubarak, Patiala",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Qila Mubarak, Patiala is a royal palace in Punjab, India.",
+    "coordinates": {
+      "lat": 30.32427,
+      "lon": 76.40076
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "ram-bagh-amritsar-punjab",
+    "name": "Ram Bagh, Amritsar",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Ram Bagh, Amritsar is a garden in Amritsar, Punjab, India.",
+    "coordinates": {
+      "lat": 31.63806,
+      "lon": 74.87861
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "ranjit-sagar-dam-punjab",
+    "name": "Ranjit Sagar Dam",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Ranjit Sagar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 32.44278,
+      "lon": 75.73056
+    }
+  },
+  {
+    "id": "rauza-mandhali-sharif-punjab",
+    "name": "Rauza Mandhali Sharif",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Rauza Mandhali Sharif is a sufiyana Darbar shrine in Mandhali village, Punjab, India.",
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "rauza-sharif-punjab",
+    "name": "Rauza Sharif",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Rauza Sharif is an islam building in Punjab, India.",
+    "coordinates": {
+      "lat": 30.65499,
+      "lon": 76.3919
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "ropar-wetland-punjab",
+    "name": "Ropar Wetland",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Ropar Wetland is a lake in India.",
+    "coordinates": {
+      "lat": 31.02,
+      "lon": 76.5
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "rupnagar-punjab",
+    "name": "Rupnagar",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Rupnagar is a city in Rupnagar district, India.",
+    "coordinates": {
+      "lat": 30.96639,
+      "lon": 76.53306
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "sadna-qasai-mosque-punjab",
+    "name": "Sadna Qasai Mosque",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Sadna Qasai Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 30.64667,
+      "lon": 76.38389
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "sang-dhesian-punjab",
+    "name": "Sang Dhesian",
+    "state": "Punjab",
+    "category": "offbeat",
+    "description": "Sang Dhesian is a village in Jalandhar district.",
+    "coordinates": {
+      "lat": 31.1235,
+      "lon": 75.743
+    }
+  },
+  {
+    "id": "sanghol-museum-punjab",
+    "name": "Sanghol Museum",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sanghol Museum is an archaeological museum in Punjab, India.",
+    "coordinates": {
+      "lat": 30.7902,
+      "lon": 76.4012
+    },
+    "tags": [
+      "museum",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "sarai-amanat-khan-punjab",
+    "name": "Sarai Amanat Khan",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Sarai Amanat Khan is a building in India.",
+    "coordinates": {
+      "lat": 31.51083,
+      "lon": 74.69306
+    }
+  },
+  {
+    "id": "serai-lashkari-khan-punjab",
+    "name": "Serai Lashkari Khan",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Serai Lashkari Khan is a caravan Sarai in Punjab, India.",
+    "coordinates": {
+      "lat": 30.755,
+      "lon": 76.09
+    }
+  },
+  {
+    "id": "serai-nurmahal-punjab",
+    "name": "Serai Nurmahal",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Serai Nurmahal is a caravanserai in Nurmahal, Punjab.",
+    "coordinates": {
+      "lat": 31.09283,
+      "lon": 75.59433
+    }
+  },
+  {
+    "id": "shaheedan-da-khu-punjab",
+    "name": "Shaheedan da Khu",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Shaheedan da Khu is a well near Ajnala, India.",
+    "coordinates": {
+      "lat": 31.84,
+      "lon": 74.76
+    }
+  },
+  {
+    "id": "shahpurkandi-dam-project-punjab",
+    "name": "Shahpurkandi dam project",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Shahpurkandi dam project is a planned dam in Pathankot, Punjab, India."
+  },
+  {
+    "id": "shanaleshwara-swayambhu-temple-punjab",
+    "name": "Shanaleshwara Swayambhu Temple",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Shanaleshwara Swayambhu Temple is a temple in India.",
+    "coordinates": {
+      "lat": 30.5378,
+      "lon": 76.5811
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shanan-power-house-punjab",
+    "name": "Shanan Power House",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Shanan Power House is a situated 2 km from Jogindernagar in Himachal Pradesh, India.",
+    "coordinates": {
+      "lat": 31.98936,
+      "lon": 76.80739
+    }
+  },
+  {
+    "id": "shri-kali-devi-temple-patiala-punjab",
+    "name": "Shri Kali Devi Temple, Patiala",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Shri Kali Devi Temple, Patiala is a temple in Punjab, India.",
+    "coordinates": {
+      "lat": 30.33616,
+      "lon": 76.39418
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-khuralgarh-sahib-punjab",
+    "name": "Shri Khuralgarh Sahib",
+    "state": "Punjab",
+    "category": "other",
+    "description": "Shri Khuralgarh Sahib is a historical site at Kharali, Punjab.",
+    "coordinates": {
+      "lat": 31.26835,
+      "lon": 76.30059
+    }
+  },
+  {
+    "id": "sikh-ajaibghar-balongi-punjab",
+    "name": "Sikh Ajaibghar, Balongi",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Sikh Ajaibghar, Balongi is a museum in Punjab, India.",
+    "coordinates": {
+      "lat": 30.67343,
+      "lon": 74.89038
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "st-mary-s-cathedral-jalandhar-punjab",
+    "name": "St. Mary's Cathedral, Jalandhar",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "St. Mary's Cathedral, Jalandhar is a building in India.",
+    "coordinates": {
+      "lat": 31.2879,
+      "lon": 75.62
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "suraj-kund-sunam-punjab",
+    "name": "Suraj Kund Sunam",
+    "state": "Punjab",
+    "category": "spiritual",
+    "description": "Suraj Kund Sunam is a sun temple in the Sangrur District Punjab, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "takht-kesgarh-sahib-punjab",
+    "name": "Takht Kesgarh Sahib",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Takht Kesgarh Sahib is a sikh religious site in Amritsar, Punjab, India.",
+    "coordinates": {
+      "lat": 31.235,
+      "lon": 76.49889
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "takht-sri-damdama-sahib-punjab",
+    "name": "Takht Sri Damdama Sahib",
+    "state": "Punjab",
+    "category": "nature",
+    "description": "Takht Sri Damdama Sahib is an one of the 5 Thakts of Sikhism in Talwandi Sabo, Punjab, India.",
+    "coordinates": {
+      "lat": 29.98694,
+      "lon": 75.07856
+    }
+  },
+  {
+    "id": "tomb-of-ibrahim-lodi-punjab",
+    "name": "Tomb of Ibrahim Lodi",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tomb of Ibrahim Lodi is a tomb in Haryana, India.",
+    "coordinates": {
+      "lat": 29.40158,
+      "lon": 76.97295
+    }
+  },
+  {
+    "id": "tomb-of-shamsher-khan-batala-punjab",
+    "name": "Tomb of Shamsher Khan (Batala)",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tomb of Shamsher Khan (Batala) is a historic site in Batala, Punjab.",
+    "coordinates": {
+      "lat": 31.812,
+      "lon": 75.21317
+    }
+  },
+  {
+    "id": "tombs-of-ustad-shagird-nakodar-punjab",
+    "name": "Tombs of Ustad-Shagird, Nakodar",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tombs of Ustad-Shagird, Nakodar is a two Mughal-era tombs in Punjab, India.",
+    "coordinates": {
+      "lat": 31.1283,
+      "lon": 75.4747
+    }
+  },
+  {
+    "id": "tombs-of-ustad-shagird-sirhind-punjab",
+    "name": "Tombs of Ustad-Shagird, Sirhind",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Tombs of Ustad-Shagird, Sirhind is a monument in Fatehgarh Sahib district."
+  },
+  {
+    "id": "virasat-e-khalsa-punjab",
+    "name": "Virasat-e-Khalsa",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "Virasat-e-Khalsa is a museum located in Anandpur Sahib.",
+    "coordinates": {
+      "lat": 31.2329,
+      "lon": 76.5075
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "white-minaret-punjab",
+    "name": "White Minaret",
+    "state": "Punjab",
+    "category": "heritage",
+    "description": "White Minaret is a historic site in Punjab, India.",
+    "coordinates": {
+      "lat": 31.81778,
+      "lon": 75.39194
+    },
+    "tags": [
+      "mosque"
+    ]
+  }
+]

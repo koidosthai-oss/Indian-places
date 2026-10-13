@@ -1,0 +1,569 @@
+[
+  {
+    "id": "aves-island-andaman-islands-andaman-and-nicobar-islands",
+    "name": "Aves Island (Andaman Islands)",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Aves Island (Andaman Islands) is a jarawas Tribe.",
+    "coordinates": {
+      "lat": 12.915,
+      "lon": 92.935
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "baratang-island-andaman-and-nicobar-islands",
+    "name": "Baratang Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Baratang Island is an island of Indian Territory.",
+    "coordinates": {
+      "lat": 12.11667,
+      "lon": 92.78333
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "barren-island-andaman-islands-andaman-and-nicobar-islands",
+    "name": "Barren Island (Andaman Islands)",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Barren Island (Andaman Islands) is an active volcano and island in the Andaman Sea.",
+    "coordinates": {
+      "lat": 12.27778,
+      "lon": 93.85833
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "bluff-island-andaman-islands-andaman-and-nicobar-islands",
+    "name": "Bluff Island (Andaman Islands)",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Bluff Island (Andaman Islands) is an island in India.",
+    "coordinates": {
+      "lat": 12.24738,
+      "lon": 92.69798
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "button-islands-andaman-islands-andaman-and-nicobar-islands",
+    "name": "Button Islands (Andaman Islands)",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Button Islands (Andaman Islands) is a group of islands in the Andaman Islands.",
+    "coordinates": {
+      "lat": 12.2759,
+      "lon": 93.025
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "campbell-bay-national-park-andaman-and-nicobar-islands",
+    "name": "Campbell Bay National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Campbell Bay National Park is an on Great Nicobar, India.",
+    "coordinates": {
+      "lat": 7.11278,
+      "lon": 93.76194
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "cellular-jail-andaman-and-nicobar-islands",
+    "name": "Cellular Jail",
+    "state": "Andaman and Nicobar Islands",
+    "category": "heritage",
+    "description": "Cellular Jail is a colonial prison in India.",
+    "coordinates": {
+      "lat": 11.675,
+      "lon": 92.748
+    },
+    "tags": [
+      "world-heritage",
+      "museum",
+      "island"
+    ]
+  },
+  {
+    "id": "curlew-island-andaman-islands-andaman-and-nicobar-islands",
+    "name": "Curlew Island (Andaman Islands)",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Curlew Island (Andaman Islands) is an island in India.",
+    "coordinates": {
+      "lat": 13.003,
+      "lon": 92.912
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "cuthbert-bay-wildlife-sanctuary-andaman-and-nicobar-islands",
+    "name": "Cuthbert Bay Wildlife Sanctuary",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Cuthbert Bay Wildlife Sanctuary is a wildlife sanctuary in Andaman and Nicobar Islands.",
+    "coordinates": {
+      "lat": 12.70917,
+      "lon": 92.96833
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "island"
+    ]
+  },
+  {
+    "id": "defence-island-wildlife-sanctuary-andaman-and-nicobar-islands",
+    "name": "Defence Island Wildlife Sanctuary",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Defence Island Wildlife Sanctuary is a wildlife sanctuary in the Andaman Islands.",
+    "coordinates": {
+      "lat": 11.95,
+      "lon": 92.6
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "island"
+    ]
+  },
+  {
+    "id": "flat-island-wildlife-sanctuary-andaman-and-nicobar-islands",
+    "name": "Flat Island Wildlife Sanctuary",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Flat Island Wildlife Sanctuary is an in the Andaman Islands.",
+    "coordinates": {
+      "lat": 12.535,
+      "lon": 92.675
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "island"
+    ]
+  },
+  {
+    "id": "galathea-national-park-andaman-and-nicobar-islands",
+    "name": "Galathea National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Galathea National Park is an indian national park.",
+    "coordinates": {
+      "lat": 6.923,
+      "lon": 93.833
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "havelock-island-andaman-and-nicobar-islands",
+    "name": "Havelock Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Havelock Island is an island.",
+    "coordinates": {
+      "lat": 11.96667,
+      "lon": 93.0
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "interview-group-andaman-and-nicobar-islands",
+    "name": "Interview Group",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Interview Group is a group of islands in the Indian Ocean.",
+    "coordinates": {
+      "lat": 12.88,
+      "lon": 92.7
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "interview-island-andaman-and-nicobar-islands",
+    "name": "Interview Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Interview Island is an island of the Andaman Islands.",
+    "coordinates": {
+      "lat": 12.8877,
+      "lon": 92.6856
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "jama-mosque-delanipur-andaman-and-nicobar-islands",
+    "name": "Jama Mosque, Delanipur",
+    "state": "Andaman and Nicobar Islands",
+    "category": "spiritual",
+    "description": "Jama Mosque, Delanipur is a mosque in India.",
+    "coordinates": {
+      "lat": 11.67,
+      "lon": 92.76
+    },
+    "tags": [
+      "mosque",
+      "island"
+    ]
+  },
+  {
+    "id": "mahatma-gandhi-marine-national-park-andaman-and-nicobar-islands",
+    "name": "Mahatma Gandhi Marine National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Mahatma Gandhi Marine National Park is a national park of India.",
+    "coordinates": {
+      "lat": 11.57056,
+      "lon": 92.65694
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "middle-button-island-national-park-andaman-and-nicobar-islands",
+    "name": "Middle Button Island National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Middle Button Island National Park is an indian National Park.",
+    "coordinates": {
+      "lat": 12.27556,
+      "lon": 93.02611
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "mount-harriet-national-park-andaman-and-nicobar-islands",
+    "name": "Mount Harriet National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Mount Harriet National Park is an indian national park.",
+    "coordinates": {
+      "lat": 11.8074,
+      "lon": 92.7571
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "mount-manipur-memorial-andaman-and-nicobar-islands",
+    "name": "Mount Manipur Memorial",
+    "state": "Andaman and Nicobar Islands",
+    "category": "heritage",
+    "description": "Mount Manipur Memorial is a memorial site in the Andaman and Nicobar Islands, India.",
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "narcondam-island-andaman-and-nicobar-islands",
+    "name": "Narcondam Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Narcondam Island is an island in India.",
+    "coordinates": {
+      "lat": 13.4472,
+      "lon": 94.2632
+    },
+    "tags": [
+      "world-heritage",
+      "island"
+    ]
+  },
+  {
+    "id": "north-button-island-national-park-andaman-and-nicobar-islands",
+    "name": "North Button Island National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "North Button Island National Park is a national park in the Andaman and Nicobar Islands.",
+    "coordinates": {
+      "lat": 12.31722,
+      "lon": 93.06806
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "north-cinque-island-andaman-and-nicobar-islands",
+    "name": "North Cinque Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "North Cinque Island is an island in India.",
+    "coordinates": {
+      "lat": 11.31371,
+      "lon": 92.7109
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "port-blair-andaman-and-nicobar-islands",
+    "name": "Port Blair",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Port Blair is a capital city of the Andaman and Nicobar Islands, India.",
+    "coordinates": {
+      "lat": 11.66667,
+      "lon": 92.75
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "port-cornwallis-andaman-and-nicobar-islands",
+    "name": "Port Cornwallis",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Port Cornwallis is a port on Ross Island, Andaman Islands.",
+    "coordinates": {
+      "lat": 13.28333,
+      "lon": 93.08333
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "rani-jhansi-marine-national-park-andaman-and-nicobar-islands",
+    "name": "Rani Jhansi Marine National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Rani Jhansi Marine National Park is a national park.",
+    "coordinates": {
+      "lat": 11.78333,
+      "lon": 92.66667
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "ross-island-south-andaman-district-andaman-and-nicobar-islands",
+    "name": "Ross Island, South Andaman district",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Ross Island, South Andaman district is an island in South Andaman Islands, India.",
+    "coordinates": {
+      "lat": 11.6755,
+      "lon": 92.7626
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "saddle-peak-national-park-andaman-and-nicobar-islands",
+    "name": "Saddle Peak National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "Saddle Peak National Park is a national park.",
+    "coordinates": {
+      "lat": 13.15861,
+      "lon": 93.00556
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "samudrika-naval-marine-museum-andaman-and-nicobar-islands",
+    "name": "Samudrika Naval Marine Museum",
+    "state": "Andaman and Nicobar Islands",
+    "category": "heritage",
+    "description": "Samudrika Naval Marine Museum is a military museum in Andaman and Nicobar Islands, India.",
+    "coordinates": {
+      "lat": 11.672,
+      "lon": 92.726
+    },
+    "tags": [
+      "museum",
+      "island"
+    ]
+  },
+  {
+    "id": "south-andaman-island-andaman-and-nicobar-islands",
+    "name": "South Andaman Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "South Andaman Island is an island in the Indian Ocean.",
+    "coordinates": {
+      "lat": 11.78333,
+      "lon": 92.65
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "south-button-island-national-park-andaman-and-nicobar-islands",
+    "name": "South Button Island National Park",
+    "state": "Andaman and Nicobar Islands",
+    "category": "wildlife",
+    "description": "South Button Island National Park is a national park.",
+    "coordinates": {
+      "lat": 12.22389,
+      "lon": 93.02028
+    },
+    "tags": [
+      "national-park",
+      "island"
+    ]
+  },
+  {
+    "id": "south-cinque-island-andaman-and-nicobar-islands",
+    "name": "South Cinque Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "South Cinque Island is an island in India.",
+    "coordinates": {
+      "lat": 11.26864,
+      "lon": 92.7003
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "south-sentinel-island-andaman-and-nicobar-islands",
+    "name": "South Sentinel Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "South Sentinel Island is an one of the Andaman Islands.",
+    "coordinates": {
+      "lat": 10.97778,
+      "lon": 92.22167
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "spike-island-andaman-islands-andaman-and-nicobar-islands",
+    "name": "Spike Island (Andaman Islands)",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Spike Island (Andaman Islands) is an island in India.",
+    "coordinates": {
+      "lat": 12.28333,
+      "lon": 92.71667
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "sri-vetrimalai-murugan-temple-andaman-and-nicobar-islands",
+    "name": "Sri Vetrimalai Murugan Temple",
+    "state": "Andaman and Nicobar Islands",
+    "category": "spiritual",
+    "description": "Sri Vetrimalai Murugan Temple is a hindu temple in Andaman and Nicobar Islands, India.",
+    "coordinates": {
+      "lat": 11.6631,
+      "lon": 92.7464
+    },
+    "tags": [
+      "temple",
+      "island"
+    ]
+  },
+  {
+    "id": "strait-island-andaman-and-nicobar-islands",
+    "name": "Strait Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Strait Island is an island in India.",
+    "coordinates": {
+      "lat": 12.21667,
+      "lon": 92.95
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "talakaicha-island-andaman-and-nicobar-islands",
+    "name": "Talakaicha Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Talakaicha Island is an island in the Andaman Islands.",
+    "coordinates": {
+      "lat": 12.265,
+      "lon": 92.74
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "tourism-in-the-andaman-and-nicobar-islands-andaman-and-nicobar-islands",
+    "name": "Tourism in the Andaman and Nicobar Islands",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Tourism in the Andaman and Nicobar Islands is a major attractions on the islands of pearls.",
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "viper-island-andaman-and-nicobar-islands",
+    "name": "Viper Island",
+    "state": "Andaman and Nicobar Islands",
+    "category": "nature",
+    "description": "Viper Island is an island.",
+    "coordinates": {
+      "lat": 11.66667,
+      "lon": 92.7
+    },
+    "tags": [
+      "island"
+    ]
+  },
+  {
+    "id": "wandoor-andaman-and-nicobar-islands-andaman-and-nicobar-islands",
+    "name": "Wandoor (Andaman and Nicobar Islands)",
+    "state": "Andaman and Nicobar Islands",
+    "category": "beach",
+    "description": "Wandoor (Andaman and Nicobar Islands) is a beach in South Andaman Island, India.",
+    "tags": [
+      "beach",
+      "island"
+    ]
+  }
+]

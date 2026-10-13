@@ -1,0 +1,531 @@
+[
+  {
+    "id": "churachandpur-khoupum-protected-forest-manipur",
+    "name": "Churachandpur-Khoupum Protected Forest",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Churachandpur-Khoupum Protected Forest is a protected forest in Manipur, India.",
+    "coordinates": {
+      "lat": 24.4682,
+      "lon": 93.6624
+    }
+  },
+  {
+    "id": "heingang-ching-manipur",
+    "name": "Heingang Ching",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Heingang Ching is a sacred hill in Imphal.",
+    "coordinates": {
+      "lat": 24.879,
+      "lon": 93.954
+    }
+  },
+  {
+    "id": "hijagang-manipur",
+    "name": "Hijagang",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Hijagang is a boatyard of the Kangla Fort in Imphal.",
+    "tags": [
+      "fort",
+      "museum"
+    ]
+  },
+  {
+    "id": "hiyangthang-lairembi-temple-manipur",
+    "name": "Hiyangthang Lairembi Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Hiyangthang Lairembi Temple is a meitei temple in Hiyangthang, Manipur.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ikop-pat-manipur",
+    "name": "Ikop Pat",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Ikop Pat is a lake in India.",
+    "coordinates": {
+      "lat": 24.59321,
+      "lon": 93.94209
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "ima-market-manipur",
+    "name": "Ima Market",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Ima Market is a neighbourhood in Imphal West, Manipur, India.",
+    "coordinates": {
+      "lat": 24.808,
+      "lon": 93.935
+    }
+  },
+  {
+    "id": "imphal-peace-museum-manipur",
+    "name": "Imphal Peace Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Imphal Peace Museum is a wWII museum in Manipur.",
+    "coordinates": {
+      "lat": 24.70518,
+      "lon": 93.81744
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "ina-war-museum-manipur",
+    "name": "INA War Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "INA War Museum is a war museum in Manipur.",
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "kangla-fort-manipur",
+    "name": "Kangla Fort",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Kangla Fort is a foremost fortified capital city of Kangleipak (Manipur).",
+    "coordinates": {
+      "lat": 24.808,
+      "lon": 93.94
+    },
+    "tags": [
+      "fort",
+      "palace",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "kangla-nongpok-thong-manipur",
+    "name": "Kangla Nongpok Thong",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Kangla Nongpok Thong is an eastern Gate of the Kangla Fort.",
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "kangla-nongpok-torban-manipur",
+    "name": "Kangla Nongpok Torban",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Kangla Nongpok Torban is an indian recreation area."
+  },
+  {
+    "id": "keibul-lamjao-national-park-manipur",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "Keibul Lamjao National Park is a national park in India.",
+    "coordinates": {
+      "lat": 24.4856,
+      "lon": 93.8402
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "khongjom-war-memorial-complex-manipur",
+    "name": "Khongjom War Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Khongjom War Memorial Complex is a war memorial in Manipur."
+  },
+  {
+    "id": "khuga-dam-manipur",
+    "name": "Khuga Dam",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Khuga Dam is a dam in India.",
+    "coordinates": {
+      "lat": 24.3,
+      "lon": 93.15
+    }
+  },
+  {
+    "id": "lainingthou-sanamahi-kiyong-manipur",
+    "name": "Lainingthou Sanamahi Kiyong",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Lainingthou Sanamahi Kiyong is a laikon of Sanamahism religion.",
+    "coordinates": {
+      "lat": 24.80504,
+      "lon": 94.03543
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "loktak-folklore-museum-manipur",
+    "name": "Loktak Folklore Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Loktak Folklore Museum is a folklore museum in Manipur.",
+    "coordinates": {
+      "lat": 24.51767,
+      "lon": 93.81374
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "loktak-lake-manipur",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Loktak Lake is a lake in India.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.78333
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "lui-ngai-ni-manipur",
+    "name": "Lui Ngai Ni",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Lui Ngai Ni is a seed-sowing festiva in Manipur India."
+  },
+  {
+    "id": "manipur-state-museum-manipur",
+    "name": "Manipur State Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Manipur State Museum is a museum in Manipur.",
+    "coordinates": {
+      "lat": 24.80485,
+      "lon": 93.93709
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "manung-kangjeibung-manipur",
+    "name": "Manung Kangjeibung",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Manung Kangjeibung is a polo Ground located inside the Kangla fort in Imphal.",
+    "coordinates": {
+      "lat": 24.8061,
+      "lon": 93.9427
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "mapithel-dam-manipur",
+    "name": "Mapithel Dam",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Mapithel Dam is a dam in Thoubal river.",
+    "coordinates": {
+      "lat": 24.8238,
+      "lon": 94.1421
+    }
+  },
+  {
+    "id": "marjing-polo-complex-manipur",
+    "name": "Marjing Polo Complex",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Marjing Polo Complex is a polo Complex in Imphal."
+  },
+  {
+    "id": "marjing-polo-statue-manipur",
+    "name": "Marjing Polo Statue",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Marjing Polo Statue is a world's tallest polo player statue.",
+    "coordinates": {
+      "lat": 24.87937,
+      "lon": 93.95405
+    }
+  },
+  {
+    "id": "menjor-multipurpose-research-centre-and-unity-park-manipur",
+    "name": "Menjor Multipurpose Research Centre and Unity Park",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Menjor Multipurpose Research Centre and Unity Park is a research centre and unity park in Manipur, India.",
+    "coordinates": {
+      "lat": 24.61895,
+      "lon": 94.01788
+    },
+    "tags": [
+      "temple",
+      "church",
+      "museum"
+    ]
+  },
+  {
+    "id": "nongmaiching-hill-manipur",
+    "name": "Nongmaiching Hill",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Nongmaiching Hill is a sacred mountain in Imphal Valley.",
+    "coordinates": {
+      "lat": 24.804,
+      "lon": 94.035
+    }
+  },
+  {
+    "id": "nongmaiching-reserved-forest-manipur",
+    "name": "Nongmaiching Reserved Forest",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Nongmaiching Reserved Forest is a reserved forest in Imphal East."
+  },
+  {
+    "id": "pakhangba-temple-kangla-manipur",
+    "name": "Pakhangba Temple, Kangla",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Pakhangba Temple, Kangla is a lord Pakhangba shrine inside the Kangla fort in Imphal.",
+    "coordinates": {
+      "lat": 24.808,
+      "lon": 93.941
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ]
+  },
+  {
+    "id": "phungyo-baptist-church-manipur",
+    "name": "Phungyo Baptist Church",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Phungyo Baptist Church is a church in Manipur, India.",
+    "coordinates": {
+      "lat": 25.111,
+      "lon": 94.36
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "pumlenpat-manipur",
+    "name": "Pumlenpat",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Pumlenpat is a body of water.",
+    "coordinates": {
+      "lat": 24.42,
+      "lon": 93.87
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sacred-jackfruit-tree-manipur",
+    "name": "Sacred Jackfruit Tree",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Sacred Jackfruit Tree is a hindu temple in Manipur, India.",
+    "coordinates": {
+      "lat": 24.6476,
+      "lon": 94.07
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "samban-lei-sekpil-manipur",
+    "name": "Samban-Lei Sekpil",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Samban-Lei Sekpil is a tourism place in Manipur, India."
+  },
+  {
+    "id": "sana-konung-manipur",
+    "name": "Sana Konung",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sana Konung is a palace in India.",
+    "coordinates": {
+      "lat": 24.79699,
+      "lon": 93.94749
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "sanamahi-temple-manipur",
+    "name": "Sanamahi Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Sanamahi Temple is a Meitei temple.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sanggai-yumpham-manipur",
+    "name": "Sanggai Yumpham",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sanggai Yumpham is an ancient royal palace inside the citadel of the Kangla fort in Imphal.",
+    "tags": [
+      "fort",
+      "palace",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "sekta-archaeological-living-museum-manipur",
+    "name": "Sekta Archaeological Living Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sekta Archaeological Living Museum is an archaeological open air living museum in Sekta.",
+    "coordinates": {
+      "lat": 24.8956,
+      "lon": 94.03806
+    },
+    "tags": [
+      "museum",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "shirui-national-park-manipur",
+    "name": "Shirui National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "Shirui National Park is a national park in Manipur, India.",
+    "coordinates": {
+      "lat": 24.23083,
+      "lon": 94.23083
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "shree-govindajee-temple-manipur",
+    "name": "Shree Govindajee Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Shree Govindajee Temple is a radha Krishna temple in Imphal.",
+    "coordinates": {
+      "lat": 24.7978,
+      "lon": 93.9485
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "st-joseph-s-cathedral-imphal-manipur",
+    "name": "St. Joseph's Cathedral, Imphal",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "St. Joseph's Cathedral, Imphal is a church in Imphal, India.",
+    "coordinates": {
+      "lat": 24.85083,
+      "lon": 93.9325
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "statue-of-meidingu-nara-singh-manipur",
+    "name": "Statue of Meidingu Nara Singh",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Statue of Meidingu Nara Singh in front of the Western entrance to the Kangla fort in Imphal.",
+    "coordinates": {
+      "lat": 24.8075,
+      "lon": 93.9387
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "stonehenge-of-manipur-manipur",
+    "name": "Stonehenge of Manipur",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Stonehenge of Manipur is an indian geographical structure.",
+    "coordinates": {
+      "lat": 25.4701,
+      "lon": 93.9731
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "thangjing-temple-moirang-manipur",
+    "name": "Thangjing Temple, Moirang",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Thangjing Temple, Moirang is a kanglei temple in Manipur.",
+    "coordinates": {
+      "lat": 24.4975,
+      "lon": 93.7791
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "tiddim-road-manipur",
+    "name": "Tiddim Road",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Tiddim Road is a historical military road in India."
+  },
+  {
+    "id": "tipaimukh-dam-manipur",
+    "name": "Tipaimukh Dam",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Tipaimukh Dam is a dam in Sipuikawn/Tipaimukh.",
+    "coordinates": {
+      "lat": 24.23639,
+      "lon": 93.01528
+    }
+  },
+  {
+    "id": "yangoupokpi-lokchao-wildlife-sanctuary-manipur",
+    "name": "Yangoupokpi-Lokchao Wildlife Sanctuary",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "Yangoupokpi-Lokchao Wildlife Sanctuary is a wildlife sanctuary in Manipur.",
+    "coordinates": {
+      "lat": 24.32,
+      "lon": 94.23
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  }
+]

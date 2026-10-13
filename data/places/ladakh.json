@@ -1,0 +1,751 @@
+[
+  {
+    "id": "alchi-monastery-ladakh",
+    "name": "Alchi Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Alchi Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.22361,
+      "lon": 77.17528
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "all-ladakh-gonpa-association-ladakh",
+    "name": "All Ladakh Gonpa Association",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "All Ladakh Gonpa Association is an organization."
+  },
+  {
+    "id": "bardan-monastery-ladakh",
+    "name": "Bardan Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Bardan Monastery is a buddhist monastery in Zanskar, India.",
+    "coordinates": {
+      "lat": 33.39,
+      "lon": 76.91
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "basgo-monastery-ladakh",
+    "name": "Basgo Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Basgo Monastery is a buddhist monastery in Ladakh.",
+    "coordinates": {
+      "lat": 34.22,
+      "lon": 77.28
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "changthang-wildlife-sanctuary-ladakh",
+    "name": "Changthang Wildlife Sanctuary",
+    "state": "Ladakh",
+    "category": "wildlife",
+    "description": "Changthang Wildlife Sanctuary is a protected area in Ladakh.",
+    "coordinates": {
+      "lat": 33.43355,
+      "lon": 78.47771
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "chemrey-monastery-ladakh",
+    "name": "Chemrey Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Chemrey Monastery is a buddhist monastery in India.",
+    "coordinates": {
+      "lat": 33.96667,
+      "lon": 77.8
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "diskit-monastery-ladakh",
+    "name": "Diskit Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Diskit Monastery is a building in India.",
+    "coordinates": {
+      "lat": 34.54111,
+      "lon": 77.56028
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "drigung-kagyud-zhadpa-dorjeeling-nunnery-ladakh",
+    "name": "Drigung Kagyud Zhadpa Dorjeeling Nunnery",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "Drigung Kagyud Zhadpa Dorjeeling Nunnery is a buddhist nunnery in Bhodkharbu, Ladakh, India.",
+    "coordinates": {
+      "lat": 34.33857,
+      "lon": 76.57185
+    }
+  },
+  {
+    "id": "dzongkhul-monastery-ladakh",
+    "name": "Dzongkhul Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Dzongkhul Monastery is a tibetan Buddhist monastery, Zanskar, India.",
+    "coordinates": {
+      "lat": 33.55,
+      "lon": 76.66
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "gurdwara-patthar-sahib-ladakh",
+    "name": "Gurdwara Patthar Sahib",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Gurdwara Patthar Sahib is a gurudwaras in Ladakh, India."
+  },
+  {
+    "id": "hanle-monastery-ladakh",
+    "name": "Hanle Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Hanle Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 32.79028,
+      "lon": 79.00056
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "hemis-monastery-ladakh",
+    "name": "Hemis Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Hemis Monastery is a buddhist monastery in Ladakh.",
+    "coordinates": {
+      "lat": 33.91248,
+      "lon": 77.70283
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "hemis-national-park-ladakh",
+    "name": "Hemis National Park",
+    "state": "Ladakh",
+    "category": "wildlife",
+    "description": "Hemis National Park is a national park in India.",
+    "coordinates": {
+      "lat": 33.98333,
+      "lon": 77.43333
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "hongshan-lake-ladakh",
+    "name": "Hongshan Lake",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Hongshan Lake is a lake in disputed area of Aksai Chin in Tibet, China.",
+    "coordinates": {
+      "lat": 34.833,
+      "lon": 80.054
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "hundur-monastery-ladakh",
+    "name": "Hundur Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Hundur Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.54111,
+      "lon": 77.56028
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "karakoram-wildlife-sanctuary-ladakh",
+    "name": "Karakoram Wildlife Sanctuary",
+    "state": "Ladakh",
+    "category": "wildlife",
+    "description": "Karakoram Wildlife Sanctuary is a wildlife sanctuary.",
+    "coordinates": {
+      "lat": 34.71667,
+      "lon": 77.43333
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kargil-ladakh",
+    "name": "Kargil",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "Kargil is a city in the Indian union territory of Ladakh.",
+    "coordinates": {
+      "lat": 34.5594,
+      "lon": 76.1256
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "karsha-ladakh-ladakh",
+    "name": "Karsha, Ladakh",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "Karsha, Ladakh is a karsha in Ladakh in India.",
+    "coordinates": {
+      "lat": 33.5358,
+      "lon": 76.8286
+    }
+  },
+  {
+    "id": "karsha-monastery-ladakh",
+    "name": "Karsha Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Karsha Monastery is a buddhist temple in northern India.",
+    "coordinates": {
+      "lat": 33.53306,
+      "lon": 76.905
+    },
+    "tags": [
+      "temple",
+      "monastery"
+    ]
+  },
+  {
+    "id": "korzok-monastery-ladakh",
+    "name": "Korzok Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Korzok Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 32.96576,
+      "lon": 78.25337
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "kung-fu-nuns-ladakh",
+    "name": "Kung Fu Nuns",
+    "state": "Ladakh",
+    "category": "other",
+    "description": "Kung Fu Nuns is an order of Buddhist nuns who belong to the Drukpa Lineage."
+  },
+  {
+    "id": "kyago-tso-ladakh",
+    "name": "Kyago Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Kyago Tso is a lake in Ladakh, India.",
+    "coordinates": {
+      "lat": 33.10694,
+      "lon": 78.30417
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "lamayuru-monastery-ladakh",
+    "name": "Lamayuru Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Lamayuru Monastery is a buddhist monastery of Ladakh, India.",
+    "coordinates": {
+      "lat": 34.28278,
+      "lon": 76.77444
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "leh-palace-ladakh",
+    "name": "Leh Palace",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Leh Palace is a building in India.",
+    "coordinates": {
+      "lat": 34.16628,
+      "lon": 77.58639
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "likir-monastery-ladakh",
+    "name": "Likir Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Likir Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.18,
+      "lon": 77.15
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "lingshed-monastery-ladakh",
+    "name": "Lingshed Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Lingshed Monastery is a buddhist monastery at Leh.",
+    "coordinates": {
+      "lat": 33.90751,
+      "lon": 76.82926
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "mangyu-temple-complex-ladakh",
+    "name": "Mangyu temple complex",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Mangyu temple complex is a building in India.",
+    "coordinates": {
+      "lat": 34.23333,
+      "lon": 77.05417
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "matho-monastery-ladakh",
+    "name": "Matho Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Matho Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 33.99889,
+      "lon": 77.63083
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "mulbekh-monastery-ladakh",
+    "name": "Mulbekh Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Mulbekh Monastery is a building in India.",
+    "coordinates": {
+      "lat": 34.3833,
+      "lon": 76.3833
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "munshi-aziz-bhat-museum-of-central-asian-and-kargil-trade-artefacts-ladakh",
+    "name": "Munshi Aziz Bhat Museum of Central Asian and Kargil Trade Artefacts",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Munshi Aziz Bhat Museum of Central Asian and Kargil Trade Artefacts is a public Museum in Kargil.",
+    "coordinates": {
+      "lat": 34.562,
+      "lon": 76.123
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "namgyal-tsemo-monastery-ladakh",
+    "name": "Namgyal Tsemo Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Namgyal Tsemo Monastery is a building in India.",
+    "coordinates": {
+      "lat": 34.16742,
+      "lon": 77.59032
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "pangong-tso-ladakh",
+    "name": "Pangong Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Pangong Tso is a soda lake in the Himalayas.",
+    "coordinates": {
+      "lat": 33.70472,
+      "lon": 78.75
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "phugtal-monastery-ladakh",
+    "name": "Phugtal Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Phugtal Monastery is a buddhist Monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 33.26836,
+      "lon": 77.17954
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "phyang-monastery-ladakh",
+    "name": "Phyang Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Phyang Monastery is a monastery in the Leh district of Jammu and Kashmir, India.",
+    "coordinates": {
+      "lat": 34.18639,
+      "lon": 77.48944
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "rangdum-monastery-ladakh",
+    "name": "Rangdum Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Rangdum Monastery is a buddhist monastery in west Himalaya, India.",
+    "coordinates": {
+      "lat": 34.03639,
+      "lon": 76.37306
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "rizong-monastery-ladakh",
+    "name": "Rizong Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Rizong Monastery is a building in India.",
+    "coordinates": {
+      "lat": 34.26917,
+      "lon": 77.10722
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "ryul-tso-ladakh",
+    "name": "Ryul Tso",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Ryul Tso is a tourism place in Ladakh, India.",
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sani-monastery-ladakh",
+    "name": "Sani Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Sani Monastery is a tibetan Buddhist monastery in Sani, India.",
+    "coordinates": {
+      "lat": 33.51861,
+      "lon": 76.78
+    },
+    "tags": [
+      "temple",
+      "monastery"
+    ]
+  },
+  {
+    "id": "sankar-monastery-ladakh",
+    "name": "Sankar Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Sankar Monastery is a building in India.",
+    "coordinates": {
+      "lat": 34.17417,
+      "lon": 77.58528
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "saspol-caves-ladakh",
+    "name": "Saspol Caves",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Saspol Caves is a painted cave temples.",
+    "coordinates": {
+      "lat": 34.25,
+      "lon": 77.15
+    },
+    "tags": [
+      "temple",
+      "cave"
+    ]
+  },
+  {
+    "id": "shanti-stupa-ladakh-ladakh",
+    "name": "Shanti Stupa, Ladakh",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Shanti Stupa, Ladakh is a building in India.",
+    "coordinates": {
+      "lat": 34.17361,
+      "lon": 77.57472
+    }
+  },
+  {
+    "id": "shey-monastery-ladakh",
+    "name": "Shey Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Shey Monastery is a building in India.",
+    "coordinates": {
+      "lat": 34.07583,
+      "lon": 77.63528
+    },
+    "tags": [
+      "palace",
+      "monastery"
+    ]
+  },
+  {
+    "id": "sindhu-darshan-festival-ladakh",
+    "name": "Sindhu Darshan Festival",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Sindhu Darshan Festival is a festival that is celebrated on the banks of the Indus River in Ladakh, India."
+  },
+  {
+    "id": "stakna-monastery-ladakh",
+    "name": "Stakna Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Stakna Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.005,
+      "lon": 77.68528
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "stok-monastery-ladakh",
+    "name": "Stok Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Stok Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.06569,
+      "lon": 77.54222
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "stongdey-monastery-ladakh",
+    "name": "Stongdey Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Stongdey Monastery is a buddhist monastery in northern India.",
+    "coordinates": {
+      "lat": 33.52083,
+      "lon": 76.98583
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "surigh-yilganing-kol-ladakh",
+    "name": "Surigh Yilganing Kol",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Surigh Yilganing Kol is an alkaline lake in Aksai Chin.",
+    "coordinates": {
+      "lat": 34.68597,
+      "lon": 79.6893
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "takthok-monastery-ladakh",
+    "name": "Takthok Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Takthok Monastery is a buddhist monastery in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.0053,
+      "lon": 77.8203
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "thikse-monastery-ladakh",
+    "name": "Thikse Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Thikse Monastery is a monastery.",
+    "coordinates": {
+      "lat": 34.05639,
+      "lon": 77.66667
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "tso-kar-ladakh",
+    "name": "Tso Kar",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Tso Kar is a lake in Ladakh, India.",
+    "coordinates": {
+      "lat": 33.31111,
+      "lon": 77.98972
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "tso-moriri-ladakh",
+    "name": "Tso Moriri",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Tso Moriri is a lake in India.",
+    "coordinates": {
+      "lat": 32.9,
+      "lon": 78.3
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "tso-tang-ladakh",
+    "name": "Tso Tang",
+    "state": "Ladakh",
+    "category": "nature",
+    "description": "Tso Tang is a lake in People's Republic of China.",
+    "coordinates": {
+      "lat": 34.89527,
+      "lon": 79.35832
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "upshi-ladakh",
+    "name": "Upshi",
+    "state": "Ladakh",
+    "category": "offbeat",
+    "description": "Upshi is a village in Ladakh, India.",
+    "coordinates": {
+      "lat": 33.83083,
+      "lon": 77.81333
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "wanla-monastery-ladakh",
+    "name": "Wanla Monastery",
+    "state": "Ladakh",
+    "category": "spiritual",
+    "description": "Wanla Monastery is a historic Buddhist Monastery in India.",
+    "coordinates": {
+      "lat": 34.24944,
+      "lon": 76.83111
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "zangla-monastery-ladakh",
+    "name": "Zangla Monastery",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Zangla Monastery is a ruined palace in Zanskar, India.",
+    "coordinates": {
+      "lat": 33.67,
+      "lon": 76.98
+    },
+    "tags": [
+      "fort",
+      "palace",
+      "monastery"
+    ]
+  },
+  {
+    "id": "zorawar-fort-ladakh",
+    "name": "Zorawar Fort",
+    "state": "Ladakh",
+    "category": "heritage",
+    "description": "Zorawar Fort is a building in Ladakh, India.",
+    "coordinates": {
+      "lat": 34.15806,
+      "lon": 77.56972
+    },
+    "tags": [
+      "fort"
+    ]
+  }
+]

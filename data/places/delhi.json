@@ -1,0 +1,3110 @@
+[
+  {
+    "id": "aastha-kunj-delhi",
+    "name": "Aastha Kunj",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Aastha Kunj is a park in India.",
+    "coordinates": {
+      "lat": 28.54722,
+      "lon": 77.25083
+    }
+  },
+  {
+    "id": "afsarwala-tomb-delhi",
+    "name": "Afsarwala tomb",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Afsarwala tomb is a tomb and mosque in Delhi, India.",
+    "coordinates": {
+      "lat": 28.59258,
+      "lon": 77.24792
+    },
+    "tags": [
+      "world-heritage",
+      "mosque"
+    ]
+  },
+  {
+    "id": "agrasen-ki-baoli-delhi",
+    "name": "Agrasen Ki Baoli",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Agrasen Ki Baoli is an one of the Ancient baolis of India.",
+    "coordinates": {
+      "lat": 28.62608,
+      "lon": 77.22501
+    }
+  },
+  {
+    "id": "ajmal-khan-park-delhi",
+    "name": "Ajmal Khan Park",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Ajmal Khan Park is a park in Karol Bagh, India.",
+    "coordinates": {
+      "lat": 28.6536,
+      "lon": 77.1966
+    }
+  },
+  {
+    "id": "akbarabadi-mosque-delhi",
+    "name": "Akbarabadi Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Akbarabadi Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 28.6499,
+      "lon": 77.2379
+    },
+    "tags": [
+      "mosque",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "alai-darwaza-delhi",
+    "name": "Alai Darwaza",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Alai Darwaza is a mosque gateway in Delhi, India.",
+    "coordinates": {
+      "lat": 28.52425,
+      "lon": 77.18572
+    },
+    "tags": [
+      "world-heritage",
+      "mosque"
+    ]
+  },
+  {
+    "id": "amar-jawan-jyoti-delhi",
+    "name": "Amar Jawan Jyoti",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Amar Jawan Jyoti is a flame of our Immortal Soldiers.",
+    "coordinates": {
+      "lat": 28.61286,
+      "lon": 77.22931
+    }
+  },
+  {
+    "id": "appu-ghar-delhi",
+    "name": "Appu Ghar",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Appu Ghar is an amusement park in Delhi, India.",
+    "coordinates": {
+      "lat": 28.61681,
+      "lon": 77.24336
+    }
+  },
+  {
+    "id": "arab-serai-delhi",
+    "name": "Arab Serai",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Arab Serai is a 16th century caravanserai in Delhi, India.",
+    "coordinates": {
+      "lat": 28.59139,
+      "lon": 77.24833
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "asola-bhatti-wildlife-sanctuary-delhi",
+    "name": "Asola Bhatti Wildlife Sanctuary",
+    "state": "Delhi",
+    "category": "wildlife",
+    "description": "Asola Bhatti Wildlife Sanctuary is a wildlife sanctuary near Delhi, India.",
+    "coordinates": {
+      "lat": 28.4762,
+      "lon": 77.23
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "aurangzeb-s-sheesh-mahal-delhi",
+    "name": "Aurangzeb's Sheesh Mahal",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Aurangzeb's Sheesh Mahal is a mughal garden in Delhi.",
+    "coordinates": {
+      "lat": 28.72056,
+      "lon": 77.15417
+    }
+  },
+  {
+    "id": "azim-khan-s-tomb-delhi",
+    "name": "Azim Khan's Tomb",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Azim Khan's Tomb is a tomb of Azim Khan.",
+    "coordinates": {
+      "lat": 28.5218,
+      "lon": 77.19044
+    }
+  },
+  {
+    "id": "baba-baghel-singh-sikh-heritage-multimedia-museum-delhi",
+    "name": "Baba Baghel Singh Sikh Heritage Multimedia Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Baba Baghel Singh Sikh Heritage Multimedia Museum is a sikh museum in New Delhi, India.",
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "baolis-of-mehrauli-delhi",
+    "name": "Baolis of Mehrauli",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Baolis of Mehrauli is a group of Ancient baolis of India.",
+    "coordinates": {
+      "lat": 28.52028,
+      "lon": 77.18346
+    }
+  },
+  {
+    "id": "bara-gumbad-delhi",
+    "name": "Bara Gumbad",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Bara Gumbad is a mosque in India.",
+    "coordinates": {
+      "lat": 28.59309,
+      "lon": 77.22034
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "bara-pulah-bridge-delhi",
+    "name": "Bara Pulah Bridge",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Bara Pulah Bridge is a bridge in India.",
+    "coordinates": {
+      "lat": 28.58407,
+      "lon": 77.25334
+    }
+  },
+  {
+    "id": "barakhamba-delhi",
+    "name": "Barakhamba",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Barakhamba is a tughlaq period tomb in India.",
+    "coordinates": {
+      "lat": 28.55278,
+      "lon": 77.20222
+    }
+  },
+  {
+    "id": "baroda-house-delhi",
+    "name": "Baroda House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Baroda House is a historic building in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6168,
+      "lon": 77.2305
+    }
+  },
+  {
+    "id": "bawana-fortress-of-jat-zail-delhi",
+    "name": "Bawana Fortress of Jat Zail",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Bawana Fortress of Jat Zail is a 1860s fortress in Delhi, India.",
+    "coordinates": {
+      "lat": 28.8,
+      "lon": 77.03
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "begumpur-mosque-delhi",
+    "name": "Begumpur Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Begumpur Mosque is a mosque in Delhi, India.",
+    "coordinates": {
+      "lat": 28.62612,
+      "lon": 77.20035
+    },
+    "tags": [
+      "mosque",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bengali-market-delhi",
+    "name": "Bengali Market",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Bengali Market is an indian market.",
+    "coordinates": {
+      "lat": 28.62,
+      "lon": 77.23
+    }
+  },
+  {
+    "id": "bhai-mati-das-museum-delhi",
+    "name": "Bhai Mati Das Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Bhai Mati Das Museum is a sikh museum in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.6565,
+      "lon": 77.2325
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "bhalswa-lake-delhi",
+    "name": "Bhalswa Lake",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Bhalswa Lake is a lake in India.",
+    "coordinates": {
+      "lat": 28.743,
+      "lon": 77.171
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "bharat-vandana-park-delhi",
+    "name": "Bharat Vandana Park",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Bharat Vandana Park is an urban park in Delhi.",
+    "coordinates": {
+      "lat": 28.57056,
+      "lon": 77.05833
+    }
+  },
+  {
+    "id": "bhonyra-delhi",
+    "name": "Bhonyra",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Bhonyra is a tourism place in Delhi, India."
+  },
+  {
+    "id": "bikaner-house-delhi",
+    "name": "Bikaner House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Bikaner House is a princely house located in New Delhi.",
+    "coordinates": {
+      "lat": 28.6089,
+      "lon": 77.2299
+    }
+  },
+  {
+    "id": "cathedral-church-of-the-redemption-delhi",
+    "name": "Cathedral Church of the Redemption",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Cathedral Church of the Redemption is a building in India.",
+    "coordinates": {
+      "lat": 28.61804,
+      "lon": 77.20198
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "chandni-chowk-delhi",
+    "name": "Chandni Chowk",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Chandni Chowk is an area in Delhi.",
+    "coordinates": {
+      "lat": 28.65596,
+      "lon": 77.23392
+    }
+  },
+  {
+    "id": "chausath-khamba-delhi",
+    "name": "Chausath Khamba",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Chausath Khamba is a tomb in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.5912,
+      "lon": 77.24304
+    }
+  },
+  {
+    "id": "chhatarpur-temple-delhi",
+    "name": "Chhatarpur Temple",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Chhatarpur Temple is a hindu temple in Delhi, India.",
+    "coordinates": {
+      "lat": 28.49438,
+      "lon": 77.18415
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chhatta-chowk-delhi",
+    "name": "Chhatta Chowk",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Chhatta Chowk is a marketplace in the Red Fort of Delhi, India.",
+    "coordinates": {
+      "lat": 28.6558,
+      "lon": 77.2393
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "chhawla-forest-delhi",
+    "name": "Chhawla forest",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Chhawla forest is a forest area in India.",
+    "coordinates": {
+      "lat": 28.551,
+      "lon": 77.017
+    }
+  },
+  {
+    "id": "children-s-museum-siri-fort-delhi",
+    "name": "Children's Museum, Siri Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Children's Museum, Siri Fort is a museum for Children in India.",
+    "coordinates": {
+      "lat": 28.5519,
+      "lon": 77.21633
+    },
+    "tags": [
+      "fort",
+      "museum"
+    ]
+  },
+  {
+    "id": "chittaranjan-park-kali-mandir-delhi",
+    "name": "Chittaranjan Park Kali Mandir",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Chittaranjan Park Kali Mandir is a temple in India.",
+    "coordinates": {
+      "lat": 28.53667,
+      "lon": 77.2475
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chor-minar-delhi",
+    "name": "Chor Minar",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Chor Minar is a tower of Thieves, 13th-century minaret in Delhi, India.",
+    "coordinates": {
+      "lat": 28.54767,
+      "lon": 77.20596
+    }
+  },
+  {
+    "id": "chunnamal-haveli-delhi",
+    "name": "Chunnamal Haveli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Chunnamal Haveli is a mansion in Delhi, India.",
+    "coordinates": {
+      "lat": 28.65075,
+      "lon": 77.23307
+    }
+  },
+  {
+    "id": "church-of-immaculate-conception-delhi",
+    "name": "Church of Immaculate Conception",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Church of Immaculate Conception is a church in Haryana, India.",
+    "coordinates": {
+      "lat": 28.4454,
+      "lon": 77.0722
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "coronation-park-delhi-delhi",
+    "name": "Coronation Park, Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Coronation Park, Delhi is a location of the Delhi Durbar in India.",
+    "coordinates": {
+      "lat": 28.72301,
+      "lon": 77.19689
+    }
+  },
+  {
+    "id": "dargah-mai-sahiba-delhi",
+    "name": "Dargah Mai Sahiba",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Dargah Mai Sahiba is a dargah in India.",
+    "coordinates": {
+      "lat": 28.5375,
+      "lon": 77.19722
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "dariba-kalan-delhi",
+    "name": "Dariba Kalan",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Dariba Kalan is a neighbourhood in North India, Delhi, India.",
+    "coordinates": {
+      "lat": 28.6553,
+      "lon": 77.2342
+    }
+  },
+  {
+    "id": "deer-park-delhi-delhi",
+    "name": "Deer Park, Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Deer Park, Delhi is a park in South Delhi, India.",
+    "coordinates": {
+      "lat": 28.5566,
+      "lon": 77.1959
+    }
+  },
+  {
+    "id": "delhi-art-gallery-delhi",
+    "name": "Delhi Art Gallery",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Delhi Art Gallery is an art house based in India.",
+    "coordinates": {
+      "lat": 28.61824,
+      "lon": 77.21931
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "delhi-gate-delhi-delhi",
+    "name": "Delhi Gate, Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Delhi Gate, Delhi is a historical place in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6412,
+      "lon": 77.24051
+    }
+  },
+  {
+    "id": "delhi-gate-red-fort-delhi",
+    "name": "Delhi Gate, Red Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Delhi Gate, Red Fort is a gate in Red Fort.",
+    "coordinates": {
+      "lat": 28.652,
+      "lon": 77.2401
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "delhi-ridge-delhi",
+    "name": "Delhi Ridge",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Delhi Ridge is a ridge in Delhi, India.",
+    "coordinates": {
+      "lat": 28.616,
+      "lon": 77.169
+    }
+  },
+  {
+    "id": "delhi-sikh-gurdwara-management-committee-delhi",
+    "name": "Delhi Sikh Gurdwara Management Committee",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Delhi Sikh Gurdwara Management Committee is an indian Sikh administrative organization."
+  },
+  {
+    "id": "delhi-sikh-gurdwaras-act-1971-delhi",
+    "name": "Delhi Sikh Gurdwaras Act, 1971",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Delhi Sikh Gurdwaras Act, 1971 is an act of the Parliament of India, repealed Act 24 of 1971 from 1974."
+  },
+  {
+    "id": "delhi-topra-pillar-delhi",
+    "name": "Delhi-Topra pillar",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Delhi-Topra pillar is a series of edicts on the teachings of Buddha.",
+    "coordinates": {
+      "lat": 28.63583,
+      "lon": 77.24528
+    }
+  },
+  {
+    "id": "delhi-war-cemetery-delhi",
+    "name": "Delhi War Cemetery",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Delhi War Cemetery is a cemetery in India.",
+    "coordinates": {
+      "lat": 28.61624,
+      "lon": 77.14542
+    }
+  },
+  {
+    "id": "dharampura-haveli-delhi",
+    "name": "Dharampura Haveli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Dharampura Haveli is a hotel in India.",
+    "coordinates": {
+      "lat": 28.6533,
+      "lon": 77.23227
+    }
+  },
+  {
+    "id": "dilli-haat-delhi",
+    "name": "Dilli Haat",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Dilli Haat is a permanent open air market.",
+    "coordinates": {
+      "lat": 28.57316,
+      "lon": 77.20851
+    }
+  },
+  {
+    "id": "dr-ambedkar-national-memorial-delhi",
+    "name": "Dr. Ambedkar National Memorial",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Dr. Ambedkar National Memorial is a memorial at 26, Alipur Road in Delhi.",
+    "coordinates": {
+      "lat": 28.684,
+      "lon": 77.222
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "dr-karni-singh-shooting-range-delhi",
+    "name": "Dr. Karni Singh Shooting Range",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Dr. Karni Singh Shooting Range is a shooting range in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.49976,
+      "lon": 77.26684
+    }
+  },
+  {
+    "id": "dwarka-baoli-delhi",
+    "name": "Dwarka Baoli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Dwarka Baoli is a historical stepwell in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.59968,
+      "lon": 77.04404
+    }
+  },
+  {
+    "id": "eternal-gandhi-multimedia-museum-delhi",
+    "name": "Eternal Gandhi Multimedia Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Eternal Gandhi Multimedia Museum is a museum in India.",
+    "coordinates": {
+      "lat": 28.60165,
+      "lon": 77.21405
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "faridkot-house-delhi",
+    "name": "Faridkot House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Faridkot House is a royal residence in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6187,
+      "lon": 77.2306
+    }
+  },
+  {
+    "id": "fatehpuri-mosque-delhi",
+    "name": "Fatehpuri Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Fatehpuri Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 28.65667,
+      "lon": 77.2225
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "feroz-shah-kotla-delhi",
+    "name": "Feroz Shah Kotla",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Feroz Shah Kotla is a fort in Delhi, India.",
+    "coordinates": {
+      "lat": 28.63496,
+      "lon": 77.24269
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "flagstaff-tower-delhi",
+    "name": "Flagstaff Tower",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Flagstaff Tower is a 19th-century signal tower in Kamla Nehru Ridge, Delhi, India.",
+    "coordinates": {
+      "lat": 28.68806,
+      "lon": 77.21806
+    }
+  },
+  {
+    "id": "gandhi-smriti-delhi",
+    "name": "Gandhi Smriti",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Gandhi Smriti is a museum and death place of Mahatma Gandhi, in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.60186,
+      "lon": 77.21436
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "garden-of-five-senses-delhi",
+    "name": "Garden of Five Senses",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Garden of Five Senses is a park in Delhi, India.",
+    "coordinates": {
+      "lat": 28.51782,
+      "lon": 77.1998
+    }
+  },
+  {
+    "id": "ghalib-ki-haveli-delhi",
+    "name": "Ghalib ki Haveli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Ghalib ki Haveli is a ghalib's residence.",
+    "coordinates": {
+      "lat": 28.65442,
+      "lon": 77.22569
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "ghalib-museum-delhi",
+    "name": "Ghalib Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Ghalib Museum is a museum on the life and times of the 19th century Urdu poet Mirza Ghalib.",
+    "coordinates": {
+      "lat": 28.59146,
+      "lon": 77.24325
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "ghantaghar-delhi",
+    "name": "Ghantaghar",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Ghantaghar is a place in Delhi India.",
+    "coordinates": {
+      "lat": 28.65732,
+      "lon": 77.22791
+    }
+  },
+  {
+    "id": "ghantewala-delhi",
+    "name": "Ghantewala",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Ghantewala is a confectionery seller."
+  },
+  {
+    "id": "golden-mosque-red-fort-delhi",
+    "name": "Golden Mosque (Red Fort)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Golden Mosque (Red Fort) is a mosque in India.",
+    "coordinates": {
+      "lat": 28.6505,
+      "lon": 77.2395
+    },
+    "tags": [
+      "fort",
+      "mosque"
+    ]
+  },
+  {
+    "id": "green-park-delhi-delhi",
+    "name": "Green Park, Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Green Park, Delhi is a neighbourhood in South Delhi, Delhi, India.",
+    "coordinates": {
+      "lat": 28.55,
+      "lon": 77.2
+    }
+  },
+  {
+    "id": "gulmohar-park-delhi",
+    "name": "Gulmohar Park",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Gulmohar Park is a human settlement in India.",
+    "coordinates": {
+      "lat": 28.5599,
+      "lon": 77.2122
+    }
+  },
+  {
+    "id": "gurdwara-bangla-sahib-delhi",
+    "name": "Gurdwara Bangla Sahib",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Gurdwara Bangla Sahib is a gurdwara in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6267,
+      "lon": 77.2089
+    }
+  },
+  {
+    "id": "gurdwara-dam-dama-sahib-delhi",
+    "name": "Gurdwara Dam Dama Sahib",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Gurdwara Dam Dama Sahib is a gurdwara in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.59475,
+      "lon": 77.25257
+    }
+  },
+  {
+    "id": "gurdwara-mata-sundri-delhi",
+    "name": "Gurdwara Mata Sundri",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Gurdwara Mata Sundri is a building in India.",
+    "coordinates": {
+      "lat": 28.63437,
+      "lon": 77.23389
+    }
+  },
+  {
+    "id": "gurdwara-nanak-piao-delhi",
+    "name": "Gurdwara Nanak Piao",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Gurdwara Nanak Piao is a building in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.69,
+      "lon": 77.19
+    }
+  },
+  {
+    "id": "gurdwara-rakab-ganj-sahib-delhi",
+    "name": "Gurdwara Rakab Ganj Sahib",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Gurdwara Rakab Ganj Sahib is a place of cremation of the 9th Sikh guru, Guru Tek Bahadur(d. 1675). ca. 1783.",
+    "coordinates": {
+      "lat": 28.61819,
+      "lon": 77.20481
+    }
+  },
+  {
+    "id": "gurdwara-sis-ganj-sahib-delhi",
+    "name": "Gurdwara Sis Ganj Sahib",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Gurdwara Sis Ganj Sahib is a place of martyrdom of 9th Sikh guru, Guru Tek Bahadur, built in 1783.",
+    "coordinates": {
+      "lat": 28.6558,
+      "lon": 77.2325
+    }
+  },
+  {
+    "id": "gurdwara-sri-guru-singh-sabha-greater-kailash-delhi",
+    "name": "Gurdwara Sri Guru Singh Sabha (Greater Kailash)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Gurdwara Sri Guru Singh Sabha (Greater Kailash) is a gurdwara in Delhi, India.",
+    "coordinates": {
+      "lat": 28.55237,
+      "lon": 77.23873
+    }
+  },
+  {
+    "id": "gyarah-murti-delhi",
+    "name": "Gyarah Murti",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Gyarah Murti is a statue in New Delhi.",
+    "coordinates": {
+      "lat": 28.61,
+      "lon": 77.19167
+    }
+  },
+  {
+    "id": "hanuman-temple-connaught-place-delhi",
+    "name": "Hanuman Temple, Connaught Place",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Hanuman Temple, Connaught Place is a temple in India.",
+    "coordinates": {
+      "lat": 28.63,
+      "lon": 77.215
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hauz-i-shamsi-delhi",
+    "name": "Hauz-i-Shamsi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Hauz-i-Shamsi is a body of water.",
+    "coordinates": {
+      "lat": 28.51417,
+      "lon": 77.17833
+    }
+  },
+  {
+    "id": "hauz-khas-complex-delhi",
+    "name": "Hauz Khas Complex",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Hauz Khas Complex is a site in Delhi, India.",
+    "coordinates": {
+      "lat": 28.555,
+      "lon": 77.19194
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "hazrat-nizamuddin-dargah-delhi",
+    "name": "Hazrat Nizamuddin Dargah",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Hazrat Nizamuddin Dargah is a dargah (mausoleum) of the Sufi saint Khwaja Nizamuddin Auliya.",
+    "coordinates": {
+      "lat": 28.59131,
+      "lon": 77.24181
+    },
+    "tags": [
+      "mosque",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "hijron-ka-khanqah-delhi",
+    "name": "Hijron Ka Khanqah",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Hijron Ka Khanqah is a mosque in India.",
+    "coordinates": {
+      "lat": 28.52194,
+      "lon": 77.17861
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "humayun-s-tomb-delhi",
+    "name": "Humayun's tomb",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Humayun's tomb is a tomb of the Mughal Emperor Humayun in Delhi, India.",
+    "coordinates": {
+      "lat": 28.59326,
+      "lon": 77.2506
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "ina-colony-delhi",
+    "name": "INA Colony",
+    "state": "Delhi",
+    "category": "other",
+    "description": "INA Colony is a neighbourhood in Delhi, India.",
+    "coordinates": {
+      "lat": 28.57628,
+      "lon": 77.21203
+    }
+  },
+  {
+    "id": "india-gate-delhi",
+    "name": "India Gate",
+    "state": "Delhi",
+    "category": "other",
+    "description": "India Gate is a triumphal arch in New Delhi.",
+    "coordinates": {
+      "lat": 28.61286,
+      "lon": 77.22931
+    }
+  },
+  {
+    "id": "indian-air-force-museum-palam-delhi",
+    "name": "Indian Air Force Museum, Palam",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Indian Air Force Museum, Palam is an aviation museum in Palam, Delhi.",
+    "coordinates": {
+      "lat": 28.57389,
+      "lon": 77.11694
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "indian-war-memorial-museum-delhi",
+    "name": "Indian War Memorial Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Indian War Memorial Museum is a museum in the Red Fort in Delhi, India.",
+    "coordinates": {
+      "lat": 28.65403,
+      "lon": 77.23831
+    },
+    "tags": [
+      "fort",
+      "museum"
+    ]
+  },
+  {
+    "id": "indira-gandhi-arena-delhi",
+    "name": "Indira Gandhi Arena",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Indira Gandhi Arena is an indoor arena in India.",
+    "coordinates": {
+      "lat": 28.63111,
+      "lon": 77.24944
+    }
+  },
+  {
+    "id": "indraprastha-park-delhi",
+    "name": "Indraprastha Park",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Indraprastha Park is a park in New Delhi.",
+    "coordinates": {
+      "lat": 28.60106,
+      "lon": 77.25351
+    }
+  },
+  {
+    "id": "international-mango-festival-delhi",
+    "name": "International Mango Festival",
+    "state": "Delhi",
+    "category": "other",
+    "description": "International Mango Festival is a food festival in Delhi, India."
+  },
+  {
+    "id": "iron-pillar-of-delhi-delhi",
+    "name": "Iron pillar of Delhi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Iron pillar of Delhi is a 7.2 m pillar in the Qutb complex, Mehrauli, Delhi, India, erected in the 5th century CE.",
+    "coordinates": {
+      "lat": 28.52466,
+      "lon": 77.18507
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "iskcon-temple-delhi-delhi",
+    "name": "ISKCON Temple, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "ISKCON Temple, Delhi is a radha Krishna Temple in Delhi, India.",
+    "coordinates": {
+      "lat": 28.55806,
+      "lon": 77.24333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ito-barrage-delhi",
+    "name": "ITO barrage",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "ITO barrage is a dam in ITO metro station in Delhi.",
+    "coordinates": {
+      "lat": 28.62834,
+      "lon": 77.25519
+    }
+  },
+  {
+    "id": "jagannath-temple-delhi-delhi",
+    "name": "Jagannath Temple, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Delhi is a temple at Delhi.",
+    "coordinates": {
+      "lat": 28.55429,
+      "lon": 77.19966
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jahanpanah-city-forest-delhi",
+    "name": "Jahanpanah City Forest",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Jahanpanah City Forest is a park in Greater Kailash, India.",
+    "coordinates": {
+      "lat": 28.52668,
+      "lon": 77.24389
+    }
+  },
+  {
+    "id": "jahanpanah-delhi",
+    "name": "Jahanpanah",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Jahanpanah is a fort of forts.",
+    "coordinates": {
+      "lat": 28.521,
+      "lon": 77.246
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "jahaz-mahal-delhi",
+    "name": "Jahaz Mahal",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Jahaz Mahal is a building in India.",
+    "coordinates": {
+      "lat": 28.514,
+      "lon": 77.1783
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "jaisalmer-house-delhi",
+    "name": "Jaisalmer House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Jaisalmer House is a former residence of the Maharawal of Jaisalmer in New Delhi.",
+    "coordinates": {
+      "lat": 28.6079,
+      "lon": 77.2252
+    }
+  },
+  {
+    "id": "jama-masjid-delhi-delhi",
+    "name": "Jama Masjid, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Jama Masjid, Delhi is a mosque in Delhi, India.",
+    "coordinates": {
+      "lat": 28.65083,
+      "lon": 77.23306
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "jamali-kamali-mosque-and-tomb-delhi",
+    "name": "Jamali Kamali Mosque and Tomb",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Jamali Kamali Mosque and Tomb is a medieval mosque in Delhi associated with the myth of Jamali Kamali and djinns.",
+    "coordinates": {
+      "lat": 28.51958,
+      "lon": 77.18712
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "jamnagar-house-delhi",
+    "name": "Jamnagar House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Jamnagar House is a tourism place in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6104,
+      "lon": 77.2282
+    }
+  },
+  {
+    "id": "jantar-mantar-new-delhi-delhi",
+    "name": "Jantar Mantar, New Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Jantar Mantar, New Delhi is a historical place in New Delhi.",
+    "coordinates": {
+      "lat": 28.62711,
+      "lon": 77.21648
+    }
+  },
+  {
+    "id": "jhandewalan-temple-delhi",
+    "name": "Jhandewalan Temple",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Jhandewalan Temple is a temple in India.",
+    "coordinates": {
+      "lat": 28.64914,
+      "lon": 77.20415
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jodhpur-house-delhi",
+    "name": "Jodhpur House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Jodhpur House is an indian Maharaja's residence, 1930s-1950s.",
+    "coordinates": {
+      "lat": 28.5989,
+      "lon": 77.2151
+    }
+  },
+  {
+    "id": "jwala-heri-delhi",
+    "name": "Jwala Heri",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Jwala Heri is a tourism place in Delhi, India."
+  },
+  {
+    "id": "kalan-masjid-delhi",
+    "name": "Kalan Masjid",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Kalan Masjid is a mosque in Delhi.",
+    "coordinates": {
+      "lat": 28.64512,
+      "lon": 77.23093
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "kalindi-kunj-delhi",
+    "name": "Kalindi Kunj",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Kalindi Kunj is a park.",
+    "coordinates": {
+      "lat": 28.5458,
+      "lon": 77.3086
+    }
+  },
+  {
+    "id": "kalkaji-mandir-delhi",
+    "name": "Kalkaji Mandir",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Kalkaji Mandir is a temple in Delhi, India.",
+    "coordinates": {
+      "lat": 28.54979,
+      "lon": 77.26071
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kapurthala-house-delhi",
+    "name": "Kapurthala House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Kapurthala House is a tourism place in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6059,
+      "lon": 77.2236
+    }
+  },
+  {
+    "id": "karim-s-delhi",
+    "name": "Karim's",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Karim's is an international restaurant chain headquartered in Delhi, India."
+  },
+  {
+    "id": "kashmir-house-delhi",
+    "name": "Kashmir House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Kashmir House is a government Guest House and Administrative Office in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.6011,
+      "lon": 77.2228
+    }
+  },
+  {
+    "id": "kashmiri-gate-delhi-delhi",
+    "name": "Kashmiri Gate, Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Kashmiri Gate, Delhi is a historic site.",
+    "coordinates": {
+      "lat": 28.66639,
+      "lon": 77.22889
+    }
+  },
+  {
+    "id": "khairul-manazil-delhi",
+    "name": "Khairul Manazil",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Khairul Manazil is a mosque in India.",
+    "coordinates": {
+      "lat": 28.6075,
+      "lon": 77.23944
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "khan-market-delhi",
+    "name": "Khan Market",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Khan Market is a neighbourhood in Delhi, India.",
+    "coordinates": {
+      "lat": 28.60028,
+      "lon": 77.22681
+    }
+  },
+  {
+    "id": "khari-baoli-delhi",
+    "name": "Khari Baoli",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Khari Baoli is a bazaar in Delhi.",
+    "coordinates": {
+      "lat": 28.6579,
+      "lon": 77.2212
+    }
+  },
+  {
+    "id": "khirki-mosque-delhi",
+    "name": "Khirki Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Khirki Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 28.53135,
+      "lon": 77.21971
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "khooni-darwaza-delhi",
+    "name": "Khooni Darwaza",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Khooni Darwaza is a gate in Delhi, India.",
+    "coordinates": {
+      "lat": 28.636,
+      "lon": 77.241
+    }
+  },
+  {
+    "id": "kiran-nadar-museum-of-art-delhi",
+    "name": "Kiran Nadar Museum of Art",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Kiran Nadar Museum of Art is a museum of art.",
+    "coordinates": {
+      "lat": 28.52884,
+      "lon": 77.22008
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "kirti-nagar-delhi",
+    "name": "Kirti Nagar",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Kirti Nagar is a neighbourhood in West Delhi, Delhi, India.",
+    "coordinates": {
+      "lat": 28.6504,
+      "lon": 77.1444
+    }
+  },
+  {
+    "id": "kotla-mubarakpur-complex-delhi",
+    "name": "Kotla Mubarakpur Complex",
+    "state": "Delhi",
+    "category": "offbeat",
+    "description": "Kotla Mubarakpur Complex is an urban village in Indian state of Delhi.",
+    "coordinates": {
+      "lat": 28.59131,
+      "lon": 77.24181
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "lahori-gate-red-fort-delhi-delhi",
+    "name": "Lahori Gate, Red Fort, Delhi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Lahori Gate, Red Fort, Delhi is a main entrance to the Red Fort, Delhi, India.",
+    "coordinates": {
+      "lat": 28.65592,
+      "lon": 77.23846
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "lal-masjid-delhi-delhi",
+    "name": "Lal Masjid, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Lal Masjid, Delhi is a mosque in India.",
+    "coordinates": {
+      "lat": 28.66519,
+      "lon": 77.22961
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "laxminarayan-temple-delhi",
+    "name": "Laxminarayan Temple",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Laxminarayan Temple is a hindu temple in Delhi.",
+    "coordinates": {
+      "lat": 28.63278,
+      "lon": 77.19889
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lodi-gardens-delhi",
+    "name": "Lodi Gardens",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Lodi Gardens is a city park in India.",
+    "coordinates": {
+      "lat": 28.59444,
+      "lon": 77.22
+    }
+  },
+  {
+    "id": "lothian-cemetery-delhi",
+    "name": "Lothian Cemetery",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Lothian Cemetery is a cemetery in India.",
+    "coordinates": {
+      "lat": 28.66127,
+      "lon": 77.23622
+    }
+  },
+  {
+    "id": "lotus-temple-delhi",
+    "name": "Lotus Temple",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Lotus Temple is a bahá'í House of Worship in Delhi, India.",
+    "coordinates": {
+      "lat": 28.55333,
+      "lon": 77.2586
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "ludlow-castle-delhi-delhi",
+    "name": "Ludlow Castle, Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Ludlow Castle, Delhi is a demolished residency in Delhi, India.",
+    "coordinates": {
+      "lat": 28.67394,
+      "lon": 77.22188
+    }
+  },
+  {
+    "id": "lutyens-bungalow-zone-delhi",
+    "name": "Lutyens Bungalow Zone",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Lutyens Bungalow Zone is an area in Lutyens' Delhi.",
+    "coordinates": {
+      "lat": 28.59195,
+      "lon": 77.21377
+    }
+  },
+  {
+    "id": "lutyens-delhi-delhi",
+    "name": "Lutyens' Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Lutyens' Delhi is a neighborhood in New Delhi, Delhi, India.",
+    "coordinates": {
+      "lat": 28.63576,
+      "lon": 77.22445
+    }
+  },
+  {
+    "id": "madrasa-and-tomb-of-alauddin-khalji-delhi",
+    "name": "Madrasa and tomb of Alauddin Khalji",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Madrasa and tomb of Alauddin Khalji is a historic Islamic school containing a tomb in Delhi, India.",
+    "coordinates": {
+      "lat": 28.52389,
+      "lon": 77.18444
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "meharchand-market-delhi",
+    "name": "Meharchand Market",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Meharchand Market is a retail area in Delhi.",
+    "coordinates": {
+      "lat": 28.58472,
+      "lon": 77.22611
+    }
+  },
+  {
+    "id": "mehram-nagar-delhi",
+    "name": "Mehram nagar",
+    "state": "Delhi",
+    "category": "offbeat",
+    "description": "Mehram nagar is a village in India.",
+    "coordinates": {
+      "lat": 28.56472,
+      "lon": 77.11889
+    }
+  },
+  {
+    "id": "mehram-serai-delhi",
+    "name": "Mehram Serai",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Mehram Serai is a 17th century caravanserai and protected monument in India.",
+    "coordinates": {
+      "lat": 28.56472,
+      "lon": 77.11889
+    }
+  },
+  {
+    "id": "mehrauli-archaeological-park-delhi",
+    "name": "Mehrauli Archaeological Park",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Mehrauli Archaeological Park is an archaeological park in India.",
+    "coordinates": {
+      "lat": 28.52083,
+      "lon": 77.18667
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "metcalfe-house-delhi",
+    "name": "Metcalfe House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Metcalfe House is a house in Delhi, India.",
+    "coordinates": {
+      "lat": 28.5225,
+      "lon": 77.1869
+    }
+  },
+  {
+    "id": "mini-qutub-minar-delhi",
+    "name": "Mini Qutub Minar",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Mini Qutub Minar is a minaret in the Hashtsal village in Delhi, India.",
+    "coordinates": {
+      "lat": 28.63381,
+      "lon": 77.05725
+    }
+  },
+  {
+    "id": "moth-ki-mosque-delhi",
+    "name": "Moth ki Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Moth ki Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 28.5625,
+      "lon": 77.21778
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "moti-masjid-mehrauli-delhi",
+    "name": "Moti Masjid (Mehrauli)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Moti Masjid (Mehrauli) is a mosque in India.",
+    "coordinates": {
+      "lat": 28.51921,
+      "lon": 77.18017
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "moti-masjid-red-fort-delhi",
+    "name": "Moti Masjid (Red Fort)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Moti Masjid (Red Fort) is a mosque in India.",
+    "coordinates": {
+      "lat": 28.65682,
+      "lon": 77.24319
+    },
+    "tags": [
+      "fort",
+      "mosque"
+    ]
+  },
+  {
+    "id": "mubarak-begum-mosque-delhi",
+    "name": "Mubarak Begum Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Mubarak Begum Mosque is an indian mosque.",
+    "coordinates": {
+      "lat": 28.65,
+      "lon": 77.226
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "mutiny-memorial-delhi",
+    "name": "Mutiny Memorial",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Mutiny Memorial is a military memorial in India.",
+    "coordinates": {
+      "lat": 28.67167,
+      "lon": 77.21389
+    }
+  },
+  {
+    "id": "nabha-house-new-delhi-delhi",
+    "name": "Nabha House, New Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Nabha House, New Delhi is a former residence of the Raja of Nabha.",
+    "coordinates": {
+      "lat": 28.6265,
+      "lon": 77.2343
+    }
+  },
+  {
+    "id": "najafgarh-drain-bird-sanctuary-delhi",
+    "name": "Najafgarh drain bird sanctuary",
+    "state": "Delhi",
+    "category": "wildlife",
+    "description": "Najafgarh drain bird sanctuary is a conservation area in Delhi, India.",
+    "coordinates": {
+      "lat": 28.504,
+      "lon": 76.944
+    }
+  },
+  {
+    "id": "najafgarh-drain-delhi",
+    "name": "Najafgarh drain",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Najafgarh drain is a river in India.",
+    "coordinates": {
+      "lat": 28.51667,
+      "lon": 76.6
+    }
+  },
+  {
+    "id": "najafgarh-lake-delhi",
+    "name": "Najafgarh Lake",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Najafgarh Lake is a lake in India.",
+    "coordinates": {
+      "lat": 28.504,
+      "lon": 76.944
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "najafgarh-stadium-delhi",
+    "name": "Najafgarh Stadium",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Najafgarh Stadium is a stadium in Najafgarh, Delhi, India.",
+    "coordinates": {
+      "lat": 28.61111,
+      "lon": 76.98861
+    }
+  },
+  {
+    "id": "national-charkha-museum-delhi",
+    "name": "National Charkha Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Charkha Museum is a spinning wheel museum in Connaught Place, New Delhi, India.",
+    "coordinates": {
+      "lat": 28.63143,
+      "lon": 77.2174
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-gallery-of-modern-art-delhi",
+    "name": "National Gallery of Modern Art",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Gallery of Modern Art is a premier art gallery under Ministry of Culture, Government of India.",
+    "coordinates": {
+      "lat": 28.61018,
+      "lon": 77.2344
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-gandhi-museum-delhi",
+    "name": "National Gandhi Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Gandhi Museum is a museum located in New Delhi, India showcasing the life and principles of Mahatma Gandhi.",
+    "coordinates": {
+      "lat": 28.63891,
+      "lon": 77.24591
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-handicrafts-and-handlooms-museum-delhi",
+    "name": "National Handicrafts and Handlooms Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Handicrafts and Handlooms Museum is a museum in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.61355,
+      "lon": 77.24232
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-museum-of-india-delhi",
+    "name": "National Museum of India",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Museum of India is a national and art museum in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.61181,
+      "lon": 77.21926
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-museum-of-natural-history-new-delhi-delhi",
+    "name": "National Museum of Natural History, New Delhi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Museum of Natural History, New Delhi is a museum in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.6268,
+      "lon": 77.23156
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-philatelic-museum-new-delhi-delhi",
+    "name": "National Philatelic Museum, New Delhi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Philatelic Museum, New Delhi is a museum at Dak Bhawan, New Delhi, India.",
+    "coordinates": {
+      "lat": 28.62263,
+      "lon": 77.21341
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-police-memorial-india-delhi",
+    "name": "National Police Memorial (India)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Police Memorial (India) is an indian memorial.",
+    "coordinates": {
+      "lat": 28.60447,
+      "lon": 77.19363
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-rail-museum-new-delhi-delhi",
+    "name": "National Rail Museum, New Delhi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Rail Museum, New Delhi is a rail museum in Chanakyapuri, New Delhi.",
+    "coordinates": {
+      "lat": 28.58483,
+      "lon": 77.18143
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-science-centre-delhi-delhi",
+    "name": "National Science Centre, Delhi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National Science Centre, Delhi is a science museum in Bhairon Road, India.",
+    "coordinates": {
+      "lat": 28.61415,
+      "lon": 77.24477
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-tribal-dance-festival-delhi",
+    "name": "National Tribal Dance Festival",
+    "state": "Delhi",
+    "category": "other",
+    "description": "National Tribal Dance Festival is a festival in Delhi, India."
+  },
+  {
+    "id": "national-war-memorial-india-delhi",
+    "name": "National War Memorial (India)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "National War Memorial (India) is a war memorial in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.61277,
+      "lon": 77.23305
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "national-zoological-park-delhi-delhi",
+    "name": "National Zoological Park Delhi",
+    "state": "Delhi",
+    "category": "wildlife",
+    "description": "National Zoological Park Delhi is a national Zoo at Delhi.",
+    "coordinates": {
+      "lat": 28.60444,
+      "lon": 77.2462
+    }
+  },
+  {
+    "id": "naya-mandir-delhi",
+    "name": "Naya Mandir",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Naya Mandir is a building in India.",
+    "coordinates": {
+      "lat": 28.65278,
+      "lon": 77.23178
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "neela-hauz-biodiversity-park-delhi",
+    "name": "Neela Hauz Biodiversity Park",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Neela Hauz Biodiversity Park is a park.",
+    "coordinates": {
+      "lat": 28.52869,
+      "lon": 77.16861
+    }
+  },
+  {
+    "id": "nehru-park-delhi-delhi",
+    "name": "Nehru Park, Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Nehru Park, Delhi is an at Chanakyapuri, in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.59089,
+      "lon": 77.19314
+    }
+  },
+  {
+    "id": "nehru-planetarium-delhi",
+    "name": "Nehru Planetarium",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Nehru Planetarium is a five planetariums in India."
+  },
+  {
+    "id": "new-delhi-kali-bari-delhi",
+    "name": "New Delhi Kali Bari",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "New Delhi Kali Bari is a temple in India.",
+    "coordinates": {
+      "lat": 28.63033,
+      "lon": 77.19724
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "new-okhla-barrage-delhi",
+    "name": "New Okhla Barrage",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "New Okhla Barrage is a dam across the Yamanu River in India.",
+    "coordinates": {
+      "lat": 28.54591,
+      "lon": 77.31093
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "nicholson-cemetery-delhi-delhi",
+    "name": "Nicholson Cemetery, Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Nicholson Cemetery, Delhi is a cemetery in India.",
+    "coordinates": {
+      "lat": 28.66875,
+      "lon": 77.22468
+    }
+  },
+  {
+    "id": "nili-chhatri-delhi",
+    "name": "Nili Chhatri",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Nili Chhatri is a temple in India.",
+    "coordinates": {
+      "lat": 28.66525,
+      "lon": 77.2365
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nizamuddin-markaz-mosque-delhi",
+    "name": "Nizamuddin Markaz Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Nizamuddin Markaz Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 28.59157,
+      "lon": 77.24336
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "northern-ridge-biodiversity-park-delhi",
+    "name": "Northern Ridge Biodiversity Park",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Northern Ridge Biodiversity Park is a park.",
+    "coordinates": {
+      "lat": 28.68032,
+      "lon": 77.2066
+    }
+  },
+  {
+    "id": "okhla-barrage-delhi",
+    "name": "Okhla barrage",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Okhla barrage is a dam in Okhla in Delhi.",
+    "coordinates": {
+      "lat": 28.565,
+      "lon": 77.303
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "panja-sharif-delhi-delhi",
+    "name": "Panja Sharif, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Panja Sharif, Delhi is a dargah in Delhi, India.",
+    "coordinates": {
+      "lat": 28.65083,
+      "lon": 77.23306
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "partition-museum-delhi-delhi",
+    "name": "Partition Museum, Delhi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Partition Museum, Delhi is a museum in Delhi, India.",
+    "coordinates": {
+      "lat": 28.663,
+      "lon": 77.233
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "patiala-house-delhi",
+    "name": "Patiala House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Patiala House is a former residence of the Maharaja of Patiala in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6153,
+      "lon": 77.2347
+    }
+  },
+  {
+    "id": "prime-ministers-museum-and-library-delhi",
+    "name": "Prime Ministers' Museum and Library",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Prime Ministers' Museum and Library is a museum & library.",
+    "coordinates": {
+      "lat": 28.60261,
+      "lon": 77.19877
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "purana-qila-delhi",
+    "name": "Purana Qila",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Purana Qila is a building in India.",
+    "coordinates": {
+      "lat": 28.60944,
+      "lon": 77.24417
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "qadam-sharif-delhi-delhi",
+    "name": "Qadam Sharif (Delhi)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Qadam Sharif (Delhi) is a shrine in Delhi.",
+    "coordinates": {
+      "lat": 28.6498,
+      "lon": 77.2119
+    }
+  },
+  {
+    "id": "qila-i-kuhna-mosque-delhi",
+    "name": "Qila-i-Kuhna Mosque",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Qila-i-Kuhna Mosque is a mosque in India.",
+    "coordinates": {
+      "lat": 28.61,
+      "lon": 77.245
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "qila-rai-pithora-delhi",
+    "name": "Qila Rai Pithora",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Qila Rai Pithora is a building in India.",
+    "coordinates": {
+      "lat": 28.5276,
+      "lon": 77.20252
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "qudsia-bagh-delhi",
+    "name": "Qudsia Bagh",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Qudsia Bagh is a 18th century palace and garden complex, Old Delhi, India.",
+    "coordinates": {
+      "lat": 28.6709,
+      "lon": 77.229
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "qutb-minar-complex-delhi",
+    "name": "Qutb Minar complex",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Qutb Minar complex is a monuments and buildings from the Delhi Sultanate at Mehrauli, Delhi, India.",
+    "coordinates": {
+      "lat": 28.52438,
+      "lon": 77.18543
+    },
+    "tags": [
+      "world-heritage",
+      "mosque"
+    ]
+  },
+  {
+    "id": "qutb-minar-delhi",
+    "name": "Qutb Minar",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Qutb Minar is a minaret in the Mehrauli area of Delhi, India.",
+    "coordinates": {
+      "lat": 28.52435,
+      "lon": 77.18525
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "r-k-khanna-tennis-complex-delhi",
+    "name": "R. K. Khanna Tennis Complex",
+    "state": "Delhi",
+    "category": "other",
+    "description": "R. K. Khanna Tennis Complex is a tennis Complex in India.",
+    "coordinates": {
+      "lat": 28.56,
+      "lon": 77.18861
+    }
+  },
+  {
+    "id": "raj-ghat-and-associated-memorials-delhi",
+    "name": "Raj Ghat and associated memorials",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Raj Ghat and associated memorials is a memorial dedicated to Mahatma Gandhi in Delhi, India.",
+    "coordinates": {
+      "lat": 28.64055,
+      "lon": 77.24943
+    }
+  },
+  {
+    "id": "rajon-ki-baoli-delhi",
+    "name": "Rajon Ki Baoli",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Rajon Ki Baoli is a famous Stepwell in Mehrauli archaeological site, Delhi, India.",
+    "coordinates": {
+      "lat": 28.52026,
+      "lon": 77.18341
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "rashtrapati-bhavan-delhi",
+    "name": "Rashtrapati Bhavan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Rashtrapati Bhavan is an official residence of the President of India.",
+    "coordinates": {
+      "lat": 28.61434,
+      "lon": 77.1998
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "rashtrapati-bhavan-museum-delhi",
+    "name": "Rashtrapati Bhavan Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Rashtrapati Bhavan Museum is a museum in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.61881,
+      "lon": 77.19673
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "red-fort-archaeological-museum-delhi",
+    "name": "Red Fort Archaeological Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Red Fort Archaeological Museum is a museum in Delhi.",
+    "coordinates": {
+      "lat": 28.6545,
+      "lon": 77.2434
+    },
+    "tags": [
+      "fort",
+      "museum",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "red-fort-delhi",
+    "name": "Red Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Red Fort is a historic fortress in Delhi, India.",
+    "coordinates": {
+      "lat": 28.65583,
+      "lon": 77.24028
+    },
+    "tags": [
+      "world-heritage",
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "roshanara-bagh-delhi",
+    "name": "Roshanara Bagh",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Roshanara Bagh is a garden in Shakti Nagar, India.",
+    "coordinates": {
+      "lat": 28.67306,
+      "lon": 77.19778
+    }
+  },
+  {
+    "id": "sabz-burj-delhi",
+    "name": "Sabz Burj",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sabz Burj is a monuments in Delhi.",
+    "coordinates": {
+      "lat": 28.59309,
+      "lon": 77.24371
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "sacred-heart-cathedral-new-delhi-delhi",
+    "name": "Sacred Heart Cathedral, New Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Sacred Heart Cathedral, New Delhi is a cathedral.",
+    "coordinates": {
+      "lat": 28.6287,
+      "lon": 77.20665
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "salimgarh-fort-delhi",
+    "name": "Salimgarh Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Salimgarh Fort is a building in India.",
+    "coordinates": {
+      "lat": 28.661,
+      "lon": 77.24
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "sanjay-lake-delhi",
+    "name": "Sanjay Lake",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Sanjay Lake is a lake in India.",
+    "coordinates": {
+      "lat": 28.61417,
+      "lon": 77.30389
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sanjay-van-delhi",
+    "name": "Sanjay Van",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Sanjay Van is a forest in Delhi, India.",
+    "coordinates": {
+      "lat": 28.51861,
+      "lon": 77.1675
+    }
+  },
+  {
+    "id": "sanskriti-museums-delhi",
+    "name": "Sanskriti Museums",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sanskriti Museums is a textile Museum in India.",
+    "coordinates": {
+      "lat": 28.53846,
+      "lon": 77.18464
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "satpula-delhi",
+    "name": "Satpula",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Satpula is a dam in Delhi.",
+    "coordinates": {
+      "lat": 28.53173,
+      "lon": 77.2235
+    }
+  },
+  {
+    "id": "shahjahanabad-delhi",
+    "name": "Shahjahanabad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Shahjahanabad is a walled city of Delhi, India.",
+    "coordinates": {
+      "lat": 28.66,
+      "lon": 77.23
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "shakti-sthal-delhi",
+    "name": "Shakti Sthal",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Shakti Sthal is a monument to Indira Gandhi in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.64408,
+      "lon": 77.24897
+    }
+  },
+  {
+    "id": "shani-dham-temple-delhi",
+    "name": "Shani Dham Temple",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Shani Dham Temple is a temple in India.",
+    "coordinates": {
+      "lat": 28.4904,
+      "lon": 77.18655
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shankar-s-international-dolls-museum-delhi",
+    "name": "Shankar's International Dolls Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Shankar's International Dolls Museum is an india Musuems.",
+    "coordinates": {
+      "lat": 28.63028,
+      "lon": 77.24167
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "shanti-stupa-delhi-delhi",
+    "name": "Shanti Stupa, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Shanti Stupa, Delhi is a buddhist monument and tourist place in Delhi, India.",
+    "coordinates": {
+      "lat": 28.60239,
+      "lon": 77.25344
+    }
+  },
+  {
+    "id": "shia-jama-mosque-delhi-delhi",
+    "name": "Shia Jama Mosque, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Shia Jama Mosque, Delhi is a mosque in India.",
+    "coordinates": {
+      "lat": 28.65083,
+      "lon": 77.23306
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "shish-gumbad-delhi",
+    "name": "Shish Gumbad",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Shish Gumbad is a monument in Delhi.",
+    "coordinates": {
+      "lat": 28.59375,
+      "lon": 77.22017
+    }
+  },
+  {
+    "id": "shopping-in-delhi-delhi",
+    "name": "Shopping in Delhi",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Shopping in Delhi is a tourism place in Delhi, India."
+  },
+  {
+    "id": "shri-atma-vallabh-jain-smarak-delhi",
+    "name": "Shri Atma Vallabh Jain Smarak",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Shri Atma Vallabh Jain Smarak is a jain temple in Delhi, India.",
+    "coordinates": {
+      "lat": 28.77742,
+      "lon": 77.14053
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-guru-ravidas-gurughar-tughlakabad-delhi",
+    "name": "Shri Guru Ravidas Gurughar, Tughlakabad",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Shri Guru Ravidas Gurughar, Tughlakabad is an important religious places of Ravidasi communities.",
+    "coordinates": {
+      "lat": 28.52008,
+      "lon": 77.25356
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "siri-fort-delhi",
+    "name": "Siri Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Siri Fort is a fort in New Dehli, India.",
+    "coordinates": {
+      "lat": 28.5524,
+      "lon": 77.2235
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "siri-fort-sports-complex-delhi",
+    "name": "Siri Fort Sports Complex",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Siri Fort Sports Complex is a sports stadium in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.55208,
+      "lon": 77.21926
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "sirohi-house-delhi",
+    "name": "Sirohi House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Sirohi House is a tourism place in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6835,
+      "lon": 77.2219
+    }
+  },
+  {
+    "id": "sri-digambar-jain-lal-mandir-delhi",
+    "name": "Sri Digambar Jain Lal Mandir",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Sri Digambar Jain Lal Mandir is a building in India.",
+    "coordinates": {
+      "lat": 28.6558,
+      "lon": 77.2363
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "st-james-church-delhi-delhi",
+    "name": "St. James' Church, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "St. James' Church, Delhi is a church in Delhi, India.",
+    "coordinates": {
+      "lat": 28.66564,
+      "lon": 77.23078
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-luke-s-church-new-delhi-delhi",
+    "name": "St. Luke's Church, New Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "St. Luke's Church, New Delhi is a church in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.57003,
+      "lon": 77.22772
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-sebastian-s-church-dilshad-garden-delhi",
+    "name": "St. Sebastian's Church (Dilshad Garden)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "St. Sebastian's Church (Dilshad Garden) is a building in India.",
+    "coordinates": {
+      "lat": 28.68754,
+      "lon": 77.31598
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "st-stephen-s-church-delhi-delhi",
+    "name": "St. Stephen's Church, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "St. Stephen's Church, Delhi is a church in Delhi, India.",
+    "coordinates": {
+      "lat": 28.6591,
+      "lon": 77.2232
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "state-trading-corporation-building-delhi",
+    "name": "State Trading Corporation building",
+    "state": "Delhi",
+    "category": "other",
+    "description": "State Trading Corporation building is an office building in Tolstoy Marg, New Delhi.",
+    "coordinates": {
+      "lat": 28.62572,
+      "lon": 77.22014
+    }
+  },
+  {
+    "id": "sulabh-international-museum-of-toilets-delhi",
+    "name": "Sulabh International Museum of Toilets",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sulabh International Museum of Toilets is an international museum.",
+    "coordinates": {
+      "lat": 28.5966,
+      "lon": 77.0808
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "sultan-ghari-delhi",
+    "name": "Sultan Ghari",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Sultan Ghari is a tomb built in the 13th century for Nasiruddin Mahmud.",
+    "coordinates": {
+      "lat": 28.53333,
+      "lon": 77.13694
+    }
+  },
+  {
+    "id": "sunder-nursery-delhi",
+    "name": "Sunder Nursery",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Sunder Nursery is a park in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.59687,
+      "lon": 77.24534
+    }
+  },
+  {
+    "id": "sunehri-bagh-masjid-delhi",
+    "name": "Sunehri Bagh Masjid",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Sunehri Bagh Masjid is a mosque in Delhi, India.",
+    "coordinates": {
+      "lat": 28.61028,
+      "lon": 77.21194
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "sunehri-masjid-chandni-chowk-delhi",
+    "name": "Sunehri Masjid (Chandni Chowk)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Sunehri Masjid (Chandni Chowk) is a mosque in India.",
+    "coordinates": {
+      "lat": 28.656,
+      "lon": 77.2319
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "supreme-court-museum-delhi",
+    "name": "Supreme Court Museum",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Supreme Court Museum is a museum dedicated to the journey of judiciary in India.",
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "swaminarayan-akshardham-delhi-delhi",
+    "name": "Swaminarayan Akshardham (Delhi)",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Swaminarayan Akshardham (Delhi) is a spiritual and cultural Mandir dedicated to devotion, learning and harmony.",
+    "coordinates": {
+      "lat": 28.6125,
+      "lon": 77.2773
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "talkatora-gardens-delhi",
+    "name": "Talkatora Gardens",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Talkatora Gardens is a park in New Delh, India.",
+    "coordinates": {
+      "lat": 28.62417,
+      "lon": 77.19333
+    }
+  },
+  {
+    "id": "teen-murti-bhavan-delhi",
+    "name": "Teen Murti Bhavan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Teen Murti Bhavan is a former residence of the first Prime Minister of India, Jawaharlal Nehru, in New Delhi.",
+    "coordinates": {
+      "lat": 28.6026,
+      "lon": 77.1988
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "tehri-garhwal-house-delhi",
+    "name": "Tehri Garhwal House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Tehri Garhwal House is a former residence of the Maharaja of Tehri Garhwal.",
+    "coordinates": {
+      "lat": 28.6214,
+      "lon": 77.2352
+    }
+  },
+  {
+    "id": "tibet-house-delhi",
+    "name": "Tibet House",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tibet House is a non-Profit Cultural Organization.",
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "tilpat-valley-biodiversity-park-delhi",
+    "name": "Tilpat Valley Biodiversity Park",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Tilpat Valley Biodiversity Park is a biodiversity area in Delhi Ridge, Delhi.",
+    "coordinates": {
+      "lat": 28.48959,
+      "lon": 77.21321
+    }
+  },
+  {
+    "id": "tomb-of-adham-khan-delhi",
+    "name": "Tomb of Adham Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Adham Khan is a tomb to the north of the Qutub Minar, Mehrauli, Delhi.",
+    "coordinates": {
+      "lat": 28.52305,
+      "lon": 77.18196
+    }
+  },
+  {
+    "id": "tomb-of-ataga-khan-delhi",
+    "name": "Tomb of Ataga Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Ataga Khan is a building in Delhi, India.",
+    "coordinates": {
+      "lat": 28.59077,
+      "lon": 77.24194
+    }
+  },
+  {
+    "id": "tomb-of-bahlul-lodi-delhi",
+    "name": "Tomb of Bahlul Lodi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Bahlul Lodi is a tomb in Delhi, India.",
+    "coordinates": {
+      "lat": 28.53869,
+      "lon": 77.22214
+    }
+  },
+  {
+    "id": "tomb-of-balban-delhi",
+    "name": "Tomb of Balban",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Balban is a mamluk ruler.",
+    "coordinates": {
+      "lat": 28.5194,
+      "lon": 77.1886
+    }
+  },
+  {
+    "id": "tomb-of-imam-zamin-delhi",
+    "name": "Tomb of Imam Zamin",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Imam Zamin is a tomb in Delhi, India.",
+    "coordinates": {
+      "lat": 28.52417,
+      "lon": 77.18583
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "tomb-of-isa-khan-delhi",
+    "name": "Tomb of Isa Khan",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Isa Khan is a mausoleum in Delhi, India.",
+    "coordinates": {
+      "lat": 28.5922,
+      "lon": 77.2462
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "tomb-of-khan-i-jahan-tilangani-delhi",
+    "name": "Tomb of Khan-i Jahan Tilangani",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Khan-i Jahan Tilangani is a building in Delhi, India.",
+    "coordinates": {
+      "lat": 28.58996,
+      "lon": 77.24233
+    }
+  },
+  {
+    "id": "tomb-of-safdar-jang-delhi",
+    "name": "Tomb of Safdar Jang",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Safdar Jang is a sandstone and marble mausoleum in Delhi.",
+    "coordinates": {
+      "lat": 28.58929,
+      "lon": 77.21061
+    }
+  },
+  {
+    "id": "tomb-of-sikandar-lodi-delhi",
+    "name": "Tomb of Sikandar Lodi",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Sikandar Lodi is a tomb.",
+    "coordinates": {
+      "lat": 28.59626,
+      "lon": 77.22156
+    }
+  },
+  {
+    "id": "tomb-of-syed-abid-delhi",
+    "name": "Tomb of Syed Abid",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tomb of Syed Abid is a tomb.",
+    "coordinates": {
+      "lat": 28.60024,
+      "lon": 77.23712
+    }
+  },
+  {
+    "id": "tombs-of-battashewala-complex-delhi",
+    "name": "Tombs of Battashewala Complex",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tombs of Battashewala Complex is a building complex in Delhi, India.",
+    "coordinates": {
+      "lat": 28.5961,
+      "lon": 77.2489
+    }
+  },
+  {
+    "id": "tripolia-gates-delhi",
+    "name": "Tripolia Gates",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Tripolia Gates is a gate in Delhi, India.",
+    "coordinates": {
+      "lat": 28.68719,
+      "lon": 77.19424
+    }
+  },
+  {
+    "id": "triveni-kala-sangam-delhi",
+    "name": "Triveni Kala Sangam",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Triveni Kala Sangam is an organization.",
+    "coordinates": {
+      "lat": 28.62694,
+      "lon": 77.23194
+    }
+  },
+  {
+    "id": "tughlaqabad-fort-delhi",
+    "name": "Tughlaqabad Fort",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Tughlaqabad Fort is a building in India.",
+    "coordinates": {
+      "lat": 28.51461,
+      "lon": 77.25997
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "udaipur-house-delhi",
+    "name": "Udaipur House",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Udaipur House is a royal residence in New Delhi, India.",
+    "coordinates": {
+      "lat": 28.67046,
+      "lon": 77.21904
+    }
+  },
+  {
+    "id": "urdu-bazaar-delhi",
+    "name": "Urdu Bazaar",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Urdu Bazaar is a major market in the walled city of Delhi, India.",
+    "coordinates": {
+      "lat": 28.64975,
+      "lon": 77.23347
+    }
+  },
+  {
+    "id": "uttara-guruvayurappan-temple-delhi",
+    "name": "Uttara Guruvayurappan Temple",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Uttara Guruvayurappan Temple is a temple in India.",
+    "coordinates": {
+      "lat": 28.60361,
+      "lon": 77.29778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "uttara-swami-malai-temple-delhi",
+    "name": "Uttara Swami Malai Temple",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Uttara Swami Malai Temple is a temple in India.",
+    "coordinates": {
+      "lat": 28.5675,
+      "lon": 77.1665
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "wall-of-truth-delhi",
+    "name": "Wall of Truth",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Wall of Truth is a sikh Genocide 1984 Memorial.",
+    "coordinates": {
+      "lat": 28.61985,
+      "lon": 77.20522
+    }
+  },
+  {
+    "id": "wazirabad-barrage-delhi",
+    "name": "Wazirabad barrage",
+    "state": "Delhi",
+    "category": "nature",
+    "description": "Wazirabad barrage is a dam in Wazirabad, Delhi.",
+    "coordinates": {
+      "lat": 28.71245,
+      "lon": 77.23318
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "worldmark-aerocity-delhi",
+    "name": "Worldmark Aerocity",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Worldmark Aerocity is an indian real estate project."
+  },
+  {
+    "id": "yamuna-biodiversity-park-delhi",
+    "name": "Yamuna Biodiversity Park",
+    "state": "Delhi",
+    "category": "other",
+    "description": "Yamuna Biodiversity Park is a 9770-hectare biodiversity area in Delhi.",
+    "coordinates": {
+      "lat": 28.73418,
+      "lon": 77.21467
+    }
+  },
+  {
+    "id": "yogmaya-temple-delhi-delhi",
+    "name": "Yogmaya Temple, Delhi",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Yogmaya Temple, Delhi is a hindu temple in Delhi, India.",
+    "coordinates": {
+      "lat": 28.525,
+      "lon": 77.1825
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "yuge-yugeen-bharat-delhi",
+    "name": "Yuge Yugeen Bharat",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Yuge Yugeen Bharat is a museum in Delhi, India.",
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "zafar-mahal-mehrauli-delhi",
+    "name": "Zafar Mahal (Mehrauli)",
+    "state": "Delhi",
+    "category": "heritage",
+    "description": "Zafar Mahal (Mehrauli) is a building in India.",
+    "coordinates": {
+      "lat": 28.5158,
+      "lon": 77.1775
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "zeenat-ul-masajid-delhi",
+    "name": "Zeenat-ul-Masajid",
+    "state": "Delhi",
+    "category": "spiritual",
+    "description": "Zeenat-ul-Masajid is a mosque in Delhi, India.",
+    "coordinates": {
+      "lat": 28.64664,
+      "lon": 77.24492
+    },
+    "tags": [
+      "mosque"
+    ]
+  }
+]

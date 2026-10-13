@@ -1,0 +1,468 @@
+[
+  {
+    "id": "baghmara-pitcher-plant-wildlife-sanctuary-meghalaya",
+    "name": "Baghmara Pitcher Plant Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Baghmara Pitcher Plant Wildlife Sanctuary is a protected area in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.19814,
+      "lon": 90.63877
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "balpakram-national-park-meghalaya",
+    "name": "Balpakram National Park",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Balpakram National Park is a national park in India.",
+    "coordinates": {
+      "lat": 25.5,
+      "lon": 90.75
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "bishop-falls-india-meghalaya",
+    "name": "Bishop Falls (India)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Bishop Falls (India) is a waterfall in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.584,
+      "lon": 91.864
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "chandigre-meghalaya",
+    "name": "Chandigre",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Chandigre is a village in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.52727,
+      "lon": 90.32738
+    }
+  },
+  {
+    "id": "daribokgre-meghalaya",
+    "name": "Daribokgre",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Daribokgre is a village in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.49167,
+      "lon": 90.32399
+    }
+  },
+  {
+    "id": "elephant-falls-meghalaya",
+    "name": "Elephant Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Elephant Falls is a waterfall in Shillong, Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.5361,
+      "lon": 91.8225
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "krem-liat-prah-meghalaya",
+    "name": "Krem Liat Prah",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Krem Liat Prah is a cave in Meghalaya, India.",
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "krem-synrang-pamiang-meghalaya",
+    "name": "Krem Synrang Pamiang",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Krem Synrang Pamiang is a cave in India.",
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "kynrem-falls-meghalaya",
+    "name": "Kynrem Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Kynrem Falls is a waterfall.",
+    "coordinates": {
+      "lat": 25.227,
+      "lon": 91.716
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "langshiang-falls-meghalaya",
+    "name": "Langshiang Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Langshiang Falls is a waterfall.",
+    "coordinates": {
+      "lat": 25.44521,
+      "lon": 91.22866
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "living-root-bridge-meghalaya",
+    "name": "Living root bridge",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Living root bridge is a type of pedestrian bridge made with live tree roots."
+  },
+  {
+    "id": "madina-mosque-shillong-meghalaya",
+    "name": "Madina Mosque, Shillong",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Madina Mosque, Shillong is a mosque in Shillong, Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.56708,
+      "lon": 91.87792
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "mary-help-of-christians-cathedral-shillong-meghalaya",
+    "name": "Mary Help of Christians Cathedral, Shillong",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Mary Help of Christians Cathedral, Shillong is a cathedral in Shilong, Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.56845,
+      "lon": 91.89134
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "mawmluh-cave-meghalaya",
+    "name": "Mawmluh Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Mawmluh Cave is a cave in India.",
+    "coordinates": {
+      "lat": 25.25889,
+      "lon": 91.7125
+    },
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "mawphanlur-meghalaya",
+    "name": "Mawphanlur",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Mawphanlur is a village in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.54612,
+      "lon": 91.45322
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "narpuh-wildlife-sanctuary-meghalaya",
+    "name": "Narpuh Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Narpuh Wildlife Sanctuary is a wildlife sanctuary in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.1187,
+      "lon": 92.4494
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "nartiang-durga-temple-meghalaya",
+    "name": "Nartiang Durga Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Nartiang Durga Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 25.567,
+      "lon": 92.209
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "new-shillong-meghalaya",
+    "name": "New Shillong",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "New Shillong is an administrative territorial entity in Meghalaya, India.",
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "nohkalikai-falls-meghalaya",
+    "name": "Nohkalikai Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Nohkalikai Falls is a waterfall in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.27552,
+      "lon": 91.68668
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "nohsngithiang-falls-meghalaya",
+    "name": "Nohsngithiang Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Nohsngithiang Falls is a waterfall in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.24278,
+      "lon": 91.74083
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "nokrek-national-park-meghalaya",
+    "name": "Nokrek National Park",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Nokrek National Park is a national park in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.53333,
+      "lon": 90.11667
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "nongkhyllem-wildlife-sanctuary-meghalaya",
+    "name": "Nongkhyllem Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Nongkhyllem Wildlife Sanctuary is a wildlife sanctuary in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.92738,
+      "lon": 91.74652
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "nongtalang-meghalaya",
+    "name": "Nongtalang",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Nongtalang is a town in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.2093,
+      "lon": 92.06685
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "rangthylliang-1-root-bridge-meghalaya",
+    "name": "Rangthylliang 1 root bridge",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Rangthylliang 1 root bridge is a living root bridge in Cherrapunji, Meghalaya, India."
+  },
+  {
+    "id": "sasatgre-meghalaya",
+    "name": "Sasatgre",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Sasatgre is a village in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.52727,
+      "lon": 90.32738
+    }
+  },
+  {
+    "id": "shillong-meghalaya",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Shillong is a capital city of Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.57444,
+      "lon": 91.87889
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "siju-cave-meghalaya",
+    "name": "Siju Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Siju Cave is a cave in North East India.",
+    "tags": [
+      "cave"
+    ]
+  },
+  {
+    "id": "siju-wildlife-sanctuary-meghalaya",
+    "name": "Siju Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Siju Wildlife Sanctuary is a wildlife sanctuary in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.33778,
+      "lon": 90.68639
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "sweet-falls-meghalaya",
+    "name": "Sweet Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Sweet Falls is a waterfall in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.56111,
+      "lon": 91.95861
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "thadlaskein-lake-meghalaya",
+    "name": "Thadlaskein Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Thadlaskein Lake is a lake in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.497,
+      "lon": 92.173
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "tura-meghalaya-meghalaya",
+    "name": "Tura, Meghalaya",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Tura, Meghalaya is a town of Meghalaya.",
+    "coordinates": {
+      "lat": 25.52,
+      "lon": 90.22
+    }
+  },
+  {
+    "id": "umiam-lake-meghalaya",
+    "name": "Umiam Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Umiam Lake is a lake in India.",
+    "coordinates": {
+      "lat": 25.6532,
+      "lon": 91.8843
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "umshiang-double-decker-root-bridge-meghalaya",
+    "name": "Umshiang Double-Decker Root Bridge",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Umshiang Double-Decker Root Bridge is a living root bridge in Meghalya, India.",
+    "coordinates": {
+      "lat": 25.25126,
+      "lon": 91.67195
+    }
+  },
+  {
+    "id": "wah-kaba-falls-meghalaya",
+    "name": "Wah Kaba Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Wah Kaba Falls is a waterfall in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.31145,
+      "lon": 91.73286
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "wangala-meghalaya",
+    "name": "Wangala",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Wangala is a harvest festival celebrated by the Garo tribe."
+  },
+  {
+    "id": "ward-s-lake-shillong-meghalaya",
+    "name": "Ward's Lake (Shillong)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ward's Lake (Shillong) is an artificial lake in Shillong, India.",
+    "coordinates": {
+      "lat": 25.575,
+      "lon": 91.887
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "wei-sawdong-falls-meghalaya",
+    "name": "Wei Sawdong Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Wei Sawdong Falls is a waterfall in Meghalaya, India.",
+    "coordinates": {
+      "lat": 25.29123,
+      "lon": 91.67835
+    },
+    "tags": [
+      "waterfall"
+    ]
+  }
+]

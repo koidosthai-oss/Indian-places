@@ -1,0 +1,4662 @@
+[
+  {
+    "id": "aali-palace-odisha",
+    "name": "Aali Palace",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Aali Palace is a building in Odisha, India.",
+    "coordinates": {
+      "lat": 20.69111,
+      "lon": 86.64944
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "aisanyesvara-siva-temple-odisha",
+    "name": "Aisanyesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Aisanyesvara Siva Temple is a hindu Temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.23333,
+      "lon": 85.81667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ajaikapada-bhairava-temple-odisha",
+    "name": "Ajaikapada Bhairava Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ajaikapada Bhairava Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.16472,
+      "lon": 86.22306
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "akhadachandi-temple-odisha",
+    "name": "Akhadachandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Akhadachandi Temple is a temple in Odisha.",
+    "coordinates": {
+      "lat": 20.24083,
+      "lon": 85.83367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "akhandalamani-temple-odisha",
+    "name": "Akhandalamani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Akhandalamani Temple is a hindu temple in Bhadrak, Odisha.",
+    "coordinates": {
+      "lat": 20.03431,
+      "lon": 85.13544
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "alamchandi-temple-odisha",
+    "name": "Alamchandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Alamchandi Temple is a temple at Puri, Odisha.",
+    "coordinates": {
+      "lat": 19.81848,
+      "lon": 85.83081
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "alarnatha-mandira-odisha",
+    "name": "Alarnatha Mandira",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Alarnatha Mandira is a vishnu temple located in Brahmagiri, near Puri, India.",
+    "coordinates": {
+      "lat": 19.79279,
+      "lon": 85.64511
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ananta-vasudeva-temple-odisha",
+    "name": "Ananta Vasudeva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ananta Vasudeva Temple is a hindu temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.24061,
+      "lon": 85.83578
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "anantasaayi-vishnu-temple-odisha",
+    "name": "Anantasaayi Vishnu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Anantasaayi Vishnu Temple is a building in India.",
+    "coordinates": {
+      "lat": 21.47139,
+      "lon": 83.9625
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "anantashayana-vishnu-odisha",
+    "name": "Anantashayana Vishnu",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Anantashayana Vishnu is a recurring theme in Hinduist art.",
+    "coordinates": {
+      "lat": 20.93333,
+      "lon": 85.28333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "annakoteshvara-temple-odisha",
+    "name": "Annakoteshvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Annakoteshvara Temple is a building in India.",
+    "coordinates": {
+      "lat": 20.80953,
+      "lon": 85.6583
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "anshupa-lake-odisha",
+    "name": "Anshupa Lake",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Anshupa Lake is a lake in India.",
+    "coordinates": {
+      "lat": 20.45914,
+      "lon": 85.60371
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "arjunesvara-siva-temple-odisha",
+    "name": "Arjunesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Arjunesvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.24472,
+      "lon": 85.835
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "aruna-stambha-odisha",
+    "name": "Aruna Stambha",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Aruna Stambha is a religious Pillar of Jagannath Temple at Puri, Odisha, India.",
+    "coordinates": {
+      "lat": 19.805,
+      "lon": 85.8179
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "astasambhu-siva-temples-odisha",
+    "name": "Astasambhu Siva Temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Astasambhu Siva Temples is a collection of 8 Shiva temples in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.25056,
+      "lon": 85.855
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "asurgarh-odisha",
+    "name": "Asurgarh",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Asurgarh is a place in Odisha, India.",
+    "coordinates": {
+      "lat": 20.09541,
+      "lon": 83.34428
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "atharanala-odisha",
+    "name": "Atharanala",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Atharanala is a bridge in Puri town, Odisha (India).",
+    "coordinates": {
+      "lat": 19.81981,
+      "lon": 85.83171
+    }
+  },
+  {
+    "id": "atri-odisha-odisha",
+    "name": "Atri, Odisha",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Atri, Odisha is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 20.15,
+      "lon": 85.3
+    }
+  },
+  {
+    "id": "baba-bhusandeswar-temple-odisha",
+    "name": "Baba Bhusandeswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Baba Bhusandeswar Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 21.62424,
+      "lon": 87.45323
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "badaghagara-waterfall-odisha",
+    "name": "Badaghagara Waterfall",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Badaghagara Waterfall is a waterfall.",
+    "coordinates": {
+      "lat": 21.60874,
+      "lon": 85.55574
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "baisipalli-wildlife-sanctuary-odisha",
+    "name": "Baisipalli Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Baisipalli Wildlife Sanctuary is a wildlife sanctuary in Odisha, India.",
+    "coordinates": {
+      "lat": 20.45,
+      "lon": 84.75
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "baitala-deula-odisha",
+    "name": "Baitala Deula",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Baitala Deula is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24243,
+      "lon": 85.83232
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "baladevjew-temple-odisha",
+    "name": "Baladevjew Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Baladevjew Temple is a building in India.",
+    "coordinates": {
+      "lat": 20.03333,
+      "lon": 86.03333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "balimela-reservoir-odisha",
+    "name": "Balimela Reservoir",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Balimela Reservoir is a lake in India.",
+    "coordinates": {
+      "lat": 18.3,
+      "lon": 82.25
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "balimela-wildlife-sanctuary-odisha",
+    "name": "Balimela Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Balimela Wildlife Sanctuary is a wildlife refuge in Odisha, India.",
+    "coordinates": {
+      "lat": 18.22141,
+      "lon": 82.10573
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "balukhand-konark-wildlife-sanctuary-odisha",
+    "name": "Balukhand-Konark Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Balukhand-Konark Wildlife Sanctuary is a wildlife sanctuary in the state of Odisha, India.",
+    "coordinates": {
+      "lat": 19.8619,
+      "lon": 86.0477
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "baneswara-temple-balasore-odisha",
+    "name": "Baneswara Temple, Balasore",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Baneswara Temple, Balasore is a hindu Temple in Balasore, Odisha.",
+    "coordinates": {
+      "lat": 21.48801,
+      "lon": 86.95836
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "banjari-deity-odisha",
+    "name": "Banjari (deity)",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Banjari (deity) is a hindu deity in Odisha, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "barabati-fort-odisha",
+    "name": "Barabati fort",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Barabati fort is an indian fort.",
+    "coordinates": {
+      "lat": 20.48463,
+      "lon": 85.86442
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "barehipani-falls-odisha",
+    "name": "Barehipani Falls",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Barehipani Falls is a waterfall in Odisha, India.",
+    "coordinates": {
+      "lat": 21.93358,
+      "lon": 86.38034
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "bata-mahadeva-odisha",
+    "name": "Bata Mahadeva",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bata Mahadeva is a temple in India.",
+    "coordinates": {
+      "lat": 20.24583,
+      "lon": 85.83722
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bata-mangala-temple-odisha",
+    "name": "Bata Mangala Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bata Mangala Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 19.6499,
+      "lon": 85.8399
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "beharana-mandapa-odisha",
+    "name": "Beharana Mandapa",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Beharana Mandapa is a temple in India.",
+    "coordinates": {
+      "lat": 20.2291,
+      "lon": 85.82746
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "beleswar-temple-odisha",
+    "name": "Beleswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Beleswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 19.83188,
+      "lon": 85.94283
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "belgadia-palace-odisha",
+    "name": "Belgadia Palace",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Belgadia Palace is a 18th-century Victorian-era styled hill-top palace in Odisha, India.",
+    "coordinates": {
+      "lat": 21.943,
+      "lon": 86.724
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "bhadrakali-temple-aharapada-odisha",
+    "name": "Bhadrakali Temple, Aharapada",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhadrakali Temple, Aharapada is a temple in Aharapada, Odisha, India.",
+    "coordinates": {
+      "lat": 21.01527,
+      "lon": 86.53672
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhagabati-temple-banapur-odisha",
+    "name": "Bhagabati Temple, Banapur",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhagabati Temple, Banapur is a temple in India.",
+    "coordinates": {
+      "lat": 19.75936,
+      "lon": 85.16195
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhandara-ghara-shrine-odisha",
+    "name": "Bhandara Ghara Shrine",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhandara Ghara Shrine is a temple in India.",
+    "coordinates": {
+      "lat": 20.22907,
+      "lon": 85.82751
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bharateswar-temple-odisha",
+    "name": "Bharateswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bharateswar Temple is a hindu temple in Bhubaneswar dedicated to Bharat, Ram's brother.",
+    "coordinates": {
+      "lat": 20.23333,
+      "lon": 85.81667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bharati-matha-temple-odisha",
+    "name": "Bharati Matha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bharati Matha Temple is a hindu Matha and Shiva Temple.",
+    "coordinates": {
+      "lat": 20.24047,
+      "lon": 85.83235
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhattarika-temple-odisha",
+    "name": "Bhattarika Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhattarika Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.36853,
+      "lon": 85.27171
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhima-kunda-odisha",
+    "name": "Bhima Kunda",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhima Kunda is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.23944,
+      "lon": 85.82417
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhimashankar-jyotirlinga-dakinyam-bhimpur-odisha",
+    "name": "Bhimashankar Jyotirlinga (Dakinyam), Bhimpur",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhimashankar Jyotirlinga (Dakinyam), Bhimpur is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 19.1591,
+      "lon": 83.9178
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhitarkanika-mangroves-odisha",
+    "name": "Bhitarkanika Mangroves",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Bhitarkanika Mangroves is a mangrove wetland in India's Odisha state, covering an area of 650 km/square in the river delta of the Brahmani and Baitarani rivers.",
+    "coordinates": {
+      "lat": 20.65,
+      "lon": 86.9
+    }
+  },
+  {
+    "id": "bhitarkanika-national-park-odisha",
+    "name": "Bhitarkanika National Park",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Bhitarkanika National Park is a national park in Odisha, India.",
+    "coordinates": {
+      "lat": 20.6625,
+      "lon": 86.9341
+    },
+    "tags": [
+      "national-park"
+    ]
+  },
+  {
+    "id": "bhringesvara-siva-temple-odisha",
+    "name": "Bhringesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhringesvara Siva Temple is a hindu temple in Odisha.",
+    "coordinates": {
+      "lat": 22.19917,
+      "lon": 85.83778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhrukutesvar-siva-temple-odisha",
+    "name": "Bhrukutesvar Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhrukutesvar Siva Temple is a hindu temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.23833,
+      "lon": 85.83361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhuvaneshwar-temple-boudh-odisha",
+    "name": "Bhuvaneshwar Temple, Boudh",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Bhuvaneshwar Temple, Boudh is a temple in India.",
+    "coordinates": {
+      "lat": 20.8442,
+      "lon": 84.31626
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bindusagar-lake-odisha",
+    "name": "Bindusagar Lake",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Bindusagar Lake is a lake in Odisha, India.",
+    "coordinates": {
+      "lat": 20.2421,
+      "lon": 85.8352
+    },
+    "tags": [
+      "temple",
+      "lake"
+    ]
+  },
+  {
+    "id": "biraja-temple-odisha",
+    "name": "Biraja Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Biraja Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.83376,
+      "lon": 86.33814
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "biranchinarayan-temple-buguda-odisha",
+    "name": "Biranchinarayan Temple, Buguda",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Biranchinarayan Temple, Buguda is a temple in India.",
+    "coordinates": {
+      "lat": 19.80882,
+      "lon": 84.7942
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "biranchinarayan-temple-palia-odisha",
+    "name": "Biranchinarayan Temple, Palia",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Biranchinarayan Temple, Palia is a temple in India.",
+    "coordinates": {
+      "lat": 21.0275,
+      "lon": 86.6111
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "black-diamond-museum-angul-odisha",
+    "name": "Black Diamond Museum, Angul",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Black Diamond Museum, Angul is a combined library and museum in Odisha.",
+    "coordinates": {
+      "lat": 20.84,
+      "lon": 85.15
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "brahma-temple-bindusagar-odisha",
+    "name": "Brahma Temple, Bindusagar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Brahma Temple, Bindusagar is a hindu temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.24556,
+      "lon": 85.83722
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "brahma-temple-niali-odisha",
+    "name": "Brahma Temple, Niali",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Brahma Temple, Niali is a temple in India.",
+    "coordinates": {
+      "lat": 20.14015,
+      "lon": 86.0628
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "brahmani-temple-odisha",
+    "name": "Brahmani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Brahmani Temple is a temple in India.",
+    "coordinates": {
+      "lat": 21.25587,
+      "lon": 86.80939
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "brahmeswara-temple-odisha",
+    "name": "Brahmeswara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Brahmeswara Temple is a hindu temple of Shiva in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.23972,
+      "lon": 85.85167
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "buddhanath-temple-odisha",
+    "name": "Buddhanath Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Buddhanath Temple is a hindu Temple in Khordha district Odisha.",
+    "coordinates": {
+      "lat": 20.19668,
+      "lon": 85.94849
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "budha-deula-odisha",
+    "name": "Budha Deula",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Budha Deula is a shiva temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24556,
+      "lon": 85.83444
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "budha-ganesha-temple-odisha",
+    "name": "Budha Ganesha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Budha Ganesha Temple is a hindu temple.",
+    "coordinates": {
+      "lat": 20.85772,
+      "lon": 86.33642
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "budharaja-odisha",
+    "name": "Budharaja",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Budharaja is an indian town.",
+    "coordinates": {
+      "lat": 21.48448,
+      "lon": 83.97928
+    }
+  },
+  {
+    "id": "byamokesvara-temple-odisha",
+    "name": "Byamokesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Byamokesvara Temple is a hindu Shiva temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.2381,
+      "lon": 85.83467
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chakra-narasimha-temple-odisha",
+    "name": "Chakra Narasimha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chakra Narasimha Temple is a temple in India.",
+    "coordinates": {
+      "lat": 19.80181,
+      "lon": 85.84442
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chakreshvari-siva-temple-odisha",
+    "name": "Chakreshvari Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chakreshvari Siva Temple is a hindu temple located in Bhubaneswar dedicated to Shiva.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chakresvara-tank-odisha",
+    "name": "Chakresvara Tank",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chakresvara Tank is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24917,
+      "lon": 85.8475
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "champakesvara-siva-temple-odisha",
+    "name": "Champakesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Champakesvara Siva Temple is a hindu Shiva temple located in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.24667,
+      "lon": 85.85778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chandaka-elephant-sanctuary-odisha",
+    "name": "Chandaka Elephant Sanctuary",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Chandaka Elephant Sanctuary is a wildlife reserve.",
+    "coordinates": {
+      "lat": 20.36667,
+      "lon": 85.76667
+    }
+  },
+  {
+    "id": "chandaneswar-temple-odisha",
+    "name": "Chandaneswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chandaneswar Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 21.62833,
+      "lon": 87.45778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chandrabhaga-beach-odisha",
+    "name": "Chandrabhaga Beach",
+    "state": "Odisha",
+    "category": "beach",
+    "description": "Chandrabhaga Beach is a beach in Odisha, India.",
+    "coordinates": {
+      "lat": 19.85452,
+      "lon": 86.07457
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "chandrasekhara-mahadeva-temple-odisha",
+    "name": "Chandrasekhara Mahadeva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chandrasekhara Mahadeva Temple is a hindu Shiva temple in Odisha.",
+    "coordinates": {
+      "lat": 20.34972,
+      "lon": 85.83528
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "charchika-temple-odisha",
+    "name": "Charchika Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Charchika Temple is a temple in India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chari-kshetra-odisha",
+    "name": "Chari Kshetra",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chari Kshetra is a four holy regions in Odisha.",
+    "coordinates": {
+      "lat": 19.80866,
+      "lon": 85.83567
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "chari-sambhu-temple-odisha",
+    "name": "Chari Sambhu Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chari Sambhu Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.87498,
+      "lon": 84.20538
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chateshwar-temple-odisha",
+    "name": "Chateshwar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chateshwar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.50335,
+      "lon": 86.04864
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chatikona-odisha",
+    "name": "Chatikona",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Chatikona is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 19.4667,
+      "lon": 83.45
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chausath-yogini-temple-hirapur-odisha",
+    "name": "Chausath Yogini Temple, Hirapur",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chausath Yogini Temple, Hirapur is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.21667,
+      "lon": 85.87083
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chausath-yogini-temple-ranipur-jharial-odisha",
+    "name": "Chausath Yogini Temple, Ranipur Jharial",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chausath Yogini Temple, Ranipur Jharial is a temple in Odisha.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chilika-lake-odisha",
+    "name": "Chilika Lake",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Chilika Lake is a lagoon in India.",
+    "coordinates": {
+      "lat": 19.71667,
+      "lon": 85.31667
+    },
+    "tags": [
+      "world-heritage",
+      "lake"
+    ]
+  },
+  {
+    "id": "chintamanisvara-siva-temple-odisha",
+    "name": "Chintamanisvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chintamanisvara Siva Temple is a hindu Shiva temple located in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.25,
+      "lon": 85.83889
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chudanga-gada-odisha",
+    "name": "Chudanga Gada",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Chudanga Gada is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.42111,
+      "lon": 85.80694
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ]
+  },
+  {
+    "id": "debakunda-odisha",
+    "name": "Debakunda",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Debakunda is a pond in India.",
+    "coordinates": {
+      "lat": 21.70583,
+      "lon": 86.44528
+    }
+  },
+  {
+    "id": "debrigarh-wildlife-sanctuary-odisha",
+    "name": "Debrigarh Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Debrigarh Wildlife Sanctuary is a protected area in Odisha, India.",
+    "coordinates": {
+      "lat": 21.5571,
+      "lon": 83.64611
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "deulajhari-odisha",
+    "name": "Deulajhari",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Deulajhari is a human settlement in India.",
+    "coordinates": {
+      "lat": 20.72,
+      "lon": 84.53
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "devagiri-hill-odisha",
+    "name": "Devagiri Hill",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Devagiri Hill is a mountain in Odisha, India.",
+    "coordinates": {
+      "lat": 18.8961,
+      "lon": 84.1208
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "devasabha-temple-odisha",
+    "name": "Devasabha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Devasabha Temple is a hindu temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.2375,
+      "lon": 85.83528
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dhabaleswar-temple-odisha",
+    "name": "Dhabaleswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dhabaleswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.19833,
+      "lon": 85.84472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dhauli-odisha",
+    "name": "Dhauli",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Dhauli is a hill in Khurdha district.",
+    "coordinates": {
+      "lat": 20.18333,
+      "lon": 85.83333
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "dhenkanal-palace-odisha",
+    "name": "Dhenkanal Palace",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Dhenkanal Palace is a historic site in Dhenkanal, Odisha.",
+    "coordinates": {
+      "lat": 20.6487,
+      "lon": 85.6077
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "digambara-jain-temple-khandagiri-odisha",
+    "name": "Digambara Jain temple, Khandagiri",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Digambara Jain temple, Khandagiri is a jain Temple in Odisha.",
+    "coordinates": {
+      "lat": 20.26194,
+      "lon": 85.78611
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dishisvara-siva-temple-odisha",
+    "name": "Dishisvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Dishisvara Siva Temple is a hindu Shiva temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.1464,
+      "lon": 85.5029
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dokarichanchara-odisha",
+    "name": "Dokarichanchara",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Dokarichanchara Waterfalls.",
+    "coordinates": {
+      "lat": 19.62044,
+      "lon": 82.54983
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "duduma-waterfalls-odisha",
+    "name": "Duduma Waterfalls",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Duduma Waterfalls is a waterfall in India.",
+    "coordinates": {
+      "lat": 18.51852,
+      "lon": 82.45356
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "durga-temple-baideshwar-odisha",
+    "name": "Durga Temple, Baideshwar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Durga Temple, Baideshwar is a temple in India.",
+    "coordinates": {
+      "lat": 20.35677,
+      "lon": 85.39434
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "durga-temple-motia-odisha",
+    "name": "Durga Temple, Motia",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Durga Temple, Motia is a 10th-century Kalinga temple dedicated to Durga.",
+    "coordinates": {
+      "lat": 20.06974,
+      "lon": 86.12529
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ekamra-kanan-odisha",
+    "name": "Ekamra Kanan",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Ekamra Kanan is a botanical garden in Bhubaneswar, Odisha, India.",
+    "coordinates": {
+      "lat": 20.30396,
+      "lon": 85.80356
+    }
+  },
+  {
+    "id": "ekamra-kshetra-odisha",
+    "name": "Ekamra Kshetra",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ekamra Kshetra is a tourist site in Odisha.",
+    "coordinates": {
+      "lat": 20.23833,
+      "lon": 85.83361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "emar-matha-odisha",
+    "name": "Emar Matha",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Emar Matha is an indian matha."
+  },
+  {
+    "id": "flora-and-fauna-of-odisha-odisha",
+    "name": "Flora and fauna of Odisha",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Flora and fauna of Odisha is an aspect in a geographic region in Odisha, India."
+  },
+  {
+    "id": "gahirmatha-beach-odisha",
+    "name": "Gahirmatha Beach",
+    "state": "Odisha",
+    "category": "beach",
+    "description": "Gahirmatha Beach is a beach in Odisha, India.",
+    "coordinates": {
+      "lat": 20.74419,
+      "lon": 87.00028
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "gahirmatha-marine-sanctuary-odisha",
+    "name": "Gahirmatha Marine Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Gahirmatha Marine Sanctuary is a marine wildlife sanctuary in Odisha, India.",
+    "coordinates": {
+      "lat": 20.57,
+      "lon": 86.84
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "gajapati-palace-odisha",
+    "name": "Gajapati Palace",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Gajapati Palace is a palace at Paralakhemundi.",
+    "coordinates": {
+      "lat": 18.77869,
+      "lon": 84.08688
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "gandahati-waterfall-odisha",
+    "name": "Gandahati Waterfall",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Gandahati Waterfall is a waterfall in Odisha, India.",
+    "coordinates": {
+      "lat": 18.88925,
+      "lon": 84.27014
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "gandhi-temple-bhatara-odisha",
+    "name": "Gandhi Temple, Bhatara",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gandhi Temple, Bhatara is a temple dedicated to Mahatma Gandhi.",
+    "coordinates": {
+      "lat": 21.43955,
+      "lon": 83.99394
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gangesvara-siva-temple-odisha",
+    "name": "Gangesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gangesvara Siva Temple is a hindu Shiva temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.2425,
+      "lon": 85.85472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ghanteswara-siva-temple-odisha",
+    "name": "Ghanteswara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ghanteswara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.26472,
+      "lon": 85.86111
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ghanteswari-temple-odisha",
+    "name": "Ghanteswari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ghanteswari Temple is a hindu Temple in Odisha.",
+    "coordinates": {
+      "lat": 21.35469,
+      "lon": 83.91922
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "godhaneswar-temple-odisha",
+    "name": "Godhaneswar temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Godhaneswar temple is a human settlement in Subarnapur district, Northern division, Odisha, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "golabai-odisha",
+    "name": "Golabai",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Golabai is a village in Odisha.",
+    "coordinates": {
+      "lat": 20.0225,
+      "lon": 85.55
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "gosagaresvar-siva-temple-odisha",
+    "name": "Gosagaresvar Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gosagaresvar Siva Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.23333,
+      "lon": 85.81667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gosagarsevara-mandapa-odisha",
+    "name": "Gosagarsevara Mandapa",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gosagarsevara Mandapa is a temple in India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "govardhan-math-odisha",
+    "name": "Govardhan Math",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Govardhan Math is a religious institution in Hinduism.",
+    "coordinates": {
+      "lat": 19.79504,
+      "lon": 85.81676
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "gundicha-temple-odisha",
+    "name": "Gundicha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gundicha Temple is a building in India.",
+    "coordinates": {
+      "lat": 19.81692,
+      "lon": 85.84036
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gupteswar-cave-odisha",
+    "name": "Gupteswar Cave",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Gupteswar Cave is a temple in India.",
+    "coordinates": {
+      "lat": 18.82257,
+      "lon": 82.16733
+    },
+    "tags": [
+      "temple",
+      "cave"
+    ]
+  },
+  {
+    "id": "hadgarh-wildlife-sanctuary-odisha",
+    "name": "Hadgarh Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Hadgarh Wildlife Sanctuary is a wildlife sanctuary in Odisha, India.",
+    "coordinates": {
+      "lat": 21.2934,
+      "lon": 86.2689
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "hanuman-temple-kedara-gouri-odisha",
+    "name": "Hanuman Temple, Kedara-Gouri",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Hanuman Temple, Kedara-Gouri is a temple in India.",
+    "coordinates": {
+      "lat": 20.24009,
+      "lon": 85.83504
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hanuman-vatika-odisha",
+    "name": "Hanuman Vatika",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Hanuman Vatika is a garden in Rourkela, India.",
+    "coordinates": {
+      "lat": 22.22174,
+      "lon": 84.83156
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "harihara-deula-odisha",
+    "name": "Harihara Deula",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Harihara Deula is a building in India.",
+    "coordinates": {
+      "lat": 20.87523,
+      "lon": 84.20533
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "harishankar-temple-odisha",
+    "name": "Harishankar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Harishankar Temple is a building in India.",
+    "coordinates": {
+      "lat": 20.85441,
+      "lon": 82.86061
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hirakud-dam-odisha",
+    "name": "Hirakud Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Hirakud Dam is a dam in Odisha, India.",
+    "coordinates": {
+      "lat": 21.53083,
+      "lon": 83.87167
+    }
+  },
+  {
+    "id": "historic-sites-in-odisha-odisha",
+    "name": "Historic sites in Odisha",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Historic sites in Odisha is a tourism place in Odisha, India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "indralath-temple-odisha",
+    "name": "Indralath Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Indralath Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.28708,
+      "lon": 82.96825
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "indravati-dam-odisha",
+    "name": "Indravati Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Indravati Dam is a dam in 30km from Nabarangpur, Odisha.",
+    "coordinates": {
+      "lat": 19.27633,
+      "lon": 82.82844
+    }
+  },
+  {
+    "id": "isanesvara-siva-temple-odisha",
+    "name": "Isanesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Isanesvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.25306,
+      "lon": 85.84333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jagannath-mandir-dharakot-odisha",
+    "name": "Jagannath Mandir, Dharakot",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannath Mandir, Dharakot is a temple in India.",
+    "coordinates": {
+      "lat": 19.80472,
+      "lon": 85.81833
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jagannath-temple-angul-odisha",
+    "name": "Jagannath Temple, Angul",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Angul is a hindu temple in India.",
+    "coordinates": {
+      "lat": 20.844,
+      "lon": 85.1515
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jagannath-temple-gunupur-odisha",
+    "name": "Jagannath Temple, Gunupur",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Gunupur is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 19.08,
+      "lon": 83.82
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jagannath-temple-koraput-odisha",
+    "name": "Jagannath Temple, Koraput",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Koraput is a building in India.",
+    "coordinates": {
+      "lat": 18.81061,
+      "lon": 82.7092
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jagannath-temple-nayagarh-odisha",
+    "name": "Jagannath Temple, Nayagarh",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Nayagarh is a building in India.",
+    "coordinates": {
+      "lat": 20.13173,
+      "lon": 85.09237
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jagannath-temple-puri-odisha",
+    "name": "Jagannath Temple, Puri",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Puri is a temple at Puri, Odisha.",
+    "coordinates": {
+      "lat": 19.80472,
+      "lon": 85.81833
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "jagannath-temple-rayagada-odisha",
+    "name": "Jagannath Temple, Rayagada",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Rayagada is a temple at Rayagada.",
+    "coordinates": {
+      "lat": 19.16003,
+      "lon": 83.40779
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jaleswar-siva-temple-precinct-odisha",
+    "name": "Jaleswar Siva Temple Precinct",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Jaleswar Siva Temple Precinct is a temple in Odisha.",
+    "coordinates": {
+      "lat": 20.36111,
+      "lon": 85.85278
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jaugada-odisha",
+    "name": "Jaugada",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Jaugada is a ruined fortress in Odisha, India.",
+    "coordinates": {
+      "lat": 19.52256,
+      "lon": 84.81225
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "joranda-falls-odisha",
+    "name": "Joranda Falls",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Joranda Falls is a waterfall in Odisha, India.",
+    "coordinates": {
+      "lat": 21.93722,
+      "lon": 86.40417
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "joranda-gadi-odisha",
+    "name": "Joranda Gadi",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Joranda Gadi is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.7856,
+      "lon": 85.72577
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kakatpur-odisha",
+    "name": "Kakatpur",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kakatpur is a town in Odisha, India.",
+    "coordinates": {
+      "lat": 20.0019,
+      "lon": 86.2015
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "kala-dam-odisha",
+    "name": "Kala Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Kala Dam is a dam in Kaptipada, Mayurbhanj, Odisha.",
+    "coordinates": {
+      "lat": 21.5243,
+      "lon": 86.4567
+    }
+  },
+  {
+    "id": "kalabhairavi-temple-odisha",
+    "name": "Kalabhairavi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kalabhairavi Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.36111,
+      "lon": 85.85472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kalijai-odisha",
+    "name": "Kalijai",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kalijai is a hindu Temple in Chilka lake Odisha.",
+    "coordinates": {
+      "lat": 19.66509,
+      "lon": 85.21602
+    },
+    "tags": [
+      "temple",
+      "lake"
+    ]
+  },
+  {
+    "id": "kalika-siva-temple-odisha",
+    "name": "Kalika Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kalika Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.22881,
+      "lon": 85.82749
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kalikadevi-temple-odisha",
+    "name": "Kalikadevi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kalikadevi Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.34972,
+      "lon": 85.83528
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kanaka-durga-raulapalli-odisha",
+    "name": "Kanaka Durga, Raulapalli",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kanaka Durga, Raulapalli is a religious building.",
+    "coordinates": {
+      "lat": 19.49667,
+      "lon": 84.81333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kanika-palace-odisha",
+    "name": "Kanika Palace",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Kanika Palace is a building in Rajkanika, India.",
+    "coordinates": {
+      "lat": 20.73506,
+      "lon": 86.69985
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "kanjia-lake-odisha",
+    "name": "Kanjia Lake",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Kanjia Lake is a lake in India.",
+    "coordinates": {
+      "lat": 20.40133,
+      "lon": 85.81973
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "kapilasa-wildlife-sanctuary-odisha",
+    "name": "Kapilasa Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Kapilasa Wildlife Sanctuary is a wildlife Sanctuary in Odisha, India.",
+    "coordinates": {
+      "lat": 20.70737,
+      "lon": 85.80171
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kapilash-temple-odisha",
+    "name": "Kapilash Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kapilash Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.68206,
+      "lon": 85.76309
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kapilesvara-siva-temple-odisha",
+    "name": "Kapilesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kapilesvara Siva Temple is a hindu Temple in Odisha.",
+    "coordinates": {
+      "lat": 20.22909,
+      "lon": 85.82744
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "karlapat-wildlife-sanctuary-odisha",
+    "name": "Karlapat Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Karlapat Wildlife Sanctuary is a wildlife sanctuary in Odisha, India.",
+    "coordinates": {
+      "lat": 19.68673,
+      "lon": 83.06258
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kartikesvara-siva-temple-odisha",
+    "name": "Kartikesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kartikesvara Siva Temple is a hindu Temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.2425,
+      "lon": 85.85333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kataka-chandi-mandir-odisha",
+    "name": "Kataka Chandi Mandir",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kataka Chandi Mandir is a temple in India.",
+    "coordinates": {
+      "lat": 20.47724,
+      "lon": 85.86256
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kedareswar-temple-odisha",
+    "name": "Kedareswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kedareswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.24233,
+      "lon": 85.8402
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "khajuresvara-temple-complex-odisha",
+    "name": "Khajuresvara temple complex",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Khajuresvara temple complex is a siba (shiva)-sakta (shakta) temple complex in Sergarh, Balasore (Baleswar) district, Odisha, India.",
+    "coordinates": {
+      "lat": 21.43644,
+      "lon": 86.82808
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "khalasuni-wildlife-sanctuary-odisha",
+    "name": "Khalasuni Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Khalasuni Wildlife Sanctuary is a wildlife sanctuary in Odisha, India.",
+    "coordinates": {
+      "lat": 21.3471,
+      "lon": 84.555
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "khalkatapatna-odisha",
+    "name": "Khalkatapatna",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Khalkatapatna is an archaeological site in Odisha, India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "khandadhar-falls-kendujhar-odisha",
+    "name": "Khandadhar Falls, Kendujhar",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Khandadhar Falls, Kendujhar is a waterfall in India.",
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "khandadhar-falls-sundargarh-odisha",
+    "name": "Khandadhar Falls (Sundargarh)",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Khandadhar Falls (Sundargarh) is a waterfall in India.",
+    "coordinates": {
+      "lat": 21.76129,
+      "lon": 85.11721
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "kharakhia-vaidyanatha-precinct-odisha",
+    "name": "Kharakhia Vaidyanatha Precinct",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kharakhia Vaidyanatha Precinct is a temple in India.",
+    "coordinates": {
+      "lat": 20.235,
+      "lon": 85.83333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kharligarh-odisha",
+    "name": "Kharligarh",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Kharligarh is an archaeological site in Odisha, India.",
+    "coordinates": {
+      "lat": 20.46028,
+      "lon": 83.56056
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "khirachora-gopinatha-temple-odisha",
+    "name": "Khirachora Gopinatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Khirachora Gopinatha Temple is a building in India.",
+    "coordinates": {
+      "lat": 21.53772,
+      "lon": 86.87945
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kichakeshwari-temple-odisha",
+    "name": "Kichakeshwari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kichakeshwari Temple is a temple in India.",
+    "coordinates": {
+      "lat": 21.92776,
+      "lon": 85.83262
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "koilighugar-waterfall-odisha",
+    "name": "Koilighugar Waterfall",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Koilighugar Waterfall is a waterfall in Odisha, India.",
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "kolab-dam-odisha",
+    "name": "Kolab Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Kolab Dam is a hydroelectric Dam in Koraput.",
+    "coordinates": {
+      "lat": 18.78833,
+      "lon": 82.60028
+    }
+  },
+  {
+    "id": "konark-beach-odisha",
+    "name": "Konark Beach",
+    "state": "Odisha",
+    "category": "beach",
+    "description": "Konark Beach is a beach in Odisha, India.",
+    "coordinates": {
+      "lat": 19.8665,
+      "lon": 86.11424
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "konark-odisha",
+    "name": "Konark",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Konark is a town and site of the 13th-century Sun Temple.",
+    "coordinates": {
+      "lat": 19.88782,
+      "lon": 86.09479
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "konark-sun-temple-odisha",
+    "name": "Konark Sun Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Konark Sun Temple is a 13th century Surya Temple and UNESCO world heritage site in Odisha, India.",
+    "coordinates": {
+      "lat": 19.88744,
+      "lon": 86.0946
+    },
+    "tags": [
+      "world-heritage",
+      "temple"
+    ]
+  },
+  {
+    "id": "kondakameru-wildlife-sanctuary-odisha",
+    "name": "Kondakameru Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Kondakameru Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 18.36672,
+      "lon": 81.98225
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kosaleswara-temple-odisha",
+    "name": "Kosaleswara temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kosaleswara temple is a hindu Temple in Odisha, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kotgarh-wildlife-sanctuary-odisha",
+    "name": "Kotgarh Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Kotgarh Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 19.8768,
+      "lon": 83.7531
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kotitirtha-tank-odisha",
+    "name": "Kotitirtha Tank",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kotitirtha Tank is a temple in India.",
+    "coordinates": {
+      "lat": 20.24667,
+      "lon": 85.85778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kukutesvara-siva-temple-odisha",
+    "name": "Kukutesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kukutesvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 21.25,
+      "lon": 85.825
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kukutesvara-tank-odisha",
+    "name": "Kukutesvara Tank",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Kukutesvara Tank is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 21.25,
+      "lon": 85.83889
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kuldiha-wildlife-sanctuary-odisha",
+    "name": "Kuldiha Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Kuldiha Wildlife Sanctuary is a wildlife Sanctuary in Odisha , India adjoining Simlipal National Park.",
+    "coordinates": {
+      "lat": 21.33333,
+      "lon": 86.5
+    },
+    "tags": [
+      "national-park",
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "labesvara-siva-temple-odisha",
+    "name": "Labesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Labesvara Siva Temple is a hindu temple situated near Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.25611,
+      "lon": 85.83833
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "laddu-baba-temple-odisha",
+    "name": "Laddu Baba Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Laddu Baba Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.03204,
+      "lon": 85.08501
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ladu-baba-temple-odisha",
+    "name": "Ladu Baba Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ladu Baba Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.24417,
+      "lon": 85.83389
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lakhari-valley-wildlife-sanctuary-odisha",
+    "name": "Lakhari Valley Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Lakhari Valley Wildlife Sanctuary is a wildlife sanctuary in Odisha, India.",
+    "coordinates": {
+      "lat": 19.3031,
+      "lon": 84.3239
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "lakhesvara-siva-temple-odisha",
+    "name": "Lakhesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lakhesvara Siva Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.25611,
+      "lon": 85.83833
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lakhmi-varaha-temple-odisha",
+    "name": "Lakhmi Varaha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lakhmi Varaha Temple is a building in India.",
+    "coordinates": {
+      "lat": 20.68419,
+      "lon": 86.64597
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lankeswari-temple-odisha",
+    "name": "Lankeswari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lankeswari Temple is a lankeshwari temple is located in a town called junagarh of Kalahandi district in Odisha state of India.",
+    "coordinates": {
+      "lat": 20.84931,
+      "lon": 83.91431
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "laxmi-narayan-temple-odisha",
+    "name": "Laxmi Narayan Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Laxmi Narayan Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.26472,
+      "lon": 85.86111
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "laxminarayan-temple-therubali-odisha",
+    "name": "Laxminarayan Temple, Therubali",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Laxminarayan Temple, Therubali is a hindu temple in India.",
+    "coordinates": {
+      "lat": 19.32694,
+      "lon": 83.43889
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "laxminrusingha-temple-odisha",
+    "name": "Laxminrusingha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Laxminrusingha Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.48378,
+      "lon": 85.99517
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "leaning-temple-of-huma-odisha",
+    "name": "Leaning Temple of Huma",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Leaning Temple of Huma is a temple in Huma, India with a leaning tower.",
+    "coordinates": {
+      "lat": 21.28067,
+      "lon": 83.91248
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lingaraja-temple-odisha",
+    "name": "Lingaraja Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lingaraja Temple is a shiva Temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.23833,
+      "lon": 85.83361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lokanath-siva-temple-odisha",
+    "name": "Lokanath Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lokanath Siva Temple is a hindu temple in Orissa, India.",
+    "coordinates": {
+      "lat": 20.25611,
+      "lon": 85.83833
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lokanatha-siva-temple-odisha",
+    "name": "Lokanatha Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lokanatha Siva Temple is a hindu Temple in Bhubaneswar.",
+    "coordinates": {
+      "lat": 20.24056,
+      "lon": 85.83472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lokanatha-temple-odisha",
+    "name": "Lokanatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Lokanatha Temple is a hindu (Shiva) temple.",
+    "coordinates": {
+      "lat": 19.80349,
+      "lon": 85.80116
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lower-indra-dam-odisha",
+    "name": "Lower Indra Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Lower Indra Dam is a dam on the Indra River in Odisha, India."
+  },
+  {
+    "id": "maa-barunei-temple-odisha",
+    "name": "Maa Barunei Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Maa Barunei Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.16204,
+      "lon": 85.64734
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maa-baulasuni-temple-odisha",
+    "name": "Maa Baulasuni Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Maa Baulasuni Temple is a temple in India.",
+    "coordinates": {
+      "lat": 21.08617,
+      "lon": 86.3361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maa-jhanjiri-mangala-temple-odisha",
+    "name": "Maa Jhanjiri Mangala Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Maa Jhanjiri Mangala Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.45964,
+      "lon": 85.87666
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maa-mangala-mandir-kakatpur-odisha",
+    "name": "Maa Mangala Mandir, Kakatpur",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Maa Mangala Mandir, Kakatpur is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 19.99992,
+      "lon": 86.19479
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maa-markama-temple-odisha",
+    "name": "Maa Markama Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Maa Markama Temple is a temple in India.",
+    "coordinates": {
+      "lat": 19.50295,
+      "lon": 83.51001
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maa-tarini-temple-ghatgaon-odisha",
+    "name": "Maa Tarini Temple, Ghatgaon",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Maa Tarini Temple, Ghatgaon is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 21.3833,
+      "lon": 85.8833
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "maa-ugra-tara-odisha",
+    "name": "Maa Ugra Tara",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Maa Ugra Tara is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 19.95843,
+      "lon": 85.46835
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "madhabananda-temple-odisha",
+    "name": "Madhabananda Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Madhabananda Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.51306,
+      "lon": 86.03784
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "madhava-temple-odisha",
+    "name": "Madhava Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Madhava Temple is a building in India.",
+    "coordinates": {
+      "lat": 20.1403,
+      "lon": 86.0608
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "madneswar-siva-temple-odisha",
+    "name": "Madneswar Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Madneswar Siva Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.23528,
+      "lon": 85.84833
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahakala-mahakali-temple-odisha",
+    "name": "Mahakala-Mahakali Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mahakala-Mahakali Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.24056,
+      "lon": 85.83472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahavinayak-temple-odisha",
+    "name": "Mahavinayak Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mahavinayak Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.85,
+      "lon": 86.33333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahishamardini-temple-odisha",
+    "name": "Mahishamardini Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mahishamardini Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 21.43653,
+      "lon": 86.82823
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "majhighariani-temple-odisha",
+    "name": "Majhighariani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Majhighariani Temple is a building in India.",
+    "coordinates": {
+      "lat": 19.16003,
+      "lon": 83.40779
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mandira-dam-odisha",
+    "name": "Mandira Dam",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mandira Dam is a dam in India.",
+    "coordinates": {
+      "lat": 22.26898,
+      "lon": 84.65623
+    }
+  },
+  {
+    "id": "mangala-temple-odisha",
+    "name": "Mangala Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mangala Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.36421,
+      "lon": 85.82096
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mangalesvara-siva-temple-odisha",
+    "name": "Mangalesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mangalesvara Siva Temple is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24389,
+      "lon": 85.84389
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manibhadresvara-siva-temple-i-odisha",
+    "name": "Manibhadresvara Siva Temple – I",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Manibhadresvara Siva Temple – I is a temple in India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manibhadresvara-temple-ii-odisha",
+    "name": "Manibhadresvara Temple – II",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Manibhadresvara Temple – II is a temple in India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manikarnika-tank-odisha",
+    "name": "Manikarnika Tank",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Manikarnika Tank is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.23722,
+      "lon": 85.83472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manikeshwari-temple-odisha",
+    "name": "Manikeshwari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Manikeshwari Temple is a temple in India.",
+    "coordinates": {
+      "lat": 19.906,
+      "lon": 83.16938
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manikeswari-odisha",
+    "name": "Manikeswari",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Manikeswari is a hindu Goddess.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manikpatna-odisha",
+    "name": "Manikpatna",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Manikpatna is an archaeological site in Odisha, India.",
+    "coordinates": {
+      "lat": 20.611,
+      "lon": 86.645
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "marichi-temple-odisha",
+    "name": "Marichi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Marichi Temple is a temple in India.",
+    "coordinates": {
+      "lat": 21.55832,
+      "lon": 86.75277
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "markandeshwar-siva-temple-odisha",
+    "name": "Markandeshwar Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Markandeshwar Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.235,
+      "lon": 85.83333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "markandeshwar-temple-odisha",
+    "name": "Markandeshwar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Markandeshwar Temple is a building in India.",
+    "coordinates": {
+      "lat": 19.81035,
+      "lon": 85.81514
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mausi-maa-temple-odisha",
+    "name": "Mausi Maa Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mausi Maa Temple is a building in India.",
+    "coordinates": {
+      "lat": 19.80472,
+      "lon": 85.81833
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mausimaa-temple-odisha",
+    "name": "Mausimaa Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mausimaa Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 19.71048,
+      "lon": 84.75422
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mayurbhanj-palace-odisha",
+    "name": "Mayurbhanj Palace",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Mayurbhanj Palace is the royal seat of Mayurbhanj princely state till 1956, currently owned by Govt. of Odisha.",
+    "coordinates": {
+      "lat": 21.93391,
+      "lon": 86.72206
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "megheswar-temple-odisha",
+    "name": "Megheswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Megheswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.24332,
+      "lon": 85.85626
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "metakani-temple-odisha",
+    "name": "Metakani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Metakani Temple is a temple in Odisha, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "minajhola-odisha",
+    "name": "Minajhola",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Minajhola is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 19.5167,
+      "lon": 83.7417
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mukteshvara-temple-bhubaneswar-odisha",
+    "name": "Mukteshvara Temple, Bhubaneswar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Mukteshvara Temple, Bhubaneswar is a 10th-century Hindu temple in Bhubaneshwar, Odisha, India.",
+    "coordinates": {
+      "lat": 20.24158,
+      "lon": 85.8518
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "murga-mahadeva-shrine-odisha",
+    "name": "Murga Mahadeva Shrine",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Murga Mahadeva Shrine is a shrine.",
+    "coordinates": {
+      "lat": 22.11108,
+      "lon": 85.4696
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "museum-of-justice-orissa-high-court-odisha",
+    "name": "Museum of Justice, Orissa High Court",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Museum of Justice, Orissa High Court is a museum dedicated to the journey of judiciary in India.",
+    "coordinates": {
+      "lat": 20.4856,
+      "lon": 85.8637
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "nagesvara-temple-bhubaneswar-odisha",
+    "name": "Nagesvara Temple, Bhubaneswar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nagesvara Temple, Bhubaneswar is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24639,
+      "lon": 85.85667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nalbana-bird-sanctuary-odisha",
+    "name": "Nalbana Bird Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Nalbana Bird Sanctuary is a bird sanctuary, core area of the Ramsar designated wetlands of Chilika Lake.",
+    "coordinates": {
+      "lat": 19.69417,
+      "lon": 85.30667
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "nandankanan-zoological-park-odisha",
+    "name": "Nandankanan Zoological Park",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Nandankanan Zoological Park is a zoo and botanical garden in Bhubaneswar, Odisha, India.",
+    "coordinates": {
+      "lat": 20.39997,
+      "lon": 85.8147
+    }
+  },
+  {
+    "id": "narasimha-temple-bhubaneswar-odisha",
+    "name": "Narasimha Temple, Bhubaneswar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Narasimha Temple, Bhubaneswar is a temple in India.",
+    "coordinates": {
+      "lat": 20.25306,
+      "lon": 85.84333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "narasimha-temple-puri-odisha",
+    "name": "Narasimha Temple, Puri",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Narasimha Temple, Puri is a building in India.",
+    "coordinates": {
+      "lat": 19.8175,
+      "lon": 85.84
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "narasinghpur-odisha",
+    "name": "Narasinghpur",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Narasinghpur is a block Area in Odisha, India.",
+    "coordinates": {
+      "lat": 20.467,
+      "lon": 85.083
+    }
+  },
+  {
+    "id": "narayana-gosain-temple-odisha",
+    "name": "Narayana Gosain Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Narayana Gosain Temple is a building in India.",
+    "coordinates": {
+      "lat": 20.81647,
+      "lon": 86.13334
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "narayani-temple-odisha",
+    "name": "Narayani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Narayani Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24306,
+      "lon": 85.835
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "narsinghnath-odisha",
+    "name": "Narsinghnath",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Narsinghnath is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 21.28,
+      "lon": 84.39
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nilakantha-siva-temple-odisha",
+    "name": "Nilakantha Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nilakantha Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.235,
+      "lon": 85.83333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nilakantheswar-temple-odisha",
+    "name": "Nilakantheswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nilakantheswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 19.2428,
+      "lon": 83.8181
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nilamadhav-temple-odisha",
+    "name": "Nilamadhav Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nilamadhav Temple is a building in India.",
+    "coordinates": {
+      "lat": 20.36463,
+      "lon": 85.1951
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nilkantheswar-shiva-temple-odisha",
+    "name": "Nilkantheswar Shiva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nilkantheswar Shiva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.24239,
+      "lon": 85.83381
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nrusinghanath-temple-odisha",
+    "name": "Nrusinghanath Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Nrusinghanath Temple is a hindu temple.",
+    "coordinates": {
+      "lat": 20.8958,
+      "lon": 82.82794
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "odisha-crafts-museum-odisha",
+    "name": "Odisha Crafts Museum",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Odisha Crafts Museum is a museum on crafts of Indian state of Odisha.",
+    "coordinates": {
+      "lat": 20.25175,
+      "lon": 85.80754
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "odisha-state-museum-odisha",
+    "name": "Odisha State Museum",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Odisha State Museum is a museum of human history and culture in India.",
+    "coordinates": {
+      "lat": 20.2562,
+      "lon": 85.8415
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "odogaon-raghunath-temple-odisha",
+    "name": "Odogaon Raghunath Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Odogaon Raghunath Temple is a hindus Temple.",
+    "coordinates": {
+      "lat": 20.02569,
+      "lon": 84.98096
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pabaneswara-temple-odisha",
+    "name": "Pabaneswara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Pabaneswara Temple is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24972,
+      "lon": 85.84278
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "padmasambhava-mahavihara-monastery-odisha",
+    "name": "Padmasambhava Mahavihara monastery",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Padmasambhava Mahavihara monastery is a buddhist Monastery in Odisha.",
+    "coordinates": {
+      "lat": 19.2733,
+      "lon": 84.26336
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "padmashree-haldhar-nag-kavi-kutir-odisha",
+    "name": "Padmashree Haldhar Nag Kavi Kutir",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Padmashree Haldhar Nag Kavi Kutir is a haldhar Nag's house in Ghess.",
+    "coordinates": {
+      "lat": 21.18969,
+      "lon": 83.28435
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "paikapada-rayagada-odisha",
+    "name": "Paikapada, Rayagada",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Paikapada, Rayagada is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 19.3286,
+      "lon": 84.9217
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pancha-tirtha-of-puri-odisha",
+    "name": "Pancha Tirtha of Puri",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Pancha Tirtha of Puri is a five sacred bathing spots of Puri, India."
+  },
+  {
+    "id": "panchalingeswar-temple-odisha",
+    "name": "Panchalingeswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Panchalingeswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 21.41142,
+      "lon": 86.71787
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "papanasini-siva-temple-odisha",
+    "name": "Papanasini Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Papanasini Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.24389,
+      "lon": 85.84389
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "paradaresvara-siva-temple-odisha",
+    "name": "Paradaresvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Paradaresvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.25306,
+      "lon": 85.84333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "parsurameswara-temple-odisha",
+    "name": "Parsurameswara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Parsurameswara Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.23333,
+      "lon": 85.85
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "parsvanath-jain-temple-i-odisha",
+    "name": "Parsvanath Jain Temple-I",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Parsvanath Jain Temple-I is a building in India.",
+    "coordinates": {
+      "lat": 20.27056,
+      "lon": 85.78556
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "parsvanath-jain-temple-ii-odisha",
+    "name": "Parsvanath Jain Temple-II",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Parsvanath Jain Temple-II is a jain temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.27056,
+      "lon": 85.78556
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "parvati-temple-odisha-odisha",
+    "name": "Parvati Temple, Odisha",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Parvati Temple, Odisha is a temple in India.",
+    "coordinates": {
+      "lat": 20.23861,
+      "lon": 85.83333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "paschimesvara-siva-temple-odisha",
+    "name": "Paschimesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Paschimesvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.24611,
+      "lon": 85.83389
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "patalesvara-siva-temple-i-odisha",
+    "name": "Patalesvara Siva Temple – I",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Patalesvara Siva Temple – I is a temple in India.",
+    "coordinates": {
+      "lat": 20.24667,
+      "lon": 85.85778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "patalesvara-siva-temple-ii-odisha",
+    "name": "Patalesvara Siva Temple – II",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Patalesvara Siva Temple – II is a temple in India.",
+    "coordinates": {
+      "lat": 20.24472,
+      "lon": 85.835
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "patalesvara-siva-temple-iii-odisha",
+    "name": "Patalesvara Siva Temple – III",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Patalesvara Siva Temple – III is a temple in India.",
+    "coordinates": {
+      "lat": 20.24056,
+      "lon": 85.83472
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pathani-samanta-planetarium-odisha",
+    "name": "Pathani Samanta Planetarium",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Pathani Samanta Planetarium is a planetarium in Odisha, India.",
+    "coordinates": {
+      "lat": 20.2981,
+      "lon": 85.8323
+    }
+  },
+  {
+    "id": "patora-dam-odisha",
+    "name": "Patora Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Patora Dam is a dam in India.",
+    "coordinates": {
+      "lat": 20.7183,
+      "lon": 82.4622
+    }
+  },
+  {
+    "id": "phurlijharan-odisha",
+    "name": "Phurlijharan",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Phurlijharan is a horsetail Waterfall in Kalahandi district,Odisha.",
+    "coordinates": {
+      "lat": 19.7815,
+      "lon": 83.11106
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "puri-beach-odisha",
+    "name": "Puri Beach",
+    "state": "Odisha",
+    "category": "beach",
+    "description": "Puri Beach is a sea beach of Odisha.",
+    "coordinates": {
+      "lat": 19.7949,
+      "lon": 85.82497
+    },
+    "tags": [
+      "beach",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "puri-city-odisha",
+    "name": "Puri (city)",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Puri (city) is a city in Odisha, India.",
+    "coordinates": {
+      "lat": 19.8,
+      "lon": 85.81667
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "purvesvara-siva-temple-odisha",
+    "name": "Purvesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Purvesvara Siva Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.23944,
+      "lon": 85.84139
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pushpagiri-vihara-odisha",
+    "name": "Pushpagiri Vihara",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Pushpagiri Vihara is a budhist site in Odisha, India.",
+    "coordinates": {
+      "lat": 20.72274,
+      "lon": 86.19034
+    },
+    "tags": [
+      "archaeological-site",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "qadam-e-rasool-cuttack-odisha",
+    "name": "Qadam e Rasool, Cuttack",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Qadam e Rasool, Cuttack is an islamic shrine in Odisha, India.",
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "radhakanta-math-odisha",
+    "name": "Radhakanta Math",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Radhakanta Math is an indian Hindu monastery.",
+    "coordinates": {
+      "lat": 19.80048,
+      "lon": 85.81913
+    },
+    "tags": [
+      "monastery"
+    ]
+  },
+  {
+    "id": "raghurajpur-odisha",
+    "name": "Raghurajpur",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Raghurajpur is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 19.537,
+      "lon": 85.4936
+    }
+  },
+  {
+    "id": "raibania-fort-odisha",
+    "name": "Raibania fort",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Raibania fort is an ancient fort complex in Odisha, India.",
+    "coordinates": {
+      "lat": 21.92641,
+      "lon": 87.18673
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "rajarani-temple-odisha",
+    "name": "Rajarani Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Rajarani Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.23833,
+      "lon": 85.83361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ram-mandir-bhubaneswar-odisha",
+    "name": "Ram Mandir, Bhubaneswar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ram Mandir, Bhubaneswar is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.27129,
+      "lon": 85.78375
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ramachandi-temple-odisha",
+    "name": "Ramachandi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ramachandi Temple is a building in India.",
+    "coordinates": {
+      "lat": 19.85458,
+      "lon": 86.05921
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ramakrishna-math-and-mission-bhubaneswar-odisha",
+    "name": "Ramakrishna Math and Mission, Bhubaneswar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ramakrishna Math and Mission, Bhubaneswar is an organization in Odisha, India.",
+    "coordinates": {
+      "lat": 20.24875,
+      "lon": 85.8362
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "rameshwar-deula-odisha",
+    "name": "Rameshwar Deula",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Rameshwar Deula is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.25,
+      "lon": 85.83333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ratnagiri-odisha-odisha",
+    "name": "Ratnagiri, Odisha",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Ratnagiri, Odisha is a buddhist monastery in Odisha.",
+    "coordinates": {
+      "lat": 20.64119,
+      "lon": 86.33533
+    },
+    "tags": [
+      "monastery",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "regional-museum-of-natural-history-bhubaneswar-odisha",
+    "name": "Regional Museum of Natural History, Bhubaneswar",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Regional Museum of Natural History, Bhubaneswar is a museum in Bhubaneswar, Odisha.",
+    "coordinates": {
+      "lat": 20.2996,
+      "lon": 85.83206
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "rengali-dam-odisha",
+    "name": "Rengali Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Rengali Dam is a dam in India.",
+    "coordinates": {
+      "lat": 21.27667,
+      "lon": 85.0325
+    }
+  },
+  {
+    "id": "sacred-heart-cathedral-rourkela-odisha",
+    "name": "Sacred Heart Cathedral, Rourkela",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sacred Heart Cathedral, Rourkela is a building in India.",
+    "coordinates": {
+      "lat": 22.2689,
+      "lon": 84.8628
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "sailashree-palace-odisha",
+    "name": "Sailashree Palace",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Sailashree Palace is a building in India.",
+    "coordinates": {
+      "lat": 20.72,
+      "lon": 83.48
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "sakhigopal-mandir-odisha",
+    "name": "Sakhigopal Mandir",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sakhigopal Mandir is a hindu temple.",
+    "coordinates": {
+      "lat": 19.94537,
+      "lon": 85.82047
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sambalpuri-sari-odisha",
+    "name": "Sambalpuri sari",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Sambalpuri sari is a type of Sari.",
+    "coordinates": {
+      "lat": 21.51508,
+      "lon": 83.91657
+    }
+  },
+  {
+    "id": "samleswari-temple-odisha",
+    "name": "Samleswari Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Samleswari Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 21.474,
+      "lon": 83.959
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sanaghagara-waterfall-odisha",
+    "name": "Sanaghagara Waterfall",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Sanaghagara Waterfall is a waterfall in Odisha, India.",
+    "coordinates": {
+      "lat": 21.63279,
+      "lon": 85.55688
+    },
+    "tags": [
+      "waterfall"
+    ]
+  },
+  {
+    "id": "sanisvara-siva-temple-odisha",
+    "name": "Sanisvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sanisvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.25306,
+      "lon": 85.84333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sankarananda-matha-odisha",
+    "name": "Sankarananda Matha",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sankarananda Matha is a temple in India.",
+    "coordinates": {
+      "lat": 20.24472,
+      "lon": 85.835
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sankarjang-odisha",
+    "name": "Sankarjang",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Sankarjang is an archaeological site near Angul, India.",
+    "coordinates": {
+      "lat": 20.8689,
+      "lon": 84.9886
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "saptamatruka-temple-odisha",
+    "name": "Saptamatruka Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Saptamatruka Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.83475,
+      "lon": 86.33285
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sapua-dam-odisha",
+    "name": "Sapua Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Sapua Dam is a dam in km from Dhenkanal, Odisha.",
+    "coordinates": {
+      "lat": 20.59,
+      "lon": 85.29
+    }
+  },
+  {
+    "id": "sarala-temple-odisha",
+    "name": "Sarala Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sarala Temple is a goddess Sarala temple.",
+    "coordinates": {
+      "lat": 20.70119,
+      "lon": 86.41758
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sarvatresvara-siva-temple-odisha",
+    "name": "Sarvatresvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sarvatresvara Siva Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.24306,
+      "lon": 85.85667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sasisena-temple-odisha",
+    "name": "Sasisena Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sasisena Temple is a temple in Sonepur, Subarnapur district, Odisha, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "satkosia-gorge-odisha",
+    "name": "Satkosia Gorge",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Satkosia Gorge is a gorge in eastern Odisha, India.",
+    "coordinates": {
+      "lat": 20.60417,
+      "lon": 84.77611
+    }
+  },
+  {
+    "id": "satkosia-tiger-reserve-odisha",
+    "name": "Satkosia Tiger Reserve",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Satkosia Tiger Reserve is an indian tiger reserve.",
+    "coordinates": {
+      "lat": 20.54014,
+      "lon": 84.83156
+    },
+    "tags": [
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "sekhareswar-temple-odisha",
+    "name": "Sekhareswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sekhareswar Temple is a hindu Temple in Jagatsinghpur district odisha.",
+    "coordinates": {
+      "lat": 20.27143,
+      "lon": 86.43578
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "siddha-bhairavi-odisha",
+    "name": "Siddha Bhairavi",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Siddha Bhairavi is a temple in India.",
+    "coordinates": {
+      "lat": 19.18696,
+      "lon": 84.76919
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "siddha-vinayaka-odisha",
+    "name": "Siddha Vinayaka",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Siddha Vinayaka is a temple of Lord Ganesh.",
+    "coordinates": {
+      "lat": 19.23231,
+      "lon": 84.73795
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "siddhesvara-siva-temple-odisha",
+    "name": "Siddhesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Siddhesvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.26472,
+      "lon": 85.86111
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "simhanath-temple-odisha",
+    "name": "Simhanath Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Simhanath Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.37091,
+      "lon": 85.37853
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "simlipal-national-park-odisha",
+    "name": "Simlipal National Park",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Simlipal National Park is a national park in India.",
+    "coordinates": {
+      "lat": 21.75,
+      "lon": 86.33
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "sisua-village-odisha",
+    "name": "Sisua village",
+    "state": "Odisha",
+    "category": "offbeat",
+    "description": "Sisua village is a village in Odisha, India.",
+    "coordinates": {
+      "lat": 20.47906,
+      "lon": 86.08227
+    }
+  },
+  {
+    "id": "sisupalgarh-odisha",
+    "name": "Sisupalgarh",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Sisupalgarh is an archaeological site in Khordha district, India.",
+    "coordinates": {
+      "lat": 20.22664,
+      "lon": 85.85306
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "sitalsasthi-odisha",
+    "name": "Sitalsasthi",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Sitalsasthi is a religious festival in India.",
+    "coordinates": {
+      "lat": 21.46447,
+      "lon": 83.9692
+    }
+  },
+  {
+    "id": "sivatirtha-matha-old-town-odisha",
+    "name": "Sivatirtha Matha, Old Town",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sivatirtha Matha, Old Town is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "somabara-mandapa-vishnu-temple-odisha",
+    "name": "Somabara Mandapa (Vishnu Temple)",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Somabara Mandapa (Vishnu Temple) is a temple in India.",
+    "coordinates": {
+      "lat": 20.26472,
+      "lon": 85.86111
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "somabaresvara-siva-temple-odisha",
+    "name": "Somabaresvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Somabaresvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.26472,
+      "lon": 85.86111
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "somesvara-siva-temple-odisha",
+    "name": "Somesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Somesvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.235,
+      "lon": 85.83333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sri-sri-nilakantheswar-temple-odisha",
+    "name": "Sri Sri Nilakantheswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sri Sri Nilakantheswar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.2337,
+      "lon": 85.8191
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "st-paul-s-church-gunupur-odisha",
+    "name": "St. Paul's Church, Gunupur",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "St. Paul's Church, Gunupur is a catholic church in Gunupur, Odisha.",
+    "coordinates": {
+      "lat": 19.08204,
+      "lon": 83.81233
+    },
+    "tags": [
+      "church"
+    ]
+  },
+  {
+    "id": "subai-jain-temples-odisha",
+    "name": "Subai Jain temples",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Subai Jain temples is a group of Jain Temples.",
+    "coordinates": {
+      "lat": 18.60639,
+      "lon": 82.79944
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "subarnameru-temple-odisha",
+    "name": "Subarnameru Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Subarnameru Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.83367,
+      "lon": 83.91437
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "subarnesvara-siva-temple-odisha",
+    "name": "Subarnesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Subarnesvara Siva Temple is a temple in Bhubaneswar, India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "suka-temple-odisha",
+    "name": "Suka Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Suka Temple is a temple in Bhubaneswar, Odisha, India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sukutesvara-temple-odisha",
+    "name": "Sukutesvara Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sukutesvara Temple is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sunabeda-wildlife-sanctuary-odisha",
+    "name": "Sunabeda Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Sunabeda Wildlife Sanctuary is a wildlife sanctuary in Odisha, India.",
+    "coordinates": {
+      "lat": 20.45427,
+      "lon": 82.49768
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "sundaresvara-siva-temple-odisha",
+    "name": "Sundaresvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sundaresvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sundaresvara-tank-odisha",
+    "name": "Sundaresvara Tank",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sundaresvara Tank is a hindu temple in Orissa, India.",
+    "coordinates": {
+      "lat": 20.235,
+      "lon": 85.8217
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sunei-dam-odisha",
+    "name": "Sunei Dam",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Sunei Dam is a dam in Kaptipada, Mayurbhanj district.",
+    "coordinates": {
+      "lat": 21.4408,
+      "lon": 86.4516
+    }
+  },
+  {
+    "id": "sureswari-temple-odisha",
+    "name": "Sureswari temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Sureswari temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.83917,
+      "lon": 83.91295
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "svapnesvara-siva-temple-odisha",
+    "name": "Svapnesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Svapnesvara Siva Temple is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.2408,
+      "lon": 85.8442
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "swarnadhisvara-siva-temple-odisha",
+    "name": "Swarnadhisvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Swarnadhisvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.2447,
+      "lon": 85.8358
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "talasari-beach-odisha",
+    "name": "Talasari Beach",
+    "state": "Odisha",
+    "category": "beach",
+    "description": "Talasari Beach is a sea beach in Odisha, India.",
+    "coordinates": {
+      "lat": 21.623,
+      "lon": 87.4059
+    },
+    "tags": [
+      "beach"
+    ]
+  },
+  {
+    "id": "talesavara-siva-temple-ii-odisha",
+    "name": "Talesavara Siva Temple – II",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Talesavara Siva Temple – II is a temple in India.",
+    "coordinates": {
+      "lat": 20.2453,
+      "lon": 85.8425
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "talesvara-siva-temple-odisha",
+    "name": "Talesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Talesvara Siva Temple is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.2506,
+      "lon": 85.8414
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tampara-lake-odisha",
+    "name": "Tampara Lake",
+    "state": "Odisha",
+    "category": "nature",
+    "description": "Tampara Lake is a lake in Odisha, India.",
+    "coordinates": {
+      "lat": 19.35,
+      "lon": 84.98
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "taptapani-odisha",
+    "name": "Taptapani",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Taptapani is a hot spring in Odisha, India.",
+    "coordinates": {
+      "lat": 19.3,
+      "lon": 84.24
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tara-tarini-mandir-odisha",
+    "name": "Tara Tarini Mandir",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Tara Tarini Mandir is a temple of Hindu Goddess in Odisha, India.",
+    "coordinates": {
+      "lat": 19.4897,
+      "lon": 84.8998
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tarabalo-odisha",
+    "name": "Tarabalo",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Tarabalo is a region in Odisha, India.",
+    "coordinates": {
+      "lat": 20.14,
+      "lon": 85.19
+    }
+  },
+  {
+    "id": "tarapur-odisha-odisha",
+    "name": "Tarapur, Odisha",
+    "state": "Odisha",
+    "category": "other",
+    "description": "Tarapur, Odisha is a town in Odisha, India.",
+    "coordinates": {
+      "lat": 20.35436,
+      "lon": 86.22725
+    }
+  },
+  {
+    "id": "tirthesvara-siva-temple-odisha",
+    "name": "Tirthesvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Tirthesvara Siva Temple is a temple in India.",
+    "coordinates": {
+      "lat": 20.2433,
+      "lon": 85.8361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tribal-museum-rourkela-odisha",
+    "name": "Tribal Museum Rourkela",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Tribal Museum Rourkela is a museum in Odisha.",
+    "coordinates": {
+      "lat": 22.2604,
+      "lon": 84.8536
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "tribal-research-institute-museum-odisha",
+    "name": "Tribal Research Institute Museum",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Tribal Research Institute Museum is a museum of Tribal Arts and Artifacts.",
+    "coordinates": {
+      "lat": 20.2562,
+      "lon": 85.8415
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "tribeniswar-temple-odisha",
+    "name": "Tribeniswar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Tribeniswar Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.57229,
+      "lon": 86.12406
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "udayagiri-and-khandagiri-caves-odisha",
+    "name": "Udayagiri and Khandagiri caves",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Udayagiri and Khandagiri caves is a partly natural and partly artificial caves of archaeological, historical and religious importance near the city of Bhubaneswar in Odisha, India.",
+    "coordinates": {
+      "lat": 20.2628,
+      "lon": 85.786
+    },
+    "tags": [
+      "temple",
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "udayagiri-odisha-odisha",
+    "name": "Udayagiri, Odisha",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Udayagiri, Odisha is a buddhist complex in Odisha.",
+    "coordinates": {
+      "lat": 20.6416,
+      "lon": 86.2692
+    },
+    "tags": [
+      "archaeological-site",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "upper-bagh-devi-temple-odisha",
+    "name": "Upper Bagh Devi Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Upper Bagh Devi Temple is a hindu temple in Odisha, India.",
+    "coordinates": {
+      "lat": 19.96933,
+      "lon": 84.62386
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ushakothi-wildlife-sanctuary-odisha",
+    "name": "Ushakothi Wildlife Sanctuary",
+    "state": "Odisha",
+    "category": "wildlife",
+    "description": "Ushakothi Wildlife Sanctuary is a protected area in Odisha, India.",
+    "coordinates": {
+      "lat": 21.48333,
+      "lon": 84.28333
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "uttaresvara-siva-temple-odisha",
+    "name": "Uttaresvara Siva Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Uttaresvara Siva Temple is a temple in Odisha.",
+    "coordinates": {
+      "lat": 20.2506,
+      "lon": 85.855
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "vaishnodevi-temple-rourkela-odisha",
+    "name": "Vaishnodevi Temple, Rourkela",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Vaishnodevi Temple, Rourkela is a temple located in Jammu.",
+    "coordinates": {
+      "lat": 33.0311,
+      "lon": 74.949
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "varahanatha-temple-odisha",
+    "name": "Varahanatha Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Varahanatha Temple is a building in India.",
+    "coordinates": {
+      "lat": 20.8583,
+      "lon": 86.0856
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "varahi-deula-chaurasi-odisha",
+    "name": "Varahi Deula, Chaurasi",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Varahi Deula, Chaurasi is a building in India.",
+    "coordinates": {
+      "lat": 20.0585,
+      "lon": 86.1185
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "veer-surendra-sai-museum-odisha",
+    "name": "Veer Surendra Sai Museum",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Veer Surendra Sai Museum is a museum of Sambalpur district.",
+    "coordinates": {
+      "lat": 21.46058,
+      "lon": 83.97425
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "vikramkhol-cave-inscriptions-odisha",
+    "name": "Vikramkhol Cave Inscriptions",
+    "state": "Odisha",
+    "category": "heritage",
+    "description": "Vikramkhol Cave Inscriptions is a cave and archaeological site in India.",
+    "coordinates": {
+      "lat": 21.85,
+      "lon": 83.8
+    },
+    "tags": [
+      "cave",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "vishnu-temple-bhubaneswar-odisha",
+    "name": "Vishnu Temple, Bhubaneswar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Vishnu Temple, Bhubaneswar is a vishnu temple in Odisha, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "visvanath-siva-temple-bhubaneswar-odisha",
+    "name": "Visvanath Siva Temple, Bhubaneswar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Visvanath Siva Temple, Bhubaneswar is a temple in India.",
+    "coordinates": {
+      "lat": 20.2467,
+      "lon": 85.8578
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "visvanatha-shiva-temple-bhubaneswar-odisha",
+    "name": "Visvanatha Shiva Temple, Bhubaneswar",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Visvanatha Shiva Temple, Bhubaneswar is a temple in India.",
+    "coordinates": {
+      "lat": 20.2431,
+      "lon": 85.8344
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "yameshwar-temple-odisha",
+    "name": "Yameshwar Temple",
+    "state": "Odisha",
+    "category": "spiritual",
+    "description": "Yameshwar Temple is a temple in Odisha, India.",
+    "coordinates": {
+      "lat": 20.2404,
+      "lon": 85.8315
+    },
+    "tags": [
+      "temple"
+    ]
+  }
+]

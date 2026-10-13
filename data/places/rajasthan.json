@@ -1,0 +1,5460 @@
+[
+  {
+    "id": "abu-raj-rajasthan",
+    "name": "Abu Raj",
+    "state": "Rajasthan",
+    "category": "hill-station",
+    "description": "Abu Raj is a hill station in Sirohi district of Rajasthan state in western India.",
+    "coordinates": {
+      "lat": 24.5925,
+      "lon": 72.70833
+    },
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "achaleshwar-mahadev-temple-rajasthan",
+    "name": "Achaleshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Achaleshwar Mahadev Temple is a hindu temple.",
+    "coordinates": {
+      "lat": 24.61559,
+      "lon": 72.76653
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "achalgarh-fort-rajasthan",
+    "name": "Achalgarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Achalgarh Fort is a fort near Mount Abu, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.6156,
+      "lon": 72.7687
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "adhai-din-ka-jhonpra-rajasthan",
+    "name": "Adhai Din Ka Jhonpra",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Adhai Din Ka Jhonpra is an oldest mosque in the north of the Indian subcontinent.",
+    "coordinates": {
+      "lat": 26.45517,
+      "lon": 74.62503
+    },
+    "tags": [
+      "temple",
+      "mosque"
+    ]
+  },
+  {
+    "id": "adinath-temple-dungarpur-rajasthan",
+    "name": "Adinath Temple, Dungarpur",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Adinath Temple, Dungarpur is a jain temple in Manek Chowk, Durgarpar, Rajasthan, India.",
+    "coordinates": {
+      "lat": 23.832,
+      "lon": 73.715
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ahar-cenotaphs-rajasthan",
+    "name": "Ahar Cenotaphs",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Ahar Cenotaphs is a memorial site in Udaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.58778,
+      "lon": 73.71944
+    }
+  },
+  {
+    "id": "ahar-river-rajasthan",
+    "name": "Ahar River",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Ahar River is a river in India.",
+    "coordinates": {
+      "lat": 24.56667,
+      "lon": 73.8
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "aharbanas-culture-rajasthan",
+    "name": "Ahar–Banas culture",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Ahar–Banas culture is an archaeological culture.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "ajmer-jain-temple-rajasthan",
+    "name": "Ajmer Jain temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ajmer Jain temple is a building in India.",
+    "coordinates": {
+      "lat": 26.45,
+      "lon": 74.64
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ajmer-rajasthan",
+    "name": "Ajmer",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Ajmer is a city in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.468,
+      "lon": 74.639
+    }
+  },
+  {
+    "id": "akal-wood-fossil-park-rajasthan",
+    "name": "Akal Wood Fossil Park",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Akal Wood Fossil Park is a national geological monument in Jaisalmer, India.",
+    "coordinates": {
+      "lat": 26.825,
+      "lon": 71.04
+    }
+  },
+  {
+    "id": "akbari-fort-museum-rajasthan",
+    "name": "Akbari Fort & Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Akbari Fort & Museum is a museum in Ajmer.",
+    "coordinates": {
+      "lat": 26.4607,
+      "lon": 74.6335
+    },
+    "tags": [
+      "fort",
+      "museum"
+    ]
+  },
+  {
+    "id": "albert-hall-museum-rajasthan",
+    "name": "Albert Hall Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Albert Hall Museum is a museum in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.9118,
+      "lon": 75.8195
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "alwar-fort-rajasthan",
+    "name": "Alwar fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Alwar fort is a fort in Alwar, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.57444,
+      "lon": 76.58778
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "amar-sagar-jain-temple-rajasthan",
+    "name": "Amar Sagar Jain temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Amar Sagar Jain temple is a jain temple in Rajasthan.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "amargarh-fort-rajasthan",
+    "name": "Amargarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Amargarh Fort is a fort in Bhilwara, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.44118,
+      "lon": 75.18482
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "ambamata-temple-rajasthan",
+    "name": "Ambamata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ambamata Temple is a temple in India.",
+    "coordinates": {
+      "lat": 24.58528,
+      "lon": 73.67806
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "amber-fort-rajasthan",
+    "name": "Amber Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Amber Fort is a fort and palace in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.9859,
+      "lon": 75.8507
+    },
+    "tags": [
+      "world-heritage",
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "amber-india-rajasthan",
+    "name": "Amber, India",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Amber, India is a city in Jaipur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.98333,
+      "lon": 75.86667
+    }
+  },
+  {
+    "id": "ambika-mata-temple-rajasthan",
+    "name": "Ambika Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ambika Mata Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.37639,
+      "lon": 73.89444
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ambrai-ghat-rajasthan",
+    "name": "Ambrai Ghat",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Ambrai Ghat is a main ghat of Lake Pichola in Udaipur, India.",
+    "coordinates": {
+      "lat": 24.57751,
+      "lon": 73.67788
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "amrapali-museum-rajasthan",
+    "name": "Amrapali Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Amrapali Museum is a museum in Jaipur, India.",
+    "coordinates": {
+      "lat": 26.91524,
+      "lon": 75.80142
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "ana-sagar-lake-rajasthan",
+    "name": "Ana Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Ana Sagar Lake is a lake in India.",
+    "coordinates": {
+      "lat": 26.475,
+      "lon": 74.625
+    },
+    "tags": [
+      "lake",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "anand-sagar-lake-rajasthan",
+    "name": "Anand Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Anand Sagar Lake is a lake in Rajasthan, India.",
+    "coordinates": {
+      "lat": 23.546,
+      "lon": 74.475
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "andeshwar-parshwanath-jain-temple-rajasthan",
+    "name": "Andeshwar Parshwanath Jain Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Andeshwar Parshwanath Jain Temple is a building in India.",
+    "coordinates": {
+      "lat": 23.296,
+      "lon": 74.348
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "anokhi-museum-of-hand-printing-rajasthan",
+    "name": "Anokhi Museum of Hand Printing",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Anokhi Museum of Hand Printing is a museum in Jaipur, India.",
+    "coordinates": {
+      "lat": 26.99393,
+      "lon": 75.85078
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "arna-jharna-museum-rajasthan",
+    "name": "Arna Jharna Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Arna Jharna Museum is a museum in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.29649,
+      "lon": 72.89514
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "arthuna-rajasthan",
+    "name": "Arthuna",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Arthuna is a town in India.",
+    "coordinates": {
+      "lat": 23.49817,
+      "lon": 74.0961
+    }
+  },
+  {
+    "id": "atishaya-kshetra-lunwa-jain-temple-rajasthan",
+    "name": "Atishaya Kshetra Lunwa Jain Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Atishaya Kshetra Lunwa Jain Temple is a jain Temple in Lunwa, Rajasthan.",
+    "coordinates": {
+      "lat": 27.03382,
+      "lon": 75.19419
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "avari-mata-temple-rajasthan",
+    "name": "Avari Mata temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Avari Mata temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.63574,
+      "lon": 74.47355
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bada-bagh-rajasthan",
+    "name": "Bada Bagh",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Bada Bagh is a cenotaphs of the Jai Singh Ji line, Mâhârawal (Maharajah) of Jailsamer.",
+    "coordinates": {
+      "lat": 26.955,
+      "lon": 70.887
+    }
+  },
+  {
+    "id": "bagor-rajasthan-rajasthan",
+    "name": "Bagor, Rajasthan",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bagor, Rajasthan is a bagor.",
+    "coordinates": {
+      "lat": 25.35751,
+      "lon": 74.37311
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bagore-ki-haveli-rajasthan",
+    "name": "Bagore Ki Haveli",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bagore Ki Haveli is a building in India.",
+    "coordinates": {
+      "lat": 24.57967,
+      "lon": 73.68004
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "bahaj-rajasthan",
+    "name": "Bahaj",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Bahaj is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.46984,
+      "lon": 77.3726
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bairat-temple-rajasthan",
+    "name": "Bairat Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bairat Temple is a buddhist temple near Bairat, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.41705,
+      "lon": 76.16237
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "balathal-rajasthan",
+    "name": "Balathal",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Balathal is an archeological site in Indian state of Rajasthan.",
+    "coordinates": {
+      "lat": 24.71667,
+      "lon": 73.98333
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "balsamand-lake-rajasthan",
+    "name": "Balsamand Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Balsamand Lake is a lake in India.",
+    "coordinates": {
+      "lat": 26.331,
+      "lon": 73.02
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "baneshwar-fair-rajasthan",
+    "name": "Baneshwar fair",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Baneshwar fair is an annual tribal fair in Dungarpur, Rajasthan."
+  },
+  {
+    "id": "bardha-dam-rajasthan",
+    "name": "Bardha Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Bardha Dam is a dam in Bundi district, Rajasthan.",
+    "coordinates": {
+      "lat": 25.251,
+      "lon": 75.693
+    }
+  },
+  {
+    "id": "bari-india-rajasthan",
+    "name": "Bari, India",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Bari, India is a city in the Dholpur district in the state of Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.63,
+      "lon": 77.62
+    }
+  },
+  {
+    "id": "baroli-temples-rajasthan",
+    "name": "Baroli Temples",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Baroli Temples is a temple complex in Rawatbhata, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.95806,
+      "lon": 75.59361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "baror-rajasthan",
+    "name": "Baror",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Baror is an archaeological site in India.",
+    "coordinates": {
+      "lat": 29.169,
+      "lon": 73.3136
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bassi-wildlife-sanctuary-rajasthan",
+    "name": "Bassi Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Bassi Wildlife Sanctuary is a wildlife sanctuary in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.025,
+      "lon": 74.85833
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bhadrajun-rajasthan",
+    "name": "Bhadrajun",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Bhadrajun is a village in Jalore district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.6,
+      "lon": 72.867
+    }
+  },
+  {
+    "id": "bhainsrorgarh-rajasthan",
+    "name": "Bhainsrorgarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bhainsrorgarh is a fort in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.9625,
+      "lon": 75.55333
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "bhand-deva-temple-rajasthan",
+    "name": "Bhand Deva Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bhand Deva Temple is a hindu temple in Baran district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.33333,
+      "lon": 76.62417
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhandasar-jain-temple-rajasthan",
+    "name": "Bhandasar Jain Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bhandasar Jain Temple is a śvetāmbara Jain temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 28.0047,
+      "lon": 73.30066
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhandavapur-rajasthan",
+    "name": "Bhandavapur",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bhandavapur is a śvetāmbara Jain Temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.00689,
+      "lon": 72.26766
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhangarh-fort-rajasthan",
+    "name": "Bhangarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bhangarh Fort is a historical fort in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.09583,
+      "lon": 76.2875
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bhangarh-rajasthan",
+    "name": "Bhangarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bhangarh is a historical village and archaeological site (fort complex) in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.0947,
+      "lon": 76.2906
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "bharatiya-lok-kala-mandal-rajasthan",
+    "name": "Bharatiya Lok Kala Mandal",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bharatiya Lok Kala Mandal is a cultural institution based in Udaipur, Rajasthan.",
+    "coordinates": {
+      "lat": 24.59449,
+      "lon": 73.68946
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "bhatner-fort-rajasthan",
+    "name": "Bhatner fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bhatner fort is a fort in Rajasthan, India.",
+    "coordinates": {
+      "lat": 29.58611,
+      "lon": 74.32528
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "bhensrodgarh-wildlife-sanctuary-rajasthan",
+    "name": "Bhensrodgarh Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Bhensrodgarh Wildlife Sanctuary is a protected wetland in India.",
+    "coordinates": {
+      "lat": 24.86667,
+      "lon": 75.51667
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "bhimlat-mahadev-temple-rajasthan",
+    "name": "Bhimlat Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bhimlat Mahadev Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.3,
+      "lon": 75.41
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bhomiaji-maharaj-temple-sopra-bhopalgarh-rajasthan",
+    "name": "Bhomiaji Maharaj Temple, Sopra, Bhopalgarh",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bhomiaji Maharaj Temple, Sopra, Bhopalgarh is a holy temple.",
+    "coordinates": {
+      "lat": 26.60726,
+      "lon": 73.41689
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bijai-garh-rajasthan",
+    "name": "Bijai Garh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bijai Garh is a fort near Bayana in Bharatpur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.88447,
+      "lon": 77.2449
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "bijasan-mata-temple-indragarh-rajasthan",
+    "name": "Bijasan Mata Temple, Indragarh",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bijasan Mata Temple, Indragarh is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.73292,
+      "lon": 76.16594
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bijolia-parshvanath-temple-rajasthan",
+    "name": "Bijolia Parshvanath temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bijolia Parshvanath temple is a jain temple in the state of Rajasthan.",
+    "coordinates": {
+      "lat": 25.14981,
+      "lon": 75.3375
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "binjor-rajasthan",
+    "name": "Binjor",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Binjor is an archaeological site in India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "binnayaga-buddhist-caves-rajasthan",
+    "name": "Binnayaga Buddhist Caves",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Binnayaga Buddhist Caves is a buddhist cave in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.06266,
+      "lon": 75.89257
+    },
+    "tags": [
+      "temple",
+      "cave",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "birla-mandir-jaipur-rajasthan",
+    "name": "Birla Mandir, Jaipur",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Birla Mandir, Jaipur is a hindu temple in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.89216,
+      "lon": 75.81553
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bisaldeo-temple-rajasthan",
+    "name": "Bisaldeo temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bisaldeo temple is a 12th century Shiva temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.92705,
+      "lon": 75.45713
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bisalpur-dam-rajasthan",
+    "name": "Bisalpur Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Bisalpur Dam is a dam in India.",
+    "coordinates": {
+      "lat": 25.92444,
+      "lon": 75.45556
+    }
+  },
+  {
+    "id": "bissau-palace-hotel-jaipur-rajasthan",
+    "name": "Bissau Palace Hotel, Jaipur",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Bissau Palace Hotel, Jaipur is a building in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.9297,
+      "lon": 75.8078
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "bohra-ganesh-temple-rajasthan",
+    "name": "Bohra Ganesh Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Bohra Ganesh Temple is a temple in India.",
+    "coordinates": {
+      "lat": 24.58957,
+      "lon": 73.72769
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "brahma-kumaris-international-headquarters-rajasthan",
+    "name": "Brahma Kumaris International Headquarters",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Brahma Kumaris International Headquarters is a headquarters complex of the Brahma Kumaris in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.5925,
+      "lon": 72.7083
+    }
+  },
+  {
+    "id": "brahma-temple-asotra-rajasthan",
+    "name": "Brahma Temple, Asotra",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Brahma Temple, Asotra is a world's second Brahma temple.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "brahma-temple-pushkar-rajasthan",
+    "name": "Brahma Temple, Pushkar",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Brahma Temple, Pushkar is a hindu temple in Pushkar, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.48733,
+      "lon": 74.54888
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "brahmani-mata-temple-rajasthan",
+    "name": "Brahmani Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Brahmani Mata Temple is a hindu temple in Rajasthan,India.",
+    "coordinates": {
+      "lat": 28.93361,
+      "lon": 74.20917
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "bundi-rajasthan",
+    "name": "Bundi",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Bundi is a city in Bundi district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.43833,
+      "lon": 75.63722
+    }
+  },
+  {
+    "id": "central-park-jaipur-rajasthan",
+    "name": "Central Park, Jaipur",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Central Park, Jaipur is a park in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.90401,
+      "lon": 75.80891
+    }
+  },
+  {
+    "id": "chamatkarji-rajasthan",
+    "name": "Chamatkarji",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Chamatkarji is a jain temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.00056,
+      "lon": 76.36389
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chambal-garden-rajasthan",
+    "name": "Chambal Garden",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Chambal Garden is a garden in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.1628,
+      "lon": 75.82255
+    }
+  },
+  {
+    "id": "chand-baori-rajasthan",
+    "name": "Chand Baori",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Chand Baori is a stepwell in Abhaneri, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.00729,
+      "lon": 76.60639
+    }
+  },
+  {
+    "id": "chand-khedi-kota-rajasthan",
+    "name": "Chand Khedi, Kota",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Chand Khedi, Kota is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.72975,
+      "lon": 76.40175
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chandravati-rajasthan",
+    "name": "Chandravati",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Chandravati is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.45,
+      "lon": 72.76667
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "charbhuja-nath-temple-rajasthan",
+    "name": "Charbhuja Nath Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Charbhuja Nath Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.4459,
+      "lon": 75.6373
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "charbhuja-rajasthan",
+    "name": "Charbhuja",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Charbhuja is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.2667,
+      "lon": 73.6833
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chaurasi-khamba-mosque-rajasthan",
+    "name": "Chaurasi Khamba Mosque",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Chaurasi Khamba Mosque is a mosque in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.65115,
+      "lon": 77.26586
+    },
+    "tags": [
+      "temple",
+      "mosque"
+    ]
+  },
+  {
+    "id": "chaurasi-khambon-ki-chhatri-bundi-rajasthan",
+    "name": "Chaurasi Khambon ki Chhatri, Bundi",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Chaurasi Khambon ki Chhatri, Bundi is a cenotaph in Bundi, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.42978,
+      "lon": 75.64714
+    }
+  },
+  {
+    "id": "chauth-mata-temple-bundi-rajasthan",
+    "name": "Chauth Mata Temple, Bundi",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Chauth Mata Temple, Bundi is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.4664,
+      "lon": 75.6592
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chauth-mata-temple-rajasthan",
+    "name": "Chauth Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Chauth Mata Temple is a temple in Chauth Ka Barwara, Rajasthan.",
+    "coordinates": {
+      "lat": 26.05109,
+      "lon": 76.13613
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "chetak-smarak-rajasthan",
+    "name": "Chetak Smarak",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Chetak Smarak is a horse known for his intelligence & bravery in Battle of Haldighati.",
+    "coordinates": {
+      "lat": 24.88674,
+      "lon": 73.69127
+    }
+  },
+  {
+    "id": "chittor-fort-rajasthan",
+    "name": "Chittor Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Chittor Fort is a historic fort in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.88722,
+      "lon": 74.64694
+    },
+    "tags": [
+      "world-heritage",
+      "fort"
+    ]
+  },
+  {
+    "id": "city-palace-jaipur-rajasthan",
+    "name": "City Palace, Jaipur",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "City Palace, Jaipur is a palace complex in Jaipur, India.",
+    "coordinates": {
+      "lat": 26.9255,
+      "lon": 75.8236
+    },
+    "tags": [
+      "palace",
+      "museum"
+    ]
+  },
+  {
+    "id": "city-palace-udaipur-rajasthan",
+    "name": "City Palace, Udaipur",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "City Palace, Udaipur is a building in India.",
+    "coordinates": {
+      "lat": 24.576,
+      "lon": 73.683
+    },
+    "tags": [
+      "palace",
+      "museum"
+    ]
+  },
+  {
+    "id": "city-park-jaipur-rajasthan",
+    "name": "City Park, Jaipur",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "City Park, Jaipur is an urban park in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.8575,
+      "lon": 75.7625
+    }
+  },
+  {
+    "id": "city-wall-of-jaipur-rajasthan",
+    "name": "City wall of Jaipur",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "City wall of Jaipur is a city wall encircling the old Jaipur city, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.92666,
+      "lon": 75.80828
+    }
+  },
+  {
+    "id": "dadabadi-rajasthan",
+    "name": "Dādābadī",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sacred site of the Jain tradition dedicated to the memory of the Dada Gurus.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dadhimati-mata-temple-rajasthan",
+    "name": "Dadhimati Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Dadhimati Mata Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.2373,
+      "lon": 74.0755
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dailab-lake-rajasthan",
+    "name": "Dailab Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Dailab Lake is a lake in Udaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 23.33,
+      "lon": 74.27
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "darrah-wildlife-sanctuary-rajasthan",
+    "name": "Darrah Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Darrah Wildlife Sanctuary is a protected area in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.83333,
+      "lon": 75.96667
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "deeg-palace-rajasthan",
+    "name": "Deeg Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Deeg Palace is a palace in Deeg, Bharatpur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.4722,
+      "lon": 77.32386
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "delhi-gate-ajmer-rajasthan",
+    "name": "Delhi Gate, Ajmer",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Delhi Gate, Ajmer is a historic site in Ajmer, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.46215,
+      "lon": 74.62767
+    }
+  },
+  {
+    "id": "desert-dolphin-skatepark-rajasthan",
+    "name": "Desert Dolphin Skatepark",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Desert Dolphin Skatepark is a skatepark in Khempur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.7519,
+      "lon": 74.0307
+    }
+  },
+  {
+    "id": "desert-national-park-rajasthan",
+    "name": "Desert National Park",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Desert National Park is a national park in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.31667,
+      "lon": 70.51667
+    },
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ]
+  },
+  {
+    "id": "dev-dham-jodhpuriya-rajasthan",
+    "name": "Dev Dham Jodhpuriya",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Dev Dham Jodhpuriya is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.43307,
+      "lon": 75.77025
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "devigarh-rajasthan",
+    "name": "Devigarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Devigarh is a building in India.",
+    "coordinates": {
+      "lat": 24.7725,
+      "lon": 73.7493
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "dhabbawali-mata-temple-rajasthan",
+    "name": "Dhabbawali Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Dhabbawali Mata Temple is a hindu temple in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dhanop-rajasthan",
+    "name": "Dhanop",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Dhanop is a village in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dhebar-lake-rajasthan",
+    "name": "Dhebar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Dhebar Lake is a lake in Udaipur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.26667,
+      "lon": 74.0
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "dheel-dam-rajasthan",
+    "name": "Dheel Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Dheel Dam is a dam in Sawai Madhopur district, Rajasthan.",
+    "coordinates": {
+      "lat": 26.22291,
+      "lon": 76.11716
+    }
+  },
+  {
+    "id": "diggi-palace-rajasthan",
+    "name": "Diggi Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Diggi Palace is a building in India.",
+    "coordinates": {
+      "lat": 26.91,
+      "lon": 75.81254
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "dilwara-temples-rajasthan",
+    "name": "Dilwara Temples",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Dilwara Temples is a group of Svetambara Jain temples in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.60931,
+      "lon": 72.72306
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "dobra-mahadev-temple-rajasthan",
+    "name": "Dobra Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Dobra Mahadev Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.46062,
+      "lon": 75.63308
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "doodh-talai-lake-rajasthan",
+    "name": "Doodh Talai Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Doodh Talai Lake is a body of water.",
+    "coordinates": {
+      "lat": 24.56843,
+      "lon": 73.68477
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "dungarpur-mews-rajasthan",
+    "name": "Dungarpur Mews",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Dungarpur Mews is an automobile museum in Dungarpur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 23.83684,
+      "lon": 73.72347
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "dwarkadhish-kankroli-rajasthan",
+    "name": "Dwarkadhish Kankroli",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Dwarkadhish Kankroli is a hIndu temple in Kankroli.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "eklingji-rajasthan",
+    "name": "Eklingji",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Eklingji is a bulit by Gurjara Pratihara Emperors in 8th or 9th Century.",
+    "coordinates": {
+      "lat": 24.75,
+      "lon": 73.72361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "fateh-jang-gumbad-alwar-rajasthan",
+    "name": "Fateh Jang Gumbad Alwar",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Fateh Jang Gumbad Alwar is a tomb in Alwar, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.5625,
+      "lon": 76.62278
+    }
+  },
+  {
+    "id": "fateh-sagar-lake-rajasthan",
+    "name": "Fateh Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Fateh Sagar Lake is a lake in Udaipur, India.",
+    "coordinates": {
+      "lat": 24.6,
+      "lon": 73.67
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "flying-fox-neemrana-rajasthan",
+    "name": "Flying Fox Neemrana",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Flying Fox Neemrana is a zip line in India."
+  },
+  {
+    "id": "fort-beshangarh-rajasthan",
+    "name": "Fort Beshangarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Fort Beshangarh is a fort in India.",
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "fort-madhogarh-rajasthan",
+    "name": "Fort Madhogarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Fort Madhogarh is a fort and heritage hotel in Rajasthan, India.",
+    "coordinates": {
+      "lat": 28.61874,
+      "lon": 77.23058
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "gadisar-lake-rajasthan",
+    "name": "Gadisar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Gadisar Lake is a lake in Jaisalmer, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.90789,
+      "lon": 70.92134
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "gagron-fort-rajasthan",
+    "name": "Gagron Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Gagron Fort is a fort in Jhalawar district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.628,
+      "lon": 76.183
+    },
+    "tags": [
+      "world-heritage",
+      "fort"
+    ]
+  },
+  {
+    "id": "gaib-sagar-lake-rajasthan",
+    "name": "Gaib Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Gaib Sagar Lake is an artificial lake in Rajasthan, India.",
+    "coordinates": {
+      "lat": 23.839,
+      "lon": 73.719
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "gajner-palace-bikaner-rajasthan",
+    "name": "Gajner Palace, Bikaner",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Gajner Palace, Bikaner is a heritage hotel in Bikaner.",
+    "coordinates": {
+      "lat": 27.9453,
+      "lon": 73.0527
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "gajner-wildlife-sanctuary-rajasthan",
+    "name": "Gajner Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Gajner Wildlife Sanctuary is a wildlife sanctuary on Rajasthan.",
+    "coordinates": {
+      "lat": 27.95272,
+      "lon": 73.05697
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "galtaji-rajasthan",
+    "name": "Galtaji",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Galtaji is a hindu pilgrimage site in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.91692,
+      "lon": 75.85812
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "ganeshwar-rajasthan",
+    "name": "Ganeshwar",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Ganeshwar is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.63273,
+      "lon": 75.87936
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "gangaur-ghat-rajasthan",
+    "name": "Gangaur Ghat",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Gangaur Ghat is a tourism place in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.57995,
+      "lon": 73.68174
+    }
+  },
+  {
+    "id": "garh-ganesh-temple-rajasthan",
+    "name": "Garh Ganesh Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Garh Ganesh Temple is a temple in Jaipur, India.",
+    "coordinates": {
+      "lat": 26.94535,
+      "lon": 75.82696
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "garh-palace-jhalawar-rajasthan",
+    "name": "Garh Palace, Jhalawar",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Garh Palace, Jhalawar is a former residence of the Maharaj Ranas of the Jhalawar.",
+    "coordinates": {
+      "lat": 24.5962,
+      "lon": 76.1651
+    },
+    "tags": [
+      "palace",
+      "museum"
+    ]
+  },
+  {
+    "id": "garh-palace-kota-rajasthan",
+    "name": "Garh Palace, Kota",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Garh Palace, Kota is a palace in Kota, Rajasthan, India.",
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "geparnath-mahadev-temple-rajasthan",
+    "name": "Geparnath Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Geparnath Mahadev Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.06826,
+      "lon": 75.71438
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ghanta-ghar-jodhpur-rajasthan",
+    "name": "Ghanta Ghar (Jodhpur)",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Ghanta Ghar (Jodhpur) is a clock tower in Jodhpur, India.",
+    "coordinates": {
+      "lat": 26.2951,
+      "lon": 73.024
+    }
+  },
+  {
+    "id": "ghateshwar-temple-rajasthan",
+    "name": "Ghateshwar Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ghateshwar Temple is a hindu temple in Baroli, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.95806,
+      "lon": 75.59361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ghushmeshwar-temple-rajasthan",
+    "name": "Ghushmeshwar Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ghushmeshwar Temple is a jyotirlinga of Lord Shiva.",
+    "coordinates": {
+      "lat": 26.197,
+      "lon": 76.02276
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "gilund-rajasthan",
+    "name": "Gilund",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Gilund is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.01667,
+      "lon": 74.25
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "gogamedi-rajasthan",
+    "name": "Gogamedi",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Gogamedi is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 29.1573,
+      "lon": 75.02898
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "goram-ghat-rajasthan",
+    "name": "Goram Ghat",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Goram Ghat is a mountain pass.",
+    "tags": [
+      "hill-station"
+    ]
+  },
+  {
+    "id": "gosunda-dam-rajasthan",
+    "name": "Gosunda Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Gosunda Dam is a dam in India.",
+    "coordinates": {
+      "lat": 24.82651,
+      "lon": 74.52306
+    }
+  },
+  {
+    "id": "goverdhan-sagar-lake-rajasthan",
+    "name": "Goverdhan Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Goverdhan Sagar Lake is a body of water.",
+    "coordinates": {
+      "lat": 24.53763,
+      "lon": 73.68365
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "government-museum-alwar-rajasthan",
+    "name": "Government Museum, Alwar",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Government Museum, Alwar is a museum in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.56962,
+      "lon": 76.59369
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "govind-dev-ji-temple-rajasthan",
+    "name": "Govind Dev Ji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Govind Dev Ji Temple is a temple in India.",
+    "coordinates": {
+      "lat": 26.92892,
+      "lon": 75.82397
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gulab-bagh-and-zoo-rajasthan",
+    "name": "Gulab Bagh and Zoo",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Gulab Bagh and Zoo is an udaipur, Rajasthan.",
+    "coordinates": {
+      "lat": 24.57139,
+      "lon": 73.69278
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "gupteshwar-mahadev-udaipur-rajasthan",
+    "name": "Gupteshwar Mahadev, Udaipur",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Gupteshwar Mahadev, Udaipur is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.54189,
+      "lon": 73.7395
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "gurudwara-buddha-johad-rajasthan",
+    "name": "Gurudwara Buddha Johad",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Gurudwara Buddha Johad is a building in India.",
+    "coordinates": {
+      "lat": 29.28423,
+      "lon": 73.38422
+    }
+  },
+  {
+    "id": "hadi-rani-ki-baori-rajasthan",
+    "name": "Hadi Rani Ki Baori",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Hadi Rani Ki Baori is a stepwell in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.02039,
+      "lon": 75.4787
+    }
+  },
+  {
+    "id": "haldeshwar-rajasthan",
+    "name": "Haldeshwar",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Haldeshwar is a shiva temples in Rajasthan.",
+    "coordinates": {
+      "lat": 25.57361,
+      "lon": 72.34639
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "haldighati-rajasthan",
+    "name": "Haldighati",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Haldighati is a mountain pass.",
+    "coordinates": {
+      "lat": 24.89497,
+      "lon": 73.70214
+    }
+  },
+  {
+    "id": "harshat-mata-temple-rajasthan",
+    "name": "Harshat Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Harshat Mata Temple is a temple in Abhaneri, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.00759,
+      "lon": 76.60511
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "harshnath-temple-rajasthan",
+    "name": "Harshnath Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Harshnath Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 27.49956,
+      "lon": 75.17218
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "hathiagor-buddhist-caves-rajasthan",
+    "name": "Hathiagor Buddhist Caves",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Hathiagor Buddhist Caves is a cave in India.",
+    "coordinates": {
+      "lat": 24.11056,
+      "lon": 75.86444
+    },
+    "tags": [
+      "cave",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "hawa-mahal-rajasthan",
+    "name": "Hawa Mahal",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Hawa Mahal is a palace in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.924,
+      "lon": 75.82672
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "hemawas-rajasthan",
+    "name": "Hemawas",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Hemawas is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.7,
+      "lon": 73.333
+    }
+  },
+  {
+    "id": "hill-fort-kesroli-rajasthan",
+    "name": "Hill Fort Kesroli",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Hill Fort Kesroli is a fort and hotel in Alwar district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.54895,
+      "lon": 76.71149
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "hill-forts-of-rajasthan-rajasthan",
+    "name": "Hill Forts of Rajasthan",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Hill Forts of Rajasthan is a UNESCO World Heritage Site in India.",
+    "coordinates": {
+      "lat": 24.88331,
+      "lon": 74.64611
+    },
+    "tags": [
+      "world-heritage",
+      "fort"
+    ]
+  },
+  {
+    "id": "hindaun-fort-rajasthan",
+    "name": "Hindaun Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Hindaun Fort is a fort in Karauli, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.7303,
+      "lon": 77.0391
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "hindaun-rajasthan",
+    "name": "Hindaun",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Hindaun is a city in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.72,
+      "lon": 77.02
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "hindumalkote-rajasthan",
+    "name": "Hindumalkote",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Hindumalkote is a place in India.",
+    "coordinates": {
+      "lat": 30.13637,
+      "lon": 73.91685
+    }
+  },
+  {
+    "id": "idana-mata-temple-rajasthan",
+    "name": "Idana Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Idana Mata Temple is located in the Aravalli hills.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "isarda-dam-rajasthan",
+    "name": "Isarda Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Isarda Dam is a dam in Isarda, Rajasthan.",
+    "coordinates": {
+      "lat": 26.1105,
+      "lon": 76.0076
+    }
+  },
+  {
+    "id": "jachcha-ki-baori-rajasthan",
+    "name": "Jachcha ki Baori",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jachcha ki Baori is a stepwell at Hindaun, Rajasthan, India."
+  },
+  {
+    "id": "jag-mandir-palace-rajasthan",
+    "name": "Jag Mandir Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jag Mandir Palace is a palace in Lake Pichola, Udaipur, India.",
+    "coordinates": {
+      "lat": 24.5672,
+      "lon": 73.6781
+    },
+    "tags": [
+      "palace",
+      "lake"
+    ]
+  },
+  {
+    "id": "jagannath-temple-alwar-rajasthan",
+    "name": "Jagannath Temple, Alwar",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Jagannath Temple, Alwar is a hindu temple in Alwar, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.53058,
+      "lon": 76.60381
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jagat-shiromani-temple-amer-rajasthan",
+    "name": "Jagat Shiromani Temple, Amer",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Jagat Shiromani Temple, Amer is a hindu temple in Amber, Jaipur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.98886,
+      "lon": 75.85118
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jagdish-temple-udaipur-rajasthan",
+    "name": "Jagdish Temple, Udaipur",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Jagdish Temple, Udaipur is a temple in Udaipur, India.",
+    "coordinates": {
+      "lat": 24.57972,
+      "lon": 73.68361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jaggar-dam-rajasthan",
+    "name": "Jaggar Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Jaggar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 26.7,
+      "lon": 77.0
+    }
+  },
+  {
+    "id": "jahaj-mandir-rajasthan",
+    "name": "Jahaj Mandir",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Jahaj Mandir is a building in India.",
+    "coordinates": {
+      "lat": 25.42942,
+      "lon": 72.52339
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jahazpur-fort-rajasthan",
+    "name": "Jahazpur Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jahazpur Fort is a monument.",
+    "coordinates": {
+      "lat": 25.61354,
+      "lon": 75.27936
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "jaigarh-fort-rajasthan",
+    "name": "Jaigarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jaigarh Fort is a fort in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.98278,
+      "lon": 75.84472
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "jaipur-rajasthan",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jaipur is a capital of Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.915,
+      "lon": 75.82
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "jaipur-zoo-rajasthan",
+    "name": "Jaipur Zoo",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Jaipur Zoo is a zoo in Jaipur, Rajasthan.",
+    "coordinates": {
+      "lat": 26.91224,
+      "lon": 75.82144
+    }
+  },
+  {
+    "id": "jaisalmer-folklore-museum-rajasthan",
+    "name": "Jaisalmer Folklore Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jaisalmer Folklore Museum is a natural history museum in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.9107,
+      "lon": 70.9191
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "jaisalmer-fort-jain-temples-rajasthan",
+    "name": "Jaisalmer Fort Jain temples",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jaisalmer Fort Jain temples is a group of temples in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.91222,
+      "lon": 70.91222
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ]
+  },
+  {
+    "id": "jaisalmer-fort-rajasthan",
+    "name": "Jaisalmer Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jaisalmer Fort is a fort in Jaisalmer, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.9127,
+      "lon": 70.9126
+    },
+    "tags": [
+      "world-heritage",
+      "fort"
+    ]
+  },
+  {
+    "id": "jaisalmer-rajasthan",
+    "name": "Jaisalmer",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Jaisalmer is a city in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.91667,
+      "lon": 70.91667
+    }
+  },
+  {
+    "id": "jaisalmer-war-museum-rajasthan",
+    "name": "Jaisalmer War Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jaisalmer War Museum is a military museum in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.94143,
+      "lon": 71.02471
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "jait-sagar-lake-rajasthan",
+    "name": "Jait Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Jait Sagar Lake is a fresh water reservoir in Bundi, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.45736,
+      "lon": 75.6487
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "jakham-dam-rajasthan",
+    "name": "Jakham Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Jakham Dam is a dam in India.",
+    "coordinates": {
+      "lat": 24.16994,
+      "lon": 74.59098
+    }
+  },
+  {
+    "id": "jal-mahal-rajasthan",
+    "name": "Jal Mahal",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jal Mahal is a palace in Man Sagar Lake, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.95333,
+      "lon": 75.84611
+    },
+    "tags": [
+      "palace",
+      "lake",
+      "island"
+    ]
+  },
+  {
+    "id": "jalore-fort-rajasthan",
+    "name": "Jalore Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jalore Fort is a fort in Jalore, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.3373,
+      "lon": 72.6144
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "jantar-mantar-jaipur-rajasthan",
+    "name": "Jantar Mantar, Jaipur",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jantar Mantar, Jaipur is a monument site, collection of astronomical instruments in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.92472,
+      "lon": 75.825
+    },
+    "tags": [
+      "world-heritage"
+    ]
+  },
+  {
+    "id": "jasnath-temple-rajasthan",
+    "name": "Jasnath Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Jasnath Temple is a temple of Lord Siddh Shri Jasnath Ji Maharaj, located in the village of Katriyasar in the Bikaner district of Rajasthan.",
+    "coordinates": {
+      "lat": 28.21913,
+      "lon": 73.56204
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jaswant-thada-rajasthan",
+    "name": "Jaswant Thada",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Jaswant Thada is a cenotaph in Jodhpur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.30389,
+      "lon": 73.02528
+    }
+  },
+  {
+    "id": "jawahar-circle-rajasthan",
+    "name": "Jawahar Circle",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Jawahar Circle is a park in Jaipur (Rajasthan), India.",
+    "coordinates": {
+      "lat": 26.8404,
+      "lon": 75.8003
+    }
+  },
+  {
+    "id": "jawahar-kala-kendra-rajasthan",
+    "name": "Jawahar Kala Kendra",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jawahar Kala Kendra is a cultural center in Jaipur.",
+    "coordinates": {
+      "lat": 26.8763,
+      "lon": 75.80917
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "jawahar-sagar-dam-rajasthan",
+    "name": "Jawahar Sagar Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Jawahar Sagar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 25.03714,
+      "lon": 75.67836
+    }
+  },
+  {
+    "id": "jawahar-sagar-wildlife-sanctuary-rajasthan",
+    "name": "Jawahar Sagar Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Jawahar Sagar Wildlife Sanctuary is a wildlife sanctuary in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.0097,
+      "lon": 75.6386
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "jawai-dam-rajasthan",
+    "name": "Jawai Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Jawai Dam is a village in India.",
+    "coordinates": {
+      "lat": 25.07051,
+      "lon": 73.15659
+    }
+  },
+  {
+    "id": "jawasiya-arni-rajasthan",
+    "name": "Jawasiya-Arni",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Jawasiya-Arni is an archaeological site in India.",
+    "coordinates": {
+      "lat": 25.19145,
+      "lon": 74.52278
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "jayal-rajasthan",
+    "name": "Jayal",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Jayal is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.2167,
+      "lon": 74.1833
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "jeenmata-rajasthan",
+    "name": "Jeenmata",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Jeenmata is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.44415,
+      "lon": 75.19446
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "jhalana-amagarh-leopard-conservation-reserve-rajasthan",
+    "name": "Jhalana Amagarh leopard conservation reserve",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Jhalana Amagarh leopard conservation reserve is a protected area in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.885,
+      "lon": 75.85
+    }
+  },
+  {
+    "id": "jirawala-tirth-rajasthan",
+    "name": "Jirawala Tirth",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Jirawala Tirth is a jain temple.",
+    "coordinates": {
+      "lat": 24.67397,
+      "lon": 72.493
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "juna-mahal-rajasthan",
+    "name": "Juna Mahal",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Juna Mahal is a palace in Dungarpur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 23.82834,
+      "lon": 73.71603
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "junagarh-fort-rajasthan",
+    "name": "Junagarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Junagarh Fort is a fort in Bikaner, Rajasthan, India.",
+    "coordinates": {
+      "lat": 28.02201,
+      "lon": 73.31772
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "kaila-devi-temple-rajasthan",
+    "name": "Kaila Devi Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kaila Devi Temple is a hindu temple in Kailadevi, Rajasthan.",
+    "coordinates": {
+      "lat": 26.3351,
+      "lon": 76.8938
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kalibangan-rajasthan",
+    "name": "Kalibangan",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Kalibangan is a town on the banks of the Ghaggar River in India.",
+    "coordinates": {
+      "lat": 29.47389,
+      "lon": 74.12972
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "kalika-mata-temple-chittorgarh-fort-rajasthan",
+    "name": "Kalika Mata Temple, Chittorgarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Kalika Mata Temple, Chittorgarh Fort is a hindu temple at Chittorgarh Fort, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.88124,
+      "lon": 74.64418
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ]
+  },
+  {
+    "id": "kalisindh-dam-rajasthan",
+    "name": "Kalisindh Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Kalisindh Dam is a gravity dam across the Kali Sindh River in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.80692,
+      "lon": 76.37819
+    }
+  },
+  {
+    "id": "kalki-mandir-rajasthan",
+    "name": "Kalki Mandir",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kalki Mandir is a temple in India.",
+    "coordinates": {
+      "lat": 26.92628,
+      "lon": 75.82687
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kamleshwar-mahadev-temple-rajasthan",
+    "name": "Kamleshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kamleshwar Mahadev Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.76323,
+      "lon": 76.32721
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kanak-vrindavan-rajasthan",
+    "name": "Kanak Vrindavan",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kanak Vrindavan is a park in India.",
+    "coordinates": {
+      "lat": 26.96356,
+      "lon": 75.84739
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kaniwada-hanuman-temple-rajasthan",
+    "name": "Kaniwada Hanuman Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kaniwada Hanuman Temple is a historic shrine located in Jalore, Rajasthan.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kaniwara-rajasthan",
+    "name": "Kaniwara",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kaniwara is a historic and unique Kaniwada Hanuman Temple.",
+    "coordinates": {
+      "lat": 25.56357,
+      "lon": 72.65628
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kankwadi-rajasthan",
+    "name": "Kankwadi",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Kankwadi is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.24,
+      "lon": 76.40806
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "kanswa-rajasthan",
+    "name": "Kanswa",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Kanswa is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.23333,
+      "lon": 80.58333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "karanpura-rajasthan",
+    "name": "Karanpura",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Karanpura is an archaeological site in Rajasthan, India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "karni-mata-temple-rajasthan",
+    "name": "Karni Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Karni Mata Temple is a temple in India.",
+    "coordinates": {
+      "lat": 27.79056,
+      "lon": 73.34083
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "karni-mata-udaipur-rajasthan",
+    "name": "Karni Mata, Udaipur",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Karni Mata, Udaipur is a hindu temple in Udaipur.",
+    "coordinates": {
+      "lat": 24.56586,
+      "lon": 73.6883
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "karoi-bhilwara-rajasthan",
+    "name": "Karoi, Bhilwara",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Karoi, Bhilwara is a village.",
+    "coordinates": {
+      "lat": 25.22709,
+      "lon": 74.42123
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "kaylana-lake-rajasthan",
+    "name": "Kaylana Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Kaylana Lake is a lake in Jodhpur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.28548,
+      "lon": 72.96619
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "keleshwar-mahadev-temple-rajasthan",
+    "name": "Keleshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Keleshwar Mahadev Temple is a hindu temple in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "keoladeo-national-park-rajasthan",
+    "name": "Keoladeo National Park",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Keoladeo National Park is a national park and bird sanctuary in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.16667,
+      "lon": 77.51667
+    },
+    "tags": [
+      "world-heritage",
+      "national-park"
+    ]
+  },
+  {
+    "id": "kesariyaji-rajasthan",
+    "name": "Kesariyaji",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kesariyaji is a jain temple in the state of Rajasthan.",
+    "coordinates": {
+      "lat": 24.07639,
+      "lon": 73.68944
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "keshav-rai-temple-rajasthan",
+    "name": "Keshav Rai Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Keshav Rai Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.289,
+      "lon": 75.939
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "khandar-fort-rajasthan",
+    "name": "Khandar Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Khandar Fort is a fort in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.02333,
+      "lon": 76.60694
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "khandip-dam-rajasthan",
+    "name": "Khandip Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Khandip Dam is a dam in Rajasthan.",
+    "coordinates": {
+      "lat": 26.63333,
+      "lon": 76.95
+    }
+  },
+  {
+    "id": "khatu-shyam-temple-rajasthan",
+    "name": "Khatu Shyam Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Khatu Shyam Temple is a hindu temple in Rajasthan.",
+    "coordinates": {
+      "lat": 27.36667,
+      "lon": 75.4
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "khawaraoji-rajasthan",
+    "name": "Khawaraoji",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Khawaraoji is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.77666,
+      "lon": 76.47615
+    }
+  },
+  {
+    "id": "khed-temple-rajasthan",
+    "name": "Khed Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Khed Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.86306,
+      "lon": 72.17222
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "khejarli-rajasthan",
+    "name": "Khejarli",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Khejarli is a village in Jodhpur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.5,
+      "lon": 73.8
+    }
+  },
+  {
+    "id": "khejri-hanuman-temple-rajasthan",
+    "name": "Khejri Hanuman Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Khejri Hanuman Temple is a hindu temple in Rajasthan.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "khema-baba-temple-rajasthan",
+    "name": "Khema Baba Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Khema Baba Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.998,
+      "lon": 72.239
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "khetri-mahal-rajasthan",
+    "name": "Khetri Mahal",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Khetri Mahal is a ruined palace.",
+    "coordinates": {
+      "lat": 28.1264,
+      "lon": 75.395
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "khichan-rajasthan",
+    "name": "Khichan",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Khichan is a village in Jodhpur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.135,
+      "lon": 72.415
+    }
+  },
+  {
+    "id": "khimsar-fort-rajasthan",
+    "name": "Khimsar Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Khimsar Fort is a fort in Nagaur, Rajasthan.",
+    "coordinates": {
+      "lat": 26.9769,
+      "lon": 73.4008
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "khole-ke-hanuman-ji-temple-rajasthan",
+    "name": "Khole Ke Hanuman Ji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Khole Ke Hanuman Ji Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.9401,
+      "lon": 75.8548
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kiradu-temples-rajasthan",
+    "name": "Kiradu temples",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kiradu temples is a group of ruined Hindu temples in Barmer district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.7528,
+      "lon": 71.0977
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kirti-stambha-rajasthan",
+    "name": "Kirti Stambha",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Kirti Stambha is a tower within Chittor Fort in Chittorgarh, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.89214,
+      "lon": 74.64994
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "kishore-sagar-talab-rajasthan",
+    "name": "Kishore Sagar Talab",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Kishore Sagar Talab is a lake in India.",
+    "coordinates": {
+      "lat": 25.18341,
+      "lon": 75.84793
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "kolayat-lake-rajasthan",
+    "name": "Kolayat Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Kolayat Lake is a lake in India.",
+    "coordinates": {
+      "lat": 27.841,
+      "lon": 72.955
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "kolvi-caves-rajasthan",
+    "name": "Kolvi Caves",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Kolvi Caves is a cave in India.",
+    "coordinates": {
+      "lat": 24.01126,
+      "lon": 75.84741
+    },
+    "tags": [
+      "cave",
+      "archaeological-site",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "kota-barrage-rajasthan",
+    "name": "Kota Barrage",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Kota Barrage is a dam in Rajasthan, northern India.",
+    "coordinates": {
+      "lat": 25.17575,
+      "lon": 75.82734
+    }
+  },
+  {
+    "id": "kshemkari-mata-temple-rajasthan",
+    "name": "Kshemkari Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kshemkari Mata Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.998,
+      "lon": 72.239
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kumbhalgarh-rajasthan",
+    "name": "Kumbhalgarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Kumbhalgarh is a fort in Rajsamand District, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.14917,
+      "lon": 73.58111
+    },
+    "tags": [
+      "world-heritage",
+      "fort"
+    ]
+  },
+  {
+    "id": "kumbhalgarh-wildlife-sanctuary-rajasthan",
+    "name": "Kumbhalgarh Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Kumbhalgarh Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 25.13389,
+      "lon": 73.56306
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "kunjal-mata-temple-rajasthan",
+    "name": "Kunjal Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Kunjal Mata Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.30917,
+      "lon": 73.91611
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "kusuma-rajasthan-rajasthan",
+    "name": "Kusuma, Rajasthan",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Kusuma, Rajasthan is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.0,
+      "lon": 87.8
+    }
+  },
+  {
+    "id": "ladnu-jain-temple-rajasthan",
+    "name": "Ladnu Jain temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ladnu Jain temple is a jain pilgrimage center located Rajasthan.",
+    "coordinates": {
+      "lat": 27.64139,
+      "lon": 74.394
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "laila-majnu-ki-mazar-rajasthan",
+    "name": "Laila Majnu Ki Mazar",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Laila Majnu Ki Mazar is a mausoleum in Rajasthan, India."
+  },
+  {
+    "id": "lake-badi-rajasthan",
+    "name": "Lake Badi",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Lake Badi is an artificial fresh water lake in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.61611,
+      "lon": 73.62213
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "lake-palace-rajasthan",
+    "name": "Lake Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Lake Palace is a former palace, today hotel on the Jag Niwas island in Lake Pichola, Udaipur, India.",
+    "coordinates": {
+      "lat": 24.57507,
+      "lon": 73.68022
+    },
+    "tags": [
+      "palace",
+      "lake",
+      "island"
+    ]
+  },
+  {
+    "id": "lake-pichola-rajasthan",
+    "name": "Lake Pichola",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Lake Pichola is a lake in Udaipur city, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.572,
+      "lon": 73.679
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "lal-masjid-tijara-rajasthan",
+    "name": "Lal Masjid, Tijara",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Lal Masjid, Tijara is a mosque in Tijara, Rajasthan.",
+    "coordinates": {
+      "lat": 27.93303,
+      "lon": 76.8642
+    },
+    "tags": [
+      "mosque"
+    ]
+  },
+  {
+    "id": "lalgarh-palace-rajasthan",
+    "name": "Lalgarh Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Lalgarh Palace is a building in India.",
+    "coordinates": {
+      "lat": 28.04108,
+      "lon": 73.33166
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "lapis-lazuli-rajasthan",
+    "name": "Lapis lazuli",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Lapis lazuli is a contact metamorphic rock containing lazurite (but in most cases is haüyne), pyrite and calcite, mainly.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "laxmangarh-fort-rajasthan",
+    "name": "Laxmangarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Laxmangarh Fort is a building in India.",
+    "coordinates": {
+      "lat": 27.82383,
+      "lon": 75.02484
+    },
+    "tags": [
+      "fort",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "lodhruva-rajasthan",
+    "name": "Lodhruva",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Lodhruva is a village in Jaisalmer district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.98611,
+      "lon": 70.80306
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "lodhurva-jain-temple-rajasthan",
+    "name": "Lodhurva Jain temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Lodhurva Jain temple is a jain temple complex in Jaisalmer district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.98536,
+      "lon": 70.80264
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "lohagarh-fort-rajasthan",
+    "name": "Lohagarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Lohagarh Fort is a fort in Bharatpur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.21972,
+      "lon": 77.49528
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "ma-ambika-mandir-musen-mata-rajasthan",
+    "name": "Ma Ambika Mandir, Musen Mata",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ma Ambika Mandir, Musen Mata is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.80107,
+      "lon": 76.63738
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "machia-biological-park-rajasthan",
+    "name": "Machia Biological Park",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Machia Biological Park is a zoo in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.30417,
+      "lon": 72.97944
+    }
+  },
+  {
+    "id": "madan-mohan-temple-karauli-rajasthan",
+    "name": "Madan Mohan Temple, Karauli",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Madan Mohan Temple, Karauli is a hindu temple in Karauli, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.81842,
+      "lon": 77.06047
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahakaleshwar-temple-udaipur-rajasthan",
+    "name": "Mahakaleshwar Temple Udaipur",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Mahakaleshwar Temple Udaipur is a hindu temple.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahavira-jain-temple-osian-rajasthan",
+    "name": "Mahavira Jain temple, Osian",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Mahavira Jain temple, Osian is a temple in Osian, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.72456,
+      "lon": 72.89178
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mahi-bajaj-sagar-dam-rajasthan",
+    "name": "Mahi Bajaj Sagar Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Mahi Bajaj Sagar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 23.627,
+      "lon": 74.5442
+    }
+  },
+  {
+    "id": "malan-masi-balaji-temple-rajasthan",
+    "name": "Malan Masi Balaji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Malan Masi Balaji Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.44,
+      "lon": 75.64
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "man-sagar-lake-rajasthan",
+    "name": "Man Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Man Sagar Lake is a lake in Jaipur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.95611,
+      "lon": 75.84611
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "mandawa-fort-rajasthan",
+    "name": "Mandawa Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Mandawa Fort is a heritage site in Jhunjhunu district of India.",
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "mandhata-balaji-temple-rajasthan",
+    "name": "Mandhata Balaji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Mandhata Balaji Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.45265,
+      "lon": 75.64516
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mandoli-rajasthan-rajasthan",
+    "name": "Mandoli, Rajasthan",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Mandoli, Rajasthan is a village in Jalore district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.05,
+      "lon": 72.56667
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "manibandh-shaktipeeth-rajasthan",
+    "name": "Manibandh Shaktipeeth",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Manibandh Shaktipeeth is a shaktipeeth in Rajasthan.",
+    "coordinates": {
+      "lat": 27.71111,
+      "lon": 85.35333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mansi-wakal-dam-rajasthan",
+    "name": "Mansi Wakal Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Mansi Wakal Dam is a dam in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.47652,
+      "lon": 73.48793
+    }
+  },
+  {
+    "id": "maota-lake-rajasthan",
+    "name": "Maota Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Maota Lake is a lake in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.98333,
+      "lon": 75.8525
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "mehandipur-balaji-temple-rajasthan",
+    "name": "Mehandipur Balaji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Mehandipur Balaji Temple is a mandir in the Indian state of Rajasthan.",
+    "coordinates": {
+      "lat": 26.94,
+      "lon": 76.79
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mehrangarh-rajasthan",
+    "name": "Mehrangarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Mehrangarh is a fort in Jodhpur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.29806,
+      "lon": 73.01889
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "meja-dam-bhilwara-rajasthan",
+    "name": "Meja Dam (Bhilwara)",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Meja Dam (Bhilwara) is a dam in India.",
+    "coordinates": {
+      "lat": 25.3934,
+      "lon": 74.5405
+    }
+  },
+  {
+    "id": "merta-city-rajasthan",
+    "name": "Merta City",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Merta City is a city in Nagaur district, Ajmer division, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.65,
+      "lon": 74.0333
+    }
+  },
+  {
+    "id": "mirpur-jahaj-temple-rajasthan",
+    "name": "Mirpur Jahaj Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Mirpur Jahaj Temple is a tourism place in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mirpur-jain-temple-rajasthan",
+    "name": "Mirpur Jain Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Mirpur Jain Temple is a building in India.",
+    "coordinates": {
+      "lat": 24.8575,
+      "lon": 72.8064
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "monsoon-palace-rajasthan",
+    "name": "Monsoon Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Monsoon Palace is a building in India.",
+    "coordinates": {
+      "lat": 24.594,
+      "lon": 73.639
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "morel-dam-rajasthan",
+    "name": "Morel dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Morel dam is a dam in India."
+  },
+  {
+    "id": "moti-dungri-rajasthan",
+    "name": "Moti Dungri",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Moti Dungri is a hindu temple in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.89462,
+      "lon": 75.81674
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "moti-magri-rajasthan",
+    "name": "Moti Magri",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Moti Magri is a hill in Udaipur, Udaipur district, Udaipur division, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.59833,
+      "lon": 73.68306
+    }
+  },
+  {
+    "id": "mount-abu-infrared-observatory-rajasthan",
+    "name": "Mount Abu InfraRed Observatory",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Mount Abu InfraRed Observatory is an observatory near the town Mount Abu in India.",
+    "coordinates": {
+      "lat": 24.65482,
+      "lon": 72.77922
+    }
+  },
+  {
+    "id": "mount-abu-wildlife-sanctuary-rajasthan",
+    "name": "Mount Abu Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Mount Abu Wildlife Sanctuary is a protected area in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 72.63333
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "muchhal-mahavir-temple-rajasthan",
+    "name": "Muchhal Mahavir Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Muchhal Mahavir Temple is a building in India.",
+    "coordinates": {
+      "lat": 25.19625,
+      "lon": 73.55922
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "mukam-rajasthan-rajasthan",
+    "name": "Mukam, Rajasthan",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Mukam, Rajasthan is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.6228,
+      "lon": 73.6242
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "mukti-dham-mukam-rajasthan",
+    "name": "Mukti Dham Mukam",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Mukti Dham Mukam is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.62539,
+      "lon": 73.61837
+    },
+    "tags": [
+      "temple",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "mukundara-hills-national-park-rajasthan",
+    "name": "Mukundara Hills National Park",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Mukundara Hills National Park is a named after the Mukandara hill range which got its name from former ruler of Kota Shri Maha Rao Mukund.",
+    "coordinates": {
+      "lat": 24.868,
+      "lon": 75.856
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "mundota-fort-and-palace-rajasthan",
+    "name": "Mundota Fort and Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Mundota Fort and Palace is a building in Mundota and Jaipur, India.",
+    "coordinates": {
+      "lat": 26.96,
+      "lon": 75.62
+    },
+    "tags": [
+      "fort",
+      "palace"
+    ]
+  },
+  {
+    "id": "mungathala-rajasthan",
+    "name": "Mungathala",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Mungathala is a village in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nagari-rajasthan-rajasthan",
+    "name": "Nagari, Rajasthan",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Nagari, Rajasthan is a village in Chittorgarh district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.97667,
+      "lon": 74.68333
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "nageshwar-parshwanath-tirth-rajasthan",
+    "name": "Nageshwar Parshwanath Tirth",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Nageshwar Parshwanath Tirth is a jain Temple.",
+    "coordinates": {
+      "lat": 23.82265,
+      "lon": 75.59172
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nahargarh-fort-rajasthan",
+    "name": "Nahargarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Nahargarh Fort is a hill fort in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.9375,
+      "lon": 75.81583
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "nakki-lake-rajasthan",
+    "name": "Nakki Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Nakki Lake is a lake in India.",
+    "coordinates": {
+      "lat": 24.59614,
+      "lon": 72.70307
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "nakoda-rajasthan-rajasthan",
+    "name": "Nakoda, Rajasthan",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Nakoda, Rajasthan is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.83,
+      "lon": 72.22
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nakodaji-rajasthan",
+    "name": "Nakodaji",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Nakodaji is a jain temple in the state of Rajasthan.",
+    "coordinates": {
+      "lat": 25.78806,
+      "lon": 72.1525
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "naliasar-rajasthan",
+    "name": "Naliasar",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Naliasar is a village in Rajasthan, India.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "nandni-mata-rajasthan",
+    "name": "Nandni Mata",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Nandni Mata is a hindu temple in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nareli-jain-temple-rajasthan",
+    "name": "Nareli Jain Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Nareli Jain Temple is a building in India.",
+    "coordinates": {
+      "lat": 26.45889,
+      "lon": 74.70444
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "naugaza-digambar-jain-temple-rajasthan",
+    "name": "Naugaza Digambar Jain temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Naugaza Digambar Jain temple is a jain temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.24622,
+      "lon": 76.34889
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nawal-sagar-lake-rajasthan",
+    "name": "Nawal Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Nawal Sagar Lake is a reservoir, fresh water in Bundi, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.44636,
+      "lon": 75.6333
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "nawalgarh-rajasthan-rajasthan",
+    "name": "Nawalgarh, Rajasthan",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Nawalgarh, Rajasthan is a city in Jhunjhunu district, Jaipur division, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.85,
+      "lon": 75.27
+    }
+  },
+  {
+    "id": "neelkanth-temple-alwar-district-rajasthan",
+    "name": "Neelkanth temple, Alwar district",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Neelkanth temple, Alwar district is a human settlement in India.",
+    "coordinates": {
+      "lat": 27.2474,
+      "lon": 76.352
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "neemach-mata-temple-rajasthan",
+    "name": "Neemach Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Neemach Mata Temple is a temple in India.",
+    "coordinates": {
+      "lat": 24.61,
+      "lon": 73.67806
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "neemrana-rajasthan",
+    "name": "Neemrana",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Neemrana is a town in Alwar district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.98889,
+      "lon": 76.38833
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "nevta-dam-rajasthan",
+    "name": "Nevta Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Nevta Dam is a dam in Sanganer, Jaipur district in Rajasthan.",
+    "coordinates": {
+      "lat": 26.80408,
+      "lon": 75.68225
+    }
+  },
+  {
+    "id": "nimbo-ka-nath-mahadev-temple-rajasthan",
+    "name": "Nimbo Ka Nath Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Nimbo Ka Nath Mahadev Temple is a shiva temple in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "nur-chashma-rajasthan",
+    "name": "Nur Chashma",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Nur Chashma is a palace built for hunting by Mughal Emperor Jahangir.",
+    "coordinates": {
+      "lat": 26.43486,
+      "lon": 74.61168
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "ochre-coloured-pottery-culture-rajasthan",
+    "name": "Ochre Coloured Pottery culture",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Ochre Coloured Pottery culture is a bronze Age culture of the Indo-Gangetic Plain.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "ojhiyana-archaeological-site-rajasthan",
+    "name": "Ojhiyana archaeological site",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Ojhiyana archaeological site is an archaeological site.",
+    "coordinates": {
+      "lat": 25.87865,
+      "lon": 74.35757
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "osian-rajasthan-rajasthan",
+    "name": "Osian, Rajasthan",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Osian, Rajasthan is a town in Jodhpur district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.72528,
+      "lon": 72.91056
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pachpadra-lake-rajasthan",
+    "name": "Pachpadra Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Pachpadra Lake is a lake in Rajasthan.",
+    "coordinates": {
+      "lat": 25.929,
+      "lon": 72.2466
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "padampura-rajasthan",
+    "name": "Padampura",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Padampura is a jain temple in Shivdaspura, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.7264,
+      "lon": 75.93869
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "painted-grey-ware-culture-rajasthan",
+    "name": "Painted Grey Ware culture",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Painted Grey Ware culture is an iron Age culture of the Gangetic plain and the Ghaggar-Hakra valley.",
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "pala-ganesh-temple-rajasthan",
+    "name": "Pala Ganesh Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Pala Ganesh Temple is a temple in India.",
+    "coordinates": {
+      "lat": 24.57235,
+      "lon": 73.68745
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "panchayati-hall-rajasthan",
+    "name": "Panchayati Hall",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Panchayati Hall is a hindu temple in Jaipur, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pandupole-rajasthan",
+    "name": "Pandupole",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Pandupole is an ancient remains in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.31928,
+      "lon": 76.43608
+    }
+  },
+  {
+    "id": "paraheda-shiv-mandir-rajasthan",
+    "name": "Paraheda Shiv Mandir",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Paraheda Shiv Mandir is a temple in Banswara in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "parban-dam-project-rajasthan",
+    "name": "Parban Dam Project",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Parban Dam Project is a dam in Jhalawar district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.62,
+      "lon": 76.51
+    }
+  },
+  {
+    "id": "parshuram-mahadev-temple-rajasthan",
+    "name": "Parshuram Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Parshuram Mahadev Temple is a human settlement in India.",
+    "coordinates": {
+      "lat": 25.13917,
+      "lon": 73.5325
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "pathmeda-rajasthan",
+    "name": "Pathmeda",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Pathmeda is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.72194,
+      "lon": 71.84778
+    }
+  },
+  {
+    "id": "phool-sagar-palace-rajasthan",
+    "name": "Phool Sagar Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Phool Sagar Palace is a palace in Bundi, India.",
+    "coordinates": {
+      "lat": 25.4688,
+      "lon": 75.6054
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "phulwari-ki-nal-wildlife-sanctuary-rajasthan",
+    "name": "Phulwari Ki Nal Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Phulwari Ki Nal Wildlife Sanctuary is a protected area in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.21502,
+      "lon": 73.24535
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "pottery-collection-of-the-albert-hall-museum-rajasthan",
+    "name": "Pottery collection of the Albert Hall Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Pottery collection of the Albert Hall Museum is a pottery collection of Albert Hall Museum.",
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "pratap-gaurav-kendra-rajasthan",
+    "name": "Pratap Gaurav Kendra",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Pratap Gaurav Kendra is a tourist spot in Udaipur based on Maharana Pratap."
+  },
+  {
+    "id": "punrasar-balaji-temple-rajasthan",
+    "name": "Punrasar Balaji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Punrasar Balaji Temple is a temple of Hanuman in Rajasthan, India.",
+    "coordinates": {
+      "lat": 28.21667,
+      "lon": 73.28333
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "purohito-ka-talab-rajasthan",
+    "name": "Purohito Ka Talab",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Purohito Ka Talab is a lake in Udaipur.",
+    "coordinates": {
+      "lat": 24.66889,
+      "lon": 73.74917
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "pushkar-lake-rajasthan",
+    "name": "Pushkar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Pushkar Lake is a lake in India.",
+    "coordinates": {
+      "lat": 26.48722,
+      "lon": 74.55417
+    },
+    "tags": [
+      "lake",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "pushkar-rajasthan",
+    "name": "Pushkar",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Pushkar is a pilgrimage and cattle fair city in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.49028,
+      "lon": 74.55417
+    },
+    "tags": [
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "raj-mahal-rajasthan",
+    "name": "Raj Mahal",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Raj Mahal is a palace in Amber, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.98583,
+      "lon": 75.85028
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "raj-mandir-cinema-rajasthan",
+    "name": "Raj Mandir Cinema",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Raj Mandir Cinema is a cinema in Jaipur, India.",
+    "coordinates": {
+      "lat": 26.9155,
+      "lon": 75.81016
+    }
+  },
+  {
+    "id": "rajasthan-state-archives-rajasthan",
+    "name": "Rajasthan State Archives",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Archive located in Bikaner city of Rajasthan.",
+    "coordinates": {
+      "lat": 28.02632,
+      "lon": 73.32445
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "rajgarh-fort-rajasthan",
+    "name": "Rajgarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Rajgarh Fort is a jat fort in Alwar district, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.2343,
+      "lon": 76.6152
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "rajiv-gandhi-regional-museum-of-natural-history-rajasthan",
+    "name": "Rajiv Gandhi Regional Museum of Natural History",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Rajiv Gandhi Regional Museum of Natural History is a museum of Natural History in Ramsinghpura, Sawai Madhopur.",
+    "coordinates": {
+      "lat": 26.0173,
+      "lon": 76.5026
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "rajsamand-lake-rajasthan",
+    "name": "Rajsamand Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Rajsamand Lake is a lake in India.",
+    "coordinates": {
+      "lat": 25.07,
+      "lon": 73.88
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "ram-niwas-garden-rajasthan",
+    "name": "Ram Niwas Garden",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Ram Niwas Garden is a garden in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.9153,
+      "lon": 75.8187
+    }
+  },
+  {
+    "id": "rambagh-palace-jaipur-rajasthan",
+    "name": "Rambagh Palace, Jaipur",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Rambagh Palace, Jaipur is a building in Jaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.89611,
+      "lon": 75.80833
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "ramdwara-rajasthan",
+    "name": "Ramdwara",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Ramdwara is a tourism place in Rajasthan, India."
+  },
+  {
+    "id": "rameshwar-mahadev-temple-rajasthan",
+    "name": "Rameshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Rameshwar Mahadev Temple is a hindi temple in Bundi, Rajasthan.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ramgarh-lake-rajasthan",
+    "name": "Ramgarh Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Ramgarh Lake is a lake in India.",
+    "coordinates": {
+      "lat": 27.0477,
+      "lon": 76.0556
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "ramgarh-vishdhari-wildlife-sanctuary-rajasthan",
+    "name": "Ramgarh Vishdhari Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Ramgarh Vishdhari Wildlife Sanctuary is a tiger reserve in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.57,
+      "lon": 75.9
+    },
+    "tags": [
+      "wildlife-sanctuary",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "ramsagar-wildlife-sanctuary-rajasthan",
+    "name": "Ramsagar Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Ramsagar Wildlife Sanctuary is a wildlife sanctuary in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.5755,
+      "lon": 77.6003
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "rana-pratap-sagar-dam-rajasthan",
+    "name": "Rana Pratap Sagar Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Rana Pratap Sagar Dam is a dam in India.",
+    "coordinates": {
+      "lat": 24.91778,
+      "lon": 75.58139
+    }
+  },
+  {
+    "id": "ranakpur-jain-temple-rajasthan",
+    "name": "Ranakpur Jain temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ranakpur Jain temple is a jain temple of Ranakpur.",
+    "coordinates": {
+      "lat": 25.135,
+      "lon": 73.447
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "rang-mahal-sri-ganganagar-rajasthan",
+    "name": "Rang Mahal, Sri Ganganagar",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Rang Mahal, Sri Ganganagar is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 29.3885,
+      "lon": 73.95651
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "rang-sagar-lake-rajasthan",
+    "name": "Rang Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Rang Sagar Lake is a body of water.",
+    "coordinates": {
+      "lat": 24.584,
+      "lon": 73.681
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "rani-bhatiyani-temple-rajasthan",
+    "name": "Rani Bhatiyani Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Rani Bhatiyani Temple is a hindu goddess, worshipped in Western Rajasthan.",
+    "coordinates": {
+      "lat": 25.49,
+      "lon": 72.13
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "rani-sati-temple-rajasthan",
+    "name": "Rani Sati Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Rani Sati Temple is a hindu temple located in Jhunjhunu, Rajasthan, India.",
+    "coordinates": {
+      "lat": 28.13528,
+      "lon": 75.40361
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "raniji-ki-baori-rajasthan",
+    "name": "Raniji ki Baori",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Raniji ki Baori is a noted stepwell situated in Bundi town in Rajasthan state in India.",
+    "coordinates": {
+      "lat": 25.44019,
+      "lon": 75.63944
+    }
+  },
+  {
+    "id": "ranthambore-fort-rajasthan",
+    "name": "Ranthambore Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Ranthambore Fort is a fort in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.02038,
+      "lon": 76.455
+    },
+    "tags": [
+      "world-heritage",
+      "fort"
+    ]
+  },
+  {
+    "id": "ranthambore-national-park-rajasthan",
+    "name": "Ranthambore National Park",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Ranthambore National Park is a national park in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.01733,
+      "lon": 76.50257
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "rao-jodha-desert-rock-park-rajasthan",
+    "name": "Rao Jodha Desert Rock Park",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Rao Jodha Desert Rock Park is a park in Jodhpur, India.",
+    "coordinates": {
+      "lat": 26.30461,
+      "lon": 73.01685
+    }
+  },
+  {
+    "id": "rathasena-mata-temple-rajasthan",
+    "name": "Rathasena Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Rathasena Mata Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.73194,
+      "lon": 73.74881
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "ravla-khempur-rajasthan",
+    "name": "Ravla Khempur",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Ravla Khempur is a hotel in Khempur, India."
+  },
+  {
+    "id": "rojhri-dham-rajasthan",
+    "name": "Rojhri dham",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Rojhri dham is a temple in India.",
+    "coordinates": {
+      "lat": 28.81,
+      "lon": 73.07528
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "roopangarh-fort-rajasthan",
+    "name": "Roopangarh Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Roopangarh Fort is a building in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.79658,
+      "lon": 74.85056
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "sachiya-mata-temple-rajasthan",
+    "name": "Sachiya Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sachiya Mata Temple is a temple in Osian, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.72601,
+      "lon": 72.91239
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sahasra-bahu-temples-rajasthan",
+    "name": "Sahasra Bahu Temples",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sahasra Bahu Temples is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.73611,
+      "lon": 73.72083
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "saheliyon-ki-bari-rajasthan",
+    "name": "Saheliyon-ki-Bari",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Saheliyon-ki-Bari is a summer area built in 18th century by the Maharana Sangram Singh for his wife and her 48 wedding maids.",
+    "coordinates": {
+      "lat": 24.60278,
+      "lon": 73.68528
+    }
+  },
+  {
+    "id": "sai-dham-rani-rajasthan-rajasthan",
+    "name": "Sai Dham Rani Rajasthan",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sai Dham Rani Rajasthan is a city in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.37,
+      "lon": 73.3
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sajjangarh-biological-park-rajasthan",
+    "name": "Sajjangarh Biological Park",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Sajjangarh Biological Park is a zoological garden located in Udaipur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.59318,
+      "lon": 73.64973
+    }
+  },
+  {
+    "id": "sajjangarh-wildlife-sanctuary-rajasthan",
+    "name": "Sajjangarh Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Sajjangarh Wildlife Sanctuary is a protected area in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.59685,
+      "lon": 73.64042
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "salasar-balaji-temple-rajasthan",
+    "name": "Salasar Balaji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Salasar Balaji Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.72,
+      "lon": 74.71
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "samadhishvara-temple-chittorgarh-rajasthan",
+    "name": "Samadhishvara Temple, Chittorgarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Samadhishvara Temple, Chittorgarh is a 11th century Shiva temple in Chittor Fort of India.",
+    "coordinates": {
+      "lat": 24.8873,
+      "lon": 74.6445
+    },
+    "tags": [
+      "fort",
+      "temple"
+    ]
+  },
+  {
+    "id": "sambhar-salt-lake-rajasthan",
+    "name": "Sambhar Salt Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Sambhar Salt Lake is a salt lake located in India.",
+    "coordinates": {
+      "lat": 26.94167,
+      "lon": 75.07639
+    },
+    "tags": [
+      "lake",
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "samode-palace-rajasthan",
+    "name": "Samode Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Samode Palace is a building in India.",
+    "coordinates": {
+      "lat": 27.205,
+      "lon": 75.8055
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "sanchareswar-mahadev-temple-rajasthan",
+    "name": "Sanchareswar Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sanchareswar Mahadev Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.52,
+      "lon": 73.74
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sanghiji-rajasthan",
+    "name": "Sanghiji",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sanghiji is a jain temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.815,
+      "lon": 75.78611
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sardar-government-museum-rajasthan",
+    "name": "Sardar Government Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Sardar Government Museum is a museum in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.2918,
+      "lon": 73.0323
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "sardar-samand-rajasthan",
+    "name": "Sardar Samand",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Sardar Samand Lake.",
+    "coordinates": {
+      "lat": 25.77,
+      "lon": 73.33
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sariska-tiger-reserve-rajasthan",
+    "name": "Sariska Tiger Reserve",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Sariska Tiger Reserve is a protected area in India.",
+    "coordinates": {
+      "lat": 27.3175,
+      "lon": 76.43694
+    },
+    "tags": [
+      "national-park",
+      "tiger-reserve"
+    ]
+  },
+  {
+    "id": "sarju-sagar-dam-rajasthan",
+    "name": "Sarju Sagar Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Sarju Sagar Dam is a dam in Kot, Jhunjhunu.",
+    "coordinates": {
+      "lat": 27.65056,
+      "lon": 75.41944
+    }
+  },
+  {
+    "id": "sarwar-fort-rajasthan",
+    "name": "Sarwar Fort",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Sarwar Fort is a monument.",
+    "coordinates": {
+      "lat": 26.05822,
+      "lon": 75.0076
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "savitri-mata-mandir-rajasthan",
+    "name": "Savitri Mata Mandir",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Savitri Mata Mandir is a hindu temple of Goddess Savitri.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sawai-madhopur-wildlife-sanctuary-rajasthan",
+    "name": "Sawai Madhopur Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Sawai Madhopur Wildlife Sanctuary is a wildlife sanctuary in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.9833,
+      "lon": 76.3667
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "sei-dam-rajasthan",
+    "name": "Sei Dam",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Sei Dam is a dam in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.71922,
+      "lon": 73.19808
+    }
+  },
+  {
+    "id": "sengal-dhora-rajasthan",
+    "name": "Sengal Dhora",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sengal Dhora is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.44647,
+      "lon": 73.28083
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "seven-wonders-park-rajasthan",
+    "name": "Seven Wonders Park",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Seven Wonders Park is a park in Kota, India.",
+    "coordinates": {
+      "lat": 25.17983,
+      "lon": 75.84833
+    }
+  },
+  {
+    "id": "shahgarh-landscape-rajasthan",
+    "name": "Shahgarh Landscape",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Shahgarh Landscape is a nature reserve in Rajasthan, India."
+  },
+  {
+    "id": "shakti-mata-memorial-chatriya-rajasthan",
+    "name": "Shakti Mata Memorial Chatriya",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Shakti Mata Memorial Chatriya is a monument.",
+    "coordinates": {
+      "lat": 26.93583,
+      "lon": 71.91219
+    }
+  },
+  {
+    "id": "shambhu-niwas-rajasthan",
+    "name": "Shambhu Niwas",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Shambhu Niwas is a palace in Udaipur.",
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "shanti-sthala-rajasthan",
+    "name": "Shanti-Sthala",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Shanti-Sthala is a samadhi in Rajasthan."
+  },
+  {
+    "id": "shila-devi-rajasthan",
+    "name": "Shila Devi",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Shila Devi is the famous idol of Durga, the form of mother goddess in Shaktism.",
+    "coordinates": {
+      "lat": 26.98688,
+      "lon": 75.85047
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shilpgram-sawai-madhopur-rajasthan",
+    "name": "Shilpgram, Sawai Madhopur",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Shilpgram, Sawai Madhopur is a museum in India.",
+    "coordinates": {
+      "lat": 26.0173,
+      "lon": 76.5026
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "shilpgram-udaipur-rajasthan",
+    "name": "Shilpgram, Udaipur",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Shilpgram, Udaipur is an indian arts and crafts complex.",
+    "coordinates": {
+      "lat": 24.61229,
+      "lon": 73.66191
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "shiv-niwas-palace-rajasthan",
+    "name": "Shiv Niwas Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Shiv Niwas Palace is a building in India.",
+    "coordinates": {
+      "lat": 24.57433,
+      "lon": 73.68169
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "shri-kalyan-temple-rajasthan",
+    "name": "Shri Kalyan Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Shri Kalyan Temple is a hindu temple in India, Hindustan.",
+    "coordinates": {
+      "lat": 26.37814,
+      "lon": 75.43727
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-mahaveer-ji-temple-rajasthan",
+    "name": "Shri Mahaveer Ji temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Shri Mahaveer Ji temple is a jain temple.",
+    "coordinates": {
+      "lat": 26.69547,
+      "lon": 76.93022
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-mansa-mata-mandir-hasampur-rajasthan",
+    "name": "Shri Mansa Mata Mandir Hasampur",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Shri Mansa Mata Mandir Hasampur is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 30.76528,
+      "lon": 76.82694
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-narsinghji-temple-rajasthan",
+    "name": "Shri Narsinghji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Shri Narsinghji Temple is a hindu temple in Rajasthan, India.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shri-raghunath-ji-temple-rajasthan",
+    "name": "Shri Raghunath Ji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Shri Raghunath Ji Temple is a hindu Temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.72694,
+      "lon": 77.03944
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shrinathji-temple-rajasthan",
+    "name": "Shrinathji Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Shrinathji Temple is a temple in India.",
+    "coordinates": {
+      "lat": 24.92899,
+      "lon": 73.8151
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "shrine-of-mu-in-al-din-chishti-rajasthan",
+    "name": "Shrine of Mu'in al-Din Chishti",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Shrine of Mu'in al-Din Chishti is a sufi shrine of Moinuddin Chishti at Ajmer, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.45728,
+      "lon": 74.62719
+    },
+    "tags": [
+      "mosque",
+      "pilgrimage"
+    ]
+  },
+  {
+    "id": "siliserh-lake-rajasthan",
+    "name": "Siliserh Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Siliserh Lake is a lagoon in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.52917,
+      "lon": 76.52861
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "sisodiya-rani-bagh-rajasthan",
+    "name": "Sisodiya Rani Bagh",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Sisodiya Rani Bagh is a garden in India.",
+    "coordinates": {
+      "lat": 26.89927,
+      "lon": 75.85863
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "sita-mata-wildlife-sanctuary-rajasthan",
+    "name": "Sita Mata Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Sita Mata Wildlife Sanctuary is a wildlife sanctuary in India.",
+    "coordinates": {
+      "lat": 24.0667,
+      "lon": 74.4167
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "sitaleshwar-temple-rajasthan",
+    "name": "Sitaleshwar Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sitaleshwar Temple is a hindu temple in Jhalrapatan, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.52944,
+      "lon": 76.17778
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sonana-khetlaji-rajasthan",
+    "name": "Sonana Khetlaji",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Sonana Khetlaji is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.29,
+      "lon": 73.49
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "sothi-archaeology-rajasthan",
+    "name": "Sothi (archaeology)",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Sothi (archaeology) is an archaeological site of the Indus Valley Civilization.",
+    "coordinates": {
+      "lat": 29.1255,
+      "lon": 74.7264
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "statue-of-belief-rajasthan",
+    "name": "Statue of Belief",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Statue of Belief is a statue in Rajasthan, India & sculptured by 'Murtikar Naresh Kumawat'.",
+    "coordinates": {
+      "lat": 24.92031,
+      "lon": 73.81722
+    }
+  },
+  {
+    "id": "sukh-mahal-rajasthan",
+    "name": "Sukh Mahal",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Sukh Mahal is a palace in Bundi, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.45278,
+      "lon": 75.64194
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "sukhadia-circle-rajasthan",
+    "name": "Sukhadia Circle",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Sukhadia Circle is a popular recreational centre in Udaipur.",
+    "coordinates": {
+      "lat": 24.60124,
+      "lon": 73.69085
+    }
+  },
+  {
+    "id": "sundha-mata-temple-rajasthan",
+    "name": "Sundha Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Sundha Mata Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.833,
+      "lon": 72.367
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "suswani-mataji-rajasthan",
+    "name": "Suswani Mataji",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Suswani Mataji is a kuldevi of Dugar , Surana & Sankhla Gotras.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "swaroop-sagar-lake-rajasthan",
+    "name": "Swaroop Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Swaroop Sagar Lake is a lake in Udaipur, India.",
+    "coordinates": {
+      "lat": 24.58714,
+      "lon": 73.67647
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "tal-chhapar-sanctuary-rajasthan",
+    "name": "Tal Chhapar Sanctuary",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Tal Chhapar Sanctuary is a protected area in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.7981,
+      "lon": 74.4349
+    }
+  },
+  {
+    "id": "talwara-lake-rajasthan",
+    "name": "Talwara Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Talwara Lake is a lake in India.",
+    "coordinates": {
+      "lat": 29.51979,
+      "lon": 74.59027
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "tanot-mata-temple-rajasthan",
+    "name": "Tanot Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Tanot Mata Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.79839,
+      "lon": 70.35446
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "taragarh-fort-ajmer-rajasthan",
+    "name": "Taragarh Fort, Ajmer",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Taragarh Fort, Ajmer is a fort in Ajmer, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.44222,
+      "lon": 74.61833
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "taragarh-fort-bundi-rajasthan",
+    "name": "Taragarh Fort, Bundi",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Taragarh Fort, Bundi is a fort in Bundi, Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.45075,
+      "lon": 75.63738
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "tarkeshwar-nath-temple-rajasthan",
+    "name": "Tarkeshwar Nath Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Tarkeshwar Nath Temple is a hindu temple in Jaipur, Rajasthan.",
+    "coordinates": {
+      "lat": 26.92296,
+      "lon": 75.82259
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "the-raj-palace-rajasthan",
+    "name": "The Raj Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "The Raj Palace is a building in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.93529,
+      "lon": 75.83386
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "tijara-jain-temple-rajasthan",
+    "name": "Tijara Jain temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Tijara Jain temple is a jain temple in Tijara, India.",
+    "coordinates": {
+      "lat": 27.93,
+      "lon": 76.85
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "tilwara-rajasthan",
+    "name": "Tilwara",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Tilwara is a village in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.8667,
+      "lon": 72.0833
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  },
+  {
+    "id": "timangarh-rajasthan",
+    "name": "Timangarh",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Timangarh is a fort in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.705,
+      "lon": 77.26
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "todgarh-raoli-wildlife-sanctuary-rajasthan",
+    "name": "Todgarh-Raoli Wildlife Sanctuary",
+    "state": "Rajasthan",
+    "category": "wildlife",
+    "description": "Todgarh-Raoli Wildlife Sanctuary is a wildlife sanctuary in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.65833,
+      "lon": 73.87361
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "id": "tomb-of-bibi-zarrina-rajasthan",
+    "name": "Tomb of Bibi Zarrina",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Tomb of Bibi Zarrina is a burial place in India."
+  },
+  {
+    "id": "ubeshwar-mahadev-temple-rajasthan",
+    "name": "Ubeshwar Mahadev Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Ubeshwar Mahadev Temple is a religious Site.",
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "udai-bilas-palace-rajasthan",
+    "name": "Udai Bilas Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Udai Bilas Palace is a palace in Dungarpur, Rajasthan, India.",
+    "coordinates": {
+      "lat": 23.8376,
+      "lon": 73.72236
+    },
+    "tags": [
+      "palace",
+      "museum"
+    ]
+  },
+  {
+    "id": "udai-sagar-lake-rajasthan",
+    "name": "Udai Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Udai Sagar Lake is a lake in Udaipur district, India.",
+    "coordinates": {
+      "lat": 24.57081,
+      "lon": 73.82135
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "udaipur-city-s-five-lakes-rajasthan",
+    "name": "Udaipur City's Five lakes",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Udaipur City's Five lakes is a five major lakes in Udaipur, Rajasthan.",
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "udaipur-solar-observatory-rajasthan",
+    "name": "Udaipur Solar Observatory",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Udaipur Solar Observatory is a solar observatory in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.60459,
+      "lon": 73.67419
+    }
+  },
+  {
+    "id": "udoji-ki-baori-rajasthan",
+    "name": "Udoji ki Baori",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Udoji ki Baori is a tourism place in Rajasthan, India."
+  },
+  {
+    "id": "umaid-bhawan-palace-rajasthan",
+    "name": "Umaid Bhawan Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Umaid Bhawan Palace is a palace, located at Jodhpur in Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.28083,
+      "lon": 73.04694
+    },
+    "tags": [
+      "palace",
+      "museum"
+    ]
+  },
+  {
+    "id": "umed-bhawan-palace-rajasthan",
+    "name": "Umed Bhawan Palace",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Umed Bhawan Palace is a historic building in Kota, India.",
+    "coordinates": {
+      "lat": 25.21,
+      "lon": 75.8667
+    },
+    "tags": [
+      "palace"
+    ]
+  },
+  {
+    "id": "urs-festival-ajmer-rajasthan",
+    "name": "Urs festival, Ajmer",
+    "state": "Rajasthan",
+    "category": "other",
+    "description": "Urs festival, Ajmer is an annual festival held at Ajmer, Rajasthan, India.",
+    "coordinates": {
+      "lat": 26.45632,
+      "lon": 74.62812
+    }
+  },
+  {
+    "id": "vankal-mata-temple-rajasthan",
+    "name": "Vankal Mata Temple",
+    "state": "Rajasthan",
+    "category": "spiritual",
+    "description": "Vankal Mata Temple is a hindu temple in Rajasthan, India.",
+    "coordinates": {
+      "lat": 25.745,
+      "lon": 71.396
+    },
+    "tags": [
+      "temple"
+    ]
+  },
+  {
+    "id": "varman-rajasthan-rajasthan",
+    "name": "Varman, Rajasthan",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Varman, Rajasthan is a village in Rajasthan, India."
+  },
+  {
+    "id": "varun-sagar-lake-rajasthan",
+    "name": "Varun Sagar Lake",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Varun Sagar Lake is a lake in India.",
+    "coordinates": {
+      "lat": 26.45,
+      "lon": 74.58333
+    },
+    "tags": [
+      "lake"
+    ]
+  },
+  {
+    "id": "vasa-rajasthan-rajasthan",
+    "name": "Vasa, Rajasthan",
+    "state": "Rajasthan",
+    "category": "offbeat",
+    "description": "Vasa, Rajasthan is a village in Rajasthan, India."
+  },
+  {
+    "id": "vasna-barrage-rajasthan",
+    "name": "Vasna Barrage",
+    "state": "Rajasthan",
+    "category": "nature",
+    "description": "Vasna Barrage is a barrage on the Sabarmati river in Ahmedabad Gujarat, India.",
+    "coordinates": {
+      "lat": 22.99042,
+      "lon": 72.55566
+    }
+  },
+  {
+    "id": "vijaya-stambha-rajasthan",
+    "name": "Vijaya Stambha",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Vijaya Stambha is a victory monument within Chittor Fort in Chittorgarh, Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.88786,
+      "lon": 74.64514
+    },
+    "tags": [
+      "fort"
+    ]
+  },
+  {
+    "id": "vintage-and-classic-car-museum-rajasthan",
+    "name": "Vintage and Classic Car Museum",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Vintage and Classic Car Museum is an automobile museum in Rajasthan, India.",
+    "coordinates": {
+      "lat": 24.5757,
+      "lon": 73.69451
+    },
+    "tags": [
+      "museum"
+    ]
+  },
+  {
+    "id": "viratnagar-rajasthan",
+    "name": "Viratnagar",
+    "state": "Rajasthan",
+    "category": "heritage",
+    "description": "Viratnagar is a town in Jaipur district, Jaipur division, Rajasthan, India.",
+    "coordinates": {
+      "lat": 27.45,
+      "lon": 76.18
+    },
+    "tags": [
+      "archaeological-site"
+    ]
+  }
+]
