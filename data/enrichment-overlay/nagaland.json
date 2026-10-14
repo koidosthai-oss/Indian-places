@@ -1,0 +1,1596 @@
+[
+  {
+    "id": "chinkhu-nagaland",
+    "name": "Chinkhu",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,526 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,526 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.82465 N, 94.60284 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "chumoukedima-nagaland",
+    "name": "Chümoukedima",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "district": "Chümoukedima district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1866",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.79160 N, 93.78180 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "dazipfu-nagaland",
+    "name": "Dazipfu",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,106 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,106 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.55000 N, 94.85000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "dimapur-jain-temple-nagaland",
+    "name": "Dimapur Jain Temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": "Dimapur",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.90589 N, 93.72485 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "dimapur-kalibari-nagaland",
+    "name": "Dimapur Kalibari",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": "Dimapur district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1956",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.90430 N, 93.72530 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "dzukou-valley-nagaland",
+    "name": "Dzukou Valley",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": "Viswema",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.55348 N, 94.06702 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "fakim-wildlife-sanctuary-nagaland",
+    "name": "Fakim Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "district": "Kiphire district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Covers about 642 ha",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.82553 N, 94.95439 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "hornbill-festival-nagaland",
+    "name": "Hornbill Festival",
+    "state": "Nagaland",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 2000",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "festival",
+        "text": "Hornbill Festival is an annual festival in Nagaland, India.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "khonoma-nature-conservation-and-tragopan-sanctuary-nagaland",
+    "name": "Khonoma Nature Conservation and Tragopan Sanctuary",
+    "state": "Nagaland",
+    "category": "other",
+    "district": "Kohima district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.62670 N, 94.00210 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "khuochiezie-nagaland",
+    "name": "Khuochiezie",
+    "state": "Nagaland",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.67204 N, 94.10824 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kigwema-nagaland",
+    "name": "Kigwema",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "district": "Kohima district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.60630 N, 94.12710 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kohima-ao-baptist-church-nagaland",
+    "name": "Kohima Ao Baptist Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": "Kohima",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.66894 N, 94.10639 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kohima-jain-temple-nagaland",
+    "name": "Kohima Jain temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.40350 N, 94.06330 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kohima-lotha-baptist-church-nagaland",
+    "name": "Kohima Lotha Baptist Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.66226 N, 94.10558 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kohima-mizo-presbyterian-church-nagaland",
+    "name": "Kohima Mizo Presbyterian Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.66102 N, 94.09997 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kohima-nagaland",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "district": "Kohima district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1879",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 1,444 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.66667 N, 94.11944 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "lake-shilloi-nagaland",
+    "name": "Lake Shilloi",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.59538 N, 94.79303 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "loho-lake-nagaland",
+    "name": "Loho Lake",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.49684 N, 94.22918 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "longkhum-nagaland",
+    "name": "Longkhüm",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 26.26355 N, 94.41230 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "lt-h-h-forbes-grave-nagaland",
+    "name": "Lt. H. H. Forbes' Grave",
+    "state": "Nagaland",
+    "category": "heritage",
+    "district": "Sechüma",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mary-help-of-christians-cathedral-kohima-nagaland",
+    "name": "Mary Help of Christians Cathedral, Kohima",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": "Kohima",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Associated with Catholicism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.65250 N, 94.10480 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mataungse-kyein-nagaland",
+    "name": "Mataungse Kyein",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 3,245 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 3,245 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.95000 N, 95.08333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "memorials-of-mr-g-h-damant-major-cook-and-subedar-nurbir-sahi-nagaland",
+    "name": "Memorials of Mr. G.H. Damant, Major Cook and Subedar Nurbir Sahi",
+    "state": "Nagaland",
+    "category": "heritage",
+    "district": "Khonoma",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ministers-hill-baptist-church-nagaland",
+    "name": "Ministers' Hill Baptist Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.65660 N, 94.09310 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mol-len-nagaland",
+    "name": "Mol Len",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,751 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,751 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.50000 N, 94.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mount-saramati-nagaland",
+    "name": "Mount Saramati",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 3,823 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 3,823 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.73976 N, 95.03762 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "naga-hills-nagaland",
+    "name": "Naga Hills",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Named after Naga people",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 3,827 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 3,827 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 26.00000 N, 95.00000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "nagaland-state-museum-nagaland",
+    "name": "Nagaland State Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.68500 N, 94.10490 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nagaland-zoological-park-nagaland",
+    "name": "Nagaland Zoological Park",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "district": "Dimapur district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 28 August 2008",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.85337 N, 93.72428 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ntangki-national-park-nagaland",
+    "name": "Ntangki National Park",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "district": "Peren district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.56000 N, 93.45000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "pulie-badze-wildlife-sanctuary-nagaland",
+    "name": "Pulie Badze Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.61070 N, 94.06230 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "punkhung-nagaland",
+    "name": "Punkhung",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,029 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 26.75380 N, 94.96873 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "rangapahar-wildlife-sanctuary-nagaland",
+    "name": "Rangapahar Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "district": "Dimapur",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.85623 N, 93.71940 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "ruins-of-kachari-rajbari-nagaland",
+    "name": "Ruins of Kachari Rajbari",
+    "state": "Nagaland",
+    "category": "heritage",
+    "district": "Dimapur",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sakhrie-park-nagaland",
+    "name": "Sakhrie Park",
+    "state": "Nagaland",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.65500 N, 94.10583 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sanctuary-falls-nagaland",
+    "name": "Sanctuary Falls",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": "Kohima district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.59177 N, 94.01327 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sekrenyi-nagaland",
+    "name": "Sekrenyi",
+    "state": "Nagaland",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Sekrenyi is an angami Nagas festival based in Nagaland, India.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "singphan-wildlife-sanctuary-nagaland",
+    "name": "Singphan Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "district": "Mon district",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "stone-cairn-to-the-memory-of-mr-damant-nagaland",
+    "name": "Stone Cairn to the memory of Mr. Damant",
+    "state": "Nagaland",
+    "category": "heritage",
+    "district": "Kohima",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sumi-baptist-church-zunheboto-nagaland",
+    "name": "Sümi Baptist Church, Zünheboto",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "district": "Zunheboto",
+    "district_fact_state": "Nagaland",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 26.01789 N, 94.52922 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "tiyingchomo-nagaland",
+    "name": "Tiyingchomo",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,777 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 26.10126 N, 94.28184 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "yakko-nagaland",
+    "name": "Yakkō",
+    "state": "Nagaland",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,677 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,677 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 26.19419 N, 94.91453 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  }
+]

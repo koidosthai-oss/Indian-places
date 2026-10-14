@@ -1,0 +1,1579 @@
+[
+  {
+    "id": "agartala-baptist-church-tripura",
+    "name": "Agartala Baptist Church",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "agartala-city-baptist-church-tripura",
+    "name": "Agartala City Baptist Church",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1987",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "agartala-jagannath-mandir-tripura",
+    "name": "Agartala Jagannath Mandir",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "West Tripura District",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.83628 N, 91.27989 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "agartala-tripura",
+    "name": "Agartala",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": "West Tripura District",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1871",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 15 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 76.5 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.83333 N, 91.26667 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ancient-mound-called-shyamsundar-ashram-tilla-baikhora-jolaibari-tripura",
+    "name": "Ancient Mound called Shyamsundar Ashram Tilla, Baikhora Jolaibari",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Baikhora Jolaibari",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ancient-mound-known-as-puja-khola-paschim-pillak-tripura",
+    "name": "Ancient Mound known as Puja Khola, Paschim Pillak",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": "Paschim Pillak",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ancient-remains-boxanagar-tripura",
+    "name": "Ancient Remains, Boxanagar",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": "Boxanagar",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "bhubaneswari-temple-rajnagar-tripura",
+    "name": "Bhubaneswari Temple, Rajnagar",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Rajnagar",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "bhubaneswari-temple-tripura",
+    "name": "Bhubaneswari Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Gomati district",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Monument of National Importance",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.54152 N, 91.50432 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "bijoy-sagar-tripura",
+    "name": "Bijoy Sagar",
+    "state": "Tripura",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.53800 N, 91.49900 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "boxanagar-ruins-tripura",
+    "name": "Boxanagar Ruins",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.61636 N, 91.16564 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "chabimura-tripura",
+    "name": "Chabimura",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.54196 N, 91.60572 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "chaturdasha-temple-tripura",
+    "name": "Chaturdasha Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "West Tripura District",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.84139 N, 91.34519 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "church-of-shantir-rani-tripura",
+    "name": "Church of Shantir Rani",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Agartala",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Associated with Catholicism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "clouded-leopard-national-park-tripura",
+    "name": "Clouded Leopard National Park",
+    "state": "Tripura",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 2007",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.66822 N, 91.32254 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "devtamura-tripura",
+    "name": "Devtamura",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.23185 N, 91.55961 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "gumti-wildlife-sanctuary-tripura",
+    "name": "Gumti Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.66444 N, 91.31167 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "gunavati-group-of-temples-radha-kishorpur-tripura",
+    "name": "Gunavati Group of Temples, Radha Kishorpur",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Radha Kishorpur",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "jari-mura-tripura",
+    "name": "Jāri Mura",
+    "state": "Tripura",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 391 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.52611 N, 91.76250 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kamalasagar-tripura",
+    "name": "Kamalasagar",
+    "state": "Tripura",
+    "category": "nature",
+    "district": "Sepahijala district",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Water Heritage Site",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.74400 N, 91.17500 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kasbeswari-kali-mata-tripura",
+    "name": "Kasbeswari Kali Mata",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Sepahijala district",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.74016 N, 91.15982 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "khwichang-baptist-church-tripura",
+    "name": "Khwichang Baptist Church",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.93200 N, 91.44500 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "lakshmi-narayan-temple-agartala-tripura",
+    "name": "Lakshmi Narayan Temple, Agartala",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "West Tripura District",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.83423 N, 91.28290 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "maharaja-birendra-kishore-museum-tripura",
+    "name": "Maharaja Birendra Kishore Museum",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "montang-valley-tripura",
+    "name": "Montang Valley",
+    "state": "Tripura",
+    "category": "nature",
+    "district": "Khowai district",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.81667 N, 91.81667 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "neermahal-tripura",
+    "name": "Neermahal",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.50667 N, 91.31544 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "pilak-tripura-tripura",
+    "name": "Pilak, Tripura",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.76667 N, 91.30000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "pushbanta-palace-tripura",
+    "name": "Pushbanta Palace",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Maintained under Government of Tripura",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.85352 N, 91.28477 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "rajbari-national-park-tripura",
+    "name": "Rajbari National Park",
+    "state": "Tripura",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.28000 N, 91.40000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "rowa-wildlife-sanctuary-tripura",
+    "name": "Rowa Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "district": "North Tripura District",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.29000 N, 92.17000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "rudrasagar-lake-tripura",
+    "name": "Rudrasagar Lake",
+    "state": "Tripura",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Ramsar site",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.50400 N, 91.31500 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sculptures-and-rock-reliefs-of-unakoti-tirtha-unakoti-range-tripura",
+    "name": "Sculptures and rock reliefs of Unakoti Tirtha, Unakoti Range,",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": "Unakoti Range",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sepahijala-wildlife-sanctuary-tripura",
+    "name": "Sepahijala Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "district": "Sepahijala district",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1987",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 18.5 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.66444 N, 91.31167 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "st-francis-xavier-cathedral-agartala-tripura",
+    "name": "St. Francis Xavier Cathedral, Agartala",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Agartala",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 2010",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Dedicated to Francis Xavier",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Associated with Catholicism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.87000 N, 91.28000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "temple-of-chaturdasa-devata-radha-kishorpur-tripura",
+    "name": "Temple of Chaturdasa Devata, Radha Kishorpur",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Kishorpur",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "thakurani-tilla-paschim-pillak-tripura",
+    "name": "Thakurani Tilla, Paschim Pillak",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": "Pillak",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "tripura-government-museum-tripura",
+    "name": "Tripura Government Museum",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.83740 N, 91.28270 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "tripura-princely-state-tripura",
+    "name": "Tripura (princely state)",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1809",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 10,660 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.83330 N, 91.28330 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "tripura-sundari-temple-tripura",
+    "name": "Tripura Sundari Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "district": "Udaipur",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.50889 N, 91.49806 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "trishna-wildlife-sanctuary-tripura",
+    "name": "Trishna Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.42167 N, 91.31306 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "ujjayanta-palace-tripura",
+    "name": "Ujjayanta Palace",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": "Agartala",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1901",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Built in the Neoclassical architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.83700 N, 91.28200 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "unakoti-tripura",
+    "name": "Unakoti",
+    "state": "Tripura",
+    "category": "heritage",
+    "district": "Unakoti district",
+    "district_fact_state": "Tripura",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Monument of National Importance",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Recognised as Tentative World Heritage Site",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.31660 N, 92.06660 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  }
+]

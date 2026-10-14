@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "bangli-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Bangli",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": "Diu",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "church-of-holy-jesus-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Church of Holy Jesus",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": "Daman",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "church-of-our-lady-of-the-sea-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Church of Our Lady of the Sea",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.41347 N, 72.83176 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "dadra-and-nagar-haveli-wildlife-sanctuary-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Dadra and Nagar Haveli Wildlife Sanctuary",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "wildlife",
+    "district": "Dadra and Nagar Haveli district",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Many Indian wildlife reserves are open from November to June and close in the monsoon. Opening months differ by park, so check the named reserve.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.28990 N, 73.09490 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "daman-india-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Daman, India",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "nature",
+    "district": "Daman district",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 5 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 72 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.41694 N, 72.83402 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "devka-beach-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Devka Beach",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Along the Arabian Sea, November to February is the usual calm, dry window. From about June to September the southwest monsoon brings heavy rain and rough surf.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.44646 N, 72.83263 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "diu-fort-together-with-the-inside-building-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Diu Fort together with the inside building",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": "Diu",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "diu-fortress-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Diu Fortress",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": "Diu district",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Heritage of Portuguese Influence",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Recognised as Monument of National Importance",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.71479 N, 70.99603 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "diu-india-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Diu, India",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "beach",
+    "district": "Diu district",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Arabian Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 0 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 38.8 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Along the Arabian Sea, November to February is the usual calm, dry window. From about June to September the southwest monsoon brings heavy rain and rough surf.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.71500 N, 70.98436 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "diu-island-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Diu Island",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "nature",
+    "district": "Diu district",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 8 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 38.8 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.71000 N, 70.98000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "fort-st-anthony-of-simbor-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fort St. Anthony of Simbor",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": "Diu district",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1722",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Recognised as Heritage of Portuguese Influence",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.76316 N, 71.15160 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "fort-walls-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fort Walls",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": "Daman",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "fort-walls-including-gates-structures-moat-open-land-outside-inside-fort-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fort Walls (Including Gates, Structures, Moat, Open land, Outside & Inside Fort)",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": "Daman",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "fortaleza-de-diu-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fortaleza de Diu",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 11 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.71472 N, 70.99608 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "fudam-bird-sanctuary-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Fudam Bird Sanctuary",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Many Indian wildlife reserves are open from November to June and close in the monsoon. Opening months differ by park, so check the named reserve.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.72514 N, 70.95443 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "gangeshwar-mahadev-temple-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Gangeshwar Mahadev Temple",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.70538 N, 70.95663 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "gogola-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Gogolá",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Along the Arabian Sea, November to February is the usual calm, dry window. From about June to September the southwest monsoon brings heavy rain and rough surf.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.72333 N, 70.98750 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "jain-temple-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Jain Temple",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 13 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.41422 N, 72.83588 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "jama-masjid-diu-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Jama Masjid, Diu",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.71786 N, 70.98488 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "moti-daman-fort-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Moti Daman Fort",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.40772 N, 72.83314 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nagoa-beach-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Nagoá Beach",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Along the Arabian Sea, November to February is the usual calm, dry window. From about June to September the southwest monsoon brings heavy rain and rough surf.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.70528 N, 70.91583 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "old-mosque-jama-masjid-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Old Mosque (Jama Masjid)",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": "Diu",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ruined-church-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Ruined Church",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": "Daman",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "saint-jeronimo-s-fort-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Saint Jeronimo's Fort",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.41360 N, 72.83213 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "st-paul-s-church-diu-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "St. Paul's Church, Diu",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1807",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Recognised as Heritage of Portuguese Influence",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Recognised as Monument of National Importance",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Built in the baroque architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Dedicated to Paul the Apostle",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Named after Paul the Apostle",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 20.71454 N, 70.99067 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "st-pauls-church-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "St. Paul’s Church",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": "Diu",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "the-chapel-of-our-lady-of-rosario-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "The Chapel of Our Lady of Rosario",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": "Daman",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "the-church-of-our-lady-of-remedios-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "The Church of Our Lady of Remedios",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "spiritual",
+    "district": "Daman",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "tower-of-silence-dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Tower of Silence",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "heritage",
+    "district": "Diu",
+    "district_fact_state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  }
+]

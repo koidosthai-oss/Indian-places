@@ -1,0 +1,5658 @@
+[
+  {
+    "id": "a-hillock-manipur",
+    "name": "A Hillock",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "a-menhir-manipur",
+    "name": "A Menhir",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "andra-manipur",
+    "name": "Andra",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 798 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.75012 N, 94.04764 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "andro-inscription-manipur",
+    "name": "Andro Inscription",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "bihu-loukon-manipur",
+    "name": "Bihu Loukon",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80521 N, 93.81951 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "boulder-of-lord-wangbrel-wangpurel-manipur",
+    "name": "Boulder of Lord Wangbrel(Wangpurel)",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Chandel",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "chibu-stone-inscriptions-manipur",
+    "name": "Chibu Stone Inscriptions",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Churachandpur",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "chothe-thangwai-pakhangba-manipur",
+    "name": "Chothe Thangwai Pakhangba",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Bishnupur",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "churachandpur-khoupum-protected-forest-manipur",
+    "name": "Churachandpur-Khoupum Protected Forest",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.46820 N, 93.66240 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "dolai-thaba-chingu-khubam-manipur",
+    "name": "Dolai Thaba Chingu Khubam",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "gateway-amp-brick-wall-in-ruins-apanbi-amp-haomacha-pukhri-manipur",
+    "name": "Gateway &amp;Brick Wall (in ruins) Apanbi &amp; Haomacha Pukhri",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "gopinath-temple-manipur",
+    "name": "Gopinath Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.57250 N, 93.76710 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "hapta-kangjeibung-manipur",
+    "name": "Hapta Kangjeibung",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.79944 N, 93.94694 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "heingang-assembly-constituency-manipur",
+    "name": "Heingang Assembly constituency",
+    "state": "Manipur",
+    "category": "other",
+    "district": "Imphal East district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.84000 N, 93.94000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "heingang-ching-manipur",
+    "name": "Heingang Ching",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.87900 N, 93.95400 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "hicham-yaichampat-cremation-ground-of-bir-tikendrajit-manipur",
+    "name": "Hicham Yaichampat (Cremation Ground of Bir Tikendrajit",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "hijagang-manipur",
+    "name": "Hijagang",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "historical-site-of-wangkhei-meiraba-manipur",
+    "name": "Historical Site of Wangkhei Meiraba",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Thoubal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "hiyangthang-lairembi-temple-manipur",
+    "name": "Hiyangthang Lairembi Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal West district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "hkacha-bum-manipur",
+    "name": "Hkacha Bum",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,214 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,214 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.13333 N, 94.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "hkayam-bum-manipur",
+    "name": "Hkayam Bum",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,579 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,579 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.16667 N, 94.65000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "hting-hting-bum-manipur",
+    "name": "Hting Hting Bum",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,676 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.05000 N, 94.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ikop-pat-manipur",
+    "name": "Ikop Pat",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.59321 N, 93.94209 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "ima-market-manipur",
+    "name": "Ima Market",
+    "state": "Manipur",
+    "category": "other",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80800 N, 93.93500 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "imoinu-iratpa-manipur",
+    "name": "Imoinu Iratpa",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Imoinu Iratpa is a religious festival of Manipuri Goddess Imoinu.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "imphal-barracks-manipur",
+    "name": "Imphal Barracks",
+    "state": "Manipur",
+    "category": "other",
+    "district": "York",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1877",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "imphal-manipur",
+    "name": "Imphal",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 786 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.82000 N, 93.95000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "imphal-peace-museum-manipur",
+    "name": "Imphal Peace Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 2019",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.70518 N, 93.81744 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "imphal-river-manipur",
+    "name": "Imphal River",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.84306 N, 93.95806 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "imphal-war-cemetery-manipur",
+    "name": "Imphal War Cemetery",
+    "state": "Manipur",
+    "category": "other",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.82250 N, 93.94620 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "ina-martyrs-memorial-complex-manipur",
+    "name": "INA Martyrs' Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Bishnupur district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from September 1969",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Dedicated to Indian National Army",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ina-war-museum-manipur",
+    "name": "INA War Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "inscribed-stone-monument-manipur",
+    "name": "Inscribed Stone Monument",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Thoubal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "inscribed-stone-monuments-manipur",
+    "name": "Inscribed Stone Monuments",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "inscribed-stone-of-maharaja-garibniwaj-manipur",
+    "name": "Inscribed Stone of Maharaja Garibniwaj",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Thoubal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "inscribed-stone-of-maharaja-marjit-manipur",
+    "name": "Inscribed Stone of Maharaja Marjit",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "japvo-manipur",
+    "name": "Jāpvo",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,999 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,999 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.59718 N, 94.06721 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kaina-manipur-manipur",
+    "name": "Kaina (Manipur)",
+    "state": "Manipur",
+    "category": "hill-station",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.67300 N, 94.01500 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kampal-mol-manipur",
+    "name": "Kampāl Mol",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,718 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.00000 N, 94.73333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kangla-fort-including-quarter-moat-amp-kekrupat-manipur",
+    "name": "Kangla Fort (Including Quarter Moat &amp; Kekrupat",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kangla-fort-manipur",
+    "name": "Kangla Fort",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80800 N, 93.94000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kangla-nongpok-thong-manipur",
+    "name": "Kangla Nongpok Thong",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kangla-nongpok-torban-manipur",
+    "name": "Kangla Nongpok Torban",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "keibul-lamjao-national-park-manipur",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1977",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Recognised as Tentative World Heritage Site",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 40 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.48560 N, 93.84020 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "khagemba-leikol-manipur",
+    "name": "Khagemba Leikol",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "khongjom-battle-field-tengol-lampak-manipur",
+    "name": "Khongjom Battle Field (Tengol Lampak)",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Thoubal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "khongjom-war-memorial-complex-manipur",
+    "name": "Khongjom War Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "khuga-dam-manipur",
+    "name": "Khuga Dam",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.30000 N, 93.15000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "khuga-river-manipur",
+    "name": "Khuga River",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.42850 N, 93.83780 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "khurai-ahongpund-manipur",
+    "name": "Khurai Ahongpund",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "krishna-avatar-carved-stone-manipur",
+    "name": "Krishna Avatar (Carved Stone)",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Thoubal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kuki-baptist-convention-manipur",
+    "name": "Kuki Baptist Convention",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 16 March 1958",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kuki-christian-church-manipur",
+    "name": "Kuki Christian Church",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1943",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kwaak-taanba-manipur",
+    "name": "Kwaak Taanba",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Kwaak Taanba is a festival of Manipur.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "laikot-manipur",
+    "name": "Laikot",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,547 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,547 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.36325 N, 93.89423 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "lainingthou-marjing-manipur",
+    "name": "Lainingthou Marjing",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "lainingthou-sanamahi-kiyong-manipur",
+    "name": "Lainingthou Sanamahi Kiyong",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal East district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 2006",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Associated with Sanamahism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80504 N, 94.03543 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "lainingthou-sanamahi-manipur",
+    "name": "Lainingthou Sanamahi",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "lamtol-khagemba-laikol-manipur",
+    "name": "Lamtol (Khagemba Laikol)",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Senapati",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "lilium-mackliniae-manipur",
+    "name": "Lilium mackliniae",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "logtak-lake-manipur",
+    "name": "Logtāk Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.56774 N, 93.82063 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "loiching-manipur",
+    "name": "Loiching",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,014 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,014 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.74142 N, 93.72560 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "loktak-folklore-museum-manipur",
+    "name": "Loktak Folklore Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Thanga",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Opened in 16 October 2016",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.51767 N, 93.81374 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "loktak-lake-manipur",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Covers about 287 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.55000 N, 93.78333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "lungpha-archaeological-site-manipur",
+    "name": "Lungpha (Archaeological Site)",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Ukhrul",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "lungpon-ching-manipur",
+    "name": "Lungpon Ching",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,705 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.15041 N, 94.08002 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "maibam-lotpa-ching-manipur",
+    "name": "Maibam Lotpa Ching",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.70300 N, 93.81700 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "makoinungol-ching-manipur",
+    "name": "Makoinungol Ching",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "makuching-ao-manipur",
+    "name": "Makuching Ao",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,090 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,090 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.90732 N, 94.45234 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "manipur-baptist-convention-manipur",
+    "name": "Manipur Baptist Convention",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "manipur-bush-quail-manipur",
+    "name": "Manipur bush quail",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "manipur-bush-rat-manipur",
+    "name": "Manipur bush rat",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Named after Allan Hume",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "manipur-state-museum-manipur",
+    "name": "Manipur State Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 23 September 1969",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80485 N, 93.93709 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "manipuri-pony-manipur",
+    "name": "Manipuri pony",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "manung-kangjeibung-manipur",
+    "name": "Manung Kangjeibung",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Kangla Fort",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Founded by Ningthou Kangba",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Maintained under Government of Manipur",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80610 N, 93.94270 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "maphitel-manipur",
+    "name": "Maphitel",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,030 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,030 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.84943 N, 94.20337 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mapithel-dam-manipur",
+    "name": "Mapithel Dam",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.82380 N, 94.14210 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "marjing-polo-complex-manipur",
+    "name": "Marjing Polo Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "marjing-polo-statue-manipur",
+    "name": "Marjing Polo Statue",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.87937 N, 93.95405 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mawlashin-taung-manipur",
+    "name": "Mawlashin Taung",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,557 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.93333 N, 94.71667 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "megalithic-monument-a-menhir-manipur",
+    "name": "Megalithic Monument (A Menhir)",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Thoubal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "megalithic-monument-manipur",
+    "name": "Megalithic Monument",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Senapati",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "megalithic-site-manipur",
+    "name": "Megalithic Site",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Chandel",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "meitei-culture-manipur",
+    "name": "Meitei culture",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Part of culture of the Indian subcontinent",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "menjor-multipurpose-research-centre-and-unity-park-manipur",
+    "name": "Menjor Multipurpose Research Centre and Unity Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "district": "Khangabok",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as cultural heritage",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Associated with Sanamahism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.61895 N, 94.01788 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mera-chaorel-houba-manipur",
+    "name": "Mera Chaorel Houba",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Mera Chaorel Houba is a festival of Manipur.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mera-hou-chongba-manipur",
+    "name": "Mera Hou Chongba",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Mera Hou Chongba is a festival of Manipur.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mizorammanipurkachin-rain-forests-manipur",
+    "name": "Mizoram–Manipur–Kachin rain forests",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.23330 N, 94.00000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mount-koubru-manipur",
+    "name": "Mount Koubru",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.06083 N, 93.87611 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mount-manipur-manipur",
+    "name": "Mount Manipur",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.72222 N, 92.73278 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mrs-hume-s-pheasant-manipur",
+    "name": "Mrs. Hume's pheasant",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Named after Mary Ann Grindall",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "nat-taung-manipur",
+    "name": "Nat Taung",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 216 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 23.85000 N, 94.15000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ningol-chakkouba-manipur",
+    "name": "Ningol Chakkouba",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Ningol Chakkouba is a festival of Manipur.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "nongmaiching-hill-manipur",
+    "name": "Nongmaiching Hill",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80400 N, 94.03500 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nongmaiching-reserved-forest-manipur",
+    "name": "Nongmaiching Reserved Forest",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "orchid-manipur",
+    "name": "Orchid",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "osteobrama-belangeri-manipur",
+    "name": "Osteobrama belangeri",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "pakhangba-temple-kangla-manipur",
+    "name": "Pakhangba Temple, Kangla",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80800 N, 93.94100 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "panthoibi-iratpa-manipur",
+    "name": "Panthoibi Iratpa",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Panthoibi Iratpa is a meitei religious festival dedicated to Goddess Panthoibi.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "phoebe-bootanica-manipur",
+    "name": "Phoebe bootanica",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "phungyo-baptist-church-manipur",
+    "name": "Phungyo Baptist Church",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.11100 N, 94.36000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "pinoumai-tamartuo-manipur",
+    "name": "Pinoumai Tamartuo",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Senapati",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "politics-of-manipur-manipur",
+    "name": "Politics of Manipur",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "polo-manipur",
+    "name": "Polo",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "pond-of-lord-wangbrel-manipur",
+    "name": "Pond of Lord Wangbrel",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Chandel",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "pumlenpat-manipur",
+    "name": "Pumlenpat",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.42000 N, 93.87000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "rash-mandal-pukhri-manipur",
+    "name": "Rash Mandal Pukhri",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "rasibung-manipur",
+    "name": "Rasibung",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,717 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.93998 N, 94.55164 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sacred-fire-place-manipur",
+    "name": "Sacred Fire Place",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sacred-jack-tree-manipur",
+    "name": "Sacred Jack Tree",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Thoubal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sacred-jackfruit-tree-manipur",
+    "name": "Sacred Jackfruit Tree",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Thoubal district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.64760 N, 94.07000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sajibu-nongma-panba-manipur",
+    "name": "Sajibu Nongma Panba",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Sajibu Nongma Panba is a manipuri new year festival.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "samadhi-of-maharaja-gambhir-singh-manipur",
+    "name": "Samadhi of Maharaja Gambhir Singh",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "samadhi-of-maharaja-khaba-manipur",
+    "name": "Samadhi of Maharaja Khaba",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "samban-lei-sekpil-manipur",
+    "name": "Samban-Lei Sekpil",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sana-konung-manipur",
+    "name": "Sana Konung",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.79699 N, 93.94749 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sanamahi-ahong-khong-chingba-manipur",
+    "name": "Sanamahi Ahong Khong Chingba",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "festival",
+        "text": "Sanamahi Ahong Khong Chingba is a religious festival of pulling a grand chariot of Lord Sanamahi.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sanamahi-temple-manipur",
+    "name": "Sanamahi Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal West district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1891",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sangai-manipur",
+    "name": "Sangai",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sangaiyumpham-maharaja-gambhir-singh-manipur",
+    "name": "Sangaiyumpham Maharaja Gambhir Singh",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sanggai-yumpham-manipur",
+    "name": "Sanggai Yumpham",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Meitei architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Dedicated to Ningthouja dynasty",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Maintained under Government of Manipur",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sekta-archaeological-living-museum-manipur",
+    "name": "Sekta Archaeological Living Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1991",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.89560 N, 94.03806 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sekta-kei-mound-manipur",
+    "name": "Sekta-Kei Mound",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sekta-manipur",
+    "name": "Sekta",
+    "state": "Manipur",
+    "category": "offbeat",
+    "district": "Imphal East district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.88700 N, 94.03700 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "shirui-national-park-manipur",
+    "name": "Shirui National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1982",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.23083 N, 94.23083 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "shree-govindajee-temple-manipur",
+    "name": "Shree Govindajee Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal East district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.79780 N, 93.94850 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "shree-govindajee-temps-manipur",
+    "name": "Shree Govindajee Temps",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.79780 N, 93.94850 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "shrine-of-lord-wangbrel-wangpurel-manipur",
+    "name": "Shrine of Lord Wangbrel(Wangpurel)",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Chandel",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "siju-wildlife-sanctuary-manipur",
+    "name": "Siju Wildlife Sanctuary",
+    "state": "Manipur",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.33778 N, 90.68639 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "siruhi-kashong-manipur",
+    "name": "Siruhi Kashong",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 2,527 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The catalog records about 2,527 m, so treat this as an overnight stop rather than a quick trip from the plains.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.10644 N, 94.45792 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "st-joseph-s-cathedral-imphal-manipur",
+    "name": "St. Joseph's Cathedral, Imphal",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Associated with Catholicism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Named after Saint Joseph",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.85083 N, 93.93250 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "statue-of-meidingu-nara-singh-manipur",
+    "name": "Statue of Meidingu Nara Singh",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 15 June 2002",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Dedicated to Maharaja Nara Singh",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Maintained under Government of Manipur",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.80750 N, 93.93870 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "stonehenge-of-manipur-manipur",
+    "name": "Stonehenge of Manipur",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.47010 N, 93.97310 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "temple-of-leimapokpa-keirungba-manipur",
+    "name": "Temple of Leimapokpa Keirungba",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "temple-of-madan-mohanji-manipur",
+    "name": "Temple of Madan Mohanji",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "temple-of-radha-damodar-manipur",
+    "name": "Temple of Radha Damodar",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "temple-of-sanamahi-manipur",
+    "name": "Temple of Sanamahi",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "temple-of-shri-krishna-manipur",
+    "name": "Temple of Shri Krishna",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "temple-of-thangal-general-manipur",
+    "name": "Temple of Thangal General",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Imphal East",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "temple-of-vishnu-manipur",
+    "name": "Temple of Vishnu",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Bishenpur",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "tengnoupal-manipur",
+    "name": "Tengnoupal",
+    "state": "Manipur",
+    "category": "offbeat",
+    "district": "Chandel district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 1,677 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.32800 N, 93.98600 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "thanga-manipur",
+    "name": "Thanga",
+    "state": "Manipur",
+    "category": "offbeat",
+    "district": "Bishnupur district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "thangjing-hill-manipur",
+    "name": "Thangjing Hill",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.46850 N, 93.66170 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "thangjing-temple-moirang-manipur",
+    "name": "Thangjing Temple, Moirang",
+    "state": "Manipur",
+    "category": "spiritual",
+    "district": "Bishnupur district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.49750 N, 93.77910 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "thong-nambonbi-humped-bridge-manipur",
+    "name": "Thong Nambonbi (Humped Bridge)",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "tiddim-road-manipur",
+    "name": "Tiddim Road",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "tipaimukh-dam-manipur",
+    "name": "Tipaimukh Dam",
+    "state": "Manipur",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set on Barak River",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.23639 N, 93.01528 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "vanda-coerulea-manipur",
+    "name": "Vanda coerulea",
+    "state": "Manipur",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "wangthonbi-mound-manipur",
+    "name": "Wangthonbi Mound",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Imphal West",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "willong-megalithic-memorial-stones-manipur",
+    "name": "Willong Megalithic Memorial Stones",
+    "state": "Manipur",
+    "category": "heritage",
+    "district": "Senapati",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "yangoupokpi-lokchao-wildlife-sanctuary-manipur",
+    "name": "Yangoupokpi-Lokchao Wildlife Sanctuary",
+    "state": "Manipur",
+    "category": "wildlife",
+    "district": "Chandel district",
+    "district_fact_state": "Manipur",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1989",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 185 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 24.32000 N, 94.23000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  }
+]

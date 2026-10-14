@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "burail-fort-chandigarh",
+    "name": "Burail Fort",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.70750 N, 76.76111 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "chandi-mandir-chandigarh",
+    "name": "Chandi Mandir",
+    "state": "Chandigarh",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.73528 N, 76.79111 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "chandigarh-bird-park-chandigarh",
+    "name": "Chandigarh Bird Park",
+    "state": "Chandigarh",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Many Indian wildlife reserves are open from November to June and close in the monsoon. Opening months differ by park, so check the named reserve.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.74861 N, 76.81028 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "chandigarh-capitol-complex-chandigarh",
+    "name": "Chandigarh Capitol Complex",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1953",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Recognised as part of UNESCO World Heritage Site",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Architect: Le Corbusier",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.75917 N, 76.80472 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "chandigarh-golf-club-chandigarh",
+    "name": "Chandigarh Golf Club",
+    "state": "Chandigarh",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.73610 N, 76.81610 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "dhanas-lake-chandigarh",
+    "name": "Dhanas Lake",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.76597 N, 76.75729 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "gandhi-bhawan-chandigarh-chandigarh",
+    "name": "Gandhi Bhawan, Chandigarh",
+    "state": "Chandigarh",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.76187 N, 76.77141 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "garden-of-silence-chandigarh",
+    "name": "Garden of Silence",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.73850 N, 76.82967 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "garden-of-springs-chandigarh-chandigarh",
+    "name": "Garden of Springs, Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.72300 N, 76.73600 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "government-museum-and-art-gallery-chandigarh-chandigarh",
+    "name": "Government Museum and Art Gallery, Chandigarh",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1947",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.74888 N, 76.78742 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "indian-air-force-heritage-museum-chandigarh-chandigarh",
+    "name": "Indian Air Force Heritage Museum, Chandigarh",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.75000 N, 76.78333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "japanese-garden-chandigarh-chandigarh",
+    "name": "Japanese Garden, Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.70453 N, 76.78206 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "le-corbusier-centre-chandigarh",
+    "name": "Le Corbusier Centre",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.73022 N, 76.79947 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "leisure-valley-chandigarh-chandigarh",
+    "name": "Leisure Valley, Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.75306 N, 76.79194 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mahendra-chaudhary-zoological-park-chandigarh",
+    "name": "Mahendra Chaudhary Zoological Park",
+    "state": "Chandigarh",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1977",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Many Indian wildlife reserves are open from November to June and close in the monsoon. Opening months differ by park, so check the named reserve.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.60360 N, 76.79280 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "manimajra-fort-chandigarh",
+    "name": "Manimajra Fort",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.43000 N, 76.50000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "open-hand-monument-chandigarh",
+    "name": "Open Hand Monument",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1964",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Architect: Le Corbusier",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Created by Le Corbusier",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Chandigarh Capitol Complex",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Rises about 26 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.75900 N, 76.80740 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "palace-of-assembly-chandigarh",
+    "name": "Palace of Assembly",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the brutalist architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Architect: Le Corbusier",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Chandigarh Capitol Complex",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.76111 N, 76.80306 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "parrot-bird-sanctuary-chandigarh-chandigarh",
+    "name": "Parrot Bird Sanctuary, Chandigarh",
+    "state": "Chandigarh",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1998",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 2.9 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Many Indian wildlife reserves are open from November to June and close in the monsoon. Opening months differ by park, so check the named reserve.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.72500 N, 76.77917 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "rock-garden-of-chandigarh-chandigarh",
+    "name": "Rock Garden of Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1957",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Founded by Nek Chand Saini",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.75200 N, 76.80700 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "secretariat-building-chandigarh-chandigarh",
+    "name": "Secretariat Building, Chandigarh",
+    "state": "Chandigarh",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1953",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Recognised as World Heritage Site",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Built in the modern architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Architect: Le Corbusier",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Chandigarh Capitol Complex",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.76111 N, 76.80056 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sukhna-interpretation-centre-chandigarh",
+    "name": "Sukhna Interpretation Centre",
+    "state": "Chandigarh",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.73870 N, 76.81336 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sukhna-lake-chandigarh",
+    "name": "Sukhna Lake",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Architect: Le Corbusier",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.74029 N, 76.81894 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sukhna-wildlife-sanctuary-chandigarh",
+    "name": "Sukhna Wildlife Sanctuary",
+    "state": "Chandigarh",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1986",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 26 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Many Indian wildlife reserves are open from November to June and close in the monsoon. Opening months differ by park, so check the named reserve.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.77570 N, 76.85120 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "terraced-garden-chandigarh-chandigarh",
+    "name": "Terraced Garden, Chandigarh",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.71444 N, 76.77167 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "zakir-husain-rose-garden-chandigarh",
+    "name": "Zakir Husain Rose Garden",
+    "state": "Chandigarh",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 30.74811 N, 76.78374 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  }
+]
