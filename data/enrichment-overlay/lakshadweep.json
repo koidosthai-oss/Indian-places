@@ -1,0 +1,1605 @@
+[
+  {
+    "id": "agatti-island-lakshadweep",
+    "name": "Agatti Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Laccadive Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Laccadive Islands",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 2 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 3.23 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.86667 N, 72.19722 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "amini-island-lakshadweep",
+    "name": "Amini Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.12114 N, 72.72263 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "androth-island-lakshadweep",
+    "name": "Andrōth Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.81172 N, 73.67569 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "bangaram-atoll-lakshadweep",
+    "name": "Bangaram Atoll",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Laccadive Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Laccadive Islands",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 1 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 1.23 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.93889 N, 72.28611 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "bingaram-island-lakshadweep",
+    "name": "Bingaram Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.94043 N, 72.28693 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "bitra-lakshadweep",
+    "name": "Bitra",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Indian Ocean",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Aminidivi",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 2 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 11 ha",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.55000 N, 72.15000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "byramgore-reef-lakshadweep",
+    "name": "Byramgore Reef",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Indian Ocean",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Aminidivi",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 2 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.90000 N, 71.81667 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "cherbaniani-reef-lakshadweep",
+    "name": "Cherbaniani Reef",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Indian Ocean",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Laccadive Islands",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 2 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 0.01 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 12.30000 N, 71.88333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "cheriyam-island-lakshadweep",
+    "name": "Cheriyam Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.14142 N, 73.66393 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "chetlat-island-lakshadweep",
+    "name": "Chetlat Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Indian Ocean",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Aminidivi",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 2 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 1.17 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.68333 N, 72.70000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kadmat-beach-lakshadweep",
+    "name": "Kadmat Beach",
+    "state": "Lakshadweep",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Along the Arabian Sea, November to February is the usual calm, dry window. From about June to September the southwest monsoon brings heavy rain and rough surf.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.22866 N, 72.78028 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kadmat-island-lakshadweep",
+    "name": "Kadmat Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Part of Aminidivi",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 3.12 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.23000 N, 72.78000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kalpati-lakshadweep",
+    "name": "Kalpati",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 1 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 0.09 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.81300 N, 72.16700 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kalpeni-lakshadweep",
+    "name": "Kalpeni",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Laccadive Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Laccadive Islands",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 0 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 3.08 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.06909 N, 73.64496 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kalputhi-island-lakshadweep",
+    "name": "Kalputhi Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.81349 N, 72.16825 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kavaratti-lakshadweep",
+    "name": "Kavaratti",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Laccadive Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Laccadive Islands",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 1 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 4.22 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.56667 N, 72.63889 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kiltan-lakshadweep",
+    "name": "Kiltan",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Indian Ocean",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Aminidivi",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 2 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 1.78 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.48333 N, 73.00000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "minicoy-island-lighthouse-lakshadweep",
+    "name": "Minicoy Island Lighthouse",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1885",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Architect: James Nicholas Douglass",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Set beside Laccadive Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Set on Minicoy Island",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Rises about 49.5 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 8.26933 N, 73.02604 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "minicoy-lakshadweep",
+    "name": "Minicoy",
+    "state": "Lakshadweep",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Laccadive Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 2 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 4.8 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Along the Arabian Sea, November to February is the usual calm, dry window. From about June to September the southwest monsoon brings heavy rain and rough surf.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 8.27500 N, 73.05278 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "minicoy-lighthouse-lakshadweep",
+    "name": "Minicoy Lighthouse",
+    "state": "Lakshadweep",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 8.26941 N, 73.02605 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "minicoy-thundi-beach-lakshadweep",
+    "name": "Minicoy Thundi Beach",
+    "state": "Lakshadweep",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Along the Arabian Sea, November to February is the usual calm, dry window. From about June to September the southwest monsoon brings heavy rain and rough surf.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 8.26826 N, 73.02664 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mohidden-mosque-lakshadweep-lakshadweep",
+    "name": "Mohidden Mosque, Lakshadweep",
+    "state": "Lakshadweep",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Islamic architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.57000 N, 72.62000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "north-island-lakshadweep",
+    "name": "North Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.13333 N, 72.33333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "north-islet-lakshadweep",
+    "name": "North Islet",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 12.40000 N, 71.90000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "perumal-par-lakshadweep",
+    "name": "Perumal Par",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Indian Ocean",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Aminidivi",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 0 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 0.02 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.16667 N, 72.06667 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "pitti-island-lakshadweep",
+    "name": "Pitti Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.07307 N, 73.62780 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "pitti-lakshadweep",
+    "name": "Pitti",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Indian Ocean",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 2 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 0.04 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.76667 N, 72.53333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "pm-sayeed-marine-birds-conservation-reserve-lakshadweep",
+    "name": "PM Sayeed Marine Birds Conservation Reserve",
+    "state": "Lakshadweep",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sand-cay-lakshadweep",
+    "name": "Sand Cay",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 12.26667 N, 71.90000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "south-island-lakshadweep",
+    "name": "South Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.05000 N, 72.28333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "suheli-par-lakshadweep",
+    "name": "Suheli Par",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Laccadive Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Laccadive Islands",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 1 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 0.89 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.08333 N, 72.28333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "tinnakara-island-lakshadweep",
+    "name": "Tinnakara Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.94709 N, 72.31750 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "tree-island-lakshadweep",
+    "name": "Tree Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.59818 N, 72.18670 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "viringili-maliku-atoll-lakshadweep",
+    "name": "Viringili (Maliku Atoll)",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Set beside Laccadive Sea",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Set on Minicoy",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Minicoy",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 0 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 0.03 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 8.27833 N, 73.01139 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "wiringli-island-lakshadweep",
+    "name": "Wiringli Island",
+    "state": "Lakshadweep",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 8.27813 N, 73.01153 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  }
+]

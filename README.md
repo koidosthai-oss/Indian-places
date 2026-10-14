@@ -26,5 +26,10 @@ Each record has a short description and a `facts` list (dates, heritage status, 
 
 `merge_open_sources.py` then adds named places from GeoNames and Wikidata, and from OpenStreetMap when the public Overpass service answers. That pass keeps mapped sites that have little or no published visitor information, including temples, forts, falls, lakes, dunes, passes, and wildlife reserves that do not have their own articles. Forest-reserve parcels, hotels, stations, and unnamed spots stay out.
 
-## Roadmap
-See `docs/` for current roadmap notes and the next Cursor agent prompt.
+The catalog is under continuous expansion. `data/coverage-summary.json` counts every state and union territory. Visitor notes that sit outside the place schema live in `data/enrichment-overlay/<state>.json`. `data/gaps.json` lists thin regions and missing themes for the next collection round. Rebuild them with:
+
+```bash
+.venv/bin/python scripts/build_catalog_overlay.py
+```
+
+Those overlay files do not add places or coordinates. A district mention is copied from the place's existing facts and is never used to move the place.
