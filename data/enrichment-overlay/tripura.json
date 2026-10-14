@@ -221,6 +221,12 @@
         "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Tripura State Museum Agartala Tripura India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tripura%20State%20Museum%20Agartala%20Tripura%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -237,6 +243,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tripura%20State%20Museum%20Agartala%20Tripura%20India.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -277,6 +287,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Buddhist Stupa Shyamsundar Mound.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Buddhist%20Stupa%20Shyamsundar%20Mound.JPG"
       }
     ],
     "missing_themes": [
@@ -286,7 +302,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Buddhist%20Stupa%20Shyamsundar%20Mound.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ancient-mound-known-as-puja-khola-paschim-pillak-tripura",
@@ -355,6 +377,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 2)The ruins of Buddhist Temple at Boxanagar,near Sonamura, 40 kms west to the capital city Agartala,Tripura-1.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:2%29The%20ruins%20of%20Buddhist%20Temple%20at%20Boxanagar%2Cnear%20Sonamura%2C%2040%20kms%20west%20to%20the%20capital%20city%20Agartala%2CTripura-1.jpg"
       }
     ],
     "missing_themes": [
@@ -364,7 +392,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:2%29The%20ruins%20of%20Buddhist%20Temple%20at%20Boxanagar%2Cnear%20Sonamura%2C%2040%20kms%20west%20to%20the%20capital%20city%20Agartala%2CTripura-1.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bhubaneswari-temple-rajnagar-tripura",
@@ -394,6 +428,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: BHUBANESWARI TEMPLE.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:BHUBANESWARI%20TEMPLE.jpg"
       }
     ],
     "missing_themes": [
@@ -403,7 +443,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:BHUBANESWARI%20TEMPLE.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bhubaneswari-temple-tripura",
@@ -445,6 +491,12 @@
         "text": "A Wikimedia Commons file, Bhubaneswari Temple .Rajnagar,Udaipur.South Tripura.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Bhubaneswari_Temple_.Rajnagar%2CUdaipur.South_Tripura.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: BHUBANESWARI TEMPLE.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:BHUBANESWARI%20TEMPLE.jpg"
       }
     ],
     "missing_themes": [
@@ -461,6 +513,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Bhubaneswari_Temple_.Rajnagar%2CUdaipur.South_Tripura.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:BHUBANESWARI%20TEMPLE.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -573,6 +629,12 @@
         "text": "A Wikimedia Commons file, 6)The ruins of Buddhist Temple at Boxanagar,near Sonamura, 40 kms west to the capital city Agartala,Tripura.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:6%29The_ruins_of_Buddhist_Temple_at_Boxanagar%2Cnear_Sonamura%2C_40_kms_west_to_the_capital_city_Agartala%2CTripura.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 2)The ruins of Buddhist Temple at Boxanagar,near Sonamura, 40 kms west to the capital city Agartala,Tripura-1.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:2%29The%20ruins%20of%20Buddhist%20Temple%20at%20Boxanagar%2Cnear%20Sonamura%2C%2040%20kms%20west%20to%20the%20capital%20city%20Agartala%2CTripura-1.jpg"
       }
     ],
     "missing_themes": [
@@ -591,6 +653,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:6%29The_ruins_of_Buddhist_Temple_at_Boxanagar%2Cnear_Sonamura%2C_40_kms_west_to_the_capital_city_Agartala%2CTripura.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:2%29The%20ruins%20of%20Buddhist%20Temple%20at%20Boxanagar%2Cnear%20Sonamura%2C%2040%20kms%20west%20to%20the%20capital%20city%20Agartala%2CTripura-1.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -626,6 +692,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.54196 N, 91.60572 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 1)Chabimura, the archaeological site at Devtamura.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:1%29Chabimura%2C%20the%20archaeological%20site%20at%20Devtamura.jpg"
       }
     ],
     "missing_themes": [
@@ -636,7 +708,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:1%29Chabimura%2C%20the%20archaeological%20site%20at%20Devtamura.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chaturdasha-temple-tripura",
@@ -840,6 +918,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.23185 N, 91.55961 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 1)Chabimura, the archaeological site at Devtamura.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:1%29Chabimura%2C%20the%20archaeological%20site%20at%20Devtamura.jpg"
       }
     ],
     "missing_themes": [
@@ -850,7 +934,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:1%29Chabimura%2C%20the%20archaeological%20site%20at%20Devtamura.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gumti-wildlife-sanctuary-tripura",
@@ -1023,6 +1113,12 @@
         "text": "A Wikimedia Commons file, Kamalasagar.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Kamalasagar.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kamalasagar.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kamalasagar.jpg"
       }
     ],
     "missing_themes": [
@@ -1086,6 +1182,12 @@
         "text": "A Wikimedia Commons file, Kasbeswari Kali Mata.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Kasbeswari_Kali_Mata.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kasbeswari Kali Mata.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kasbeswari%20Kali%20Mata.jpg"
       }
     ],
     "missing_themes": [
@@ -1103,6 +1205,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Kasbeswari_Kali_Mata.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kasbeswari%20Kali%20Mata.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1368,6 +1474,12 @@
         "text": "A boat festival is held on Rudrasagar in July or August, according to the state tourism page.",
         "basis": "cited-source",
         "source": "https://tripuratourism.gov.in/single-tour.php?id=8"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A minar inside Neermahal, Tripura, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20minar%20inside%20Neermahal%2C%20Tripura%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -1389,6 +1501,10 @@
       {
         "url": "https://tripuratourism.gov.in/single-tour.php?id=8",
         "publisher": "tripuratourism.gov.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20minar%20inside%20Neermahal%2C%20Tripura%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ],
     "photos": [
@@ -1511,6 +1627,12 @@
         "text": "A Wikimedia Commons file, Pushpabanta Palace at Agartala, Tripura.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Pushpabanta_Palace_at_Agartala%2C_Tripura.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Pushpabanta Palace at Agartala, Tripura.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Pushpabanta%20Palace%20at%20Agartala%2C%20Tripura.jpg"
       }
     ],
     "missing_themes": [
@@ -1528,6 +1650,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Pushpabanta_Palace_at_Agartala%2C_Tripura.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pushpabanta%20Palace%20at%20Agartala%2C%20Tripura.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1745,6 +1871,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Unakoti, Tripura, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Unakoti%2C%20Tripura%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -1754,7 +1886,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Unakoti%2C%20Tripura%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sepahijala-wildlife-sanctuary-tripura",
@@ -1807,6 +1945,12 @@
         "text": "A Wikimedia Commons file, Deer, Sepahijala WLS.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Deer%2C_Sepahijala_WLS.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Deer, Sepahijala WLS.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Deer%2C%20Sepahijala%20WLS.jpg"
       }
     ],
     "missing_themes": [
@@ -1823,6 +1967,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Deer%2C_Sepahijala_WLS.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Deer%2C%20Sepahijala%20WLS.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2030,6 +2178,12 @@
         "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Agartala Palace, Tripura (2652959950).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Agartala%20Palace%2C%20Tripura%20%282652959950%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2047,6 +2201,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Agartala%20Palace%2C%20Tripura%20%282652959950%29.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2110,6 +2268,12 @@
         "text": "A Wikimedia Commons file, Flag of Tripura State.png, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Tripura_State.png"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Coat of Arms of Tripura Princely State.gif.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Tripura%20Princely%20State.gif"
       }
     ],
     "missing_themes": [
@@ -2127,6 +2291,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Flag_of_Tripura_State.png",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Tripura%20Princely%20State.gif",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2162,6 +2330,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.50889 N, 91.49806 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Idol of Tripura Sundari.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Idol%20of%20Tripura%20Sundari.JPG"
       }
     ],
     "missing_themes": [
@@ -2171,7 +2345,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Idol%20of%20Tripura%20Sundari.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "trishna-wildlife-sanctuary-tripura",
@@ -2208,6 +2388,12 @@
         "text": "A Wikimedia Commons file, Indian Bison Gobo.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Indian_Bison_Gobo.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 2-capped-langur-trishna-wildlife-sanctuary-tripura-state-sylvain-cordier-natureplcom.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:2-capped-langur-trishna-wildlife-sanctuary-tripura-state-sylvain-cordier-natureplcom.jpg"
       }
     ],
     "missing_themes": [
@@ -2226,6 +2412,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Indian_Bison_Gobo.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:2-capped-langur-trishna-wildlife-sanctuary-tripura-state-sylvain-cordier-natureplcom.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2313,6 +2503,12 @@
         "text": "Tripura Tourism places the palace in Agartala, West Tripura, in the heart of the city.",
         "basis": "cited-source",
         "source": "https://tripuratourism.gov.in/single-tour.php?id=1"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Agartala Palace, Tripura (2652959950).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Agartala%20Palace%2C%20Tripura%20%282652959950%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2334,6 +2530,10 @@
       {
         "url": "https://tripuratourism.gov.in/single-tour.php?id=1",
         "publisher": "tripuratourism.gov.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Agartala%20Palace%2C%20Tripura%20%282652959950%29.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ],
     "photos": [
@@ -2414,6 +2614,12 @@
         "text": "The state page calls Kailashahar the headquarters of North Tripura. The catalog fact already says Unakoti district, and that placement is kept.",
         "basis": "cited-source",
         "source": "https://tripuratourism.gov.in/single-tour.php?id=3"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chocolate Royal Unakoti Tripura 2009 11 18 9 70 (4419449783).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chocolate%20Royal%20Unakoti%20Tripura%202009%2011%2018%209%2070%20%284419449783%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2434,6 +2640,10 @@
       {
         "url": "https://tripuratourism.gov.in/single-tour.php?id=3",
         "publisher": "tripuratourism.gov.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chocolate%20Royal%20Unakoti%20Tripura%202009%2011%2018%209%2070%20%284419449783%29.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ],
     "photos": [

@@ -90,6 +90,12 @@
         "text": "A Wikimedia Commons file, Chümoukedima District Office Complex.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%BCmoukedima_District_Office_Complex.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chümoukedima District Office Complex.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%BCmoukedima%20District%20Office%20Complex.jpg"
       }
     ],
     "missing_themes": [
@@ -106,6 +112,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Ch%C3%BCmoukedima_District_Office_Complex.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ch%C3%BCmoukedima%20District%20Office%20Complex.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -198,6 +208,12 @@
         "text": "A Wikimedia Commons file, Dimapur Town.jpeg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Dimapur_Town.jpeg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Jain Temple Dimapur.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Jain%20Temple%20Dimapur.png"
       }
     ],
     "missing_themes": [
@@ -215,6 +231,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Dimapur_Town.jpeg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Jain%20Temple%20Dimapur.png",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -255,6 +275,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.90430 N, 93.72530 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dimapur Kalibari Temple.jpeg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dimapur%20Kalibari%20Temple.jpeg"
       }
     ],
     "missing_themes": [
@@ -263,7 +289,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dimapur%20Kalibari%20Temple.jpeg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "dzukou-valley-nagaland",
@@ -324,6 +356,12 @@
         "text": "A Wikimedia Commons file, Breathtaking beauty of Dzukou Valley in Manipur-Nagaland border (edit).jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A site of Dzukou Valley, located in Manipur-Nagaland border.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20site%20of%20Dzukou%20Valley%2C%20located%20in%20Manipur-Nagaland%20border.jpg"
       }
     ],
     "missing_themes": [
@@ -344,6 +382,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20site%20of%20Dzukou%20Valley%2C%20located%20in%20Manipur-Nagaland%20border.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -471,6 +513,12 @@
         "text": "A Wikimedia Commons file, Hornbill Festival, Pix by Vikramjit Kakati.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Hornbill%20Festival%2C%20Pix%20by%20Vikramjit%20Kakati.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Great hornbills - pride of Nagaland.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Great%20hornbills%20-%20pride%20of%20Nagaland.jpg"
       }
     ],
     "missing_themes": [
@@ -494,6 +542,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Hornbill%20Festival%2C%20Pix%20by%20Vikramjit%20Kakati.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Great%20hornbills%20-%20pride%20of%20Nagaland.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -542,6 +594,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Eurasian Treesparrow Khonoma Nagaland India 05.11.2016.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Eurasian%20Treesparrow%20Khonoma%20Nagaland%20India%2005.11.2016.jpg"
       }
     ],
     "missing_themes": [
@@ -560,6 +618,10 @@
       {
         "url": "https://tourism.nagaland.gov.in/khonoma-village/",
         "publisher": "tourism.nagaland.gov.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Eurasian%20Treesparrow%20Khonoma%20Nagaland%20India%2005.11.2016.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -604,6 +666,12 @@
         "text": "Wikidata's short description is: Indian conservation reserve.",
         "basis": "cited-source",
         "source": "https://www.wikidata.org/wiki/Q28173945"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Khonoma Nature Conservation & Tragopan Sanctuary, Kohima, Nagaland.jpeg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Khonoma%20Nature%20Conservation%20%26%20Tragopan%20Sanctuary%2C%20Kohima%2C%20Nagaland.jpeg"
       }
     ],
     "missing_themes": [
@@ -620,6 +688,10 @@
       {
         "url": "https://www.wikidata.org/wiki/Q28173945",
         "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Khonoma%20Nature%20Conservation%20%26%20Tragopan%20Sanctuary%2C%20Kohima%2C%20Nagaland.jpeg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -705,6 +777,12 @@
         "text": "A Wikimedia Commons file, Kigwema .jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Kigwema_.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Sato Kigwema 20231216 123508.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sato%20Kigwema%2020231216%20123508.jpg"
       }
     ],
     "missing_themes": [
@@ -722,6 +800,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Kigwema_.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sato%20Kigwema%2020231216%20123508.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -769,6 +851,12 @@
         "text": "A Wikimedia Commons file, KABA 2.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:KABA_2.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kohima War Cemetery (2024).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kohima%20War%20Cemetery%20%282024%29.jpg"
       }
     ],
     "missing_themes": [
@@ -786,6 +874,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:KABA_2.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kohima%20War%20Cemetery%20%282024%29.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -839,6 +931,12 @@
         "text": "A Wikimedia Commons file, Capital Cultural Hall.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Capital_Cultural_Hall.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kohima Jain Temple.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kohima%20Jain%20Temple.jpg"
       }
     ],
     "missing_themes": [
@@ -856,6 +954,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Capital_Cultural_Hall.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kohima%20Jain%20Temple.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1036,6 +1138,12 @@
         "text": "A Wikimedia Commons file, Kapamodzu.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Kapamodzu.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kohima Nagaland India (cropped).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kohima%20Nagaland%20India%20%28cropped%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1052,6 +1160,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Kapamodzu.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kohima%20Nagaland%20India%20%28cropped%29.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1100,6 +1212,12 @@
         "theme": "suggested-duration",
         "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kohima War Cemetery,Nagaland.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kohima%20War%20Cemetery%2CNagaland.jpg"
       }
     ],
     "missing_themes": [
@@ -1118,6 +1236,10 @@
       {
         "url": "https://tourism.nagaland.gov.in/",
         "publisher": "tourism.nagaland.gov.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kohima%20War%20Cemetery%2CNagaland.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -1150,6 +1272,12 @@
         "text": "Wikidata's short description is: natural Lake in Phek District, Nagaland.",
         "basis": "cited-source",
         "source": "https://www.wikidata.org/wiki/Q108841202"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Shilloi lake Phek Nagaland.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Shilloi%20lake%20Phek%20Nagaland.jpg"
       }
     ],
     "missing_themes": [
@@ -1165,6 +1293,10 @@
       {
         "url": "https://www.wikidata.org/wiki/Q108841202",
         "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Shilloi%20lake%20Phek%20Nagaland.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -1244,6 +1376,12 @@
         "text": "Wikidata's short description is: village in Nagaland, India.",
         "basis": "cited-source",
         "source": "https://www.wikidata.org/wiki/Q6674041"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Longkhum Village at dawn.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Longkhum%20Village%20at%20dawn.jpg"
       }
     ],
     "missing_themes": [
@@ -1259,6 +1397,10 @@
       {
         "url": "https://www.wikidata.org/wiki/Q6674041",
         "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Longkhum%20Village%20at%20dawn.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -1341,6 +1483,12 @@
         "text": "A Wikimedia Commons file, Mary Help of Christians Cathedral Kohima.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Mary_Help_of_Christians_Cathedral_Kohima.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mary Help of Christians Cathedral Kohima.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mary%20Help%20of%20Christians%20Cathedral%20Kohima.jpg"
       }
     ],
     "missing_themes": [
@@ -1357,6 +1505,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Mary_Help_of_Christians_Cathedral_Kohima.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mary%20Help%20of%20Christians%20Cathedral%20Kohima.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1442,6 +1594,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Memorial of G.H. Damant.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Memorial%20of%20G.H.%20Damant.jpg"
       }
     ],
     "missing_themes": [
@@ -1451,7 +1609,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Memorial%20of%20G.H.%20Damant.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ministers-hill-baptist-church-nagaland",
@@ -1659,6 +1823,12 @@
         "text": "A Wikimedia Commons file, ECS Longpang.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:ECS_Longpang.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Hornbill Festival of Nagaland.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Hornbill%20Festival%20of%20Nagaland.jpg"
       }
     ],
     "missing_themes": [
@@ -1676,6 +1846,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:ECS_Longpang.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Hornbill%20Festival%20of%20Nagaland.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1734,6 +1908,12 @@
         "text": "A Wikimedia Commons file, Kohima State Museum.jpeg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Kohima_State_Museum.jpeg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kohima State Museum.jpeg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kohima%20State%20Museum.jpeg"
       }
     ],
     "missing_themes": [
@@ -1752,6 +1932,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Kohima_State_Museum.jpeg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kohima%20State%20Museum.jpeg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1804,6 +1988,12 @@
         "text": "Wikidata's short description is: zoo in India.",
         "basis": "cited-source",
         "source": "https://www.wikidata.org/wiki/Q47462824"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Great Indian Hornbill at Nagaland Zoological park.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Great%20Indian%20Hornbill%20at%20Nagaland%20Zoological%20park.jpg"
       }
     ],
     "missing_themes": [
@@ -1817,6 +2007,10 @@
       {
         "url": "https://www.wikidata.org/wiki/Q47462824",
         "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Great%20Indian%20Hornbill%20at%20Nagaland%20Zoological%20park.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -2032,6 +2226,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kachari Ruins, Dimapur, Nagaland.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kachari%20Ruins%2C%20Dimapur%2C%20Nagaland.jpg"
       }
     ],
     "missing_themes": [
@@ -2041,7 +2241,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kachari%20Ruins%2C%20Dimapur%2C%20Nagaland.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sakhrie-park-nagaland",
@@ -2317,6 +2523,12 @@
         "text": "A Wikimedia Commons file, Centre Point Zunheboto (cropped).jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Centre_Point_Zunheboto_%28cropped%29.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Centre Point Zunheboto (cropped).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Centre%20Point%20Zunheboto%20%28cropped%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2334,6 +2546,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Centre_Point_Zunheboto_%28cropped%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Centre%20Point%20Zunheboto%20%28cropped%29.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],

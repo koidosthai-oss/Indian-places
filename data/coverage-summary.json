@@ -44,7 +44,9 @@
         "183 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 214
+      "overlay_places": 214,
+      "with_picture_references": 113,
+      "picture_reference_percent": 52.8
     },
     {
       "state": "Andhra Pradesh",
@@ -80,7 +82,9 @@
         "2763 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 3267
+      "overlay_places": 3267,
+      "with_picture_references": 13,
+      "picture_reference_percent": 0.4
     },
     {
       "state": "Arunachal Pradesh",
@@ -113,7 +117,9 @@
         "98 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 128
+      "overlay_places": 128,
+      "with_picture_references": 36,
+      "picture_reference_percent": 28.1
     },
     {
       "state": "Assam",
@@ -148,7 +154,9 @@
         "211 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 363
+      "overlay_places": 363,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Bihar",
@@ -183,7 +191,9 @@
         "459 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 677
+      "overlay_places": 677,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Chandigarh",
@@ -213,7 +223,9 @@
         "26 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 26
+      "overlay_places": 26,
+      "with_picture_references": 23,
+      "picture_reference_percent": 88.5
     },
     {
       "state": "Chhattisgarh",
@@ -248,7 +260,9 @@
         "1223 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 1343
+      "overlay_places": 1343,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Dadra and Nagar Haveli and Daman and Diu",
@@ -279,7 +293,9 @@
         "12 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 29
+      "overlay_places": 29,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Delhi",
@@ -314,7 +330,9 @@
         "253 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 541
+      "overlay_places": 541,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Goa",
@@ -349,7 +367,9 @@
         "135 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 324
+      "overlay_places": 324,
+      "with_picture_references": 228,
+      "picture_reference_percent": 70.4
     },
     {
       "state": "Gujarat",
@@ -385,7 +405,9 @@
         "798 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 1290
+      "overlay_places": 1290,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Haryana",
@@ -419,7 +441,9 @@
         "268 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 451
+      "overlay_places": 451,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Himachal Pradesh",
@@ -454,7 +478,9 @@
         "1383 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 1547
+      "overlay_places": 1547,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Jammu and Kashmir",
@@ -489,7 +515,9 @@
         "2139 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 2325
+      "overlay_places": 2325,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Jharkhand",
@@ -524,7 +552,9 @@
         "1006 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 1059
+      "overlay_places": 1059,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Karnataka",
@@ -560,7 +590,9 @@
         "2470 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 3694
+      "overlay_places": 3694,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Kerala",
@@ -596,7 +628,9 @@
         "2286 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 3186
+      "overlay_places": 3186,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Ladakh",
@@ -631,7 +665,9 @@
         "314 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 384
+      "overlay_places": 384,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Lakshadweep",
@@ -661,7 +697,9 @@
         "35 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 35
+      "overlay_places": 35,
+      "with_picture_references": 15,
+      "picture_reference_percent": 42.9
     },
     {
       "state": "Madhya Pradesh",
@@ -696,7 +734,9 @@
         "1939 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 2690
+      "overlay_places": 2690,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Maharashtra",
@@ -732,7 +772,9 @@
         "1735 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 2478
+      "overlay_places": 2478,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Manipur",
@@ -767,7 +809,9 @@
         "79 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 151
+      "overlay_places": 151,
+      "with_picture_references": 59,
+      "picture_reference_percent": 39.1
     },
     {
       "state": "Meghalaya",
@@ -800,7 +844,9 @@
         "38 places have no usable district in their facts."
       ],
       "enriched_places": 47,
-      "overlay_places": 68
+      "overlay_places": 68,
+      "with_picture_references": 48,
+      "picture_reference_percent": 70.6
     },
     {
       "state": "Mizoram",
@@ -832,7 +878,9 @@
         "83 places have no usable district in their facts."
       ],
       "enriched_places": 33,
-      "overlay_places": 94
+      "overlay_places": 94,
+      "with_picture_references": 25,
+      "picture_reference_percent": 26.6
     },
     {
       "state": "Nagaland",
@@ -865,7 +913,9 @@
         "22 places have no usable district in their facts."
       ],
       "enriched_places": 33,
-      "overlay_places": 44
+      "overlay_places": 44,
+      "with_picture_references": 21,
+      "picture_reference_percent": 47.7
     },
     {
       "state": "Odisha",
@@ -900,7 +950,9 @@
         "1845 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 2328
+      "overlay_places": 2328,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Puducherry",
@@ -932,7 +984,9 @@
         "38 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 59
+      "overlay_places": 59,
+      "with_picture_references": 32,
+      "picture_reference_percent": 54.2
     },
     {
       "state": "Punjab",
@@ -964,7 +1018,9 @@
         "195 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 406
+      "overlay_places": 406,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Rajasthan",
@@ -999,7 +1055,9 @@
         "974 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 1669
+      "overlay_places": 1669,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Sikkim",
@@ -1034,7 +1092,9 @@
         "126 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 195
+      "overlay_places": 195,
+      "with_picture_references": 85,
+      "picture_reference_percent": 43.6
     },
     {
       "state": "Tamil Nadu",
@@ -1070,7 +1130,9 @@
         "3314 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 4096
+      "overlay_places": 4096,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Telangana",
@@ -1104,7 +1166,9 @@
         "1093 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 1284
+      "overlay_places": 1284,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Tripura",
@@ -1134,7 +1198,9 @@
         "19 places have no usable district in their facts."
       ],
       "enriched_places": 29,
-      "overlay_places": 42
+      "overlay_places": 42,
+      "with_picture_references": 20,
+      "picture_reference_percent": 47.6
     },
     {
       "state": "Uttar Pradesh",
@@ -1169,7 +1235,9 @@
         "2505 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 3090
+      "overlay_places": 3090,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "Uttarakhand",
@@ -1204,7 +1272,9 @@
         "866 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 944
+      "overlay_places": 944,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     },
     {
       "state": "West Bengal",
@@ -1240,9 +1310,13 @@
         "310 places have no usable district in their facts."
       ],
       "enriched_places": 0,
-      "overlay_places": 972
+      "overlay_places": 972,
+      "with_picture_references": 0,
+      "picture_reference_percent": 0.0
     }
   ],
   "enriched_places": 142,
-  "enriched_percent": 0.3
+  "enriched_percent": 0.3,
+  "with_picture_references": 718,
+  "picture_reference_percent": 1.7
 }

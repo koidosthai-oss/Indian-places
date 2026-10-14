@@ -42,6 +42,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.86667 N, 72.19722 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Agatti Island, Lakshadweep, India 20160325- DSC1718.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Agatti%20Island%2C%20Lakshadweep%2C%20India%2020160325-%20DSC1718.jpg"
       }
     ],
     "missing_themes": [
@@ -51,7 +57,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Agatti%20Island%2C%20Lakshadweep%2C%20India%2020160325-%20DSC1718.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "amini-island-lakshadweep",
@@ -176,6 +188,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.93889 N, 72.28611 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bangaram-mother with child.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bangaram-mother%20with%20child.jpg"
       }
     ],
     "missing_themes": [
@@ -185,7 +203,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bangaram-mother%20with%20child.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bingaram-island-lakshadweep",
@@ -215,6 +239,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bangaram Island, Lakshadweep 20160325- DSC1780.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bangaram%20Island%2C%20Lakshadweep%2020160325-%20DSC1780.jpg"
       }
     ],
     "missing_themes": [
@@ -225,7 +255,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bangaram%20Island%2C%20Lakshadweep%2020160325-%20DSC1780.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bitra-lakshadweep",
@@ -506,6 +542,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A beach side resort at Kadmat Island, Lakshadweep.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20beach%20side%20resort%20at%20Kadmat%20Island%2C%20Lakshadweep.jpg"
       }
     ],
     "missing_themes": [
@@ -516,7 +558,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20beach%20side%20resort%20at%20Kadmat%20Island%2C%20Lakshadweep.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kadmat-island-lakshadweep",
@@ -551,6 +599,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.23000 N, 72.78000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A beach side resort at Kadmat Island, Lakshadweep.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20beach%20side%20resort%20at%20Kadmat%20Island%2C%20Lakshadweep.jpg"
       }
     ],
     "missing_themes": [
@@ -560,7 +614,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20beach%20side%20resort%20at%20Kadmat%20Island%2C%20Lakshadweep.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kalpati-lakshadweep",
@@ -650,6 +710,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.06909 N, 73.64496 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kalpeni atoll of Lakshadweep .jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kalpeni%20atoll%20of%20Lakshadweep%20.jpg"
       }
     ],
     "missing_themes": [
@@ -659,7 +725,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kalpeni%20atoll%20of%20Lakshadweep%20.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kalputhi-island-lakshadweep",
@@ -744,6 +816,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.56667 N, 72.63889 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A beach at Kavaratti, Lakshadweep.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20beach%20at%20Kavaratti%2C%20Lakshadweep.jpg"
       }
     ],
     "missing_themes": [
@@ -753,7 +831,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20beach%20at%20Kavaratti%2C%20Lakshadweep.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kiltan-lakshadweep",
@@ -857,6 +941,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 8.26933 N, 73.02604 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lighthouse worms eye.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lighthouse%20worms%20eye.jpg"
       }
     ],
     "missing_themes": [
@@ -865,7 +955,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lighthouse%20worms%20eye.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "minicoy-lakshadweep",
@@ -905,6 +1001,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 8.27500 N, 73.05278 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Minicoy - मलिक - މަލިކު.svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Minicoy%20-%20%E0%A4%AE%E0%A4%B2%E0%A4%BF%E0%A4%95%20-%20%DE%89%DE%A6%DE%8D%DE%A8%DE%86%DE%AA.svg"
       }
     ],
     "missing_themes": [
@@ -914,7 +1016,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Minicoy%20-%20%E0%A4%AE%E0%A4%B2%E0%A4%BF%E0%A4%95%20-%20%DE%89%DE%A6%DE%8D%DE%A8%DE%86%DE%AA.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "minicoy-lighthouse-lakshadweep",
@@ -944,6 +1052,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lighthouse worms eye.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lighthouse%20worms%20eye.jpg"
       }
     ],
     "missing_themes": [
@@ -954,7 +1068,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lighthouse%20worms%20eye.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "minicoy-thundi-beach-lakshadweep",
@@ -984,6 +1104,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Traveller Rudolph.A.Furtado at Thundi Beach on Minicoy Island.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Traveller%20Rudolph.A.Furtado%20at%20Thundi%20Beach%20on%20Minicoy%20Island.jpg"
       }
     ],
     "missing_themes": [
@@ -994,7 +1120,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Traveller%20Rudolph.A.Furtado%20at%20Thundi%20Beach%20on%20Minicoy%20Island.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mohidden-mosque-lakshadweep-lakshadweep",
@@ -1063,6 +1195,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lakshadweep Islands - NASA Earth Observatory.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lakshadweep%20Islands%20-%20NASA%20Earth%20Observatory.jpg"
       }
     ],
     "missing_themes": [
@@ -1073,7 +1211,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lakshadweep%20Islands%20-%20NASA%20Earth%20Observatory.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-islet-lakshadweep",
@@ -1357,6 +1501,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lakshadweep Islands - NASA Earth Observatory.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lakshadweep%20Islands%20-%20NASA%20Earth%20Observatory.jpg"
       }
     ],
     "missing_themes": [
@@ -1367,7 +1517,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lakshadweep%20Islands%20-%20NASA%20Earth%20Observatory.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "suheli-par-lakshadweep",
@@ -1491,6 +1647,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bangaram Island, Lakshadweep 20160325- DSC1780.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bangaram%20Island%2C%20Lakshadweep%2020160325-%20DSC1780.jpg"
       }
     ],
     "missing_themes": [
@@ -1501,7 +1663,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bangaram%20Island%2C%20Lakshadweep%2020160325-%20DSC1780.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "viringili-maliku-atoll-lakshadweep",
@@ -1551,6 +1719,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 8.27833 N, 73.01139 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Viringili.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Viringili.jpg"
       }
     ],
     "missing_themes": [
@@ -1560,7 +1734,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Viringili.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "wiringli-island-lakshadweep",

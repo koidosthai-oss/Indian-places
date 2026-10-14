@@ -22,6 +22,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.70750 N, 76.76111 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Burail fort, Chandigarh, India 01.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Burail%20fort%2C%20Chandigarh%2C%20India%2001.JPG"
       }
     ],
     "missing_themes": [
@@ -32,7 +38,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Burail%20fort%2C%20Chandigarh%2C%20India%2001.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chandi-mandir-chandigarh",
@@ -57,6 +69,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.73528 N, 76.79111 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chandi Mandir Railway Station Board.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandi%20Mandir%20Railway%20Station%20Board.jpg"
       }
     ],
     "missing_themes": [
@@ -67,7 +85,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chandi%20Mandir%20Railway%20Station%20Board.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chandigarh-bird-park-chandigarh",
@@ -92,6 +116,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.74861 N, 76.81028 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mahendra Chaudhary Zoological park, Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mahendra%20Chaudhary%20Zoological%20park%2C%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -102,7 +132,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mahendra%20Chaudhary%20Zoological%20park%2C%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chandigarh-capitol-complex-chandigarh",
@@ -142,6 +178,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.75917 N, 76.80472 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chandigarh Capitol Complex map OSM 2023.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandigarh%20Capitol%20Complex%20map%20OSM%202023.jpg"
       }
     ],
     "missing_themes": [
@@ -151,7 +193,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20Capitol%20Complex%20map%20OSM%202023.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chandigarh-golf-club-chandigarh",
@@ -176,6 +224,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.73610 N, 76.81610 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: The Chandigarh Golf Club.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:The%20Chandigarh%20Golf%20Club.jpg"
       }
     ],
     "missing_themes": [
@@ -186,7 +240,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:The%20Chandigarh%20Golf%20Club.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "dhanas-lake-chandigarh",
@@ -216,6 +276,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dhanas Lake, Chandigarh, India 05.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dhanas%20Lake%2C%20Chandigarh%2C%20India%2005.jpg"
       }
     ],
     "missing_themes": [
@@ -226,7 +292,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dhanas%20Lake%2C%20Chandigarh%2C%20India%2005.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gandhi-bhawan-chandigarh-chandigarh",
@@ -251,6 +323,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.76187 N, 76.77141 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gandhi Bhavan Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gandhi%20Bhavan%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -261,7 +339,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gandhi%20Bhavan%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "garden-of-silence-chandigarh",
@@ -286,6 +370,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.73850 N, 76.82967 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Garden of Silence, Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Garden%20of%20Silence%2C%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -296,7 +386,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Garden%20of%20Silence%2C%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "garden-of-springs-chandigarh-chandigarh",
@@ -321,6 +417,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.72300 N, 76.73600 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: PALM Garden Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:PALM%20Garden%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -331,7 +433,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:PALM%20Garden%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "government-museum-and-art-gallery-chandigarh-chandigarh",
@@ -361,6 +469,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.74888 N, 76.78742 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Museum in Chandigarh 03.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum%20in%20Chandigarh%2003.jpg"
       }
     ],
     "missing_themes": [
@@ -370,7 +484,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Museum%20in%20Chandigarh%2003.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "indian-air-force-heritage-museum-chandigarh-chandigarh",
@@ -475,6 +595,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Le Corbusier- the planner of Chandigarh (43554585864).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Le%20Corbusier-%20the%20planner%20of%20Chandigarh%20%2843554585864%29.jpg"
       }
     ],
     "missing_themes": [
@@ -485,7 +611,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Le%20Corbusier-%20the%20planner%20of%20Chandigarh%20%2843554585864%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "leisure-valley-chandigarh-chandigarh",
@@ -510,6 +642,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.75306 N, 76.79194 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cassia fistula at Leisure Valley Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cassia%20fistula%20at%20Leisure%20Valley%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -520,7 +658,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cassia%20fistula%20at%20Leisure%20Valley%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mahendra-chaudhary-zoological-park-chandigarh",
@@ -550,6 +694,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.60360 N, 76.79280 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mahendra Chaudhary Zoological park, Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mahendra%20Chaudhary%20Zoological%20park%2C%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -559,7 +709,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mahendra%20Chaudhary%20Zoological%20park%2C%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "manimajra-fort-chandigarh",
@@ -584,6 +740,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.43000 N, 76.50000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Fresco depicting a parade of Red Coats with musicians leading the infantry from Manimajra Fort.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Fresco%20depicting%20a%20parade%20of%20Red%20Coats%20with%20musicians%20leading%20the%20infantry%20from%20Manimajra%20Fort.jpg"
       }
     ],
     "missing_themes": [
@@ -594,7 +756,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fresco%20depicting%20a%20parade%20of%20Red%20Coats%20with%20musicians%20leading%20the%20infantry%20from%20Manimajra%20Fort.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "open-hand-monument-chandigarh",
@@ -644,6 +812,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.75900 N, 76.80740 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Open Hand Monument in Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Open%20Hand%20Monument%20in%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -652,7 +826,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Open%20Hand%20Monument%20in%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "palace-of-assembly-chandigarh",
@@ -692,6 +872,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.76111 N, 76.80306 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Assembly Building Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Assembly%20Building%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -700,7 +886,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Assembly%20Building%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "parrot-bird-sanctuary-chandigarh-chandigarh",
@@ -735,6 +927,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.72500 N, 76.77917 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: City bird Sanctuary, Chandigarh, India.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:City%20bird%20Sanctuary%2C%20Chandigarh%2C%20India.JPG"
       }
     ],
     "missing_themes": [
@@ -744,7 +942,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:City%20bird%20Sanctuary%2C%20Chandigarh%2C%20India.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rock-garden-of-chandigarh-chandigarh",
@@ -779,6 +983,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.75200 N, 76.80700 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Another sign about Nek Chand's Rock Garden, Chandigarh (29336131537).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Another%20sign%20about%20Nek%20Chand%27s%20Rock%20Garden%2C%20Chandigarh%20%2829336131537%29.jpg"
       }
     ],
     "missing_themes": [
@@ -788,7 +998,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Another%20sign%20about%20Nek%20Chand%27s%20Rock%20Garden%2C%20Chandigarh%20%2829336131537%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "secretariat-building-chandigarh-chandigarh",
@@ -838,6 +1054,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.76111 N, 76.80056 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chandigarh Secretariat.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandigarh%20Secretariat.jpg"
       }
     ],
     "missing_themes": [
@@ -846,7 +1068,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20Secretariat.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sukhna-interpretation-centre-chandigarh",
@@ -911,6 +1139,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.74029 N, 76.81894 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Panorama of Sukhna Lake, Chandigarh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Panorama%20of%20Sukhna%20Lake%2C%20Chandigarh.jpg"
       }
     ],
     "missing_themes": [
@@ -920,7 +1154,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Panorama%20of%20Sukhna%20Lake%2C%20Chandigarh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sukhna-wildlife-sanctuary-chandigarh",
@@ -955,6 +1195,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.77570 N, 76.85120 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Nature Trail, lake reserve forest, Sukhna Lake, Chandigarh 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Nature%20Trail%2C%20lake%20reserve%20forest%2C%20Sukhna%20Lake%2C%20Chandigarh%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -964,7 +1210,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Nature%20Trail%2C%20lake%20reserve%20forest%2C%20Sukhna%20Lake%2C%20Chandigarh%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "terraced-garden-chandigarh-chandigarh",
@@ -989,6 +1241,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.71444 N, 76.77167 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: East Garden House in the Terraced Garden, Luton Hoo (02).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:East%20Garden%20House%20in%20the%20Terraced%20Garden%2C%20Luton%20Hoo%20%2802%29.jpg"
       }
     ],
     "missing_themes": [
@@ -999,7 +1257,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:East%20Garden%20House%20in%20the%20Terraced%20Garden%2C%20Luton%20Hoo%20%2802%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "zakir-husain-rose-garden-chandigarh",
@@ -1024,6 +1288,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 30.74811 N, 76.78374 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chandigarh India Rose Garden 06.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandigarh%20India%20Rose%20Garden%2006.jpg"
       }
     ],
     "missing_themes": [
@@ -1034,6 +1304,12 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20India%20Rose%20Garden%2006.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   }
 ]

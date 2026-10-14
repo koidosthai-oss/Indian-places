@@ -1172,5 +1172,8 @@
   "next_collection_prompt": "Continue the India tourism catalog. Do not add coordinates or move a place to a different state or district. Collect the next round from open geographic and heritage sources for the thin files first: Meghalaya, Nagaland, Mizoram, Tripura, Manipur, Arunachal Pradesh, Sikkim, and the Andaman and Nicobar Islands. Prioritize offbeat villages, lesser-known temples, small hill spots, cave and waterfall approaches, and wildlife-reserve edges that are named but still missing from data/places. For places already listed, fill only the missing themes in data/enrichment-overlay (history, festival, local culture, food, access, and a place-specific season) when a source states them. Leave a gap when a source does not. Skip hotels, stations, and unnamed spots.",
   "enriched_places": 142,
   "enriched_percent": 0.3,
-  "harvest_note": "Cited harvest covered Meghalaya, Nagaland, Tripura, Mizoram. 142 places now have at least one cited visitor fact."
+  "harvest_note": "Cited harvest covered Meghalaya, Nagaland, Tripura, Mizoram. 142 places now have at least one cited visitor fact.",
+  "with_picture_references": 718,
+  "missing_picture_references": 40775,
+  "picture_note": "Picture references are Wikimedia Commons files whose API metadata names a free license. Places without such a file are left without an image entry."
 }

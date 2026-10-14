@@ -27,6 +27,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aayi Mandapam-5-bharathi park-pondicherry-India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aayi%20Mandapam-5-bharathi%20park-pondicherry-India.jpg"
       }
     ],
     "missing_themes": [
@@ -37,7 +43,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aayi%20Mandapam-5-bharathi%20park-pondicherry-India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "aayiram-kaliamman-temple-puducherry",
@@ -102,6 +114,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arikamedu, Puducherry, India (1).JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arikamedu%2C%20Puducherry%2C%20India%20%281%29.JPG"
       }
     ],
     "missing_themes": [
@@ -111,7 +129,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arikamedu%2C%20Puducherry%2C%20India%20%281%29.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arikamedu-puducherry",
@@ -141,6 +165,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.90267 N, 79.81993 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arikamedu, Puducherry, India (1).JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arikamedu%2C%20Puducherry%2C%20India%20%281%29.JPG"
       }
     ],
     "missing_themes": [
@@ -149,7 +179,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arikamedu%2C%20Puducherry%2C%20India%20%281%29.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bahour-lake-puducherry",
@@ -179,6 +215,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.82680 N, 79.73730 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bahour lake, Pondy IMG 4134.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bahour%20lake%2C%20Pondy%20IMG%204134.JPG"
       }
     ],
     "missing_themes": [
@@ -187,7 +229,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bahour%20lake%2C%20Pondy%20IMG%204134.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "basilica-of-the-sacred-heart-of-jesus-pondicherry-puducherry",
@@ -237,6 +285,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.92626 N, 79.82704 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Puducherry Sacred Heart Cathedral 1.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Puducherry%20Sacred%20Heart%20Cathedral%201.JPG"
       }
     ],
     "missing_themes": [
@@ -244,7 +298,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Puducherry%20Sacred%20Heart%20Cathedral%201.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "catholic-church-puducherry",
@@ -473,6 +533,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.93299 N, 79.83055 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Immaculate Conception Cathedral or Rue De La Cathedrale, at Heritage Town, Puducherry 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Immaculate%20Conception%20Cathedral%20or%20Rue%20De%20La%20Cathedrale%2C%20at%20Heritage%20Town%2C%20Puducherry%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -480,7 +546,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Immaculate%20Conception%20Cathedral%20or%20Rue%20De%20La%20Cathedrale%2C%20at%20Heritage%20Town%2C%20Puducherry%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kailasanathar-temple-karaikal-puducherry",
@@ -540,6 +612,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.91453 N, 79.75581 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kameeswarar temple (2).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kameeswarar%20temple%20%282%29.jpg"
       }
     ],
     "missing_themes": [
@@ -550,7 +628,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kameeswarar%20temple%20%282%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "karaikal-ammaiyar-temple-puducherry",
@@ -575,6 +659,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.92380 N, 79.83220 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ammaiyar temple.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ammaiyar%20temple.jpg"
       }
     ],
     "missing_themes": [
@@ -585,7 +675,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ammaiyar%20temple.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "karaikal-beach-puducherry",
@@ -610,6 +706,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.91800 N, 79.85300 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Id Serenity at Karaikal Beach.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Id%20Serenity%20at%20Karaikal%20Beach.jpg"
       }
     ],
     "missing_themes": [
@@ -620,7 +722,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Id%20Serenity%20at%20Karaikal%20Beach.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "karaikal-puducherry",
@@ -650,6 +758,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.93278 N, 79.83194 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: KaraikalSunset.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:KaraikalSunset.jpg"
       }
     ],
     "missing_themes": [
@@ -659,7 +773,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:KaraikalSunset.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "khuthbapalli-puducherry",
@@ -723,6 +843,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.93569 N, 79.83361 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gopuram (temple tower) of Manakula Vinayagar Temple.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gopuram%20%28temple%20tower%29%20of%20Manakula%20Vinayagar%20Temple.jpg"
       }
     ],
     "missing_themes": [
@@ -733,7 +859,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gopuram%20%28temple%20tower%29%20of%20Manakula%20Vinayagar%20Temple.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "meeran-mosque-puducherry",
@@ -881,6 +1013,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mulanathaswami Temple, Bahour, Puducherry, India 02.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mulanathaswami%20Temple%2C%20Bahour%2C%20Puducherry%2C%20India%2002.JPG"
       }
     ],
     "missing_themes": [
@@ -890,7 +1028,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mulanathaswami%20Temple%2C%20Bahour%2C%20Puducherry%2C%20India%2002.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nallambal-lake-puducherry",
@@ -955,6 +1099,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Swayambunathaswamy Temple, Nedungadu.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Swayambunathaswamy%20Temple%2C%20Nedungadu.jpg"
       }
     ],
     "missing_themes": [
@@ -965,7 +1115,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Swayambunathaswamy%20Temple%2C%20Nedungadu.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nithyakalyana-perumal-temple-karaikal-puducherry",
@@ -1068,6 +1224,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.93000 N, 79.83444 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Our Lady of Angels Church, Puducherry.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Our%20Lady%20of%20Angels%20Church%2C%20Puducherry.JPG"
       }
     ],
     "missing_themes": [
@@ -1076,7 +1238,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Our%20Lady%20of%20Angels%20Church%2C%20Puducherry.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "our-lady-of-lourdes-shrine-villianur-puducherry",
@@ -1116,6 +1284,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.91126 N, 79.76066 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Villianur, Puducherry, India - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Villianur%2C%20Puducherry%2C%20India%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -1123,7 +1297,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Villianur%2C%20Puducherry%2C%20India%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "oussudu-bird-sanctuary-puducherry",
@@ -1192,6 +1372,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.95500 N, 79.74500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: AAYI WATER RESERVOIR - PIPE CONNECTED TO OUSTERI.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:AAYI%20WATER%20RESERVOIR%20-%20PIPE%20CONNECTED%20TO%20OUSTERI.JPG"
       }
     ],
     "missing_themes": [
@@ -1201,7 +1387,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:AAYI%20WATER%20RESERVOIR%20-%20PIPE%20CONNECTED%20TO%20OUSTERI.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "panchanadisvara-temple-puducherry",
@@ -1231,6 +1423,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Panchanadisvara Temple,Thiruvandarkoil,Pondicherry,India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Panchanadisvara%20Temple%2CThiruvandarkoil%2CPondicherry%2CIndia.jpg"
       }
     ],
     "missing_themes": [
@@ -1240,7 +1438,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Panchanadisvara%20Temple%2CThiruvandarkoil%2CPondicherry%2CIndia.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "panchavatee-hanuman-temple-puducherry",
@@ -1310,6 +1514,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.93297 N, 79.83558 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Boardwalk of Pondicherry, with Gandhi monument.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Boardwalk%20of%20Pondicherry%2C%20with%20Gandhi%20monument.jpg"
       }
     ],
     "missing_themes": [
@@ -1318,7 +1528,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Boardwalk%20of%20Pondicherry%2C%20with%20Gandhi%20monument.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "pondicherry-puducherry",
@@ -1363,6 +1579,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.93000 N, 79.83000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Pondicherry, Puducherry, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Pondicherry%2C%20Puducherry%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -1372,7 +1594,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pondicherry%2C%20Puducherry%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "promenade-beach-puducherry",
@@ -1397,6 +1625,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.93250 N, 79.83580 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Pondicherry, Promenade Beach, Bay of Bengal, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Pondicherry%2C%20Promenade%20Beach%2C%20Bay%20of%20Bengal%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -1406,7 +1640,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pondicherry%2C%20Promenade%20Beach%2C%20Bay%20of%20Bengal%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "puducherry-museum-puducherry",
@@ -1436,6 +1676,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chandikesvara statue at Pondicherry Museum 11 (cropped).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandikesvara%20statue%20at%20Pondicherry%20Museum%2011%20%28cropped%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1446,7 +1692,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chandikesvara%20statue%20at%20Pondicherry%20Museum%2011%20%28cropped%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "puducherry-union-territory-puducherry",
@@ -1496,6 +1748,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: En-us-Puducherry.oga.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:En-us-Puducherry.oga"
       }
     ],
     "missing_themes": [
@@ -1504,7 +1762,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:En-us-Puducherry.oga",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rajacholeesvarar-temple-puducherry",
@@ -1640,6 +1904,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.93167 N, 79.79444 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andrews Church Pondicherry Our Lady of Presentation.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andrews%20Church%20Pondicherry%20Our%20Lady%20of%20Presentation.jpg"
       }
     ],
     "missing_themes": [
@@ -1649,7 +1919,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andrews%20Church%20Pondicherry%20Our%20Lady%20of%20Presentation.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sundaresvarar-temple-tiruvettakkudi-puducherry",
@@ -1710,6 +1986,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Swayambunathaswamy Temple, Nedungadu.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Swayambunathaswamy%20Temple%2C%20Nedungadu.jpg"
       }
     ],
     "missing_themes": [
@@ -1719,7 +2001,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Swayambunathaswamy%20Temple%2C%20Nedungadu.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "thanthondreeswarar-temple-nedungadu-puducherry",
@@ -1744,6 +2032,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.96760 N, 79.77140 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Swayambunathaswamy Temple, Nedungadu.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Swayambunathaswamy%20Temple%2C%20Nedungadu.jpg"
       }
     ],
     "missing_themes": [
@@ -1754,7 +2048,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Swayambunathaswamy%20Temple%2C%20Nedungadu.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "thirukundangudimahadeva-temple-puducherry",
@@ -1784,6 +2084,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Thirukundangudimahadeva Temple,Madagadipattu,Pondicherry 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Thirukundangudimahadeva%20Temple%2CMadagadipattu%2CPondicherry%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -1793,7 +2099,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Thirukundangudimahadeva%20Temple%2CMadagadipattu%2CPondicherry%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tirulokanathar-temple-thakkalur-puducherry",
@@ -1892,6 +2204,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: THIRUNALLAR SANISWARAN TEMPLE.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:THIRUNALLAR%20SANISWARAN%20TEMPLE.jpg"
       }
     ],
     "missing_themes": [
@@ -1902,7 +2220,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:THIRUNALLAR%20SANISWARAN%20TEMPLE.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tiruttelicheri-parvatheeswarar-temple-puducherry",
@@ -2002,6 +2326,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.91908 N, 79.65731 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Vadukeeswarar temple, Thirubuvanai (1).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Vadukeeswarar%20temple%2C%20Thirubuvanai%20%281%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2012,7 +2342,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Vadukeeswarar%20temple%2C%20Thirubuvanai%20%281%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "varadaraja-perumal-temple-puducherry",
@@ -2042,6 +2378,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Puducherry-Sri Varadaraja Perumal Temple-WUS02315.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Puducherry-Sri%20Varadaraja%20Perumal%20Temple-WUS02315.jpg"
       }
     ],
     "missing_themes": [
@@ -2051,7 +2393,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Puducherry-Sri%20Varadaraja%20Perumal%20Temple-WUS02315.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "varadharaja-perumal-temple-puducherry-puducherry",
@@ -2081,6 +2429,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.94083 N, 79.83000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kalatheeswarar Varadharaja Perumal temple, Puducherry (1).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kalatheeswarar%20Varadharaja%20Perumal%20temple%2C%20Puducherry%20%281%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2089,7 +2443,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kalatheeswarar%20Varadharaja%20Perumal%20temple%2C%20Puducherry%20%281%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "varadharajaperumal-temple-thirubuvanai-puducherry",
@@ -2124,6 +2484,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.92750 N, 79.64750 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Varadarajaperumal temple, Thirubuvanai, Puducherry, India (15).JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Varadarajaperumal%20temple%2C%20Thirubuvanai%2C%20Puducherry%2C%20India%20%2815%29.JPG"
       }
     ],
     "missing_themes": [
@@ -2132,7 +2498,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Varadarajaperumal%20temple%2C%20Thirubuvanai%2C%20Puducherry%2C%20India%20%2815%29.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "vedapureeswarar-temple-pondicherry-puducherry",
@@ -2192,6 +2564,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.91110 N, 79.79820 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Velrampet lake.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Velrampet%20lake.jpg"
       }
     ],
     "missing_themes": [
@@ -2202,7 +2580,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Velrampet%20lake.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "yanam-beach-puducherry",
