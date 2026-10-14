@@ -1173,7 +1173,7 @@
   "enriched_places": 142,
   "enriched_percent": 0.3,
   "harvest_note": "Cited harvest covered Meghalaya, Nagaland, Tripura, Mizoram. 142 places now have at least one cited visitor fact.",
-  "with_picture_references": 543,
-  "missing_picture_references": 40950,
+  "with_picture_references": 718,
+  "missing_picture_references": 40775,
   "picture_note": "Picture references are Wikimedia Commons files whose API metadata names a free license. Places without such a file are left without an image entry."
 }

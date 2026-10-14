@@ -1,0 +1,835 @@
+[
+  {
+    "id": "burail-fort-chandigarh",
+    "name": "Burail Fort",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Burail_fort%2C_Chandigarh%2C_India_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Burail fort, Chandigarh, India 01.JPG",
+        "caption": "Burail fort, Chandigarh, India 01.JPG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Burail%20fort%2C%20Chandigarh%2C%20India%2001.JPG",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Burail_fort%2C_Chandigarh%2C_India_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Burail fort, Chandigarh, India 02.JPG",
+        "caption": "Burail fort, Chandigarh, India 02.JPG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Burail%20fort%2C%20Chandigarh%2C%20India%2002.JPG",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Burail_fort%2C_Chandigarh%2C_India_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Burail fort, Chandigarh, India 03.JPG",
+        "caption": "Burail fort, Chandigarh, India 03.JPG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Burail%20fort%2C%20Chandigarh%2C%20India%2003.JPG",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Burail_fort%2C_Chandigarh%2C_India_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Burail fort, Chandigarh, India 05.JPG",
+        "caption": "Burail fort, Chandigarh, India 05.JPG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Burail%20fort%2C%20Chandigarh%2C%20India%2005.JPG",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Burail_fort%2C_Chandigarh%2C_India_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Burail fort, Chandigarh, India 06.JPG",
+        "caption": "Burail fort, Chandigarh, India 06.JPG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Burail%20fort%2C%20Chandigarh%2C%20India%2006.JPG",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "chandi-mandir-chandigarh",
+    "name": "Chandi Mandir",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Chandi_Mandir_Railway_Station_Board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandi Mandir Railway Station Board.jpg",
+        "caption": "Chandi Mandir Railway Station Board.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandi%20Mandir%20Railway%20Station%20Board.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chandi_Mandir_railway_station_-_Main_Structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandi Mandir railway station - Main Structure.jpg",
+        "caption": "Chandi Mandir railway station - Main Structure.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandi%20Mandir%20railway%20station%20-%20Main%20Structure.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Chandi_Mandir_railway_station_-_Platform_board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandi Mandir railway station - Platform board.jpg",
+        "caption": "Chandi Mandir railway station - Platform board.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandi%20Mandir%20railway%20station%20-%20Platform%20board.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Chandi_Mandir_railway_station_-_Train_list.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandi Mandir railway station - Train list.jpg",
+        "caption": "Chandi Mandir railway station - Train list.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandi%20Mandir%20railway%20station%20-%20Train%20list.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Chandi_mandir_railway_station_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandi mandir railway station front view.jpg",
+        "caption": "Chandi mandir railway station front view.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandi%20mandir%20railway%20station%20front%20view.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "chandigarh-bird-park-chandigarh",
+    "name": "Chandigarh Bird Park",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mahendra_Chaudhary_Zoological_park%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Mahendra Chaudhary Zoological park, Chandigarh.jpg",
+        "caption": "Mahendra Chaudhary Zoological park, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mahendra%20Chaudhary%20Zoological%20park%2C%20Chandigarh.jpg",
+        "license_note": "CC BY 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Oriental_Magpie_Robin%2C_leisure_valley_park_%2C_Chandigarh%2C_India_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Oriental Magpie Robin, leisure valley park , Chandigarh, India 01.JPG",
+        "caption": "Oriental Magpie Robin, leisure valley park , Chandigarh, India 01.JPG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Oriental%20Magpie%20Robin%2C%20leisure%20valley%20park%20%2C%20Chandigarh%2C%20India%2001.JPG",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sambar_deer_in_City_Forest_Park%2CChandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Sambar deer in City Forest Park,Chandigarh.jpg",
+        "caption": "Sambar deer in City Forest Park,Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sambar%20deer%20in%20City%20Forest%20Park%2CChandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/White-throated_fantail%2C_traffic_park_%2C_chandigarh%2C_Indiia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:White-throated fantail, traffic park , chandigarh, Indiia.jpg",
+        "caption": "White-throated fantail, traffic park , chandigarh, Indiia.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:White-throated%20fantail%2C%20traffic%20park%20%2C%20chandigarh%2C%20Indiia.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "chandigarh-capitol-complex-chandigarh",
+    "name": "Chandigarh Capitol Complex",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Chandigarh_Capitol_Complex_map_OSM_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandigarh Capitol Complex map OSM 2023.jpg",
+        "caption": "Chandigarh Capitol Complex map OSM 2023.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20Capitol%20Complex%20map%20OSM%202023.jpg",
+        "license_note": "CC BY-SA 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Open_Hand_monument_of_Chandigarh_Capitol_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Open Hand monument of Chandigarh Capitol Complex.jpg",
+        "caption": "Open Hand monument of Chandigarh Capitol Complex.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Open%20Hand%20monument%20of%20Chandigarh%20Capitol%20Complex.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Open_hand_monument_of_Chandigarh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Open hand monument of Chandigarh, India.jpg",
+        "caption": "Open hand monument of Chandigarh, India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Open%20hand%20monument%20of%20Chandigarh%2C%20India.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Palace_of_Assembly_Chandigarh_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Palace of Assembly Chandigarh 2006.jpg",
+        "caption": "Palace of Assembly Chandigarh 2006.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Palace%20of%20Assembly%20Chandigarh%202006.jpg",
+        "license_note": "CC BY-SA 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/View_of_Capital_complex_buildings_Le_Corbusier_centre_Chandigarh_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:View of Capital complex buildings Le Corbusier centre Chandigarh 07.jpg",
+        "caption": "View of Capital complex buildings Le Corbusier centre Chandigarh 07.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:View%20of%20Capital%20complex%20buildings%20Le%20Corbusier%20centre%20Chandigarh%2007.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "chandigarh-golf-club-chandigarh",
+    "name": "Chandigarh Golf Club",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/The_Chandigarh_Golf_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:The Chandigarh Golf Club.jpg",
+        "caption": "The Chandigarh Golf Club.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The%20Chandigarh%20Golf%20Club.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "dhanas-lake-chandigarh",
+    "name": "Dhanas Lake",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Dhanas_Lake%2C_Chandigarh%2C_India_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Dhanas Lake, Chandigarh, India 05.jpg",
+        "caption": "Dhanas Lake, Chandigarh, India 05.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dhanas%20Lake%2C%20Chandigarh%2C%20India%2005.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Migratory_birds_at_Dhanas_Lake%2C_Chandigarh%2CIndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Migratory birds at Dhanas Lake, Chandigarh,India.jpg",
+        "caption": "Migratory birds at Dhanas Lake, Chandigarh,India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Migratory%20birds%20at%20Dhanas%20Lake%2C%20Chandigarh%2CIndia.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Migratory_birds_at_Dhanas_Lake%2C_Chandigarh%2C_India_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Migratory birds at Dhanas Lake, Chandigarh, India 06.jpg",
+        "caption": "Migratory birds at Dhanas Lake, Chandigarh, India 06.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Migratory%20birds%20at%20Dhanas%20Lake%2C%20Chandigarh%2C%20India%2006.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Migratory_birds_at_Dhanas_Lake%2C_Chandigarh%2C_India_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Migratory birds at Dhanas Lake, Chandigarh, India 07.jpg",
+        "caption": "Migratory birds at Dhanas Lake, Chandigarh, India 07.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Migratory%20birds%20at%20Dhanas%20Lake%2C%20Chandigarh%2C%20India%2007.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Natural_Biodiversity_at_Dhanas_Lake%2C_Chandigarh%2C_India_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Natural Biodiversity at Dhanas Lake, Chandigarh, India 03.jpg",
+        "caption": "Natural Biodiversity at Dhanas Lake, Chandigarh, India 03.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Natural%20Biodiversity%20at%20Dhanas%20Lake%2C%20Chandigarh%2C%20India%2003.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "gandhi-bhawan-chandigarh-chandigarh",
+    "name": "Gandhi Bhawan, Chandigarh",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Gandhi_Bhavan_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Gandhi Bhavan Chandigarh.jpg",
+        "caption": "Gandhi Bhavan Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gandhi%20Bhavan%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gandhi_Bhawan%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Gandhi Bhawan, Chandigarh.jpg",
+        "caption": "Gandhi Bhawan, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gandhi%20Bhawan%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gandhi_Bhawan%2C_Chd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Gandhi Bhawan, Chd.jpg",
+        "caption": "Gandhi Bhawan, Chd.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gandhi%20Bhawan%2C%20Chd.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gandhi_Bhawan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Gandhi Bhawan.jpg",
+        "caption": "Gandhi Bhawan.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gandhi%20Bhawan.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Gandhi_Bhawan_at_Punjab_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Gandhi Bhawan at Punjab University.jpg",
+        "caption": "Gandhi Bhawan at Punjab University.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gandhi%20Bhawan%20at%20Punjab%20University.jpg",
+        "license_note": "CC BY-SA 2.0"
+      }
+    ]
+  },
+  {
+    "id": "garden-of-silence-chandigarh",
+    "name": "Garden of Silence",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Garden_of_Silence%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Garden of Silence, Chandigarh.jpg",
+        "caption": "Garden of Silence, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Garden%20of%20Silence%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Garden_of_Silence%2C_Sukhna_Lake%27s_Walking_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Garden of Silence, Sukhna Lake's Walking Way.jpg",
+        "caption": "Garden of Silence, Sukhna Lake's Walking Way.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Garden%20of%20Silence%2C%20Sukhna%20Lake%27s%20Walking%20Way.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Garden_of_silence.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Garden of silence.png",
+        "caption": "Garden of silence.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Garden%20of%20silence.png",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Silence.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Silence.png",
+        "caption": "Silence.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Silence.png",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "garden-of-springs-chandigarh-chandigarh",
+    "name": "Garden of Springs, Chandigarh",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/PALM_Garden_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:PALM Garden Chandigarh.jpg",
+        "caption": "PALM Garden Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:PALM%20Garden%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "government-museum-and-art-gallery-chandigarh-chandigarh",
+    "name": "Government Museum and Art Gallery, Chandigarh",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Museum_in_Chandigarh_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Museum in Chandigarh 03.jpg",
+        "caption": "Museum in Chandigarh 03.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Museum%20in%20Chandigarh%2003.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Museum_in_Chandigarh_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Museum in Chandigarh 05.jpg",
+        "caption": "Museum in Chandigarh 05.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Museum%20in%20Chandigarh%2005.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Museum_in_Chandigarh_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Museum in Chandigarh 06.jpg",
+        "caption": "Museum in Chandigarh 06.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Museum%20in%20Chandigarh%2006.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Padmavati_Chandigarh_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Padmavati Chandigarh Museum.jpg",
+        "caption": "Padmavati Chandigarh Museum.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Padmavati%20Chandigarh%20Museum.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Vishnu_figure_in_the_Chandigarh_art_museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Vishnu figure in the Chandigarh art museum 01.jpg",
+        "caption": "Vishnu figure in the Chandigarh art museum 01.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Vishnu%20figure%20in%20the%20Chandigarh%20art%20museum%2001.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "le-corbusier-centre-chandigarh",
+    "name": "Le Corbusier Centre",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Corbusier-_the_planner_of_Chandigarh_%2843554585864%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Le Corbusier- the planner of Chandigarh (43554585864).jpg",
+        "caption": "Le Corbusier- the planner of Chandigarh (43554585864).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Le%20Corbusier-%20the%20planner%20of%20Chandigarh%20%2843554585864%29.jpg",
+        "license_note": "CC BY 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Le_Corbusier_Centre%2C_Sector_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Le Corbusier Centre, Sector 19.jpg",
+        "caption": "Le Corbusier Centre, Sector 19.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Le%20Corbusier%20Centre%2C%20Sector%2019.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Le_Corbusier_moving_in_Chandigarh_%2Cphoto_at_Le_Corbusier_centre_Chandigarh_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Le Corbusier moving in Chandigarh ,photo at Le Corbusier centre Chandigarh 05.jpg",
+        "caption": "Le Corbusier moving in Chandigarh ,photo at Le Corbusier centre Chandigarh 05.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Le%20Corbusier%20moving%20in%20Chandigarh%20%2Cphoto%20at%20Le%20Corbusier%20centre%20Chandigarh%2005.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/View_of_Capital_complex_buildings_Le_Corbusier_centre_Chandigarh_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:View of Capital complex buildings Le Corbusier centre Chandigarh 07.jpg",
+        "caption": "View of Capital complex buildings Le Corbusier centre Chandigarh 07.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:View%20of%20Capital%20complex%20buildings%20Le%20Corbusier%20centre%20Chandigarh%2007.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/View_of_civil_secretariat_Chandigarh_file_photo_%2CLe_Corbusier_centre_Chandigarh_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:View of civil secretariat Chandigarh file photo ,Le Corbusier centre Chandigarh 08.jpg",
+        "caption": "View of civil secretariat Chandigarh file photo ,Le Corbusier centre Chandigarh 08.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:View%20of%20civil%20secretariat%20Chandigarh%20file%20photo%20%2CLe%20Corbusier%20centre%20Chandigarh%2008.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "leisure-valley-chandigarh-chandigarh",
+    "name": "Leisure Valley, Chandigarh",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cassia_fistula_at_Leisure_Valley_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Cassia fistula at Leisure Valley Chandigarh.jpg",
+        "caption": "Cassia fistula at Leisure Valley Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cassia%20fistula%20at%20Leisure%20Valley%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Leisure_valley%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Leisure valley, Chandigarh.jpg",
+        "caption": "Leisure valley, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Leisure%20valley%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Leisurevalleymarch2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Leisurevalleymarch2026.jpg",
+        "caption": "Leisurevalleymarch2026.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Leisurevalleymarch2026.jpg",
+        "license_note": "CC0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Peacock_at_Leisure_Valley%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Peacock at Leisure Valley, Chandigarh.jpg",
+        "caption": "Peacock at Leisure Valley, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Peacock%20at%20Leisure%20Valley%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wind_chimes_at_Leisure_Valley%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Wind chimes at Leisure Valley, Chandigarh.jpg",
+        "caption": "Wind chimes at Leisure Valley, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wind%20chimes%20at%20Leisure%20Valley%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "mahendra-chaudhary-zoological-park-chandigarh",
+    "name": "Mahendra Chaudhary Zoological Park",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mahendra_Chaudhary_Zoological_park%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Mahendra Chaudhary Zoological park, Chandigarh.jpg",
+        "caption": "Mahendra Chaudhary Zoological park, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mahendra%20Chaudhary%20Zoological%20park%2C%20Chandigarh.jpg",
+        "license_note": "CC BY 4.0"
+      }
+    ]
+  },
+  {
+    "id": "manimajra-fort-chandigarh",
+    "name": "Manimajra Fort",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Fresco_depicting_a_parade_of_Red_Coats_with_musicians_leading_the_infantry_from_Manimajra_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Fresco depicting a parade of Red Coats with musicians leading the infantry from Manimajra Fort.jpg",
+        "caption": "Fresco depicting a parade of Red Coats with musicians leading the infantry from Manimajra Fort.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fresco%20depicting%20a%20parade%20of%20Red%20Coats%20with%20musicians%20leading%20the%20infantry%20from%20Manimajra%20Fort.jpg",
+        "license_note": "Public domain"
+      }
+    ]
+  },
+  {
+    "id": "open-hand-monument-chandigarh",
+    "name": "Open Hand Monument",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Open_Hand_Monument_in_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Open Hand Monument in Chandigarh.jpg",
+        "caption": "Open Hand Monument in Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Open%20Hand%20Monument%20in%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 3.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Open Hand monument, Chandigarh.jpg",
+        "caption": "Open Hand monument, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Open%20Hand%20monument%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Open_Hand_monument%2C_Chandigarh_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Open Hand monument, Chandigarh (cropped).jpg",
+        "caption": "Open Hand monument, Chandigarh (cropped).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Open%20Hand%20monument%2C%20Chandigarh%20%28cropped%29.jpg",
+        "license_note": "CC BY-SA 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Open_hand_monument_of_Chandigarh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Open hand monument of Chandigarh, India.jpg",
+        "caption": "Open hand monument of Chandigarh, India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Open%20hand%20monument%20of%20Chandigarh%2C%20India.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_open_palm_is_the_very_symbol_of_Chandigarh_%2830405051708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:The open palm is the very symbol of Chandigarh (30405051708).jpg",
+        "caption": "The open palm is the very symbol of Chandigarh (30405051708).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The%20open%20palm%20is%20the%20very%20symbol%20of%20Chandigarh%20%2830405051708%29.jpg",
+        "license_note": "CC BY 2.0"
+      }
+    ]
+  },
+  {
+    "id": "palace-of-assembly-chandigarh",
+    "name": "Palace of Assembly",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Assembly_Building_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Assembly Building Chandigarh.jpg",
+        "caption": "Assembly Building Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Assembly%20Building%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 3.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Chandigarh_Assembly_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandigarh Assembly Hall.jpg",
+        "caption": "Chandigarh Assembly Hall.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20Assembly%20Hall.jpg",
+        "license_note": "CC BY 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Palace_of_Assembly_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Palace of Assembly Chandigarh.jpg",
+        "caption": "Palace of Assembly Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Palace%20of%20Assembly%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Palace_of_Assembly_Chandigarh_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Palace of Assembly Chandigarh 2006.jpg",
+        "caption": "Palace of Assembly Chandigarh 2006.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Palace%20of%20Assembly%20Chandigarh%202006.jpg",
+        "license_note": "CC BY-SA 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Palace_of_Assembly_Chandigarh_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Palace of Assembly Chandigarh 2007.jpg",
+        "caption": "Palace of Assembly Chandigarh 2007.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Palace%20of%20Assembly%20Chandigarh%202007.jpg",
+        "license_note": "CC BY-SA 2.0"
+      }
+    ]
+  },
+  {
+    "id": "parrot-bird-sanctuary-chandigarh-chandigarh",
+    "name": "Parrot Bird Sanctuary, Chandigarh",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/City_bird_Sanctuary%2C_Chandigarh%2C_India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:City bird Sanctuary, Chandigarh, India.JPG",
+        "caption": "City bird Sanctuary, Chandigarh, India.JPG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:City%20bird%20Sanctuary%2C%20Chandigarh%2C%20India.JPG",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flock_of_parrots%2C_Parrot_bird_sanctuary%2C_Chandigarh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Flock of parrots, Parrot bird sanctuary, Chandigarh, India.jpg",
+        "caption": "Flock of parrots, Parrot bird sanctuary, Chandigarh, India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Flock%20of%20parrots%2C%20Parrot%20bird%20sanctuary%2C%20Chandigarh%2C%20India.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Parrot_between_two_branches_at_city_bird_sanctuary%2C_Chandigarh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Parrot between two branches at city bird sanctuary, Chandigarh, India.jpg",
+        "caption": "Parrot between two branches at city bird sanctuary, Chandigarh, India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parrot%20between%20two%20branches%20at%20city%20bird%20sanctuary%2C%20Chandigarh%2C%20India.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Parrots_flock_%2C_City_bird_sanctuary%2C_Chandigarh%2C.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Parrots flock , City bird sanctuary, Chandigarh,.JPG",
+        "caption": "Parrots flock , City bird sanctuary, Chandigarh,.JPG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Parrots%20flock%20%2C%20City%20bird%20sanctuary%2C%20Chandigarh%2C.JPG",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Two_parrots_at_parrot_bird_sanctuary%2C_Chandigarh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Two parrots at parrot bird sanctuary, Chandigarh, India.jpg",
+        "caption": "Two parrots at parrot bird sanctuary, Chandigarh, India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Two%20parrots%20at%20parrot%20bird%20sanctuary%2C%20Chandigarh%2C%20India.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "rock-garden-of-chandigarh-chandigarh",
+    "name": "Rock Garden of Chandigarh",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Another_sign_about_Nek_Chand%27s_Rock_Garden%2C_Chandigarh_%2829336131537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Another sign about Nek Chand's Rock Garden, Chandigarh (29336131537).jpg",
+        "caption": "Another sign about Nek Chand's Rock Garden, Chandigarh (29336131537).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Another%20sign%20about%20Nek%20Chand%27s%20Rock%20Garden%2C%20Chandigarh%20%2829336131537%29.jpg",
+        "license_note": "CC BY 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rock_Garden%2C_Chandigarh_114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Rock Garden, Chandigarh 114.jpg",
+        "caption": "Rock Garden, Chandigarh 114.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rock%20Garden%2C%20Chandigarh%20114.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rock_Garden_Memory_Stone%2C_Chandigarh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Rock Garden Memory Stone, Chandigarh, India.jpg",
+        "caption": "Rock Garden Memory Stone, Chandigarh, India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rock%20Garden%20Memory%20Stone%2C%20Chandigarh%2C%20India.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rock_Garden_of_Chandigarh_20180907_172335.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Rock Garden of Chandigarh 20180907 172335.jpg",
+        "caption": "Rock Garden of Chandigarh 20180907 172335.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rock%20Garden%20of%20Chandigarh%2020180907%20172335.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "secretariat-building-chandigarh-chandigarh",
+    "name": "Secretariat Building, Chandigarh",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Chandigarh_Secretariat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandigarh Secretariat.jpg",
+        "caption": "Chandigarh Secretariat.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20Secretariat.jpg",
+        "license_note": "CC BY 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Secretariat_building_and_Palace_of_Assembly_%2Cpart_of_the_Capitol_Complex_%2CChandigarh_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Secretariat building and Palace of Assembly ,part of the Capitol Complex ,Chandigarh 01.jpg",
+        "caption": "Secretariat building and Palace of Assembly ,part of the Capitol Complex ,Chandigarh 01.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Secretariat%20building%20and%20Palace%20of%20Assembly%20%2Cpart%20of%20the%20Capitol%20Complex%20%2CChandigarh%2001.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/View_of_Capital_Complex_through_Barbed_Wire_-_Chandigarh_U.T._-_India_%2826504391125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:View of Capital Complex through Barbed Wire - Chandigarh U.T. - India (26504391125).jpg",
+        "caption": "View of Capital Complex through Barbed Wire - Chandigarh U.T. - India (26504391125).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:View%20of%20Capital%20Complex%20through%20Barbed%20Wire%20-%20Chandigarh%20U.T.%20-%20India%20%2826504391125%29.jpg",
+        "license_note": "CC BY-SA 2.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/View_of_Capital_complex_buildings_Le_Corbusier_centre_Chandigarh_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:View of Capital complex buildings Le Corbusier centre Chandigarh 07.jpg",
+        "caption": "View of Capital complex buildings Le Corbusier centre Chandigarh 07.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:View%20of%20Capital%20complex%20buildings%20Le%20Corbusier%20centre%20Chandigarh%2007.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/View_of_civil_secretariat_Chandigarh_file_photo_%2CLe_Corbusier_centre_Chandigarh_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:View of civil secretariat Chandigarh file photo ,Le Corbusier centre Chandigarh 08.jpg",
+        "caption": "View of civil secretariat Chandigarh file photo ,Le Corbusier centre Chandigarh 08.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:View%20of%20civil%20secretariat%20Chandigarh%20file%20photo%20%2CLe%20Corbusier%20centre%20Chandigarh%2008.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "sukhna-lake-chandigarh",
+    "name": "Sukhna Lake",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Panorama_of_Sukhna_Lake%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Panorama of Sukhna Lake, Chandigarh.jpg",
+        "caption": "Panorama of Sukhna Lake, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Panorama%20of%20Sukhna%20Lake%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Shikara_-_Sukhna_Lake_-_Chandigarh_2016-08-07_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Shikara - Sukhna Lake - Chandigarh 2016-08-07 (edit).jpg",
+        "caption": "Shikara - Sukhna Lake - Chandigarh 2016-08-07 (edit).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Shikara%20-%20Sukhna%20Lake%20-%20Chandigarh%202016-08-07%20%28edit%29.jpg",
+        "license_note": "CC BY 3.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sukhna_Lake_Chandigarh_Evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Sukhna Lake Chandigarh Evening.jpg",
+        "caption": "Sukhna Lake Chandigarh Evening.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sukhna%20Lake%20Chandigarh%20Evening.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sukhna_Wildlife_Sanctuary%2C_Kansal_gate%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Sukhna Wildlife Sanctuary, Kansal gate, Chandigarh.jpg",
+        "caption": "Sukhna Wildlife Sanctuary, Kansal gate, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sukhna%20Wildlife%20Sanctuary%2C%20Kansal%20gate%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sunrise_over_Sukhna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Sunrise over Sukhna.jpg",
+        "caption": "Sunrise over Sukhna.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sunrise%20over%20Sukhna.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "sukhna-wildlife-sanctuary-chandigarh",
+    "name": "Sukhna Wildlife Sanctuary",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nature_Trail%2C_lake_reserve_forest%2C_Sukhna_Lake%2C_Chandigarh_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Nature Trail, lake reserve forest, Sukhna Lake, Chandigarh 01.jpg",
+        "caption": "Nature Trail, lake reserve forest, Sukhna Lake, Chandigarh 01.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nature%20Trail%2C%20lake%20reserve%20forest%2C%20Sukhna%20Lake%2C%20Chandigarh%2001.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Shivalik_hills_from_Sukhna_Lake_in_Chandigarh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Shivalik hills from Sukhna Lake in Chandigarh, India.jpg",
+        "caption": "Shivalik hills from Sukhna Lake in Chandigarh, India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Shivalik%20hills%20from%20Sukhna%20Lake%20in%20Chandigarh%2C%20India.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sukhna_Wildlife_Sanctuary%2C_Kansal_gate%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Sukhna Wildlife Sanctuary, Kansal gate, Chandigarh.jpg",
+        "caption": "Sukhna Wildlife Sanctuary, Kansal gate, Chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sukhna%20Wildlife%20Sanctuary%2C%20Kansal%20gate%2C%20Chandigarh.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Sukhna_gallery%2C_Chandigarh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Sukhna gallery, Chandigarh, India.jpg",
+        "caption": "Sukhna gallery, Chandigarh, India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sukhna%20gallery%2C%20Chandigarh%2C%20India.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sunrise_over_Sukhna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Sunrise over Sukhna.jpg",
+        "caption": "Sunrise over Sukhna.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sunrise%20over%20Sukhna.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "terraced-garden-chandigarh-chandigarh",
+    "name": "Terraced Garden, Chandigarh",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/East_Garden_House_in_the_Terraced_Garden%2C_Luton_Hoo_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:East Garden House in the Terraced Garden, Luton Hoo (02).jpg",
+        "caption": "East Garden House in the Terraced Garden, Luton Hoo (02).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:East%20Garden%20House%20in%20the%20Terraced%20Garden%2C%20Luton%20Hoo%20%2802%29.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/East_Garden_House_in_the_Terraced_Garden%2C_Luton_Hoo_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:East Garden House in the Terraced Garden, Luton Hoo (04).jpg",
+        "caption": "East Garden House in the Terraced Garden, Luton Hoo (04).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:East%20Garden%20House%20in%20the%20Terraced%20Garden%2C%20Luton%20Hoo%20%2804%29.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/West_Garden_House_in_the_Terraced_Garden%2C_Luton_Hoo_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:West Garden House in the Terraced Garden, Luton Hoo (02).jpg",
+        "caption": "West Garden House in the Terraced Garden, Luton Hoo (02).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:West%20Garden%20House%20in%20the%20Terraced%20Garden%2C%20Luton%20Hoo%20%2802%29.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/West_Garden_House_in_the_Terraced_Garden%2C_Luton_Hoo_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:West Garden House in the Terraced Garden, Luton Hoo (03).jpg",
+        "caption": "West Garden House in the Terraced Garden, Luton Hoo (03).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:West%20Garden%20House%20in%20the%20Terraced%20Garden%2C%20Luton%20Hoo%20%2803%29.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Yadvindra_garden_or_Pinjore_garden%2Cchandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Yadvindra garden or Pinjore garden,chandigarh.jpg",
+        "caption": "Yadvindra garden or Pinjore garden,chandigarh.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Yadvindra%20garden%20or%20Pinjore%20garden%2Cchandigarh.jpg",
+        "license_note": "CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "zakir-husain-rose-garden-chandigarh",
+    "name": "Zakir Husain Rose Garden",
+    "state": "Chandigarh",
+    "images": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Chandigarh_India_Rose_Garden_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandigarh India Rose Garden 06.jpg",
+        "caption": "Chandigarh India Rose Garden 06.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20India%20Rose%20Garden%2006.jpg",
+        "license_note": "CC BY 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Chandigarh_India_Rose_Garden_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandigarh India Rose Garden 09.jpg",
+        "caption": "Chandigarh India Rose Garden 09.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20India%20Rose%20Garden%2009.jpg",
+        "license_note": "CC BY 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Chandigarh_India_Rose_Garden_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Chandigarh India Rose Garden 10.jpg",
+        "caption": "Chandigarh India Rose Garden 10.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chandigarh%20India%20Rose%20Garden%2010.jpg",
+        "license_note": "CC BY 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Rose_Garden_%2CChandigarh%2CIndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Rose Garden ,Chandigarh,India.jpg",
+        "caption": "Rose Garden ,Chandigarh,India.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rose%20Garden%20%2CChandigarh%2CIndia.jpg",
+        "license_note": "CC BY-SA 4.0"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Rose_festival_-_2017_Chandigarh_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "title": "File:Rose festival - 2017 Chandigarh 01.jpg",
+        "caption": "Rose festival - 2017 Chandigarh 01.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rose%20festival%20-%202017%20Chandigarh%2001.jpg",
+        "license_note": "CC BY-SA 4.0"
+      }
+    ]
+  }
+]

@@ -83,8 +83,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 3267,
-      "with_picture_references": 0,
-      "picture_reference_percent": 0.0
+      "with_picture_references": 13,
+      "picture_reference_percent": 0.4
     },
     {
       "state": "Arunachal Pradesh",
@@ -224,8 +224,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 26,
-      "with_picture_references": 0,
-      "picture_reference_percent": 0.0
+      "with_picture_references": 23,
+      "picture_reference_percent": 88.5
     },
     {
       "state": "Chhattisgarh",
@@ -368,8 +368,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 324,
-      "with_picture_references": 136,
-      "picture_reference_percent": 42.0
+      "with_picture_references": 228,
+      "picture_reference_percent": 70.4
     },
     {
       "state": "Gujarat",
@@ -698,8 +698,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 35,
-      "with_picture_references": 0,
-      "picture_reference_percent": 0.0
+      "with_picture_references": 15,
+      "picture_reference_percent": 42.9
     },
     {
       "state": "Madhya Pradesh",
@@ -985,8 +985,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 59,
-      "with_picture_references": 0,
-      "picture_reference_percent": 0.0
+      "with_picture_references": 32,
+      "picture_reference_percent": 54.2
     },
     {
       "state": "Punjab",
@@ -1317,6 +1317,6 @@
   ],
   "enriched_places": 142,
   "enriched_percent": 0.3,
-  "with_picture_references": 543,
-  "picture_reference_percent": 1.3
+  "with_picture_references": 718,
+  "picture_reference_percent": 1.7
 }

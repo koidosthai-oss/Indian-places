@@ -184,6 +184,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Swayambhu Varasidhi Vinayaka Swamy Temple.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Swayambhu%20Varasidhi%20Vinayaka%20Swamy%20Temple.jpg"
       }
     ],
     "missing_themes": [
@@ -193,7 +199,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Swayambhu%20Varasidhi%20Vinayaka%20Swamy%20Temple.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "acharia-cheruvu-andhra-pradesh",
@@ -802,6 +814,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.63000 N, 77.28000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Legislative Assembly constituencies of Andhra Pradesh (146-Adoni highlighted).png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Legislative%20Assembly%20constituencies%20of%20Andhra%20Pradesh%20%28146-Adoni%20highlighted%29.png"
       }
     ],
     "missing_themes": [
@@ -811,7 +829,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Legislative%20Assembly%20constituencies%20of%20Andhra%20Pradesh%20%28146-Adoni%20highlighted%29.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "adula-metta-andhra-pradesh",
@@ -886,6 +910,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 16.47828 N, 81.94867 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adurru Buddhist mounds.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adurru%20Buddhist%20mounds.jpg"
       }
     ],
     "missing_themes": [
@@ -895,7 +925,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adurru%20Buddhist%20mounds.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "agasteswaraswamy-temple-br-15th-century-ad-andhra-pradesh",
@@ -1093,6 +1129,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.13111 N, 78.67497 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 16th century Lakshmi Narasimha temple, Lower Ahobilam, Andhra Pradesh India - 02.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:16th%20century%20Lakshmi%20Narasimha%20temple%2C%20Lower%20Ahobilam%2C%20Andhra%20Pradesh%20India%20-%2002.jpg"
       }
     ],
     "missing_themes": [
@@ -1102,7 +1144,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:16th%20century%20Lakshmi%20Narasimha%20temple%2C%20Lower%20Ahobilam%2C%20Andhra%20Pradesh%20India%20-%2002.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "aipanu-bodu-andhra-pradesh",
@@ -1486,6 +1534,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 16.51389 N, 80.60667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 7th-century Akkanna Madanna Lower Cave, Vijayawada, Andhra Pradesh - 1.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:7th-century%20Akkanna%20Madanna%20Lower%20Cave%2C%20Vijayawada%2C%20Andhra%20Pradesh%20-%201.jpg"
       }
     ],
     "missing_themes": [
@@ -1494,7 +1548,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:7th-century%20Akkanna%20Madanna%20Lower%20Cave%2C%20Vijayawada%2C%20Andhra%20Pradesh%20-%201.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "akkapalle-andhra-pradesh",
@@ -1904,6 +1964,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.64707 N, 79.40592 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Alipiri Padala mandapam-Gopuram Tirupati.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Alipiri%20Padala%20mandapam-Gopuram%20Tirupati.jpg"
       }
     ],
     "missing_themes": [
@@ -1913,7 +1979,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Alipiri%20Padala%20mandapam-Gopuram%20Tirupati.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "allamadugu-konda-andhra-pradesh",
@@ -2281,6 +2353,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 16.57554 N, 80.35663 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A baniyan tree near Amaravati Stupa. Amaravati. AP (1).JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20baniyan%20tree%20near%20Amaravati%20Stupa.%20Amaravati.%20AP%20%281%29.JPG"
       }
     ],
     "missing_themes": [
@@ -2289,7 +2367,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20baniyan%20tree%20near%20Amaravati%20Stupa.%20Amaravati.%20AP%20%281%29.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ambabai-cheruvu-andhra-pradesh",
@@ -2479,6 +2563,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 14.48500 N, 78.82430 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: AMEEN PEER DARGAH,KADAPA AP - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:AMEEN%20PEER%20DARGAH%2CKADAPA%20AP%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -2488,7 +2578,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:AMEEN%20PEER%20DARGAH%2CKADAPA%20AP%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "amidala-konda-andhra-pradesh",
@@ -2858,6 +2954,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 14.68333 N, 77.60000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Anantapur district in Andhra Pradesh pre-2022.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Anantapur%20district%20in%20Andhra%20Pradesh%20pre-2022.png"
       }
     ],
     "missing_themes": [
@@ -2867,7 +2969,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Anantapur%20district%20in%20Andhra%20Pradesh%20pre-2022.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "anantapur-sports-village-andhra-pradesh",
@@ -3141,6 +3249,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ancient Buddhist site, Kalingapatnam Andhra Pradesh - 03.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ancient%20Buddhist%20site%2C%20Kalingapatnam%20Andhra%20Pradesh%20-%2003.jpg"
       }
     ],
     "missing_themes": [
@@ -3151,7 +3265,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ancient%20Buddhist%20site%2C%20Kalingapatnam%20Andhra%20Pradesh%20-%2003.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ancient-dutch-building-andhra-pradesh",
@@ -3339,6 +3459,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ruins from an ancient Jain temple, Malhar Chhattisgarh India - 10.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ruins%20from%20an%20ancient%20Jain%20temple%2C%20Malhar%20Chhattisgarh%20India%20-%2010.jpg"
       }
     ],
     "missing_themes": [
@@ -3348,7 +3474,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ruins%20from%20an%20ancient%20Jain%20temple%2C%20Malhar%20Chhattisgarh%20India%20-%2010.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ancient-mound-in-part-of-s-no-855-a-andhra-pradesh",
@@ -3417,6 +3549,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ruins from an ancient Jain temple, Malhar Chhattisgarh India - 10.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ruins%20from%20an%20ancient%20Jain%20temple%2C%20Malhar%20Chhattisgarh%20India%20-%2010.jpg"
       }
     ],
     "missing_themes": [
@@ -3426,7 +3564,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ruins%20from%20an%20ancient%20Jain%20temple%2C%20Malhar%20Chhattisgarh%20India%20-%2010.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ancient-mounds-in-s-no-501-1-andhra-pradesh",
@@ -3573,6 +3717,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 1st century BCE to 3rd century CE Pandavula Metta, Korukonda Buddhist site, Kapavaram Andhra Pradesh - 31.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:1st%20century%20BCE%20to%203rd%20century%20CE%20Pandavula%20Metta%2C%20Korukonda%20Buddhist%20site%2C%20Kapavaram%20Andhra%20Pradesh%20-%2031.jpg"
       }
     ],
     "missing_themes": [
@@ -3582,7 +3732,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:1st%20century%20BCE%20to%203rd%20century%20CE%20Pandavula%20Metta%2C%20Korukonda%20Buddhist%20site%2C%20Kapavaram%20Andhra%20Pradesh%20-%2031.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ancient-site-thotlakonda-buddhist-complex-andhra-pradesh",
