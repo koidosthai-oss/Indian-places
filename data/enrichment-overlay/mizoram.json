@@ -32,6 +32,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.73333 N, 92.71667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: capital of Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q192379"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Mizoram Assembly House (wider view).jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mizoram_Assembly_House_%28wider_view%29.jpg"
       }
     ],
     "missing_themes": [
@@ -41,7 +53,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q192379",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mizoram_Assembly_House_%28wider_view%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Mizoram_Assembly_House_%28wider_view%29.jpg",
+        "title": "Mizoram_Assembly_House_(wider_view).jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "aizwal-mosque-mizoram",
@@ -76,6 +106,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.73124 N, 92.71732 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1909 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q137369919"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mosque in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q137369919"
       }
     ],
     "missing_themes": [
@@ -83,7 +125,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q137369919",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "barak-river-mizoram",
@@ -108,6 +156,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.87611 N, 92.48917 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: river in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1709169"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Silchar barak.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Silchar_barak.jpg"
       }
     ],
     "missing_themes": [
@@ -118,7 +178,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1709169",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Silchar_barak.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Silchar_barak.jpg",
+        "title": "Silchar_barak.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "bawrhsap-office-mizoram",
@@ -193,6 +271,18 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mountain peak in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3334379"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, 2007-blue-mtn-farpak.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:2007-blue-mtn-farpak.jpg"
       }
     ],
     "missing_themes": [
@@ -203,7 +293,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3334379",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:2007-blue-mtn-farpak.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:2007-blue-mtn-farpak.jpg",
+        "title": "2007-blue-mtn-farpak.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "buizova-zaina-sunhlu-kung-mizoram",
@@ -473,6 +581,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.41667 N, 92.33333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: tiger reserve in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3457187"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Dampa Tiger Reserve Forest.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dampa_Tiger_Reserve_Forest.jpg"
       }
     ],
     "missing_themes": [
@@ -483,7 +603,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3457187",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dampa_Tiger_Reserve_Forest.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Dampa_Tiger_Reserve_Forest.jpg",
+        "title": "Dampa_Tiger_Reserve_Forest.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "diltang-mizoram",
@@ -639,6 +777,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.44989 N, 92.75769 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mountain in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q5873696"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Hmuifang Mountain Side.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Hmuifang_Mountain_Side.jpg"
       }
     ],
     "missing_themes": [
@@ -647,7 +797,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5873696",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Hmuifang_Mountain_Side.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Hmuifang_Mountain_Side.jpg",
+        "title": "Hmuifang_Mountain_Side.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "hualtungamtawna-uino-neihna-mizoram",
@@ -734,7 +902,7 @@
     "name": "Kawtchhuah Ropui",
     "state": "Mizoram",
     "category": "heritage",
-    "district": null,
+    "district": "Champhai district",
     "district_fact_state": "Mizoram",
     "district_state_conflict": false,
     "visitor_facts": [
@@ -757,6 +925,18 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Kawtchhuah Ropui (literally The Great Entranceway in the Mizo language) is an archaeological heritage site located near Vangchhia village in Champhai district, Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q70832804"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kawtchhuah Ropui Vangchhia Mapuia Hnamte (1).JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG"
       }
     ],
     "missing_themes": [
@@ -764,10 +944,27 @@
       "local-culture",
       "food",
       "access",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q70832804",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG",
+        "title": "Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_(1).JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "keilami-grave-mizoram",
@@ -832,6 +1029,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.12340 N, 92.94680 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Wildlife sanctuary in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q137223750"
       }
     ],
     "missing_themes": [
@@ -842,7 +1045,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q137223750",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "khuangchera-puk-mizoram",
@@ -889,8 +1098,8 @@
     "name": "Kohhran Thianghlim",
     "state": "Mizoram",
     "category": "spiritual",
-    "district": null,
-    "district_fact_state": null,
+    "district": "Aizawl district",
+    "district_fact_state": "Mizoram",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -912,6 +1121,18 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: building in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q17007509"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kohhran Thianghlim Emblem.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kohhran_Thianghlim_Emblem.jpg"
       }
     ],
     "missing_themes": [
@@ -919,10 +1140,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q17007509",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kohhran_Thianghlim_Emblem.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kohhran_Thianghlim_Emblem.jpg",
+        "title": "Kohhran_Thianghlim_Emblem.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "kungawrhi-puk-mizoram",
@@ -1032,6 +1270,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.67161 N, 92.71808 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1987 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1502"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: state in northeastern India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1502"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Embossed Figures Kawtchhuah Ropui Vangchhia Mapuia Hnamte (1).JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG"
       }
     ],
     "missing_themes": [
@@ -1042,7 +1298,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1502",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG",
+        "title": "Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_(1).JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "lalthangpull-lung-mizoram",
@@ -1147,6 +1421,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.83330 N, 93.21670 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Himalayan Cutia Cutia nipalensis photo by Dr. Raju Kasambe (1).jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Himalayan_Cutia_Cutia_nipalensis_photo_by_Dr._Raju_Kasambe_%281%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1157,7 +1437,21 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Himalayan_Cutia_Cutia_nipalensis_photo_by_Dr._Raju_Kasambe_%281%29.jpg",
+        "title": "Himalayan_Cutia_Cutia_nipalensis_photo_by_Dr._Raju_Kasambe_(1).jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Himalayan_Cutia_Cutia_nipalensis_photo_by_Dr._Raju_Kasambe_%281%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lianchhiari-lunglen-tlang-mizoram",
@@ -1472,6 +1766,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 22.88657 N, 92.74510 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: town in Lunglei district, Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2182763"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, View of Lunglei from Zotlang area in Mizoram - panoramio.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:View_of_Lunglei_from_Zotlang_area_in_Mizoram_-_panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -1481,7 +1787,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2182763",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:View_of_Lunglei_from_Zotlang_area_in_Mizoram_-_panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:View_of_Lunglei_from_Zotlang_area_in_Mizoram_-_panoramio.jpg",
+        "title": "View_of_Lunglei_from_Zotlang_area_in_Mizoram_-_panoramio.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "lungleng-lal-khamliana-sailo-in-mizoram",
@@ -1568,7 +1892,7 @@
     "name": "Lungphunlian",
     "state": "Mizoram",
     "category": "heritage",
-    "district": null,
+    "district": "Champhai district",
     "district_fact_state": "Mizoram",
     "district_state_conflict": false,
     "visitor_facts": [
@@ -1591,6 +1915,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: village in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q24929690"
       }
     ],
     "missing_themes": [
@@ -1598,10 +1928,15 @@
       "local-culture",
       "food",
       "access",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q24929690",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "lungreng-tlang-mizoram",
@@ -1813,8 +2148,8 @@
     "name": "menhirs and caves in Vangchhia",
     "state": "Mizoram",
     "category": "nature",
-    "district": null,
-    "district_fact_state": null,
+    "district": "Champhai district",
+    "district_fact_state": "Mizoram",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -1836,6 +2171,18 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Kawtchhuah Ropui (literally The Great Entranceway in the Mizo language) is an archaeological heritage site located near Vangchhia village in Champhai district, Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q70832804"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kawtchhuah Ropui Vangchhia Mapuia Hnamte (1).JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG"
       }
     ],
     "missing_themes": [
@@ -1843,10 +2190,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q70832804",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG",
+        "title": "Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_(1).JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "menhirs-and-caves-mizoram",
@@ -1995,6 +2359,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.72030 N, 92.72220 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1894 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q6884700"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Christian denomination.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q6884700"
       }
     ],
     "missing_themes": [
@@ -2004,7 +2380,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6884700",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "mizoram-state-museum-mizoram",
@@ -2034,6 +2416,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.73810 N, 92.71560 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1977 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q26218153"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: ethnographic museum in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q26218153"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Mizoram State Museum - 0.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mizoram_State_Museum_-_0.jpg"
       }
     ],
     "missing_themes": [
@@ -2042,7 +2442,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q26218153",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mizoram_State_Museum_-_0.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Mizoram_State_Museum_-_0.jpg",
+        "title": "Mizoram_State_Museum_-_0.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "mura-puk-mizoram",
@@ -2112,6 +2530,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.61694 N, 93.30000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1991 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3334361"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Indian national park.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3334361"
       }
     ],
     "missing_themes": [
@@ -2121,7 +2551,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3334361",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "nauzuarzo-tlang-mizoram",
@@ -2346,6 +2782,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 22.20247 N, 92.88889 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: lake in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7126625"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Palak Dil.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Palak_Dil.jpg"
       }
     ],
     "missing_themes": [
@@ -2356,7 +2804,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7126625",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Palak_Dil.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Palak_Dil.jpg",
+        "title": "Palak_Dil.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "paruallung-mizoram",
@@ -2403,8 +2869,8 @@
     "name": "Phawngpui",
     "state": "Mizoram",
     "category": "nature",
-    "district": null,
-    "district_fact_state": null,
+    "district": "Saiha district",
+    "district_fact_state": "Mizoram",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -2436,16 +2902,51 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 22.73333 N, 93.13333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1992 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q15266124"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: national park in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q15266124"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Phawngpui national park.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Phawngpui_national_park.jpg"
       }
     ],
     "missing_themes": [
       "history",
       "festival",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q15266124",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Phawngpui_national_park.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Phawngpui_national_park.jpg",
+        "title": "Phawngpui_national_park.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "phawngpui-national-park-mizoram",
@@ -2475,6 +2976,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 22.66667 N, 93.05000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1992 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q15266124"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: national park in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q15266124"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Phawngpui national park.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Phawngpui_national_park.jpg"
       }
     ],
     "missing_themes": [
@@ -2483,7 +3002,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q15266124",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Phawngpui_national_park.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Phawngpui_national_park.jpg",
+        "title": "Phawngpui_national_park.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "phingnu-amp-phingpa-mizoram",
@@ -2588,6 +3125,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.13600 N, 92.83800 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: wildlife sanctuary in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q135412386"
       }
     ],
     "missing_themes": [
@@ -2598,7 +3141,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q135412386",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "raj-bhawan-mizoram",
@@ -2718,6 +3267,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.67800 N, 92.60300 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mountain and tourist spot in Mizoram.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7310056"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Reiek.JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Reiek.JPG"
       }
     ],
     "missing_themes": [
@@ -2726,7 +3287,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7310056",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Reiek.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Reiek.JPG",
+        "title": "Reiek.JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "reng-dil-mizoram",
@@ -2871,6 +3450,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.85184 N, 92.74236 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mountain in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q125635442"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Sakawrhmuituai tlang.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sakawrhmuituai_tlang.jpg"
       }
     ],
     "missing_themes": [
@@ -2881,7 +3472,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q125635442",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sakawrhmuituai_tlang.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Sakawrhmuituai_tlang.jpg",
+        "title": "Sakawrhmuituai_tlang.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "serlui-b-dam-mizoram",
@@ -2906,6 +3515,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.33838 N, 92.76847 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: dam in Serlui.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7454973"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Serlui B Dam.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Serlui_B_Dam.jpg"
       }
     ],
     "missing_themes": [
@@ -2916,7 +3537,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7454973",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Serlui_B_Dam.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Serlui_B_Dam.jpg",
+        "title": "Serlui_B_Dam.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "sibuta-lung-mizoram",
@@ -3061,6 +3700,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.74790 N, 92.68840 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: building in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q16168962"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Temple thlalak.JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Temple_thlalak.JPG"
       }
     ],
     "missing_themes": [
@@ -3071,7 +3722,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q16168962",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Temple_thlalak.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Temple_thlalak.JPG",
+        "title": "Temple_thlalak.JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "tam-dil-mizoram",
@@ -3096,6 +3765,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.73889 N, 92.95278 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: lake in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7375552"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Tam Dil Lake in Saitual.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tam_Dil_Lake_in_Saitual.jpg"
       }
     ],
     "missing_themes": [
@@ -3106,7 +3787,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7375552",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tam_Dil_Lake_in_Saitual.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Tam_Dil_Lake_in_Saitual.jpg",
+        "title": "Tam_Dil_Lake_in_Saitual.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "tawi-wildlife-sanctuary-mizoram",
@@ -3131,6 +3830,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.53760 N, 92.94850 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Wildlife sanctuary in Mizoram.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q137049306"
       }
     ],
     "missing_themes": [
@@ -3141,7 +3846,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q137049306",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "thasiama-seno-neihna-mizoram",
@@ -3246,6 +3957,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.30520 N, 92.54410 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Wildlife sanctuary in Mizoram.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q137049264"
       }
     ],
     "missing_themes": [
@@ -3256,7 +3973,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q137049264",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "tourism-in-mizoram-mizoram",
@@ -3281,6 +4004,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.36000 N, 92.80000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1987 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1502"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: state in northeastern India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1502"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Embossed Figures Kawtchhuah Ropui Vangchhia Mapuia Hnamte (1).JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG"
       }
     ],
     "missing_themes": [
@@ -3290,7 +4031,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1502",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG",
+        "title": "Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_(1).JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "tualvungi-vawkthleng-mizoram",
@@ -3400,6 +4159,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.35650 N, 92.88600 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 2017 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7851765"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: dam in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7851765"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Tuirial dam.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tuirial_dam.jpg"
       }
     ],
     "missing_themes": [
@@ -3409,7 +4186,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7851765",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tuirial_dam.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Tuirial_dam.jpg",
+        "title": "Tuirial_dam.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "tuirihiau-falls-mizoram",
@@ -3434,6 +4229,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.23700 N, 92.74910 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q60760448"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Tuirihiau falls, Mizoram.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tuirihiau_falls%2C_Mizoram.jpg"
       }
     ],
     "missing_themes": [
@@ -3443,15 +4250,33 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q60760448",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tuirihiau_falls%2C_Mizoram.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Tuirihiau_falls%2C_Mizoram.jpg",
+        "title": "Tuirihiau_falls,_Mizoram.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "tuirihiau-waterfall-mizoram",
     "name": "Tuirihiau waterfall",
     "state": "Mizoram",
     "category": "nature",
-    "district": null,
-    "district_fact_state": null,
+    "district": "Serchhip district",
+    "district_fact_state": "Mizoram",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -3473,6 +4298,18 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Mizoram, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q60760448"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Tuirihiau falls, Mizoram.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tuirihiau_falls%2C_Mizoram.jpg"
       }
     ],
     "missing_themes": [
@@ -3480,10 +4317,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q60760448",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tuirihiau_falls%2C_Mizoram.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Tuirihiau_falls%2C_Mizoram.jpg",
+        "title": "Tuirihiau_falls,_Mizoram.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "vai-kulh-mizoram",
@@ -3628,6 +4482,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.25692 N, 92.76246 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: the highest waterfall in Mizoram state of India..",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q38386"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Vantawng Falls in 1990s.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Vantawng_Falls_in_1990s.jpg"
       }
     ],
     "missing_themes": [
@@ -3637,7 +4503,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q38386",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Vantawng_Falls_in_1990s.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Vantawng_Falls_in_1990s.jpg",
+        "title": "Vantawng_Falls_in_1990s.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "vapar-tlang-mizoram",

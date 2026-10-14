@@ -72,6 +72,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.79160 N, 93.78180 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1866 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1193830"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: city in Nagaland, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1193830"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Chümoukedima District Office Complex.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%BCmoukedima_District_Office_Complex.jpg"
       }
     ],
     "missing_themes": [
@@ -80,7 +98,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1193830",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ch%C3%BCmoukedima_District_Office_Complex.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ch%C3%BCmoukedima_District_Office_Complex.jpg",
+        "title": "Chümoukedima_District_Office_Complex.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "dazipfu-nagaland",
@@ -150,6 +186,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.90589 N, 93.72485 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: city in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q867111"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Dimapur Town.jpeg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dimapur_Town.jpeg"
       }
     ],
     "missing_themes": [
@@ -159,7 +207,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q867111",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dimapur_Town.jpeg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Dimapur_Town.jpeg",
+        "title": "Dimapur_Town.jpeg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "dimapur-kalibari-nagaland",
@@ -222,16 +288,73 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.55348 N, 94.06702 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Nagaland Tourism places Dzukou Valley at about 2,452 m, with summer meadows, the Dzukou lily, bamboo, streams, and caves.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/"
+      },
+      {
+        "theme": "placement-flag",
+        "text": "The state tourism article says the valley lies between Nagaland and Manipur. The catalog keeps the Nagaland record and its Viswema fact.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/"
+      },
+      {
+        "theme": "best-time",
+        "text": "The state write-up highlights summer, when the valley flowers, as the season the meadows are known for.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: valley on the Manipur-Nagaland border in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q5320060"
+      },
+      {
+        "theme": "placement-flag",
+        "text": "Wikidata names Kohima district. The catalog already records Viswema, and that original area is kept.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q5320060"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Breathtaking beauty of Dzukou Valley in Manipur-Nagaland border (edit).jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg"
       }
     ],
     "missing_themes": [
       "history",
       "festival",
       "local-culture",
-      "food",
-      "place-specific-season"
+      "food"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/",
+        "publisher": "tourism.nagaland.gov.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5320060",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg",
+        "title": "Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_(edit).jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "fakim-wildlife-sanctuary-nagaland",
@@ -261,6 +384,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.82553 N, 94.95439 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Wildlife Sanctuary of India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q106513444"
       }
     ],
     "missing_themes": [
@@ -270,7 +399,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q106513444",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "hornbill-festival-nagaland",
@@ -300,16 +435,133 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "festival",
+        "text": "Nagaland Tourism dates the Hornbill Festival to 2000. It runs ten days and is promoted as the Festival of Festivals.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+      },
+      {
+        "theme": "food",
+        "text": "The official event list includes a local-cuisine food festival plus Naga king-chilli and pineapple eating contests.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+      },
+      {
+        "theme": "best-time",
+        "text": "The state tourism calendar lists the Hornbill Festival for 1-10 December.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 2000 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q17055323"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: annual festival in Nagaland, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q17055323"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Hornbill Festival, Pix by Vikramjit Kakati.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Hornbill%20Festival%2C%20Pix%20by%20Vikramjit%20Kakati.jpg"
       }
     ],
     "missing_themes": [
       "local-culture",
+      "access",
+      "district"
+    ],
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://tourism.nagaland.gov.in/events/hornbill-festival/",
+        "publisher": "tourism.nagaland.gov.in"
+      },
+      {
+        "url": "https://tourism.nagaland.gov.in/",
+        "publisher": "tourism.nagaland.gov.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q17055323",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Hornbill%20Festival%2C%20Pix%20by%20Vikramjit%20Kakati.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Hornbill%20Festival%2C%20Pix%20by%20Vikramjit%20Kakati.jpg",
+        "title": "Hornbill Festival, Pix by Vikramjit Kakati.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
+  },
+  {
+    "id": "khonoma-nagaland",
+    "name": "Khonoma",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "detail",
+        "text": "Added after Wikidata's administrative chain matched the catalog state. Visitor detail beyond that is still open.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/"
+      },
+      {
+        "theme": "history",
+        "text": "Nagaland Tourism calls Khonoma a warrior village about 20 km from Kohima, known for resistance in the colonial period.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/khonoma-village/"
+      },
+      {
+        "theme": "local-culture",
+        "text": "The state page says Khonoma was described as Asia's first Green Village, and that its tragopan sanctuary was set up in 1998.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/khonoma-village/"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
       "food",
       "access",
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://tourism.nagaland.gov.in/khonoma-village/",
+        "publisher": "tourism.nagaland.gov.in"
+      }
+    ]
   },
   {
     "id": "khonoma-nature-conservation-and-tragopan-sanctuary-nagaland",
@@ -334,16 +586,42 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.62670 N, 94.00210 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "history",
+        "text": "Nagaland Tourism says the Khonoma Nature Conservation and Tragopan Sanctuary was set up in 1998 to protect Blyth's tragopan.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/khonoma-village/"
+      },
+      {
+        "theme": "local-culture",
+        "text": "The same page calls Khonoma a warrior village about 20 km from Kohima and the first Green Village in Asia.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/khonoma-village/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Indian conservation reserve.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q28173945"
       }
     ],
     "missing_themes": [
-      "history",
       "festival",
-      "local-culture",
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://tourism.nagaland.gov.in/khonoma-village/",
+        "publisher": "tourism.nagaland.gov.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q28173945",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "khuochiezie-nagaland",
@@ -368,6 +646,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.67204 N, 94.10824 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: public ground in Kohima, Nagaland.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q139500077"
       }
     ],
     "missing_themes": [
@@ -378,7 +662,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q139500077",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "kigwema-nagaland",
@@ -403,6 +693,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.60630 N, 94.12710 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: village in North East India, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q85774332"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kigwema .jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kigwema_.jpg"
       }
     ],
     "missing_themes": [
@@ -412,7 +714,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q85774332",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kigwema_.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kigwema_.jpg",
+        "title": "Kigwema_.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "kohima-ao-baptist-church-nagaland",
@@ -437,6 +757,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.66894 N, 94.10639 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: church in Kohima, Nagaland.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q97278054"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, KABA 2.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:KABA_2.jpg"
       }
     ],
     "missing_themes": [
@@ -446,15 +778,33 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q97278054",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:KABA_2.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:KABA_2.jpg",
+        "title": "KABA_2.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "kohima-jain-temple-nagaland",
     "name": "Kohima Jain temple",
     "state": "Nagaland",
     "category": "spiritual",
-    "district": null,
-    "district_fact_state": null,
+    "district": "Kohima district",
+    "district_fact_state": "Nagaland",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -471,6 +821,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.40350 N, 94.06330 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1879 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q234056"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: capital of the Indian state of Nagaland.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q234056"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Capital Cultural Hall.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Capital_Cultural_Hall.jpg"
       }
     ],
     "missing_themes": [
@@ -478,18 +846,35 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q234056",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Capital_Cultural_Hall.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Capital_Cultural_Hall.jpg",
+        "title": "Capital_Cultural_Hall.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "kohima-lotha-baptist-church-nagaland",
     "name": "Kohima Lotha Baptist Church",
     "state": "Nagaland",
     "category": "spiritual",
-    "district": null,
-    "district_fact_state": null,
+    "district": "Kohima district",
+    "district_fact_state": "Nagaland",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -506,6 +891,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.66226 N, 94.10558 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1879 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q234056"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: capital of the Indian state of Nagaland.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q234056"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Capital Cultural Hall.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Capital_Cultural_Hall.jpg"
       }
     ],
     "missing_themes": [
@@ -513,10 +916,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q234056",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Capital_Cultural_Hall.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Capital_Cultural_Hall.jpg",
+        "title": "Capital_Cultural_Hall.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "kohima-mizo-presbyterian-church-nagaland",
@@ -541,6 +961,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.66102 N, 94.09997 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: presbyterian church in Kohima, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q140680999"
       }
     ],
     "missing_themes": [
@@ -551,7 +977,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q140680999",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "kohima-nagaland",
@@ -586,6 +1018,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.66667 N, 94.11944 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1963 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1599"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: state in Northeastern India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1599"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kapamodzu.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kapamodzu.jpg"
       }
     ],
     "missing_themes": [
@@ -594,7 +1044,82 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1599",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kapamodzu.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kapamodzu.jpg",
+        "title": "Kapamodzu.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
+  },
+  {
+    "id": "kohima-war-cemetery-nagaland",
+    "name": "Kohima War Cemetery",
+    "state": "Nagaland",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "detail",
+        "text": "Added after Wikidata's administrative chain matched the catalog state. Visitor detail beyond that is still open.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/"
+      },
+      {
+        "theme": "history",
+        "text": "Nagaland Tourism describes Kohima War Cemetery as the memorial for soldiers killed in the Second World War Battle of Kohima, also called the Battle of the Tennis Court.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/"
+      },
+      {
+        "theme": "access",
+        "text": "The state tourism guide places the cemetery in Kohima district, in landscaped gardens maintained as a place of remembrance.",
+        "basis": "cited-source",
+        "source": "https://tourism.nagaland.gov.in/"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://tourism.nagaland.gov.in/",
+        "publisher": "tourism.nagaland.gov.in"
+      }
+    ]
   },
   {
     "id": "lake-shilloi-nagaland",
@@ -619,6 +1144,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.59538 N, 94.79303 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: natural Lake in Phek District, Nagaland.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q108841202"
       }
     ],
     "missing_themes": [
@@ -629,7 +1160,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q108841202",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "loho-lake-nagaland",
@@ -654,6 +1191,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.49684 N, 94.22918 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: body of water.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q107481551"
       }
     ],
     "missing_themes": [
@@ -664,7 +1207,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107481551",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "longkhum-nagaland",
@@ -689,6 +1238,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 26.26355 N, 94.41230 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: village in Nagaland, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q6674041"
       }
     ],
     "missing_themes": [
@@ -699,7 +1254,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6674041",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "lt-h-h-forbes-grave-nagaland",
@@ -768,6 +1329,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.65250 N, 94.10480 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Cathedral in Kohima, Nagaland, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q6779761"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Mary Help of Christians Cathedral Kohima.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mary_Help_of_Christians_Cathedral_Kohima.jpg"
       }
     ],
     "missing_themes": [
@@ -776,7 +1349,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6779761",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mary_Help_of_Christians_Cathedral_Kohima.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Mary_Help_of_Christians_Cathedral_Kohima.jpg",
+        "title": "Mary_Help_of_Christians_Cathedral_Kohima.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "mataungse-kyein-nagaland",
@@ -885,6 +1476,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.65660 N, 94.09310 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: church in Nagaland, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q121090951"
       }
     ],
     "missing_themes": [
@@ -895,7 +1492,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q121090951",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "mol-len-nagaland",
@@ -930,6 +1533,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mountain in Myanmar.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q6895624"
       }
     ],
     "missing_themes": [
@@ -940,7 +1549,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6895624",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "mount-saramati-nagaland",
@@ -975,6 +1590,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mountain in Myanmar/India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q8536271"
       }
     ],
     "missing_themes": [
@@ -985,7 +1606,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q8536271",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "naga-hills-nagaland",
@@ -1020,6 +1647,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 26.00000 N, 95.00000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mountain range in Myanmar and India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3109835"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, ECS Longpang.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ECS_Longpang.jpg"
       }
     ],
     "missing_themes": [
@@ -1029,7 +1668,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3109835",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ECS_Longpang.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:ECS_Longpang.jpg",
+        "title": "ECS_Longpang.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "nagaland-state-museum-nagaland",
@@ -1059,6 +1716,24 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1970 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q109237703"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: museum Bayavü Hill, Kohima, Nagaland.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q109237703"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kohima State Museum.jpeg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kohima_State_Museum.jpeg"
       }
     ],
     "missing_themes": [
@@ -1069,7 +1744,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q109237703",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kohima_State_Museum.jpeg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kohima_State_Museum.jpeg",
+        "title": "Kohima_State_Museum.jpeg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "nagaland-zoological-park-nagaland",
@@ -1099,6 +1792,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.85337 N, 93.72428 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 2008 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q47462824"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: zoo in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q47462824"
       }
     ],
     "missing_themes": [
@@ -1107,7 +1812,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q47462824",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "ntangki-national-park-nagaland",
@@ -1132,6 +1843,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.56000 N, 93.45000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: national park in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3091771"
       }
     ],
     "missing_themes": [
@@ -1141,7 +1858,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3091771",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "pulie-badze-wildlife-sanctuary-nagaland",
@@ -1166,6 +1889,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.61070 N, 94.06230 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: geographic feature in Nagaland.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q109974261"
       }
     ],
     "missing_themes": [
@@ -1176,7 +1905,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q109974261",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "punkhung-nagaland",
@@ -1246,6 +1981,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.85623 N, 93.71940 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: wildlife sanctuary near Dimapur in Nagaland, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q137591486"
       }
     ],
     "missing_themes": [
@@ -1255,7 +1996,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q137591486",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "ruins-of-kachari-rajbari-nagaland",
@@ -1319,6 +2066,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.65500 N, 94.10583 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: public park in Kohima.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q109975977"
       }
     ],
     "missing_themes": [
@@ -1329,7 +2082,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q109975977",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "sanctuary-falls-nagaland",
@@ -1354,6 +2113,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.59177 N, 94.01327 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q139040080"
       }
     ],
     "missing_themes": [
@@ -1363,7 +2128,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q139040080",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "sekrenyi-nagaland",
@@ -1388,6 +2159,18 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Angami Nagas festival based in Nagaland, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q24952229"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Angami 1863b.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Angami_1863b.jpg"
       }
     ],
     "missing_themes": [
@@ -1398,7 +2181,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q24952229",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Angami_1863b.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Angami_1863b.jpg",
+        "title": "Angami_1863b.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "singphan-wildlife-sanctuary-nagaland",
@@ -1418,6 +2219,12 @@
         "theme": "suggested-duration",
         "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: is the 30th elephant reserve in the country.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q111181702"
       }
     ],
     "missing_themes": [
@@ -1428,7 +2235,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q111181702",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "stone-cairn-to-the-memory-of-mr-damant-nagaland",
@@ -1492,6 +2305,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 26.01789 N, 94.52922 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: church in Zunheboto, Nagaland, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q30576158"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Centre Point Zunheboto (cropped).jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Centre_Point_Zunheboto_%28cropped%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1501,7 +2326,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q30576158",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Centre_Point_Zunheboto_%28cropped%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Centre_Point_Zunheboto_%28cropped%29.jpg",
+        "title": "Centre_Point_Zunheboto_(cropped).jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "tiyingchomo-nagaland",

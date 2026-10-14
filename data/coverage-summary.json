@@ -1,5 +1,5 @@
 {
-  "total_places": 41489,
+  "total_places": 41493,
   "with_coordinates": 34927,
   "coordinates_percent": 84.2,
   "sourced_fact_places": 25500,
@@ -42,7 +42,9 @@
         "129 places have only boilerplate facts and need collected visitor detail.",
         "15 descriptions are shorter than 40 characters.",
         "183 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 214
     },
     {
       "state": "Andhra Pradesh",
@@ -76,7 +78,9 @@
         "32 descriptions are shorter than 40 characters.",
         "4 descriptions still say 'tourism place'.",
         "2763 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 3267
     },
     {
       "state": "Arunachal Pradesh",
@@ -107,7 +111,9 @@
         "37 places have only boilerplate facts and need collected visitor detail.",
         "5 descriptions are shorter than 40 characters.",
         "98 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 128
     },
     {
       "state": "Assam",
@@ -140,7 +146,9 @@
         "42 descriptions are shorter than 40 characters.",
         "7 descriptions still say 'tourism place'.",
         "211 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 363
     },
     {
       "state": "Bihar",
@@ -173,7 +181,9 @@
         "174 descriptions are shorter than 40 characters.",
         "7 descriptions still say 'tourism place'.",
         "459 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 677
     },
     {
       "state": "Chandigarh",
@@ -201,7 +211,9 @@
         "16 places have only boilerplate facts and need collected visitor detail.",
         "1 descriptions are shorter than 40 characters.",
         "26 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 26
     },
     {
       "state": "Chhattisgarh",
@@ -234,7 +246,9 @@
         "16 descriptions are shorter than 40 characters.",
         "1 descriptions still say 'tourism place'.",
         "1223 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 1343
     },
     {
       "state": "Dadra and Nagar Haveli and Daman and Diu",
@@ -263,7 +277,9 @@
         "10 places have only boilerplate facts and need collected visitor detail.",
         "4 descriptions are shorter than 40 characters.",
         "12 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 29
     },
     {
       "state": "Delhi",
@@ -296,7 +312,9 @@
         "67 descriptions are shorter than 40 characters.",
         "7 descriptions still say 'tourism place'.",
         "253 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 541
     },
     {
       "state": "Goa",
@@ -329,7 +347,9 @@
         "118 descriptions are shorter than 40 characters.",
         "5 descriptions still say 'tourism place'.",
         "135 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 324
     },
     {
       "state": "Gujarat",
@@ -363,7 +383,9 @@
         "93 descriptions are shorter than 40 characters.",
         "3 descriptions still say 'tourism place'.",
         "798 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 1290
     },
     {
       "state": "Haryana",
@@ -395,7 +417,9 @@
         "108 descriptions are shorter than 40 characters.",
         "2 descriptions still say 'tourism place'.",
         "268 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 451
     },
     {
       "state": "Himachal Pradesh",
@@ -428,7 +452,9 @@
         "38 descriptions are shorter than 40 characters.",
         "2 descriptions still say 'tourism place'.",
         "1383 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 1547
     },
     {
       "state": "Jammu and Kashmir",
@@ -461,7 +487,9 @@
         "24 descriptions are shorter than 40 characters.",
         "1 descriptions still say 'tourism place'.",
         "2139 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 2325
     },
     {
       "state": "Jharkhand",
@@ -494,7 +522,9 @@
         "162 descriptions are shorter than 40 characters.",
         "1 descriptions still say 'tourism place'.",
         "1006 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 1059
     },
     {
       "state": "Karnataka",
@@ -528,7 +558,9 @@
         "160 descriptions are shorter than 40 characters.",
         "14 descriptions still say 'tourism place'.",
         "2470 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 3694
     },
     {
       "state": "Kerala",
@@ -562,7 +594,9 @@
         "254 descriptions are shorter than 40 characters.",
         "22 descriptions still say 'tourism place'.",
         "2286 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 3186
     },
     {
       "state": "Ladakh",
@@ -595,7 +629,9 @@
         "113 descriptions are shorter than 40 characters.",
         "1 descriptions still say 'tourism place'.",
         "314 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 384
     },
     {
       "state": "Lakshadweep",
@@ -623,7 +659,9 @@
         "17 places have only boilerplate facts and need collected visitor detail.",
         "13 descriptions are shorter than 40 characters.",
         "35 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 35
     },
     {
       "state": "Madhya Pradesh",
@@ -656,7 +694,9 @@
         "54 descriptions are shorter than 40 characters.",
         "7 descriptions still say 'tourism place'.",
         "1939 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 2690
     },
     {
       "state": "Maharashtra",
@@ -690,7 +730,9 @@
         "427 descriptions are shorter than 40 characters.",
         "13 descriptions still say 'tourism place'.",
         "1735 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 2478
     },
     {
       "state": "Manipur",
@@ -723,7 +765,9 @@
         "22 descriptions are shorter than 40 characters.",
         "3 descriptions still say 'tourism place'.",
         "79 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 151
     },
     {
       "state": "Meghalaya",
@@ -754,7 +798,9 @@
         "44 places have only boilerplate facts and need collected visitor detail.",
         "7 descriptions are shorter than 40 characters.",
         "38 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 47,
+      "overlay_places": 68
     },
     {
       "state": "Mizoram",
@@ -784,7 +830,9 @@
         "24 places have only boilerplate facts and need collected visitor detail.",
         "9 descriptions are shorter than 40 characters.",
         "83 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 33,
+      "overlay_places": 94
     },
     {
       "state": "Nagaland",
@@ -815,7 +863,9 @@
         "21 places have only boilerplate facts and need collected visitor detail.",
         "3 descriptions are shorter than 40 characters.",
         "22 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 33,
+      "overlay_places": 44
     },
     {
       "state": "Odisha",
@@ -848,7 +898,9 @@
         "319 descriptions are shorter than 40 characters.",
         "1 descriptions still say 'tourism place'.",
         "1845 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 2328
     },
     {
       "state": "Puducherry",
@@ -878,7 +930,9 @@
         "32 places have only boilerplate facts and need collected visitor detail.",
         "7 descriptions are shorter than 40 characters.",
         "38 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 59
     },
     {
       "state": "Punjab",
@@ -908,7 +962,9 @@
         "132 places have only boilerplate facts and need collected visitor detail.",
         "70 descriptions are shorter than 40 characters.",
         "195 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 406
     },
     {
       "state": "Rajasthan",
@@ -941,7 +997,9 @@
         "117 descriptions are shorter than 40 characters.",
         "5 descriptions still say 'tourism place'.",
         "974 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 1669
     },
     {
       "state": "Sikkim",
@@ -974,7 +1032,9 @@
         "55 descriptions are shorter than 40 characters.",
         "2 descriptions still say 'tourism place'.",
         "126 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 195
     },
     {
       "state": "Tamil Nadu",
@@ -1008,7 +1068,9 @@
         "177 descriptions are shorter than 40 characters.",
         "28 descriptions still say 'tourism place'.",
         "3314 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 4096
     },
     {
       "state": "Telangana",
@@ -1040,7 +1102,9 @@
         "57 descriptions are shorter than 40 characters.",
         "5 descriptions still say 'tourism place'.",
         "1093 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 1284
     },
     {
       "state": "Tripura",
@@ -1068,7 +1132,9 @@
         "20 places have only boilerplate facts and need collected visitor detail.",
         "5 descriptions are shorter than 40 characters.",
         "19 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 29,
+      "overlay_places": 42
     },
     {
       "state": "Uttar Pradesh",
@@ -1101,7 +1167,9 @@
         "80 descriptions are shorter than 40 characters.",
         "9 descriptions still say 'tourism place'.",
         "2505 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 3090
     },
     {
       "state": "Uttarakhand",
@@ -1134,7 +1202,9 @@
         "32 descriptions are shorter than 40 characters.",
         "1 descriptions still say 'tourism place'.",
         "866 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 944
     },
     {
       "state": "West Bengal",
@@ -1168,7 +1238,11 @@
         "47 descriptions are shorter than 40 characters.",
         "9 descriptions still say 'tourism place'.",
         "310 places have no usable district in their facts."
-      ]
+      ],
+      "enriched_places": 0,
+      "overlay_places": 972
     }
-  ]
+  ],
+  "enriched_places": 142,
+  "enriched_percent": 0.3
 }

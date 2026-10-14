@@ -17,6 +17,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Church in Tripura.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q4691378"
       }
     ],
     "missing_themes": [
@@ -28,7 +34,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4691378",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "agartala-city-baptist-church-tripura",
@@ -53,6 +65,18 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1987 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q4691379"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: church in Tripura.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q4691379"
       }
     ],
     "missing_themes": [
@@ -63,7 +87,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4691379",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "agartala-jagannath-mandir-tripura",
@@ -88,6 +118,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.83628 N, 91.27989 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1871 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q170454"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: city in North-east India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q170454"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
       }
     ],
     "missing_themes": [
@@ -97,7 +145,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q170454",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "title": "Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "agartala-tripura",
@@ -137,6 +203,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.83333 N, 91.26667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1972 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1363"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Indian state.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1363"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
       }
     ],
     "missing_themes": [
@@ -145,7 +229,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1363",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "title": "Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "ancient-mound-called-shyamsundar-ashram-tilla-baikhora-jolaibari-tripura",
@@ -331,6 +433,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.54152 N, 91.50432 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: temple in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q56199594"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Bhubaneswari Temple .Rajnagar,Udaipur.South Tripura.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bhubaneswari_Temple_.Rajnagar%2CUdaipur.South_Tripura.jpg"
       }
     ],
     "missing_themes": [
@@ -339,7 +453,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q56199594",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bhubaneswari_Temple_.Rajnagar%2CUdaipur.South_Tripura.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Bhubaneswari_Temple_.Rajnagar%2CUdaipur.South_Tripura.jpg",
+        "title": "Bhubaneswari_Temple_.Rajnagar,Udaipur.South_Tripura.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "bijoy-sagar-tripura",
@@ -364,6 +496,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.53800 N, 91.49900 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: lake in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q17049854"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Bijoysagar lake.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bijoysagar_lake.jpg"
       }
     ],
     "missing_themes": [
@@ -374,7 +518,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q17049854",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bijoysagar_lake.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Bijoysagar_lake.jpg",
+        "title": "Bijoysagar_lake.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "boxanagar-ruins-tripura",
@@ -399,6 +561,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.61636 N, 91.16564 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: archaeological site in Boxanagar, Tripura.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q138118441"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, 6)The ruins of Buddhist Temple at Boxanagar,near Sonamura, 40 kms west to the capital city Agartala,Tripura.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:6%29The_ruins_of_Buddhist_Temple_at_Boxanagar%2Cnear_Sonamura%2C_40_kms_west_to_the_capital_city_Agartala%2CTripura.jpg"
       }
     ],
     "missing_themes": [
@@ -409,7 +583,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q138118441",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:6%29The_ruins_of_Buddhist_Temple_at_Boxanagar%2Cnear_Sonamura%2C_40_kms_west_to_the_capital_city_Agartala%2CTripura.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:6%29The_ruins_of_Buddhist_Temple_at_Boxanagar%2Cnear_Sonamura%2C_40_kms_west_to_the_capital_city_Agartala%2CTripura.jpg",
+        "title": "6)The_ruins_of_Buddhist_Temple_at_Boxanagar,near_Sonamura,_40_kms_west_to_the_capital_city_Agartala,Tripura.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "chabimura-tripura",
@@ -469,6 +661,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.84139 N, 91.34519 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1972 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1363"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Indian state.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1363"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
       }
     ],
     "missing_themes": [
@@ -478,7 +688,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1363",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "title": "Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "church-of-shantir-rani-tripura",
@@ -503,6 +731,18 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: church in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q96418121"
+      },
+      {
+        "theme": "placement-flag",
+        "text": "Wikidata names West Tripura District. The catalog already records Agartala, and that original area is kept.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q96418121"
       }
     ],
     "missing_themes": [
@@ -512,7 +752,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96418121",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "clouded-leopard-national-park-tripura",
@@ -542,6 +788,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.66822 N, 91.32254 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 2007 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q5135742"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: national park in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q5135742"
       }
     ],
     "missing_themes": [
@@ -551,7 +809,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5135742",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "devtamura-tripura",
@@ -611,6 +875,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.66444 N, 91.31167 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: wildlife century in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q5618257"
       }
     ],
     "missing_themes": [
@@ -621,7 +891,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5618257",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "gunavati-group-of-temples-radha-kishorpur-tripura",
@@ -735,6 +1011,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.74400 N, 91.17500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: lake in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q6355686"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kamalasagar.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kamalasagar.jpg"
       }
     ],
     "missing_themes": [
@@ -743,7 +1031,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6355686",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kamalasagar.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kamalasagar.jpg",
+        "title": "Kamalasagar.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "kasbeswari-kali-mata-tripura",
@@ -768,6 +1074,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.74016 N, 91.15982 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Hindu temple in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q55615720"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kasbeswari Kali Mata.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kasbeswari_Kali_Mata.jpg"
       }
     ],
     "missing_themes": [
@@ -777,7 +1095,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q55615720",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kasbeswari_Kali_Mata.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kasbeswari_Kali_Mata.jpg",
+        "title": "Kasbeswari_Kali_Mata.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "khwichang-baptist-church-tripura",
@@ -802,6 +1138,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.93200 N, 91.44500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: church in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q6403456"
       }
     ],
     "missing_themes": [
@@ -812,7 +1154,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6403456",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "lakshmi-narayan-temple-agartala-tripura",
@@ -837,6 +1185,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.83423 N, 91.28290 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1871 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q170454"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: city in North-east India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q170454"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
       }
     ],
     "missing_themes": [
@@ -846,7 +1212,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q170454",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "title": "Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "maharaja-birendra-kishore-museum-tripura",
@@ -902,6 +1286,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.81667 N, 91.81667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: tourist Place in Tripura.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q124842586"
       }
     ],
     "missing_themes": [
@@ -911,7 +1301,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q124842586",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "neermahal-tripura",
@@ -936,17 +1332,73 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.50667 N, 91.31544 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1972 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1363"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Indian state.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1363"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
+      },
+      {
+        "theme": "history",
+        "text": "Tripura Tourism says Maharaja Bir Bikram Kishore Manikya built Neermahal in 1930 as a summer palace in Rudrasagar Lake.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=8"
+      },
+      {
+        "theme": "access",
+        "text": "The state page places Neermahal at Melaghar in Sepahijala district, 53 km south of Agartala, and reached by boat.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=8"
+      },
+      {
+        "theme": "festival",
+        "text": "A boat festival is held on Rudrasagar in July or August, according to the state tourism page.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=8"
       }
     ],
     "missing_themes": [
-      "history",
-      "festival",
       "local-culture",
       "food",
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1363",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://tripuratourism.gov.in/single-tour.php?id=8",
+        "publisher": "tripuratourism.gov.in"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "title": "Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "pilak-tripura-tripura",
@@ -971,6 +1423,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.76667 N, 91.30000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1972 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1363"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Indian state.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q1363"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
       }
     ],
     "missing_themes": [
@@ -981,7 +1451,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1363",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "title": "Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "pushbanta-palace-tripura",
@@ -1011,6 +1499,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.85352 N, 91.28477 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: official residence of the Governor of Tripura.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7285280"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Pushpabanta Palace at Agartala, Tripura.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Pushpabanta_Palace_at_Agartala%2C_Tripura.jpg"
       }
     ],
     "missing_themes": [
@@ -1020,7 +1520,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7285280",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pushpabanta_Palace_at_Agartala%2C_Tripura.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Pushpabanta_Palace_at_Agartala%2C_Tripura.jpg",
+        "title": "Pushpabanta_Palace_at_Agartala,_Tripura.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "rajbari-national-park-tripura",
@@ -1045,6 +1563,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.28000 N, 91.40000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: national park in the Trishna Wildlife Sanctuary, Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7285897"
       }
     ],
     "missing_themes": [
@@ -1055,7 +1579,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7285897",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "rowa-wildlife-sanctuary-tripura",
@@ -1080,6 +1610,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.29000 N, 92.17000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Wildlife sanctuary in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7371766"
       }
     ],
     "missing_themes": [
@@ -1089,7 +1625,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7371766",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "rudrasagar-lake-tripura",
@@ -1119,16 +1661,61 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.50400 N, 91.31500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: lake in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7377525"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Neermahal191.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Neermahal191.jpg"
+      },
+      {
+        "theme": "detail",
+        "text": "Tripura Tourism says Rudrasagar covers about 5.3 square km and hosts resident and migratory birds, with boating beside Neermahal.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=8"
+      },
+      {
+        "theme": "festival",
+        "text": "The same page says a boat festival is held on the lake in July or August.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=8"
       }
     ],
     "missing_themes": [
-      "festival",
       "local-culture",
       "food",
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7377525",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Neermahal191.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://tripuratourism.gov.in/single-tour.php?id=8",
+        "publisher": "tripuratourism.gov.in"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Neermahal191.jpg",
+        "title": "Neermahal191.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "sculptures-and-rock-reliefs-of-unakoti-tirtha-unakoti-range-tripura",
@@ -1202,6 +1789,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.66444 N, 91.31167 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1987 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7525566"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: wildlife sanctuary in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7525566"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Deer, Sepahijala WLS.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Deer%2C_Sepahijala_WLS.jpg"
       }
     ],
     "missing_themes": [
@@ -1210,7 +1815,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7525566",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Deer%2C_Sepahijala_WLS.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Deer%2C_Sepahijala_WLS.jpg",
+        "title": "Deer,_Sepahijala_WLS.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "st-francis-xavier-cathedral-agartala-tripura",
@@ -1250,6 +1873,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.87000 N, 91.28000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 2010 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q27908080"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: building in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q27908080"
+      },
+      {
+        "theme": "placement-flag",
+        "text": "Wikidata names West Tripura District. The catalog already records Agartala, and that original area is kept.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q27908080"
       }
     ],
     "missing_themes": [
@@ -1257,7 +1898,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q27908080",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "temple-of-chaturdasa-devata-radha-kishorpur-tripura",
@@ -1342,8 +1989,8 @@
     "name": "Tripura Government Museum",
     "state": "Tripura",
     "category": "heritage",
-    "district": null,
-    "district_fact_state": null,
+    "district": "West Tripura District",
+    "district_fact_state": "Tripura",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -1365,6 +2012,24 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1901 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3360963"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: state museum in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3360963"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
       }
     ],
     "missing_themes": [
@@ -1372,10 +2037,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3360963",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "title": "Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "tripura-princely-state-tripura",
@@ -1410,6 +2092,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.83330 N, 91.28330 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1809 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q17342164"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: princely state.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q17342164"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Flag of Tripura State.png, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Tripura_State.png"
       }
     ],
     "missing_themes": [
@@ -1419,7 +2119,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q17342164",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Flag_of_Tripura_State.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Tripura_State.png",
+        "title": "Flag_of_Tripura_State.png",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "tripura-sundari-temple-tripura",
@@ -1478,6 +2196,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.42167 N, 91.31306 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Wildlife sanctuary in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7844042"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Indian Bison Gobo.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Indian_Bison_Gobo.jpg"
       }
     ],
     "missing_themes": [
@@ -1488,7 +2218,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7844042",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Indian_Bison_Gobo.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Indian_Bison_Gobo.jpg",
+        "title": "Indian_Bison_Gobo.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "ujjayanta-palace-tripura",
@@ -1523,6 +2271,48 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 23.83700 N, 91.28200 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1901 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3360963"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: state museum in Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3360963"
+      },
+      {
+        "theme": "placement-flag",
+        "text": "Wikidata names West Tripura District. The catalog already records Agartala, and that original area is kept.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3360963"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ujjayanta palace Tripura State Museum Agartala India.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
+      },
+      {
+        "theme": "history",
+        "text": "Tripura Tourism says Maharaja Radha Kishore Manikya built Ujjayanta Palace in 1901, and that Rabindranath Tagore gave the palace its name.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=1"
+      },
+      {
+        "theme": "detail",
+        "text": "The state page describes three domes about 86 feet high, Mughal-style gardens, and a museum in the palace after the assembly moved out in 2011.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=1"
+      },
+      {
+        "theme": "access",
+        "text": "Tripura Tourism places the palace in Agartala, West Tripura, in the heart of the city.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=1"
       }
     ],
     "missing_themes": [
@@ -1531,7 +2321,29 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3360963",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://tripuratourism.gov.in/single-tour.php?id=1",
+        "publisher": "tripuratourism.gov.in"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "title": "Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "unakoti-tripura",
@@ -1566,14 +2378,71 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.31660 N, 92.06660 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: tourist spot of Tripura, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q7882256"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Unakoti 3.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Unakoti_3.jpg"
+      },
+      {
+        "theme": "history",
+        "text": "Tripura Tourism calls Unakoti a Shaiva pilgrimage with rock carvings dated to the 7th to 9th centuries, including a Shiva head about 30 feet high.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=3"
+      },
+      {
+        "theme": "festival",
+        "text": "The state page says the Ashokastami Mela at Unakoti draws thousands of pilgrims each April.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=3"
+      },
+      {
+        "theme": "access",
+        "text": "The tourism page puts Unakoti 178 km from Agartala and 8 km from Kailashahar, reached via Kumarghat.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=3"
+      },
+      {
+        "theme": "placement-flag",
+        "text": "The state page calls Kailashahar the headquarters of North Tripura. The catalog fact already says Unakoti district, and that placement is kept.",
+        "basis": "cited-source",
+        "source": "https://tripuratourism.gov.in/single-tour.php?id=3"
       }
     ],
     "missing_themes": [
-      "festival",
       "local-culture",
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7882256",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Unakoti_3.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://tripuratourism.gov.in/single-tour.php?id=3",
+        "publisher": "tripuratourism.gov.in"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Unakoti_3.jpg",
+        "title": "Unakoti_3.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   }
 ]

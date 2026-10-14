@@ -28,3 +28,5 @@ The catalog is under continuous expansion. `data/coverage-summary.json` counts e
 ```
 
 Those overlay files do not add places or coordinates. A district mention is copied from the place's existing facts and is never used to move the place.
+
+`scripts/harvest_cited_facts.py` adds visitor facts only when an official tourism page or Wikidata states them, and it stores the source URL on the overlay. A conflicting district is flagged and the original state is kept.
