@@ -120,6 +120,12 @@
         "text": "A Wikimedia Commons file, Balpakram Canyon.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Balpakram_Canyon.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Highest peak of Balpakram-Ganchi.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Highest%20peak%20of%20Balpakram-Ganchi.jpg"
       }
     ],
     "missing_themes": [
@@ -139,6 +145,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Balpakram_Canyon.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Highest%20peak%20of%20Balpakram-Ganchi.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -270,6 +280,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Buddhist Stupa Garo Hills.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Buddhist%20Stupa%20Garo%20Hills.jpg"
       }
     ],
     "missing_themes": [
@@ -280,7 +296,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Buddhist%20Stupa%20Garo%20Hills.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chandigre-meghalaya",
@@ -323,6 +345,12 @@
         "text": "A Wikimedia Commons file, Rain Shelter Chandigre West Garo Oct24 A7CR 03553.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Rain_Shelter_Chandigre_West_Garo_Oct24_A7CR_03553.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Football Match Chandigre West Garo Oct24 A7CR 03548.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Football%20Match%20Chandigre%20West%20Garo%20Oct24%20A7CR%2003548.jpg"
       }
     ],
     "missing_themes": [
@@ -344,6 +372,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Rain_Shelter_Chandigre_West_Garo_Oct24_A7CR_03553.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Football%20Match%20Chandigre%20West%20Garo%20Oct24%20A7CR%2003548.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -396,6 +428,12 @@
         "text": "A Wikimedia Commons file, Cherrapunji.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Cherrapunji.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 7 Sister Falls Cherrapunji.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:7%20Sister%20Falls%20Cherrapunji.JPG"
       }
     ],
     "missing_themes": [
@@ -413,6 +451,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Cherrapunji.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:7%20Sister%20Falls%20Cherrapunji.JPG",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -459,6 +501,12 @@
         "text": "Meghalaya Tourism describes the Church of the Epiphany at Mawlynnong as more than a century old, set among gardens in the village.",
         "basis": "cited-source",
         "source": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Church of the Epiphany, Mawlynnong.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Church%20of%20the%20Epiphany%2C%20Mawlynnong.jpg"
       }
     ],
     "missing_themes": [
@@ -473,6 +521,10 @@
       {
         "url": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/",
         "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Church%20of%20the%20Epiphany%2C%20Mawlynnong.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -522,6 +574,12 @@
         "text": "A Wikimedia Commons file, Wei Sawdong Waterfall 3.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bridge near Dainthlen Falls.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bridge%20near%20Dainthlen%20Falls.jpg"
       }
     ],
     "missing_themes": [
@@ -544,6 +602,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bridge%20near%20Dainthlen%20Falls.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -591,6 +653,12 @@
         "text": "A Wikimedia Commons file, South View Daribokgre East Garo Oct24 A7CR 03641.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:South_View_Daribokgre_East_Garo_Oct24_A7CR_03641.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Fungi Dead Log Nokrek Daribokgre Oct24 A7CR 03609.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Fungi%20Dead%20Log%20Nokrek%20Daribokgre%20Oct24%20A7CR%2003609.jpg"
       }
     ],
     "missing_themes": [
@@ -608,6 +676,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:South_View_Daribokgre_East_Garo_Oct24_A7CR_03641.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fungi%20Dead%20Log%20Nokrek%20Daribokgre%20Oct24%20A7CR%2003609.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -667,6 +739,12 @@
         "text": "A Wikimedia Commons file, Umngot river, Dawki.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Umngot_river%2C_Dawki.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ancient Rock at Dawki Lake, Meghalaya, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ancient%20Rock%20at%20Dawki%20Lake%2C%20Meghalaya%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -688,6 +766,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Umngot_river%2C_Dawki.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ancient%20Rock%20at%20Dawki%20Lake%2C%20Meghalaya%2C%20India.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -820,6 +902,12 @@
         "text": "A Wikimedia Commons file, Elephant Falls Meghalaya.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_Meghalaya.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Elephant Falls Meghalaya.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Elephant%20Falls%20Meghalaya.jpg"
       }
     ],
     "missing_themes": [
@@ -838,6 +926,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_Meghalaya.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Elephant%20Falls%20Meghalaya.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -878,6 +970,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Excavated Temple - Shiva Temple.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Excavated%20Temple%20-%20Shiva%20Temple.jpg"
       }
     ],
     "missing_themes": [
@@ -888,7 +986,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Excavated%20Temple%20-%20Shiva%20Temple.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fortress-meghalaya",
@@ -918,6 +1022,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Fortress Garo Hills.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Fortress%20Garo%20Hills.jpg"
       }
     ],
     "missing_themes": [
@@ -928,7 +1038,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fortress%20Garo%20Hills.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gandrak-dare-falls-meghalaya",
@@ -970,6 +1086,12 @@
         "text": "A Wikimedia Commons file, Waterfall Gandrak Tura West Garo Oct24 A7CR 03814.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Side Waterfall Gandrak Tura West Garo Oct24 A7CR 03818.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Side%20Waterfall%20Gandrak%20Tura%20West%20Garo%20Oct24%20A7CR%2003818.jpg"
       }
     ],
     "missing_themes": [
@@ -987,6 +1109,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Side%20Waterfall%20Gandrak%20Tura%20West%20Garo%20Oct24%20A7CR%2003818.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1045,6 +1171,12 @@
         "text": "A Wikimedia Commons file, Jinjiram River.JPG, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Jinjiram_River.JPG"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Black-crested Bulbul West Garo Meghalaya Oct24 A7CR 03835.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Black-crested%20Bulbul%20West%20Garo%20Meghalaya%20Oct24%20A7CR%2003835.jpg"
       }
     ],
     "missing_themes": [
@@ -1062,6 +1194,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Jinjiram_River.JPG",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Black-crested%20Bulbul%20West%20Garo%20Meghalaya%20Oct24%20A7CR%2003835.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1183,6 +1319,12 @@
         "text": "A Wikimedia Commons file, East Khasi Hills.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:East_Khasi_Hills.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Sohra, Eastkhasihills.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sohra%2C%20Eastkhasihills.jpg"
       }
     ],
     "missing_themes": [
@@ -1201,6 +1343,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:East_Khasi_Hills.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sohra%2C%20Eastkhasihills.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1260,6 +1406,12 @@
         "text": "A Wikimedia Commons file, 10 Shnongpdei 1.JPG, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:10_Shnongpdei_1.JPG"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kongthong.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kongthong.jpg"
       }
     ],
     "missing_themes": [
@@ -1283,6 +1435,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:10_Shnongpdei_1.JPG",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kongthong.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1330,6 +1486,12 @@
         "text": "A Wikimedia Commons file, Kopili River.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Kopili_River.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kopili River.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kopili%20River.jpg"
       }
     ],
     "missing_themes": [
@@ -1348,6 +1510,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Kopili_River.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kopili%20River.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1463,6 +1629,12 @@
         "text": "A Wikimedia Commons file, Kynrem Falls.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Kynrem_Falls.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kynrem Falls.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kynrem%20Falls.jpg"
       }
     ],
     "missing_themes": [
@@ -1484,6 +1656,10 @@
     "sources": [
       {
         "url": "https://commons.wikimedia.org/wiki/File:Kynrem_Falls.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kynrem%20Falls.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ]
@@ -1518,6 +1694,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Laitlum, Shillong in 2026.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Laitlum%2C%20Shillong%20in%202026.jpg"
       }
     ],
     "missing_themes": [
@@ -1538,6 +1720,10 @@
       {
         "url": "https://www.meghalayatourism.in/explore/destinations/",
         "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Laitlum%2C%20Shillong%20in%202026.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -1570,6 +1756,12 @@
         "text": "A Wikimedia Commons file, Langshiang Falls Located in Sangriang, Nongstoin.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Langshiang_Falls_Located_in_Sangriang%2C_Nongstoin.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: LANGSHIANG FALLS.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:LANGSHIANG%20FALLS.jpg"
       }
     ],
     "missing_themes": [
@@ -1592,6 +1784,10 @@
       {
         "url": "https://commons.wikimedia.org/wiki/File:Langshiang_Falls_Located_in_Sangriang%2C_Nongstoin.jpg",
         "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:LANGSHIANG%20FALLS.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -1613,6 +1809,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Living Root Bridge, Meghalaya, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Living%20Root%20Bridge%2C%20Meghalaya%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -1624,7 +1826,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Living%20Root%20Bridge%2C%20Meghalaya%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "madina-mosque-shillong-meghalaya",
@@ -1814,6 +2022,12 @@
         "text": "A bamboo sky viewpoint in the village looks over the Bangladesh plains, a short walk from the single-decker root bridge.",
         "basis": "cited-source",
         "source": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mawlynnong's Living Root Bridge in Meghalaya, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mawlynnong%27s%20Living%20Root%20Bridge%20in%20Meghalaya%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -1825,6 +2039,10 @@
       {
         "url": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/",
         "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mawlynnong%27s%20Living%20Root%20Bridge%20in%20Meghalaya%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -1851,6 +2069,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.25889 N, 91.71250 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: MawmluhCave1.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:MawmluhCave1.jpg"
       }
     ],
     "missing_themes": [
@@ -1861,7 +2085,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:MawmluhCave1.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mawphanlur-meghalaya",
@@ -1904,6 +2134,12 @@
         "text": "A Wikimedia Commons file, NW Mawphanlur Lakes West Khasi Hills Oct24 A7CR 04235.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:NW_Mawphanlur_Lakes_West_Khasi_Hills_Oct24_A7CR_04235.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Boats Lake Mawphanlur Meghalaya Oct24 A7CR 04265.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Boats%20Lake%20Mawphanlur%20Meghalaya%20Oct24%20A7CR%2004265.jpg"
       }
     ],
     "missing_themes": [
@@ -1925,6 +2161,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:NW_Mawphanlur_Lakes_West_Khasi_Hills_Oct24_A7CR_04235.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Boats%20Lake%20Mawphanlur%20Meghalaya%20Oct24%20A7CR%2004265.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -1983,6 +2223,12 @@
         "text": "A Wikimedia Commons file, Seven Sisters Water Falls Mawsmai Cherrapunjee 513.JPG, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Board welcoming tourists to Mawsmai Cave in Meghalaya.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Board%20welcoming%20tourists%20to%20Mawsmai%20Cave%20in%20Meghalaya.jpg"
       }
     ],
     "missing_themes": [
@@ -2005,6 +2251,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Board%20welcoming%20tourists%20to%20Mawsmai%20Cave%20in%20Meghalaya.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2068,6 +2318,12 @@
         "text": "A Wikimedia Commons file, Mawsynram, India (PIA20437).jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Mawsynram%2C%20India%20%28PIA20437%29.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mawsynram, India (ASTER).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mawsynram%2C%20India%20%28ASTER%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2089,6 +2345,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Mawsynram%2C%20India%20%28PIA20437%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mawsynram%2C%20India%20%28ASTER%29.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2207,6 +2467,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Megalith bridge of meghalaya.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Megalith%20bridge%20of%20meghalaya.jpg"
       }
     ],
     "missing_themes": [
@@ -2216,7 +2482,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Megalith%20bridge%20of%20meghalaya.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "narpuh-wildlife-sanctuary-meghalaya",
@@ -2300,6 +2572,12 @@
         "text": "A Wikimedia Commons file, Nartiang Durga temple.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Nartiang_Durga_temple.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Inside Maa Jayantee temple, Nartiang, Meghalaya.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Inside%20Maa%20Jayantee%20temple%2C%20Nartiang%2C%20Meghalaya.jpg"
       }
     ],
     "missing_themes": [
@@ -2318,6 +2596,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Nartiang_Durga_temple.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Inside%20Maa%20Jayantee%20temple%2C%20Nartiang%2C%20Meghalaya.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2402,6 +2684,12 @@
         "text": "A Wikimedia Commons file, NohKaLikai Falls V2 Wiki.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: NohKaLikai Falls V2 Wiki.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:NohKaLikai%20Falls%20V2%20Wiki.jpg"
       }
     ],
     "missing_themes": [
@@ -2423,6 +2711,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:NohKaLikai%20Falls%20V2%20Wiki.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2470,6 +2762,12 @@
         "text": "A Wikimedia Commons file, Seven Sisters Water Falls Mawsmai Cherrapunjee 513.JPG, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mountains and fog (Nohsngithiang Falls, India) 2016.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mountains%20and%20fog%20%28Nohsngithiang%20Falls%2C%20India%29%202016.jpg"
       }
     ],
     "missing_themes": [
@@ -2488,6 +2786,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mountains%20and%20fog%20%28Nohsngithiang%20Falls%2C%20India%29%202016.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2535,6 +2837,12 @@
         "text": "A Wikimedia Commons file, Jhum cultivation in Nokrek Biosphere Reserve Meghalaya India Northeast India 2004.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Jhum%20cultivation%20in%20Nokrek%20Biosphere%20Reserve%20Meghalaya%20India%20Northeast%20India%202004.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bird house at Nokrek national park.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bird%20house%20at%20Nokrek%20national%20park.jpg"
       }
     ],
     "missing_themes": [
@@ -2552,6 +2860,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Jhum%20cultivation%20in%20Nokrek%20Biosphere%20Reserve%20Meghalaya%20India%20Northeast%20India%202004.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bird%20house%20at%20Nokrek%20national%20park.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2609,6 +2921,12 @@
         "text": "A Wikimedia Commons file, Waterfall Gandrak Tura West Garo Oct24 A7CR 03814.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Nokrek National Park, Tura, Meghalaya.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Nokrek%20National%20Park%2C%20Tura%2C%20Meghalaya.jpg"
       }
     ],
     "missing_themes": [
@@ -2626,6 +2944,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Nokrek%20National%20Park%2C%20Tura%2C%20Meghalaya.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2731,6 +3053,12 @@
         "text": "A Wikimedia Commons file, Double Decker Living Tree Root Bridges, Meghalaya.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Double Decker Root Bridge, Nongriat.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Double%20Decker%20Root%20Bridge%2C%20Nongriat.jpg"
       }
     ],
     "missing_themes": [
@@ -2752,6 +3080,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Double%20Decker%20Root%20Bridge%2C%20Nongriat.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2799,6 +3131,12 @@
         "text": "A Wikimedia Commons file, Nongtalang Town - 1.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Nongtalang%20Town%20-%201.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A view of Nongtalang .jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20view%20of%20Nongtalang%20.jpg"
       }
     ],
     "missing_themes": [
@@ -2816,6 +3154,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Nongtalang%20Town%20-%201.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20view%20of%20Nongtalang%20.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2852,6 +3194,12 @@
         "text": "Meghalaya Tourism lists Rangthylliang among its living-root-bridge experiences.",
         "basis": "cited-source",
         "source": "https://www.meghalayatourism.in/experiences/curated-experiences/"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 1 Rangthylliang 1.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:1%20Rangthylliang%201.JPG"
       }
     ],
     "missing_themes": [
@@ -2867,6 +3215,10 @@
       {
         "url": "https://www.meghalayatourism.in/experiences/curated-experiences/",
         "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:1%20Rangthylliang%201.JPG",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -2905,6 +3257,12 @@
         "text": "A Wikimedia Commons file, Bamboo Farm Buildings Sasatgre West Garo Oct24 A7CR 03309.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Bamboo_Farm_Buildings_Sasatgre_West_Garo_Oct24_A7CR_03309.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Indian White-eye Sasatgre Meghalaya Oct24 A7CR 03697.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Indian%20White-eye%20Sasatgre%20Meghalaya%20Oct24%20A7CR%2003697.jpg"
       }
     ],
     "missing_themes": [
@@ -2922,6 +3280,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Bamboo_Farm_Buildings_Sasatgre_West_Garo_Oct24_A7CR_03309.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Indian%20White-eye%20Sasatgre%20Meghalaya%20Oct24%20A7CR%2003697.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -2962,6 +3324,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: The monument which i saw in meghalaya was quite difficult to reach yet worth to reach .This is david scott's memorial stone , which stand magnificent over there. 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:The%20monument%20which%20i%20saw%20in%20meghalaya%20was%20quite%20difficult%20to%20reach%20yet%20worth%20to%20reach%20.This%20is%20david%20scott%27s%20memorial%20stone%20%2C%20which%20stand%20magnificent%20over%20there.%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -2971,7 +3339,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:The%20monument%20which%20i%20saw%20in%20meghalaya%20was%20quite%20difficult%20to%20reach%20yet%20worth%20to%20reach%20.This%20is%20david%20scott%27s%20memorial%20stone%20%2C%20which%20stand%20magnificent%20over%20there.%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sherpai-meghalaya",
@@ -3006,6 +3380,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Euthrix sherpai.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Euthrix%20sherpai.jpg"
       }
     ],
     "missing_themes": [
@@ -3016,7 +3396,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Euthrix%20sherpai.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "shillong-meghalaya",
@@ -3057,6 +3443,12 @@
         "theme": "suggested-duration",
         "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Smerinthulus mirabilis MHNT CUT 2010 0 244 Shillong Meghalaya India male ventral.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Smerinthulus%20mirabilis%20MHNT%20CUT%202010%200%20244%20Shillong%20Meghalaya%20India%20male%20ventral.jpg"
       }
     ],
     "missing_themes": [
@@ -3073,6 +3465,10 @@
       {
         "url": "https://www.wikidata.org/",
         "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Smerinthulus%20mirabilis%20MHNT%20CUT%202010%200%20244%20Shillong%20Meghalaya%20India%20male%20ventral.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -3100,6 +3496,12 @@
         "text": "State tourism bills Siju as a Garo Hills stop, describing it as a place that feels frozen in time.",
         "basis": "cited-source",
         "source": "https://www.meghalayatourism.in/experiences/curated-experiences/"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cliff Entrance Siju Cave South Garo Oct24 A7CR 04121.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cliff%20Entrance%20Siju%20Cave%20South%20Garo%20Oct24%20A7CR%2004121.jpg"
       }
     ],
     "missing_themes": [
@@ -3115,6 +3517,10 @@
       {
         "url": "https://www.meghalayatourism.in/experiences/curated-experiences/",
         "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cliff%20Entrance%20Siju%20Cave%20South%20Garo%20Oct24%20A7CR%2004121.jpg",
+        "publisher": "commons.wikimedia.org"
       }
     ]
   },
@@ -3198,6 +3604,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Stone Memorial of U-Maw Thodur-Briew, Nartiang, West Jaintia Hills, Meghalaya, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Stone%20Memorial%20of%20U-Maw%20Thodur-Briew%2C%20Nartiang%2C%20West%20Jaintia%20Hills%2C%20Meghalaya%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -3207,7 +3619,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Stone%20Memorial%20of%20U-Maw%20Thodur-Briew%2C%20Nartiang%2C%20West%20Jaintia%20Hills%2C%20Meghalaya%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "stone-memorial-of-u-mawthoh-dur-bhoi-country-meghalaya",
@@ -3368,6 +3786,12 @@
         "text": "A Wikimedia Commons file, Panoramic Thadlaskein.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Panoramic_Thadlaskein.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Panoramic Thadlaskein.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Panoramic%20Thadlaskein.jpg"
       }
     ],
     "missing_themes": [
@@ -3386,6 +3810,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Panoramic_Thadlaskein.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Panoramic%20Thadlaskein.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -3478,6 +3906,12 @@
         "text": "A Wikimedia Commons file, Waterfall Gandrak Tura West Garo Oct24 A7CR 03814.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Entrance CGHSS Tura Meghalaya Oct24 A7CR 03794.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance%20CGHSS%20Tura%20Meghalaya%20Oct24%20A7CR%2003794.jpg"
       }
     ],
     "missing_themes": [
@@ -3495,6 +3929,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Entrance%20CGHSS%20Tura%20Meghalaya%20Oct24%20A7CR%2003794.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -3542,6 +3980,12 @@
         "text": "A Wikimedia Commons file, Umiam Lake - by Vikramjit Kakati.png, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Umiam_Lake_-_by_Vikramjit_Kakati.png"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lamington cake- local bakery- umiam-meghalaya-4.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lamington%20cake-%20local%20bakery-%20umiam-meghalaya-4.jpg"
       }
     ],
     "missing_themes": [
@@ -3560,6 +4004,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Umiam_Lake_-_by_Vikramjit_Kakati.png",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lamington%20cake-%20local%20bakery-%20umiam-meghalaya-4.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -3613,6 +4061,12 @@
         "text": "A Wikimedia Commons file, Double Decker Living Tree Root Bridges, Meghalaya.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A double decker living bridge in Meghalaya, December 2011.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20double%20decker%20living%20bridge%20in%20Meghalaya%2C%20December%202011.jpg"
       }
     ],
     "missing_themes": [
@@ -3634,6 +4088,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20double%20decker%20living%20bridge%20in%20Meghalaya%2C%20December%202011.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -3681,6 +4139,12 @@
         "text": "A Wikimedia Commons file, Wah Kaba at top.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Wah_Kaba_at_top.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: \"Wah Kaba Falls, Meghalaya – Where Water Meets the Sky.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:%22Wah%20Kaba%20Falls%2C%20Meghalaya%20%E2%80%93%20Where%20Water%20Meets%20the%20Sky.jpg"
       }
     ],
     "missing_themes": [
@@ -3699,6 +4163,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Wah_Kaba_at_top.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:%22Wah%20Kaba%20Falls%2C%20Meghalaya%20%E2%80%93%20Where%20Water%20Meets%20the%20Sky.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -3746,6 +4214,12 @@
         "text": "A Wikimedia Commons file, Ward's Lake, Shillong.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Ward%27s_Lake%2C_Shillong.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ward's Lake, Shillong.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ward%27s%20Lake%2C%20Shillong.jpg"
       }
     ],
     "missing_themes": [
@@ -3764,6 +4238,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Ward%27s_Lake%2C_Shillong.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ward%27s%20Lake%2C%20Shillong.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],
@@ -3811,6 +4289,12 @@
         "text": "A Wikimedia Commons file, Wei Sawdong Waterfall 3.jpg, is linked from the matched page.",
         "basis": "cited-source",
         "source": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Wei Sawdong Falls.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Wei%20Sawdong%20Falls.jpg"
       }
     ],
     "missing_themes": [
@@ -3829,6 +4313,10 @@
       },
       {
         "url": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg",
+        "publisher": "commons.wikimedia.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Wei%20Sawdong%20Falls.jpg",
         "publisher": "commons.wikimedia.org"
       }
     ],

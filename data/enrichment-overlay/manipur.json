@@ -27,6 +27,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A small hillock in the Imphal Valley - Central plain of Kangleipak (Manipur) 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20small%20hillock%20in%20the%20Imphal%20Valley%20-%20Central%20plain%20of%20Kangleipak%20%28Manipur%29%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -36,7 +42,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20small%20hillock%20in%20the%20Imphal%20Valley%20-%20Central%20plain%20of%20Kangleipak%20%28Manipur%29%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "a-menhir-manipur",
@@ -150,6 +162,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ANDRO INSCRIPTION.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ANDRO%20INSCRIPTION.jpg"
       }
     ],
     "missing_themes": [
@@ -159,7 +177,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ANDRO%20INSCRIPTION.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bihu-loukon-manipur",
@@ -189,6 +213,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bihu Loukon.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bihu%20Loukon.jpg"
       }
     ],
     "missing_themes": [
@@ -199,7 +229,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bihu%20Loukon.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "boulder-of-lord-wangbrel-wangpurel-manipur",
@@ -307,6 +343,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: CHOTHE THANGWAI PAKHANGPA.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:CHOTHE%20THANGWAI%20PAKHANGPA.jpg"
       }
     ],
     "missing_themes": [
@@ -316,7 +358,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:CHOTHE%20THANGWAI%20PAKHANGPA.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "churachandpur-khoupum-protected-forest-manipur",
@@ -459,6 +507,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gopinath Temple, Ningthoukhong 02.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gopinath%20Temple%2C%20Ningthoukhong%2002.jpg"
       }
     ],
     "missing_themes": [
@@ -469,7 +523,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gopinath%20Temple%2C%20Ningthoukhong%2002.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "hapta-kangjeibung-manipur",
@@ -529,6 +589,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.84000 N, 93.94000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Map of Heingang AC.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Map%20of%20Heingang%20AC.png"
       }
     ],
     "missing_themes": [
@@ -538,7 +604,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Map%20of%20Heingang%20AC.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "heingang-ching-manipur",
@@ -632,6 +704,12 @@
         "theme": "suggested-duration",
         "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Information board about Hijagang (Meitei royal boatyard) inside the Kangla Fort, Imphal West district, Kangleipak (Manipur) 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Information%20board%20about%20Hijagang%20%28Meitei%20royal%20boatyard%29%20inside%20the%20Kangla%20Fort%2C%20Imphal%20West%20district%2C%20Kangleipak%20%28Manipur%29%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -642,7 +720,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Information%20board%20about%20Hijagang%20%28Meitei%20royal%20boatyard%29%20inside%20the%20Kangla%20Fort%2C%20Imphal%20West%20district%2C%20Kangleipak%20%28Manipur%29%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "historical-site-of-wangkhei-meiraba-manipur",
@@ -1014,6 +1098,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.82000 N, 93.95000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A modern day building in Classical Meitei architecture, in Imphal, the capital city of Manipur state (Kangleipak) 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20modern%20day%20building%20in%20Classical%20Meitei%20architecture%2C%20in%20Imphal%2C%20the%20capital%20city%20of%20Manipur%20state%20%28Kangleipak%29%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -1024,7 +1114,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20modern%20day%20building%20in%20Classical%20Meitei%20architecture%2C%20in%20Imphal%2C%20the%20capital%20city%20of%20Manipur%20state%20%28Kangleipak%29%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "imphal-peace-museum-manipur",
@@ -1054,6 +1150,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.70518 N, 93.81744 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Imphal Peace Museum View.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Imphal%20Peace%20Museum%20View.jpg"
       }
     ],
     "missing_themes": [
@@ -1062,7 +1164,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Imphal%20Peace%20Museum%20View.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "imphal-river-manipur",
@@ -1161,6 +1269,12 @@
         "theme": "suggested-duration",
         "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: INA Memorial, Moirang, Manipur (12).jpeg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:INA%20Memorial%2C%20Moirang%2C%20Manipur%20%2812%29.jpeg"
       }
     ],
     "missing_themes": [
@@ -1169,7 +1283,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:INA%20Memorial%2C%20Moirang%2C%20Manipur%20%2812%29.jpeg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ina-war-museum-manipur",
@@ -1230,6 +1350,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: List of inscriptions on tombs or monuments in Bengal.pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:List%20of%20inscriptions%20on%20tombs%20or%20monuments%20in%20Bengal.pdf"
       }
     ],
     "missing_themes": [
@@ -1239,7 +1365,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:List%20of%20inscriptions%20on%20tombs%20or%20monuments%20in%20Bengal.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "inscribed-stone-monuments-manipur",
@@ -1269,6 +1401,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: List of inscriptions on tombs or monuments in Bengal.pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:List%20of%20inscriptions%20on%20tombs%20or%20monuments%20in%20Bengal.pdf"
       }
     ],
     "missing_themes": [
@@ -1278,7 +1416,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:List%20of%20inscriptions%20on%20tombs%20or%20monuments%20in%20Bengal.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "inscribed-stone-of-maharaja-garibniwaj-manipur",
@@ -1545,6 +1689,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.80800 N, 93.94000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kangla Manipur Palace.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kangla%20Manipur%20Palace.jpg"
       }
     ],
     "missing_themes": [
@@ -1554,7 +1704,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kangla%20Manipur%20Palace.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kangla-nongpok-thong-manipur",
@@ -1763,6 +1919,12 @@
         "theme": "suggested-duration",
         "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: KHONGJOM WAR MEMORIAL COMPLEX.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:KHONGJOM%20WAR%20MEMORIAL%20COMPLEX.jpg"
       }
     ],
     "missing_themes": [
@@ -1774,7 +1936,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:KHONGJOM%20WAR%20MEMORIAL%20COMPLEX.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "khuga-dam-manipur",
@@ -2146,6 +2314,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.80504 N, 94.03543 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lainingthou Sanamahi Laishang - Sanamahi Kiyong Temple - a shrine of Sanamahism in the hilltop of the Nongmaiching Ching in Kangleipak - Classical Meitei architecture 06.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lainingthou%20Sanamahi%20Laishang%20-%20Sanamahi%20Kiyong%20Temple%20-%20a%20shrine%20of%20Sanamahism%20in%20the%20hilltop%20of%20the%20Nongmaiching%20Ching%20in%20Kangleipak%20-%20Classical%20Meitei%20architecture%2006.jpg"
       }
     ],
     "missing_themes": [
@@ -2153,7 +2327,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lainingthou%20Sanamahi%20Laishang%20-%20Sanamahi%20Kiyong%20Temple%20-%20a%20shrine%20of%20Sanamahism%20in%20the%20hilltop%20of%20the%20Nongmaiching%20Ching%20in%20Kangleipak%20-%20Classical%20Meitei%20architecture%2006.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lainingthou-sanamahi-manipur",
@@ -2183,6 +2363,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: The Symbol of Sanamahi (coloured).svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:The%20Symbol%20of%20Sanamahi%20%28coloured%29.svg"
       }
     ],
     "missing_themes": [
@@ -2192,7 +2378,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:The%20Symbol%20of%20Sanamahi%20%28coloured%29.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lamtol-khagemba-laikol-manipur",
@@ -2377,6 +2569,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.51767 N, 93.81374 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: LOKTAK FOLKLORE MUSEUM.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:LOKTAK%20FOLKLORE%20MUSEUM.jpg"
       }
     ],
     "missing_themes": [
@@ -2385,7 +2583,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:LOKTAK%20FOLKLORE%20MUSEUM.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "loktak-lake-manipur",
@@ -2648,6 +2852,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Annual report of the American Baptist Missionary Union (IA annualreportofam1850amer).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Annual%20report%20of%20the%20American%20Baptist%20Missionary%20Union%20%28IA%20annualreportofam1850amer%29.pdf"
       }
     ],
     "missing_themes": [
@@ -2659,7 +2869,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Annual%20report%20of%20the%20American%20Baptist%20Missionary%20Union%20%28IA%20annualreportofam1850amer%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "manipur-bush-quail-manipur",
@@ -2679,6 +2895,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A Hand-book to the Game-Birds - Manipur Painted Bush-Quail.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20Hand-book%20to%20the%20Game-Birds%20-%20Manipur%20Painted%20Bush-Quail.png"
       }
     ],
     "missing_themes": [
@@ -2690,7 +2912,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20Hand-book%20to%20the%20Game-Birds%20-%20Manipur%20Painted%20Bush-Quail.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "manipur-bush-rat-manipur",
@@ -2755,6 +2983,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.80485 N, 93.93709 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: MANIPUR STATE MUSEUM.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:MANIPUR%20STATE%20MUSEUM.jpg"
       }
     ],
     "missing_themes": [
@@ -2763,7 +2997,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:MANIPUR%20STATE%20MUSEUM.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "manipuri-pony-manipur",
@@ -2834,6 +3074,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.80610 N, 93.94270 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: \"Manung Kangjeibung\" (Modern Meitei) and \"Manung Kangcheipung\" (Ancient Meitei) names of the Royal Polo Ground located inside the Kangla Fort of Imphal, Kangleipak (Manipur).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:%22Manung%20Kangjeibung%22%20%28Modern%20Meitei%29%20and%20%22Manung%20Kangcheipung%22%20%28Ancient%20Meitei%29%20names%20of%20the%20Royal%20Polo%20Ground%20located%20inside%20the%20Kangla%20Fort%20of%20Imphal%2C%20Kangleipak%20%28Manipur%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2843,7 +3089,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:%22Manung%20Kangjeibung%22%20%28Modern%20Meitei%29%20and%20%22Manung%20Kangcheipung%22%20%28Ancient%20Meitei%29%20names%20of%20the%20Royal%20Polo%20Ground%20located%20inside%20the%20Kangla%20Fort%20of%20Imphal%2C%20Kangleipak%20%28Manipur%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "maphitel-manipur",
@@ -3176,6 +3428,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kajenglei, traditional headdress of Meitei culture ,housed at National Museum, New Delhi.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kajenglei%2C%20traditional%20headdress%20of%20Meitei%20culture%20%2Choused%20at%20National%20Museum%2C%20New%20Delhi.jpg"
       }
     ],
     "missing_themes": [
@@ -3186,7 +3444,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kajenglei%2C%20traditional%20headdress%20of%20Meitei%20culture%20%2Choused%20at%20National%20Museum%2C%20New%20Delhi.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "menjor-multipurpose-research-centre-and-unity-park-manipur",
@@ -3288,6 +3552,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mera Thaumei, A lamp tied to a tall green bamboo pole was lighted and installed during Mera Hou Chongba festival.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mera%20Thaumei%2C%20A%20lamp%20tied%20to%20a%20tall%20green%20bamboo%20pole%20was%20lighted%20and%20installed%20during%20Mera%20Hou%20Chongba%20festival.jpg"
       }
     ],
     "missing_themes": [
@@ -3298,7 +3568,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mera%20Thaumei%2C%20A%20lamp%20tied%20to%20a%20tall%20green%20bamboo%20pole%20was%20lighted%20and%20installed%20during%20Mera%20Hou%20Chongba%20festival.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mizorammanipurkachin-rain-forests-manipur",
@@ -3323,6 +3599,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.23330 N, 94.00000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mizoram-Manipur-Kachin Rain Forests Ecoregion - Relief Map.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mizoram-Manipur-Kachin%20Rain%20Forests%20Ecoregion%20-%20Relief%20Map.png"
       }
     ],
     "missing_themes": [
@@ -3333,7 +3615,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mizoram-Manipur-Kachin%20Rain%20Forests%20Ecoregion%20-%20Relief%20Map.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mount-koubru-manipur",
@@ -3358,6 +3646,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.06083 N, 93.87611 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mount Koubru region (AMS, 1954).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mount%20Koubru%20region%20%28AMS%2C%201954%29.jpg"
       }
     ],
     "missing_themes": [
@@ -3368,7 +3662,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mount%20Koubru%20region%20%28AMS%2C%201954%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mount-manipur-manipur",
@@ -3393,6 +3693,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.72222 N, 92.73278 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: My Three Years In Manipur And Escape From The Recent Muting (IA MyThreeYearsInManipurAndEscapeFromTheRecentMuting).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:My%20Three%20Years%20In%20Manipur%20And%20Escape%20From%20The%20Recent%20Muting%20%28IA%20MyThreeYearsInManipurAndEscapeFromTheRecentMuting%29.pdf"
       }
     ],
     "missing_themes": [
@@ -3403,7 +3709,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:My%20Three%20Years%20In%20Manipur%20And%20Escape%20From%20The%20Recent%20Muting%20%28IA%20MyThreeYearsInManipurAndEscapeFromTheRecentMuting%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mrs-hume-s-pheasant-manipur",
@@ -3508,6 +3820,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ningol Chakouba ꯱.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ningol%20Chakouba%20%EA%AF%B1.jpg"
       }
     ],
     "missing_themes": [
@@ -3518,7 +3836,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ningol%20Chakouba%20%EA%AF%B1.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nongmaiching-hill-manipur",
@@ -3604,6 +3928,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ancient Meitei language & Modern Meitei language terms for \"Orchidarium\" or \"Orchid garden\" - in Classical Meetei Mayek writing system & Latin transliterations.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ancient%20Meitei%20language%20%26%20Modern%20Meitei%20language%20terms%20for%20%22Orchidarium%22%20or%20%22Orchid%20garden%22%20-%20in%20Classical%20Meetei%20Mayek%20writing%20system%20%26%20Latin%20transliterations.jpg"
       }
     ],
     "missing_themes": [
@@ -3615,7 +3945,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ancient%20Meitei%20language%20%26%20Modern%20Meitei%20language%20terms%20for%20%22Orchidarium%22%20or%20%22Orchid%20garden%22%20-%20in%20Classical%20Meetei%20Mayek%20writing%20system%20%26%20Latin%20transliterations.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "osteobrama-belangeri-manipur",
@@ -3671,6 +4007,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.80800 N, 93.94100 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A Classical Meitei sculpture of a Meitei mythological dragon boat hybrid installed in the Pakhangba Temple inside the Kangla Fort, Imphal, Kangleipak (Manipur).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20Classical%20Meitei%20sculpture%20of%20a%20Meitei%20mythological%20dragon%20boat%20hybrid%20installed%20in%20the%20Pakhangba%20Temple%20inside%20the%20Kangla%20Fort%2C%20Imphal%2C%20Kangleipak%20%28Manipur%29.jpg"
       }
     ],
     "missing_themes": [
@@ -3680,7 +4022,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20Classical%20Meitei%20sculpture%20of%20a%20Meitei%20mythological%20dragon%20boat%20hybrid%20installed%20in%20the%20Pakhangba%20Temple%20inside%20the%20Kangla%20Fort%2C%20Imphal%2C%20Kangleipak%20%28Manipur%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "panthoibi-iratpa-manipur",
@@ -3771,6 +4119,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.11100 N, 94.36000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Phungyo Baptist Church, Ukhrul.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Phungyo%20Baptist%20Church%2C%20Ukhrul.jpg"
       }
     ],
     "missing_themes": [
@@ -3781,7 +4135,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Phungyo%20Baptist%20Church%2C%20Ukhrul.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "pinoumai-tamartuo-manipur",
@@ -3840,6 +4200,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bandera FPRM Manipur.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bandera%20FPRM%20Manipur.png"
       }
     ],
     "missing_themes": [
@@ -3851,7 +4217,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bandera%20FPRM%20Manipur.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "polo-manipur",
@@ -3871,6 +4243,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 1st MANIPUR STATEHOOD DAY WOMEN'S POLO TOURNAMENT-2016.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:1st%20MANIPUR%20STATEHOOD%20DAY%20WOMEN%27S%20POLO%20TOURNAMENT-2016.jpg"
       }
     ],
     "missing_themes": [
@@ -3882,7 +4260,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:1st%20MANIPUR%20STATEHOOD%20DAY%20WOMEN%27S%20POLO%20TOURNAMENT-2016.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "pond-of-lord-wangbrel-manipur",
@@ -3946,6 +4330,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.42000 N, 93.87000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Pumlenpat Lake in Thoubal district of Kangleipak (Manipur).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Pumlenpat%20Lake%20in%20Thoubal%20district%20of%20Kangleipak%20%28Manipur%29.jpg"
       }
     ],
     "missing_themes": [
@@ -3956,7 +4346,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pumlenpat%20Lake%20in%20Thoubal%20district%20of%20Kangleipak%20%28Manipur%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rash-mandal-pukhri-manipur",
@@ -4391,6 +4787,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Sanamahi Temple Imphal.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sanamahi%20Temple%20Imphal.jpg"
       }
     ],
     "missing_themes": [
@@ -4400,7 +4802,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sanamahi%20Temple%20Imphal.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sangai-manipur",
@@ -4420,6 +4828,12 @@
         "theme": "suggested-duration",
         "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: An artwork showing a Sangai deer (Cervus eldi eldi), also called brow-antlered deer, a creature significant in Classical Meitei cultural heritage of Manipur state.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:An%20artwork%20showing%20a%20Sangai%20deer%20%28Cervus%20eldi%20eldi%29%2C%20also%20called%20brow-antlered%20deer%2C%20a%20creature%20significant%20in%20Classical%20Meitei%20cultural%20heritage%20of%20Manipur%20state.jpg"
       }
     ],
     "missing_themes": [
@@ -4431,7 +4845,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:An%20artwork%20showing%20a%20Sangai%20deer%20%28Cervus%20eldi%20eldi%29%2C%20also%20called%20brow-antlered%20deer%2C%20a%20creature%20significant%20in%20Classical%20Meitei%20cultural%20heritage%20of%20Manipur%20state.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sangaiyumpham-maharaja-gambhir-singh-manipur",
@@ -4689,6 +5109,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.79780 N, 93.94850 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Shree Govindaji temple, Manipur.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Shree%20Govindaji%20temple%2C%20Manipur.jpg"
       }
     ],
     "missing_themes": [
@@ -4698,7 +5124,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Shree%20Govindaji%20temple%2C%20Manipur.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "shree-govindajee-temps-manipur",
@@ -4728,6 +5160,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Shree Govindaji temple, Manipur.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Shree%20Govindaji%20temple%2C%20Manipur.jpg"
       }
     ],
     "missing_themes": [
@@ -4738,7 +5176,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Shree%20Govindaji%20temple%2C%20Manipur.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "shrine-of-lord-wangbrel-wangpurel-manipur",
@@ -4892,6 +5336,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.85083 N, 93.93250 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Imphal - St Josphes cathedral.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Imphal%20-%20St%20Josphes%20cathedral.JPG"
       }
     ],
     "missing_themes": [
@@ -4899,7 +5349,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Imphal%20-%20St%20Josphes%20cathedral.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "statue-of-meidingu-nara-singh-manipur",
@@ -4939,6 +5395,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.80750 N, 93.93870 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Carved work of Meitei king Meidingu Nara Singh, the Maharaja of Kangleipak (Manipur Kingdom), installed in the MMRC and Unity Park, Khangabok, Thoubal.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Carved%20work%20of%20Meitei%20king%20Meidingu%20Nara%20Singh%2C%20the%20Maharaja%20of%20Kangleipak%20%28Manipur%20Kingdom%29%2C%20installed%20in%20the%20MMRC%20and%20Unity%20Park%2C%20Khangabok%2C%20Thoubal.jpg"
       }
     ],
     "missing_themes": [
@@ -4946,7 +5408,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Carved%20work%20of%20Meitei%20king%20Meidingu%20Nara%20Singh%2C%20the%20Maharaja%20of%20Kangleipak%20%28Manipur%20Kingdom%29%2C%20installed%20in%20the%20MMRC%20and%20Unity%20Park%2C%20Khangabok%2C%20Thoubal.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "stonehenge-of-manipur-manipur",
@@ -5128,6 +5596,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: LAI SANAMAHI LAISHANG.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:LAI%20SANAMAHI%20LAISHANG.jpg"
       }
     ],
     "missing_themes": [
@@ -5137,7 +5611,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:LAI%20SANAMAHI%20LAISHANG.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "temple-of-shri-krishna-manipur",
@@ -5245,6 +5725,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Vishnu temple, Bishnupur 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Vishnu%20temple%2C%20Bishnupur%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -5254,7 +5740,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Vishnu%20temple%2C%20Bishnupur%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tengnoupal-manipur",
@@ -5284,6 +5776,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.32800 N, 93.98600 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Tengnoupal in Manipur (India).svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tengnoupal%20in%20Manipur%20%28India%29.svg"
       }
     ],
     "missing_themes": [
@@ -5293,7 +5791,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tengnoupal%20in%20Manipur%20%28India%29.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "thanga-manipur",
@@ -5313,6 +5817,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A stone in a holy & sacred place of worship - venerated by the local Meitei people of the Thanga Island in the middle of the Loktak Lake in Kangleipak (Manipur) 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20stone%20in%20a%20holy%20%26%20sacred%20place%20of%20worship%20-%20venerated%20by%20the%20local%20Meitei%20people%20of%20the%20Thanga%20Island%20in%20the%20middle%20of%20the%20Loktak%20Lake%20in%20Kangleipak%20%28Manipur%29%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -5323,7 +5833,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20stone%20in%20a%20holy%20%26%20sacred%20place%20of%20worship%20-%20venerated%20by%20the%20local%20Meitei%20people%20of%20the%20Thanga%20Island%20in%20the%20middle%20of%20the%20Loktak%20Lake%20in%20Kangleipak%20%28Manipur%29%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "thangjing-hill-manipur",
@@ -5348,6 +5864,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.46850 N, 93.66170 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Thangjing-Hill-area-SoI-1944.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Thangjing-Hill-area-SoI-1944.jpg"
       }
     ],
     "missing_themes": [
@@ -5358,7 +5880,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Thangjing-Hill-area-SoI-1944.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "thangjing-temple-moirang-manipur",

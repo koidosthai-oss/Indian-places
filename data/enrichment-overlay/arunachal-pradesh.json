@@ -202,6 +202,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.63507 N, 91.73215 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bap teng kang water falls -Arunachal Pradesh - India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bap%20teng%20kang%20water%20falls%20-Arunachal%20Pradesh%20-%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -212,7 +218,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bap%20teng%20kang%20water%20falls%20-Arunachal%20Pradesh%20-%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bhismaknagar-arunachal-pradesh",
@@ -242,6 +254,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 28.04827 N, 96.00453 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A section of a wall in Bhismaknagar.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20section%20of%20a%20wall%20in%20Bhismaknagar.jpg"
       }
     ],
     "missing_themes": [
@@ -250,7 +268,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20section%20of%20a%20wall%20in%20Bhismaknagar.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bomdi-la-arunachal-pradesh",
@@ -545,6 +569,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.77620 N, 91.98290 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chumi-Gyatse-Falls-LSIB.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chumi-Gyatse-Falls-LSIB.jpg"
       }
     ],
     "missing_themes": [
@@ -554,7 +584,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chumi-Gyatse-Falls-LSIB.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "d-ering-memorial-wildlife-sanctuary-arunachal-pradesh",
@@ -699,6 +735,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.80000 N, 95.58330 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dibang District Valley with circles and various labels.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dibang%20District%20Valley%20with%20circles%20and%20various%20labels.png"
       }
     ],
     "missing_themes": [
@@ -708,7 +750,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dibang%20District%20Valley%20with%20circles%20and%20various%20labels.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "dibang-wildlife-sanctuary-arunachal-pradesh",
@@ -811,6 +859,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.23330 N, 94.70000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dihing River at Namsai in Arunachal Pradesh (photo - Jim Ankan Deka).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dihing%20River%20at%20Namsai%20in%20Arunachal%20Pradesh%20%28photo%20-%20Jim%20Ankan%20Deka%29.jpg"
       }
     ],
     "missing_themes": [
@@ -821,7 +875,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dihing%20River%20at%20Namsai%20in%20Arunachal%20Pradesh%20%28photo%20-%20Jim%20Ankan%20Deka%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "diphu-pass-arunachal-pradesh",
@@ -984,6 +1044,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Eaglenest forest canopy.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Eaglenest%20forest%20canopy.JPG"
       }
     ],
     "missing_themes": [
@@ -994,7 +1060,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Eaglenest%20forest%20canopy.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "eaglenest-wildlife-sanctuary-arunachal-pradesh",
@@ -1019,6 +1091,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.10000 N, 92.40000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Grey-crested Tit - Eaglenest - Arunachal Pradesh - IndiaFJ0A7759 (34363377065).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Grey-crested%20Tit%20-%20Eaglenest%20-%20Arunachal%20Pradesh%20-%20IndiaFJ0A7759%20%2834363377065%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1028,7 +1106,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Grey-crested%20Tit%20-%20Eaglenest%20-%20Arunachal%20Pradesh%20-%20IndiaFJ0A7759%20%2834363377065%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ganga-lake-india-arunachal-pradesh",
@@ -1177,6 +1261,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.77250 N, 95.97490 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Golden-pagoda-namsai-arunachal-pradesh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Golden-pagoda-namsai-arunachal-pradesh.jpg"
       }
     ],
     "missing_themes": [
@@ -1186,7 +1276,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Golden-pagoda-namsai-arunachal-pradesh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gomsi-arunachal-pradesh",
@@ -1362,6 +1458,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Poster in Guwahati Airport showing Inner Line Permit requirements to Arunachal Pradesh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Poster%20in%20Guwahati%20Airport%20showing%20Inner%20Line%20Permit%20requirements%20to%20Arunachal%20Pradesh.jpg"
       }
     ],
     "missing_themes": [
@@ -1373,7 +1475,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Poster%20in%20Guwahati%20Airport%20showing%20Inner%20Line%20Permit%20requirements%20to%20Arunachal%20Pradesh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "irchik-dakhru-arunachal-pradesh",
@@ -1488,6 +1596,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.10000 N, 93.62000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Beauty-of-nature-in-arunachal-pradesh-itanagar.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Beauty-of-nature-in-arunachal-pradesh-itanagar.jpg"
       }
     ],
     "missing_themes": [
@@ -1496,7 +1610,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Beauty-of-nature-in-arunachal-pradesh-itanagar.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "itanagar-wildlife-sanctuary-arunachal-pradesh",
@@ -1570,6 +1690,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.10204 N, 93.62500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Entrance - Jawaharlal Nehru Museum.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance%20-%20Jawaharlal%20Nehru%20Museum.JPG"
       }
     ],
     "missing_themes": [
@@ -1578,7 +1704,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Entrance%20-%20Jawaharlal%20Nehru%20Museum.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "jawaharlal-nehru-state-museum-arunachal-pradesh",
@@ -1608,6 +1740,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Entrance - Jawaharlal Nehru Museum.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance%20-%20Jawaharlal%20Nehru%20Museum.JPG"
       }
     ],
     "missing_themes": [
@@ -1618,7 +1756,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Entrance%20-%20Jawaharlal%20Nehru%20Museum.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kamala-wildlife-sanctuary-arunachal-pradesh",
@@ -1731,6 +1875,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 26.63330 N, 92.88330 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Landscape Kameng River Pakke Tiger Reserve.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Landscape%20Kameng%20River%20Pakke%20Tiger%20Reserve.jpg"
       }
     ],
     "missing_themes": [
@@ -1741,7 +1891,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Landscape%20Kameng%20River%20Pakke%20Tiger%20Reserve.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kamlang-wildlife-sanctuary-arunachal-pradesh",
@@ -1766,6 +1922,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.66667 N, 96.43333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Echo margarita, Kamlang Wildlife Sanctuary, Arunachal Pradesh, India 62712930.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Echo%20margarita%2C%20Kamlang%20Wildlife%20Sanctuary%2C%20Arunachal%20Pradesh%2C%20India%2062712930.jpg"
       }
     ],
     "missing_themes": [
@@ -1776,7 +1938,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Echo%20margarita%2C%20Kamlang%20Wildlife%20Sanctuary%2C%20Arunachal%20Pradesh%2C%20India%2062712930.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kane-wildlife-sanctuary-arunachal-pradesh",
@@ -1891,6 +2059,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Txu-pclmaps-oclc-181831961-91-c-kangri-karpo-la-1917.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Txu-pclmaps-oclc-181831961-91-c-kangri-karpo-la-1917.jpg"
       }
     ],
     "missing_themes": [
@@ -1901,7 +2075,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Txu-pclmaps-oclc-181831961-91-c-kangri-karpo-la-1917.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kargong-pass-arunachal-pradesh",
@@ -2116,6 +2296,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kimin, Arunachal Pradesh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kimin%2C%20Arunachal%20Pradesh.jpg"
       }
     ],
     "missing_themes": [
@@ -2126,7 +2312,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kimin%2C%20Arunachal%20Pradesh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "komdi-arunachal-pradesh",
@@ -2501,6 +2693,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.78806 N, 95.48080 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lohit River.River in Arunachal Pradesh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lohit%20River.River%20in%20Arunachal%20Pradesh.jpg"
       }
     ],
     "missing_themes": [
@@ -2510,7 +2708,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lohit%20River.River%20in%20Arunachal%20Pradesh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lulupo-arunachal-pradesh",
@@ -2704,6 +2908,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.65667 N, 94.70583 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Entrance of Malinithan.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance%20of%20Malinithan.jpg"
       }
     ],
     "missing_themes": [
@@ -2713,7 +2923,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Entrance%20of%20Malinithan.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "manda-la-arunachal-pradesh",
@@ -2748,6 +2964,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Discvrso de las Missas conventvales qve Sv Magestad Manda se digan en las Iglesias de las Indias (IA discvrsodelasmis00garc).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Discvrso%20de%20las%20Missas%20conventvales%20qve%20Sv%20Magestad%20Manda%20se%20digan%20en%20las%20Iglesias%20de%20las%20Indias%20%28IA%20discvrsodelasmis00garc%29.pdf"
       }
     ],
     "missing_themes": [
@@ -2758,7 +2980,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Discvrso%20de%20las%20Missas%20conventvales%20qve%20Sv%20Magestad%20Manda%20se%20digan%20en%20las%20Iglesias%20de%20las%20Indias%20%28IA%20discvrsodelasmis00garc%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mayudia-pass-arunachal-pradesh",
@@ -2793,6 +3021,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mayudia pass, Arunachal.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mayudia%20pass%2C%20Arunachal.jpg"
       }
     ],
     "missing_themes": [
@@ -2803,7 +3037,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mayudia%20pass%2C%20Arunachal.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mehao-wildlife-sanctuary-arunachal-pradesh",
@@ -3076,6 +3316,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 26.95978 N, 93.17001 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Brick Plith of House Naksaparvat.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Brick%20Plith%20of%20House%20Naksaparvat.png"
       }
     ],
     "missing_themes": [
@@ -3086,7 +3332,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Brick%20Plith%20of%20House%20Naksaparvat.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "namcha-madin-arunachal-pradesh",
@@ -3171,6 +3423,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.64984 N, 96.11029 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Butterflies, Namdapha National Park, Arunachal Pradesh, India (2013) 1476.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Butterflies%2C%20Namdapha%20National%20Park%2C%20Arunachal%20Pradesh%2C%20India%20%282013%29%201476.jpg"
       }
     ],
     "missing_themes": [
@@ -3179,7 +3437,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Butterflies%2C%20Namdapha%20National%20Park%2C%20Arunachal%20Pradesh%2C%20India%20%282013%29%201476.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nepar-la-arunachal-pradesh",
@@ -3384,6 +3648,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.58944 N, 91.98417 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Jang Waterfall or Nuranang falls.webm.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Jang%20Waterfall%20or%20Nuranang%20falls.webm"
       }
     ],
     "missing_themes": [
@@ -3394,7 +3664,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Jang%20Waterfall%20or%20Nuranang%20falls.webm",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nyug-pass-arunachal-pradesh",
@@ -3524,6 +3800,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.08333 N, 92.85833 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Common Gem - Male, Pakke Tiger Reserve, Arunachal Pradesh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Common%20Gem%20-%20Male%2C%20Pakke%20Tiger%20Reserve%2C%20Arunachal%20Pradesh.jpg"
       }
     ],
     "missing_themes": [
@@ -3532,7 +3814,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Common%20Gem%20-%20Male%2C%20Pakke%20Tiger%20Reserve%2C%20Arunachal%20Pradesh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "pangsau-pass-arunachal-pradesh",
@@ -3817,6 +4105,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.34280 N, 93.81670 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ranganadi Dam. Yajali, Arunachal pradesh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ranganadi%20Dam.%20Yajali%2C%20Arunachal%20pradesh.jpg"
       }
     ],
     "missing_themes": [
@@ -3827,7 +4121,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ranganadi%20Dam.%20Yajali%2C%20Arunachal%20pradesh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rangnuwk-hum-arunachal-pradesh",
@@ -3993,6 +4293,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Maiwa Khohum, Tirap District- RIWATCH Museum. 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Maiwa%20Khohum%2C%20Tirap%20District-%20RIWATCH%20Museum.%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -4003,7 +4309,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Maiwa%20Khohum%2C%20Tirap%20District-%20RIWATCH%20Museum.%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "romta-arunachal-pradesh",
@@ -4151,6 +4463,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 28.18526 N, 95.78989 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ruins of a brick wall present inside the Rukmininagar fort.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ruins%20of%20a%20brick%20wall%20present%20inside%20the%20Rukmininagar%20fort.jpg"
       }
     ],
     "missing_themes": [
@@ -4161,7 +4479,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ruins%20of%20a%20brick%20wall%20present%20inside%20the%20Rukmininagar%20fort.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "samblai-arunachal-pradesh",
@@ -4281,6 +4605,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.50350 N, 92.10450 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Road approaching Sela Pass in Tawang Dist Arunachal Pradesh 1.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Road%20approaching%20Sela%20Pass%20in%20Tawang%20Dist%20Arunachal%20Pradesh%201.jpg"
       }
     ],
     "missing_themes": [
@@ -4290,7 +4620,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Road%20approaching%20Sela%20Pass%20in%20Tawang%20Dist%20Arunachal%20Pradesh%201.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sessa-orchid-sanctuary-arunachal-pradesh",
@@ -4325,6 +4661,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.20000 N, 92.50000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Waterfall at Sessa Orchid Sanctuary (43813833754).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Waterfall%20at%20Sessa%20Orchid%20Sanctuary%20%2843813833754%29.jpg"
       }
     ],
     "missing_themes": [
@@ -4333,7 +4675,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Waterfall%20at%20Sessa%20Orchid%20Sanctuary%20%2843813833754%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "shawngshan-bum-arunachal-pradesh",
@@ -4448,6 +4796,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 28.23510 N, 94.99930 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: River Siyom, Aalo, Arunachal Pradesh.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:River%20Siyom%2C%20Aalo%2C%20Arunachal%20Pradesh.jpg"
       }
     ],
     "missing_themes": [
@@ -4458,7 +4812,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:River%20Siyom%2C%20Aalo%2C%20Arunachal%20Pradesh.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "talle-valley-wildlife-sanctuary-arunachal-pradesh",
@@ -4650,6 +5010,12 @@
         "theme": "suggested-duration",
         "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: India Arunachal Pradesh relief map.svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:India%20Arunachal%20Pradesh%20relief%20map.svg"
       }
     ],
     "missing_themes": [
@@ -4660,7 +5026,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:India%20Arunachal%20Pradesh%20relief%20map.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tawang-monastery-arunachal-pradesh",
@@ -4690,6 +5062,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.58639 N, 91.85750 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bhavachakra or the Buddhist Wheel of Life at Tawang Monastery, Tawang, Arunachal Pradesh, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bhavachakra%20or%20the%20Buddhist%20Wheel%20of%20Life%20at%20Tawang%20Monastery%2C%20Tawang%2C%20Arunachal%20Pradesh%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -4698,7 +5076,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bhavachakra%20or%20the%20Buddhist%20Wheel%20of%20Life%20at%20Tawang%20Monastery%2C%20Tawang%2C%20Arunachal%20Pradesh%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tawang-taktshang-monastery-arunachal-pradesh",
@@ -4802,6 +5186,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.35000 N, 92.40000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Northern gate of Thembang fort.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Northern%20gate%20of%20Thembang%20fort.jpg"
       }
     ],
     "missing_themes": [
@@ -4811,7 +5201,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Northern%20gate%20of%20Thembang%20fort.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tse-la-arunachal-pradesh",
@@ -5050,6 +5446,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.58830 N, 91.86530 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Om Mani padme hum - Ugyenling monastery.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Om%20Mani%20padme%20hum%20-%20Ugyenling%20monastery.jpg"
       }
     ],
     "missing_themes": [
@@ -5059,7 +5461,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Om%20Mani%20padme%20hum%20-%20Ugyenling%20monastery.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "vijaynagar-arunachal-pradesh",
@@ -5089,6 +5497,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A winter morning in Vijaynagar.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20winter%20morning%20in%20Vijaynagar.jpg"
       }
     ],
     "missing_themes": [
@@ -5098,7 +5512,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20winter%20morning%20in%20Vijaynagar.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "yarbo-po-arunachal-pradesh",
@@ -5253,6 +5673,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.59497 N, 93.83854 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arunachal Vikas Parishad Office Ziro.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arunachal%20Vikas%20Parishad%20Office%20Ziro.jpg"
       }
     ],
     "missing_themes": [
@@ -5262,6 +5688,12 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arunachal%20Vikas%20Parishad%20Office%20Ziro.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   }
 ]
