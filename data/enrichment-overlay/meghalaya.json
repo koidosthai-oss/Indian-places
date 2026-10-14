@@ -1,0 +1,2447 @@
+[
+  {
+    "id": "baghmara-pitcher-plant-wildlife-sanctuary-meghalaya",
+    "name": "Baghmara Pitcher Plant Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.19814 N, 90.63877 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "balpakram-national-park-meghalaya",
+    "name": "Balpakram National Park",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "district": "South Garo Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1986",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 352 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.50000 N, 90.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "bishop-falls-meghalaya",
+    "name": "Bishop Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.58400 N, 91.86400 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "blue-heaven-falls-meghalaya",
+    "name": "Blue Heaven Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.55959 N, 91.88381 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "buddhist-stupa-meghalaya",
+    "name": "Buddhist Stupa",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "chandigre-meghalaya",
+    "name": "Chandigre",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "district": "West Garo Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.52727 N, 90.32738 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "cherrapunji-meghalaya",
+    "name": "Cherrapunji",
+    "state": "Meghalaya",
+    "category": "other",
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 1,484 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.27917 N, 91.72417 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "church-of-the-epiphany-meghalaya",
+    "name": "Church of the Epiphany",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.20297 N, 91.91486 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "dainthlen-falls-meghalaya",
+    "name": "Dainthlen Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.29363 N, 91.68344 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "daribokgre-meghalaya",
+    "name": "Daribokgre",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "district": "East Garo Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.49167 N, 90.32399 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "dawki-meghalaya",
+    "name": "Dawki",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "district": "Jaintia Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.18333 N, 92.01667 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "dhamrai-jagannath-roth-meghalaya",
+    "name": "Dhamrai Jagannath Roth",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.91833 N, 90.21139 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "dhamrai-rathayatra-meghalaya",
+    "name": "Dhamrai Rathayatra",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 48 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.91833 N, 90.21139 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "elephant-falls-meghalaya",
+    "name": "Elephant Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.53610 N, 91.82250 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "excavated-temple-meghalaya",
+    "name": "Excavated Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "fortress-meghalaya",
+    "name": "Fortress",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "gandrak-dare-falls-meghalaya",
+    "name": "Gandrak Dare Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.52097 N, 90.22809 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "garo-hills-meghalaya",
+    "name": "Garo Hills",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Tentative World Heritage Site",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.50000 N, 90.33333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ka-likai-meghalaya",
+    "name": "Ka Likai",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.27600 N, 91.68600 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "khasi-hills-meghalaya",
+    "name": "Khasi Hills",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 1,200 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.58333 N, 91.63333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kongthong-meghalaya",
+    "name": "Kongthong",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.18000 N, 91.48000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kopili-river-meghalaya",
+    "name": "Kopili River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 26.16167 N, 92.27639 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "krem-liat-prah-meghalaya",
+    "name": "Krem Liat Prah",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "krem-synrang-pamiang-meghalaya",
+    "name": "Krem Synrang Pamiang",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kynrem-falls-meghalaya",
+    "name": "Kynrem Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.22700 N, 91.71600 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "langshiang-falls-meghalaya",
+    "name": "Langshiang Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": "West Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.44521 N, 91.22866 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "living-root-bridge-meghalaya",
+    "name": "Living root bridge",
+    "state": "Meghalaya",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "madina-mosque-shillong-meghalaya",
+    "name": "Madina Mosque, Shillong",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Islamic architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.56708 N, 91.87792 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "manipur-memorial-shillong-meghalaya",
+    "name": "Manipur Memorial, Shillong",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": "Shillong",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "maryngksih-meghalaya",
+    "name": "Maryngksih",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,240 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.24781 N, 92.64798 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mawlynnong-meghalaya",
+    "name": "Mawlynnong",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.19972 N, 91.93167 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mawmluh-cave-meghalaya",
+    "name": "Mawmluh Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.25889 N, 91.71250 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mawphanlur-meghalaya",
+    "name": "Mawphanlur",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "district": "Eastern West Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.54612 N, 91.45322 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mawsmai-cave-meghalaya",
+    "name": "Mawsmai Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.24480 N, 91.72470 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "mawsynram-meghalaya",
+    "name": "Mawsynram",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 1,430 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 510 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.29889 N, 91.58139 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "megalithic-bridge-known-as-thulum-wi-between-jowai-and-jarain-maput-meghalaya",
+    "name": "Megalithic Bridge known as Thulum-wi between Jowai and Jarain, Maput,",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": "Maput",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "megalithic-bridge-on-the-um-kumbeh-meghalaya",
+    "name": "Megalithic Bridge on the Um-Kumbeh",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": "Um-Kumbeh",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "megalithic-bridge-on-the-um-nyakaneth-between-jaraem-and-syndai-meghalaya",
+    "name": "Megalithic Bridge on the Um-Nyakaneth, between Jaraem and Syndai",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": "Um-Nyakaneth River",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "narpuh-wildlife-sanctuary-meghalaya",
+    "name": "Narpuh Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.11870 N, 92.44940 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nartiang-durga-temple-meghalaya",
+    "name": "Nartiang Durga Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.56700 N, 92.20900 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "new-shillong-meghalaya",
+    "name": "New Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nohkalikai-falls-meghalaya",
+    "name": "Nohkalikai Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.27552 N, 91.68668 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nohsngithiang-falls-meghalaya",
+    "name": "Nohsngithiang Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.24278 N, 91.74083 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nokrek-national-park-meghalaya",
+    "name": "Nokrek National Park",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "district": "West Garo Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.53333 N, 90.11667 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nokrek-peak-meghalaya",
+    "name": "Nokrek Peak",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,416 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.46176 N, 90.32199 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "nongkhyllem-wildlife-sanctuary-meghalaya",
+    "name": "Nongkhyllem Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "district": "Ri-Bhoi district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In the northeast, wildlife visits are usually planned from November to April, outside the heaviest rains. Confirm the named park's gate dates before travel.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.92738 N, 91.74652 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nongriat-meghalaya",
+    "name": "Nongriat",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.23700 N, 91.68000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nongtalang-meghalaya",
+    "name": "Nongtalang",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "district": "Jaintia Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.20930 N, 92.06685 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "rangthylliang-1-root-bridge-meghalaya",
+    "name": "Rangthylliang 1 root bridge",
+    "state": "Meghalaya",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sasatgre-meghalaya",
+    "name": "Sasatgre",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "district": "West Garo Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.52727 N, 90.32738 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "scott-s-memorials-cherrapunji-meghalaya",
+    "name": "Scott's Memorials, Cherrapunji",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": "Cherrapunji",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sherpai-meghalaya",
+    "name": "Sherpai",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Mapped elevation is about 1,492 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.15000 N, 92.73333 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "siju-cave-meghalaya",
+    "name": "Siju Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": "South Garo Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "spread-eagle-falls-meghalaya",
+    "name": "Spread Eagle Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.57717 N, 91.91017 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "stone-memorial-of-u-mawthaw-dur-briew-nartiang-meghalaya",
+    "name": "Stone memorial of U.Mawthaw - dur-briew, Nartiang",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": "Nartiang",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "stone-memorial-of-u-mawthoh-dur-bhoi-country-meghalaya",
+    "name": "Stone memorial of U-Mawthoh-dur, Bhoi Country",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": "Bhoi Country",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sweet-falls-meghalaya",
+    "name": "Sweet Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.56111 N, 91.95861 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "tank-syndai-meghalaya",
+    "name": "Tank, Syndai",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "district": "Syndai",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "thadlaskein-lake-meghalaya",
+    "name": "Thadlaskein Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.49700 N, 92.17300 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "thain-mawdem-forest-meghalaya",
+    "name": "Thain Mawdem Forest",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.84069 N, 91.41449 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "tura-meghalaya-meghalaya",
+    "name": "Tura, Meghalaya",
+    "state": "Meghalaya",
+    "category": "other",
+    "district": "West Garo Hills district",
+    "district_fact_state": "Meghalaya",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 349 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.52000 N, 90.22000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "umiam-lake-meghalaya",
+    "name": "Umiam Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.65320 N, 91.88430 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "umshiang-double-decker-root-bridge-meghalaya",
+    "name": "Umshiang Double-Decker Root Bridge",
+    "state": "Meghalaya",
+    "category": "other",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.25126 N, 91.67195 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "wah-kaba-falls-meghalaya",
+    "name": "Wah Kaba Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.31145 N, 91.73286 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "ward-s-lake-shillong-meghalaya",
+    "name": "Ward's Lake (Shillong)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.57500 N, 91.88700 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "wei-sawdong-falls-meghalaya",
+    "name": "Wei Sawdong Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Northeast waterfalls are strongest in the monsoon, about June to September, and easier to approach from October to April.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 25.29123 N, 91.67835 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  }
+]

@@ -1,0 +1,1173 @@
+{
+  "place_count": 41489,
+  "overlay_coverage_percent": 100.0,
+  "sourced_fact_percent": 61.5,
+  "needs_collection_places": 15989,
+  "needs_collection_percent": 38.5,
+  "missing_coordinates": 6562,
+  "unusable_district_facts": 539,
+  "missing_theme_counts": {
+    "place-specific-season": 41489,
+    "food": 41477,
+    "festival": 41449,
+    "local-culture": 40384,
+    "history": 33827,
+    "district": 31243,
+    "access": 6562
+  },
+  "thin_states": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "places": 214,
+      "why": "Beaches, islands, and forest trails beyond the main settlements are sparse."
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "places": 128,
+      "why": "Hill circuits, high lakes, and village stays are barely represented."
+    },
+    {
+      "state": "Manipur",
+      "places": 151,
+      "why": "Loktak, hill villages, and valley sacred sites need another collection pass."
+    },
+    {
+      "state": "Meghalaya",
+      "places": 66,
+      "why": "Living-root bridges, cave systems, and Khasi and Garo villages are sparse."
+    },
+    {
+      "state": "Mizoram",
+      "places": 94,
+      "why": "Hill towns, villages, and ridge viewpoints are sparse."
+    },
+    {
+      "state": "Nagaland",
+      "places": 42,
+      "why": "Hill villages, festivals, and district headquarters are barely represented."
+    },
+    {
+      "state": "Sikkim",
+      "places": 195,
+      "why": "Monasteries, high lakes, and village trails need more named sites."
+    },
+    {
+      "state": "Tripura",
+      "places": 42,
+      "why": "Palaces, temples, and hill spots are sparse."
+    }
+  ],
+  "underrepresented_categories": [
+    {
+      "category": "offbeat",
+      "places": 783,
+      "percent": 1.9,
+      "note": "Many real sites of this kind are still filed as nature, spiritual, or heritage."
+    },
+    {
+      "category": "hill-station",
+      "places": 141,
+      "percent": 0.3,
+      "note": "Many real sites of this kind are still filed as nature, spiritual, or heritage."
+    },
+    {
+      "category": "beach",
+      "places": 215,
+      "percent": 0.5,
+      "note": "Many real sites of this kind are still filed as nature, spiritual, or heritage."
+    },
+    {
+      "category": "wildlife",
+      "places": 898,
+      "percent": 2.2,
+      "note": "Many real sites of this kind are still filed as nature, spiritual, or heritage."
+    }
+  ],
+  "sparse_tags": [
+    {
+      "tag": "monastery",
+      "places": 157
+    },
+    {
+      "tag": "shrine",
+      "places": 128
+    },
+    {
+      "tag": "monument",
+      "places": 122
+    },
+    {
+      "tag": "dam",
+      "places": 76
+    },
+    {
+      "tag": "peak",
+      "places": 74
+    },
+    {
+      "tag": "ghat",
+      "places": 61
+    },
+    {
+      "tag": "market",
+      "places": 57
+    },
+    {
+      "tag": "tiger-reserve",
+      "places": 55
+    },
+    {
+      "tag": "park",
+      "places": 51
+    },
+    {
+      "tag": "valley",
+      "places": 48
+    },
+    {
+      "tag": "garden",
+      "places": 46
+    },
+    {
+      "tag": "lighthouse",
+      "places": 28
+    },
+    {
+      "tag": "rock",
+      "places": 26
+    },
+    {
+      "tag": "cliff",
+      "places": 10
+    },
+    {
+      "tag": "zoo",
+      "places": 3
+    },
+    {
+      "tag": "hidden-gem",
+      "places": 1
+    },
+    {
+      "tag": "village",
+      "places": 1
+    },
+    {
+      "tag": "baspa-valley",
+      "places": 1
+    },
+    {
+      "tag": "architecture",
+      "places": 1
+    },
+    {
+      "tag": "food",
+      "places": 1
+    }
+  ],
+  "sparse_recorded_areas_sample": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "recorded_area": "Bengal Presidency",
+      "places": 1
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "recorded_area": "Diglipur tehsil",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Adoni",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Adoni-1 mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Adurru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Alamuru mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Allagadda mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Allavaram mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Allurkona, Tadipatri",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Alluru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Amarapuram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Amaravathi",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Ammen peer Dargha, Kadapa",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Amudalavalasa",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Anakapalle",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Annavaram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Antarvedi",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Ardhaveedu mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Arugolanu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Ayyangaripalam (Hamlet of Pondugula)",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Bapatla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Bapulapadu mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Bellamkonda mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Beluguppa mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Bhattiprolu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Bhattiprolu mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Bheemunipatnam mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Biccavolu mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Bobbili",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Bokkasampalem, Srikalahasti",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Brahmamgarimattam mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Buchireddypalem",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Buchireddypalem mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Budagavi, Uravakonda",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Buddam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Budidagaddapalli, Gorantla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chadam (Bondakal), Rayadurg",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chandra Sekhara Puram mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chandragiri mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chejerla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chikkaballapura district",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chilamakuru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chilamkur",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chinna Waltair",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chinnakadaburu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chintakuntla, Koilakuntla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chintapalle mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chintur mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Chukkalur, Tadipatri",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Daanavulapadu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Daddavada",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Daksharamam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Damarapakam, Nagari",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Denduluru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Dharanikota",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Diguva Ahobilam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Donakonda mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Dornala mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Draksharama",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Edlapadu mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Eguva Ahobilam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Eluru district",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Fort Kadapa",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gadekallu, Vidapanakallu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Galiveedu mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Ganapavaram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gandikota",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Ghantasala",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Giddalur mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gooty",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gorantla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gorripalli",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Grandhasiri",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gudimallam, Tirupati",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gudivada",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gudur",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gummadiduru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Gurtedu mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Guttikonda",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Hanumanthawaka",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Hulikallu, Kalyandurg",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Indukurpet mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Ipuru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Jaggayyapeta",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Jallavendlapalli (Devagudipalli) near Chinna Mandem",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Jalumuru mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Jangareddygudem",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Jilakarragudem (Hamlet of Guntupalli)",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Jonnagiri",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "K.Gangavaram mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kadali",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kadamalakalva, Bandi Atmakur",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kadavakallu, Putluru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kadiri",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kakinada (Rural) mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kalakada",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kalingapatnam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kalyandurg",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kambaduru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kanukollu, Mandavalli",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kanuparti",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kapavaram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Karempudi mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Karlapalem mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Katarupalli, Gandlapenta",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kattamanchi",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kattulabavi, Kondaveedu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kodavali",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kolankonda",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kolleti kota",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kollipara",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Konakondla, Vajrakaruru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kondapalli",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kondaveedu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Korukonda",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kotcherlakota",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kottapalli",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kotturu (near Gokivada forest)",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kummathi, Peddapappuru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Kuppam mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Laddigam, Chowdepalli",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Macharla mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Macherla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Machilipatnam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Madanapalli",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Maddipadu mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Madhurawada",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Madugula, Gurazala",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Malakonda, Voletivari Palem",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mallepadu, Tenali",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mamidikuduru mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Manchikallu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mangamaripeta",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mangapuram, Tirupati",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mantralayam mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Maredumilli mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Meliyaputti",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mentada mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mogalrajapuram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Motupalle",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mudigal, Kalyandurg",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Mukhalingam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Munagacherla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "NTR district",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nadendla mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nagalapuram mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nagarjunakonda",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nagayalanka mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nagulavaram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Namagiri Narendrapattanam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nandalur",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nandavaram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Narasannapeta mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Narasaraopet mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Narayanapuram, Balijipeta",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Narayanavanam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nellimarla mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nellore mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nilavati",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nittur, Yadiki",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nizampatnam mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Nuzvid",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Obulavaripalle",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Odisha",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Palakollu Mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Palamaner mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Palivela",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Palnadu district",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pampanuru, Atmakuru",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pandur",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Panyam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Parnapalli",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Patnam near Kadiri",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Payakaraopeta Mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pedaganjam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pedakakani mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Peddanudiyam",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Penna Ahobilam, Uravakonda",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pennapenurkona, Vontimitta",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Penugonda",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Penugonda mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Penumanchili, Narsapur",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Phirangipuram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pithapuram",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pithapuram mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pittikayagulla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Polavaram mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pothapi, Nandalur",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pullareddigudem",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pullareddigudem (Agarharam)",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Pusalapadu",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Puttaparthi mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Racherla",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Rajahmundry",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Rajahmundry city",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Rajampet",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Rajavommangi mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Rajulamandagiri (Hamlet of Jutur)",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Ramachandrapuram mandal",
+      "places": 1
+    },
+    {
+      "state": "Andhra Pradesh",
+      "recorded_area": "Ramagiri, Pitchatur",
+      "places": 1
+    }
+  ],
+  "district_state_conflicts_sample": [],
+  "open_ended": "The catalog is not finished. Another collection round should add named places and replace regional visit notes with place-specific facts when a source supports them.",
+  "next_collection_prompt": "Continue the India tourism catalog. Do not add coordinates or move a place to a different state or district. Collect the next round from open geographic and heritage sources for the thin files first: Meghalaya, Nagaland, Mizoram, Tripura, Manipur, Arunachal Pradesh, Sikkim, and the Andaman and Nicobar Islands. Prioritize offbeat villages, lesser-known temples, small hill spots, cave and waterfall approaches, and wildlife-reserve edges that are named but still missing from data/places. For places already listed, fill only the missing themes in data/enrichment-overlay (history, festival, local culture, food, access, and a place-specific season) when a source states them. Leave a gap when a source does not. Skip hotels, stations, and unnamed spots."
+}

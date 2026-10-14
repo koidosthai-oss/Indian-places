@@ -1,0 +1,1174 @@
+{
+  "total_places": 41489,
+  "with_coordinates": 34927,
+  "coordinates_percent": 84.2,
+  "sourced_fact_places": 25500,
+  "needs_collection_places": 15989,
+  "sourced_fact_percent": 61.5,
+  "categories": {
+    "nature": 22496,
+    "spiritual": 10227,
+    "heritage": 5769,
+    "other": 960,
+    "wildlife": 898,
+    "offbeat": 783,
+    "beach": 215,
+    "hill-station": 141
+  },
+  "states": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "file": "andaman-and-nicobar-islands.json",
+      "places": 214,
+      "with_coordinates": 207,
+      "coordinates_percent": 96.7,
+      "categories": {
+        "beach": 50,
+        "heritage": 3,
+        "nature": 144,
+        "spiritual": 2,
+        "wildlife": 15
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 129,
+      "concrete_sourced_facts": 85,
+      "short_descriptions": 15,
+      "description_kinds": {
+        "specific": 202,
+        "typed-template": 12
+      },
+      "missing_district": 183,
+      "description_notes": [
+        "129 places have only boilerplate facts and need collected visitor detail.",
+        "15 descriptions are shorter than 40 characters.",
+        "183 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "file": "andhra-pradesh.json",
+      "places": 3267,
+      "with_coordinates": 2922,
+      "coordinates_percent": 89.4,
+      "categories": {
+        "beach": 17,
+        "heritage": 228,
+        "hill-station": 3,
+        "nature": 2417,
+        "offbeat": 66,
+        "other": 16,
+        "spiritual": 496,
+        "wildlife": 24
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 768,
+      "concrete_sourced_facts": 2499,
+      "short_descriptions": 32,
+      "description_kinds": {
+        "generic-tourism-place": 4,
+        "protected-monument-template": 310,
+        "specific": 700,
+        "typed-template": 2253
+      },
+      "missing_district": 2763,
+      "description_notes": [
+        "768 places have only boilerplate facts and need collected visitor detail.",
+        "32 descriptions are shorter than 40 characters.",
+        "4 descriptions still say 'tourism place'.",
+        "2763 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "file": "arunachal-pradesh.json",
+      "places": 128,
+      "with_coordinates": 115,
+      "coordinates_percent": 89.8,
+      "categories": {
+        "heritage": 15,
+        "hill-station": 3,
+        "nature": 78,
+        "offbeat": 2,
+        "other": 2,
+        "spiritual": 11,
+        "wildlife": 17
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 37,
+      "concrete_sourced_facts": 91,
+      "short_descriptions": 5,
+      "description_kinds": {
+        "protected-monument-template": 6,
+        "specific": 51,
+        "typed-template": 71
+      },
+      "missing_district": 98,
+      "description_notes": [
+        "37 places have only boilerplate facts and need collected visitor detail.",
+        "5 descriptions are shorter than 40 characters.",
+        "98 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Assam",
+      "file": "assam.json",
+      "places": 363,
+      "with_coordinates": 202,
+      "coordinates_percent": 55.6,
+      "categories": {
+        "heritage": 149,
+        "hill-station": 1,
+        "nature": 55,
+        "offbeat": 4,
+        "other": 10,
+        "spiritual": 112,
+        "wildlife": 32
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 149,
+      "concrete_sourced_facts": 214,
+      "short_descriptions": 42,
+      "description_kinds": {
+        "generic-tourism-place": 7,
+        "protected-monument-template": 141,
+        "specific": 139,
+        "typed-template": 76
+      },
+      "missing_district": 211,
+      "description_notes": [
+        "149 places have only boilerplate facts and need collected visitor detail.",
+        "42 descriptions are shorter than 40 characters.",
+        "7 descriptions still say 'tourism place'.",
+        "211 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Bihar",
+      "file": "bihar.json",
+      "places": 677,
+      "with_coordinates": 497,
+      "coordinates_percent": 73.4,
+      "categories": {
+        "heritage": 177,
+        "hill-station": 2,
+        "nature": 202,
+        "offbeat": 9,
+        "other": 23,
+        "spiritual": 247,
+        "wildlife": 17
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 352,
+      "concrete_sourced_facts": 325,
+      "short_descriptions": 174,
+      "description_kinds": {
+        "generic-tourism-place": 7,
+        "protected-monument-template": 84,
+        "specific": 374,
+        "typed-template": 212
+      },
+      "missing_district": 459,
+      "description_notes": [
+        "352 places have only boilerplate facts and need collected visitor detail.",
+        "174 descriptions are shorter than 40 characters.",
+        "7 descriptions still say 'tourism place'.",
+        "459 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Chandigarh",
+      "file": "chandigarh.json",
+      "places": 26,
+      "with_coordinates": 26,
+      "coordinates_percent": 100.0,
+      "categories": {
+        "heritage": 9,
+        "nature": 9,
+        "other": 3,
+        "spiritual": 1,
+        "wildlife": 4
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 16,
+      "concrete_sourced_facts": 10,
+      "short_descriptions": 1,
+      "description_kinds": {
+        "specific": 24,
+        "typed-template": 2
+      },
+      "missing_district": 26,
+      "description_notes": [
+        "16 places have only boilerplate facts and need collected visitor detail.",
+        "1 descriptions are shorter than 40 characters.",
+        "26 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Chhattisgarh",
+      "file": "chhattisgarh.json",
+      "places": 1343,
+      "with_coordinates": 1251,
+      "coordinates_percent": 93.1,
+      "categories": {
+        "beach": 1,
+        "heritage": 44,
+        "nature": 1099,
+        "offbeat": 2,
+        "other": 7,
+        "spiritual": 170,
+        "wildlife": 20
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 199,
+      "concrete_sourced_facts": 1144,
+      "short_descriptions": 16,
+      "description_kinds": {
+        "generic-tourism-place": 1,
+        "protected-monument-template": 82,
+        "specific": 160,
+        "typed-template": 1100
+      },
+      "missing_district": 1223,
+      "description_notes": [
+        "199 places have only boilerplate facts and need collected visitor detail.",
+        "16 descriptions are shorter than 40 characters.",
+        "1 descriptions still say 'tourism place'.",
+        "1223 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "file": "dadra-and-nagar-haveli-and-daman-and-diu.json",
+      "places": 29,
+      "with_coordinates": 18,
+      "coordinates_percent": 62.1,
+      "categories": {
+        "beach": 4,
+        "heritage": 11,
+        "nature": 2,
+        "spiritual": 10,
+        "wildlife": 2
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 10,
+      "concrete_sourced_facts": 19,
+      "short_descriptions": 4,
+      "description_kinds": {
+        "protected-monument-template": 11,
+        "specific": 10,
+        "typed-template": 8
+      },
+      "missing_district": 12,
+      "description_notes": [
+        "10 places have only boilerplate facts and need collected visitor detail.",
+        "4 descriptions are shorter than 40 characters.",
+        "12 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Delhi",
+      "file": "delhi.json",
+      "places": 541,
+      "with_coordinates": 324,
+      "coordinates_percent": 59.9,
+      "categories": {
+        "beach": 1,
+        "heritage": 283,
+        "nature": 54,
+        "offbeat": 3,
+        "other": 81,
+        "spiritual": 113,
+        "wildlife": 6
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 211,
+      "concrete_sourced_facts": 330,
+      "short_descriptions": 67,
+      "description_kinds": {
+        "generic-tourism-place": 7,
+        "protected-monument-template": 168,
+        "specific": 334,
+        "typed-template": 32
+      },
+      "missing_district": 253,
+      "description_notes": [
+        "211 places have only boilerplate facts and need collected visitor detail.",
+        "67 descriptions are shorter than 40 characters.",
+        "7 descriptions still say 'tourism place'.",
+        "253 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Goa",
+      "file": "goa.json",
+      "places": 324,
+      "with_coordinates": 244,
+      "coordinates_percent": 75.3,
+      "categories": {
+        "beach": 17,
+        "heritage": 102,
+        "nature": 42,
+        "offbeat": 69,
+        "other": 8,
+        "spiritual": 80,
+        "wildlife": 6
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 154,
+      "concrete_sourced_facts": 170,
+      "short_descriptions": 118,
+      "description_kinds": {
+        "generic-tourism-place": 5,
+        "protected-monument-template": 57,
+        "specific": 155,
+        "typed-template": 107
+      },
+      "missing_district": 135,
+      "description_notes": [
+        "154 places have only boilerplate facts and need collected visitor detail.",
+        "118 descriptions are shorter than 40 characters.",
+        "5 descriptions still say 'tourism place'.",
+        "135 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Gujarat",
+      "file": "gujarat.json",
+      "places": 1290,
+      "with_coordinates": 790,
+      "coordinates_percent": 61.2,
+      "categories": {
+        "beach": 14,
+        "heritage": 431,
+        "hill-station": 6,
+        "nature": 314,
+        "offbeat": 32,
+        "other": 58,
+        "spiritual": 394,
+        "wildlife": 41
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 562,
+      "concrete_sourced_facts": 728,
+      "short_descriptions": 93,
+      "description_kinds": {
+        "generic-tourism-place": 3,
+        "protected-monument-template": 437,
+        "specific": 656,
+        "typed-template": 194
+      },
+      "missing_district": 798,
+      "description_notes": [
+        "562 places have only boilerplate facts and need collected visitor detail.",
+        "93 descriptions are shorter than 40 characters.",
+        "3 descriptions still say 'tourism place'.",
+        "798 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Haryana",
+      "file": "haryana.json",
+      "places": 451,
+      "with_coordinates": 256,
+      "coordinates_percent": 56.8,
+      "categories": {
+        "heritage": 149,
+        "nature": 85,
+        "offbeat": 23,
+        "other": 8,
+        "spiritual": 87,
+        "wildlife": 99
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 231,
+      "concrete_sourced_facts": 220,
+      "short_descriptions": 108,
+      "description_kinds": {
+        "generic-tourism-place": 2,
+        "protected-monument-template": 104,
+        "specific": 235,
+        "typed-template": 110
+      },
+      "missing_district": 268,
+      "description_notes": [
+        "231 places have only boilerplate facts and need collected visitor detail.",
+        "108 descriptions are shorter than 40 characters.",
+        "2 descriptions still say 'tourism place'.",
+        "268 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "file": "himachal-pradesh.json",
+      "places": 1547,
+      "with_coordinates": 1484,
+      "coordinates_percent": 95.9,
+      "categories": {
+        "heritage": 59,
+        "hill-station": 17,
+        "nature": 1194,
+        "offbeat": 23,
+        "other": 12,
+        "spiritual": 219,
+        "wildlife": 23
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 445,
+      "concrete_sourced_facts": 1102,
+      "short_descriptions": 38,
+      "description_kinds": {
+        "generic-tourism-place": 2,
+        "protected-monument-template": 39,
+        "specific": 224,
+        "typed-template": 1282
+      },
+      "missing_district": 1383,
+      "description_notes": [
+        "445 places have only boilerplate facts and need collected visitor detail.",
+        "38 descriptions are shorter than 40 characters.",
+        "2 descriptions still say 'tourism place'.",
+        "1383 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "file": "jammu-and-kashmir.json",
+      "places": 2325,
+      "with_coordinates": 2239,
+      "coordinates_percent": 96.3,
+      "categories": {
+        "heritage": 72,
+        "hill-station": 11,
+        "nature": 2054,
+        "offbeat": 4,
+        "other": 11,
+        "spiritual": 155,
+        "wildlife": 18
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 1234,
+      "concrete_sourced_facts": 1091,
+      "short_descriptions": 24,
+      "description_kinds": {
+        "generic-tourism-place": 1,
+        "protected-monument-template": 71,
+        "specific": 257,
+        "typed-template": 1996
+      },
+      "missing_district": 2139,
+      "description_notes": [
+        "1234 places have only boilerplate facts and need collected visitor detail.",
+        "24 descriptions are shorter than 40 characters.",
+        "1 descriptions still say 'tourism place'.",
+        "2139 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Jharkhand",
+      "file": "jharkhand.json",
+      "places": 1059,
+      "with_coordinates": 1039,
+      "coordinates_percent": 98.1,
+      "categories": {
+        "heritage": 32,
+        "hill-station": 2,
+        "nature": 959,
+        "offbeat": 1,
+        "other": 6,
+        "spiritual": 45,
+        "wildlife": 14
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 106,
+      "concrete_sourced_facts": 953,
+      "short_descriptions": 162,
+      "description_kinds": {
+        "generic-tourism-place": 1,
+        "protected-monument-template": 12,
+        "specific": 104,
+        "typed-template": 942
+      },
+      "missing_district": 1006,
+      "description_notes": [
+        "106 places have only boilerplate facts and need collected visitor detail.",
+        "162 descriptions are shorter than 40 characters.",
+        "1 descriptions still say 'tourism place'.",
+        "1006 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "file": "karnataka.json",
+      "places": 3694,
+      "with_coordinates": 2809,
+      "coordinates_percent": 76.0,
+      "categories": {
+        "beach": 14,
+        "heritage": 530,
+        "hill-station": 6,
+        "nature": 1781,
+        "offbeat": 109,
+        "other": 72,
+        "spiritual": 1068,
+        "wildlife": 114
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 1067,
+      "concrete_sourced_facts": 2627,
+      "short_descriptions": 160,
+      "description_kinds": {
+        "generic-tourism-place": 14,
+        "protected-monument-template": 730,
+        "specific": 1037,
+        "typed-template": 1913
+      },
+      "missing_district": 2470,
+      "description_notes": [
+        "1067 places have only boilerplate facts and need collected visitor detail.",
+        "160 descriptions are shorter than 40 characters.",
+        "14 descriptions still say 'tourism place'.",
+        "2470 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Kerala",
+      "file": "kerala.json",
+      "places": 3186,
+      "with_coordinates": 2845,
+      "coordinates_percent": 89.3,
+      "categories": {
+        "beach": 48,
+        "heritage": 227,
+        "hill-station": 28,
+        "nature": 1052,
+        "offbeat": 132,
+        "other": 94,
+        "spiritual": 1555,
+        "wildlife": 50
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 1759,
+      "concrete_sourced_facts": 1427,
+      "short_descriptions": 254,
+      "description_kinds": {
+        "generic-tourism-place": 22,
+        "protected-monument-template": 118,
+        "specific": 1373,
+        "typed-template": 1673
+      },
+      "missing_district": 2286,
+      "description_notes": [
+        "1759 places have only boilerplate facts and need collected visitor detail.",
+        "254 descriptions are shorter than 40 characters.",
+        "22 descriptions still say 'tourism place'.",
+        "2286 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Ladakh",
+      "file": "ladakh.json",
+      "places": 384,
+      "with_coordinates": 361,
+      "coordinates_percent": 94.0,
+      "categories": {
+        "heritage": 17,
+        "hill-station": 2,
+        "nature": 306,
+        "offbeat": 5,
+        "other": 7,
+        "spiritual": 45,
+        "wildlife": 2
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 136,
+      "concrete_sourced_facts": 248,
+      "short_descriptions": 113,
+      "description_kinds": {
+        "generic-tourism-place": 1,
+        "protected-monument-template": 12,
+        "specific": 77,
+        "typed-template": 294
+      },
+      "missing_district": 314,
+      "description_notes": [
+        "136 places have only boilerplate facts and need collected visitor detail.",
+        "113 descriptions are shorter than 40 characters.",
+        "1 descriptions still say 'tourism place'.",
+        "314 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Lakshadweep",
+      "file": "lakshadweep.json",
+      "places": 35,
+      "with_coordinates": 34,
+      "coordinates_percent": 97.1,
+      "categories": {
+        "beach": 3,
+        "heritage": 1,
+        "nature": 29,
+        "other": 1,
+        "spiritual": 1
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 17,
+      "concrete_sourced_facts": 18,
+      "short_descriptions": 13,
+      "description_kinds": {
+        "specific": 33,
+        "typed-template": 2
+      },
+      "missing_district": 35,
+      "description_notes": [
+        "17 places have only boilerplate facts and need collected visitor detail.",
+        "13 descriptions are shorter than 40 characters.",
+        "35 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "file": "madhya-pradesh.json",
+      "places": 2690,
+      "with_coordinates": 2108,
+      "coordinates_percent": 78.4,
+      "categories": {
+        "heritage": 498,
+        "hill-station": 3,
+        "nature": 1563,
+        "offbeat": 5,
+        "other": 22,
+        "spiritual": 513,
+        "wildlife": 86
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 741,
+      "concrete_sourced_facts": 1949,
+      "short_descriptions": 54,
+      "description_kinds": {
+        "generic-tourism-place": 7,
+        "protected-monument-template": 547,
+        "specific": 620,
+        "typed-template": 1516
+      },
+      "missing_district": 1939,
+      "description_notes": [
+        "741 places have only boilerplate facts and need collected visitor detail.",
+        "54 descriptions are shorter than 40 characters.",
+        "7 descriptions still say 'tourism place'.",
+        "1939 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "file": "maharashtra.json",
+      "places": 2478,
+      "with_coordinates": 2204,
+      "coordinates_percent": 88.9,
+      "categories": {
+        "beach": 20,
+        "heritage": 537,
+        "hill-station": 12,
+        "nature": 1168,
+        "offbeat": 33,
+        "other": 100,
+        "spiritual": 554,
+        "wildlife": 54
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 1232,
+      "concrete_sourced_facts": 1246,
+      "short_descriptions": 427,
+      "description_kinds": {
+        "generic-tourism-place": 13,
+        "protected-monument-template": 196,
+        "specific": 1266,
+        "typed-template": 1003
+      },
+      "missing_district": 1735,
+      "description_notes": [
+        "1232 places have only boilerplate facts and need collected visitor detail.",
+        "427 descriptions are shorter than 40 characters.",
+        "13 descriptions still say 'tourism place'.",
+        "1735 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Manipur",
+      "file": "manipur.json",
+      "places": 151,
+      "with_coordinates": 65,
+      "coordinates_percent": 43.0,
+      "categories": {
+        "heritage": 61,
+        "hill-station": 1,
+        "nature": 32,
+        "offbeat": 3,
+        "other": 30,
+        "spiritual": 19,
+        "wildlife": 5
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 56,
+      "concrete_sourced_facts": 95,
+      "short_descriptions": 22,
+      "description_kinds": {
+        "generic-tourism-place": 3,
+        "protected-monument-template": 47,
+        "specific": 75,
+        "typed-template": 26
+      },
+      "missing_district": 79,
+      "description_notes": [
+        "56 places have only boilerplate facts and need collected visitor detail.",
+        "22 descriptions are shorter than 40 characters.",
+        "3 descriptions still say 'tourism place'.",
+        "79 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "file": "meghalaya.json",
+      "places": 66,
+      "with_coordinates": 49,
+      "coordinates_percent": 74.2,
+      "categories": {
+        "heritage": 9,
+        "hill-station": 4,
+        "nature": 29,
+        "offbeat": 7,
+        "other": 5,
+        "spiritual": 7,
+        "wildlife": 5
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 44,
+      "concrete_sourced_facts": 22,
+      "short_descriptions": 7,
+      "description_kinds": {
+        "protected-monument-template": 11,
+        "specific": 26,
+        "typed-template": 29
+      },
+      "missing_district": 38,
+      "description_notes": [
+        "44 places have only boilerplate facts and need collected visitor detail.",
+        "7 descriptions are shorter than 40 characters.",
+        "38 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Mizoram",
+      "file": "mizoram.json",
+      "places": 94,
+      "with_coordinates": 41,
+      "coordinates_percent": 43.6,
+      "categories": {
+        "heritage": 54,
+        "hill-station": 2,
+        "nature": 19,
+        "other": 2,
+        "spiritual": 8,
+        "wildlife": 9
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 24,
+      "concrete_sourced_facts": 70,
+      "short_descriptions": 9,
+      "description_kinds": {
+        "protected-monument-template": 52,
+        "specific": 26,
+        "typed-template": 16
+      },
+      "missing_district": 83,
+      "description_notes": [
+        "24 places have only boilerplate facts and need collected visitor detail.",
+        "9 descriptions are shorter than 40 characters.",
+        "83 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "file": "nagaland.json",
+      "places": 42,
+      "with_coordinates": 35,
+      "coordinates_percent": 83.3,
+      "categories": {
+        "heritage": 5,
+        "hill-station": 1,
+        "nature": 13,
+        "offbeat": 2,
+        "other": 5,
+        "spiritual": 9,
+        "wildlife": 7
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 21,
+      "concrete_sourced_facts": 21,
+      "short_descriptions": 3,
+      "description_kinds": {
+        "protected-monument-template": 4,
+        "specific": 26,
+        "typed-template": 12
+      },
+      "missing_district": 22,
+      "description_notes": [
+        "21 places have only boilerplate facts and need collected visitor detail.",
+        "3 descriptions are shorter than 40 characters.",
+        "22 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Odisha",
+      "file": "odisha.json",
+      "places": 2328,
+      "with_coordinates": 2059,
+      "coordinates_percent": 88.4,
+      "categories": {
+        "beach": 9,
+        "heritage": 120,
+        "nature": 1648,
+        "offbeat": 10,
+        "other": 15,
+        "spiritual": 500,
+        "wildlife": 26
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 534,
+      "concrete_sourced_facts": 1794,
+      "short_descriptions": 319,
+      "description_kinds": {
+        "generic-tourism-place": 1,
+        "protected-monument-template": 249,
+        "specific": 271,
+        "typed-template": 1807
+      },
+      "missing_district": 1845,
+      "description_notes": [
+        "534 places have only boilerplate facts and need collected visitor detail.",
+        "319 descriptions are shorter than 40 characters.",
+        "1 descriptions still say 'tourism place'.",
+        "1845 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Puducherry",
+      "file": "puducherry.json",
+      "places": 59,
+      "with_coordinates": 46,
+      "coordinates_percent": 78.0,
+      "categories": {
+        "beach": 5,
+        "heritage": 7,
+        "nature": 4,
+        "other": 2,
+        "spiritual": 40,
+        "wildlife": 1
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 32,
+      "concrete_sourced_facts": 27,
+      "short_descriptions": 7,
+      "description_kinds": {
+        "protected-monument-template": 7,
+        "specific": 40,
+        "typed-template": 12
+      },
+      "missing_district": 38,
+      "description_notes": [
+        "32 places have only boilerplate facts and need collected visitor detail.",
+        "7 descriptions are shorter than 40 characters.",
+        "38 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Punjab",
+      "file": "punjab.json",
+      "places": 406,
+      "with_coordinates": 275,
+      "coordinates_percent": 67.7,
+      "categories": {
+        "heritage": 211,
+        "nature": 42,
+        "offbeat": 6,
+        "other": 5,
+        "spiritual": 135,
+        "wildlife": 7
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 132,
+      "concrete_sourced_facts": 274,
+      "short_descriptions": 70,
+      "description_kinds": {
+        "protected-monument-template": 119,
+        "specific": 204,
+        "typed-template": 83
+      },
+      "missing_district": 195,
+      "description_notes": [
+        "132 places have only boilerplate facts and need collected visitor detail.",
+        "70 descriptions are shorter than 40 characters.",
+        "195 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Rajasthan",
+      "file": "rajasthan.json",
+      "places": 1669,
+      "with_coordinates": 1141,
+      "coordinates_percent": 68.4,
+      "categories": {
+        "heritage": 543,
+        "hill-station": 2,
+        "nature": 658,
+        "offbeat": 40,
+        "other": 38,
+        "spiritual": 360,
+        "wildlife": 28
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 487,
+      "concrete_sourced_facts": 1182,
+      "short_descriptions": 117,
+      "description_kinds": {
+        "generic-tourism-place": 5,
+        "protected-monument-template": 463,
+        "specific": 769,
+        "typed-template": 432
+      },
+      "missing_district": 974,
+      "description_notes": [
+        "487 places have only boilerplate facts and need collected visitor detail.",
+        "117 descriptions are shorter than 40 characters.",
+        "5 descriptions still say 'tourism place'.",
+        "974 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Sikkim",
+      "file": "sikkim.json",
+      "places": 195,
+      "with_coordinates": 186,
+      "coordinates_percent": 95.4,
+      "categories": {
+        "heritage": 4,
+        "hill-station": 4,
+        "nature": 128,
+        "offbeat": 4,
+        "other": 8,
+        "spiritual": 42,
+        "wildlife": 5
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 82,
+      "concrete_sourced_facts": 113,
+      "short_descriptions": 55,
+      "description_kinds": {
+        "generic-tourism-place": 2,
+        "protected-monument-template": 2,
+        "specific": 77,
+        "typed-template": 114
+      },
+      "missing_district": 126,
+      "description_notes": [
+        "82 places have only boilerplate facts and need collected visitor detail.",
+        "55 descriptions are shorter than 40 characters.",
+        "2 descriptions still say 'tourism place'.",
+        "126 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "file": "tamil-nadu.json",
+      "places": 4096,
+      "with_coordinates": 3651,
+      "coordinates_percent": 89.1,
+      "categories": {
+        "beach": 11,
+        "heritage": 277,
+        "hill-station": 16,
+        "nature": 1703,
+        "offbeat": 84,
+        "other": 97,
+        "spiritual": 1850,
+        "wildlife": 58
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 1992,
+      "concrete_sourced_facts": 2104,
+      "short_descriptions": 177,
+      "description_kinds": {
+        "generic-tourism-place": 28,
+        "protected-monument-template": 99,
+        "specific": 1429,
+        "typed-template": 2540
+      },
+      "missing_district": 3314,
+      "description_notes": [
+        "1992 places have only boilerplate facts and need collected visitor detail.",
+        "177 descriptions are shorter than 40 characters.",
+        "28 descriptions still say 'tourism place'.",
+        "3314 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Telangana",
+      "file": "telangana.json",
+      "places": 1284,
+      "with_coordinates": 1056,
+      "coordinates_percent": 82.2,
+      "categories": {
+        "heritage": 211,
+        "nature": 753,
+        "offbeat": 6,
+        "other": 44,
+        "spiritual": 256,
+        "wildlife": 14
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 361,
+      "concrete_sourced_facts": 923,
+      "short_descriptions": 57,
+      "description_kinds": {
+        "generic-tourism-place": 5,
+        "protected-monument-template": 183,
+        "specific": 401,
+        "typed-template": 695
+      },
+      "missing_district": 1093,
+      "description_notes": [
+        "361 places have only boilerplate facts and need collected visitor detail.",
+        "57 descriptions are shorter than 40 characters.",
+        "5 descriptions still say 'tourism place'.",
+        "1093 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Tripura",
+      "file": "tripura.json",
+      "places": 42,
+      "with_coordinates": 30,
+      "coordinates_percent": 71.4,
+      "categories": {
+        "heritage": 15,
+        "nature": 5,
+        "spiritual": 16,
+        "wildlife": 6
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 20,
+      "concrete_sourced_facts": 22,
+      "short_descriptions": 5,
+      "description_kinds": {
+        "protected-monument-template": 8,
+        "specific": 28,
+        "typed-template": 6
+      },
+      "missing_district": 19,
+      "description_notes": [
+        "20 places have only boilerplate facts and need collected visitor detail.",
+        "5 descriptions are shorter than 40 characters.",
+        "19 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "file": "uttar-pradesh.json",
+      "places": 3090,
+      "with_coordinates": 2756,
+      "coordinates_percent": 89.2,
+      "categories": {
+        "heritage": 392,
+        "hill-station": 7,
+        "nature": 2001,
+        "offbeat": 37,
+        "other": 63,
+        "spiritual": 550,
+        "wildlife": 40
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 2060,
+      "concrete_sourced_facts": 1030,
+      "short_descriptions": 80,
+      "description_kinds": {
+        "generic-tourism-place": 9,
+        "protected-monument-template": 265,
+        "specific": 1743,
+        "typed-template": 1073
+      },
+      "missing_district": 2505,
+      "description_notes": [
+        "2060 places have only boilerplate facts and need collected visitor detail.",
+        "80 descriptions are shorter than 40 characters.",
+        "9 descriptions still say 'tourism place'.",
+        "2505 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "Uttarakhand",
+      "file": "uttarakhand.json",
+      "places": 944,
+      "with_coordinates": 862,
+      "coordinates_percent": 91.3,
+      "categories": {
+        "heritage": 29,
+        "hill-station": 1,
+        "nature": 708,
+        "offbeat": 7,
+        "other": 11,
+        "spiritual": 175,
+        "wildlife": 13
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 161,
+      "concrete_sourced_facts": 783,
+      "short_descriptions": 32,
+      "description_kinds": {
+        "generic-tourism-place": 1,
+        "protected-monument-template": 63,
+        "specific": 125,
+        "typed-template": 755
+      },
+      "missing_district": 866,
+      "description_notes": [
+        "161 places have only boilerplate facts and need collected visitor detail.",
+        "32 descriptions are shorter than 40 characters.",
+        "1 descriptions still say 'tourism place'.",
+        "866 places have no usable district in their facts."
+      ]
+    },
+    {
+      "state": "West Bengal",
+      "file": "west-bengal.json",
+      "places": 972,
+      "with_coordinates": 700,
+      "coordinates_percent": 72.0,
+      "categories": {
+        "beach": 1,
+        "heritage": 257,
+        "hill-station": 7,
+        "nature": 146,
+        "offbeat": 55,
+        "other": 94,
+        "spiritual": 382,
+        "wildlife": 30
+      },
+      "missing_facts": 0,
+      "generic_facts_only": 428,
+      "concrete_sourced_facts": 544,
+      "short_descriptions": 47,
+      "description_kinds": {
+        "generic-tourism-place": 9,
+        "protected-monument-template": 208,
+        "specific": 536,
+        "typed-template": 219
+      },
+      "missing_district": 310,
+      "description_notes": [
+        "428 places have only boilerplate facts and need collected visitor detail.",
+        "47 descriptions are shorter than 40 characters.",
+        "9 descriptions still say 'tourism place'.",
+        "310 places have no usable district in their facts."
+      ]
+    }
+  ]
+}

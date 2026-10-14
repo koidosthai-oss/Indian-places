@@ -1,0 +1,2277 @@
+[
+  {
+    "id": "aayi-mandapam-puducherry",
+    "name": "Aayi Mandapam",
+    "state": "Puducherry",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93310 N, 79.83420 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "aayiram-kaliamman-temple-puducherry",
+    "name": "Aayiram Kaliamman Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.92373 N, 79.82990 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "arikamedu-early-historic-site-puducherry",
+    "name": "Arikamedu, Early Historic Site",
+    "state": "Puducherry",
+    "category": "heritage",
+    "district": "Ariyankuppam",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "arikamedu-puducherry",
+    "name": "Arikamedu",
+    "state": "Puducherry",
+    "category": "heritage",
+    "district": "Puducherry district",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Monument of National Importance",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.90267 N, 79.81993 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "bahour-lake-puducherry",
+    "name": "Bahour Lake",
+    "state": "Puducherry",
+    "category": "nature",
+    "district": "Puducherry district",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Water Heritage Site",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.82680 N, 79.73730 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "basilica-of-the-sacred-heart-of-jesus-pondicherry-puducherry",
+    "name": "Basilica of the Sacred Heart of Jesus, Pondicherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Pondicherry",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1907",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Built in the Gothic Revival style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Dedicated to Sacred Heart",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Associated with Catholicism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Named after Sacred Heart",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.92626 N, 79.82704 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "catholic-church-puducherry",
+    "name": "Catholic Church",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from the 1st century",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Founded by Jesus Christ",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Associated with Christianity",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of Catholicism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "eden-beach-puducherry-puducherry",
+    "name": "Eden Beach Puducherry",
+    "state": "Puducherry",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "On this part of the Bay of Bengal coast, January to March is generally dry. October to December brings the northeast monsoon.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.87470 N, 79.81570 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "ekambaresvara-temple-puducherry",
+    "name": "Ekambaresvara Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Sethur",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "fort-louis-pondicherry-puducherry",
+    "name": "Fort Louis (Pondicherry)",
+    "state": "Puducherry",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93180 N, 79.83310 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "gothic-architecture-puducherry",
+    "name": "Gothic architecture",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "immaculate-conception-cathedral-pondicherry-puducherry",
+    "name": "Immaculate Conception Cathedral, Pondicherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Pondicherry",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1791",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Built in the baroque architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Associated with Catholicism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93299 N, 79.83055 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "kailasanathar-temple-karaikal-puducherry",
+    "name": "Kailasanathar Temple, Karaikal",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.92370 N, 79.83280 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "kameeswarar-temple-puducherry",
+    "name": "Kameeswarar temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.91453 N, 79.75581 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "karaikal-ammaiyar-temple-puducherry",
+    "name": "Karaikal Ammaiyar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.92380 N, 79.83220 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "karaikal-beach-puducherry",
+    "name": "Karaikal Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "On this part of the Bay of Bengal coast, January to March is generally dry. October to December brings the northeast monsoon.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.91800 N, 79.85300 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "karaikal-puducherry",
+    "name": "Karaikal",
+    "state": "Puducherry",
+    "category": "other",
+    "district": "Karaikal district",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "setting",
+        "text": "Stands at about 0 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.93278 N, 79.83194 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "khuthbapalli-puducherry",
+    "name": "Khuthbapalli",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Indo-Islamic architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93000 N, 79.13000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "manakula-vinayagar-temple-puducherry",
+    "name": "Manakula Vinayagar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93569 N, 79.83361 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "meeran-mosque-puducherry",
+    "name": "Meeran Mosque",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.92800 N, 79.83000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "meerapalli-puducherry",
+    "name": "Meerapalli",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Islamic architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.92800 N, 79.83000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "methodism-puducherry",
+    "name": "Methodism",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Founded by John Wesley",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Associated with Christianity",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "mulanathaswami-temple-puducherry",
+    "name": "Mulanathaswami Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Bahour",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "nallambal-lake-puducherry",
+    "name": "Nallambal Lake",
+    "state": "Puducherry",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.94400 N, 79.73600 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nedungadu-tantondresswara-temple-puducherry",
+    "name": "Nedungadu Tantondresswara temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.96760 N, 79.77140 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "nithyakalyana-perumal-temple-karaikal-puducherry",
+    "name": "Nithyakalyana Perumal Temple, Karaikal",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.92310 N, 79.83240 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "our-lady-of-angels-church-karaikal-puducherry",
+    "name": "Our Lady of Angels Church, Karaikal",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Karaikal",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Gothic Revival style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.91694 N, 79.83417 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "our-lady-of-angels-church-puducherry-puducherry",
+    "name": "Our Lady of Angels Church, Puducherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Pondicherry",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "local-culture",
+        "text": "Dedicated to Our Lady of Lourdes",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93000 N, 79.83444 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "our-lady-of-lourdes-shrine-villianur-puducherry",
+    "name": "Our Lady of Lourdes Shrine, Villianur",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Villianur",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Gothic Revival style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Dedicated to Our Lady of Lourdes",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Associated with Catholicism",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.91126 N, 79.76066 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "oussudu-bird-sanctuary-puducherry",
+    "name": "Oussudu Bird Sanctuary",
+    "state": "Puducherry",
+    "category": "wildlife",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 2018",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 3.9 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Many Indian wildlife reserves are open from November to June and close in the monsoon. Opening months differ by park, so check the named reserve.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.95164 N, 79.74182 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "ousteri-lake-puducherry",
+    "name": "Ousteri Lake",
+    "state": "Puducherry",
+    "category": "nature",
+    "district": "Puducherry district",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.95500 N, 79.74500 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "panchanadisvara-temple-puducherry",
+    "name": "Panchanadisvara Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Thiruvandarkoil",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "panchavatee-hanuman-temple-puducherry",
+    "name": "Panchavatee Hanuman Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 12.00972 N, 79.77222 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "pondicherry-lighthouse-puducherry",
+    "name": "Pondicherry Lighthouse",
+    "state": "Puducherry",
+    "category": "other",
+    "district": "Pondicherry",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1836",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Rises about 27 m",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93297 N, 79.83558 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "pondicherry-puducherry",
+    "name": "Pondicherry",
+    "state": "Puducherry",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1 November 1954",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Founded by François Martin",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 3 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 19.5 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93000 N, 79.83000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "promenade-beach-puducherry",
+    "name": "Promenade Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "district": "Pondicherry",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "On this part of the Bay of Bengal coast, January to March is generally dry. October to December brings the northeast monsoon.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93250 N, 79.83580 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "puducherry-museum-puducherry",
+    "name": "Puducherry Museum",
+    "state": "Puducherry",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93442 N, 79.83493 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "puducherry-union-territory-puducherry",
+    "name": "Puducherry (union territory)",
+    "state": "Puducherry",
+    "category": "heritage",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 1 November 1954",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Part of South India",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Stands at about 16 m elevation",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "setting",
+        "text": "Covers about 492 km²",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "October to March is the most comfortable season across most of India for walking heritage sites. Summers are hot on the plains and in the desert.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93000 N, 79.83000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "rajacholeesvarar-temple-puducherry",
+    "name": "Rajacholeesvarar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.87087 N, 79.82732 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "seven-years-war-puducherry",
+    "name": "Seven Years' War",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "sri-sengazhuneer-amman-temple-puducherry",
+    "name": "Sri Sengazhuneer Amman Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.89424 N, 79.82424 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "st-andrew-s-church-puducherry-puducherry",
+    "name": "St. Andrew's Church, Puducherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Gothic architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93167 N, 79.79444 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "sundaresvarar-temple-tiruvettakkudi-puducherry",
+    "name": "Sundaresvarar Temple, Tiruvettakkudi",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "swayambunathaswamy-temple-puducherry",
+    "name": "Swayambunathaswamy Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Nedungadu",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "thanthondreeswarar-temple-nedungadu-puducherry",
+    "name": "Thanthondreeswarar Temple, Nedungadu",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.96760 N, 79.77140 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "thirukundangudimahadeva-temple-puducherry",
+    "name": "Thirukundangudimahadeva Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Madagadipattu",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "tirulokanathar-temple-thakkalur-puducherry",
+    "name": "Tirulokanathar Temple, Thakkalur",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "tirunallar-dharbaranyeswarar-temple-puducherry",
+    "name": "Tirunallar Dharbaranyeswarar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Karaikal district",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Built in the Dravidian architecture style",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.91670 N, 79.78330 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "tirunallar-saniswaran-temple-puducherry",
+    "name": "Tirunallar Saniswaran Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.91670 N, 79.78330 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "tiruttelicheri-parvatheeswarar-temple-puducherry",
+    "name": "Tiruttelicheri Parvatheeswarar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.93278 N, 79.82944 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "uppalam-harbour-beach-puducherry",
+    "name": "Uppalam Harbour Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "On this part of the Bay of Bengal coast, January to March is generally dry. October to December brings the northeast monsoon.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.90728 N, 79.83076 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "vadukeeswarar-temple-puducherry",
+    "name": "Vadukeeswarar temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.91908 N, 79.65731 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "varadaraja-perumal-temple-puducherry",
+    "name": "Varadaraja Perumal Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Thirubhuvani",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as a State Protected Monument",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
+        "basis": "catalog-tags"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "varadharaja-perumal-temple-puducherry-puducherry",
+    "name": "Varadharaja Perumal Temple, Puducherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Puducherry district",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Recognised as Monument of National Importance",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.94083 N, 79.83000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "varadharajaperumal-temple-thirubuvanai-puducherry",
+    "name": "Varadharajaperumal temple, Thirubuvanai",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": "Puducherry district",
+    "district_fact_state": "Puducherry",
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "history",
+        "text": "Dates from 955",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "history",
+        "text": "Founded by Parantaka I",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.92750 N, 79.64750 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season"
+    ],
+    "collection_status": "sourced"
+  },
+  {
+    "id": "vedapureeswarar-temple-pondicherry-puducherry",
+    "name": "Vedapureeswarar Temple, Pondicherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.93987 N, 79.82978 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "velrampet-lake-puducherry",
+    "name": "Velrampet Lake",
+    "state": "Puducherry",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "October to March is the broadly comfortable season in much of India. Hill roads and coasts have a shorter dry window, and monsoon months change the approach.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 11.91110 N, 79.79820 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "yanam-beach-puducherry",
+    "name": "Yanam Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "On this part of the Bay of Bengal coast, January to March is generally dry. October to December brings the northeast monsoon.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The shore itself is a few hours. Stay overnight if the place is a beach village.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 16.44000 N, 82.15000 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  },
+  {
+    "id": "yazhmoorinathar-temple-puducherry",
+    "name": "Yazhmoorinathar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "best-time",
+        "text": "Shrines are visited year-round. October to March is the easier season on the plains; hill shrines may be harder to reach in winter snow or monsoon rain.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A shrine visit is often one to two hours, longer on a festival day.",
+        "basis": "category-planning"
+      },
+      {
+        "theme": "access",
+        "text": "The catalog already stores a search pin at 10.91917 N, 79.81889 E. Use that pin only as a start, and confirm the last mile on the ground.",
+        "basis": "catalog-coordinates"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "needs_collection"
+  }
+]
