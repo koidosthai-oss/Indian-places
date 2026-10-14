@@ -28,6 +28,7 @@ def main() -> int:
         return 1
 
     total = 0
+    seen_ids: dict[str, Path] = {}
     for path in files:
         records = json.loads(path.read_text(encoding="utf-8"))
         if not isinstance(records, list):
@@ -40,6 +41,15 @@ def main() -> int:
                 for err in errors:
                     print(f"  - {err.message}", file=sys.stderr)
                 return 1
+            place_id = record["id"]
+            previous = seen_ids.get(place_id)
+            if previous is not None:
+                print(
+                    f"{path}[{index}]: duplicate id {place_id} (also in {previous})",
+                    file=sys.stderr,
+                )
+                return 1
+            seen_ids[place_id] = path
             total += 1
 
     print(f"Validated {total} place(s) in {len(files)} file(s).")

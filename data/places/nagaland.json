@@ -1,0 +1,713 @@
+[
+  {
+    "id": "chinkhu-nagaland",
+    "name": "Chinkhu",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Chinkhu is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,526 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.82465,
+      "lon": 94.60284
+    }
+  },
+  {
+    "id": "chumoukedima-nagaland",
+    "name": "Chümoukedima",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Chümoukedima is a city in Nagaland, India.",
+    "coordinates": {
+      "lat": 25.7916,
+      "lon": 93.7818
+    },
+    "facts": [
+      "Dates from 1866",
+      "Lies in Chümoukedima district, Nagaland"
+    ]
+  },
+  {
+    "id": "dazipfu-nagaland",
+    "name": "Dazipfu",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Dazipfu is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,106 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.55,
+      "lon": 94.85
+    }
+  },
+  {
+    "id": "dimapur-jain-temple-nagaland",
+    "name": "Dimapur Jain Temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Dimapur Jain Temple is a jain Temple in Dimapur, Nagaland.",
+    "coordinates": {
+      "lat": 25.90589,
+      "lon": 93.72485
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Dimapur, Nagaland"
+    ]
+  },
+  {
+    "id": "dimapur-kalibari-nagaland",
+    "name": "Dimapur Kalibari",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Dimapur Kalibari is a hindu Temple in Nagaland, India.",
+    "coordinates": {
+      "lat": 25.9043,
+      "lon": 93.7253
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Dates from 1956",
+      "Lies in Dimapur district, Nagaland"
+    ]
+  },
+  {
+    "id": "dzukou-valley-nagaland",
+    "name": "Dzukou Valley",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Dzukou Valley is a valley on the Manipur-Nagaland border in India.",
+    "coordinates": {
+      "lat": 25.55348,
+      "lon": 94.06702
+    },
+    "facts": [
+      "Lies in Viswema, Nagaland"
+    ]
+  },
+  {
+    "id": "fakim-wildlife-sanctuary-nagaland",
+    "name": "Fakim Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Fakim Wildlife Sanctuary is a wildlife Sanctuary of India.",
+    "coordinates": {
+      "lat": 25.82553,
+      "lon": 94.95439
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Covers about 642 ha",
+      "Lies in Kiphire district, Nagaland"
+    ]
+  },
+  {
+    "id": "hornbill-festival-nagaland",
+    "name": "Hornbill Festival",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Hornbill Festival is an annual festival in Nagaland, India.",
+    "facts": [
+      "Dates from 2000"
+    ]
+  },
+  {
+    "id": "khonoma-nature-conservation-and-tragopan-sanctuary-nagaland",
+    "name": "Khonoma Nature Conservation and Tragopan Sanctuary",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Khonoma Nature Conservation and Tragopan Sanctuary is an indian conservation reserve.",
+    "coordinates": {
+      "lat": 25.6267,
+      "lon": 94.0021
+    },
+    "facts": [
+      "Lies in Kohima district, Nagaland"
+    ]
+  },
+  {
+    "id": "khuochiezie-nagaland",
+    "name": "Khuochiezie",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Khuochiezie is a public ground in Kohima, Nagaland.",
+    "coordinates": {
+      "lat": 25.67204,
+      "lon": 94.10824
+    },
+    "facts": [
+      "Known as a tourism destination in Nagaland"
+    ]
+  },
+  {
+    "id": "kigwema-nagaland",
+    "name": "Kigwema",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Kigwema is a village in North East India, India.",
+    "coordinates": {
+      "lat": 25.6063,
+      "lon": 94.1271
+    },
+    "tags": [
+      "hill-station"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland"
+    ]
+  },
+  {
+    "id": "kohima-ao-baptist-church-nagaland",
+    "name": "Kohima Ao Baptist Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Kohima Ao Baptist Church is a church in Kohima, Nagaland.",
+    "coordinates": {
+      "lat": 25.66894,
+      "lon": 94.10639
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Lies in Kohima, Nagaland"
+    ]
+  },
+  {
+    "id": "kohima-jain-temple-nagaland",
+    "name": "Kohima Jain temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Kohima Jain Temple.",
+    "coordinates": {
+      "lat": 25.4035,
+      "lon": 94.0633
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Nagaland"
+    ]
+  },
+  {
+    "id": "kohima-lotha-baptist-church-nagaland",
+    "name": "Kohima Lotha Baptist Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Kohima Lotha Baptist Church is a church in Kohima, Nagaland.",
+    "coordinates": {
+      "lat": 25.66226,
+      "lon": 94.10558
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Nagaland"
+    ]
+  },
+  {
+    "id": "kohima-mizo-presbyterian-church-nagaland",
+    "name": "Kohima Mizo Presbyterian Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Kohima Mizo Presbyterian Church is a presbyterian church in Kohima, India.",
+    "coordinates": {
+      "lat": 25.66102,
+      "lon": 94.09997
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Nagaland"
+    ]
+  },
+  {
+    "id": "kohima-nagaland",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Kohima is a capital of the Indian state of Nagaland.",
+    "coordinates": {
+      "lat": 25.66667,
+      "lon": 94.11944
+    },
+    "tags": [
+      "hill-station",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1879",
+      "Stands at about 1,444 m elevation",
+      "Lies in Kohima district, Nagaland"
+    ]
+  },
+  {
+    "id": "lake-shilloi-nagaland",
+    "name": "Lake Shilloi",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Lake Shilloi is a natural Lake in Phek District, Nagaland.",
+    "coordinates": {
+      "lat": 25.59538,
+      "lon": 94.79303
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Nagaland"
+    ]
+  },
+  {
+    "id": "loho-lake-nagaland",
+    "name": "Loho Lake",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Loho Lake is a body of water.",
+    "coordinates": {
+      "lat": 25.49684,
+      "lon": 94.22918
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Nagaland"
+    ]
+  },
+  {
+    "id": "longkhum-nagaland",
+    "name": "Longkhüm",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Longkhüm is a village in Nagaland, India.",
+    "coordinates": {
+      "lat": 26.26355,
+      "lon": 94.4123
+    },
+    "facts": [
+      "Known as a offbeat destination in Nagaland"
+    ]
+  },
+  {
+    "id": "lt-h-h-forbes-grave-nagaland",
+    "name": "Lt. H. H. Forbes' Grave",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Lt. H. H. Forbes' Grave is a protected monument in Nagaland, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Sechüma, Nagaland"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "mary-help-of-christians-cathedral-kohima-nagaland",
+    "name": "Mary Help of Christians Cathedral, Kohima",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Mary Help of Christians Cathedral, Kohima is a cathedral in Kohima, Nagaland, India.",
+    "coordinates": {
+      "lat": 25.6525,
+      "lon": 94.1048
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Associated with Catholicism",
+      "Lies in Kohima, Nagaland"
+    ]
+  },
+  {
+    "id": "mataungse-kyein-nagaland",
+    "name": "Mataungse Kyein",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Mataungse Kyein is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 3,245 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.95,
+      "lon": 95.08333
+    }
+  },
+  {
+    "id": "memorials-of-mr-g-h-damant-major-cook-and-subedar-nurbir-sahi-nagaland",
+    "name": "Memorials of Mr. G.H. Damant, Major Cook and Subedar Nurbir Sahi",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Memorials of Mr. G.H. Damant, Major Cook and Subedar Nurbir Sahi is a protected monument in Nagaland, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Khonoma, Nagaland"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ministers-hill-baptist-church-nagaland",
+    "name": "Ministers' Hill Baptist Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Ministers' Hill Baptist Church is a church in Nagaland, India.",
+    "coordinates": {
+      "lat": 25.6566,
+      "lon": 94.0931
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Nagaland"
+    ]
+  },
+  {
+    "id": "mol-len-nagaland",
+    "name": "Mol Len",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Mol Len is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,751 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.5,
+      "lon": 94.75
+    }
+  },
+  {
+    "id": "mount-saramati-nagaland",
+    "name": "Mount Saramati",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Mount Saramati is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 3,823 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.73976,
+      "lon": 95.03762
+    }
+  },
+  {
+    "id": "naga-hills-nagaland",
+    "name": "Naga Hills",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Naga Hills is a mountain range in Myanmar and India.",
+    "coordinates": {
+      "lat": 26.0,
+      "lon": 95.0
+    },
+    "tags": [
+      "world-heritage"
+    ],
+    "facts": [
+      "Named after Naga people",
+      "Stands at about 3,827 m elevation"
+    ]
+  },
+  {
+    "id": "nagaland-state-museum-nagaland",
+    "name": "Nagaland State Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Nagaland State Museum is a museum in Nagaland, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Nagaland",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 25.685,
+      "lon": 94.1049
+    }
+  },
+  {
+    "id": "nagaland-zoological-park-nagaland",
+    "name": "Nagaland Zoological Park",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Nagaland Zoological Park is a zoo in India.",
+    "coordinates": {
+      "lat": 25.85337,
+      "lon": 93.72428
+    },
+    "facts": [
+      "Dates from 28 August 2008",
+      "Lies in Dimapur district, Nagaland"
+    ]
+  },
+  {
+    "id": "ntangki-national-park-nagaland",
+    "name": "Ntangki National Park",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Ntangki National Park is a national park in India.",
+    "coordinates": {
+      "lat": 25.56,
+      "lon": 93.45
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Lies in Peren district, Nagaland"
+    ]
+  },
+  {
+    "id": "pulie-badze-wildlife-sanctuary-nagaland",
+    "name": "Pulie Badze Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Pulie Badze Wildlife Sanctuary is a wildlife sanctuary in Nagaland, India.",
+    "coordinates": {
+      "lat": 25.6107,
+      "lon": 94.0623
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Nagaland"
+    ]
+  },
+  {
+    "id": "punkhung-nagaland",
+    "name": "Punkhung",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Punkhung is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 1,029 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 26.7538,
+      "lon": 94.96873
+    }
+  },
+  {
+    "id": "rangapahar-wildlife-sanctuary-nagaland",
+    "name": "Rangapahar Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Rangapahar Wildlife Sanctuary is a wildlife sanctuary near Dimapur in Nagaland, India.",
+    "coordinates": {
+      "lat": 25.85623,
+      "lon": 93.7194
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Dimapur, Nagaland"
+    ]
+  },
+  {
+    "id": "ruins-of-kachari-rajbari-nagaland",
+    "name": "Ruins of Kachari Rajbari",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Ruins of Kachari Rajbari is a protected monument in Nagaland, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Dimapur, Nagaland"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sakhrie-park-nagaland",
+    "name": "Sakhrie Park",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Sakhrie Park is a public park in Kohima.",
+    "coordinates": {
+      "lat": 25.655,
+      "lon": 94.10583
+    },
+    "facts": [
+      "Known as a tourism destination in Nagaland"
+    ]
+  },
+  {
+    "id": "sanctuary-falls-nagaland",
+    "name": "Sanctuary Falls",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Sanctuary Falls is a waterfall in India.",
+    "coordinates": {
+      "lat": 25.59177,
+      "lon": 94.01327
+    },
+    "tags": [
+      "waterfall"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland"
+    ]
+  },
+  {
+    "id": "sekrenyi-nagaland",
+    "name": "Sekrenyi",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Sekrenyi is an angami Nagas festival based in Nagaland, India.",
+    "facts": [
+      "Known as a tourism destination in Nagaland"
+    ]
+  },
+  {
+    "id": "singphan-wildlife-sanctuary-nagaland",
+    "name": "Singphan Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Singphan Wildlife Sanctuary is an is the 30th elephant reserve in the country.",
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in Mon district, Nagaland"
+    ]
+  },
+  {
+    "id": "stone-cairn-to-the-memory-of-mr-damant-nagaland",
+    "name": "Stone Cairn to the memory of Mr. Damant",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Stone Cairn to the memory of Mr. Damant is a protected monument in Nagaland, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Kohima, Nagaland"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sumi-baptist-church-zunheboto-nagaland",
+    "name": "Sümi Baptist Church, Zünheboto",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Sümi Baptist Church, Zünheboto is a church in Zunheboto, Nagaland, India.",
+    "coordinates": {
+      "lat": 26.01789,
+      "lon": 94.52922
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Lies in Zunheboto, Nagaland"
+    ]
+  },
+  {
+    "id": "tiyingchomo-nagaland",
+    "name": "Tiyingchomo",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Tiyingchomo is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 1,777 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 26.10126,
+      "lon": 94.28184
+    }
+  },
+  {
+    "id": "yakko-nagaland",
+    "name": "Yakkō",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Yakkō is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,677 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 26.19419,
+      "lon": 94.91453
+    }
+  }
+]

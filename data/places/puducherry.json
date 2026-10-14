@@ -1,0 +1,1020 @@
+[
+  {
+    "id": "aayi-mandapam-puducherry",
+    "name": "Aayi Mandapam",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Aayi Mandapam is a monument in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a monument in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "monument"
+    ],
+    "coordinates": {
+      "lat": 11.9331,
+      "lon": 79.8342
+    }
+  },
+  {
+    "id": "aayiram-kaliamman-temple-puducherry",
+    "name": "Aayiram Kaliamman Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Aayiram Kaliamman Temple is a temple in Puducherry, India.",
+    "coordinates": {
+      "lat": 10.92373,
+      "lon": 79.8299
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "arikamedu-early-historic-site-puducherry",
+    "name": "Arikamedu, Early Historic Site",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Arikamedu, Early Historic Site is a protected monument in Puducherry, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Ariyankuppam, Puducherry"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "arikamedu-puducherry",
+    "name": "Arikamedu",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Arikamedu is a still digging arikamedu.",
+    "coordinates": {
+      "lat": 11.90267,
+      "lon": 79.81993
+    },
+    "tags": [
+      "world-heritage",
+      "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance",
+      "Lies in Puducherry district, Puducherry"
+    ]
+  },
+  {
+    "id": "bahour-lake-puducherry",
+    "name": "Bahour Lake",
+    "state": "Puducherry",
+    "category": "nature",
+    "description": "Bahour Lake is a lake in India.",
+    "coordinates": {
+      "lat": 11.8268,
+      "lon": 79.7373
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Recognised as Water Heritage Site",
+      "Lies in Puducherry district, Puducherry"
+    ]
+  },
+  {
+    "id": "basilica-of-the-sacred-heart-of-jesus-pondicherry-puducherry",
+    "name": "Basilica of the Sacred Heart of Jesus, Pondicherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Basilica of the Sacred Heart of Jesus, Pondicherry is a pondicherry.",
+    "coordinates": {
+      "lat": 11.92626,
+      "lon": 79.82704
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Dates from 1907",
+      "Built in the Gothic Revival style",
+      "Dedicated to Sacred Heart",
+      "Associated with Catholicism",
+      "Named after Sacred Heart",
+      "Lies in Pondicherry, Puducherry"
+    ]
+  },
+  {
+    "id": "catholic-church-puducherry",
+    "name": "Catholic Church",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Catholic Church is a largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity.",
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Dates from the 1st century",
+      "Founded by Jesus Christ",
+      "Associated with Christianity",
+      "Part of Catholicism"
+    ]
+  },
+  {
+    "id": "eden-beach-puducherry-puducherry",
+    "name": "Eden Beach Puducherry",
+    "state": "Puducherry",
+    "category": "beach",
+    "description": "Eden Beach Puducherry is a beach in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.8747,
+      "lon": 79.8157
+    },
+    "tags": [
+      "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Puducherry"
+    ]
+  },
+  {
+    "id": "ekambaresvara-temple-puducherry",
+    "name": "Ekambaresvara Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Ekambaresvara Temple is a protected monument in Puducherry, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Sethur, Puducherry"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "fort-louis-pondicherry-puducherry",
+    "name": "Fort Louis (Pondicherry)",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Fort Louis (Pondicherry) is a historic site in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.9318,
+      "lon": 79.8331
+    },
+    "tags": [
+      "fort"
+    ],
+    "facts": [
+      "Known as a heritage destination in Puducherry"
+    ]
+  },
+  {
+    "id": "gothic-architecture-puducherry",
+    "name": "Gothic architecture",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Gothic architecture is a style of architecture.",
+    "tags": [
+      "world-heritage",
+      "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "immaculate-conception-cathedral-pondicherry-puducherry",
+    "name": "Immaculate Conception Cathedral, Pondicherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Immaculate Conception Cathedral, Pondicherry is a building in India.",
+    "coordinates": {
+      "lat": 11.93299,
+      "lon": 79.83055
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Dates from 1791",
+      "Built in the baroque architecture style",
+      "Associated with Catholicism",
+      "Lies in Pondicherry, Puducherry"
+    ]
+  },
+  {
+    "id": "kailasanathar-temple-karaikal-puducherry",
+    "name": "Kailasanathar Temple, Karaikal",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Kailasanathar Temple, Karaikal is a temple in Karaikal, India.",
+    "coordinates": {
+      "lat": 10.9237,
+      "lon": 79.8328
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "kameeswarar-temple-puducherry",
+    "name": "Kameeswarar temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Kameeswarar temple is a hindu temple in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.91453,
+      "lon": 79.75581
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "karaikal-ammaiyar-temple-puducherry",
+    "name": "Karaikal Ammaiyar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Karaikal Ammaiyar Temple is a hindu temple in Karaikal, Puducherry, India.",
+    "coordinates": {
+      "lat": 10.9238,
+      "lon": 79.8322
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "karaikal-beach-puducherry",
+    "name": "Karaikal Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "description": "Karaikal Beach is a beach in Puducherry, India.",
+    "coordinates": {
+      "lat": 10.918,
+      "lon": 79.853
+    },
+    "tags": [
+      "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Puducherry"
+    ]
+  },
+  {
+    "id": "karaikal-puducherry",
+    "name": "Karaikal",
+    "state": "Puducherry",
+    "category": "other",
+    "description": "Karaikal is a town in, Puducherry, India.",
+    "coordinates": {
+      "lat": 10.93278,
+      "lon": 79.83194
+    },
+    "facts": [
+      "Stands at about 0 m elevation",
+      "Lies in Karaikal district, Puducherry"
+    ]
+  },
+  {
+    "id": "khuthbapalli-puducherry",
+    "name": "Khuthbapalli",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Khuthbapalli is a mosque in India.",
+    "coordinates": {
+      "lat": 11.93,
+      "lon": 79.13
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Built in the Indo-Islamic architecture style"
+    ]
+  },
+  {
+    "id": "manakula-vinayagar-temple-puducherry",
+    "name": "Manakula Vinayagar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Manakula Vinayagar Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 11.93569,
+      "lon": 79.83361
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "meeran-mosque-puducherry",
+    "name": "Meeran Mosque",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Meeran Mosque is a mosque in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a mosque in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mosque"
+    ],
+    "coordinates": {
+      "lat": 11.928,
+      "lon": 79.83
+    }
+  },
+  {
+    "id": "meerapalli-puducherry",
+    "name": "Meerapalli",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Meerapalli is a mosque in India.",
+    "coordinates": {
+      "lat": 11.928,
+      "lon": 79.83
+    },
+    "tags": [
+      "mosque"
+    ],
+    "facts": [
+      "Built in the Islamic architecture style"
+    ]
+  },
+  {
+    "id": "methodism-puducherry",
+    "name": "Methodism",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Methodism is a group of historically related denominations of Protestant Christianity.",
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Founded by John Wesley",
+      "Associated with Christianity"
+    ]
+  },
+  {
+    "id": "mulanathaswami-temple-puducherry",
+    "name": "Mulanathaswami Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Mulanathaswami Temple is a protected monument in Puducherry, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Bahour, Puducherry"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "nallambal-lake-puducherry",
+    "name": "Nallambal Lake",
+    "state": "Puducherry",
+    "category": "nature",
+    "description": "Nallambal Lake is a body of water.",
+    "coordinates": {
+      "lat": 10.944,
+      "lon": 79.736
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Puducherry"
+    ]
+  },
+  {
+    "id": "nedungadu-tantondresswara-temple-puducherry",
+    "name": "Nedungadu Tantondresswara temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Nedungadu Tantondresswara temple is a temple in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 10.9676,
+      "lon": 79.7714
+    }
+  },
+  {
+    "id": "nithyakalyana-perumal-temple-karaikal-puducherry",
+    "name": "Nithyakalyana Perumal Temple, Karaikal",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Nithyakalyana Perumal Temple, Karaikal is a hindu temple in Puducherry, India.",
+    "coordinates": {
+      "lat": 10.9231,
+      "lon": 79.8324
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "our-lady-of-angels-church-karaikal-puducherry",
+    "name": "Our Lady of Angels Church, Karaikal",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Our Lady of Angels Church, Karaikal is a church in Karaikal, India.",
+    "coordinates": {
+      "lat": 10.91694,
+      "lon": 79.83417
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Built in the Gothic Revival style",
+      "Lies in Karaikal, Puducherry"
+    ]
+  },
+  {
+    "id": "our-lady-of-angels-church-puducherry-puducherry",
+    "name": "Our Lady of Angels Church, Puducherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Our Lady of Angels Church, Puducherry is a church in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.93,
+      "lon": 79.83444
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Dedicated to Our Lady of Lourdes",
+      "Lies in Pondicherry, Puducherry"
+    ]
+  },
+  {
+    "id": "our-lady-of-lourdes-shrine-villianur-puducherry",
+    "name": "Our Lady of Lourdes Shrine, Villianur",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Our Lady of Lourdes Shrine, Villianur is a building in India.",
+    "coordinates": {
+      "lat": 11.91126,
+      "lon": 79.76066
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Built in the Gothic Revival style",
+      "Dedicated to Our Lady of Lourdes",
+      "Associated with Catholicism",
+      "Lies in Villianur, Puducherry"
+    ]
+  },
+  {
+    "id": "oussudu-bird-sanctuary-puducherry",
+    "name": "Oussudu Bird Sanctuary",
+    "state": "Puducherry",
+    "category": "wildlife",
+    "description": "Oussudu Bird Sanctuary is a protected area in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.95164,
+      "lon": 79.74182
+    },
+    "facts": [
+      "Dates from 2018",
+      "Covers about 3.9 km²"
+    ]
+  },
+  {
+    "id": "ousteri-lake-puducherry",
+    "name": "Ousteri Lake",
+    "state": "Puducherry",
+    "category": "nature",
+    "description": "Ousteri Lake is a lake in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.955,
+      "lon": 79.745
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Lies in Puducherry district, Puducherry"
+    ]
+  },
+  {
+    "id": "panchanadisvara-temple-puducherry",
+    "name": "Panchanadisvara Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Panchanadisvara Temple is a protected monument in Puducherry, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Thiruvandarkoil, Puducherry"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "panchavatee-hanuman-temple-puducherry",
+    "name": "Panchavatee Hanuman Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Panchavatee Hanuman Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 12.00972,
+      "lon": 79.77222
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "pondicherry-lighthouse-puducherry",
+    "name": "Pondicherry Lighthouse",
+    "state": "Puducherry",
+    "category": "other",
+    "description": "Pondicherry Lighthouse is a former lighthouse in India.",
+    "coordinates": {
+      "lat": 11.93297,
+      "lon": 79.83558
+    },
+    "facts": [
+      "Dates from 1836",
+      "Rises about 27 m",
+      "Lies in Pondicherry, Puducherry"
+    ]
+  },
+  {
+    "id": "pondicherry-puducherry",
+    "name": "Pondicherry",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Pondicherry is a city in the Union Territory of Puducherry, India.",
+    "coordinates": {
+      "lat": 11.93,
+      "lon": 79.83
+    },
+    "tags": [
+      "temple",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1 November 1954",
+      "Founded by François Martin",
+      "Stands at about 3 m elevation",
+      "Covers about 19.5 km²"
+    ]
+  },
+  {
+    "id": "promenade-beach-puducherry",
+    "name": "Promenade Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "description": "Promenade Beach is a human settlement in India.",
+    "coordinates": {
+      "lat": 11.9325,
+      "lon": 79.8358
+    },
+    "tags": [
+      "beach"
+    ],
+    "facts": [
+      "Lies in Pondicherry, Puducherry"
+    ]
+  },
+  {
+    "id": "puducherry-museum-puducherry",
+    "name": "Puducherry Museum",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Puducherry Museum is a museum in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 11.93442,
+      "lon": 79.83493
+    }
+  },
+  {
+    "id": "puducherry-union-territory-puducherry",
+    "name": "Puducherry (union territory)",
+    "state": "Puducherry",
+    "category": "heritage",
+    "description": "Puducherry (union territory) is a union Territory of India.",
+    "coordinates": {
+      "lat": 11.93,
+      "lon": 79.83
+    },
+    "tags": [
+      "world-heritage",
+      "church",
+      "museum",
+      "lesser-known"
+    ],
+    "facts": [
+      "Dates from 1 November 1954",
+      "Part of South India",
+      "Stands at about 16 m elevation",
+      "Covers about 492 km²"
+    ]
+  },
+  {
+    "id": "rajacholeesvarar-temple-puducherry",
+    "name": "Rajacholeesvarar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Rajacholeesvarar Temple is a hindu temple in Puducherry, India.",
+    "coordinates": {
+      "lat": 10.87087,
+      "lon": 79.82732
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "seven-years-war-puducherry",
+    "name": "Seven Years' War",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Seven Years' War is a global war among European powers (1756–1763).",
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "sri-sengazhuneer-amman-temple-puducherry",
+    "name": "Sri Sengazhuneer Amman Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Sri Sengazhuneer Amman Temple is a temple in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 11.89424,
+      "lon": 79.82424
+    }
+  },
+  {
+    "id": "st-andrew-s-church-puducherry-puducherry",
+    "name": "St. Andrew's Church, Puducherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "St. Andrew's Church, Puducherry is a church in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.93167,
+      "lon": 79.79444
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Built in the Gothic architecture style"
+    ]
+  },
+  {
+    "id": "sundaresvarar-temple-tiruvettakkudi-puducherry",
+    "name": "Sundaresvarar Temple, Tiruvettakkudi",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Sundaresvarar Temple, Tiruvettakkudi is a hindu temple in Pondicherry, India.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "swayambunathaswamy-temple-puducherry",
+    "name": "Swayambunathaswamy Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Swayambunathaswamy Temple is a protected monument in Puducherry, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Nedungadu, Puducherry"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "thanthondreeswarar-temple-nedungadu-puducherry",
+    "name": "Thanthondreeswarar Temple, Nedungadu",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Thanthondreeswarar Temple, Nedungadu is an ancient temple located in Nedungadu, Karaikal district, Puducherry Union territory.",
+    "coordinates": {
+      "lat": 10.9676,
+      "lon": 79.7714
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "thirukundangudimahadeva-temple-puducherry",
+    "name": "Thirukundangudimahadeva Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Thirukundangudimahadeva Temple is a protected monument in Puducherry, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Madagadipattu, Puducherry"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tirulokanathar-temple-thakkalur-puducherry",
+    "name": "Tirulokanathar Temple, Thakkalur",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Tirulokanathar Temple, Thakkalur is a hindu temple in Puducherry.",
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "tirunallar-dharbaranyeswarar-temple-puducherry",
+    "name": "Tirunallar Dharbaranyeswarar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Tirunallar Dharbaranyeswarar Temple is a temple in India.",
+    "coordinates": {
+      "lat": 10.9167,
+      "lon": 79.7833
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Built in the Dravidian architecture style",
+      "Lies in Karaikal district, Puducherry"
+    ]
+  },
+  {
+    "id": "tirunallar-saniswaran-temple-puducherry",
+    "name": "Tirunallar Saniswaran Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Tirunallar Saniswaran Temple is a temple in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a temple in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "temple"
+    ],
+    "coordinates": {
+      "lat": 10.9167,
+      "lon": 79.7833
+    }
+  },
+  {
+    "id": "tiruttelicheri-parvatheeswarar-temple-puducherry",
+    "name": "Tiruttelicheri Parvatheeswarar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Tiruttelicheri Parvatheeswarar Temple is a hindu temple.",
+    "coordinates": {
+      "lat": 10.93278,
+      "lon": 79.82944
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "uppalam-harbour-beach-puducherry",
+    "name": "Uppalam Harbour Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "description": "Uppalam Harbour Beach is a beach in Puducherry, India.",
+    "facts": [
+      "Listed in structured geographic data as a beach in Puducherry",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "beach"
+    ],
+    "coordinates": {
+      "lat": 11.90728,
+      "lon": 79.83076
+    }
+  },
+  {
+    "id": "vadukeeswarar-temple-puducherry",
+    "name": "Vadukeeswarar temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Vadukeeswarar temple is a hindu temple in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.91908,
+      "lon": 79.65731
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "varadaraja-perumal-temple-puducherry",
+    "name": "Varadaraja Perumal Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Varadaraja Perumal Temple is a protected monument in Puducherry, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Thirubhuvani, Puducherry"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "varadharaja-perumal-temple-puducherry-puducherry",
+    "name": "Varadharaja Perumal Temple, Puducherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Varadharaja Perumal Temple, Puducherry is an ASI protected monument in Pondicherry.",
+    "coordinates": {
+      "lat": 11.94083,
+      "lon": 79.83
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance",
+      "Lies in Puducherry district, Puducherry"
+    ]
+  },
+  {
+    "id": "varadharajaperumal-temple-thirubuvanai-puducherry",
+    "name": "Varadharajaperumal temple, Thirubuvanai",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Varadharajaperumal temple, Thirubuvanai is a temple in Thirubuvanai, Puducherry, Tamil Nadu, India.",
+    "coordinates": {
+      "lat": 11.9275,
+      "lon": 79.6475
+    },
+    "tags": [
+      "temple",
+      "archaeological-site"
+    ],
+    "facts": [
+      "Dates from 955",
+      "Founded by Parantaka I",
+      "Lies in Puducherry district, Puducherry"
+    ]
+  },
+  {
+    "id": "vedapureeswarar-temple-pondicherry-puducherry",
+    "name": "Vedapureeswarar Temple, Pondicherry",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Vedapureeswarar Temple, Pondicherry is a hindu temple in Puducherry, India.",
+    "coordinates": {
+      "lat": 11.93987,
+      "lon": 79.82978
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  },
+  {
+    "id": "velrampet-lake-puducherry",
+    "name": "Velrampet Lake",
+    "state": "Puducherry",
+    "category": "nature",
+    "description": "Velrampet Lake is a body of water.",
+    "coordinates": {
+      "lat": 11.9111,
+      "lon": 79.7982
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Puducherry"
+    ]
+  },
+  {
+    "id": "yanam-beach-puducherry",
+    "name": "Yanam Beach",
+    "state": "Puducherry",
+    "category": "beach",
+    "description": "Yanam Beach is an indian beach.",
+    "coordinates": {
+      "lat": 16.44,
+      "lon": 82.15
+    },
+    "tags": [
+      "beach"
+    ],
+    "facts": [
+      "Known as a beach destination in Puducherry"
+    ]
+  },
+  {
+    "id": "yazhmoorinathar-temple-puducherry",
+    "name": "Yazhmoorinathar Temple",
+    "state": "Puducherry",
+    "category": "spiritual",
+    "description": "Yazhmoorinathar Temple is a hindu temple in Karaikkal, Pondicherry, India.",
+    "coordinates": {
+      "lat": 10.91917,
+      "lon": 79.81889
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Puducherry"
+    ]
+  }
+]

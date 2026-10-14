@@ -1,0 +1,711 @@
+[
+  {
+    "id": "agartala-baptist-church-tripura",
+    "name": "Agartala Baptist Church",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Agartala Baptist Church is a church in Tripura.",
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Tripura"
+    ]
+  },
+  {
+    "id": "agartala-city-baptist-church-tripura",
+    "name": "Agartala City Baptist Church",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Agartala City Baptist Church is a church in Tripura.",
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Dates from 1987"
+    ]
+  },
+  {
+    "id": "agartala-jagannath-mandir-tripura",
+    "name": "Agartala Jagannath Mandir",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Agartala Jagannath Mandir is a hindu temple in Tripura, India.",
+    "coordinates": {
+      "lat": 23.83628,
+      "lon": 91.27989
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in West Tripura District, Tripura"
+    ]
+  },
+  {
+    "id": "agartala-tripura",
+    "name": "Agartala",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Agartala is a city in North-east India.",
+    "coordinates": {
+      "lat": 23.83333,
+      "lon": 91.26667
+    },
+    "tags": [
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1871",
+      "Stands at about 15 m elevation",
+      "Covers about 76.5 km²",
+      "Lies in West Tripura District, Tripura"
+    ]
+  },
+  {
+    "id": "ancient-mound-called-shyamsundar-ashram-tilla-baikhora-jolaibari-tripura",
+    "name": "Ancient Mound called Shyamsundar Ashram Tilla, Baikhora Jolaibari",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Ancient Mound called Shyamsundar Ashram Tilla, Baikhora Jolaibari is a protected monument in Tripura, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Baikhora Jolaibari, Tripura"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-mound-known-as-puja-khola-paschim-pillak-tripura",
+    "name": "Ancient Mound known as Puja Khola, Paschim Pillak",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Ancient Mound known as Puja Khola, Paschim Pillak is a protected monument in Tripura, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Paschim Pillak, Tripura"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "ancient-remains-boxanagar-tripura",
+    "name": "Ancient Remains, Boxanagar",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Ancient Remains, Boxanagar is a protected monument in Tripura, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Boxanagar, Tripura"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhubaneswari-temple-rajnagar-tripura",
+    "name": "Bhubaneswari Temple, Rajnagar",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Bhubaneswari Temple, Rajnagar is a protected monument in Tripura, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Rajnagar, Tripura"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "bhubaneswari-temple-tripura",
+    "name": "Bhubaneswari Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Bhubaneswari Temple is a temple in Tripura, India.",
+    "coordinates": {
+      "lat": 23.54152,
+      "lon": 91.50432
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance",
+      "Lies in Gomati district, Tripura"
+    ]
+  },
+  {
+    "id": "bijoy-sagar-tripura",
+    "name": "Bijoy Sagar",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Bijoy Sagar is a lake in India.",
+    "coordinates": {
+      "lat": 23.538,
+      "lon": 91.499
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Known as a nature destination in Tripura"
+    ]
+  },
+  {
+    "id": "boxanagar-ruins-tripura",
+    "name": "Boxanagar Ruins",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Boxanagar Ruins is an archaeological site in Boxanagar, Tripura.",
+    "coordinates": {
+      "lat": 23.61636,
+      "lon": 91.16564
+    },
+    "tags": [
+      "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Tripura"
+    ]
+  },
+  {
+    "id": "chabimura-tripura",
+    "name": "Chabimura",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Chabimura is a place in Tripura.",
+    "coordinates": {
+      "lat": 23.54196,
+      "lon": 91.60572
+    },
+    "tags": [
+      "archaeological-site",
+      "pilgrimage"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Tripura"
+    ]
+  },
+  {
+    "id": "chaturdasha-temple-tripura",
+    "name": "Chaturdasha Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Chaturdasha Temple is a hindu temple in India.",
+    "coordinates": {
+      "lat": 23.84139,
+      "lon": 91.34519
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in West Tripura District, Tripura"
+    ]
+  },
+  {
+    "id": "church-of-shantir-rani-tripura",
+    "name": "Church of Shantir Rani",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Church of Shantir Rani is a church in India.",
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Associated with Catholicism",
+      "Lies in Agartala, Tripura"
+    ]
+  },
+  {
+    "id": "clouded-leopard-national-park-tripura",
+    "name": "Clouded Leopard National Park",
+    "state": "Tripura",
+    "category": "wildlife",
+    "description": "Clouded Leopard National Park is a national park in Tripura, India.",
+    "coordinates": {
+      "lat": 23.66822,
+      "lon": 91.32254
+    },
+    "tags": [
+      "national-park"
+    ],
+    "facts": [
+      "Dates from 2007"
+    ]
+  },
+  {
+    "id": "devtamura-tripura",
+    "name": "Devtamura",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Devtamura is a hill in Tripura.",
+    "coordinates": {
+      "lat": 23.23185,
+      "lon": 91.55961
+    },
+    "tags": [
+      "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Tripura"
+    ]
+  },
+  {
+    "id": "gumti-wildlife-sanctuary-tripura",
+    "name": "Gumti Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "description": "Gumti Wildlife Sanctuary is a wildlife century in India.",
+    "coordinates": {
+      "lat": 23.66444,
+      "lon": 91.31167
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Tripura"
+    ]
+  },
+  {
+    "id": "gunavati-group-of-temples-radha-kishorpur-tripura",
+    "name": "Gunavati Group of Temples, Radha Kishorpur",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Gunavati Group of Temples, Radha Kishorpur is a protected monument in Tripura, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Radha Kishorpur, Tripura"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "jari-mura-tripura",
+    "name": "Jāri Mura",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Jāri Mura is a mountain in Tripura, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Tripura",
+      "Mapped elevation is about 391 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 23.52611,
+      "lon": 91.7625
+    }
+  },
+  {
+    "id": "kamalasagar-tripura",
+    "name": "Kamalasagar",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Kamalasagar is a lake in Tripura, India.",
+    "coordinates": {
+      "lat": 23.744,
+      "lon": 91.175
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Recognised as Water Heritage Site",
+      "Lies in Sepahijala district, Tripura"
+    ]
+  },
+  {
+    "id": "kasbeswari-kali-mata-tripura",
+    "name": "Kasbeswari Kali Mata",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Kasbeswari Kali Mata is a hindu temple in Tripura, India.",
+    "coordinates": {
+      "lat": 23.74016,
+      "lon": 91.15982
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Sepahijala district, Tripura"
+    ]
+  },
+  {
+    "id": "khwichang-baptist-church-tripura",
+    "name": "Khwichang Baptist Church",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Khwichang Baptist Church is a church in India.",
+    "coordinates": {
+      "lat": 23.932,
+      "lon": 91.445
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Known as a spiritual destination in Tripura"
+    ]
+  },
+  {
+    "id": "lakshmi-narayan-temple-agartala-tripura",
+    "name": "Lakshmi Narayan Temple, Agartala",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Lakshmi Narayan Temple, Agartala is a building in India.",
+    "coordinates": {
+      "lat": 23.83423,
+      "lon": 91.2829
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in West Tripura District, Tripura"
+    ]
+  },
+  {
+    "id": "maharaja-birendra-kishore-museum-tripura",
+    "name": "Maharaja Birendra Kishore Museum",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Maharaja Birendra Kishore Museum is a cultural museum in Pushbanta Palace.",
+    "tags": [
+      "palace",
+      "museum"
+    ],
+    "facts": [
+      "Known as a heritage destination in Tripura"
+    ]
+  },
+  {
+    "id": "montang-valley-tripura",
+    "name": "Montang Valley",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Montang Valley is a tourist Place in Tripura.",
+    "coordinates": {
+      "lat": 23.81667,
+      "lon": 91.81667
+    },
+    "facts": [
+      "Lies in Khowai district, Tripura"
+    ]
+  },
+  {
+    "id": "neermahal-tripura",
+    "name": "Neermahal",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Neermahal is a royal palace built by king of Tripura in 1930.",
+    "coordinates": {
+      "lat": 23.50667,
+      "lon": 91.31544
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Known as a heritage destination in Tripura"
+    ]
+  },
+  {
+    "id": "pilak-tripura-tripura",
+    "name": "Pilak, Tripura",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Pilak, Tripura is an archaeological site.",
+    "coordinates": {
+      "lat": 23.76667,
+      "lon": 91.3
+    },
+    "tags": [
+      "archaeological-site"
+    ],
+    "facts": [
+      "Known as a heritage destination in Tripura"
+    ]
+  },
+  {
+    "id": "pushbanta-palace-tripura",
+    "name": "Pushbanta Palace",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Pushbanta Palace is an official residence of the Governor of Tripura.",
+    "coordinates": {
+      "lat": 23.85352,
+      "lon": 91.28477
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Maintained under Government of Tripura"
+    ]
+  },
+  {
+    "id": "rajbari-national-park-tripura",
+    "name": "Rajbari National Park",
+    "state": "Tripura",
+    "category": "wildlife",
+    "description": "Rajbari National Park is a national park in the Trishna Wildlife Sanctuary, Tripura, India.",
+    "coordinates": {
+      "lat": 23.28,
+      "lon": 91.4
+    },
+    "tags": [
+      "national-park",
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Tripura"
+    ]
+  },
+  {
+    "id": "rowa-wildlife-sanctuary-tripura",
+    "name": "Rowa Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "description": "Rowa Wildlife Sanctuary is a wildlife sanctuary in Tripura, India.",
+    "coordinates": {
+      "lat": 24.29,
+      "lon": 92.17
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Lies in North Tripura District, Tripura"
+    ]
+  },
+  {
+    "id": "rudrasagar-lake-tripura",
+    "name": "Rudrasagar Lake",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Rudrasagar Lake is a lake in India.",
+    "coordinates": {
+      "lat": 23.504,
+      "lon": 91.315
+    },
+    "tags": [
+      "lake"
+    ],
+    "facts": [
+      "Recognised as Ramsar site"
+    ]
+  },
+  {
+    "id": "sculptures-and-rock-reliefs-of-unakoti-tirtha-unakoti-range-tripura",
+    "name": "Sculptures and rock reliefs of Unakoti Tirtha, Unakoti Range,",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Sculptures and rock reliefs of Unakoti Tirtha, Unakoti Range, is a protected monument in Tripura, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Unakoti Range, Tripura"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "sepahijala-wildlife-sanctuary-tripura",
+    "name": "Sepahijala Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "description": "Sepahijala Wildlife Sanctuary is a wildlife sanctuary in Tripura, India.",
+    "coordinates": {
+      "lat": 23.66444,
+      "lon": 91.31167
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Dates from 1987",
+      "Covers about 18.5 km²",
+      "Lies in Sepahijala district, Tripura"
+    ]
+  },
+  {
+    "id": "st-francis-xavier-cathedral-agartala-tripura",
+    "name": "St. Francis Xavier Cathedral, Agartala",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "St. Francis Xavier Cathedral, Agartala is a building in India.",
+    "coordinates": {
+      "lat": 23.87,
+      "lon": 91.28
+    },
+    "tags": [
+      "church"
+    ],
+    "facts": [
+      "Dates from 2010",
+      "Dedicated to Francis Xavier",
+      "Associated with Catholicism",
+      "Lies in Agartala, Tripura"
+    ]
+  },
+  {
+    "id": "temple-of-chaturdasa-devata-radha-kishorpur-tripura",
+    "name": "Temple of Chaturdasa Devata, Radha Kishorpur",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Temple of Chaturdasa Devata, Radha Kishorpur is a protected monument in Tripura, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Kishorpur, Tripura"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "thakurani-tilla-paschim-pillak-tripura",
+    "name": "Thakurani Tilla, Paschim Pillak",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Thakurani Tilla, Paschim Pillak is a protected monument in Tripura, India.",
+    "facts": [
+      "Recognised as a State Protected Monument",
+      "Lies in Pillak, Tripura"
+    ],
+    "tags": [
+      "lesser-known",
+      "state-protected"
+    ]
+  },
+  {
+    "id": "tripura-government-museum-tripura",
+    "name": "Tripura Government Museum",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Tripura Government Museum is a museum in Tripura, India.",
+    "facts": [
+      "Listed in structured geographic data as a museum in Tripura",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "museum"
+    ],
+    "coordinates": {
+      "lat": 23.8374,
+      "lon": 91.2827
+    }
+  },
+  {
+    "id": "tripura-princely-state-tripura",
+    "name": "Tripura (princely state)",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Tripura (princely state) is a princely state.",
+    "coordinates": {
+      "lat": 23.8333,
+      "lon": 91.2833
+    },
+    "tags": [
+      "palace"
+    ],
+    "facts": [
+      "Dates from 1809",
+      "Covers about 10,660 km²"
+    ]
+  },
+  {
+    "id": "tripura-sundari-temple-tripura",
+    "name": "Tripura Sundari Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Tripura Sundari Temple is a hindu temple in Udaipur, Tripura, India.",
+    "coordinates": {
+      "lat": 23.50889,
+      "lon": 91.49806
+    },
+    "tags": [
+      "temple"
+    ],
+    "facts": [
+      "Lies in Udaipur, Tripura"
+    ]
+  },
+  {
+    "id": "trishna-wildlife-sanctuary-tripura",
+    "name": "Trishna Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "description": "Trishna Wildlife Sanctuary is a wildlife sanctuary in Tripura, India.",
+    "coordinates": {
+      "lat": 23.42167,
+      "lon": 91.31306
+    },
+    "tags": [
+      "wildlife-sanctuary"
+    ],
+    "facts": [
+      "Known as a wildlife destination in Tripura"
+    ]
+  },
+  {
+    "id": "ujjayanta-palace-tripura",
+    "name": "Ujjayanta Palace",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Ujjayanta Palace is a state museum in Tripura, India.",
+    "coordinates": {
+      "lat": 23.837,
+      "lon": 91.282
+    },
+    "tags": [
+      "palace",
+      "museum"
+    ],
+    "facts": [
+      "Dates from 1901",
+      "Built in the Neoclassical architecture style",
+      "Lies in Agartala, Tripura"
+    ]
+  },
+  {
+    "id": "unakoti-tripura",
+    "name": "Unakoti",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Unakoti is a tourist spot of Tripura, India.",
+    "coordinates": {
+      "lat": 24.3166,
+      "lon": 92.0666
+    },
+    "tags": [
+      "world-heritage",
+      "temple",
+      "archaeological-site",
+      "pilgrimage"
+    ],
+    "facts": [
+      "Recognised as Monument of National Importance",
+      "Recognised as Tentative World Heritage Site",
+      "Lies in Unakoti district, Tripura"
+    ]
+  }
+]
