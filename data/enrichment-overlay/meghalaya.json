@@ -4,8 +4,8 @@
     "name": "Baghmara Pitcher Plant Wildlife Sanctuary",
     "state": "Meghalaya",
     "category": "wildlife",
-    "district": null,
-    "district_fact_state": null,
+    "district": "South Garo Hills district",
+    "district_fact_state": "Meghalaya",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -22,6 +22,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.19814 N, 90.63877 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: human settlement in South Garo Hills district, Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2563818"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Baghmara, South Garo Hills.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Baghmara%2C_South_Garo_Hills.jpg"
       }
     ],
     "missing_themes": [
@@ -29,10 +41,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2563818",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Baghmara%2C_South_Garo_Hills.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Baghmara%2C_South_Garo_Hills.jpg",
+        "title": "Baghmara,_South_Garo_Hills.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "balpakram-national-park-meghalaya",
@@ -67,23 +96,68 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.50000 N, 90.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Meghalaya Tourism groups Balpakram National Park with Garo Hills journeys and lists it as its own guided experience.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/experiences/curated-experiences/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1986 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2979712"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: national park in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2979712"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Balpakram Canyon.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Balpakram_Canyon.jpg"
       }
     ],
     "missing_themes": [
       "festival",
-      "local-culture",
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/experiences/curated-experiences/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2979712",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Balpakram_Canyon.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Balpakram_Canyon.jpg",
+        "title": "Balpakram_Canyon.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "bishop-falls-meghalaya",
     "name": "Bishop Falls",
     "state": "Meghalaya",
     "category": "nature",
-    "district": null,
-    "district_fact_state": null,
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -105,6 +179,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q4917550"
       }
     ],
     "missing_themes": [
@@ -112,10 +192,15 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4917550",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "blue-heaven-falls-meghalaya",
@@ -220,6 +305,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.52727 N, 90.32738 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "Meghalaya Tourism lists Chandigre village among its curated Garo Hills experiences.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/experiences/curated-experiences/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: village in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q130563929"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Rain Shelter Chandigre West Garo Oct24 A7CR 03553.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Rain_Shelter_Chandigre_West_Garo_Oct24_A7CR_03553.jpg"
       }
     ],
     "missing_themes": [
@@ -229,7 +332,29 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/experiences/curated-experiences/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q130563929",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Rain_Shelter_Chandigre_West_Garo_Oct24_A7CR_03553.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Rain_Shelter_Chandigre_West_Garo_Oct24_A7CR_03553.jpg",
+        "title": "Rain_Shelter_Chandigre_West_Garo_Oct24_A7CR_03553.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "cherrapunji-meghalaya",
@@ -259,6 +384,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.27917 N, 91.72417 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: town of Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q211030"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Cherrapunji.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cherrapunji.jpg"
       }
     ],
     "missing_themes": [
@@ -268,7 +405,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q211030",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cherrapunji.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Cherrapunji.jpg",
+        "title": "Cherrapunji.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "church-of-the-epiphany-meghalaya",
@@ -298,17 +453,28 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "history",
+        "text": "Meghalaya Tourism describes the Church of the Epiphany at Mawlynnong as more than a century old, set among gardens in the village.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/"
       }
     ],
     "missing_themes": [
-      "history",
       "festival",
       "local-culture",
       "food",
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/",
+        "publisher": "www.meghalayatourism.in"
+      }
+    ]
   },
   {
     "id": "dainthlen-falls-meghalaya",
@@ -338,6 +504,24 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "The state destinations guide pairs Dainthlen's flow with Nohkalikai among the waterfalls that define Sohra.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q111937100"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Wei Sawdong Waterfall 3.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg"
       }
     ],
     "missing_themes": [
@@ -348,7 +532,29 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q111937100",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg",
+        "title": "Wei_Sawdong_Waterfall_3.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "daribokgre-meghalaya",
@@ -373,6 +579,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.49167 N, 90.32399 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: village in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q130577596"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, South View Daribokgre East Garo Oct24 A7CR 03641.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:South_View_Daribokgre_East_Garo_Oct24_A7CR_03641.jpg"
       }
     ],
     "missing_themes": [
@@ -382,7 +600,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q130577596",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:South_View_Daribokgre_East_Garo_Oct24_A7CR_03641.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:South_View_Daribokgre_East_Garo_Oct24_A7CR_03641.jpg",
+        "title": "South_View_Daribokgre_East_Garo_Oct24_A7CR_03641.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "dawki-meghalaya",
@@ -407,6 +643,30 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.18333 N, 92.01667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Meghalaya Tourism describes Dawki's Umngot River as clear enough for boating, on the border with Bangladesh.",
+        "basis": "cited-source",
+        "source": "https://rc-www.meghalayatourism.in/mawlynnong-dawki/"
+      },
+      {
+        "theme": "placement-flag",
+        "text": "A state tourism page places Dawki in West Jaintia Hills. The catalog fact still says Jaintia Hills district, and that original placement is kept.",
+        "basis": "cited-source",
+        "source": "https://rc-www.meghalayatourism.in/mawlynnong-dawki/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: town in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q5242368"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Umngot river, Dawki.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Umngot_river%2C_Dawki.jpg"
       }
     ],
     "missing_themes": [
@@ -416,7 +676,29 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://rc-www.meghalayatourism.in/mawlynnong-dawki/",
+        "publisher": "rc-www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5242368",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Umngot_river%2C_Dawki.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Umngot_river%2C_Dawki.jpg",
+        "title": "Umngot_river,_Dawki.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "dhamrai-jagannath-roth-meghalaya",
@@ -526,6 +808,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.53610 N, 91.82250 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Shillong, Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q85758968"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Elephant Falls Meghalaya.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_Meghalaya.jpg"
       }
     ],
     "missing_themes": [
@@ -536,7 +830,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q85758968",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_Meghalaya.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_Meghalaya.jpg",
+        "title": "Elephant_Falls_Meghalaya.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "excavated-temple-meghalaya",
@@ -623,8 +935,8 @@
     "name": "Gandrak Dare Falls",
     "state": "Meghalaya",
     "category": "nature",
-    "district": null,
-    "district_fact_state": null,
+    "district": "West Garo Hills district",
+    "district_fact_state": "Meghalaya",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -646,6 +958,18 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: town of Meghalaya.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2317186"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Waterfall Gandrak Tura West Garo Oct24 A7CR 03814.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg"
       }
     ],
     "missing_themes": [
@@ -653,10 +977,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2317186",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "title": "Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "garo-hills-meghalaya",
@@ -686,6 +1027,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.50000 N, 90.33333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata records a start or opening year of 1976 for this place.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2329181"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: district of Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2329181"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Jinjiram River.JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Jinjiram_River.JPG"
       }
     ],
     "missing_themes": [
@@ -695,15 +1054,33 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2329181",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Jinjiram_River.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Jinjiram_River.JPG",
+        "title": "Jinjiram_River.JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "ka-likai-meghalaya",
     "name": "Ka Likai",
     "state": "Meghalaya",
     "category": "nature",
-    "district": null,
-    "district_fact_state": null,
+    "district": "East Khasi Hills district",
+    "district_fact_state": "Meghalaya",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -725,6 +1102,18 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3631209"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, NohKaLikai Falls V2 Wiki.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg"
       }
     ],
     "missing_themes": [
@@ -732,10 +1121,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3631209",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg",
+        "title": "NohKaLikai_Falls_V2_Wiki.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "khasi-hills-meghalaya",
@@ -765,6 +1171,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.58333 N, 91.63333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mountain range in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3182012"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, East Khasi Hills.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:East_Khasi_Hills.jpg"
       }
     ],
     "missing_themes": [
@@ -775,7 +1193,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3182012",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:East_Khasi_Hills.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:East_Khasi_Hills.jpg",
+        "title": "East_Khasi_Hills.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "kongthong-meghalaya",
@@ -800,16 +1236,64 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.18000 N, 91.48000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Meghalaya Tourism calls Kongthong the Whistling Village, where each person is given a unique whistled tune used as a name.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "food",
+        "text": "The state tourism board lists an organic-honey experience among visits to Kongthong.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/experiences/curated-experiences/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: village in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q108739971"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, 10 Shnongpdei 1.JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:10_Shnongpdei_1.JPG"
       }
     ],
     "missing_themes": [
       "history",
       "festival",
-      "local-culture",
-      "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.meghalayatourism.in/experiences/curated-experiences/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q108739971",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:10_Shnongpdei_1.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:10_Shnongpdei_1.JPG",
+        "title": "10_Shnongpdei_1.JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "kopili-river-meghalaya",
@@ -834,6 +1318,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 26.16167 N, 92.27639 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: river in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q11929642"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kopili River.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kopili_River.jpg"
       }
     ],
     "missing_themes": [
@@ -844,7 +1340,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q11929642",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kopili_River.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kopili_River.jpg",
+        "title": "Kopili_River.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "krem-liat-prah-meghalaya",
@@ -864,6 +1378,12 @@
         "theme": "suggested-duration",
         "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: cave in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q6436676"
       }
     ],
     "missing_themes": [
@@ -875,7 +1395,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6436676",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "krem-synrang-pamiang-meghalaya",
@@ -931,6 +1457,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.22700 N, 91.71600 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Kynrem Falls.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kynrem_Falls.jpg"
       }
     ],
     "missing_themes": [
@@ -940,7 +1472,74 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Kynrem_Falls.jpg",
+        "title": "Kynrem_Falls.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kynrem_Falls.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
+  },
+  {
+    "id": "laitlum-canyon-meghalaya",
+    "name": "Laitlum Canyon",
+    "state": "Meghalaya",
+    "category": "nature",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "detail",
+        "text": "Added after Wikidata's administrative chain matched the catalog state. Visitor detail beyond that is still open.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/"
+      },
+      {
+        "theme": "detail",
+        "text": "Meghalaya Tourism lists Laitlum Canyon under the Khasi Hills, as a ridge-and-gorge viewpoint.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "Plan a short visit until a more detailed account is collected.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/",
+        "publisher": "www.meghalayatourism.in"
+      }
+    ]
   },
   {
     "id": "langshiang-falls-meghalaya",
@@ -965,6 +1564,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.44521 N, 91.22866 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Langshiang Falls Located in Sangriang, Nongstoin.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Langshiang_Falls_Located_in_Sangriang%2C_Nongstoin.jpg"
       }
     ],
     "missing_themes": [
@@ -974,7 +1579,21 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Langshiang_Falls_Located_in_Sangriang%2C_Nongstoin.jpg",
+        "title": "Langshiang_Falls_Located_in_Sangriang,_Nongstoin.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Langshiang_Falls_Located_in_Sangriang%2C_Nongstoin.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "living-root-bridge-meghalaya",
@@ -1035,6 +1654,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.56708 N, 91.87792 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: mosque in Shillong, Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q24882966"
       }
     ],
     "missing_themes": [
@@ -1044,7 +1669,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q24882966",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "manipur-memorial-shillong-meghalaya",
@@ -1153,16 +1784,49 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.19972 N, 91.93167 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Meghalaya Tourism calls Mawlynnong Asia's cleanest village and God's Own Garden. It sits in East Khasi Hills, about 76 km from Shillong, near the Bangladesh border.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/"
+      },
+      {
+        "theme": "history",
+        "text": "The Nohwet living-root bridge is woven from Ficus elastica roots over generations, a Khasi practice the state tourism guide highlights in the village.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/"
+      },
+      {
+        "theme": "access",
+        "text": "Shared sumos leave Shillong for Pynursla; local cabs cover the last stretch. The state guide puts Shillong Airport about 103 km away.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/"
+      },
+      {
+        "theme": "best-time",
+        "text": "The state tourism page says Mawlynnong can be visited year-round, with post-monsoon and winter easier for being outdoors.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "A bamboo sky viewpoint in the village looks over the Bangladesh plains, a short walk from the single-decker root bridge.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/"
       }
     ],
     "missing_themes": [
-      "history",
       "festival",
-      "local-culture",
-      "food",
-      "place-specific-season"
+      "food"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawlynnong/",
+        "publisher": "www.meghalayatourism.in"
+      }
+    ]
   },
   {
     "id": "mawmluh-cave-meghalaya",
@@ -1222,6 +1886,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.54612 N, 91.45322 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "State tourism promotes Mawphanlur for night-sky views from a village on open rolling hills in the Khasi Hills.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: village in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q130643417"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, NW Mawphanlur Lakes West Khasi Hills Oct24 A7CR 04235.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:NW_Mawphanlur_Lakes_West_Khasi_Hills_Oct24_A7CR_04235.jpg"
       }
     ],
     "missing_themes": [
@@ -1231,7 +1913,29 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q130643417",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:NW_Mawphanlur_Lakes_West_Khasi_Hills_Oct24_A7CR_04235.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:NW_Mawphanlur_Lakes_West_Khasi_Hills_Oct24_A7CR_04235.jpg",
+        "title": "NW_Mawphanlur_Lakes_West_Khasi_Hills_Oct24_A7CR_04235.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "mawsmai-cave-meghalaya",
@@ -1261,6 +1965,24 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "access",
+        "text": "Meghalaya Tourism describes Mawsmai Cave, near Sohra, as a short limestone cave with narrow squeezes rather than a technical caving trip.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q38373"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Seven Sisters Water Falls Mawsmai Cherrapunjee 513.JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG"
       }
     ],
     "missing_themes": [
@@ -1271,7 +1993,29 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q38373",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG",
+        "title": "Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "mawsynram-meghalaya",
@@ -1306,6 +2050,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.29889 N, 91.58139 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Meghalaya Tourism describes Mawsynram, in the East Khasi Hills, as the wettest place on Earth, with nearly 12,000 mm of rain a year.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: block in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2708616"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Mawsynram, India (PIA20437).jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mawsynram%2C%20India%20%28PIA20437%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1315,7 +2077,29 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2708616",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mawsynram%2C%20India%20%28PIA20437%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Mawsynram%2C%20India%20%28PIA20437%29.jpg",
+        "title": "Mawsynram, India (PIA20437).jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "megalithic-bridge-known-as-thulum-wi-between-jowai-and-jarain-maput-meghalaya",
@@ -1457,6 +2241,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.11870 N, 92.44940 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Wildlife sanctuary in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q137223381"
       }
     ],
     "missing_themes": [
@@ -1467,7 +2257,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q137223381",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "nartiang-durga-temple-meghalaya",
@@ -1492,6 +2288,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.56700 N, 92.20900 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Hindu temple in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q17059185"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Nartiang Durga temple.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Nartiang_Durga_temple.jpg"
       }
     ],
     "missing_themes": [
@@ -1502,7 +2310,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q17059185",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Nartiang_Durga_temple.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Nartiang_Durga_temple.jpg",
+        "title": "Nartiang_Durga_temple.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "new-shillong-meghalaya",
@@ -1558,6 +2384,24 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.27552 N, 91.68668 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Meghalaya Tourism singles out Nohkalikai's plunge as one of the waterfalls Sohra is known for, in forest above the plains.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3631209"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, NohKaLikai Falls V2 Wiki.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg"
       }
     ],
     "missing_themes": [
@@ -1567,7 +2411,29 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q3631209",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg",
+        "title": "NohKaLikai_Falls_V2_Wiki.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "nohsngithiang-falls-meghalaya",
@@ -1592,6 +2458,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.24278 N, 91.74083 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q38373"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Seven Sisters Water Falls Mawsmai Cherrapunjee 513.JPG, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG"
       }
     ],
     "missing_themes": [
@@ -1602,7 +2480,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q38373",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG",
+        "title": "Seven_Sisters_Water_Falls_Mawsmai_Cherrapunjee_513.JPG",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "nokrek-national-park-meghalaya",
@@ -1627,6 +2523,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.53333 N, 90.11667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: national park in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q3174875"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Jhum cultivation in Nokrek Biosphere Reserve Meghalaya India Northeast India 2004.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Jhum%20cultivation%20in%20Nokrek%20Biosphere%20Reserve%20Meghalaya%20India%20Northeast%20India%202004.jpg"
       }
     ],
     "missing_themes": [
@@ -1636,15 +2544,33 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3174875",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Jhum%20cultivation%20in%20Nokrek%20Biosphere%20Reserve%20Meghalaya%20India%20Northeast%20India%202004.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Jhum%20cultivation%20in%20Nokrek%20Biosphere%20Reserve%20Meghalaya%20India%20Northeast%20India%202004.jpg",
+        "title": "Jhum cultivation in Nokrek Biosphere Reserve Meghalaya India Northeast India 2004.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "nokrek-peak-meghalaya",
     "name": "Nokrek Peak",
     "state": "Meghalaya",
     "category": "nature",
-    "district": null,
-    "district_fact_state": null,
+    "district": "West Garo Hills district",
+    "district_fact_state": "Meghalaya",
     "district_state_conflict": false,
     "visitor_facts": [
       {
@@ -1671,6 +2597,18 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: town of Meghalaya.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2317186"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Waterfall Gandrak Tura West Garo Oct24 A7CR 03814.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg"
       }
     ],
     "missing_themes": [
@@ -1678,10 +2616,27 @@
       "festival",
       "local-culture",
       "food",
-      "place-specific-season",
-      "district"
+      "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2317186",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "title": "Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "nongkhyllem-wildlife-sanctuary-meghalaya",
@@ -1706,6 +2661,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.92738 N, 91.74652 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: wildlife sanctuary in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q61363881"
       }
     ],
     "missing_themes": [
@@ -1715,7 +2676,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q61363881",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "nongriat-meghalaya",
@@ -1740,6 +2707,30 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.23700 N, 91.68000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "access",
+        "text": "Meghalaya Tourism describes a 3 km walk of about 3,500 stone steps from the trailhead down to Nongriat's double-decker living-root bridge.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "The same guide allows about another hour beyond the bridge to reach Rainbow Falls, so the outing is a full day on foot.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Living root bridge in Meghalya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q107202384"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Double Decker Living Tree Root Bridges, Meghalaya.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg"
       }
     ],
     "missing_themes": [
@@ -1749,7 +2740,29 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q107202384",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg",
+        "title": "Double_Decker_Living_Tree_Root_Bridges,_Meghalaya.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "nongtalang-meghalaya",
@@ -1774,6 +2787,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.20930 N, 92.06685 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: town in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q51287904"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Nongtalang Town - 1.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Nongtalang%20Town%20-%201.jpg"
       }
     ],
     "missing_themes": [
@@ -1783,7 +2808,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q51287904",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Nongtalang%20Town%20-%201.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Nongtalang%20Town%20-%201.jpg",
+        "title": "Nongtalang Town - 1.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "rangthylliang-1-root-bridge-meghalaya",
@@ -1803,18 +2846,29 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "local-culture",
+        "text": "Meghalaya Tourism lists Rangthylliang among its living-root-bridge experiences.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/experiences/curated-experiences/"
       }
     ],
     "missing_themes": [
       "history",
       "festival",
-      "local-culture",
       "food",
       "access",
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/experiences/curated-experiences/",
+        "publisher": "www.meghalayatourism.in"
+      }
+    ]
   },
   {
     "id": "sasatgre-meghalaya",
@@ -1839,6 +2893,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.52727 N, 90.32738 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: village in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q130544039"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Bamboo Farm Buildings Sasatgre West Garo Oct24 A7CR 03309.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bamboo_Farm_Buildings_Sasatgre_West_Garo_Oct24_A7CR_03309.jpg"
       }
     ],
     "missing_themes": [
@@ -1848,7 +2914,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q130544039",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bamboo_Farm_Buildings_Sasatgre_West_Garo_Oct24_A7CR_03309.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Bamboo_Farm_Buildings_Sasatgre_West_Garo_Oct24_A7CR_03309.jpg",
+        "title": "Bamboo_Farm_Buildings_Sasatgre_West_Garo_Oct24_A7CR_03309.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "scott-s-memorials-cherrapunji-meghalaya",
@@ -1935,6 +3019,64 @@
     "collection_status": "sourced"
   },
   {
+    "id": "shillong-meghalaya",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "district": null,
+    "district_fact_state": null,
+    "district_state_conflict": false,
+    "visitor_facts": [
+      {
+        "theme": "detail",
+        "text": "Lies in East Khasi Hills district, Meghalaya.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: capital city of Meghalaya, India.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata also names Assam in an administrative statement. The English description and coordinates support Meghalaya, so the record stays there.",
+        "basis": "catalog-record"
+      },
+      {
+        "theme": "detail",
+        "text": "Added after Wikidata's administrative chain matched the catalog state. Visitor detail beyond that is still open.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/"
+      },
+      {
+        "theme": "best-time",
+        "text": "In these hills, October to April is the drier travel season. June to September is lush and often wet, with slippery roads.",
+        "basis": "regional-climate"
+      },
+      {
+        "theme": "suggested-duration",
+        "text": "A hill station usually deserves a night. A single viewpoint can be a one-hour stop.",
+        "basis": "category-planning"
+      }
+    ],
+    "missing_themes": [
+      "history",
+      "festival",
+      "local-culture",
+      "food",
+      "access",
+      "place-specific-season",
+      "district"
+    ],
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/",
+        "publisher": "www.wikidata.org"
+      }
+    ]
+  },
+  {
     "id": "siju-cave-meghalaya",
     "name": "Siju Cave",
     "state": "Meghalaya",
@@ -1952,6 +3094,12 @@
         "theme": "suggested-duration",
         "text": "A waterfall or cave is often a half-day trip once the approach road is counted.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "hidden-gem",
+        "text": "State tourism bills Siju as a Garo Hills stop, describing it as a place that feels frozen in time.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/experiences/curated-experiences/"
       }
     ],
     "missing_themes": [
@@ -1962,7 +3110,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/experiences/curated-experiences/",
+        "publisher": "www.meghalayatourism.in"
+      }
+    ]
   },
   {
     "id": "spread-eagle-falls-meghalaya",
@@ -1992,6 +3146,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "placement-flag",
+        "text": "Wikidata links a page titled Shillong to Assam. The catalog keeps this record in Meghalaya.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q207752"
       }
     ],
     "missing_themes": [
@@ -2002,7 +3162,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q207752",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "stone-memorial-of-u-mawthaw-dur-briew-nartiang-meghalaya",
@@ -2105,6 +3271,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.56111 N, 91.95861 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q12459431"
       }
     ],
     "missing_themes": [
@@ -2114,7 +3286,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q12459431",
+        "publisher": "www.wikidata.org"
+      }
+    ]
   },
   {
     "id": "tank-syndai-meghalaya",
@@ -2178,6 +3356,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.49700 N, 92.17300 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: lake in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q72385391"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Panoramic Thadlaskein.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Panoramic_Thadlaskein.jpg"
       }
     ],
     "missing_themes": [
@@ -2188,7 +3378,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q72385391",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Panoramic_Thadlaskein.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Panoramic_Thadlaskein.jpg",
+        "title": "Panoramic_Thadlaskein.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "thain-mawdem-forest-meghalaya",
@@ -2258,6 +3466,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.52000 N, 90.22000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: town of Meghalaya.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q2317186"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Waterfall Gandrak Tura West Garo Oct24 A7CR 03814.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg"
       }
     ],
     "missing_themes": [
@@ -2267,7 +3487,25 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2317186",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "title": "Waterfall_Gandrak_Tura_West_Garo_Oct24_A7CR_03814.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "umiam-lake-meghalaya",
@@ -2292,6 +3530,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.65320 N, 91.88430 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: lake in India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q4475482"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Umiam Lake - by Vikramjit Kakati.png, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Umiam_Lake_-_by_Vikramjit_Kakati.png"
       }
     ],
     "missing_themes": [
@@ -2302,7 +3552,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4475482",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Umiam_Lake_-_by_Vikramjit_Kakati.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Umiam_Lake_-_by_Vikramjit_Kakati.png",
+        "title": "Umiam_Lake_-_by_Vikramjit_Kakati.png",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "umshiang-double-decker-root-bridge-meghalaya",
@@ -2327,17 +3595,56 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.25126 N, 91.67195 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "history",
+        "text": "State tourism presents the double-decker living-root bridge as the focus of the Nongriat walk, reached by roughly 3,500 stone steps.",
+        "basis": "cited-source",
+        "source": "https://www.meghalayatourism.in/explore/destinations/"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: Living root bridge in Meghalya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q107202384"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Double Decker Living Tree Root Bridges, Meghalaya.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg"
       }
     ],
     "missing_themes": [
-      "history",
       "festival",
       "local-culture",
       "food",
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.meghalayatourism.in/explore/destinations/",
+        "publisher": "www.meghalayatourism.in"
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q107202384",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Double_Decker_Living_Tree_Root_Bridges%2C_Meghalaya.jpg",
+        "title": "Double_Decker_Living_Tree_Root_Bridges,_Meghalaya.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "wah-kaba-falls-meghalaya",
@@ -2362,6 +3669,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.31145 N, 91.73286 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q65083400"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Wah Kaba at top.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Wah_Kaba_at_top.jpg"
       }
     ],
     "missing_themes": [
@@ -2372,7 +3691,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q65083400",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Wah_Kaba_at_top.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Wah_Kaba_at_top.jpg",
+        "title": "Wah_Kaba_at_top.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "ward-s-lake-shillong-meghalaya",
@@ -2397,6 +3734,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.57500 N, 91.88700 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: artificial lake in Shillong, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q104833932"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Ward's Lake, Shillong.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ward%27s_Lake%2C_Shillong.jpg"
       }
     ],
     "missing_themes": [
@@ -2407,7 +3756,25 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q104833932",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ward%27s_Lake%2C_Shillong.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Ward%27s_Lake%2C_Shillong.jpg",
+        "title": "Ward's_Lake,_Shillong.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   },
   {
     "id": "wei-sawdong-falls-meghalaya",
@@ -2432,6 +3799,18 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 25.29123 N, 91.67835 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "detail",
+        "text": "Wikidata's short description is: waterfall in Meghalaya, India.",
+        "basis": "cited-source",
+        "source": "https://www.wikidata.org/wiki/Q111937100"
+      },
+      {
+        "theme": "photo",
+        "text": "A Wikimedia Commons file, Wei Sawdong Waterfall 3.jpg, is linked from the matched page.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg"
       }
     ],
     "missing_themes": [
@@ -2442,6 +3821,24 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q111937100",
+        "publisher": "www.wikidata.org"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ],
+    "photos": [
+      {
+        "page_url": "https://commons.wikimedia.org/wiki/File:Wei_Sawdong_Waterfall_3.jpg",
+        "title": "Wei_Sawdong_Waterfall_3.jpg",
+        "source": "Wikimedia Commons",
+        "note": "Open the file page for the license and author. The image file is not stored here."
+      }
+    ]
   }
 ]

@@ -134,6 +134,26 @@
     ]
   },
   {
+    "id": "khonoma-nagaland",
+    "name": "Khonoma",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Khonoma is a offbeat place in Nagaland, India.",
+    "facts": [
+      "Included from Wikidata after the administrative chain matched this state.",
+      "Lies in Kohima district, Nagaland.",
+      "Wikidata's short description is: human settlement in India."
+    ],
+    "tags": [
+      "lesser-known",
+      "village"
+    ],
+    "coordinates": {
+      "lat": 25.6522,
+      "lon": 94.0229
+    }
+  },
+  {
     "id": "khonoma-nature-conservation-and-tragopan-sanctuary-nagaland",
     "name": "Khonoma Nature Conservation and Tragopan Sanctuary",
     "state": "Nagaland",
@@ -265,6 +285,26 @@
       "Stands at about 1,444 m elevation",
       "Lies in Kohima district, Nagaland"
     ]
+  },
+  {
+    "id": "kohima-war-cemetery-nagaland",
+    "name": "Kohima War Cemetery",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Kohima War Cemetery is a heritage place in Nagaland, India.",
+    "facts": [
+      "Included from Wikidata after the administrative chain matched this state.",
+      "Lies in Kohima district, Nagaland.",
+      "Wikidata's short description is: Commonwealth War Graves Commission maintained cemetery in India."
+    ],
+    "tags": [
+      "lesser-known",
+      "war-cemetery"
+    ],
+    "coordinates": {
+      "lat": 25.66736,
+      "lon": 94.10373
+    }
   },
   {
     "id": "lake-shilloi-nagaland",

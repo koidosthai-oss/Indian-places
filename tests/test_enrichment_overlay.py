@@ -10,6 +10,7 @@ ALLOWED_BASES = {
     "category-planning",
     "catalog-coordinates",
     "catalog-tags",
+    "cited-source",
 }
 
 
@@ -28,17 +29,21 @@ def test_overlay_matches_every_place_without_moving_state():
             assert item["state"] == source["state"]
             assert item["category"] == source["category"]
             assert "coordinates" not in item
-            assert item["collection_status"] in {"sourced", "needs_collection"}
+            assert item["collection_status"] in {"sourced", "needs_collection", "enriched"}
             themes = [fact["theme"] for fact in item["visitor_facts"]]
             assert "best-time" in themes
             assert "suggested-duration" in themes
             for fact in item["visitor_facts"]:
                 assert fact["basis"] in ALLOWED_BASES
                 assert len(fact["text"]) >= 10
-            if item["collection_status"] == "sourced":
+            if item["collection_status"] == "enriched":
+                assert any(fact["basis"] == "cited-source" for fact in item["visitor_facts"])
+            elif item["collection_status"] == "sourced":
                 assert any(fact["basis"] == "catalog-record" for fact in item["visitor_facts"])
             else:
-                assert not any(fact["basis"] == "catalog-record" for fact in item["visitor_facts"])
+                assert not any(
+                    fact["basis"] in {"catalog-record", "cited-source"} for fact in item["visitor_facts"]
+                )
             seen += 1
     assert seen == coverage["total_places"]
     assert coverage["total_places"] >= 40000

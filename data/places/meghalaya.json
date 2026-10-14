@@ -421,6 +421,21 @@
     ]
   },
   {
+    "id": "laitlum-canyon-meghalaya",
+    "name": "Laitlum Canyon",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Laitlum Canyon is a nature place in Meghalaya, India.",
+    "facts": [
+      "Included from Wikidata after the administrative chain matched this state.",
+      "Wikidata's short description is: canyon near Shillong, Meghalaya, India."
+    ],
+    "tags": [
+      "lesser-known",
+      "canyon"
+    ]
+  },
+  {
     "id": "langshiang-falls-meghalaya",
     "name": "Langshiang Falls",
     "state": "Meghalaya",
@@ -864,6 +879,26 @@
     "coordinates": {
       "lat": 25.15,
       "lon": 92.73333
+    }
+  },
+  {
+    "id": "shillong-meghalaya",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Shillong is a hill station place in Meghalaya, India.",
+    "facts": [
+      "Included from Wikidata after the administrative chain matched this state.",
+      "Lies in East Khasi Hills district, Meghalaya.",
+      "Wikidata's short description is: capital city of Meghalaya, India.",
+      "Wikidata also names Assam in an administrative statement. The English description and coordinates support Meghalaya, so the record stays there."
+    ],
+    "tags": [
+      "hill-station"
+    ],
+    "coordinates": {
+      "lat": 25.57444,
+      "lon": 91.87889
     }
   },
   {
