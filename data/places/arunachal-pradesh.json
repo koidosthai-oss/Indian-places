@@ -1,1 +1,17 @@
-[PLACEHOLDER_TO_BE_REPLACED]
+[
+  {
+    "id": "roing-lower-dibang-valley-arunachal-pradesh",
+    "name": "Roing",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "District headquarters of Lower Dibang Valley, a scenic plain town at the foothills of the Mishmi Hills serving as the main base for exploring the region's lakes, wildlife, forts, and hill passes. Known for orange orchards and as a commercial hub for the area.",
+    "coordinates": {"lat": 28.14278, "lon": 95.84278},
+    "tags": ["district-hq", "gateway", "offbeat", "tribal"],
+    "facts": [
+      "Headquarters of Lower Dibang Valley district",
+      "Population around 11,389 as per 2011 census",
+      "Base for visits to Mehao Lake, Mayodia Pass, and Bhishmaknagar Fort",
+      "Home to Idu Mishmi and Adi communities; Reh festival celebrated in February"
+    ]
+  }
+]
