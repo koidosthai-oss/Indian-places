@@ -67,6 +67,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.18806 N, 88.67472 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aritar, Sikkim, India - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aritar%2C%20Sikkim%2C%20India%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -76,7 +82,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aritar%2C%20Sikkim%2C%20India%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arralang-sikkim",
@@ -151,6 +163,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 29.63056 N, 95.05528 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Magnetic Survey connected with Sikkim Khosia Hills and Assam (IA dli.pahar.0482).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Magnetic%20Survey%20connected%20with%20Sikkim%20Khosia%20Hills%20and%20Assam%20%28IA%20dli.pahar.0482%29.pdf"
       }
     ],
     "missing_themes": [
@@ -161,7 +179,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Magnetic%20Survey%20connected%20with%20Sikkim%20Khosia%20Hills%20and%20Assam%20%28IA%20dli.pahar.0482%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bajredada-sikkim",
@@ -231,6 +255,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.35083 N, 88.60361 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A structure near the Banjhakri Falls, Gangtok.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20structure%20near%20the%20Banjhakri%20Falls%2C%20Gangtok.jpg"
       }
     ],
     "missing_themes": [
@@ -240,7 +270,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20structure%20near%20the%20Banjhakri%20Falls%2C%20Gangtok.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "banjhakri-falls-and-park-sikkim",
@@ -270,6 +306,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A structure near the Banjhakri Falls, Gangtok.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20structure%20near%20the%20Banjhakri%20Falls%2C%20Gangtok.jpg"
       }
     ],
     "missing_themes": [
@@ -280,7 +322,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20structure%20near%20the%20Banjhakri%20Falls%2C%20Gangtok.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bermiok-monastery-sikkim",
@@ -305,6 +353,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.22628 N, 88.45744 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Burmiokwosel Choling Monastery in South Sikkim at Burmiok village.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Burmiokwosel%20Choling%20Monastery%20in%20South%20Sikkim%20at%20Burmiok%20village.jpg"
       }
     ],
     "missing_themes": [
@@ -314,7 +368,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Burmiokwosel%20Choling%20Monastery%20in%20South%20Sikkim%20at%20Burmiok%20village.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bitang-chho-sikkim",
@@ -384,6 +444,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.31360 N, 88.36367 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Buddha statue at Buddha Park of Ravangla, Sikkim, India (1).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Buddha%20statue%20at%20Buddha%20Park%20of%20Ravangla%2C%20Sikkim%2C%20India%20%281%29.jpg"
       }
     ],
     "missing_themes": [
@@ -392,7 +458,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Buddha%20statue%20at%20Buddha%20Park%20of%20Ravangla%2C%20Sikkim%2C%20India%20%281%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "byusala-sikkim",
@@ -542,6 +614,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.29770 N, 88.21994 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Prayer Wheel, Skywalk, Sikkim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Prayer%20Wheel%2C%20Skywalk%2C%20Sikkim.jpg"
       }
     ],
     "missing_themes": [
@@ -552,7 +630,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Prayer%20Wheel%2C%20Skywalk%2C%20Sikkim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chham-chho-sikkim",
@@ -1082,6 +1166,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.62000 N, 88.63000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ringhim Helipad, Shankar Road, Chungthang, North Sikkim, India.webm.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ringhim%20Helipad%2C%20Shankar%20Road%2C%20Chungthang%2C%20North%20Sikkim%2C%20India.webm"
       }
     ],
     "missing_themes": [
@@ -1091,7 +1181,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ringhim%20Helipad%2C%20Shankar%20Road%2C%20Chungthang%2C%20North%20Sikkim%2C%20India.webm",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chura-la-sikkim",
@@ -1325,6 +1421,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.31278 N, 88.60472 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Do Drul Chorten, Gangtok District, East Sikkim 02.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Do%20Drul%20Chorten%2C%20Gangtok%20District%2C%20East%20Sikkim%2002.jpg"
       }
     ],
     "missing_themes": [
@@ -1335,7 +1437,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Do%20Drul%20Chorten%2C%20Gangtok%20District%2C%20East%20Sikkim%2002.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "domekhan-sikkim",
@@ -1495,6 +1603,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.36682 N, 88.22996 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dubde alias Dubdi Monastery, Yuksom, West Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dubde%20alias%20Dubdi%20Monastery%2C%20Yuksom%2C%20West%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -1503,7 +1617,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dubde%20alias%20Dubdi%20Monastery%2C%20Yuksom%2C%20West%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "enchey-monastery-sikkim",
@@ -1528,6 +1648,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.34056 N, 88.62750 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Enchey Monastery in Gangtok, Sikkim,1.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Enchey%20Monastery%20in%20Gangtok%2C%20Sikkim%2C1.jpg"
       }
     ],
     "missing_themes": [
@@ -1537,7 +1663,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Enchey%20Monastery%20in%20Gangtok%2C%20Sikkim%2C1.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fambong-lho-wildlife-sanctuary-sikkim",
@@ -1572,6 +1704,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.31130 N, 88.53367 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chestnut-Crowned Warbler Fambong Lho Wildlife Sanctuary Sikkim India 27.03.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chestnut-Crowned%20Warbler%20Fambong%20Lho%20Wildlife%20Sanctuary%20Sikkim%20India%2027.03.jpg"
       }
     ],
     "missing_themes": [
@@ -1580,7 +1718,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chestnut-Crowned%20Warbler%20Fambong%20Lho%20Wildlife%20Sanctuary%20Sikkim%20India%2027.03.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gangtok-sikkim",
@@ -1615,6 +1759,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.33000 N, 88.62000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Sikkim-Gangtok wooden bridge.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sikkim-Gangtok%20wooden%20bridge.jpg"
       }
     ],
     "missing_themes": [
@@ -1624,7 +1774,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sikkim-Gangtok%20wooden%20bridge.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "garaket-la-sikkim",
@@ -1744,6 +1900,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.73333 N, 88.15000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gimmigela Chuli.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gimmigela%20Chuli.jpg"
       }
     ],
     "missing_themes": [
@@ -1753,7 +1915,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gimmigela%20Chuli.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gipmochi-sikkim",
@@ -1813,6 +1981,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gnathang Gadenchoeling Gumpa or the Nathang (Gnathang) Valley Monastery, East Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gnathang%20Gadenchoeling%20Gumpa%20or%20the%20Nathang%20%28Gnathang%29%20Valley%20Monastery%2C%20East%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -1823,7 +1997,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gnathang%20Gadenchoeling%20Gumpa%20or%20the%20Nathang%20%28Gnathang%29%20Valley%20Monastery%2C%20East%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gonjang-monastery-sikkim",
@@ -1853,6 +2033,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Tingkey Gonjang Monastery alias Ugyen Dongak Chokhorling Gonpa in Gangtok District, East Sikkim 02.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tingkey%20Gonjang%20Monastery%20alias%20Ugyen%20Dongak%20Chokhorling%20Gonpa%20in%20Gangtok%20District%2C%20East%20Sikkim%2002.jpg"
       }
     ],
     "missing_themes": [
@@ -1863,7 +2049,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tingkey%20Gonjang%20Monastery%20alias%20Ugyen%20Dongak%20Chokhorling%20Gonpa%20in%20Gangtok%20District%2C%20East%20Sikkim%2002.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gorkhepani-bhanjyan-sikkim",
@@ -1983,6 +2175,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.60433 N, 88.64585 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gurudwara Nanaklama sahib by panjab digital library.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gurudwara%20Nanaklama%20sahib%20by%20panjab%20digital%20library.jpg"
       }
     ],
     "missing_themes": [
@@ -1991,7 +2189,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gurudwara%20Nanaklama%20sahib%20by%20panjab%20digital%20library.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gurudongmar-chho-sikkim",
@@ -2021,6 +2225,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gurudongmar Lake, Sikkim (6717508061).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gurudongmar%20Lake%2C%20Sikkim%20%286717508061%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2031,7 +2241,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gurudongmar%20Lake%2C%20Sikkim%20%286717508061%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gurudongmar-lake-sikkim",
@@ -2066,6 +2282,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 28.02000 N, 88.71000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gurudongmar Lake Sikkim, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gurudongmar%20Lake%20Sikkim%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -2075,7 +2297,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gurudongmar%20Lake%20Sikkim%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gurudongmar-mountain-sikkim",
@@ -2100,6 +2328,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.98028 N, 88.69922 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gurudongmar Lake Sikkim, India (crop).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gurudongmar%20Lake%20Sikkim%2C%20India%20%28crop%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2110,7 +2344,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gurudongmar%20Lake%20Sikkim%2C%20India%20%28crop%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "hanuman-tok-sikkim",
@@ -2135,6 +2375,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.34780 N, 88.62860 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Hanuman Tok Temple Complex in Gangtok District, East Sikkim 16.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Hanuman%20Tok%20Temple%20Complex%20in%20Gangtok%20District%2C%20East%20Sikkim%2016.jpg"
       }
     ],
     "missing_themes": [
@@ -2144,7 +2390,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Hanuman%20Tok%20Temple%20Complex%20in%20Gangtok%20District%2C%20East%20Sikkim%2016.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "hee-gyathang-monastery-sikkim",
@@ -2473,6 +2725,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.88139 N, 88.13583 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS022-E-85131 - View of Earth - Himalayas - Kang Gyalang - Kanglangnga (Tibet) - Jongsong Peak - Langchung Khang - Langpo South - Hidden Glacier of Sikkim (cropped).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS022-E-85131%20-%20View%20of%20Earth%20-%20Himalayas%20-%20Kang%20Gyalang%20-%20Kanglangnga%20%28Tibet%29%20-%20Jongsong%20Peak%20-%20Langchung%20Khang%20-%20Langpo%20South%20-%20Hidden%20Glacier%20of%20Sikkim%20%28cropped%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2483,7 +2741,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS022-E-85131%20-%20View%20of%20Earth%20-%20Himalayas%20-%20Kang%20Gyalang%20-%20Kanglangnga%20%28Tibet%29%20-%20Jongsong%20Peak%20-%20Langchung%20Khang%20-%20Langpo%20South%20-%20Hidden%20Glacier%20of%20Sikkim%20%28cropped%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "jorethang-loop-hydroelectric-project-sikkim",
@@ -2547,6 +2811,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.39830 N, 88.35000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kabi Lungchok Sacred Groves, Kabi, North Sikkim, India 04.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kabi%20Lungchok%20Sacred%20Groves%2C%20Kabi%2C%20North%20Sikkim%2C%20India%2004.jpg"
       }
     ],
     "missing_themes": [
@@ -2556,7 +2826,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kabi%20Lungchok%20Sacred%20Groves%2C%20Kabi%2C%20North%20Sikkim%2C%20India%2004.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kabru-sikkim",
@@ -2586,6 +2862,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.63500 N, 88.11833 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mt. Kabru at sunrise Sikkim India October 2013.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mt.%20Kabru%20at%20sunrise%20Sikkim%20India%20October%202013.jpg"
       }
     ],
     "missing_themes": [
@@ -2595,7 +2877,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mt.%20Kabru%20at%20sunrise%20Sikkim%20India%20October%202013.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kanchanjangha-sikkim",
@@ -2630,6 +2918,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: The Kanchanjangha.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:The%20Kanchanjangha.jpg"
       }
     ],
     "missing_themes": [
@@ -2640,7 +2934,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:The%20Kanchanjangha.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kangchenjunga-sikkim",
@@ -2675,6 +2975,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.70300 N, 88.14735 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kangchenjunga, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -2683,7 +2989,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kangchenjunga%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "karthok-monastery-sikkim",
@@ -2708,6 +3020,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.24080 N, 88.58800 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Interiors of Kathog Monastery alias Kartok Monastery at Pakyong, East Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Interiors%20of%20Kathog%20Monastery%20alias%20Kartok%20Monastery%20at%20Pakyong%2C%20East%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -2717,7 +3035,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Interiors%20of%20Kathog%20Monastery%20alias%20Kartok%20Monastery%20at%20Pakyong%2C%20East%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "katak-gompa-sikkim",
@@ -2922,6 +3246,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.65630 N, 88.31230 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Black-headed Shrike Babbler Khangchendzonga NP West Sikkim SK India 30.10.2015.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Black-headed%20Shrike%20Babbler%20Khangchendzonga%20NP%20West%20Sikkim%20SK%20India%2030.10.2015.jpg"
       }
     ],
     "missing_themes": [
@@ -2930,7 +3260,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Black-headed%20Shrike%20Babbler%20Khangchendzonga%20NP%20West%20Sikkim%20SK%20India%2030.10.2015.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "khangchengyao-sikkim",
@@ -2960,6 +3296,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.98583 N, 88.65472 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mt. Khangchengyao as seen just after Thangu valley, North Sikkim 08.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mt.%20Khangchengyao%20as%20seen%20just%20after%20Thangu%20valley%2C%20North%20Sikkim%2008.jpg"
       }
     ],
     "missing_themes": [
@@ -2969,7 +3311,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mt.%20Khangchengyao%20as%20seen%20just%20after%20Thangu%20valley%2C%20North%20Sikkim%2008.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "khangchung-la-sikkim",
@@ -3124,6 +3472,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.37333 N, 88.20833 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Khecheopalri Lake, West Sikkim district 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Khecheopalri%20Lake%2C%20West%20Sikkim%20district%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -3134,7 +3488,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Khecheopalri%20Lake%2C%20West%20Sikkim%20district%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kirat-chuli-sikkim",
@@ -3282,6 +3642,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kokthang South Peak.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kokthang%20South%20Peak.JPG"
       }
     ],
     "missing_themes": [
@@ -3292,7 +3658,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kokthang%20South%20Peak.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kongra-la-sikkim",
@@ -3540,6 +3912,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.41806 N, 88.57944 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Labrang Monastery.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Labrang%20Monastery.jpg"
       }
     ],
     "missing_themes": [
@@ -3549,7 +3927,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Labrang%20Monastery.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lachen-monastery-sikkim",
@@ -3574,6 +3958,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.71624 N, 88.55661 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lachen Monastery in Lachen village, North Sikkim, India 02.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lachen%20Monastery%20in%20Lachen%20village%2C%20North%20Sikkim%2C%20India%2002.jpg"
       }
     ],
     "missing_themes": [
@@ -3583,7 +3973,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lachen%20Monastery%20in%20Lachen%20village%2C%20North%20Sikkim%2C%20India%2002.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lachen-sikkim-sikkim",
@@ -3608,6 +4004,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.71668 N, 88.55776 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kangchenjunga View Point, Lachen, Sikkim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga%20View%20Point%2C%20Lachen%2C%20Sikkim.jpg"
       }
     ],
     "missing_themes": [
@@ -3617,7 +4019,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kangchenjunga%20View%20Point%2C%20Lachen%2C%20Sikkim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lachmi-pokhri-sikkim",
@@ -3687,6 +4095,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.61667 N, 88.65000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lachung Monastery at Lachung Village in North Sikkim, India 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lachung%20Monastery%20at%20Lachung%20Village%20in%20North%20Sikkim%2C%20India%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -3695,7 +4109,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lachung%20Monastery%20at%20Lachung%20Village%20in%20North%20Sikkim%2C%20India%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lachung-river-sikkim",
@@ -3720,6 +4140,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.60142 N, 88.64743 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bridge over Lachung River, North Sikkim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bridge%20over%20Lachung%20River%2C%20North%20Sikkim.jpg"
       }
     ],
     "missing_themes": [
@@ -3730,7 +4156,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bridge%20over%20Lachung%20River%2C%20North%20Sikkim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lachung-sikkim",
@@ -3760,6 +4192,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.61667 N, 88.65000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lachung Monastery at Lachung Village in North Sikkim, India 06.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lachung%20Monastery%20at%20Lachung%20Village%20in%20North%20Sikkim%2C%20India%2006.jpg"
       }
     ],
     "missing_themes": [
@@ -3769,7 +4207,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lachung%20Monastery%20at%20Lachung%20Village%20in%20North%20Sikkim%2C%20India%2006.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lake-menmecho-sikkim",
@@ -3839,6 +4283,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.37528 N, 88.76389 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Tsomgo Lake, Sikkim, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tsomgo%20Lake%2C%20Sikkim%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -3848,7 +4298,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tsomgo%20Lake%2C%20Sikkim%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lam-pokhri-sikkim",
@@ -3878,6 +4334,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lam Pokhri lake - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lam%20Pokhri%20lake%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -3888,7 +4350,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lam%20Pokhri%20lake%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lamo-angdang-sikkim",
@@ -3918,6 +4386,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.74425 N, 88.49243 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lamo Angdang.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lamo%20Angdang.jpg"
       }
     ],
     "missing_themes": [
@@ -3928,7 +4402,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lamo%20Angdang.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lanchun-khan-sikkim",
@@ -4008,6 +4488,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS022-E-85132 - View of Earth - Kangchenjunga Himal - Langpo Drohmo - Langpo Peak - Langpo South - Pattibhara - Jongsong Peak - Janak Chuli - Kang Gyalang (cropped).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS022-E-85132%20-%20View%20of%20Earth%20-%20Kangchenjunga%20Himal%20-%20Langpo%20Drohmo%20-%20Langpo%20Peak%20-%20Langpo%20South%20-%20Pattibhara%20-%20Jongsong%20Peak%20-%20Janak%20Chuli%20-%20Kang%20Gyalang%20%28cropped%29.jpg"
       }
     ],
     "missing_themes": [
@@ -4018,7 +4504,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS022-E-85132%20-%20View%20of%20Earth%20-%20Kangchenjunga%20Himal%20-%20Langpo%20Drohmo%20-%20Langpo%20Peak%20-%20Langpo%20South%20-%20Pattibhara%20-%20Jongsong%20Peak%20-%20Janak%20Chuli%20-%20Kang%20Gyalang%20%28cropped%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lingdum-monastery-sikkim",
@@ -4043,6 +4535,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.33081 N, 88.57948 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Buiddhist Cosmos Lingdum Monastery Sikkim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Buiddhist%20Cosmos%20Lingdum%20Monastery%20Sikkim.jpg"
       }
     ],
     "missing_themes": [
@@ -4052,7 +4550,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Buiddhist%20Cosmos%20Lingdum%20Monastery%20Sikkim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lingthem-monastery-sikkim",
@@ -4077,6 +4581,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.52200 N, 88.50100 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Exterior decorative elements of Lingthem Rikzing Chopel Targelling Monastery at Dzongu, North Sikkim, India 07.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Exterior%20decorative%20elements%20of%20Lingthem%20Rikzing%20Chopel%20Targelling%20Monastery%20at%20Dzongu%2C%20North%20Sikkim%2C%20India%2007.jpg"
       }
     ],
     "missing_themes": [
@@ -4086,7 +4596,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Exterior%20decorative%20elements%20of%20Lingthem%20Rikzing%20Chopel%20Targelling%20Monastery%20at%20Dzongu%2C%20North%20Sikkim%2C%20India%2007.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lungnak-la-sikkim",
@@ -4166,6 +4682,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kanchenjunga form Lungthung.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kanchenjunga%20form%20Lungthung.jpg"
       }
     ],
     "missing_themes": [
@@ -4176,7 +4698,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kanchenjunga%20form%20Lungthung.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "maenam-wildlife-sanctuary-sikkim",
@@ -4239,6 +4767,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: View of Lampokhari or Aritar Lake from Mankhim Top at Aritar, East Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:View%20of%20Lampokhari%20or%20Aritar%20Lake%20from%20Mankhim%20Top%20at%20Aritar%2C%20East%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -4250,7 +4784,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:View%20of%20Lampokhari%20or%20Aritar%20Lake%20from%20Mankhim%20Top%20at%20Aritar%2C%20East%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mejar-thumka-sikkim",
@@ -4320,6 +4860,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.32722 N, 88.20694 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Melli Atsing Monastery, West Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Melli%20Atsing%20Monastery%2C%20West%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -4330,7 +4876,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Melli%20Atsing%20Monastery%2C%20West%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "melli-sikkim",
@@ -4355,6 +4907,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.09010 N, 88.45762 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Melli Atsing Monastery, West Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Melli%20Atsing%20Monastery%2C%20West%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -4364,7 +4922,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Melli%20Atsing%20Monastery%2C%20West%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "menmoi-chho-sikkim",
@@ -4594,6 +5158,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.16500 N, 88.36600 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Namchi Monastery.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Namchi%20Monastery.jpg"
       }
     ],
     "missing_themes": [
@@ -4603,7 +5173,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Namchi%20Monastery.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "namchi-sikkim",
@@ -4633,6 +5209,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.17000 N, 88.35000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cherry Resort inside Temi Tea Garden, Namchi, Sikkim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cherry%20Resort%20inside%20Temi%20Tea%20Garden%2C%20Namchi%2C%20Sikkim.jpg"
       }
     ],
     "missing_themes": [
@@ -4642,7 +5224,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cherry%20Resort%20inside%20Temi%20Tea%20Garden%2C%20Namchi%2C%20Sikkim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "namgyal-institute-of-tibetology-sikkim",
@@ -4672,6 +5260,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.31500 N, 88.60560 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Namgyal Institute of Tibetology Front Panorama.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Namgyal%20Institute%20of%20Tibetology%20Front%20Panorama.jpg"
       }
     ],
     "missing_themes": [
@@ -4680,7 +5274,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Namgyal%20Institute%20of%20Tibetology%20Front%20Panorama.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "namnang-chho-sikkim",
@@ -4840,6 +5440,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Historic Narsingh Temple complex in Joshimath.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Historic%20Narsingh%20Temple%20complex%20in%20Joshimath.jpg"
       }
     ],
     "missing_themes": [
@@ -4850,7 +5456,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Historic%20Narsingh%20Temple%20complex%20in%20Joshimath.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nathang-valley-sikkim",
@@ -4875,6 +5487,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.30006 N, 88.82010 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: British War Memorial complex in Gnathang Valley, East Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:British%20War%20Memorial%20complex%20in%20Gnathang%20Valley%2C%20East%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -4884,7 +5502,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:British%20War%20Memorial%20complex%20in%20Gnathang%20Valley%2C%20East%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "natu-la-sikkim",
@@ -5138,6 +5762,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.34000 N, 88.76000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Landscape of Pangolakha Wildlife Sanctuary East Sikkim India 13.02.2016.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Landscape%20of%20Pangolakha%20Wildlife%20Sanctuary%20East%20Sikkim%20India%2013.02.2016.jpg"
       }
     ],
     "missing_themes": [
@@ -5146,7 +5776,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Landscape%20of%20Pangolakha%20Wildlife%20Sanctuary%20East%20Sikkim%20India%2013.02.2016.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "paohanli-peak-sikkim",
@@ -5295,6 +5931,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.30444 N, 88.25278 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Exterior decorations of Pemayangtse Monastery, Pelling, West Sikkim 14.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Exterior%20decorations%20of%20Pemayangtse%20Monastery%2C%20Pelling%2C%20West%20Sikkim%2014.jpg"
       }
     ],
     "missing_themes": [
@@ -5304,7 +5946,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Exterior%20decorations%20of%20Pemayangtse%20Monastery%2C%20Pelling%2C%20West%20Sikkim%2014.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "pemikhangchhen-sikkim",
@@ -5509,6 +6157,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.42028 N, 88.61028 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Phensang Monastery, Sikkim India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Phensang%20Monastery%2C%20Sikkim%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -5517,7 +6171,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Phensang%20Monastery%2C%20Sikkim%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "phodong-monastery-sikkim",
@@ -5547,6 +6207,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.06667 N, 88.46667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Phensang Monastery, Sikkim India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Phensang%20Monastery%2C%20Sikkim%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -5555,7 +6221,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Phensang%20Monastery%2C%20Sikkim%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "pyramid-peak-sikkim",
@@ -5630,6 +6302,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Rabdentse Ruins, Near Pelling.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Rabdentse%20Ruins%2C%20Near%20Pelling.jpg"
       }
     ],
     "missing_themes": [
@@ -5639,7 +6317,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Rabdentse%20Ruins%2C%20Near%20Pelling.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ralang-monastery-sikkim",
@@ -5664,6 +6348,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.32838 N, 88.33486 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: New Ralong Monastery, alias or Ralong Palchen Choling Monastery, South Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:New%20Ralong%20Monastery%2C%20alias%20or%20Ralong%20Palchen%20Choling%20Monastery%2C%20South%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -5673,7 +6363,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:New%20Ralong%20Monastery%2C%20alias%20or%20Ralong%20Palchen%20Choling%20Monastery%2C%20South%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rangit-dam-sikkim",
@@ -5698,6 +6394,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.29454 N, 88.29218 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: An aerial view Rangit Dam & Reservoir on Rangit river.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:An%20aerial%20view%20Rangit%20Dam%20%26%20Reservoir%20on%20Rangit%20river.jpg"
       }
     ],
     "missing_themes": [
@@ -5707,7 +6409,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:An%20aerial%20view%20Rangit%20Dam%20%26%20Reservoir%20on%20Rangit%20river.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rangpo-sikkim",
@@ -5737,6 +6445,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.18000 N, 88.53000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Atal Setu in Rangpo, Sikkim 02.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Atal%20Setu%20in%20Rangpo%2C%20Sikkim%2002.jpg"
       }
     ],
     "missing_themes": [
@@ -5746,7 +6460,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Atal%20Setu%20in%20Rangpo%2C%20Sikkim%2002.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rani-dhunga-sikkim",
@@ -5891,6 +6611,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.18440 N, 88.67710 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Rhenock Monastery in East Sikkim inside Silk Route.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Rhenock%20Monastery%20in%20East%20Sikkim%20inside%20Silk%20Route.jpg"
       }
     ],
     "missing_themes": [
@@ -5900,7 +6626,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Rhenock%20Monastery%20in%20East%20Sikkim%20inside%20Silk%20Route.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rinchenpong-monastery-sikkim",
@@ -5925,6 +6657,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.23530 N, 88.26850 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Rinchenpong Monastery, Rinchenpong (Richenpong) and Kaluk , West Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Rinchenpong%20Monastery%2C%20Rinchenpong%20%28Richenpong%29%20and%20Kaluk%20%2C%20West%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -5934,7 +6672,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Rinchenpong%20Monastery%2C%20Rinchenpong%20%28Richenpong%29%20and%20Kaluk%20%2C%20West%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rumtek-monastery-sikkim",
@@ -5964,6 +6708,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.28861 N, 88.56139 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Rumtek Monastery alias Dharma Chakra Centre near Gangtok in East Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Rumtek%20Monastery%20alias%20Dharma%20Chakra%20Centre%20near%20Gangtok%20in%20East%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -5972,7 +6722,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Rumtek%20Monastery%20alias%20Dharma%20Chakra%20Centre%20near%20Gangtok%20in%20East%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "samiti-lake-sikkim",
@@ -5997,6 +6753,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.56150 N, 88.18750 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Abhishek532 SamitiLake.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Abhishek532%20SamitiLake.jpg"
       }
     ],
     "missing_themes": [
@@ -6007,7 +6769,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Abhishek532%20SamitiLake.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sang-monastery-sikkim",
@@ -6027,6 +6795,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Amitabha Buddha Sang Monastery.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Amitabha%20Buddha%20Sang%20Monastery.jpg"
       }
     ],
     "missing_themes": [
@@ -6037,7 +6811,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Amitabha%20Buddha%20Sang%20Monastery.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sanga-choeling-monastery-sikkim",
@@ -6062,6 +6842,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.29775 N, 88.22169 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Sanga Choeling Monastery, Pelling, West Sikkim 03.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sanga%20Choeling%20Monastery%2C%20Pelling%2C%20West%20Sikkim%2003.jpg"
       }
     ],
     "missing_themes": [
@@ -6071,7 +6857,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sanga%20Choeling%20Monastery%2C%20Pelling%2C%20West%20Sikkim%2003.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sanglaphu-sikkim",
@@ -6101,6 +6893,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.97722 N, 88.71678 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Sanglaphu Peak as seen from the right bank of Gurudongmar Lake, North Sikkim, India 02.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sanglaphu%20Peak%20as%20seen%20from%20the%20right%20bank%20of%20Gurudongmar%20Lake%2C%20North%20Sikkim%2C%20India%2002.jpg"
       }
     ],
     "missing_themes": [
@@ -6110,7 +6908,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sanglaphu%20Peak%20as%20seen%20from%20the%20right%20bank%20of%20Gurudongmar%20Lake%2C%20North%20Sikkim%2C%20India%2002.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "saramsa-garden-sikkim",
@@ -6135,6 +6939,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.27700 N, 88.59500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Brilliant Morning Rays, Saramsa Garden, Gangtok, Sikkim Wiki Loves Earth 2017 - India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Brilliant%20Morning%20Rays%2C%20Saramsa%20Garden%2C%20Gangtok%2C%20Sikkim%20Wiki%20Loves%20Earth%202017%20-%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -6144,7 +6954,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Brilliant%20Morning%20Rays%2C%20Saramsa%20Garden%2C%20Gangtok%2C%20Sikkim%20Wiki%20Loves%20Earth%202017%20-%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sebu-la-sikkim",
@@ -6338,6 +7154,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.17000 N, 88.64000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Main entrance of ganesh mandir.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Main%20entrance%20of%20ganesh%20mandir.jpg"
       }
     ],
     "missing_themes": [
@@ -6347,7 +7169,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Main%20entrance%20of%20ganesh%20mandir.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "shurishing-yungdrung-dungdrakling-monastery-sikkim",
@@ -6367,6 +7195,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Yang Drung Bon Monastery.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Yang%20Drung%20Bon%20Monastery.jpg"
       }
     ],
     "missing_themes": [
@@ -6378,7 +7212,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Yang%20Drung%20Bon%20Monastery.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "simhalila-sikkim",
@@ -6492,6 +7332,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Abies densa foliage, Sandakphu, Singalila National Park, Sikkim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Abies%20densa%20foliage%2C%20Sandakphu%2C%20Singalila%20National%20Park%2C%20Sikkim.jpg"
       }
     ],
     "missing_themes": [
@@ -6502,7 +7348,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Abies%20densa%20foliage%2C%20Sandakphu%2C%20Singalila%20National%20Park%2C%20Sikkim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "siniolchu-sikkim",
@@ -6532,6 +7384,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.75000 N, 88.31667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ansuman Ray - Kangchenjunga, Simvo and Siniolchu from Sikkim (cropped).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ansuman%20Ray%20-%20Kangchenjunga%2C%20Simvo%20and%20Siniolchu%20from%20Sikkim%20%28cropped%29.jpg"
       }
     ],
     "missing_themes": [
@@ -6542,7 +7400,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ansuman%20Ray%20-%20Kangchenjunga%2C%20Simvo%20and%20Siniolchu%20from%20Sikkim%20%28cropped%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sinon-monastery-sikkim",
@@ -6567,6 +7431,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.34218 N, 88.28906 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Sinon Monastery, West Sikkim 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sinon%20Monastery%2C%20West%20Sikkim%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -6576,7 +7446,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sinon%20Monastery%2C%20West%20Sikkim%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "south-lhonak-lake-sikkim",
@@ -6611,6 +7487,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.91368 N, 88.19847 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Close-up-view-of-glacier-area-changes-around-the-North-and-South-Lhonak-glaciers-from-1962-to-2006-showing-changes-in-th.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Close-up-view-of-glacier-area-changes-around-the-North-and-South-Lhonak-glaciers-from-1962-to-2006-showing-changes-in-th.jpg"
       }
     ],
     "missing_themes": [
@@ -6620,7 +7502,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Close-up-view-of-glacier-area-changes-around-the-North-and-South-Lhonak-glaciers-from-1962-to-2006-showing-changes-in-th.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sri-sathya-sai-sarva-dharma-kendra-daramdin-sikkim",
@@ -6724,6 +7612,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Laika ac Sungri Street (11958526993).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Laika%20ac%20Sungri%20Street%20%2811958526993%29.jpg"
       }
     ],
     "missing_themes": [
@@ -6734,7 +7628,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Laika%20ac%20Sungri%20Street%20%2811958526993%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "syebiruka-chho-sikkim",
@@ -7050,6 +7950,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.06667 N, 88.46667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Tashiding Monastery, West Sikkim 06.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tashiding%20Monastery%2C%20West%20Sikkim%2006.jpg"
       }
     ],
     "missing_themes": [
@@ -7059,7 +7965,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tashiding%20Monastery%2C%20West%20Sikkim%2006.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "temi-tea-garden-sikkim",
@@ -7084,6 +7996,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.23670 N, 88.42220 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cherry Resort Temi Tea Garden Namchi Sikkim and Lukatgni Postcard front.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cherry%20Resort%20Temi%20Tea%20Garden%20Namchi%20Sikkim%20and%20Lukatgni%20Postcard%20front.png"
       }
     ],
     "missing_themes": [
@@ -7094,7 +8012,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cherry%20Resort%20Temi%20Tea%20Garden%20Namchi%20Sikkim%20and%20Lukatgni%20Postcard%20front.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tendong-gumpa-sikkim",
@@ -7327,6 +8251,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.63700 N, 88.46100 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Pathway to Tingvong Monastery located in Upper Dzongu, North Sikkim, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Pathway%20to%20Tingvong%20Monastery%20located%20in%20Upper%20Dzongu%2C%20North%20Sikkim%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -7336,7 +8266,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pathway%20to%20Tingvong%20Monastery%20located%20in%20Upper%20Dzongu%2C%20North%20Sikkim%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tosa-chho-sikkim",
@@ -7450,6 +8386,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Tsomgo Lake, Sikkim, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tsomgo%20Lake%2C%20Sikkim%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -7460,7 +8402,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tsomgo%20Lake%2C%20Sikkim%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tsuklakhang-palace-sikkim",
@@ -7485,6 +8433,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.32600 N, 88.61500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Entrance Gate of Gompa Palace (Tsuklakhang, Chogyal Palace), Gangtok, Sikkim, Sikkim,5.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance%20Gate%20of%20Gompa%20Palace%20%28Tsuklakhang%2C%20Chogyal%20Palace%29%2C%20Gangtok%2C%20Sikkim%2C%20Sikkim%2C5.jpg"
       }
     ],
     "missing_themes": [
@@ -7494,7 +8448,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Entrance%20Gate%20of%20Gompa%20Palace%20%28Tsuklakhang%2C%20Chogyal%20Palace%29%2C%20Gangtok%2C%20Sikkim%2C%20Sikkim%2C5.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "tuku-la-sikkim",
@@ -7614,6 +8574,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.19420 N, 88.11830 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Barsey Rhododendron Sanctuary in late april.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Barsey%20Rhododendron%20Sanctuary%20in%20late%20april.jpg"
       }
     ],
     "missing_themes": [
@@ -7623,7 +8589,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Barsey%20Rhododendron%20Sanctuary%20in%20late%20april.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "yalung-lake-sikkim",
@@ -7718,6 +8690,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 27.82680 N, 88.69590 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Landscape on the way from Yumthang Valley to Yumsedong Zero point, North Sikkim 37.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Landscape%20on%20the%20way%20from%20Yumthang%20Valley%20to%20Yumsedong%20Zero%20point%2C%20North%20Sikkim%2037.jpg"
       }
     ],
     "missing_themes": [
@@ -7728,7 +8706,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Landscape%20on%20the%20way%20from%20Yumthang%20Valley%20to%20Yumsedong%20Zero%20point%2C%20North%20Sikkim%2037.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "zemu-gap-peak-sikkim",

@@ -37,6 +37,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.30000 N, 93.03000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman & Nicobar Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20%26%20Nicobar%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -45,7 +51,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20%26%20Nicobar%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "alexandra-island-andaman-and-nicobar-islands",
@@ -75,6 +87,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -85,7 +103,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "andaman-islands-andaman-and-nicobar-islands",
@@ -125,6 +149,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.50000 N, 92.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Sea, Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Sea%2C%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -133,7 +163,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Sea%2C%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "anderson-bay-andaman-and-nicobar-islands",
@@ -163,6 +199,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Report on the Podophthalmous Crustacea of the Mergui Archipelago, collected for the Trustees of the Indian Museum, Calcutta, by Dr. John Anderson (IA reportonpodophth00manj).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Report%20on%20the%20Podophthalmous%20Crustacea%20of%20the%20Mergui%20Archipelago%2C%20collected%20for%20the%20Trustees%20of%20the%20Indian%20Museum%2C%20Calcutta%2C%20by%20Dr.%20John%20Anderson%20%28IA%20reportonpodophth00manj%29.pdf"
       }
     ],
     "missing_themes": [
@@ -173,7 +215,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Report%20on%20the%20Podophthalmous%20Crustacea%20of%20the%20Mergui%20Archipelago%2C%20collected%20for%20the%20Trustees%20of%20the%20Indian%20Museum%2C%20Calcutta%2C%20by%20Dr.%20John%20Anderson%20%28IA%20reportonpodophth00manj%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "anderson-island-andaman-islands-andaman-and-nicobar-islands",
@@ -256,6 +304,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ferrargunj, South Andaman, Andaman and Nicobar Islands, India (2025-09-07-03-35-53 UMBRA-05).tiff.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ferrargunj%2C%20South%20Andaman%2C%20Andaman%20and%20Nicobar%20Islands%2C%20India%20%282025-09-07-03-35-53%20UMBRA-05%29.tiff"
       }
     ],
     "missing_themes": [
@@ -266,7 +320,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ferrargunj%2C%20South%20Andaman%2C%20Andaman%20and%20Nicobar%20Islands%2C%20India%20%282025-09-07-03-35-53%20UMBRA-05%29.tiff",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "austen-harbour-andaman-and-nicobar-islands",
@@ -346,6 +406,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.91500 N, 92.93500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A hand-list of the birds of the Philippine Islands (IA handlistofbirdso00mcgrrich).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20hand-list%20of%20the%20birds%20of%20the%20Philippine%20Islands%20%28IA%20handlistofbirdso00mcgrrich%29.pdf"
       }
     ],
     "missing_themes": [
@@ -355,7 +421,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20hand-list%20of%20the%20birds%20of%20the%20Philippine%20Islands%20%28IA%20handlistofbirdso00mcgrrich%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bamboo-flat-bay-andaman-and-nicobar-islands",
@@ -480,6 +552,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.11667 N, 92.78333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Road Construction near Adazig village, Baratang, Andaman and Nicobar Islands (18571).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Road%20Construction%20near%20Adazig%20village%2C%20Baratang%2C%20Andaman%20and%20Nicobar%20Islands%20%2818571%29.jpg"
       }
     ],
     "missing_themes": [
@@ -489,7 +567,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Road%20Construction%20near%20Adazig%20village%2C%20Baratang%2C%20Andaman%20and%20Nicobar%20Islands%20%2818571%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bare-hill-andaman-and-nicobar-islands",
@@ -579,6 +663,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.27778 N, 93.85833 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Barren Island cone.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Barren%20Island%20cone.jpg"
       }
     ],
     "missing_themes": [
@@ -588,7 +678,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Barren%20Island%20cone.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "batti-malv-island-andaman-and-nicobar-islands",
@@ -618,6 +714,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-768 - View of the Nicobar Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-768%20-%20View%20of%20the%20Nicobar%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -628,7 +730,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-768%20-%20View%20of%20the%20Nicobar%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "battimalv-island-andaman-and-nicobar-islands",
@@ -673,6 +781,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 8.82876 N, 92.85851 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Map of Nicobar Islands-en.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Map%20of%20Nicobar%20Islands-en.png"
       }
     ],
     "missing_themes": [
@@ -681,7 +795,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Map%20of%20Nicobar%20Islands-en.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "belle-island-andaman-and-nicobar-islands",
@@ -711,6 +831,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -721,7 +847,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "belle-island-andaman-islands-andaman-and-nicobar-islands",
@@ -761,6 +893,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.20000 N, 92.74000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -770,7 +908,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bennett-island-andaman-islands-andaman-and-nicobar-islands",
@@ -853,6 +997,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Glass bottom boat-3-port blair-andaman-India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Glass%20bottom%20boat-3-port%20blair-andaman-India.jpg"
       }
     ],
     "missing_themes": [
@@ -863,7 +1013,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Glass%20bottom%20boat-3-port%20blair-andaman-India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bluff-island-andaman-islands-andaman-and-nicobar-islands",
@@ -946,6 +1102,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Nicobar Island View.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Nicobar%20Island%20View.jpg"
       }
     ],
     "missing_themes": [
@@ -956,7 +1118,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Nicobar%20Island%20View.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "boat-rock-andaman-and-nicobar-islands",
@@ -1026,6 +1194,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aerial view of Teressa Island and Bompuka Island, Andaman and Nicobar Islands, India - January 2023.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Teressa%20Island%20and%20Bompuka%20Island%2C%20Andaman%20and%20Nicobar%20Islands%2C%20India%20-%20January%202023.jpg"
       }
     ],
     "missing_themes": [
@@ -1036,7 +1210,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Teressa%20Island%20and%20Bompuka%20Island%2C%20Andaman%20and%20Nicobar%20Islands%2C%20India%20-%20January%202023.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "button-islands-andaman-islands-andaman-and-nicobar-islands",
@@ -1071,6 +1251,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.27590 N, 93.02500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Button Islands-North Button.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Button%20Islands-North%20Button.png"
       }
     ],
     "missing_themes": [
@@ -1080,7 +1266,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Button%20Islands-North%20Button.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cadell-bay-andaman-and-nicobar-islands",
@@ -1150,6 +1342,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Nicobar Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Nicobar%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -1160,7 +1358,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Nicobar%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "campbell-bay-andaman-and-nicobar-islands",
@@ -1649,6 +1853,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 9.16700 N, 92.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman and Nicobar Islands - Car Nicobar.PNG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20-%20Car%20Nicobar.PNG"
       }
     ],
     "missing_themes": [
@@ -1657,7 +1867,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20-%20Car%20Nicobar.PNG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "castle-bay-andaman-and-nicobar-islands",
@@ -1772,6 +1988,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.67500 N, 92.74800 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Hospital-2-cellular jail-andaman-India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Hospital-2-cellular%20jail-andaman-India.jpg"
       }
     ],
     "missing_themes": [
@@ -1780,7 +2002,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Hospital-2-cellular%20jail-andaman-India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chatham-island-andaman-and-nicobar-islands",
@@ -1810,6 +2038,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and researches among the Andaman islands (IA pli.kerala.rare.7039).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20researches%20among%20the%20Andaman%20islands%20%28IA%20pli.kerala.rare.7039%29.pdf"
       }
     ],
     "missing_themes": [
@@ -1820,7 +2054,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20researches%20among%20the%20Andaman%20islands%20%28IA%20pli.kerala.rare.7039%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chatham-island-andaman-islands-andaman-and-nicobar-islands",
@@ -1860,6 +2100,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.68800 N, 92.72400 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman chatham is.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20chatham%20is.jpg"
       }
     ],
     "missing_themes": [
@@ -1868,7 +2114,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20chatham%20is.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chester-island-andaman-and-nicobar-islands",
@@ -1898,6 +2150,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -1908,7 +2166,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chowra-island-andaman-and-nicobar-islands",
@@ -1953,6 +2217,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 8.45417 N, 93.04583 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Nicobar Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Nicobar%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -1962,7 +2232,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Nicobar%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "clyde-island-andaman-and-nicobar-islands",
@@ -2192,6 +2468,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -2202,7 +2484,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "curlew-island-andaman-islands-andaman-and-nicobar-islands",
@@ -2440,6 +2728,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.64000 N, 93.05000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman and Nicobar Islands in India.svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20in%20India.svg"
       }
     ],
     "missing_themes": [
@@ -2449,7 +2743,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20in%20India.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "east-sister-island-andaman-islands-andaman-and-nicobar-islands",
@@ -2479,6 +2779,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.14552 N, 92.73078 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: In the Andamans and Nicobars; the narrative of a cruise in the schooner \"Terrapin\", with notices of the islands, their fauna, ethnology, etc. (IA inandamansnicoba00klos).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf"
       }
     ],
     "missing_themes": [
@@ -2488,7 +2794,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "east-volcano-islands-andaman-and-nicobar-islands",
@@ -2523,6 +2835,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.45000 N, 94.27000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: In the Andamans and Nicobars; the narrative of a cruise in the schooner \"Terrapin\", with notices of the islands, their fauna, ethnology, etc. (IA inandamansnicoba00klos).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf"
       }
     ],
     "missing_themes": [
@@ -2532,7 +2850,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ekin-bay-andaman-and-nicobar-islands",
@@ -2842,6 +3166,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 6.92300 N, 93.83300 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Map Showing The Proposed Eco-Sensitive Zone Around Galathea National Park.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Map%20Showing%20The%20Proposed%20Eco-Sensitive%20Zone%20Around%20Galathea%20National%20Park.jpg"
       }
     ],
     "missing_themes": [
@@ -2851,7 +3181,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Map%20Showing%20The%20Proposed%20Eco-Sensitive%20Zone%20Around%20Galathea%20National%20Park.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gravity-dam-andaman-and-nicobar-islands",
@@ -2927,6 +3263,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.50000 N, 92.83333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and researches among the Andaman islands (IA pli.kerala.rare.7039).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20researches%20among%20the%20Andaman%20islands%20%28IA%20pli.kerala.rare.7039%29.pdf"
       }
     ],
     "missing_themes": [
@@ -2936,7 +3278,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20researches%20among%20the%20Andaman%20islands%20%28IA%20pli.kerala.rare.7039%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "great-nicobar-island-andaman-and-nicobar-islands",
@@ -2981,6 +3329,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 7.00000 N, 93.83333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman and Nicobar Islands - Great Nicobar.PNG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20-%20Great%20Nicobar.PNG"
       }
     ],
     "missing_themes": [
@@ -2990,7 +3344,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20-%20Great%20Nicobar.PNG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "great-nicobar-island-development-project-andaman-and-nicobar-islands",
@@ -3010,6 +3370,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -3021,7 +3387,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "grub-island-andaman-and-nicobar-islands",
@@ -3051,6 +3423,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -3061,7 +3439,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "guitar-island-andaman-and-nicobar-islands",
@@ -3091,6 +3475,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Notes on the Andaman Islands (IA jstor-3014211).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Notes%20on%20the%20Andaman%20Islands%20%28IA%20jstor-3014211%29.pdf"
       }
     ],
     "missing_themes": [
@@ -3101,7 +3491,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Notes%20on%20the%20Andaman%20Islands%20%28IA%20jstor-3014211%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "havelock-island-andaman-and-nicobar-islands",
@@ -3146,6 +3542,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.96667 N, 93.00000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Sea, Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Sea%2C%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -3155,7 +3557,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Sea%2C%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "henry-lawrence-island-andaman-and-nicobar-islands",
@@ -3454,6 +3862,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 6.75417 N, 93.82833 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: INDIRA POINT.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:INDIRA%20POINT.jpg"
       }
     ],
     "missing_themes": [
@@ -3462,7 +3876,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:INDIRA%20POINT.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "inglis-island-andaman-and-nicobar-islands",
@@ -3492,6 +3912,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Papers relating to the Nicobar Islands (IA papersrelatingto00indi).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Papers%20relating%20to%20the%20Nicobar%20Islands%20%28IA%20papersrelatingto00indi%29.pdf"
       }
     ],
     "missing_themes": [
@@ -3502,7 +3928,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Papers%20relating%20to%20the%20Nicobar%20Islands%20%28IA%20papersrelatingto00indi%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "interview-group-andaman-and-nicobar-islands",
@@ -3595,6 +4027,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.88770 N, 92.68560 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -3603,7 +4041,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "isle-of-man-andaman-and-nicobar-islands",
@@ -3722,6 +4166,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.95000 N, 92.72700 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Neil Island Andaman.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Neil%20Island%20Andaman.jpg"
       }
     ],
     "missing_themes": [
@@ -3731,7 +4181,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Neil%20Island%20Andaman.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "john-lawrence-island-andaman-and-nicobar-islands",
@@ -3761,6 +4217,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: The commercial value of wireless telegraphic communication with the Andaman & Nicobar Islands (IA commercialvalueo00temprich).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:The%20commercial%20value%20of%20wireless%20telegraphic%20communication%20with%20the%20Andaman%20%26%20Nicobar%20Islands%20%28IA%20commercialvalueo00temprich%29.pdf"
       }
     ],
     "missing_themes": [
@@ -3771,7 +4233,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:The%20commercial%20value%20of%20wireless%20telegraphic%20communication%20with%20the%20Andaman%20%26%20Nicobar%20Islands%20%28IA%20commercialvalueo00temprich%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kabra-island-andaman-and-nicobar-islands",
@@ -3911,6 +4379,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Papers relating to the Nicobar Islands (IA papersrelatingto00indi).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Papers%20relating%20to%20the%20Nicobar%20Islands%20%28IA%20papersrelatingto00indi%29.pdf"
       }
     ],
     "missing_themes": [
@@ -3921,7 +4395,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Papers%20relating%20to%20the%20Nicobar%20Islands%20%28IA%20papersrelatingto00indi%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kemios-bay-andaman-and-nicobar-islands",
@@ -3991,6 +4471,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: In the Andamans and Nicobars; the narrative of a cruise in the schooner \"Terrapin\", with notices of the islands, their fauna, ethnology, etc. (IA inandamansnicoba00klos).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf"
       }
     ],
     "missing_themes": [
@@ -4001,7 +4487,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kwangtung-island-wildlife-sanctuary-andaman-and-nicobar-islands",
@@ -4066,6 +4558,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: On the aboriginal inhabitants of the Andaman Islands (IA b24764413).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:On%20the%20aboriginal%20inhabitants%20of%20the%20Andaman%20Islands%20%28IA%20b24764413%29.pdf"
       }
     ],
     "missing_themes": [
@@ -4076,7 +4574,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:On%20the%20aboriginal%20inhabitants%20of%20the%20Andaman%20Islands%20%28IA%20b24764413%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "landfall-island-andaman-and-nicobar-islands",
@@ -4121,6 +4625,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.66667 N, 93.03333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -4129,7 +4639,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "little-andaman-andaman-and-nicobar-islands",
@@ -4179,6 +4695,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.75000 N, 92.50000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cute little flower in Andaman Island.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cute%20little%20flower%20in%20Andaman%20Island.jpg"
       }
     ],
     "missing_themes": [
@@ -4188,7 +4710,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cute%20little%20flower%20in%20Andaman%20Island.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "little-nicobar-island-andaman-and-nicobar-islands",
@@ -4218,6 +4746,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman and Nicobar Islands - Great Nicobar.PNG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20-%20Great%20Nicobar.PNG"
       }
     ],
     "missing_themes": [
@@ -4228,7 +4762,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20-%20Great%20Nicobar.PNG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "long-island-andaman-islands-andaman-and-nicobar-islands",
@@ -4268,6 +4808,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.38000 N, 92.93000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Map of Nicobar and Andaman Islands-en.svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Map%20of%20Nicobar%20and%20Andaman%20Islands-en.svg"
       }
     ],
     "missing_themes": [
@@ -4277,7 +4823,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Map%20of%20Nicobar%20and%20Andaman%20Islands-en.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "maharani-peak-andaman-and-nicobar-islands",
@@ -4377,6 +4929,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.57056 N, 92.65694 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mahatma Gandhi Marine National Park, Pongi Balu, Andaman (18177).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mahatma%20Gandhi%20Marine%20National%20Park%2C%20Pongi%20Balu%2C%20Andaman%20%2818177%29.jpg"
       }
     ],
     "missing_themes": [
@@ -4385,7 +4943,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mahatma%20Gandhi%20Marine%20National%20Park%2C%20Pongi%20Balu%2C%20Andaman%20%2818177%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "malay-tapu-andaman-and-nicobar-islands",
@@ -4470,6 +5034,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 8.39167 N, 93.65000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman and Nicobar Islands in India.svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20in%20India.svg"
       }
     ],
     "missing_themes": [
@@ -4478,7 +5048,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20in%20India.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "matla-bay-andaman-and-nicobar-islands",
@@ -4588,6 +5164,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: In the Andamans and Nicobars; the narrative of a cruise in the schooner \"Terrapin\", with notices of the islands, their fauna, ethnology, etc. (IA inandamansnicoba00klos).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf"
       }
     ],
     "missing_themes": [
@@ -4598,7 +5180,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "meroe-island-andaman-and-nicobar-islands",
@@ -4628,6 +5216,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Papers relating to the Nicobar Islands (IA papersrelatingto00indi).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Papers%20relating%20to%20the%20Nicobar%20Islands%20%28IA%20papersrelatingto00indi%29.pdf"
       }
     ],
     "missing_themes": [
@@ -4638,7 +5232,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Papers%20relating%20to%20the%20Nicobar%20Islands%20%28IA%20papersrelatingto00indi%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "middle-andaman-island-andaman-and-nicobar-islands",
@@ -4937,6 +5537,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.80740 N, 92.75710 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Centaur Oakblue andamans at Mt Harriet National Park.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Centaur%20Oakblue%20andamans%20at%20Mt%20Harriet%20National%20Park.jpg"
       }
     ],
     "missing_themes": [
@@ -4945,7 +5551,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Centaur%20Oakblue%20andamans%20at%20Mt%20Harriet%20National%20Park.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mount-kurtz-andaman-and-nicobar-islands",
@@ -5141,6 +5753,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Wood Pigeon - Shreeram M V - Mount Harriett.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Wood%20Pigeon%20-%20Shreeram%20M%20V%20-%20Mount%20Harriett.jpg"
       }
     ],
     "missing_themes": [
@@ -5151,7 +5769,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Wood%20Pigeon%20-%20Shreeram%20M%20V%20-%20Mount%20Harriett.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "murga-island-andaman-and-nicobar-islands",
@@ -5274,6 +5898,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A Nicobarese canoe at Nancowry.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20Nicobarese%20canoe%20at%20Nancowry.jpg"
       }
     ],
     "missing_themes": [
@@ -5284,7 +5914,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20Nicobarese%20canoe%20at%20Nancowry.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nanjappa-bay-andaman-and-nicobar-islands",
@@ -5374,6 +6010,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.44720 N, 94.26320 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A wagtail from Narcondam Island, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20wagtail%20from%20Narcondam%20Island%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -5381,7 +6023,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20wagtail%20from%20Narcondam%20Island%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "navy-bay-andaman-and-nicobar-islands",
@@ -5471,6 +6119,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.82306 N, 93.05833 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Islands, Blue sky, Canopy of trees.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Islands%2C%20Blue%20sky%2C%20Canopy%20of%20trees.jpg"
       }
     ],
     "missing_themes": [
@@ -5480,7 +6134,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Islands%2C%20Blue%20sky%2C%20Canopy%20of%20trees.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nicholson-island-andaman-and-nicobar-islands",
@@ -5510,6 +6170,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Extract from a Letter on Queensland from Sir Charles Nicholson, Bart., F. R. G. S., to Governor Sir G. F. Bowen (IA jstor-1799101).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Extract%20from%20a%20Letter%20on%20Queensland%20from%20Sir%20Charles%20Nicholson%2C%20Bart.%2C%20F.%20R.%20G.%20S.%2C%20to%20Governor%20Sir%20G.%20F.%20Bowen%20%28IA%20jstor-1799101%29.pdf"
       }
     ],
     "missing_themes": [
@@ -5520,7 +6186,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Extract%20from%20a%20Letter%20on%20Queensland%20from%20Sir%20Charles%20Nicholson%2C%20Bart.%2C%20F.%20R.%20G.%20S.%2C%20to%20Governor%20Sir%20G.%20F.%20Bowen%20%28IA%20jstor-1799101%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "nicobar-islands-andaman-and-nicobar-islands",
@@ -5560,6 +6232,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 7.86667 N, 93.50000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Sea, Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Sea%2C%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -5569,7 +6247,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Sea%2C%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-andaman-island-andaman-and-nicobar-islands",
@@ -5619,6 +6303,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.23333 N, 92.93333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Tamil Sangam, Diglipur, North Andaman (14246).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Tamil%20Sangam%2C%20Diglipur%2C%20North%20Andaman%20%2814246%29.jpg"
       }
     ],
     "missing_themes": [
@@ -5627,7 +6317,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Tamil%20Sangam%2C%20Diglipur%2C%20North%20Andaman%20%2814246%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-bay-andaman-and-nicobar-islands",
@@ -5657,6 +6353,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: North Bay Island, Andaman & Nicobar Islands.jpeg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:North%20Bay%20Island%2C%20Andaman%20%26%20Nicobar%20Islands.jpeg"
       }
     ],
     "missing_themes": [
@@ -5667,7 +6369,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:North%20Bay%20Island%2C%20Andaman%20%26%20Nicobar%20Islands.jpeg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-brother-island-andaman-islands-andaman-and-nicobar-islands",
@@ -5697,6 +6405,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.98726 N, 92.66358 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Letters on the Nicobar islands their natural productions and the manners customs and superstitions of the natives (IA b30360511).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Letters%20on%20the%20Nicobar%20islands%20their%20natural%20productions%20and%20the%20manners%20customs%20and%20superstitions%20of%20the%20natives%20%28IA%20b30360511%29.pdf"
       }
     ],
     "missing_themes": [
@@ -5706,7 +6420,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Letters%20on%20the%20Nicobar%20islands%20their%20natural%20productions%20and%20the%20manners%20customs%20and%20superstitions%20of%20the%20natives%20%28IA%20b30360511%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-button-island-national-park-andaman-and-nicobar-islands",
@@ -5731,6 +6451,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.31722 N, 93.06806 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Button Islands-North Button.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Button%20Islands-North%20Button.png"
       }
     ],
     "missing_themes": [
@@ -5741,7 +6467,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Button%20Islands-North%20Button.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-cinque-island-andaman-and-nicobar-islands",
@@ -5786,6 +6518,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.31371 N, 92.71090 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -5794,7 +6532,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-passage-island-andaman-and-nicobar-islands",
@@ -5824,6 +6568,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and researches among the Andaman islands (IA pli.kerala.rare.7039).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20researches%20among%20the%20Andaman%20islands%20%28IA%20pli.kerala.rare.7039%29.pdf"
       }
     ],
     "missing_themes": [
@@ -5834,7 +6584,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20researches%20among%20the%20Andaman%20islands%20%28IA%20pli.kerala.rare.7039%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-reef-island-andaman-and-nicobar-islands",
@@ -5864,6 +6620,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and researches among the Andaman islands (IA pli.kerala.rare.7039).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20researches%20among%20the%20Andaman%20islands%20%28IA%20pli.kerala.rare.7039%29.pdf"
       }
     ],
     "missing_themes": [
@@ -5874,7 +6636,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20researches%20among%20the%20Andaman%20islands%20%28IA%20pli.kerala.rare.7039%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "north-sentinel-island-andaman-and-nicobar-islands",
@@ -5924,6 +6692,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.55500 N, 92.24500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Gallery-1491391768-north-sentinel-island.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Gallery-1491391768-north-sentinel-island.jpg"
       }
     ],
     "missing_themes": [
@@ -5933,7 +6707,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Gallery-1491391768-north-sentinel-island.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "novara-bay-andaman-and-nicobar-islands",
@@ -6013,6 +6793,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.23000 N, 93.09000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Notes on the Andaman Islands (IA jstor-3014211).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Notes%20on%20the%20Andaman%20Islands%20%28IA%20jstor-3014211%29.pdf"
       }
     ],
     "missing_themes": [
@@ -6021,7 +6807,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Notes%20on%20the%20Andaman%20Islands%20%28IA%20jstor-3014211%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "paget-island-andaman-and-nicobar-islands",
@@ -6181,6 +6973,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.18300 N, 92.67700 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -6190,7 +6988,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "petman-island-andaman-and-nicobar-islands",
@@ -6340,6 +7144,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Pigeon Island or Kabutar Tekdi, Narcondam Island, Andaman Sea.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Pigeon%20Island%20or%20Kabutar%20Tekdi%2C%20Narcondam%20Island%2C%20Andaman%20Sea.jpg"
       }
     ],
     "missing_themes": [
@@ -6350,7 +7160,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pigeon%20Island%20or%20Kabutar%20Tekdi%2C%20Narcondam%20Island%2C%20Andaman%20Sea.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "pluto-island-andaman-and-nicobar-islands",
@@ -6380,6 +7196,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Advance of the boats of the H.C. steamer \"Pluto\" to open friendly connections with the Andaman Islanders.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Advance%20of%20the%20boats%20of%20the%20H.C.%20steamer%20%22Pluto%22%20to%20open%20friendly%20connections%20with%20the%20Andaman%20Islanders.jpg"
       }
     ],
     "missing_themes": [
@@ -6390,7 +7212,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Advance%20of%20the%20boats%20of%20the%20H.C.%20steamer%20%22Pluto%22%20to%20open%20friendly%20connections%20with%20the%20Andaman%20Islanders.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "point-island-andaman-and-nicobar-islands",
@@ -6420,6 +7248,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman and Nicobar Islands WV Banner.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20WV%20Banner.jpg"
       }
     ],
     "missing_themes": [
@@ -6430,7 +7264,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20and%20Nicobar%20Islands%20WV%20Banner.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "port-blair-andaman-and-nicobar-islands",
@@ -6470,6 +7310,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.66667 N, 92.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: India Port Blair Andaman and Nicobar Islands Municipal Council 2022.svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:India%20Port%20Blair%20Andaman%20and%20Nicobar%20Islands%20Municipal%20Council%202022.svg"
       }
     ],
     "missing_themes": [
@@ -6479,7 +7325,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:India%20Port%20Blair%20Andaman%20and%20Nicobar%20Islands%20Municipal%20Council%202022.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "port-blair-islands-andaman-and-nicobar-islands",
@@ -6519,6 +7371,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.68800 N, 92.72400 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Port Blair, Andamans, Sea bridge.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Port%20Blair%2C%20Andamans%2C%20Sea%20bridge.jpg"
       }
     ],
     "missing_themes": [
@@ -6527,7 +7385,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Port%20Blair%2C%20Andamans%2C%20Sea%20bridge.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "port-cornwallis-andaman-and-nicobar-islands",
@@ -6690,6 +7554,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 7.40213 N, 93.68730 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: LittleNicobarIslandMap.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:LittleNicobarIslandMap.jpg"
       }
     ],
     "missing_themes": [
@@ -6698,7 +7568,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:LittleNicobarIslandMap.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "radhanagar-beach-andaman-and-nicobar-islands",
@@ -6728,6 +7604,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Beautiful Radhanagar Beach in the Havelock, Andaman and Nicobar Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Beautiful%20Radhanagar%20Beach%20in%20the%20Havelock%2C%20Andaman%20and%20Nicobar%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -6738,7 +7620,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Beautiful%20Radhanagar%20Beach%20in%20the%20Havelock%2C%20Andaman%20and%20Nicobar%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rani-jhansi-marine-national-park-andaman-and-nicobar-islands",
@@ -6773,6 +7661,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.78333 N, 92.66667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Identification of Potential Marine Important Bird Areas IBAs in India Mistnet.pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Identification%20of%20Potential%20Marine%20Important%20Bird%20Areas%20IBAs%20in%20India%20Mistnet.pdf"
       }
     ],
     "missing_themes": [
@@ -6782,7 +7676,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Identification%20of%20Potential%20Marine%20Important%20Bird%20Areas%20IBAs%20in%20India%20Mistnet.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "red-skin-island-andaman-and-nicobar-islands",
@@ -6812,6 +7712,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -6822,7 +7728,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "reef-island-andaman-and-nicobar-islands",
@@ -6852,6 +7764,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -6862,7 +7780,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rongat-bay-andaman-and-nicobar-islands",
@@ -6932,6 +7856,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Ross Island, Port Blair in Andaman Island.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Ross%20Island%2C%20Port%20Blair%20in%20Andaman%20Island.jpg"
       }
     ],
     "missing_themes": [
@@ -6942,7 +7872,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Ross%20Island%2C%20Port%20Blair%20in%20Andaman%20Island.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "rutland-island-andaman-and-nicobar-islands",
@@ -6992,6 +7928,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.41667 N, 92.65000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -7001,7 +7943,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "saddle-peak-national-park-andaman-and-nicobar-islands",
@@ -7069,6 +8017,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.67200 N, 92.72600 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Blue whale skeleton-1-samudrika museum-andaman-India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Blue%20whale%20skeleton-1-samudrika%20museum-andaman-India.jpg"
       }
     ],
     "missing_themes": [
@@ -7078,7 +8032,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Blue%20whale%20skeleton-1-samudrika%20museum-andaman-India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sandy-island-andaman-and-nicobar-islands",
@@ -7108,6 +8068,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Islands, Neil, Sandy beach.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Islands%2C%20Neil%2C%20Sandy%20beach.jpg"
       }
     ],
     "missing_themes": [
@@ -7118,7 +8084,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Islands%2C%20Neil%2C%20Sandy%20beach.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sawi-bay-andaman-and-nicobar-islands",
@@ -7228,6 +8200,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: In the Andamans and Nicobars; the narrative of a cruise in the schooner \"Terrapin\", with notices of the islands, their fauna, ethnology, etc. (IA inandamansnicoba00klos).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf"
       }
     ],
     "missing_themes": [
@@ -7238,7 +8216,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "shearme-island-andaman-and-nicobar-islands",
@@ -7308,6 +8292,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Shoal Bay 19 Andaman (27443).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Shoal%20Bay%2019%20Andaman%20%2827443%29.jpg"
       }
     ],
     "missing_themes": [
@@ -7318,7 +8308,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Shoal%20Bay%2019%20Andaman%20%2827443%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sir-hugh-rose-island-andaman-and-nicobar-islands",
@@ -7348,6 +8344,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Neil Island Andaman.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Neil%20Island%20Andaman.jpg"
       }
     ],
     "missing_themes": [
@@ -7358,7 +8360,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Neil%20Island%20Andaman.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sir-william-peel-island-andaman-and-nicobar-islands",
@@ -7442,6 +8450,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.34000 N, 93.05000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Neil Island Andaman.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Neil%20Island%20Andaman.jpg"
       }
     ],
     "missing_themes": [
@@ -7451,7 +8465,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Neil%20Island%20Andaman.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "snake-island-andaman-and-nicobar-islands",
@@ -7481,6 +8501,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman water snake IMG 2322.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20water%20snake%20IMG%202322.jpg"
       }
     ],
     "missing_themes": [
@@ -7491,7 +8517,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20water%20snake%20IMG%202322.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "snob-island-andaman-and-nicobar-islands",
@@ -7521,6 +8553,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -7531,7 +8569,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "sombrero-point-andaman-and-nicobar-islands",
@@ -7601,6 +8645,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -7611,7 +8661,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "south-andaman-island-andaman-and-nicobar-islands",
@@ -7656,6 +8712,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.78333 N, 92.65000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman village.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20village.jpg"
       }
     ],
     "missing_themes": [
@@ -7664,7 +8726,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20village.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "south-bay-andaman-and-nicobar-islands",
@@ -7729,6 +8797,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.93288 N, 92.61286 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Letters on the Nicobar islands their natural productions and the manners customs and superstitions of the natives (IA b30360511).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Letters%20on%20the%20Nicobar%20islands%20their%20natural%20productions%20and%20the%20manners%20customs%20and%20superstitions%20of%20the%20natives%20%28IA%20b30360511%29.pdf"
       }
     ],
     "missing_themes": [
@@ -7738,7 +8812,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Letters%20on%20the%20Nicobar%20islands%20their%20natural%20productions%20and%20the%20manners%20customs%20and%20superstitions%20of%20the%20natives%20%28IA%20b30360511%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "south-button-island-national-park-andaman-and-nicobar-islands",
@@ -7773,6 +8853,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.22389 N, 93.02028 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Button Islands-South Button.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Button%20Islands-South%20Button.png"
       }
     ],
     "missing_themes": [
@@ -7782,7 +8868,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Button%20Islands-South%20Button.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "south-cinque-island-andaman-and-nicobar-islands",
@@ -7827,6 +8919,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.26864 N, 92.70030 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -7835,7 +8933,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "south-reef-island-andaman-and-nicobar-islands",
@@ -7880,6 +8984,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.77208 N, 92.65546 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Adventures and Researches among the Andaman Islanders (IA dli.granth.89161).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf"
       }
     ],
     "missing_themes": [
@@ -7888,7 +8998,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Adventures%20and%20Researches%20among%20the%20Andaman%20Islanders%20%28IA%20dli.granth.89161%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "south-sentinel-island-andaman-and-nicobar-islands",
@@ -7933,6 +9049,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.97778 N, 92.22167 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: The Andaman islanders; a study in social anthropology (Anthony Wilkin studentship research, 1906 (IA andamanislanders00radc).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:The%20Andaman%20islanders%3B%20a%20study%20in%20social%20anthropology%20%28Anthony%20Wilkin%20studentship%20research%2C%201906%20%28IA%20andamanislanders00radc%29.pdf"
       }
     ],
     "missing_themes": [
@@ -7942,7 +9064,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:The%20Andaman%20islanders%3B%20a%20study%20in%20social%20anthropology%20%28Anthony%20Wilkin%20studentship%20research%2C%201906%20%28IA%20andamanislanders00radc%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "spike-island-andaman-islands-andaman-and-nicobar-islands",
@@ -8021,6 +9149,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.66310 N, 92.74640 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Sri-vetrimalai-murugan-temple-port-blair-tourism-entry-fee-timings-holidays-reviews-header.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Sri-vetrimalai-murugan-temple-port-blair-tourism-entry-fee-timings-holidays-reviews-header.jpg"
       }
     ],
     "missing_themes": [
@@ -8030,7 +9164,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sri-vetrimalai-murugan-temple-port-blair-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "stewart-island-andaman-islands-andaman-and-nicobar-islands",
@@ -8070,6 +9210,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.01000 N, 92.93000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman Report (IA AndamanReport).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman%20Report%20%28IA%20AndamanReport%29.pdf"
       }
     ],
     "missing_themes": [
@@ -8079,7 +9225,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman%20Report%20%28IA%20AndamanReport%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "strait-island-andaman-and-nicobar-islands",
@@ -8124,6 +9276,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 12.21667 N, 92.95000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: India Andaman and Nicobar Islands location map.svg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:India%20Andaman%20and%20Nicobar%20Islands%20location%20map.svg"
       }
     ],
     "missing_themes": [
@@ -8132,7 +9290,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:India%20Andaman%20and%20Nicobar%20Islands%20location%20map.svg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "talakaicha-island-andaman-and-nicobar-islands",
@@ -8286,6 +9450,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: ISS039-E-756 - View of the Andaman Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -8296,7 +9466,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:ISS039-E-756%20-%20View%20of%20the%20Andaman%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "teressa-island-andaman-and-nicobar-islands",
@@ -8341,6 +9517,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 8.25417 N, 93.11944 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aerial view of Teressa Island and Bompuka Island, Andaman and Nicobar Islands, India - January 2023.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Teressa%20Island%20and%20Bompuka%20Island%2C%20Andaman%20and%20Nicobar%20Islands%2C%20India%20-%20January%202023.jpg"
       }
     ],
     "missing_themes": [
@@ -8350,7 +9532,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Teressa%20Island%20and%20Bompuka%20Island%2C%20Andaman%20and%20Nicobar%20Islands%2C%20India%20-%20January%202023.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "the-brothers-andaman-islands-andaman-and-nicobar-islands",
@@ -8390,6 +9578,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 10.95000 N, 92.64000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Letters on the Nicobar islands their natural productions and the manners customs and superstitions of the natives (IA b30360511).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Letters%20on%20the%20Nicobar%20islands%20their%20natural%20productions%20and%20the%20manners%20customs%20and%20superstitions%20of%20the%20natives%20%28IA%20b30360511%29.pdf"
       }
     ],
     "missing_themes": [
@@ -8399,7 +9593,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Letters%20on%20the%20Nicobar%20islands%20their%20natural%20productions%20and%20the%20manners%20customs%20and%20superstitions%20of%20the%20natives%20%28IA%20b30360511%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "the-sisters-andaman-islands-andaman-and-nicobar-islands",
@@ -8444,6 +9644,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.14340 N, 92.72670 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: In the Andamans and Nicobars; the narrative of a cruise in the schooner \"Terrapin\", with notices of the islands, their fauna, ethnology, etc. (IA inandamansnicoba00klos).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf"
       }
     ],
     "missing_themes": [
@@ -8452,7 +9658,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "thornhill-island-andaman-and-nicobar-islands",
@@ -8606,6 +9818,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: India Tourism Elephant.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:India%20Tourism%20Elephant.jpg"
       }
     ],
     "missing_themes": [
@@ -8617,7 +9835,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:India%20Tourism%20Elephant.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "trak-island-andaman-and-nicobar-islands",
@@ -8807,6 +10031,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: In the Andamans and Nicobars; the narrative of a cruise in the schooner \"Terrapin\", with notices of the islands, their fauna, ethnology, etc. (IA inandamansnicoba00klos).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf"
       }
     ],
     "missing_themes": [
@@ -8817,7 +10047,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "trinket-island-andaman-and-nicobar-islands",
@@ -8862,6 +10098,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 8.09222 N, 93.58056 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Nicobar Islands.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Nicobar%20Islands.jpg"
       }
     ],
     "missing_themes": [
@@ -8871,7 +10113,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Nicobar%20Islands.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "twin-islands-andaman-islands-andaman-and-nicobar-islands",
@@ -8906,6 +10154,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.39500 N, 92.55500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Indian sea star interacting with a se slug on the reef of Twins Island in South Andaman.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Indian%20sea%20star%20interacting%20with%20a%20se%20slug%20on%20the%20reef%20of%20Twins%20Island%20in%20South%20Andaman.jpg"
       }
     ],
     "missing_themes": [
@@ -8915,7 +10169,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Indian%20sea%20star%20interacting%20with%20a%20se%20slug%20on%20the%20reef%20of%20Twins%20Island%20in%20South%20Andaman.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "twin-rock-andaman-and-nicobar-islands",
@@ -9000,6 +10260,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.66667 N, 92.70000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Viper island-1-andaman-India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Viper%20island-1-andaman-India.jpg"
       }
     ],
     "missing_themes": [
@@ -9009,7 +10275,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Viper%20island-1-andaman-India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "wandoor-andaman-and-nicobar-islands-andaman-and-nicobar-islands",
@@ -9029,6 +10301,12 @@
         "theme": "suggested-duration",
         "text": "Allow at least half a day for the gate and one outing. A useful visit is often one or two nights.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Andaman24 Andaman Clubtail (7999777716).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Andaman24%20Andaman%20Clubtail%20%287999777716%29.jpg"
       }
     ],
     "missing_themes": [
@@ -9039,7 +10317,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Andaman24%20Andaman%20Clubtail%20%287999777716%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "west-bay-andaman-and-nicobar-islands",
@@ -9109,6 +10393,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 13.59000 N, 92.89000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aerial view of Teressa Island and Bompuka Island, Andaman and Nicobar Islands, India - January 2023.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Teressa%20Island%20and%20Bompuka%20Island%2C%20Andaman%20and%20Nicobar%20Islands%2C%20India%20-%20January%202023.jpg"
       }
     ],
     "missing_themes": [
@@ -9119,7 +10409,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Teressa%20Island%20and%20Bompuka%20Island%2C%20Andaman%20and%20Nicobar%20Islands%2C%20India%20-%20January%202023.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "west-sister-island-andaman-islands-andaman-and-nicobar-islands",
@@ -9149,6 +10445,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 11.14240 N, 92.72400 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: In the Andamans and Nicobars; the narrative of a cruise in the schooner \"Terrapin\", with notices of the islands, their fauna, ethnology, etc. (IA inandamansnicoba00klos).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf"
       }
     ],
     "missing_themes": [
@@ -9158,7 +10460,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:In%20the%20Andamans%20and%20Nicobars%3B%20the%20narrative%20of%20a%20cruise%20in%20the%20schooner%20%22Terrapin%22%2C%20with%20notices%20of%20the%20islands%2C%20their%20fauna%2C%20ethnology%2C%20etc.%20%28IA%20inandamansnicoba00klos%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "wilson-island-andaman-and-nicobar-islands",
@@ -9188,6 +10496,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Letters on the Nicobar islands their natural productions and the manners customs and superstitions of the natives (IA b30360511).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Letters%20on%20the%20Nicobar%20islands%20their%20natural%20productions%20and%20the%20manners%20customs%20and%20superstitions%20of%20the%20natives%20%28IA%20b30360511%29.pdf"
       }
     ],
     "missing_themes": [
@@ -9198,7 +10512,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Letters%20on%20the%20Nicobar%20islands%20their%20natural%20productions%20and%20the%20manners%20customs%20and%20superstitions%20of%20the%20natives%20%28IA%20b30360511%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "woodmason-bay-andaman-and-nicobar-islands",

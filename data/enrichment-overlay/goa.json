@@ -22,6 +22,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50002 N, 73.82993 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arch of Adil Shah Palace Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arch%20of%20Adil%20Shah%20Palace%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -32,7 +38,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arch%20of%20Adil%20Shah%20Palace%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "agassaim-goa",
@@ -57,6 +69,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.42639 N, 73.89889 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Agassaim village Panchayat.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Agassaim%20village%20Panchayat.jpg"
       }
     ],
     "missing_themes": [
@@ -66,7 +84,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Agassaim%20village%20Panchayat.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "agonda-goa",
@@ -91,6 +115,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.05091 N, 73.98760 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: AVACADO TOAST BASIL - THE TREETOP TAWA - AGONDA - GOA - DSC 0004.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:AVACADO%20TOAST%20BASIL%20-%20THE%20TREETOP%20TAWA%20-%20AGONDA%20-%20GOA%20-%20DSC%200004.jpg"
       }
     ],
     "missing_themes": [
@@ -100,7 +130,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:AVACADO%20TOAST%20BASIL%20-%20THE%20TREETOP%20TAWA%20-%20AGONDA%20-%20GOA%20-%20DSC%200004.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "agrashala-goa",
@@ -206,6 +242,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aguada Fort, India Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aguada%20Fort%2C%20India%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -216,7 +258,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aguada%20Fort%2C%20India%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "aguada-fort-upper-goa",
@@ -246,6 +294,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: AGUADA FORT.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:AGUADA%20FORT.jpg"
       }
     ],
     "missing_themes": [
@@ -255,7 +309,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:AGUADA%20FORT.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "aguada-lighthouse-goa",
@@ -285,6 +345,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aguada Fort, India Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aguada%20Fort%2C%20India%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -295,7 +361,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aguada%20Fort%2C%20India%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "aguada-old-lighthouse-goa",
@@ -325,6 +397,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Fort Aguada,Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Fort%20Aguada%2CGoa.jpg"
       }
     ],
     "missing_themes": [
@@ -335,7 +413,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fort%20Aguada%2CGoa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "aldona-goa",
@@ -365,6 +449,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.58000 N, 73.87000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bridge leading to Corjuvem island in Aldona, Goa. Work in Progress. Photo Frederick Noronha.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bridge%20leading%20to%20Corjuvem%20island%20in%20Aldona%2C%20Goa.%20Work%20in%20Progress.%20Photo%20Frederick%20Noronha.jpg"
       }
     ],
     "missing_themes": [
@@ -374,7 +464,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bridge%20leading%20to%20Corjuvem%20island%20in%20Aldona%2C%20Goa.%20Work%20in%20Progress.%20Photo%20Frederick%20Noronha.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "alorna-fort-goa",
@@ -404,6 +500,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.70022 N, 73.90539 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Alorna Fort, Alorna, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Alorna%20Fort%2C%20Alorna%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -412,7 +514,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Alorna%20Fort%2C%20Alorna%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "amona-goa-goa",
@@ -442,6 +550,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.53333 N, 73.98333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mahalakshmi Ravalnath Amona Goa.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mahalakshmi%20Ravalnath%20Amona%20Goa.JPG"
       }
     ],
     "missing_themes": [
@@ -451,7 +565,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mahalakshmi%20Ravalnath%20Amona%20Goa.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "anjediva-island-goa",
@@ -486,6 +606,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 14.75667 N, 74.11250 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Anjediva isle map.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Anjediva%20isle%20map.jpg"
       }
     ],
     "missing_themes": [
@@ -495,7 +621,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Anjediva%20isle%20map.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "anjuna-goa",
@@ -525,6 +657,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.58330 N, 73.73330 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Anjuna, Goa, India, Sunset on the beach through eyeglasses.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Anjuna%2C%20Goa%2C%20India%2C%20Sunset%20on%20the%20beach%20through%20eyeglasses.jpg"
       }
     ],
     "missing_themes": [
@@ -534,7 +672,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Anjuna%2C%20Goa%2C%20India%2C%20Sunset%20on%20the%20beach%20through%20eyeglasses.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arambol-goa",
@@ -559,6 +703,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.70000 N, 73.70000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arambol, Goa, Arambol live art.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arambol%2C%20Goa%2C%20Arambol%20live%20art.jpg"
       }
     ],
     "missing_themes": [
@@ -569,7 +719,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arambol%2C%20Goa%2C%20Arambol%20live%20art.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arch-of-adil-shahs-palace-goa",
@@ -599,6 +755,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arch of Adil Shah Palace Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arch%20of%20Adil%20Shah%20Palace%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -608,7 +770,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arch%20of%20Adil%20Shah%20Palace%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arch-of-the-viceroys-goa",
@@ -648,6 +816,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50602 N, 73.91371 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arch of The Viceroys Old Goa. North Goa District Goa 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arch%20of%20The%20Viceroys%20Old%20Goa.%20North%20Goa%20District%20Goa%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -655,7 +829,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arch%20of%20The%20Viceroys%20Old%20Goa.%20North%20Goa%20District%20Goa%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arch-of-viceroy-goa",
@@ -685,6 +865,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arch of Viceroy, Old Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arch%20of%20Viceroy%2C%20Old%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -694,7 +880,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arch%20of%20Viceroy%2C%20Old%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "archaeological-museum-and-portrait-gallery-goa",
@@ -724,6 +916,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50314 N, 73.91086 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Old Goa, various vignettes 47 Archaeological Survey of India, museum.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2C%20various%20vignettes%2047%20Archaeological%20Survey%20of%20India%2C%20museum.jpg"
       }
     ],
     "missing_themes": [
@@ -733,7 +931,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2C%20various%20vignettes%2047%20Archaeological%20Survey%20of%20India%2C%20museum.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arossim-beach-goa",
@@ -763,6 +967,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arossim Beach.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arossim%20Beach.jpg"
       }
     ],
     "missing_themes": [
@@ -773,7 +983,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arossim%20Beach.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arvalem-rock-cut-caves-goa",
@@ -803,6 +1019,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arvalem, Rock Cut Caves.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arvalem%2C%20Rock%20Cut%20Caves.jpg"
       }
     ],
     "missing_themes": [
@@ -812,7 +1034,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arvalem%2C%20Rock%20Cut%20Caves.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "arvelam-caves-goa",
@@ -842,6 +1070,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Arvalem Caves Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Arvalem%20Caves%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -852,7 +1086,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Arvalem%20Caves%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "ashvek-vintage-world-goa",
@@ -917,6 +1157,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.59750 N, 73.77722 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Worldwide Veterinary Service, Assagao, Goa.jpeg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Worldwide%20Veterinary%20Service%2C%20Assagao%2C%20Goa.jpeg"
       }
     ],
     "missing_themes": [
@@ -926,7 +1172,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Worldwide%20Veterinary%20Service%2C%20Assagao%2C%20Goa.jpeg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "azad-maidan-public-square-goa",
@@ -951,6 +1203,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50000 N, 73.82611 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dome structure at Azad Maidan (Goa).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dome%20structure%20at%20Azad%20Maidan%20%28Goa%29.jpg"
       }
     ],
     "missing_themes": [
@@ -961,7 +1219,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dome%20structure%20at%20Azad%20Maidan%20%28Goa%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "baga-beach-goa",
@@ -991,6 +1255,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Baga Beach, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Baga%20Beach%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -1001,7 +1271,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Baga%20Beach%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bambolim-beach-goa",
@@ -1031,6 +1307,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bambolim beach, Goa vrvbgoa2k24 (15).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bambolim%20beach%2C%20Goa%20vrvbgoa2k24%20%2815%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1041,7 +1323,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bambolim%20beach%2C%20Goa%20vrvbgoa2k24%20%2815%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bardez-taluka-goa",
@@ -1066,6 +1354,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.58941 N, 73.81830 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bardez taluka in North Goa district.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bardez%20taluka%20in%20North%20Goa%20district.png"
       }
     ],
     "missing_themes": [
@@ -1075,7 +1369,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bardez%20taluka%20in%20North%20Goa%20district.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "basilica-of-bom-jesus-goa-q391123",
@@ -1130,6 +1430,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50087 N, 73.91159 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Basilica of Bom Jesus, Goa 2.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Basilica%20of%20Bom%20Jesus%2C%20Goa%202.jpg"
       }
     ],
     "missing_themes": [
@@ -1138,7 +1444,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Basilica%20of%20Bom%20Jesus%2C%20Goa%202.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bastora-goa",
@@ -1163,6 +1475,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.58333 N, 73.81667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aerial view of Bastora Villa in Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Bastora%20Villa%20in%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -1172,7 +1490,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Bastora%20Villa%20in%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "batim-goa",
@@ -1197,6 +1521,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.45000 N, 73.88333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Green rustic road setting, Batim, Goa. 2.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Green%20rustic%20road%20setting%2C%20Batim%2C%20Goa.%202.jpg"
       }
     ],
     "missing_themes": [
@@ -1206,7 +1536,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Green%20rustic%20road%20setting%2C%20Batim%2C%20Goa.%202.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "benaulim-goa",
@@ -1236,6 +1572,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.25000 N, 73.92000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Benaulim,Goa (6158593029).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Benaulim%2CGoa%20%286158593029%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1245,7 +1587,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Benaulim%2CGoa%20%286158593029%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "betal-goa",
@@ -1265,6 +1613,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Live band performing at Martin's corner, Betal Patin, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Live%20band%20performing%20at%20Martin%27s%20corner%2C%20Betal%20Patin%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -1276,7 +1630,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Live%20band%20performing%20at%20Martin%27s%20corner%2C%20Betal%20Patin%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "betalbatim-beach-goa",
@@ -1306,6 +1666,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: GOA Betalbatim Beach - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:GOA%20Betalbatim%20Beach%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -1316,7 +1682,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:GOA%20Betalbatim%20Beach%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bhagavati-goa",
@@ -1387,6 +1759,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.37361 N, 74.25861 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bhagwan Mahaveer Sanctuary. Goa. India. Национальный парк Бхагван Иахавир. Гоа. Индия - panoramio (1).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bhagwan%20Mahaveer%20Sanctuary.%20Goa.%20India.%20%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%D0%91%D1%85%D0%B0%D0%B3%D0%B2%D0%B0%D0%BD%20%D0%98%D0%B0%D1%85%D0%B0%D0%B2%D0%B8%D1%80.%20%D0%93%D0%BE%D0%B0.%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20-%20panoramio%20%281%29.jpg"
       }
     ],
     "missing_themes": [
@@ -1395,7 +1773,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bhagwan%20Mahaveer%20Sanctuary.%20Goa.%20India.%20%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%D0%91%D1%85%D0%B0%D0%B3%D0%B2%D0%B0%D0%BD%20%D0%98%D0%B0%D1%85%D0%B0%D0%B2%D0%B8%D1%80.%20%D0%93%D0%BE%D0%B0.%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20-%20panoramio%20%281%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bhandecho-tembo-goa",
@@ -1465,6 +1849,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.58880 N, 73.96547 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bicholim.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bicholim.png"
       }
     ],
     "missing_themes": [
@@ -1474,7 +1864,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bicholim.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "big-foot-museum-goa",
@@ -1499,6 +1895,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.33960 N, 73.98750 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Big Foot Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Big%20Foot%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -1509,7 +1911,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Big%20Foot%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bogmalo-goa",
@@ -1534,6 +1942,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.36972 N, 73.83361 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bogmalo Beach Guest House side view.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bogmalo%20Beach%20Guest%20House%20side%20view.jpg"
       }
     ],
     "missing_themes": [
@@ -1543,7 +1957,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bogmalo%20Beach%20Guest%20House%20side%20view.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bondla-wildlife-sanctuary-goa",
@@ -1568,6 +1988,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.42680 N, 74.11360 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bondla-13.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bondla-13.jpg"
       }
     ],
     "missing_themes": [
@@ -1578,7 +2004,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bondla-13.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "bookworm-children-s-library-goa",
@@ -1603,6 +2035,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.49453 N, 73.82881 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Bookworm, children's library and community centre at Saligao. 03.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Bookworm%2C%20children%27s%20library%20and%20community%20centre%20at%20Saligao.%2003.jpg"
       }
     ],
     "missing_themes": [
@@ -1613,7 +2051,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bookworm%2C%20children%27s%20library%20and%20community%20centre%20at%20Saligao.%2003.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "borim-goa",
@@ -1638,6 +2082,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.36044 N, 74.00041 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Agnelo de Borim, Konkani litterateur, Goa 2026.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Agnelo%20de%20Borim%2C%20Konkani%20litterateur%2C%20Goa%202026.jpg"
       }
     ],
     "missing_themes": [
@@ -1647,7 +2097,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Agnelo%20de%20Borim%2C%20Konkani%20litterateur%2C%20Goa%202026.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "brahma-temple-bramha-karmali-goa",
@@ -1672,6 +2128,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.56954 N, 74.16267 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Brahma Temple, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Brahma%20Temple%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -1682,7 +2144,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Brahma%20Temple%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cabo-de-rama-fort-goa-q5015741",
@@ -1722,6 +2190,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.08861 N, 73.92194 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cabo de Rama fort in Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cabo%20de%20Rama%20fort%20in%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -1730,7 +2204,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cabo%20de%20Rama%20fort%20in%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "calvim-goa",
@@ -1755,6 +2235,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.49680 N, 73.82780 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Calvim abolim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Calvim%20abolim.jpg"
       }
     ],
     "missing_themes": [
@@ -1765,7 +2251,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Calvim%20abolim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cambariem-island-goa",
@@ -1830,6 +2322,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.32501 N, 73.95283 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Fields of Camurlim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Fields%20of%20Camurlim.jpg"
       }
     ],
     "missing_themes": [
@@ -1839,7 +2337,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fields%20of%20Camurlim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "canacona-goa",
@@ -1869,6 +2373,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.01093 N, 74.03630 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dhendlo of Canacona, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dhendlo%20of%20Canacona%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -1878,7 +2388,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dhendlo%20of%20Canacona%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "canacona-taluka-goa",
@@ -1908,6 +2424,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.02000 N, 74.02000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Canacona Road Goa India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Canacona%20Road%20Goa%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -1917,7 +2439,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Canacona%20Road%20Goa%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "candola-goa",
@@ -1981,6 +2509,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.52000 N, 73.75000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Candolim Beach in Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Candolim%20Beach%20in%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -1990,7 +2524,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Candolim%20Beach%20in%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cansaulim-goa",
@@ -2060,6 +2600,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Admiralty Chart No 744 West Coast of India Sheet 7 from Cape Ramas to Alvagudda, Published 1858, New Edition 1914.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Admiralty%20Chart%20No%20744%20West%20Coast%20of%20India%20Sheet%207%20from%20Cape%20Ramas%20to%20Alvagudda%2C%20Published%201858%2C%20New%20Edition%201914.jpg"
       }
     ],
     "missing_themes": [
@@ -2070,7 +2616,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Admiralty%20Chart%20No%20744%20West%20Coast%20of%20India%20Sheet%207%20from%20Cape%20Ramas%20to%20Alvagudda%2C%20Published%201858%2C%20New%20Edition%201914.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "capela-de-nossa-senhora-da-saude-goa",
@@ -2100,6 +2652,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.54912 N, 73.89188 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Capela de Nossa Senhora da Saúde (Chorão Island).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Capela%20de%20Nossa%20Senhora%20da%20Sa%C3%BAde%20%28Chor%C3%A3o%20Island%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2108,7 +2666,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Capela%20de%20Nossa%20Senhora%20da%20Sa%C3%BAde%20%28Chor%C3%A3o%20Island%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "carambolim-goa",
@@ -2138,6 +2702,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.46667 N, 73.90000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Carambolim IMG 0135.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Carambolim%20IMG%200135.jpg"
       }
     ],
     "missing_themes": [
@@ -2147,7 +2717,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Carambolim%20IMG%200135.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "caranzalem-goa",
@@ -2207,6 +2783,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.20000 N, 73.95000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Church of Our Lady of Socorro, Carmona, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Church%20of%20Our%20Lady%20of%20Socorro%2C%20Carmona%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -2216,7 +2798,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Church%20of%20Our%20Lady%20of%20Socorro%2C%20Carmona%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "casa-da-polvora-goa",
@@ -2363,6 +2951,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.17400 N, 73.94500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A beach dog at Cavelossim Beach, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20beach%20dog%20at%20Cavelossim%20Beach%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -2372,7 +2966,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20beach%20dog%20at%20Cavelossim%20Beach%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "caves-at-khandepar-goa",
@@ -2480,6 +3080,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Rivona Buddhist caves, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Rivona%20Buddhist%20caves%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -2489,7 +3095,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Rivona%20Buddhist%20caves%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chandor-goa",
@@ -2514,6 +3126,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.26444 N, 74.04778 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: IN-Goa-Chandor-braganza-flur.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:IN-Goa-Chandor-braganza-flur.jpg"
       }
     ],
     "missing_themes": [
@@ -2523,7 +3141,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:IN-Goa-Chandor-braganza-flur.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapel-of-our-lady-of-the-mount-goa-q28041245",
@@ -2573,6 +3197,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50436 N, 73.92335 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cathedral of Mount Mary, Old Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cathedral%20of%20Mount%20Mary%2C%20Old%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -2580,7 +3210,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cathedral%20of%20Mount%20Mary%2C%20Old%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapel-of-sacra-familia-chorao-island-goa",
@@ -2610,6 +3246,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.55700 N, 73.88500 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chapel of Sacra Familia Chorão Island.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chapel%20of%20Sacra%20Familia%20Chor%C3%A3o%20Island.jpg"
       }
     ],
     "missing_themes": [
@@ -2618,7 +3260,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chapel%20of%20Sacra%20Familia%20Chor%C3%A3o%20Island.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapel-of-st-cajetan-goa",
@@ -2648,6 +3296,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: St. Cajetan Church, Goa vrvbgoa2k24 (1).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:St.%20Cajetan%20Church%2C%20Goa%20vrvbgoa2k24%20%281%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2657,7 +3311,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:St.%20Cajetan%20Church%2C%20Goa%20vrvbgoa2k24%20%281%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapel-of-st-catherine-goa-q20047741",
@@ -2712,6 +3372,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50348 N, 73.91047 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chapel of St. Catherine Goa vrvbgoa2k24 (21).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chapel%20of%20St.%20Catherine%20Goa%20vrvbgoa2k24%20%2821%29.jpg"
       }
     ],
     "missing_themes": [
@@ -2720,7 +3386,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chapel%20of%20St.%20Catherine%20Goa%20vrvbgoa2k24%20%2821%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapel-of-st-francis-xavier-and-connected-buildings-goa",
@@ -2750,6 +3422,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Old Goa,Chapel of St. Francis Xavier and connected buildings.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2CChapel%20of%20St.%20Francis%20Xavier%20and%20connected%20buildings.jpg"
       }
     ],
     "missing_themes": [
@@ -2759,7 +3437,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2CChapel%20of%20St.%20Francis%20Xavier%20and%20connected%20buildings.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapel-of-st-jerome-chorao-island-goa",
@@ -2789,6 +3473,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.52745 N, 73.87789 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: St. Jerome Chapel, Chorão.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:St.%20Jerome%20Chapel%2C%20Chor%C3%A3o.jpg"
       }
     ],
     "missing_themes": [
@@ -2797,7 +3487,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:St.%20Jerome%20Chapel%2C%20Chor%C3%A3o.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapel-of-st-jeronimus-goa",
@@ -2866,6 +3562,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: An outside view of the st.Xavier's chapel in Goa..JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:An%20outside%20view%20of%20the%20st.Xavier%27s%20chapel%20in%20Goa..JPG"
       }
     ],
     "missing_themes": [
@@ -2875,7 +3577,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:An%20outside%20view%20of%20the%20st.Xavier%27s%20chapel%20in%20Goa..JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapora-beach-goa",
@@ -2900,6 +3608,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.60605 N, 73.74017 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chapora, Goa 403519, India - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chapora%2C%20Goa%20403519%2C%20India%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -2910,7 +3624,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chapora%2C%20Goa%20403519%2C%20India%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chapora-fort-goa-q5073352",
@@ -2950,6 +3670,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.60611 N, 73.73639 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Anjuna beach from Chapora Fort.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Anjuna%20beach%20from%20Chapora%20Fort.jpg"
       }
     ],
     "missing_themes": [
@@ -2958,7 +3684,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Anjuna%20beach%20from%20Chapora%20Fort.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chicalim-goa",
@@ -2988,6 +3720,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.39944 N, 73.84083 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Birla Temple at Chicalim, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Birla%20Temple%20at%20Chicalim%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -2997,7 +3735,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Birla%20Temple%20at%20Chicalim%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chinchinim-goa",
@@ -3027,6 +3771,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.20000 N, 73.97000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chinchinim rural scene.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chinchinim%20rural%20scene.jpg"
       }
     ],
     "missing_themes": [
@@ -3036,7 +3786,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chinchinim%20rural%20scene.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "chorao-island-goa",
@@ -3134,6 +3890,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50317 N, 73.91138 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Church of St. Francis of Assisi, Goa 2.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Church%20of%20St.%20Francis%20of%20Assisi%2C%20Goa%202.jpg"
       }
     ],
     "missing_themes": [
@@ -3142,7 +3904,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Church%20of%20St.%20Francis%20of%20Assisi%2C%20Goa%202.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-our-lady-of-the-rosary-goa",
@@ -3172,6 +3940,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Old Goa,Church of Lady of Rosary.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2CChurch%20of%20Lady%20of%20Rosary.jpg"
       }
     ],
     "missing_themes": [
@@ -3181,7 +3955,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2CChurch%20of%20Lady%20of%20Rosary.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-our-lady-of-the-rosary-goa-goa",
@@ -3236,6 +4016,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50174 N, 73.90495 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Facade of the Church of Our Lady of Rosary, Old Goa, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Facade%20of%20the%20Church%20of%20Our%20Lady%20of%20Rosary%2C%20Old%20Goa%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -3244,7 +4030,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Facade%20of%20the%20Church%20of%20Our%20Lady%20of%20Rosary%2C%20Old%20Goa%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-our-lady-of-the-snows-goa",
@@ -3274,6 +4066,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Our Lady of Snows Church, Rachol, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Our%20Lady%20of%20Snows%20Church%2C%20Rachol%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -3284,7 +4082,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Our%20Lady%20of%20Snows%20Church%2C%20Rachol%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-reis-magos-goa",
@@ -3314,6 +4118,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Church Nearby Beach View -Reis Magos -GOA -DSC 0001.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Church%20Nearby%20Beach%20View%20-Reis%20Magos%20-GOA%20-DSC%200001.jpg"
       }
     ],
     "missing_themes": [
@@ -3323,7 +4133,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Church%20Nearby%20Beach%20View%20-Reis%20Magos%20-GOA%20-DSC%200001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-st-anne-talaulim-goa",
@@ -3368,6 +4184,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.47810 N, 73.89140 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: St-Anne-church-talaulim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:St-Anne-church-talaulim.jpg"
       }
     ],
     "missing_themes": [
@@ -3375,7 +4197,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:St-Anne-church-talaulim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-st-augustine-goa-goa-q30753669",
@@ -3425,6 +4253,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50017 N, 73.90649 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Old Goa, Church of St. Augustine.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2C%20Church%20of%20St.%20Augustine.jpg"
       }
     ],
     "missing_themes": [
@@ -3432,7 +4266,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2C%20Church%20of%20St.%20Augustine.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-st-cajetan-goa",
@@ -3462,6 +4302,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Churches of Old Goa, internal view.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Churches%20of%20Old%20Goa%2C%20internal%20view.jpg"
       }
     ],
     "missing_themes": [
@@ -3472,7 +4318,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Churches%20of%20Old%20Goa%2C%20internal%20view.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-st-francis-of-assisi-goa",
@@ -3502,6 +4354,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Church of St. Francis of Assisi, Goa 2.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Church%20of%20St.%20Francis%20of%20Assisi%2C%20Goa%202.jpg"
       }
     ],
     "missing_themes": [
@@ -3512,7 +4370,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Church%20of%20St.%20Francis%20of%20Assisi%2C%20Goa%202.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-st-peter-goa",
@@ -3542,6 +4406,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Old Goa,Church of St. Peter.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2CChurch%20of%20St.%20Peter.jpg"
       }
     ],
     "missing_themes": [
@@ -3551,7 +4421,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2CChurch%20of%20St.%20Peter.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "church-of-the-saviour-of-the-world-goa",
@@ -3581,6 +4457,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A history of the Baptists - traced by their vital principles and practices - from the time of Our Lord and Saviour Jesus Christ to the year 1886 (IA cu31924029451782).pdf.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20history%20of%20the%20Baptists%20-%20traced%20by%20their%20vital%20principles%20and%20practices%20-%20from%20the%20time%20of%20Our%20Lord%20and%20Saviour%20Jesus%20Christ%20to%20the%20year%201886%20%28IA%20cu31924029451782%29.pdf"
       }
     ],
     "missing_themes": [
@@ -3591,7 +4473,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20history%20of%20the%20Baptists%20-%20traced%20by%20their%20vital%20principles%20and%20practices%20-%20from%20the%20time%20of%20Our%20Lord%20and%20Saviour%20Jesus%20Christ%20to%20the%20year%201886%20%28IA%20cu31924029451782%29.pdf",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "churches-and-convents-of-goa-goa",
@@ -3626,6 +4514,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50240 N, 73.91170 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Churches and Convents of Goa vrvbgoa2k24 (2).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Churches%20and%20Convents%20of%20Goa%20vrvbgoa2k24%20%282%29.jpg"
       }
     ],
     "missing_themes": [
@@ -3635,7 +4529,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Churches%20and%20Convents%20of%20Goa%20vrvbgoa2k24%20%282%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cola-beach-goa",
@@ -3665,6 +4565,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Coconut Palm Cola Bay Goa Jan19 DSC00303.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Coconut%20Palm%20Cola%20Bay%20Goa%20Jan19%20DSC00303.jpg"
       }
     ],
     "missing_themes": [
@@ -3675,7 +4581,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Coconut%20Palm%20Cola%20Bay%20Goa%20Jan19%20DSC00303.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "colla-bay-goa",
@@ -3745,6 +4657,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.27611 N, 73.91722 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Colva Beach, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Colva%20Beach%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -3754,7 +4672,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Colva%20Beach%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "colvale-goa",
@@ -3784,6 +4708,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.62000 N, 73.83000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Village scene at Colvale, Goa, India 04.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Village%20scene%20at%20Colvale%2C%20Goa%2C%20India%2004.jpg"
       }
     ],
     "missing_themes": [
@@ -3793,7 +4723,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Village%20scene%20at%20Colvale%2C%20Goa%2C%20India%2004.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "conquichi-madl-goa",
@@ -3868,6 +4804,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Convent of St. Monica and Chapel.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Convent%20of%20St.%20Monica%20and%20Chapel.JPG"
       }
     ],
     "missing_themes": [
@@ -3877,7 +4819,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Convent%20of%20St.%20Monica%20and%20Chapel.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "corjuem-fort-goa",
@@ -3912,6 +4860,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.59680 N, 73.89280 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Fort Corjuem.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Fort%20Corjuem.jpg"
       }
     ],
     "missing_themes": [
@@ -3919,7 +4873,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fort%20Corjuem.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "corjuem-goa",
@@ -3949,6 +4909,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cable Bridge Corjuem.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cable%20Bridge%20Corjuem.JPG"
       }
     ],
     "missing_themes": [
@@ -3959,7 +4925,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cable%20Bridge%20Corjuem.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cortalim-goa",
@@ -3984,6 +4956,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.39778 N, 73.91056 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cortalim, Goa, India - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cortalim%2C%20Goa%2C%20India%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -3993,7 +4971,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cortalim%2C%20Goa%2C%20India%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cotigao-wildlife-sanctuary-goa",
@@ -4018,6 +5002,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 14.97600 N, 74.20600 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Somewhere in the interiors of Cotigao.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Somewhere%20in%20the%20interiors%20of%20Cotigao.jpg"
       }
     ],
     "missing_themes": [
@@ -4027,7 +5017,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Somewhere%20in%20the%20interiors%20of%20Cotigao.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cunchelim-goa",
@@ -4057,6 +5053,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.60000 N, 73.81667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Primary school, Cunchelim, Mapusa, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Primary%20school%2C%20Cunchelim%2C%20Mapusa%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -4066,7 +5068,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Primary%20school%2C%20Cunchelim%2C%20Mapusa%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cuncolim-goa",
@@ -4096,6 +5104,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.17000 N, 73.98000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Broken swing in Goa Freedom Fighters' Memorial at Cuncolim, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Broken%20swing%20in%20Goa%20Freedom%20Fighters%27%20Memorial%20at%20Cuncolim%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -4105,7 +5119,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Broken%20swing%20in%20Goa%20Freedom%20Fighters%27%20Memorial%20at%20Cuncolim%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "curtorim-goa",
@@ -4135,6 +5155,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.28000 N, 74.03000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A Costa, tiatrist from Curtorim, Goa 2223.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20Costa%2C%20tiatrist%20from%20Curtorim%2C%20Goa%202223.jpg"
       }
     ],
     "missing_themes": [
@@ -4144,7 +5170,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20Costa%2C%20tiatrist%20from%20Curtorim%2C%20Goa%202223.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "cutlachimal-goa",
@@ -4249,6 +5281,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.18664 N, 74.09484 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Shri Damodar Prasanna, Zambaulim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Shri%20Damodar%20Prasanna%2C%20Zambaulim.jpg"
       }
     ],
     "missing_themes": [
@@ -4259,7 +5297,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Shri%20Damodar%20Prasanna%2C%20Zambaulim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "divar-goa",
@@ -4294,6 +5338,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.52500 N, 73.90250 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Divar (Ilha de Piedade), India Portuguesa.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Divar%20%28Ilha%20de%20Piedade%29%2C%20India%20Portuguesa.png"
       }
     ],
     "missing_themes": [
@@ -4303,7 +5353,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Divar%20%28Ilha%20de%20Piedade%29%2C%20India%20Portuguesa.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "dona-paula-goa",
@@ -4328,6 +5384,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.45056 N, 73.80333 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dona Paula Goa vrvbgoa2k24 (1).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dona%20Paula%20Goa%20vrvbgoa2k24%20%281%29.jpg"
       }
     ],
     "missing_themes": [
@@ -4337,7 +5399,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dona%20Paula%20Goa%20vrvbgoa2k24%20%281%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "dudhsagar-falls-goa",
@@ -4367,6 +5435,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.31277 N, 74.31416 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Dudhsagar Falls, Goa (51821730751).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Dudhsagar%20Falls%2C%20Goa%20%2851821730751%29.jpg"
       }
     ],
     "missing_themes": [
@@ -4375,7 +5449,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Dudhsagar%20Falls%2C%20Goa%20%2851821730751%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "durga-goa",
@@ -4395,6 +5475,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Durga Puja - of Aquem, Goa.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Durga%20Puja%20-%20of%20Aquem%2C%20Goa.JPG"
       }
     ],
     "missing_themes": [
@@ -4406,7 +5492,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Durga%20Puja%20-%20of%20Aquem%2C%20Goa.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "embankment-dam-goa",
@@ -4467,6 +5559,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Chandore, Excavated Site.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Chandore%2C%20Excavated%20Site.jpg"
       }
     ],
     "missing_themes": [
@@ -4476,7 +5574,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Chandore%2C%20Excavated%20Site.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "farmagudi-goa",
@@ -4501,6 +5605,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.41600 N, 73.98400 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Shri Shivaji Maharaj Statue at Farmagudi near Ponda , Goa. Mock fortifications in the foreground - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Shri%20Shivaji%20Maharaj%20Statue%20at%20Farmagudi%20near%20Ponda%20%2C%20Goa.%20Mock%20fortifications%20in%20the%20foreground%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -4510,7 +5620,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Shri%20Shivaji%20Maharaj%20Statue%20at%20Farmagudi%20near%20Ponda%20%2C%20Goa.%20Mock%20fortifications%20in%20the%20foreground%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fatorpa-goa",
@@ -4540,6 +5656,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.11667 N, 74.00000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Fatorpa, Goa, India - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Fatorpa%2C%20Goa%2C%20India%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -4549,7 +5671,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fatorpa%2C%20Goa%2C%20India%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fort-aguada-goa",
@@ -4579,6 +5707,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.49229 N, 73.77365 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Aguada Fort, India Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Aguada%20Fort%2C%20India%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -4587,7 +5721,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aguada%20Fort%2C%20India%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fort-nanuz-goa",
@@ -4692,6 +5832,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Alorna Fort, Alorna, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Alorna%20Fort%2C%20Alorna%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -4701,7 +5847,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Alorna%20Fort%2C%20Alorna%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fort-of-sanquelim-goa",
@@ -4813,6 +5965,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Church inside fort terekhol - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Church%20inside%20fort%20terekhol%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -4822,7 +5980,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Church%20inside%20fort%20terekhol%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fort-sankhali-goa",
@@ -5003,6 +6167,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.73060 N, 73.68200 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 2025-03-01 Hidden beach behind Fort Tiracol, North Goa, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:2025-03-01%20Hidden%20beach%20behind%20Fort%20Tiracol%2C%20North%20Goa%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -5011,7 +6181,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:2025-03-01%20Hidden%20beach%20behind%20Fort%20Tiracol%2C%20North%20Goa%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fortaleza-de-sao-sebastiao-goa",
@@ -5169,6 +6345,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Lower Aguada Fort from Sinquerim view point during sunset.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Lower%20Aguada%20Fort%20from%20Sinquerim%20view%20point%20during%20sunset.jpg"
       }
     ],
     "missing_themes": [
@@ -5178,7 +6360,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Lower%20Aguada%20Fort%20from%20Sinquerim%20view%20point%20during%20sunset.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "fortress-of-colvale-goa",
@@ -5281,6 +6469,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 14.96000 N, 74.04900 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Turtle village galgibaga beach.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Turtle%20village%20galgibaga%20beach.jpg"
       }
     ],
     "missing_themes": [
@@ -5291,7 +6485,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Turtle%20village%20galgibaga%20beach.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "gandaulim-fort-goa",
@@ -5395,6 +6595,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.26469 N, 73.94161 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Goa Chitra- Museum.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Goa%20Chitra-%20Museum.JPG"
       }
     ],
     "missing_themes": [
@@ -5404,7 +6610,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Goa%20Chitra-%20Museum.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "goa-legislative-assembly-goa",
@@ -5434,6 +6646,12 @@
         "theme": "suggested-duration",
         "text": "Most forts, palaces, and museums take two to four hours. A ruined hill fort can take longer.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: 2017 Goa assembly elections.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:2017%20Goa%20assembly%20elections.png"
       }
     ],
     "missing_themes": [
@@ -5443,7 +6661,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:2017%20Goa%20assembly%20elections.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "goa-science-centre-goa",
@@ -5478,6 +6702,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.47743 N, 73.80908 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Goa Science Centre at Miramar, circa 2006.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Goa%20Science%20Centre%20at%20Miramar%2C%20circa%202006.jpg"
       }
     ],
     "missing_themes": [
@@ -5486,7 +6716,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Goa%20Science%20Centre%20at%20Miramar%2C%20circa%202006.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "goa-state-museum-goa",
@@ -5516,6 +6752,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.49592 N, 73.83361 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A sculpture on display at the Goa State Museum.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%20sculpture%20on%20display%20at%20the%20Goa%20State%20Museum.jpg"
       }
     ],
     "missing_themes": [
@@ -5524,7 +6766,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%20sculpture%20on%20display%20at%20the%20Goa%20State%20Museum.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "goan-temple-goa",
@@ -5544,6 +6792,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: *Goan and other boats.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:%2AGoan%20and%20other%20boats.jpg"
       }
     ],
     "missing_themes": [
@@ -5555,7 +6809,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:%2AGoan%20and%20other%20boats.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "golden-chariot-goa",
@@ -5616,6 +6876,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Grande Island, Vasco-da-Gama.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Grande%20Island%2C%20Vasco-da-Gama.jpg"
       }
     ],
     "missing_themes": [
@@ -5626,7 +6892,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Grande%20Island%2C%20Vasco-da-Gama.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "holy-spirit-church-margao-goa",
@@ -5666,6 +6938,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.28164 N, 73.95914 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Holy Spirit Church, Margao, Goa 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Holy%20Spirit%20Church%2C%20Margao%2C%20Goa%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -5674,7 +6952,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Holy%20Spirit%20Church%2C%20Margao%2C%20Goa%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "house-of-bull-goa",
@@ -5704,6 +6988,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Old Goa,House of Bull.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2CHouse%20of%20Bull.jpg"
       }
     ],
     "missing_themes": [
@@ -5713,7 +7003,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Old%20Goa%2CHouse%20of%20Bull.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "jhari-dhar-goa",
@@ -5873,6 +7169,12 @@
         "theme": "suggested-duration",
         "text": "A shrine visit is often one to two hours, longer on a festival day.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Kali Maa, Goa - Maa kali's statue.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Kali%20Maa%2C%20Goa%20-%20Maa%20kali%27s%20statue.JPG"
       }
     ],
     "missing_themes": [
@@ -5883,7 +7185,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Kali%20Maa%2C%20Goa%20-%20Maa%20kali%27s%20statue.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "kavale-goa",
@@ -5908,6 +7216,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50772 N, 73.80312 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Deepasthamba at the Shantadurga Temple in Kavale, Ponda, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Deepasthamba%20at%20the%20Shantadurga%20Temple%20in%20Kavale%2C%20Ponda%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -5917,7 +7231,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Deepasthamba%20at%20the%20Shantadurga%20Temple%20in%20Kavale%2C%20Ponda%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "krishnadas-shama-goa-state-central-library-goa",
@@ -5947,6 +7267,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.49400 N, 73.83300 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Curator of the Central Library, Panjim, Goa, Dr Carlos Fernandes 1.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Curator%20of%20the%20Central%20Library%2C%20Panjim%2C%20Goa%2C%20Dr%20Carlos%20Fernandes%201.jpg"
       }
     ],
     "missing_themes": [
@@ -5955,7 +7281,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Curator%20of%20the%20Central%20Library%2C%20Panjim%2C%20Goa%2C%20Dr%20Carlos%20Fernandes%201.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lakshmi-narayan-devasthan-kundaim-goa",
@@ -6047,6 +7379,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Largo of St. Cajetan together with other monuments- ASI.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Largo%20of%20St.%20Cajetan%20together%20with%20other%20monuments-%20ASI.jpg"
       }
     ],
     "missing_themes": [
@@ -6056,7 +7394,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Largo%20of%20St.%20Cajetan%20together%20with%20other%20monuments-%20ASI.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "largo-of-st-francis-xavier-goa",
@@ -6086,6 +7430,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: LargoStFrancisXavier.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:LargoStFrancisXavier.jpg"
       }
     ],
     "missing_themes": [
@@ -6095,7 +7445,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:LargoStFrancisXavier.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "latuechoozor-falls-goa",
@@ -6165,6 +7521,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.46283 N, 73.78916 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Cabo Raj Bhavan in Goa.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Cabo%20Raj%20Bhavan%20in%20Goa.png"
       }
     ],
     "missing_themes": [
@@ -6174,7 +7536,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cabo%20Raj%20Bhavan%20in%20Goa.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "loliem-polem-goa",
@@ -6199,6 +7567,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 14.90000 N, 74.09000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Polem-Beach-Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Polem-Beach-Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -6208,7 +7582,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Polem-Beach-Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "lookout-flagstaff-historical-goa",
@@ -6283,6 +7663,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.33000 N, 73.98000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: School, Goa, Loutolim.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:School%2C%20Goa%2C%20Loutolim.jpg"
       }
     ],
     "missing_themes": [
@@ -6292,7 +7678,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:School%2C%20Goa%2C%20Loutolim.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "madhav-govind-rameshwar-temple-goa",
@@ -6357,6 +7749,12 @@
         "theme": "hidden-gem",
         "text": "The catalog marks this place lesser-known, so it is a candidate for a slower visit rather than a standard circuit.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mahadev Temple at Tambdi Surla, a historic stone shrine located in Goa, India..jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mahadev%20Temple%20at%20Tambdi%20Surla%2C%20a%20historic%20stone%20shrine%20located%20in%20Goa%2C%20India..jpg"
       }
     ],
     "missing_themes": [
@@ -6366,7 +7764,13 @@
       "access",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mahadev%20Temple%20at%20Tambdi%20Surla%2C%20a%20historic%20stone%20shrine%20located%20in%20Goa%2C%20India..jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mahadev-temple-tambdi-surla-goa-q6732753",
@@ -6406,6 +7810,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.43907 N, 74.25256 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mahadev Temple at Kurdi, Goa (Front View).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mahadev%20Temple%20at%20Kurdi%2C%20Goa%20%28Front%20View%29.jpg"
       }
     ],
     "missing_themes": [
@@ -6414,7 +7824,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mahadev%20Temple%20at%20Kurdi%2C%20Goa%20%28Front%20View%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mahadeva-goa",
@@ -6449,6 +7865,12 @@
         "theme": "hidden-gem",
         "text": "Published visitor write-ups are scarce. The place is in the catalog because it is a named, mapped site rather than a stop on the usual itinerary.",
         "basis": "catalog-tags"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: A 3-D image of a temple created using just bricks on the wall of the Mahadeva Temple.(Close Up).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:A%203-D%20image%20of%20a%20temple%20created%20using%20just%20bricks%20on%20the%20wall%20of%20the%20Mahadeva%20Temple.%28Close%20Up%29.jpg"
       }
     ],
     "missing_themes": [
@@ -6459,7 +7881,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:A%203-D%20image%20of%20a%20temple%20created%20using%20just%20bricks%20on%20the%20wall%20of%20the%20Mahadeva%20Temple.%28Close%20Up%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mahalasa-narayani-temple-mardol-goa",
@@ -6484,6 +7912,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.44045 N, 73.97253 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mahalasa Narayani , Mardol Goa (Main Gate ).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mahalasa%20Narayani%20%2C%20Mardol%20Goa%20%28Main%20Gate%20%29.jpg"
       }
     ],
     "missing_themes": [
@@ -6493,7 +7927,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mahalasa%20Narayani%20%2C%20Mardol%20Goa%20%28Main%20Gate%20%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mahamaya-kalika-devasthan-kasarpal-goa",
@@ -6553,6 +7993,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.31611 N, 73.91972 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Madel, Majorda, Goa, India - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Madel%2C%20Majorda%2C%20Goa%2C%20India%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -6562,7 +8008,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Madel%2C%20Majorda%2C%20Goa%2C%20India%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mallikarjuna-temple-goa-goa",
@@ -6587,6 +8039,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.21528 N, 73.86667 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mallikarjuna temple, Shristhal 2014-06-03 13-20.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mallikarjuna%20temple%2C%20Shristhal%202014-06-03%2013-20.jpg"
       }
     ],
     "missing_themes": [
@@ -6596,7 +8054,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mallikarjuna%20temple%2C%20Shristhal%202014-06-03%2013-20.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mandodari-temple-betki-goa",
@@ -6621,6 +8085,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50600 N, 73.99000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mandodari Temple.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mandodari%20Temple.jpg"
       }
     ],
     "missing_themes": [
@@ -6631,7 +8101,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mandodari%20Temple.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mandrem-goa",
@@ -6656,6 +8132,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.65812 N, 73.71306 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mandrem Beach, Goa, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mandrem%20Beach%2C%20Goa%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -6665,7 +8147,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mandrem%20Beach%2C%20Goa%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mangueshi-temple-goa",
@@ -6690,6 +8178,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.51631 N, 73.98300 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Closeup of Mangueshi Temple, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Closeup%20of%20Mangueshi%20Temple%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -6699,7 +8193,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Closeup%20of%20Mangueshi%20Temple%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mapusa-goa",
@@ -6729,6 +8229,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.59197 N, 73.80894 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mapusa, North Goa's main commercial town, in the sub-district of Bardez. Circa 2012. Various pics. 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mapusa%2C%20North%20Goa%27s%20main%20commercial%20town%2C%20in%20the%20sub-district%20of%20Bardez.%20Circa%202012.%20Various%20pics.%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -6738,7 +8244,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mapusa%2C%20North%20Goa%27s%20main%20commercial%20town%2C%20in%20the%20sub-district%20of%20Bardez.%20Circa%202012.%20Various%20pics.%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mapusa-municipal-market-goa",
@@ -6763,6 +8275,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.58800 N, 73.81300 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Fruit vendors in Mapusa, Goa, India.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Fruit%20vendors%20in%20Mapusa%2C%20Goa%2C%20India.jpg"
       }
     ],
     "missing_themes": [
@@ -6773,7 +8291,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fruit%20vendors%20in%20Mapusa%2C%20Goa%2C%20India.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mapusa-river-goa",
@@ -6798,6 +8322,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.50000 N, 73.85000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Mapusa11.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Mapusa11.JPG"
       }
     ],
     "missing_themes": [
@@ -6808,7 +8338,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Mapusa11.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "marcel-goa-goa",
@@ -6833,6 +8369,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.51411 N, 73.95962 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Grotte Saint Marcel bassins.jpeg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Grotte%20Saint%20Marcel%20bassins.jpeg"
       }
     ],
     "missing_themes": [
@@ -6842,7 +8384,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Grotte%20Saint%20Marcel%20bassins.jpeg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mardol-goa-goa",
@@ -6867,6 +8415,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.43300 N, 73.95000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Nava Durgal Temple, Mardol, Goa, India - panoramio.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Nava%20Durgal%20Temple%2C%20Mardol%2C%20Goa%2C%20India%20-%20panoramio.jpg"
       }
     ],
     "missing_themes": [
@@ -6876,7 +8430,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Nava%20Durgal%20Temple%2C%20Mardol%2C%20Goa%2C%20India%20-%20panoramio.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "margao-goa",
@@ -6911,6 +8471,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.27194 N, 73.95833 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Tiny alternate bookshop in Goa, India, an example of (DogEars, Margao).jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Tiny%20alternate%20bookshop%20in%20Goa%2C%20India%2C%20an%20example%20of%20%28DogEars%2C%20Margao%29.jpg"
       }
     ],
     "missing_themes": [
@@ -6920,7 +8486,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tiny%20alternate%20bookshop%20in%20Goa%2C%20India%2C%20an%20example%20of%20%28DogEars%2C%20Margao%29.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "marmagao-bay-goa",
@@ -7025,6 +8597,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.57563 N, 73.93935 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: MayemLake,Goa.JPG.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:MayemLake%2CGoa.JPG"
       }
     ],
     "missing_themes": [
@@ -7035,7 +8613,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:MayemLake%2CGoa.JPG",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "menezes-braganza-house-goa",
@@ -7060,6 +8644,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.26153 N, 74.04346 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: IN-Goa-Chandor-braganza-flur.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:IN-Goa-Chandor-braganza-flur.jpg"
       }
     ],
     "missing_themes": [
@@ -7070,7 +8660,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:IN-Goa-Chandor-braganza-flur.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "merces-goa-goa",
@@ -7100,6 +8696,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.48330 N, 73.85000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Our Lady of Merces Church, Colva, Goa.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Our%20Lady%20of%20Merces%20Church%2C%20Colva%2C%20Goa.jpg"
       }
     ],
     "missing_themes": [
@@ -7109,7 +8711,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Our%20Lady%20of%20Merces%20Church%2C%20Colva%2C%20Goa.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mhadei-wildlife-sanctuary-goa",
@@ -7149,6 +8757,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 15.57170 N, 74.17080 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Forests of northern Western Ghats Sahyadri, Mhadei Wildlife Sanctuary Goa..jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Forests%20of%20northern%20Western%20Ghats%20Sahyadri%2C%20Mhadei%20Wildlife%20Sanctuary%20Goa..jpg"
       }
     ],
     "missing_themes": [
@@ -7157,7 +8771,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Forests%20of%20northern%20Western%20Ghats%20Sahyadri%2C%20Mhadei%20Wildlife%20Sanctuary%20Goa..jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "mhamai-kamat-house-goa",

@@ -5911,6 +5911,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.49750 N, 93.77910 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Illustration of the Thangjing Temple, Moirang.png.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Illustration%20of%20the%20Thangjing%20Temple%2C%20Moirang.png"
       }
     ],
     "missing_themes": [
@@ -5920,7 +5926,13 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Illustration%20of%20the%20Thangjing%20Temple%2C%20Moirang.png",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "thong-nambonbi-humped-bridge-manipur",
@@ -6049,6 +6061,12 @@
         "theme": "suggested-duration",
         "text": "Plan a short visit until a more detailed account is collected.",
         "basis": "category-planning"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Vanda coerulea orchid blooms from manipur.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Vanda%20coerulea%20orchid%20blooms%20from%20manipur.jpg"
       }
     ],
     "missing_themes": [
@@ -6060,7 +6078,13 @@
       "place-specific-season",
       "district"
     ],
-    "collection_status": "needs_collection"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Vanda%20coerulea%20orchid%20blooms%20from%20manipur.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   },
   {
     "id": "wangthonbi-mound-manipur",
@@ -6173,6 +6197,12 @@
         "theme": "access",
         "text": "The catalog already stores a search pin at 24.32000 N, 94.23000 E. Use that pin only as a start, and confirm the last mile on the ground.",
         "basis": "catalog-coordinates"
+      },
+      {
+        "theme": "photo",
+        "text": "Wikimedia Commons has an openly licensed file for this place: Yangoupokpi Lokchao WLS Manipur by Dr Raju Kasambe (1) 01.jpg.",
+        "basis": "cited-source",
+        "source": "https://commons.wikimedia.org/wiki/File:Yangoupokpi%20Lokchao%20WLS%20Manipur%20by%20Dr%20Raju%20Kasambe%20%281%29%2001.jpg"
       }
     ],
     "missing_themes": [
@@ -6181,6 +6211,12 @@
       "food",
       "place-specific-season"
     ],
-    "collection_status": "sourced"
+    "collection_status": "enriched",
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Yangoupokpi%20Lokchao%20WLS%20Manipur%20by%20Dr%20Raju%20Kasambe%20%281%29%2001.jpg",
+        "publisher": "commons.wikimedia.org"
+      }
+    ]
   }
 ]

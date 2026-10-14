@@ -45,8 +45,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 214,
-      "with_picture_references": 0,
-      "picture_reference_percent": 0.0
+      "with_picture_references": 113,
+      "picture_reference_percent": 52.8
     },
     {
       "state": "Andhra Pradesh",
@@ -368,8 +368,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 324,
-      "with_picture_references": 0,
-      "picture_reference_percent": 0.0
+      "with_picture_references": 136,
+      "picture_reference_percent": 42.0
     },
     {
       "state": "Gujarat",
@@ -810,8 +810,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 151,
-      "with_picture_references": 56,
-      "picture_reference_percent": 37.1
+      "with_picture_references": 59,
+      "picture_reference_percent": 39.1
     },
     {
       "state": "Meghalaya",
@@ -1093,8 +1093,8 @@
       ],
       "enriched_places": 0,
       "overlay_places": 195,
-      "with_picture_references": 0,
-      "picture_reference_percent": 0.0
+      "with_picture_references": 85,
+      "picture_reference_percent": 43.6
     },
     {
       "state": "Tamil Nadu",
@@ -1317,6 +1317,6 @@
   ],
   "enriched_places": 142,
   "enriched_percent": 0.3,
-  "with_picture_references": 206,
-  "picture_reference_percent": 0.5
+  "with_picture_references": 543,
+  "picture_reference_percent": 1.3
 }
