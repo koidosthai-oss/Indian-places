@@ -1,1 +1,12 @@
-PLACEHOLDER
+[
+  {
+    "id": "raga-kamle-arunachal-pradesh",
+    "name": "Raga",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "District headquarters and main town of Kamle district, serving as the primary gateway and administrative hub for exploring the surrounding hills, forests, and river valleys of central Arunachal Pradesh.",
+    "coordinates": {"lat": 27.8, "lon": 94.075},
+    "tags": ["town", "headquarters", "gateway", "lesser-known"],
+    "facts": ["Headquarters of Kamle district, created in 2017 from parts of Lower and Upper Subansiri", "Located approximately 44 km north of Ziro and about 100 km from Itanagar", "Main population center and starting point for local tourism and cultural experiences among Nyishi communities", "Coordinates from Wikipedia and geographic records"]
+  }
+]
