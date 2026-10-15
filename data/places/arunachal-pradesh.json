@@ -1,1 +1,79 @@
-REPLACE_WITH_FULL_JSON
+[{
+  "id": "parshuram-kund-lohit",
+  "name": "Parshuram Kund",
+  "state": "Arunachal Pradesh",
+  "category": "spiritual",
+  "description": "Major Hindu pilgrimage site on the banks of the Lohit River in the Mishmi plateau area, associated with Sage Parashurama washing away the sin of matricide. Attracts tens of thousands of devotees during Makar Sankranti for holy dips.",
+  "coordinates": {"lat": 27.8775, "lon": 96.35917},
+  "tags": ["pilgrimage", "hindu", "river", "festival", "makar-sankranti"],
+  "facts": ["Located approximately 48 km from Tezu via Tohangam within Kamlang Reserve Forest area.", "Annual Parshuram Mela held in January draws pilgrims from across India and Nepal.", "Coordinates verified from Wikipedia and OSM sources as 27\u00b052\u203239\u2033N 96\u00b021\u203233\u2033E.", "Site reformed after 1950 Assam earthquake with circular boulder formation in the riverbed."]
+}, {
+  "id": "tezu-lohit",
+  "name": "Tezu",
+  "state": "Arunachal Pradesh",
+  "category": "other",
+  "description": "Headquarters town of Lohit district and gateway to the Lohit Valley, serving as base for Parshuram Kund, Glow Lake and Mishmi cultural experiences. Known for secular harmony with temple, monastery and gurudwara in the same compound.",
+  "coordinates": {"lat": 27.9126, "lon": 96.1288},
+  "tags": ["town", "district-hq", "base-camp", "culture", "river-views"],
+  "facts": ["Elevation about 185 m; on the banks of the Lohit River.", "Mishmi tribes maintain traditional king and queen residence in the area.", "Tezu Airport (TEI) provides connectivity; nearest major airport Dibrugarh.", "Ideal base for river rafting, hiking and visits to nearby spiritual and nature sites."]
+}, {
+  "id": "glow-lake-lohit",
+  "name": "Glow Lake (Glaw Tuwi)",
+  "state": "Arunachal Pradesh",
+  "category": "nature",
+  "description": "Pristine high-altitude freshwater lake inside Kamlang Wildlife Sanctuary near Wakro, accessible only by trek. Surrounded by dense evergreen forests, orchids and Himalayan flora; recently designated India's 101st Ramsar Site.",
+  "coordinates": {"lat": 27.6964, "lon": 96.4531},
+  "tags": ["lake", "trek", "wildlife", "ramsar", "offbeat", "hidden-gem"],
+  "facts": ["Elevation approximately 1,168 m; area about 8 sq km or 129 ha per Ramsar data.", "Coordinates from Ramsar Information Sheet: 27\u00b041'47\"N 96\u00b027'11\"E.", "Trek from Wakro takes 5\u20138 hours through forests and streams; local Mishmi guides recommended.", "First Ramsar Site in Arunachal Pradesh; headwaters of Kamlang River."]
+}, {
+  "id": "kamlang-wildlife-sanctuary-lohit",
+  "name": "Kamlang Wildlife Sanctuary",
+  "state": "Arunachal Pradesh",
+  "category": "wildlife",
+  "description": "Protected area covering 783 sq km in southern Lohit, home to tigers, clouded leopards, Mishmi takin and rich orchid diversity. Contains Glow Lake and borders Namdapha National Park; one of India's tiger reserves.",
+  "coordinates": {"lat": 27.6667, "lon": 96.4333},
+  "tags": ["wildlife", "tiger-reserve", "biodiversity", "trek", "nature"],
+  "facts": ["Established 1989; coordinates approximate centre from Wikipedia 27\u00b040\u2032N 96\u00b026\u2032E.", "Northern boundary Lang River; southern border with Namdapha.", "Nearest town Wakro; supports all four big cats found in India in the broader landscape.", "Ideal for birdwatching, orchid viewing and eco-tourism with proper permits."]
+}, {
+  "id": "wakro-lohit",
+  "name": "Wakro",
+  "state": "Arunachal Pradesh",
+  "category": "offbeat",
+  "description": "Circle headquarters village and gateway to Kamlang Wildlife Sanctuary and Glow Lake, known for Mishmi culture, orange orchards and scenic hills. Serves as starting point for Glow Lake treks.",
+  "coordinates": {"lat": 27.7830, "lon": 96.3479},
+  "tags": ["village", "gateway", "culture", "mishmi", "orchards"],
+  "facts": ["Population about 1,215 (2011 Census); primarily Mishmi people.", "Coordinates from Wikipedia: 27\u00b046\u203259\u2033N 96\u00b020\u203252\u2033E.", "Connected by NH-13 and NH-15; PIN 792102.", "Base for Glow Lake trek and visits to Parshuram Kund nearby."]
+}, {
+  "id": "lohit-view-point-tohangam",
+  "name": "Lohit View Point (Tohangam)",
+  "state": "Arunachal Pradesh",
+  "category": "nature",
+  "description": "Scenic viewpoint on rocky hills at Tohangam, about 32 km from Tezu on the road toward Hayuliang, offering panoramic sunrise and sunset views of the Lohit Valley.",
+  "coordinates": {"lat": 27.5526, "lon": 96.1455},
+  "tags": ["viewpoint", "sunrise", "sunset", "valley-views", "picnic"],
+  "facts": ["Officially listed by Lohit district NIC as a top tourist destination.", "Approximate coordinates based on Tohangam village/post office data.", "Ideal for dry picnic and photography of the magnificent Lohit valley.", "On the historic route toward eastern frontier areas."]
+}, {
+  "id": "district-museum-tezu-lohit",
+  "name": "District Museum and Craft Centre (Tezu)",
+  "state": "Arunachal Pradesh",
+  "category": "heritage",
+  "description": "Cultural centre in Tezu showcasing books, crafts, handloom and artefacts of Mishmi, Khamti and other communities of Arunachal Pradesh.",
+  "tags": ["museum", "crafts", "culture", "heritage", "tribal"],
+  "facts": ["Listed among main attractions of Tezu by official district tourism page.", "Houses traditional textiles, tribal art and ethnographic displays.", "Central location in Tezu makes it easily accessible for visitors."]
+}, {
+  "id": "buddha-vihar-tezu-lohit",
+  "name": "Buddha Vihar (Chong, Tezu)",
+  "state": "Arunachal Pradesh",
+  "category": "spiritual",
+  "description": "Local Buddhist monastery known as Chong in Tezu, serving the Buddhist community with prayer halls, golden Buddha statue and cultural gatherings of Khamti and Mishmi tribes.",
+  "tags": ["buddhist", "monastery", "spiritual", "culture"],
+  "facts": ["Official district tourism lists Buddha-Vihar among Tezu's main attractions.", "Locally called Chong; hosts community events and daily rituals.", "Part of the secular complex atmosphere in Tezu alongside temple and gurudwara."]
+}, {
+  "id": "lohit-river-lohit",
+  "name": "Lohit River",
+  "state": "Arunachal Pradesh",
+  "category": "nature",
+  "description": "Major tributary of the Brahmaputra flowing through Lohit district, offering river rafting, angling, scenic riverside views and the sacred setting for Parshuram Kund.",
+  "tags": ["river", "rafting", "angling", "scenic", "adventure"],
+  "facts": ["District named after the river; flows past Tezu and Parshuram Kund.", "Popular for river rafting and angling from Tezu base.", "Forms the sacred Brahmakund area linked to Parashurama legend."]
+}]
