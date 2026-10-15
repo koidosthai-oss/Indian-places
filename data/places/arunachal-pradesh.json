@@ -1,1 +1,122 @@
-$(cat /tmp/arunachal-pradesh-updated.json)
+[
+  {
+    "id": "raga-kamle-arunachal-pradesh",
+    "name": "Raga",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "District headquarters and main town of Kamle district, serving as the primary gateway and administrative hub for exploring the surrounding hills, forests, and river valleys of central Arunachal Pradesh.",
+    "coordinates": {"lat": 27.8, "lon": 94.075},
+    "tags": ["town", "headquarters", "gateway", "lesser-known"],
+    "facts": [
+      "Headquarters of Kamle district, created in 2017 from parts of Lower and Upper Subansiri",
+      "Located approximately 44 km north of Ziro and about 100 km from Itanagar",
+      "Main population center and starting point for local tourism and cultural experiences among Nyishi communities",
+      "Coordinates from Wikipedia and geographic records"
+    ]
+  },
+  {
+    "id": "kamle-river-arunachal-pradesh",
+    "name": "Kamle River",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Major river after which the district is named, a tributary of the Subansiri, offering opportunities for rafting, angling, and scenic river journeys through forested hills.",
+    "coordinates": null,
+    "tags": ["river", "rafting", "angling", "nature", "offbeat"],
+    "facts": [
+      "Namesake of Kamle district; joins the Subansiri River before reaching the Brahmaputra",
+      "District administration has organized angling and rafting expeditions to promote tourism",
+      "Scenic stretches suitable for eco-tourism and adventure activities",
+      "Flows through multiple circles including areas near Raga and Dollungmukh"
+    ]
+  },
+  {
+    "id": "rach-ratch-confluence-kamle",
+    "name": "Rach-Ratch Confluence",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Confluence of the Kamle and Subansiri rivers near Dollungmukh, identified for potential river tourism development including boating and eco-tourism.",
+    "coordinates": null,
+    "tags": ["confluence", "river", "eco-tourism", "hidden-gem", "offbeat"],
+    "facts": [
+      "Visited by Chief Minister Pema Khandu and officials in 2026 to assess river tourism potential",
+      "Part of a navigable stretch from the Subansiri Lower Hydroelectric Project site",
+      "Plans announced for master plan, yacht procurement, and sustainable marine/river tourism",
+      "Located in the Dollungmukh area of Kamle district"
+    ]
+  },
+  {
+    "id": "godak-village-kamle",
+    "name": "Godak Village",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Village in Kamle district featuring lesser-known historic sites Tulum Sibla and Kuru Luktu, highlighted for cultural and heritage tourism potential.",
+    "coordinates": null,
+    "tags": ["village", "heritage", "cultural", "hidden-gem", "offbeat"],
+    "facts": [
+      "District Commissioner visited Tulum Sibla and Kuru Luktu sites to promote them as heritage destinations",
+      "Reflects deep-rooted local history and is promoted as a hidden gem for visitors",
+      "Suitable for cultural immersion and camping in surrounding areas",
+      "Part of the Nyishi cultural landscape of Kamle"
+    ]
+  },
+  {
+    "id": "megdong-village-kamle",
+    "name": "Megdong Village",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Rural village in Kamle district known for Nyishi tribal culture, traditional lifestyle, and community experiences under the Vibrant Village Programme.",
+    "coordinates": null,
+    "tags": ["village", "cultural", "tribal", "nyishi", "offbeat", "homestay-potential"],
+    "facts": [
+      "Hosted NCC cadets under Vibrant Village Programme for cultural exchange with Nyishi community",
+      "Residents primarily of the Dong title within the Nyishi tribe",
+      "Offers insights into traditional attire, customs, agriculture, and rural life amid hills",
+      "Promoted for rural tourism and homestay initiatives in the Kamle basin"
+    ]
+  },
+  {
+    "id": "dollungmukh-kamle",
+    "name": "Dollungmukh",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Administrative circle and settlement near the Kamle-Subansiri confluence, serving as a base for river-related tourism and local community access.",
+    "coordinates": null,
+    "tags": ["circle", "town", "river-access", "offbeat"],
+    "facts": [
+      "One of the five primary administrative circles of Kamle district",
+      "Proximity to Rach-Ratch confluence makes it relevant for emerging river tourism",
+      "Local residents involved in supporting hydroelectric and potential tourism projects",
+      "Part of the district's hilly and forested terrain"
+    ]
+  },
+  {
+    "id": "kamporijo-kamle",
+    "name": "Kamporijo",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Administrative circle in Kamle district with villages and river valleys, offering offbeat exploration of Nyishi landscapes and potential trekking or nature walks.",
+    "coordinates": null,
+    "tags": ["circle", "village", "nature", "offbeat"],
+    "facts": [
+      "One of the main administrative circles with a significant number of villages",
+      "Located in the central part of the district with forested hills",
+      "Suitable for cultural and nature-based visits away from major tourist circuits",
+      "Part of the areas from which Kamle district was formed"
+    ]
+  },
+  {
+    "id": "gepen-kamle",
+    "name": "Gepen",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Administrative circle and surrounding villages in Kamle, representing typical rural Nyishi settlements with scenic hill and forest surroundings for offbeat tourism.",
+    "coordinates": null,
+    "tags": ["circle", "village", "cultural", "offbeat"],
+    "facts": [
+      "One of the five primary circles of Kamle district",
+      "Consists of multiple villages in hilly terrain",
+      "Offers potential for community-based tourism and nature experiences",
+      "Inhabited primarily by Nyishi communities"
+    ]
+  }
+]
