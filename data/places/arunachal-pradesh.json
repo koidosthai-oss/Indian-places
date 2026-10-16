@@ -1,1 +1,1 @@
-FULL_JSON_CONTENT_HERE
+$(cat /tmp/tawang_places.json)
