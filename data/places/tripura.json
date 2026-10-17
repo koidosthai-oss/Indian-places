@@ -1,1 +1,27 @@
-PLACEHOLDER
+[
+  {
+    "id": "unakoti-heritage-site",
+    "name": "Unakoti Heritage Site (Rock Carvings)",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Ancient open-air gallery of colossal rock-cut sculptures and bas-reliefs of Hindu deities, primarily Shaivite, carved into the hillsides of Unakoti. Centerpiece is the ~30-foot Unakotiswara Kal Bhairava (Shiva head). Dates to 7th-9th century CE; UNESCO Tentative World Heritage Site since 2022. Also known as Subrai Khung.",
+    "coordinates": {
+      "lat": 24.317,
+      "lon": 92.067
+    },
+    "tags": [
+      "rock-carvings",
+      "shaivite",
+      "unesco-tentative",
+      "heritage",
+      "offbeat",
+      "pilgrimage"
+    ],
+    "facts": [
+      "Name means 'one less than a crore' from local legend of 99,99,999 carvings",
+      "About 8 km east of Kailashahar, 178 km from Agartala",
+      "Annual Ashokastami Mela attracts thousands of pilgrims",
+      "ASI protected site with streams and forested setting"
+    ]
+  }
+]
