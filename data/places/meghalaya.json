@@ -1,1 +1,88 @@
-[PLACEHOLDER_TOO_LONG]
+[
+  {
+    "id": "nongkhnum-river-island",
+    "name": "Nongkhnum River Island",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Largest river island in Meghalaya, formed by the bifurcation of the Kynshi River into Phanliang and Namliang. Features sandy beaches, clear streams, grasslands, and nearby waterfalls. About 14 km from Nongstoin; often called Asia's second-largest river island (though the claim is exaggerated).",
+    "coordinates": {
+      "lat": 25.444,
+      "lon": 91.253
+    },
+    "tags": ["river-island", "nature", "beach", "offbeat", "kynshi-river", "hidden-gem"],
+    "facts": [
+      "Area approximately 21 km\u00b2",
+      "About 14 km from Nongstoin, West Khasi Hills HQ",
+      "Access via bridge over Weinia Falls or ferry in some seasons",
+      "Low tourist infrastructure, ideal for quiet nature visits"
+    ]
+  },
+  {
+    "id": "langshiang-falls",
+    "name": "Langshiang Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Major plunge waterfall on the Kynshi River near Sangriang village, about 24 km from Nongstoin. Claimed height around 337 m (needs confirmation); offers panoramic views of green hills and can be viewed from Mawpon village. Also known as Kshaid Ur-Nar.",
+    "coordinates": {
+      "lat": 25.44521,
+      "lon": 91.22866
+    },
+    "tags": ["waterfall", "nature", "offbeat", "kynshi-river", "photography"],
+    "facts": [
+      "Located near Sangriang village, 24 km from Nongstoin",
+      "Formed by Kynshi River after island split",
+      "Short trek from village; low crowds",
+      "One of the taller waterfalls in Meghalaya"
+    ]
+  },
+  {
+    "id": "weinia-falls",
+    "name": "Weinia Falls (Kshaid Weinia)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Powerful waterfall near Nongkhnum Island on the Kynshi River system, surrounded by dense forest and cliffs. Entry point to the island via bridge over the falls in some descriptions; popular with locals for picnics and fishing pools nearby.",
+    "coordinates": {
+      "lat": 25.4489,
+      "lon": 91.245
+    },
+    "tags": ["waterfall", "nature", "offbeat", "nongkhnum", "forest"],
+    "facts": [
+      "Near Nongkhnum River Island, West Khasi Hills",
+      "About 14-20 km from Nongstoin",
+      "Bridge over falls used to access island",
+      "Best after monsoon for full flow"
+    ]
+  },
+  {
+    "id": "nongstoin-town",
+    "name": "Nongstoin Town",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "District headquarters of West Khasi Hills, a quiet hill town at about 1,400 m elevation. Serves as the main base for exploring Nongkhnum Island, nearby waterfalls, and Khasi cultural areas. Features local markets and is the administrative center for the district.",
+    "coordinates": {
+      "lat": 25.51704,
+      "lon": 91.26484
+    },
+    "tags": ["town", "gateway", "base", "khasi", "hq"],
+    "facts": [
+      "Headquarters of West Khasi Hills district",
+      "Elevation around 1409 m",
+      "About 90-100 km from Shillong",
+      "Base for day trips to Nongkhnum and falls"
+    ]
+  },
+  {
+    "id": "mawlangkhar-village",
+    "name": "Mawlangkhar Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Peaceful offbeat village in West Khasi Hills near Nongstoin, surrounded by forests, streams, and scenic hills. Often compared to a mini Dzukou for its meadows and calm atmosphere; offers trails, traditional Khasi culture, and quiet nature experiences away from popular tourist circuits.",
+    "tags": ["village", "offbeat", "hidden-gem", "khasi-culture", "nature", "meadows"],
+    "facts": [
+      "About 12-14 km from Nongstoin",
+      "Referred to as Meghalaya's Dzukou Valley in local descriptions",
+      "Traditional Khasi matrilineal community",
+      "Ideal for slow, quiet nature stays"
+    ]
+  }
+]
