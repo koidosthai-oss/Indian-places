@@ -84,5 +84,131 @@
       "Traditional Khasi matrilineal community",
       "Ideal for slow, quiet nature stays"
     ]
+  },
+  {
+    "id": "mairang-town",
+    "name": "Mairang Town",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "District headquarters of Eastern West Khasi Hills, a quiet hill town at about 1,564 m elevation on the Shillong-Nongstoin road. Serves as the main gateway and base for exploring Kyllang Rock, Mawthadraishan Peak, nearby valleys, and Khasi cultural sites. Features local markets and administrative offices.",
+    "coordinates": {
+      "lat": 25.56165,
+      "lon": 91.63602
+    },
+    "tags": ["town", "gateway", "base", "khasi", "hq", "hill-station"],
+    "facts": [
+      "Headquarters of Eastern West Khasi Hills district (created 2021)",
+      "Elevation around 1564 m",
+      "About 40-45 km from Shillong on NH-106",
+      "Base for day trips to Kyllang Rock and Mawthadraishan"
+    ]
+  },
+  {
+    "id": "mawthadraishan-peak",
+    "name": "Mawthadraishan Peak",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Highest peak in Eastern West Khasi Hills at 1,924.5 m, located midway between Mairang and Nongstoin on the Mawthadraishan Range. Offers panoramic views of Assam plains, Garo Hills, Khasi Hills, and distant Himalayas on clear days. Features small natural ponds near the summit; popular for short treks and photography.",
+    "coordinates": {
+      "lat": 25.519,
+      "lon": 91.455
+    },
+    "tags": ["peak", "viewpoint", "trek", "hill-station", "nature", "offbeat"],
+    "facts": [
+      "Elevation 1924.5 m, highest in the district",
+      "Located approximately midway between Mairang and Nongstoin",
+      "Short trek from nearby villages like Mawroh or Nongshillong",
+      "Clear post-monsoon views of Himalayas possible"
+    ]
+  },
+  {
+    "id": "kyllang-rock",
+    "name": "Kyllang Rock",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Massive monolithic granite dome (locally Lum Kyllang) rising about 1,774 m near Mairang. Steeped in Khasi folklore as a figure who battled Symper Rock; climbable via a short trail with rest points for panoramic views of pine forests, valleys, and villages. Northern and eastern flanks accessible; southern side steep with detached blocks.",
+    "coordinates": {
+      "lat": 25.60347,
+      "lon": 91.55827
+    },
+    "tags": ["rock", "monolith", "trek", "folklore", "nature", "offbeat", "viewpoint"],
+    "facts": [
+      "About 10-13 km from Mairang, ~55-60 km from Shillong",
+      "Diameter ~300 m, elevation ~1774 m",
+      "Linked to Khasi legends of gods Kyllang and Symper",
+      "Short uphill trail from base; best October to April"
+    ]
+  },
+  {
+    "id": "markham-remkhla-valley",
+    "name": "Markham and Remkhla Valley",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic rolling hills and valleys (locally Laitmurok viewpoint) spanning Markham and Mawkyllei villages on the border area of Eastern West Khasi Hills and South West Khasi Hills. Known for misty mornings, green grasslands, grazing lands, and tranquil rural landscapes. Remkhla section features streams and hanging bridges.",
+    "coordinates": {
+      "lat": 25.46281,
+      "lon": 91.54548
+    },
+    "tags": ["valley", "viewpoint", "nature", "offbeat", "grasslands", "hidden-gem"],
+    "facts": [
+      "Located between Markham and Mawkyllei villages",
+      "About 25 km from Mairang",
+      "Features Wahrilang hanging bridges in Remkhla section",
+      "Emerging offbeat destination with low infrastructure"
+    ]
+  },
+  {
+    "id": "ka-phan-nonglait-falls",
+    "name": "Ka Phan Nonglait Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Serene waterfall in lush forests of Eastern West Khasi Hills, named after an unsung warrior who fought the British. Surrounded by dense greenery, it offers a peaceful atmosphere for nature visits and short trails.",
+    "coordinates": {
+      "lat": 25.61457,
+      "lon": 91.61441
+    },
+    "tags": ["waterfall", "nature", "offbeat", "forest", "heritage"],
+    "facts": [
+      "Named after local warrior Phan Nonglait",
+      "Near Mairang area in Eastern West Khasi Hills",
+      "Surrounded by dense forest; low crowds",
+      "Official tourism-listed attraction"
+    ]
+  },
+  {
+    "id": "tirot-sing-ecological-park",
+    "name": "Tirot Sing Ecological Park",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Recreational park in Mairangbah village featuring a colonial-era pine tree, statue of U Tirot Sing (Khasi freedom fighter), children's play area, and viewpoints for sunrise/sunset over Mairang Town. Combines history, nature, and local culture.",
+    "coordinates": {
+      "lat": 25.56983,
+      "lon": 91.63774
+    },
+    "tags": ["park", "heritage", "statue", "viewpoint", "recreation", "history"],
+    "facts": [
+      "Located in Mairangbah village near Mairang Town",
+      "Features U Tirot Sing statue and colonial pine tree",
+      "Play area and town views",
+      "Named after the Siem of Nongkhlaw who resisted British rule"
+    ]
+  },
+  {
+    "id": "law-lyngdoh-nonglait-sacred-grove",
+    "name": "Law Lyngdoh Nonglait Sacred Grove",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Protected sacred forest (Law Kyntang) in the Nonglait/Lawbyrtun-Mawkyllei area of Eastern West Khasi Hills, managed by local clans. High biodiversity with rare flora; traditional taboos prohibit removal of anything from the grove. One of the larger groves in the region supporting streams and cultural rituals.",
+    "coordinates": {
+      "lat": 25.4867,
+      "lon": 91.5064
+    },
+    "tags": ["sacred-grove", "nature", "biodiversity", "khasi-culture", "offbeat", "forest"],
+    "facts": [
+      "Approximately 50 hectares, clan-managed",
+      "Located near Nonglait village, Mawthadraishan area",
+      "High species diversity; traditional protection by beliefs",
+      "Part of broader Law Lyngdoh sacred forest network"
+    ]
   }
 ]
