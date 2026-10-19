@@ -118,5 +118,108 @@
     "coordinates": {"lat": 25.4, "lon": 92.15},
     "tags": ["stone-bridge", "heritage", "waterfall", "architecture"],
     "facts": ["About 16 km from Jowai", "Features traditional granite slab bridge", "Adjacent waterfall", "Showcases local craftsmanship"]
+  },
+  {
+    "id": "khliehriat-town",
+    "name": "Khliehriat Town",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters of East Jaintia Hills district, a mining and transit hub on the plateau with Pnar cultural influences, government facilities, and access to surrounding caves and waterfalls.",
+    "coordinates": {"lat": 25.359, "lon": 92.367},
+    "tags": ["district-hq", "mining-area", "transit", "pnar-culture"],
+    "facts": ["Elevation around 1164 metres", "District created in 2012 from Jaintia Hills", "About 55 km from Shillong", "Gateway to Shnongrim Ridge caves"]
+  },
+  {
+    "id": "moopun-waterfalls",
+    "name": "Moopun Waterfalls and Stone Bridge",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic waterfall on the Umjhai River at Mutong village dropping about 110 feet into a sandy pool, topped by a traditional stone bridge and natural swimming pool. Features rare pitcher plants on the rocks.",
+    "coordinates": {"lat": 25.341, "lon": 92.592},
+    "tags": ["waterfall", "stone-bridge", "swimming-pool", "pitcher-plants", "hidden-gem"],
+    "facts": ["About 25 km equidistant from Jowai and Khliehriat", "Short 5-minute walk from parking", "Stone bridge connects both banks", "Linked by legend to Umhang Lake"]
+  },
+  {
+    "id": "umhang-lake",
+    "name": "Umhang Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Largest natural lake in the Jaintia Hills, located at Bataw village and surrounded by dense forest. Revered locally with a legend of formation from a spring scratched by an old woman of the Suchiang clan.",
+    "coordinates": {"lat": 25.230, "lon": 92.244},
+    "tags": ["lake", "natural", "folklore", "forest", "peaceful"],
+    "facts": ["About 29 km from Khliehriat", "Largest lake in Jaintia Hills", "Sacred to local villagers", "Best visited September to May"]
+  },
+  {
+    "id": "krem-liat-prah",
+    "name": "Krem Liat Prah",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Longest natural cave in India and South Asia (explored length about 34 km and growing) on the Shnongrim Ridge. Features massive chambers including the Aircraft Hangar trunk passage; expedition caving only with guides.",
+    "coordinates": {"lat": 25.374, "lon": 92.5388},
+    "tags": ["cave", "longest-cave", "caving", "limestone", "expedition", "offbeat"],
+    "facts": ["One of ~150 caves on Shnongrim Ridge", "Aircraft Hangar is a vast trunk passage", "Requires experienced guides and gear", "Best October to April; avoid monsoon flooding"]
+  },
+  {
+    "id": "borghat-temple",
+    "name": "Borghat Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Historic brick temple dedicated to Lord Shiva in Borghat (Shilliangpusi) village, built by early Jaintia rulers who embraced Hinduism. Features unique carvings and stands near the old Borkhat Palace ruins.",
+    "tags": ["shiva-temple", "heritage", "jaintia-kings", "carvings"],
+    "facts": ["About 49 km from Khliehriat", "One of the earliest Hindu temples in the region", "Animal sacrifices historically performed", "Near Bataw and Umhang Lake"]
+  },
+  {
+    "id": "rynji-falls",
+    "name": "Rynji Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Powerful waterfall in Cham Cham village area on rocky terrain, creating a dramatic cascade. Requires a moderate walk from the nearest road and borders West Jaintia Hills.",
+    "tags": ["waterfall", "rocky", "trekking", "scenic"],
+    "facts": ["About 3 km from Mutong village", "Less accessible, few hours walk", "Roaring multi-stage cascade", "Unique rocky path"]
+  },
+  {
+    "id": "umbyrlein-falls",
+    "name": "Umbyrlein Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Iconic waterfall at Rangad village, offering scenic views and a relatively accessible nature spot in the district.",
+    "tags": ["waterfall", "scenic", "nature"],
+    "facts": ["About 36 km from Jowai", "In Rangad Village", "Popular local attraction", "Part of official tourism listings"]
+  },
+  {
+    "id": "sahksaw-fish-sanctuary",
+    "name": "Sahksaw Fish Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Tranquil community fish sanctuary at Cham Cham village, a picturesque spot for observing aquatic life in clear waters amid rural surroundings.",
+    "tags": ["fish-sanctuary", "community", "tranquil", "wildlife"],
+    "facts": ["About 700 metres from Cham Cham village centre", "Protected local fishery", "Scenic and peaceful", "Ideal for short visits"]
+  },
+  {
+    "id": "tisang-river",
+    "name": "Tisang River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic river near Borghat village flowing through forests and villages, popular for riverside camping and adventure activities.",
+    "tags": ["river", "camping", "forest", "adventure"],
+    "facts": ["Approached from Borghat about 50 km from Khliehriat", "Hotspot for riverside camping", "Surrounded by forests", "Flows toward Bangladesh"]
+  },
+  {
+    "id": "lukha-river-bridge",
+    "name": "Lukha River and Bridge",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic stretch of the Lukha River at Sonapur with the district's longest concrete arch bridge, connecting to eastern Assam and offering mountain and landscape views as it flows toward Bangladesh.",
+    "tags": ["river", "bridge", "scenic", "transit"],
+    "facts": ["About 40 km from Khliehriat", "Longest bridge in the district", "Main link to eastern Assam", "Bounded by mountains"]
+  },
+  {
+    "id": "moolamylliang-village",
+    "name": "Moolamylliang Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Village in Saipung block offering adventure, natural scenery and recreational experiences in a relatively unexplored rural setting of East Jaintia Hills.",
+    "tags": ["offbeat", "village", "adventure", "scenic"],
+    "facts": ["In Saipung Block", "Listed for adventure and scenic beauty", "Less commercialised", "Rural Pnar setting"]
   }
 ]
