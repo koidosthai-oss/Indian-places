@@ -1,1 +1,822 @@
-PLACEHOLDER
+[
+  {
+    "id": "krang-suri-falls",
+    "name": "Krang Suri Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Iconic turquoise waterfall near Amlarem in West Jaintia Hills, famous for its vivid blue-green waters, natural swimming pool, and short forest trek. One of Meghalaya's most photogenic spots.",
+    "coordinates": {
+      "lat": 25.2873,
+      "lon": 92.1257
+    },
+    "tags": [
+      "waterfall",
+      "swimming",
+      "photography",
+      "hidden-gem"
+    ],
+    "facts": [
+      "Located about 30 km from Jowai and 90 km from Shillong.",
+      "Entry fee around ₹50; life jackets available for swimming.",
+      "Best visited October to April for clearest water.",
+      "Short 15-20 minute trek from parking."
+    ]
+  },
+  {
+    "id": "dawki-umngot-river",
+    "name": "Dawki and Umngot River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Border town on the India-Bangladesh frontier famous for the crystal-clear Umngot River where boats appear to float in mid-air. Features the historic British-era suspension bridge.",
+    "coordinates": {
+      "lat": 25.1833,
+      "lon": 92.0167
+    },
+    "tags": [
+      "river",
+      "border",
+      "boating",
+      "photography"
+    ],
+    "facts": [
+      "Umngot River is among India's cleanest rivers.",
+      "Dawki Bridge built by the British in 1932.",
+      "Boating popular especially in dry season (Nov-Mar).",
+      "Integrated Check Post for trade with Bangladesh."
+    ]
+  },
+  {
+    "id": "shnongpdeng",
+    "name": "Shnongpdeng",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Riverside village upstream of Dawki on the Umngot River, known for camping, kayaking, cliff jumping, and quieter pebble beaches away from the main border traffic.",
+    "coordinates": {
+      "lat": 25.2076,
+      "lon": 92.0088
+    },
+    "tags": [
+      "camping",
+      "kayaking",
+      "adventure",
+      "river"
+    ],
+    "facts": [
+      "About 8 km upstream from Dawki.",
+      "Popular for overnight riverside camps and adventure sports.",
+      "Clearer and calmer water compared to Dawki ghat.",
+      "Local operators offer guided activities."
+    ]
+  },
+  {
+    "id": "nartiang-monoliths",
+    "name": "Nartiang Monoliths",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Largest concentration of megaliths and menhirs in Meghalaya, erected by Jaintia kings and clans between the 16th and 19th centuries. Includes the tallest menhir in the region.",
+    "coordinates": {
+      "lat": 25.5689,
+      "lon": 92.2088
+    },
+    "tags": [
+      "megaliths",
+      "heritage",
+      "history",
+      "archaeology"
+    ],
+    "facts": [
+      "Declared of national importance; largest single collection in Khasi-Jaintia Hills.",
+      "Tallest menhir erected by Mar Phalyngki commemorates a victory.",
+      "Located north of Nartiang market; open site.",
+      "Linked to the summer capital of the Jaintia kingdom."
+    ]
+  },
+  {
+    "id": "nartiang-durga-temple",
+    "name": "Nartiang Durga Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "One of the 51 Shakti Peethas, where the left thigh of Sati is believed to have fallen. Ancient temple dedicated to Goddess Jayanti (Durga), blending Jaintia and Hindu traditions.",
+    "coordinates": {
+      "lat": 25.567,
+      "lon": 92.209
+    },
+    "tags": [
+      "shakti-peeth",
+      "temple",
+      "pilgrimage",
+      "durga"
+    ],
+    "facts": [
+      "Approximately 600 years old; associated with Jaintia kings.",
+      "Shakti known as Jayanti, Bhairava as Kamadishwar.",
+      "Major pilgrimage site especially during Durga Puja.",
+      "Located in Nartiang village, about 25 km from Jowai."
+    ]
+  },
+  {
+    "id": "thadlaskein-lake",
+    "name": "Thadlaskein Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Historic man-made lake (also called Pung Sajar Nangli) beside NH6 near Mukhla village, created according to legend by Sajar Nangli and his followers. Popular picnic and boating spot.",
+    "coordinates": {
+      "lat": 25.497,
+      "lon": 92.173
+    },
+    "tags": [
+      "lake",
+      "picnic",
+      "legend",
+      "boating"
+    ],
+    "facts": [
+      "Located about 10 km from Jowai and 58 km from Shillong.",
+      "Folktale attributes its creation to digging with bow tips.",
+      "Sacred site for local Niamtre community in the past.",
+      "Easily accessible on the Shillong-Jowai highway."
+    ]
+  },
+  {
+    "id": "jowai-town",
+    "name": "Jowai",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters of West Jaintia Hills district and cultural hub of the Pnar (Jaintia) people, situated on a plateau surrounded by the Myntdu River. Gateway to many attractions in the district.",
+    "coordinates": {
+      "lat": 25.436,
+      "lon": 92.191
+    },
+    "tags": [
+      "town",
+      "gateway",
+      "culture",
+      "pnar"
+    ],
+    "facts": [
+      "Elevation around 1,365–1,380 m.",
+      "Population about 28,430 (2011 Census).",
+      "Important education and business center for the district.",
+      "Home to markets, churches, and starting point for day trips."
+    ]
+  },
+  {
+    "id": "tyrshi-falls",
+    "name": "Tyrshi Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic multi-tiered waterfall near Jowai off NH6, accessible via a short walk across an arch bridge over paddy fields. Offers views of cascading water and surrounding valleys.",
+    "coordinates": {
+      "lat": 25.4714,
+      "lon": 92.1914
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "photography"
+    ],
+    "facts": [
+      "About 5–8 km from Jowai town.",
+      "Named after a local warrior in legend.",
+      "Short walk from the road; views from upper and lower levels.",
+      "Less crowded alternative to more famous falls."
+    ]
+  },
+  {
+    "id": "thlu-muwi",
+    "name": "Thlu Muwi Stone Bridge",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Historic megalithic stone bridge built by Jaintia warriors under royal orders for the king's passage over the Muwi stream. Accompanied by nearby waterfalls.",
+    "coordinates": {
+      "lat": 25.4,
+      "lon": 92.15
+    },
+    "tags": [
+      "stone-bridge",
+      "heritage",
+      "megalith",
+      "waterfall"
+    ],
+    "facts": [
+      "Located about 16 km from Jowai on the road to Dawki.",
+      "Built with large hewn granite slabs on pillars.",
+      "Constructed to facilitate travel from Jaintiapur to Nartiang summer capital.",
+      "Nearby Muwi Waterfalls add scenic value."
+    ]
+  },
+  {
+    "id": "ialong-park",
+    "name": "Ialong Park",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ecological park and sacred grove about 8 km from Jowai, offering panoramic views of the Pynthorwah Valley and Myntdu River. Features walking trails and natural settings.",
+    "coordinates": {
+      "lat": 25.45,
+      "lon": 92.22
+    },
+    "tags": [
+      "park",
+      "viewpoint",
+      "sacred-grove",
+      "nature"
+    ],
+    "facts": [
+      "Developed with tourism infrastructure including facilities.",
+      "Overlooks beautiful valley landscapes.",
+      "Includes elements of local sacred forests.",
+      "Popular for family outings and photography."
+    ]
+  },
+  {
+    "id": "syntu-ksiar",
+    "name": "Syntu Ksiar",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Picturesque riverside valley and picnic spot on the Myntdu River near Jowai, meaning 'golden flower'. Site of historical significance related to freedom fighter Kiang Nangbah; features a suspension bridge.",
+    "coordinates": {
+      "lat": 25.43,
+      "lon": 92.19
+    },
+    "tags": [
+      "river",
+      "picnic",
+      "heritage",
+      "bridge"
+    ],
+    "facts": [
+      "About 7 km from Jowai.",
+      "Historical site of the freedom struggle against the British.",
+      "Popular local picnic and angling spot.",
+      "Suspension bridge across the river."
+    ]
+  },
+  {
+    "id": "phe-phe-falls",
+    "name": "Phe Phe Falls",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Hidden two-tiered waterfall near Shkentalang village, requiring a short trek through meadows and forest. Known for turquoise pools and relative seclusion.",
+    "coordinates": {
+      "lat": 25.35,
+      "lon": 92.161
+    },
+    "tags": [
+      "waterfall",
+      "trek",
+      "hidden-gem",
+      "offbeat"
+    ],
+    "facts": [
+      "About 20–30 km from Jowai; near Krang Suri route.",
+      "Name means 'paradise' in local language.",
+      "15–20 minute hike from trailhead; local guide recommended.",
+      "Best October to April; avoid heavy monsoon."
+    ]
+  },
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital of Meghalaya and headquarters of East Khasi Hills, known as the 'Scotland of the East' for its pine-covered hills, colonial charm, and pleasant climate. Major cultural and educational hub with markets, churches, and access to surrounding attractions.",
+    "coordinates": {
+      "lat": 25.5689,
+      "lon": 91.8831
+    },
+    "tags": [
+      "capital",
+      "hill-station",
+      "culture",
+      "gateway"
+    ],
+    "facts": [
+      "Elevation around 1,496 m.",
+      "Named after the deity Lei Shyllong.",
+      "Major base for exploring East Khasi Hills.",
+      "Connected to Guwahati by NH-6."
+    ]
+  },
+  {
+    "id": "shillong-peak",
+    "name": "Shillong Peak",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Highest peak in Meghalaya at about 1,965 m, located 10 km from Shillong city. Offers panoramic views of the city, surrounding hills, and countryside; sacred site for local Khasi traditions with a shrine to U Lei Shyllong.",
+    "coordinates": {
+      "lat": 25.5475,
+      "lon": 91.875
+    },
+    "tags": [
+      "peak",
+      "viewpoint",
+      "sacred",
+      "photography"
+    ],
+    "facts": [
+      "Highest point in the state.",
+      "About 10 km from Shillong.",
+      "Popular for sunrise and sunset views.",
+      "Accessible by road with short walk."
+    ]
+  },
+  {
+    "id": "elephant-falls",
+    "name": "Elephant Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Three-tiered waterfall on the outskirts of Shillong, about 12 km from the city center. The mountain stream cascades through fern-covered rocks in successive drops, easily accessible and popular for short nature visits.",
+    "coordinates": {
+      "lat": 25.53786,
+      "lon": 91.82205
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "photography",
+      "accessible"
+    ],
+    "facts": [
+      "Original Khasi name Ka Kshaid Lai Pateng Khohsiew.",
+      "About 12 km from Shillong on Cherrapunji road.",
+      "Three successive falls.",
+      "Surrounded by lush greenery."
+    ]
+  },
+  {
+    "id": "wards-lake",
+    "name": "Ward's Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Historic man-made lake in central Shillong, also known as Nan Polok, named after Sir William Ward. Features gardens, a footbridge, boating, and a peaceful setting near the Raj Bhavan.",
+    "coordinates": {
+      "lat": 25.575,
+      "lon": 91.887
+    },
+    "tags": [
+      "lake",
+      "park",
+      "boating",
+      "colonial"
+    ],
+    "facts": [
+      "Located in the heart of Shillong.",
+      "Man-made in the late 19th century.",
+      "Popular for boating and walks.",
+      "Surrounded by gardens and pathways."
+    ]
+  },
+  {
+    "id": "sohra-cherrapunji",
+    "name": "Sohra (Cherrapunji)",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Historic town and plateau in East Khasi Hills, once considered the wettest place on Earth. Gateway to major waterfalls, caves, living root bridges, and viewpoints overlooking the Bangladesh plains.",
+    "coordinates": {
+      "lat": 25.284,
+      "lon": 91.721
+    },
+    "tags": [
+      "hill-station",
+      "rainfall",
+      "gateway",
+      "plateau"
+    ],
+    "facts": [
+      "Elevation about 1,430 m.",
+      "Traditional name Sohra.",
+      "Base for Nohkalikai and other attractions.",
+      "Holds records for extreme rainfall."
+    ]
+  },
+  {
+    "id": "nohkalikai-falls",
+    "name": "Nohkalikai Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Tallest plunge waterfall in India at about 340 m (1,115 ft), near Sohra. Fed by plateau rainfall, it plunges into a green pool with a tragic local legend associated with the name.",
+    "coordinates": {
+      "lat": 25.27556,
+      "lon": 91.68667
+    },
+    "tags": [
+      "waterfall",
+      "plunge",
+      "tallest",
+      "photography"
+    ],
+    "facts": [
+      "Height approximately 340 metres.",
+      "About 5 km from Sohra.",
+      "Best viewed in monsoon for full flow.",
+      "Named after legend of Ka Likai."
+    ]
+  },
+  {
+    "id": "nohsngithiang-falls",
+    "name": "Nohsngithiang Falls (Seven Sisters)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Seven-segmented waterfall near Mawsmai, dropping about 315 m over limestone cliffs. Spectacular during monsoon when segments merge; offers views toward the plains.",
+    "coordinates": {
+      "lat": 25.243,
+      "lon": 91.743
+    },
+    "tags": [
+      "waterfall",
+      "segmented",
+      "scenic",
+      "viewpoint"
+    ],
+    "facts": [
+      "Also known as Seven Sisters Falls.",
+      "Height around 315 metres.",
+      "Near Mawsmai Cave.",
+      "Best in rainy season."
+    ]
+  },
+  {
+    "id": "mawsmai-cave",
+    "name": "Mawsmai Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Accessible limestone show cave near Sohra with lit passages, stalactites, and stalagmites. One of the first tourist caves in the region, about 150 m long and suitable for general visitors.",
+    "coordinates": {
+      "lat": 25.29583,
+      "lon": 91.69056
+    },
+    "tags": [
+      "cave",
+      "limestone",
+      "karst",
+      "accessible"
+    ],
+    "facts": [
+      "About 6 km from Sohra.",
+      "Lit show cave approximately 150 m.",
+      "Rich in calcite formations.",
+      "Near Nohsngithiang Falls."
+    ]
+  },
+  {
+    "id": "double-decker-living-root-bridge-nongriat",
+    "name": "Double Decker Living Root Bridge (Nongriat)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Iconic two-tiered living root bridge in Nongriat village, grown from rubber tree roots by Khasi communities over generations. Requires a challenging trek of about 3,500 steps from Tyrna; UNESCO tentative list related.",
+    "coordinates": {
+      "lat": 25.2781,
+      "lon": 91.6862
+    },
+    "tags": [
+      "living-root-bridge",
+      "trek",
+      "bioengineering",
+      "hidden-gem"
+    ],
+    "facts": [
+      "Located in Nongriat village near Sohra.",
+      "Approximately 180-200 years old.",
+      "Trek from Tyrna involves ~3500 steps.",
+      "Unique stacked double-decker structure."
+    ]
+  },
+  {
+    "id": "mawlynnong-village",
+    "name": "Mawlynnong Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Widely known as Asia's cleanest village, near the India-Bangladesh border. Features living root bridges, bamboo skywalk, meticulously maintained lanes, and community-led conservation in a matrilineal Khasi setting.",
+    "coordinates": {
+      "lat": 25.2018,
+      "lon": 91.916
+    },
+    "tags": [
+      "cleanest-village",
+      "offbeat",
+      "living-root-bridge",
+      "community"
+    ],
+    "facts": [
+      "About 90 km from Shillong.",
+      "Declared cleanest village in Asia in 2003.",
+      "Home to single living root bridge at Riwai.",
+      "Near Bangladesh border."
+    ]
+  },
+  {
+    "id": "laitlum-canyon",
+    "name": "Laitlum Canyon",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Dramatic canyon viewpoint about 25 km from Shillong, offering sweeping views of deep valleys, cliffs, and rolling hills. Features a steep descent of stone steps to remote villages below.",
+    "coordinates": {
+      "lat": 25.4488,
+      "lon": 91.9114
+    },
+    "tags": [
+      "canyon",
+      "viewpoint",
+      "trek",
+      "photography"
+    ],
+    "facts": [
+      "About 25 km from Shillong near Smit.",
+      "Meaning 'end of the hills' in Khasi.",
+      "Popular for panoramic valley views.",
+      "Steep trail of thousands of steps."
+    ]
+  },
+  {
+    "id": "mawphlang-sacred-forest",
+    "name": "Mawphlang Sacred Forest",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ancient sacred grove protected by Khasi traditions for centuries, about 25 km from Shillong. Home to rare plants, old-growth trees, orchids, and biodiversity; entry requires a local guide with strict no-removal rules.",
+    "coordinates": {
+      "lat": 25.4458,
+      "lon": 91.7496
+    },
+    "tags": [
+      "sacred-grove",
+      "forest",
+      "biodiversity",
+      "cultural"
+    ],
+    "facts": [
+      "About 25 km from Shillong.",
+      "Protected by local deity beliefs.",
+      "Guided treks only; nothing to be removed.",
+      "Rich in epiphytes and endemic flora."
+    ]
+  },
+  {
+    "id": "don-bosco-museum",
+    "name": "Don Bosco Centre for Indigenous Cultures (Museum)",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Premier museum in Mawlai, Shillong, showcasing the cultures, artifacts, textiles, and traditions of Northeast India's indigenous communities across seven floors and multiple galleries.",
+    "coordinates": {
+      "lat": 25.5931,
+      "lon": 91.8824
+    },
+    "tags": [
+      "museum",
+      "culture",
+      "heritage",
+      "indigenous"
+    ],
+    "facts": [
+      "Located in Mawlai, about 4 km from central Shillong.",
+      "Inaugurated around 2010.",
+      "Focus on Northeast indigenous cultures.",
+      "Unique hexagonal multi-storey building."
+    ]
+  },
+  {
+    "id": "arwah-cave",
+    "name": "Arwah Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Limestone cave near Sohra known for fossilized marine remains, spacious chambers, and relatively fewer crowds than Mawsmai. Short forest walk from the entrance.",
+    "coordinates": {
+      "lat": 25.3018,
+      "lon": 91.7269
+    },
+    "tags": [
+      "cave",
+      "fossils",
+      "limestone",
+      "offbeat"
+    ],
+    "facts": [
+      "Near Sohra/Cherrapunji.",
+      "Features visible fossils in walls.",
+      "Less crowded alternative to Mawsmai.",
+      "Part of Meghalayan Age Caves tentative sites."
+    ]
+  },
+  {
+    "id": "moopun-waterfalls",
+    "name": "Moopun Waterfalls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic 110-foot waterfall on the Umjhai River at Mutong village, featuring a rare stone bridge above the falls, natural swimming pool below, and pitcher plants growing on the rocks. Short walk from the road with picnic spots.",
+    "coordinates": {
+      "lat": 25.341,
+      "lon": 92.592
+    },
+    "tags": [
+      "waterfall",
+      "stone-bridge",
+      "swimming",
+      "pitcher-plant",
+      "hidden-gem"
+    ],
+    "facts": [
+      "Height about 110 feet, width 50 feet.",
+      "About 25 km from both Jowai and Khliehriat.",
+      "Stone bridge (Moopun) spans the river above the falls.",
+      "Legend links it to the Water Goddess from Umhang Lake."
+    ]
+  },
+  {
+    "id": "umhang-lake",
+    "name": "Umhang Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Largest natural lake in Jaintia Hills, located at Bataw village. Formed according to legend when an old woman scratched the earth for water; surrounded by forests and revered by local communities.",
+    "coordinates": {
+      "lat": 25.23,
+      "lon": 92.244
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "legend",
+      "forest"
+    ],
+    "facts": [
+      "About 29 km from Khliehriat.",
+      "Also known as the Secret Lake in some accounts.",
+      "Sacred to local Pnar communities with annual offerings.",
+      "Connected by all-season road via Rymbai."
+    ]
+  },
+  {
+    "id": "krem-liat-prah",
+    "name": "Krem Liat Prah",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Longest natural cave in India and South Asia, with over 34 km of explored passages on the Shnongrim Ridge. Features vast chambers like the Aircraft Hangar; expedition caving only with guides.",
+    "coordinates": {
+      "lat": 25.374,
+      "lon": 92.5388
+    },
+    "tags": [
+      "cave",
+      "longest-cave",
+      "expedition",
+      "limestone",
+      "adventure"
+    ],
+    "facts": [
+      "Explored length approximately 34 km and growing.",
+      "Located near Shnongrim and Larnai villages.",
+      "Requires organised caving trips; not a casual walk-in.",
+      "Part of the Abode of the Clouds Expedition surveys."
+    ]
+  },
+  {
+    "id": "rynji-falls",
+    "name": "Rynji Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Roaring waterfall near Cham Cham village, about 3 km south of Mutong. Features hard rock formations, stepping natural ponds above the falls, and forest trails for eco-trekking.",
+    "coordinates": {
+      "lat": 25.33,
+      "lon": 92.58
+    },
+    "tags": [
+      "waterfall",
+      "trek",
+      "offbeat",
+      "nature"
+    ],
+    "facts": [
+      "Near Cham Cham village in East Jaintia Hills.",
+      "Accessible via footpaths and pedestrian bridges.",
+      "Popular for angling and nature walks.",
+      "Best in monsoon for full flow."
+    ]
+  },
+  {
+    "id": "umbyrlein-falls",
+    "name": "Umbyrlein Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Iconic waterfall in Rangad Village, East Jaintia Hills, about 36 km from Jowai. Offers scenic cascades amid forested surroundings for nature and photography.",
+    "tags": [
+      "waterfall",
+      "nature",
+      "scenic"
+    ],
+    "facts": [
+      "Located in Rangad Village.",
+      "About 36 km from Jowai.",
+      "Part of local tourism circuit with Moopun and Rynji."
+    ]
+  },
+  {
+    "id": "sahksaw-fish-sanctuary",
+    "name": "Sahksaw Fish Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Tranquil community fish sanctuary at Cham Cham village, 700 metres from the road. Scenic spot for observing protected fish in clear waters amid picturesque surroundings.",
+    "tags": [
+      "fish-sanctuary",
+      "wildlife",
+      "community",
+      "nature"
+    ],
+    "facts": [
+      "Located at Cham Cham village.",
+      "Community-managed conservation site.",
+      "Short walk from the main road."
+    ]
+  },
+  {
+    "id": "borghat-temple",
+    "name": "Borghat Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Historic brick temple in Borghat Village dedicated to Lord Shiva, built by Jaintia ruler U Bor Kuseiñ who embraced Hinduism. Features carvings and stands near the old palace ruins.",
+    "tags": [
+      "temple",
+      "shiva",
+      "heritage",
+      "spiritual"
+    ],
+    "facts": [
+      "About 49 km from Khliehriat.",
+      "Associated with early Hindu influence on Jaintia kings.",
+      "Brick construction with unique carvings."
+    ]
+  },
+  {
+    "id": "tisang-river",
+    "name": "Tisang River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic river near Borghat village, about 50 km from Khliehriat, surrounded by forests and villages. Popular for riverside camping and quiet nature experiences.",
+    "tags": [
+      "river",
+      "camping",
+      "nature",
+      "offbeat"
+    ],
+    "facts": [
+      "Approached from Borghat village.",
+      "Surrounded by forests.",
+      "Hotspot for riverside camping."
+    ]
+  },
+  {
+    "id": "lukha-river-bridge",
+    "name": "Lukha River and Bridge",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Lukha River flowing through mountainous landscape toward Bangladesh, crossed by the longest bridge in the district at Sonapur, about 40 km from Khliehriat. Concrete arch bridge connecting to Assam.",
+    "tags": [
+      "river",
+      "bridge",
+      "scenic",
+      "border"
+    ],
+    "facts": [
+      "About 40 km from Khliehriat.",
+      "Longest bridge in the district.",
+      "River flows toward Bangladesh."
+    ]
+  },
+  {
+    "id": "moolamylliang-village",
+    "name": "Moolamylliang Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Village in Saipung Block known for adventure and scenic beauty, offering recreational and natural experiences in a less-visited part of East Jaintia Hills.",
+    "tags": [
+      "village",
+      "offbeat",
+      "adventure",
+      "scenic"
+    ],
+    "facts": [
+      "Located in Saipung Block.",
+      "Promoted for adventure and nature tourism.",
+      "Relatively unexplored."
+    ]
+  },
+  {
+    "id": "khliehriat-town",
+    "name": "Khliehriat",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters of East Jaintia Hills district, a coal and limestone mining area serving as the main base for exploring the district's waterfalls, caves, and lakes. Features local markets and connectivity via NH-6.",
+    "coordinates": {
+      "lat": 25.359,
+      "lon": 92.367
+    },
+    "tags": [
+      "town",
+      "hq",
+      "gateway",
+      "mining"
+    ],
+    "facts": [
+      "District headquarters since 2012 split.",
+      "Elevation around 1,167 m.",
+      "On NH-6 connecting to Assam and other parts."
+    ]
+  }
+]
