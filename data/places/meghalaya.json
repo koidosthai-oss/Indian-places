@@ -1,1 +1,12 @@
-PLACEHOLDER - see note
+[
+  {
+    "id": "nongkhnum-river-island",
+    "name": "Nongkhnum River Island",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Largest river island in Meghalaya (about 21 sq km), formed by the bifurcation of the Kynshi River into Phanliang and Namliang branches. Features sandy beaches, clear waters, and nearby waterfalls; often promoted as Asia’s second-largest river island. Quiet picnic, camping and nature spot near Nongstoin.",
+    "coordinates": {"lat": 25.444, "lon": 91.253},
+    "tags": ["river-island", "nature", "beach", "camping", "offbeat", "kynshi"],
+    "facts": ["Located about 14 km from Nongstoin, HQ of West Khasi Hills", "Area approximately 21 km²; formed by Kynshi River split", "Contains or adjacent to Weinia Falls and views of Langshiang Falls", "Low tourist infrastructure; ideal for peaceful nature visits", "Sources: Wikipedia, westkhasihills.gov.in"]
+  }
+]
