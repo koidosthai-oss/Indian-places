@@ -128,5 +128,65 @@
     "coordinates": null,
     "tags": ["village", "offbeat", "nature", "khasi", "hidden-gem"],
     "facts": ["About 14 km from Nongstoin", "Referred to as Meghalaya's Dzukou-like valley", "Surrounded by forests and streams", "Homestay potential; less explored"]
+  },
+  {
+    "id": "mairang-town",
+    "name": "Mairang",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters of Eastern West Khasi Hills district, a historic hill town about 40 km west of Shillong along NH-106. Known as the home of freedom fighter U Tirot Sing Syiem, serving as gateway to Kyllang Rock, Mawthadraishan Peak, and surrounding valleys.",
+    "coordinates": {"lat": 25.56165, "lon": 91.63602},
+    "tags": ["town", "headquarters", "gateway", "heritage", "hill"],
+    "facts": ["District HQ of Eastern West Khasi Hills (formed 2021)", "Elevation around 1,564 m", "About 40 km from Shillong, 45 km from Nongstoin", "Associated with Khasi resistance against British"]
+  },
+  {
+    "id": "mawthadraishan-peak",
+    "name": "Mawthadraishan Peak",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Highest peak in Eastern West Khasi Hills at 1,924.5 m (6,314 ft), located midway between Mairang and Nongstoin. Offers panoramic 360-degree views of Khasi Hills, Garo Hills, Assam plains, and parts of Bangladesh on clear days; features small fish ponds and a sacred shrine.",
+    "coordinates": {"lat": 25.5193, "lon": 91.4553},
+    "tags": ["peak", "viewpoint", "trek", "hill-station", "sacred"],
+    "facts": ["Elevation 1,924.5 m, highest in the district", "About midway between Mairang and Nongstoin", "Panoramic views including distant Himalayas post-monsoon", "Sacred shrine to U Blei Mawthadraishan"]
+  },
+  {
+    "id": "kyllang-rock",
+    "name": "Kyllang Rock (Lum Kyllang)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Massive granite monolith dome near Mairang, rising to about 1,650 m (5,400 ft), steeped in Khasi folklore as a rock thrown during a battle between gods Kyllang and Symper. Short trek from base offers panoramic views; northern side forested with rhododendrons.",
+    "coordinates": {"lat": 25.60347, "lon": 91.55827},
+    "tags": ["rock", "monolith", "trek", "folklore", "viewpoint", "offbeat"],
+    "facts": ["About 10-12 km from Mairang, 60 km from Shillong", "Diameter roughly 300 m; southern face steep", "Part of Khasi mythology and legends", "Accessible by road to base then short hike"]
+  },
+  {
+    "id": "ka-phan-nonglait-falls",
+    "name": "Ka Phan Nonglait Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic waterfall near Mairang named after Ka Phan Nonglait, the first Khasi woman freedom fighter who aided U Tirot Sing against the British in 1829 by disarming soldiers at the site. Surrounded by lush forests, with historical significance.",
+    "coordinates": {"lat": 25.61457, "lon": 91.61441},
+    "tags": ["waterfall", "heritage", "nature", "freedom-fighter", "offbeat"],
+    "facts": ["Named after Ka Phan Nonglait (1799-1850)", "About 10 km from Mairang", "Site of 1829 ambush legend involving British soldiers", "Official tourist place in Eastern West Khasi Hills"]
+  },
+  {
+    "id": "markham-remkhla-valley",
+    "name": "Markham and Remkhla Valley",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Rolling green hills and misty valleys known locally as Laitmurok viewpoint, situated between Markham and Mawkyllei villages. Features grazing lands, scenic beauty, and rural Khasi landscapes, popular for views and photography.",
+    "coordinates": {"lat": 25.46281, "lon": 91.54548},
+    "tags": ["valley", "viewpoint", "nature", "scenic", "offbeat"],
+    "facts": ["Locally known as Laitmurok viewpoint", "On border area with South West Khasi Hills", "Rolling hills and misty mornings", "Official tourist place highlighting rural tranquility"]
+  },
+  {
+    "id": "tirot-sing-ecological-park",
+    "name": "Tirot Sing Ecological Park",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Park at Mairangbah village featuring an old colonial-era pine tree, statue of U Tirot Sing Syiem, children's play area, and views of sunrise/sunset over Mairang. Blends natural and historical elements for family visits.",
+    "coordinates": {"lat": 25.56983, "lon": 91.63774},
+    "tags": ["park", "heritage", "ecological", "viewpoint", "family"],
+    "facts": ["Located at Mairangbah near Mairang", "Features U Tirot Sing statue and old pine tree", "Offers sunrise and sunset views of the town", "Official recreational and historic spot"]
   }
 ]
