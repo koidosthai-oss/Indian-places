@@ -68,5 +68,65 @@
     "coordinates": {"lat": 25.655, "lon": 91.885},
     "tags": ["park", "nature", "orchidarium", "picnic", "family"],
     "facts": ["Adjacent to Umiam Lake and Orchid Lake Resort", "Features orchidarium and aviary", "Quiet holiday retreat setting", "Part of the Umiam tourism complex"]
+  },
+  {
+    "id": "nongkhnum-river-island",
+    "name": "Nongkhnum River Island",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Largest river island in Meghalaya, formed by the bifurcation of the Kynshi River into Phanliang and Namliang channels. Features sandy beaches, grasslands, and proximity to waterfalls; popular for picnics, camping, and river views. About 14 km from Nongstoin.",
+    "coordinates": {"lat": 25.444, "lon": 91.253},
+    "tags": ["river-island", "beach", "nature", "offbeat", "picnic"],
+    "facts": ["Formed by Kynshi River split", "About 14-15 km from Nongstoin HQ", "Often promoted as one of Asia's larger river islands", "Access via suspension bridge or ferry; low infrastructure"]
+  },
+  {
+    "id": "langshiang-falls",
+    "name": "Langshiang Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Dramatic high waterfall on the Kynshi River near Sangriang village, plunging into a deep gorge. One of the taller falls in the region, offering panoramic views of surrounding hills; accessible by short trek.",
+    "coordinates": {"lat": 25.44521, "lon": 91.22866},
+    "tags": ["waterfall", "nature", "trek", "scenic", "offbeat"],
+    "facts": ["Located ~24 km from Nongstoin", "Height quoted around 300+ meters", "Near Nongkhnum Island area", "Best in monsoon for full flow"]
+  },
+  {
+    "id": "weinia-falls",
+    "name": "Weinia Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic waterfall near Nongkhnum Island on the Kynshi River, with a wooden suspension bridge providing access and views. Popular local picnic and fishing spot amid rocky cliffs.",
+    "coordinates": {"lat": 25.4489, "lon": 91.245},
+    "tags": ["waterfall", "nature", "bridge", "picnic", "offbeat"],
+    "facts": ["Near Nongkhnum, ~15 km from Nongstoin", "Associated with island access", "Surrounded by cliffs and forests", "Lesser-known compared to Langshiang"]
+  },
+  {
+    "id": "nongstoin-town",
+    "name": "Nongstoin",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters of West Khasi Hills district, a hill town at ~1400 m elevation serving as base for exploring Nongkhnum Island, Langshiang Falls, and surrounding valleys. Gateway for western Khasi Hills tourism.",
+    "coordinates": {"lat": 25.51704, "lon": 91.26484},
+    "tags": ["town", "headquarters", "gateway", "hill"],
+    "facts": ["District HQ of West Khasi Hills", "Elevation around 1321-1409 m", "About 90-100 km from Shillong", "Base for river island and waterfall visits"]
+  },
+  {
+    "id": "pamphyrnai-lake",
+    "name": "Pamphyrnai Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Picturesque artificial/natural lake at Ksehkohlong village about 10 km from Nongstoin, nestled between hillocks. Popular local picnic and fishing spot, developed for recreation.",
+    "coordinates": null,
+    "tags": ["lake", "nature", "picnic", "offbeat"],
+    "facts": ["About 10 km from Nongstoin at Ksehkohlong", "Area ~2.2 hectares", "Managed locally; attracts visitors for festivals", "Near Shillong-Nongstoin road"]
+  },
+  {
+    "id": "mawlangkhar-village",
+    "name": "Mawlangkhar Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Peaceful Khasi village near Nongstoin known for misty meadows, forests, and scenic trails often compared to a mini Dzukou Valley. Offbeat spot for nature immersion and cultural experience with minimal tourism infrastructure.",
+    "coordinates": null,
+    "tags": ["village", "offbeat", "nature", "khasi", "hidden-gem"],
+    "facts": ["About 14 km from Nongstoin", "Referred to as Meghalaya's Dzukou-like valley", "Surrounded by forests and streams", "Homestay potential; less explored"]
   }
 ]
