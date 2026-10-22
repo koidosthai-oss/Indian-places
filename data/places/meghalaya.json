@@ -1,1 +1,72 @@
-PLACEHOLDER
+[
+  {
+    "id": "umiam-lake-barapani",
+    "name": "Umiam Lake (Barapani)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Large artificial reservoir created by damming the Umiam River in the early 1960s, about 15-17 km north of Shillong. Popular for water sports including boating, kayaking, and scootering, with scenic views of surrounding hills and pine forests. Also known as Bara Pani.",
+    "coordinates": {"lat": 25.6532, "lon": 91.8843},
+    "tags": ["lake", "reservoir", "water-sports", "scenic", "gateway"],
+    "facts": ["Created in early 1960s for hydroelectric power", "About 15 km from Shillong on NH-40", "Popular stop between Guwahati and Shillong", "Orchid Lake Resort and water sports complex nearby"]
+  },
+  {
+    "id": "lum-sohpetbneng",
+    "name": "Lum Sohpetbneng (Navel of Heaven)",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Sacred peak at about 1,343-1,344 m elevation near Umiam, revered in Khasi mythology as the site of a golden ladder or vine bridge connecting heaven and earth. Site of annual Seng Khasi pilgrimage and rituals; offers panoramic views.",
+    "coordinates": {"lat": 25.7085, "lon": 91.9228},
+    "tags": ["sacred-peak", "khasi-mythology", "pilgrimage", "viewpoint", "spiritual"],
+    "facts": ["Name means Navel of Heaven in Khasi", "About 25-40 km from Nongpoh or near Umiam", "Annual festival on first or second Sunday of February", "Believed origin point for Hynniewtrep clans"]
+  },
+  {
+    "id": "nongkhyllem-wildlife-sanctuary",
+    "name": "Nongkhyllem Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "IUCN Category IV protected area covering 29 sq km in Ri-Bhoi, established 1981. Rich in subtropical forests, home to elephants, clouded leopards, hoolock gibbons, and over 400 bird species including hornbills. Ideal for birdwatching and nature trails.",
+    "coordinates": {"lat": 25.9379, "lon": 91.7875},
+    "tags": ["wildlife", "birdwatching", "sanctuary", "forest", "biodiversity"],
+    "facts": ["Established in 1981 from earlier reserved forest", "About 60 km from Shillong near Nongpoh", "Over 400 bird species recorded", "Elevation range 200-950 m"]
+  },
+  {
+    "id": "dwar-ksuid",
+    "name": "Dwar Ksuid (Devil's Doorway)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Unique natural rock formation near Bhoilymbong/Umroi area, a door-like hole in a free-standing boulder on the Umiam river watershed. Offbeat scenic spot with river views, popular for short treks and photography.",
+    "coordinates": {"lat": 25.7117, "lon": 91.9953},
+    "tags": ["rock-formation", "offbeat", "trek", "nature", "hidden-gem"],
+    "facts": ["Name means Devil's Door in Khasi/local", "About 14-17 km from Umroi Airport or near Shillong", "Scenic river and forest setting", "Lesser-known alternative to crowded sites"]
+  },
+  {
+    "id": "umden-diwon-eri-silk-village",
+    "name": "Umden-Diwon Eri Silk Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "First officially declared Eri Silk Village in Meghalaya (2021), known for ethical Ahimsa (peace) silk production called Ryndia using castor leaves without killing silkworms. Women-led weaving tradition with GI potential, attracting cultural tourists.",
+    "coordinates": {"lat": 25.9667, "lon": 92.0167},
+    "tags": ["silk", "weaving", "offbeat", "culture", "women-empowerment", "gi-tag"],
+    "facts": ["Declared first Eri Silk Village in Feb 2021", "About 70 km from Shillong", "Produces Ryndia Ahimsa silk", "Community-based sericulture and handloom"]
+  },
+  {
+    "id": "nongpoh-town",
+    "name": "Nongpoh",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "District headquarters of Ri-Bhoi on NH-40, gateway between Guwahati and Shillong. Serves as base for Nongkhyllem Sanctuary, fruit orchards (pineapple, banana), and northern Meghalaya attractions.",
+    "coordinates": {"lat": 25.9023, "lon": 91.8769},
+    "tags": ["town", "gateway", "headquarters", "nh40"],
+    "facts": ["Headquarters of Ri-Bhoi district", "About 52 km from Shillong, 48 km from Guwahati", "Elevation around 485-550 m", "Base for wildlife and rural tourism"]
+  },
+  {
+    "id": "lum-nehru-park",
+    "name": "Lum Nehru Park",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Charming park adjacent to Orchid Lake Resort at Umiam Lake, featuring lawns, flowers, orchidarium, and aviary. Ideal for quiet picnics and nature walks amid the lake surroundings.",
+    "coordinates": {"lat": 25.655, "lon": 91.885},
+    "tags": ["park", "nature", "orchidarium", "picnic", "family"],
+    "facts": ["Adjacent to Umiam Lake and Orchid Lake Resort", "Features orchidarium and aviary", "Quiet holiday retreat setting", "Part of the Umiam tourism complex"]
+  }
+]
