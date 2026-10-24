@@ -1,1 +1,352 @@
-$(cat /tmp/meghalaya_updated.json)
+[
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital city and district headquarters of East Khasi Hills, known as the Scotland of the East. Scenic hill station at about 1,496 m elevation with colonial charm, pine forests, lakes, waterfalls, and as the cultural and educational hub of the Northeast.",
+    "coordinates": {"lat": 25.5689, "lon": 91.8831},
+    "tags": ["hill-station", "capital", "scotland-of-east", "culture", "gateway"],
+    "facts": ["Headquarters of East Khasi Hills and capital of Meghalaya", "Average elevation around 1496 metres", "About 100 km from Guwahati airport/rail", "Known for educational institutions and music scene"]
+  },
+  {
+    "id": "khliehriat-town",
+    "name": "Khliehriat",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters of East Jaintia Hills district, a plateau town serving as the administrative and commercial centre for the eastern Jaintia region. Gateway to remote caves, waterfalls, and border areas near Bangladesh.",
+    "coordinates": {"lat": 25.359, "lon": 92.367},
+    "tags": ["town", "headquarters", "gateway", "pnar", "plateau"],
+    "facts": ["HQ of East Jaintia Hills since district creation in 2012", "About 55-60 km east of Shillong", "Elevation around 700-750 metres", "Base for exploring Shnongrim caves and southern waterfalls"]
+  },
+  {
+    "id": "krem-liat-prah",
+    "name": "Krem Liat Prah",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Longest natural cave system in India and South Asia, with surveyed passages exceeding 34 km on the Shnongrim Ridge. Features vast chambers including the Aircraft Hangar, underground streams, and ongoing exploration by international caving teams.",
+    "coordinates": {"lat": 25.374, "lon": 92.5388},
+    "tags": ["cave", "longest-cave", "limestone", "adventure", "speleology"],
+    "facts": ["Current explored length about 34 km and still growing", "Located near Shnongrim and Larnai villages", "Requires guided expedition; not for casual visitors", "Part of larger cave network with ~150 caves on the ridge"]
+  },
+  {
+    "id": "nongkhnum-river-island",
+    "name": "Nongkhnum River Island",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Largest river island in Meghalaya (about 21-25 sq km), formed by the bifurcation of the Kynshi River into Phanliang and Namliang branches. Features sandy beaches, grassy meadows, suspension bridge, and nearby waterfalls; low tourist footfall due to remote access.",
+    "coordinates": {"lat": 25.444, "lon": 91.253},
+    "tags": ["river-island", "nature", "offbeat", "beach", "camping"],
+    "facts": ["About 14 km from Nongstoin, West Khasi Hills HQ", "Second-largest river island claims often overstated for tourism", "Activities include boating, fishing, picnics on meadows", "Includes Weinia and Langshiang Falls nearby"]
+  },
+  {
+    "id": "langshiang-falls",
+    "name": "Langshiang Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Tall plunge waterfall on the Kynshi River near Sangriang village, about 24 km from Nongstoin. Quoted height around 337 m (1,106 ft), one of the highest in the region, with dramatic cliffs and panoramic valley views; also called Kshaid Ur-Nar.",
+    "coordinates": {"lat": 25.44521, "lon": 91.22866},
+    "tags": ["waterfall", "nature", "offbeat", "adventure", "photography"],
+    "facts": ["Height generally quoted at 337 metres, among India's higher falls", "About 24 km / 15 mi from Nongstoin; 30-min walk from Sangriang", "Visible from Mawpon village; part of Kynshi system", "Best after monsoon for full flow; remote access"]
+  },
+  {
+    "id": "weinia-falls",
+    "name": "Weinia Falls (Kshaid Weinia)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic waterfall on the Kynshi River near Nongkhnum River Island, about 14-15 km from Nongstoin. Features powerful cascades into a gorge with a wooden bridge, rocky cliffs, and nearby picnic spots; lesser-known but dramatic.",
+    "coordinates": {"lat": 25.4489, "lon": 91.245},
+    "tags": ["waterfall", "nature", "offbeat", "hidden-gem"],
+    "facts": ["Near Nongkhnum Island and Langshiang Falls", "Height around 60 m in some descriptions; part of river system", "Accessible via Nongkhnum Road; short walk to viewpoint", "Low crowds; combine with island visit"]
+  },
+  {
+    "id": "nongstoin-town",
+    "name": "Nongstoin",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters town of West Khasi Hills district, at about 1,409 m elevation. Serves as the main gateway to Nongkhnum Island, Langshiang and Weinia Falls, and other western Khasi attractions; administrative and market centre.",
+    "coordinates": {"lat": 25.51704, "lon": 91.26484},
+    "tags": ["town", "headquarters", "gateway", "hill"],
+    "facts": ["District HQ of (current) West Khasi Hills; population ~28,742 (2011)", "About 90-100 km west of Shillong via NH", "Elevation ~1,409 m; cool climate", "Base for exploring river island and falls"]
+  },
+  {
+    "id": "mairang-town",
+    "name": "Mairang",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters town of Eastern West Khasi Hills district, at about 1,564 m elevation. Gateway to Kyllang Rock, Mawthadraishan Peak, Markham Valley, and other central Khasi attractions; administrative and cultural centre with colonial-era elements.",
+    "coordinates": {"lat": 25.56165, "lon": 91.63602},
+    "tags": ["town", "headquarters", "gateway", "hill", "khasi"],
+    "facts": ["HQ of Eastern West Khasi Hills (carved 2021 from West Khasi Hills)", "About 40 km west of Shillong on NH 106", "Elevation around 1,564 m", "Base for exploring Kyllang Rock and nearby peaks"]
+  },
+  {
+    "id": "mawthadraishan-peak",
+    "name": "Mawthadraishan Peak",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Highest peak in Eastern West Khasi Hills at 1,924.5 m (6,314 ft), midway between Mairang and Nongstoin. Offers panoramic views of Assam plains, Garo Hills, Khasi ranges, and distant Himalayas on clear days; features small fish ponds at the summit.",
+    "coordinates": {"lat": 25.519, "lon": 91.455},
+    "tags": ["peak", "hill-station", "viewpoint", "nature", "adventure"],
+    "facts": ["Highest elevation in the district at 1,924.5 metres", "Located near Mawroh, Markasa and Nongshillong villages", "Accessible via short trek from Shillong-Nongstoin road", "Panoramic views including parts of Bangladesh on clear days"]
+  },
+  {
+    "id": "kyllang-rock",
+    "name": "Kyllang Rock",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Massive granite monolith dome rising from pine forests near Mairang, about 1,774 m elevation and ~300 m wide. Steeped in Khasi folklore (personified as a man in legends involving Thadlaskein and Symper Rock); short climb offers panoramic views of valleys and villages.",
+    "coordinates": {"lat": 25.603, "lon": 91.558},
+    "tags": ["monolith", "nature", "folklore", "trekking", "viewpoint"],
+    "facts": ["About 9-12 km northwest of Mairang", "Elevation around 1,774-1,800 m; dome ~300 m across", "Accessible from northern/eastern flanks; southern steep", "Rare white rhododendrons at base; best Oct-Apr"]
+  },
+  {
+    "id": "markham-remkhla-valley",
+    "name": "Markham and Remkhla Valley",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Rolling highland meadows and valleys near Markham and Mawkyllei villages, locally known as Laitmurok viewpoint. Known for misty mornings, green hills, grazing lands, and as a lesser-crowded 'Mini Dzukou' experience between Eastern West and South West Khasi Hills.",
+    "coordinates": {"lat": 25.46, "lon": 91.55},
+    "tags": ["valley", "nature", "offbeat", "meadows", "viewpoint"],
+    "facts": ["Situated in Markham and Mawkyllei villages", "Popular for scenic views, photography, and slow travel", "Misty mornings and lush post-monsoon landscapes", "Accessible via intermediate roads from NH 44E/106"]
+  },
+  {
+    "id": "ka-phan-nonglait-falls",
+    "name": "Ka Phan Nonglait Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Serene waterfall in Eastern West Khasi Hills, surrounded by lush forests. Named after an unsung warrior who fought the British; offers a peaceful atmosphere for nature lovers and photography.",
+    "coordinates": null,
+    "tags": ["waterfall", "nature", "heritage", "offbeat"],
+    "facts": ["Named after unsung warrior against the British", "Surrounded by dense green forests", "Official district tourism attraction", "Accessible via intermediate roads from main highway"]
+  },
+  {
+    "id": "tirot-sing-ecological-park",
+    "name": "Tirot Sing Ecological Park",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Park at Mairangbah village featuring a colonial-era pine tree, statue of U Tirot Sing (Khasi freedom fighter in Anglo-Khasi War 1829-1833), children's play area, and views of sunrise/sunset over Mairang Town.",
+    "coordinates": null,
+    "tags": ["park", "heritage", "history", "recreational"],
+    "facts": ["Features statue of U Tirot Sing and colonial pine tree", "Located at Mairangbah village", "Good views of Mairang Town", "Combines history, nature, and family recreation"]
+  },
+  {
+    "id": "mawkyrwat-town",
+    "name": "Mawkyrwat",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters town of South West Khasi Hills district, formed in 2012 from West Khasi Hills. Serves as the main administrative and market centre and gateway to hot springs, caves, plateaus and border areas of the district.",
+    "coordinates": {"lat": 25.3625, "lon": 91.4555},
+    "tags": ["town", "headquarters", "gateway", "khasi"],
+    "facts": ["District HQ of South West Khasi Hills since 2012", "Elevation around 1,360-1,500 m", "About 70-80 km southwest of Shillong", "Base for exploring Jakrem, Ranikor and Iawpaw"]
+  },
+  {
+    "id": "jakrem-hot-spring",
+    "name": "Jakrem Hot Spring",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Natural sulphur hot spring on the Shillong-Mawkyrwat road at Lawblei (Jakrem), about 15 km from Mawkyrwat and 60 km from Shillong. Believed to have medicinal properties; popular for bathing and picnics in winter with bathing compartments available.",
+    "coordinates": {"lat": 25.4077, "lon": 91.5407},
+    "tags": ["hot-spring", "sulphur", "nature", "wellness", "picnic"],
+    "facts": ["Sulphur-rich thermal waters with claimed curative properties", "About 15 km from Mawkyrwat, 60 km from Shillong", "Favourite winter picnic and bathing spot", "Official district places-of-interest"]
+  },
+  {
+    "id": "symper-rock",
+    "name": "Symper Rock",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Unique geological rock formation about 50 km from Shillong on the western side of the Shillong-Mawkyrwat road. Offers views of the Mawkyrwat area from its top; associated with Khasi folklore involving legendary battles with Kyllang Rock.",
+    "coordinates": {"lat": 25.3714, "lon": 91.5875},
+    "tags": ["rock", "monolith", "nature", "folklore", "viewpoint"],
+    "facts": ["Unique geological formation on Shillong-Mawkyrwat road", "Views of Mawkyrwat area from the top", "Linked in folklore to Kyllang Rock", "About 50 km from Shillong"]
+  },
+  {
+    "id": "umngi-river",
+    "name": "Umngi River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Longest river in Mawkyrwat subdivision, about 18 km from the town. Favourite picnic spot with a small river island where beach volleyball is played; source starts from Sohiong and stretches toward Umpung lake.",
+    "coordinates": null,
+    "tags": ["river", "picnic", "nature", "island"],
+    "facts": ["Longest river in Mawkyrwat sub-division", "About 18 km from Mawkyrwat", "Small river island used for beach volleyball", "Source from Sohiong area"]
+  },
+  {
+    "id": "phlangja-ud-cave",
+    "name": "Phlangja Ud Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Beautiful cave about 16 km from Mawkyrwat at Phlangja Ud, south of Rangmaw village. Features hanging stalactites; above the cave is a vast grassland offering views of the Bangladesh plains. Cave length about 600 meters.",
+    "coordinates": {"lat": 25.3243, "lon": 91.5206},
+    "tags": ["cave", "stalactites", "nature", "viewpoint"],
+    "facts": ["About 16 km from Mawkyrwat near Rangmaw", "Stalactites on the ceiling", "Grassland above with views of Bangladesh plains", "Cave distance around 600 meters"]
+  },
+  {
+    "id": "rilang-viewpoint",
+    "name": "Rilang View Point",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Beautiful valley and viewpoint about 5 km from Mawkyrwat at Mawranglang on the Nongstoin-Mawkyrwat road. Meandering across the river, it is a convenient picnic and angling spot.",
+    "coordinates": null,
+    "tags": ["viewpoint", "valley", "picnic", "angling", "nature"],
+    "facts": ["About 5 km from Mawkyrwat at Mawranglang", "On Nongstoin-Mawkyrwat road", "Picnic and angling spot", "Views of meandering river valley"]
+  },
+  {
+    "id": "synrangbah-cave",
+    "name": "Synrangbah Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Yawning open cave at Nonglang, about 3 km from Mawkyrwat. The Mawkyrwat-Photjaud road passes through the leveled inner part; used as shelter by people and cattle during rain, home to bats of various sizes.",
+    "coordinates": null,
+    "tags": ["cave", "nature", "offbeat"],
+    "facts": ["About 3 km from Mawkyrwat at Nonglang", "Road passes through the cave", "Shelter during storms for people and cattle", "Inhabited by bats"]
+  },
+  {
+    "id": "dongnob-falls",
+    "name": "Dongnob Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Beautiful waterfall about 8 km from Mawkyrwat at Photjaud. Features a cave in the middle of the falls that becomes a splendid natural beauty in winter with the reflection of sun rays.",
+    "coordinates": null,
+    "tags": ["waterfall", "cave", "nature", "offbeat"],
+    "facts": ["About 8 km from Mawkyrwat at Photjaud", "Cave in the middle of the falls", "Especially beautiful in winter with sun reflections", "Official district tourism spot"]
+  },
+  {
+    "id": "iawpaw-plateau",
+    "name": "Iawpaw Plateau (Nongnah)",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Beautiful plateau village about 30 km from Mawkyrwat, southwest of Nongnah. Offers bird’s-eye views of surrounding hills, valleys, Bangladesh plains and rivers, and distant Himalayas. Features a long cave; looks like a bed from a distance according to legend.",
+    "coordinates": {"lat": 25.2712, "lon": 91.3346},
+    "tags": ["plateau", "viewpoint", "hill-station", "cave", "offbeat"],
+    "facts": ["About 30 km from Mawkyrwat near Nongnah", "Views of Bangladesh plains, rivers and Himalayas", "Longest cave in Khasi Hills located on the plateau", "Tableland appearance from a distance"]
+  },
+  {
+    "id": "ranikor",
+    "name": "Ranikor",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Border town about 45 km from Mawkyrwat on the bank of the river near Bangladesh. Formerly a winter resort of the queen of Maharam; known for angling Golden Mahseer, boat rowing, and the Borba Singh Bridge (second-longest suspension bridge in India). Hosts an annual tourism festival.",
+    "coordinates": {"lat": 25.2238, "lon": 91.2398},
+    "tags": ["border", "angling", "bridge", "gateway", "other"],
+    "facts": ["About 45 km from Mawkyrwat, near Bangladesh border", "Best spot for Golden Mahseer angling", "Borba Singh Bridge over the river", "Annual tourism festival in February"]
+  },
+  {
+    "id": "nohkalikai-falls",
+    "name": "Nohkalikai Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Tallest plunge waterfall in India, dropping about 340 metres (1,115 ft) from the southern edge of the Sohra plateau into a turquoise pool. Dramatic cliffs, mist, and views toward the Bangladesh plains; associated with the Khasi legend of Ka Likai.",
+    "coordinates": {"lat": 25.27556, "lon": 91.68667},
+    "tags": ["waterfall", "nature", "tallest-plunge", "sohra", "photography"],
+    "facts": ["Height ~340 m / 1,115 ft; tallest plunge in India", "About 5-7 km from Sohra (Cherrapunji)", "Fed by highland rainwater; strongest in monsoon", "Official East Khasi Hills tourism highlight"]
+  },
+  {
+    "id": "elephant-falls",
+    "name": "Elephant Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Three-tiered waterfall about 12 km from Shillong city centre in Upper Shillong. Mountain stream descends through successive falls amid fern-covered rocks; easy access via paved paths and bridges. Locally known as Ka Kshaid Lai Pateng Khohsiew.",
+    "coordinates": {"lat": 25.53786, "lon": 91.82205},
+    "tags": ["waterfall", "nature", "shillong", "easy-access", "picnic"],
+    "facts": ["About 12 km from Shillong on outskirts", "Three successive falls (main and two smaller)", "Paved footpaths and wooden bridges", "Popular short outing from the city"]
+  },
+  {
+    "id": "shillong-peak",
+    "name": "Shillong Peak",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Highest point in Meghalaya at about 1,965 m (6,446-6,449 ft), roughly 10 km south of Shillong. Offers panoramic views of the city, surrounding hills, waterfalls, and distant Bangladesh plains on clear days. Access requires photo ID at the Air Force viewpoint.",
+    "coordinates": {"lat": 25.5475, "lon": 91.875},
+    "tags": ["peak", "hill-station", "viewpoint", "highest", "shillong"],
+    "facts": ["Highest elevation in Meghalaya ~1,965 m", "About 10 km south of Shillong city", "Panoramic views including Bangladesh plains", "ID required; cameras may need to be surrendered"]
+  },
+  {
+    "id": "mawlynnong-village",
+    "name": "Mawlynnong Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Village in Pynursla block near the India-Bangladesh border, widely recognized as one of Asia’s cleanest villages. Features living root bridges, balanced rock, bamboo dustbins, high literacy, and community-managed eco-tourism with homestays.",
+    "coordinates": {"lat": 25.2018, "lon": 91.916},
+    "tags": ["village", "offbeat", "cleanest-village", "eco-tourism", "border"],
+    "facts": ["Awarded cleanest village in Asia (Discover India 2003)", "About 90 km from Shillong near Bangladesh border", "Living root bridge and balancing rock attractions", "100% literacy reported; Khasi matrilineal society"]
+  },
+  {
+    "id": "double-decker-living-root-bridge-nongriat",
+    "name": "Double Decker Living Root Bridge (Nongriat)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Iconic two-tier living root bridge grown from Ficus roots by the Khasi community in Nongriat village. Reached by a steep descent of roughly 3,000-3,500 stone steps from Tyrna; unique bio-engineering example with natural pools and optional Rainbow Falls extension.",
+    "coordinates": {"lat": 25.2781, "lon": 91.6862},
+    "tags": ["living-root-bridge", "nature", "trekking", "offbeat", "bio-engineering"],
+    "facts": ["Located in Nongriat village, ~15 km from Sohra", "Trek from Tyrna involves ~3,500 steps", "Two stacked tiers for high-water safety", "Community-maintained living structure"]
+  },
+  {
+    "id": "laitlum-canyon",
+    "name": "Laitlum Canyon",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Dramatic canyon and viewpoint about 25 km from Shillong near Smit. Deep gorges, ridgelines, cloud-shadowed valleys, and panoramic highland landscapes; popular for photography and half-day outings.",
+    "coordinates": {"lat": 25.4488, "lon": 91.9114},
+    "tags": ["canyon", "viewpoint", "nature", "photography", "offbeat"],
+    "facts": ["About 25 km from Shillong; nearest major village Smit", "Dramatic ridgelines and deep gorges", "No direct buses; taxi or tour recommended", "Best in clear post-monsoon weather"]
+  },
+  {
+    "id": "mawphlang-sacred-forest",
+    "name": "Mawphlang Sacred Forest",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ancient sacred grove (Law Lyngdoh) protected for centuries by Khasi traditional beliefs about 25 km from Shillong. Dense old-growth forest with high biodiversity; nothing may be removed, not even a leaf. Guided walks available.",
+    "coordinates": {"lat": 25.4458, "lon": 91.7496},
+    "tags": ["sacred-grove", "forest", "nature", "heritage", "biodiversity"],
+    "facts": ["About 25 km southwest of Shillong", "Protected by Khasi customary laws for centuries", "Rich in orchids, ferns, and endemic species", "Strict rule: take nothing out of the forest"]
+  },
+  {
+    "id": "mawsmai-cave",
+    "name": "Mawsmai Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Accessible limestone show cave near Sohra (Cherrapunji), about 150 m of illuminated passages with stalactites and stalagmites. Safe for beginners and families; short forest approach.",
+    "coordinates": {"lat": 25.29583, "lon": 91.69056},
+    "tags": ["cave", "limestone", "nature", "show-cave", "sohra"],
+    "facts": ["About 6 km from Sohra town", "Lit route ~150 m; suitable for beginners", "Stalactite and stalagmite formations", "Paired with nearby Nohsngithiang Falls"]
+  },
+  {
+    "id": "nohsngithiang-falls",
+    "name": "Nohsngithiang Falls (Seven Sisters)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Segmented waterfall dropping about 315 m over limestone cliffs near Mawsmai village, forming seven parallel streams in monsoon. Overlooks the Bangladesh plains; also called Seven Sisters Falls.",
+    "coordinates": {"lat": 25.243, "lon": 91.743},
+    "tags": ["waterfall", "nature", "seven-sisters", "sohra", "viewpoint"],
+    "facts": ["Height ~315 m; segmented into seven parts", "About 1 km south of Mawsmai village", "Best in monsoon for full flow", "Views toward Bangladesh plains"]
+  },
+  {
+    "id": "sohra-cherrapunji",
+    "name": "Sohra (Cherrapunji)",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Sub-divisional town on the southern Khasi plateau, historically one of the wettest places on Earth. Gateway to Nohkalikai, Mawsmai, Nohsngithiang, living root bridges, and views over the Bangladesh plains. Elevation about 1,430 m.",
+    "coordinates": {"lat": 25.284, "lon": 91.721},
+    "tags": ["hill-station", "sohra", "wettest-place", "gateway", "plateau"],
+    "facts": ["Local and official name Sohra; formerly Cherrapunji", "Average elevation ~1,430 m", "About 54-60 km from Shillong", "Base for major East Khasi waterfalls and caves"]
+  },
+  {
+    "id": "wards-lake",
+    "name": "Ward's Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Artificial horseshoe-shaped lake in central Shillong, planned in the 1890s. Surrounded by botanical gardens, cobblestone paths, a wooden bridge, boating, and flower beds; also known as Pollock Lake or Nan Polok.",
+    "coordinates": {"lat": 25.575, "lon": 91.887},
+    "tags": ["lake", "nature", "shillong", "garden", "boating"],
+    "facts": ["Built 1894; designed by Fitzwilliam Thomas Pollok", "Central location near Raj Bhavan", "Boating facility and botanical garden", "Popular short visit in the city"]
+  },
+  {
+    "id": "don-bosco-museum",
+    "name": "Don Bosco Centre for Indigenous Cultures",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Seven-storey hexagonal museum in Mawlai, Shillong, showcasing the cultures, artefacts, costumes, and traditions of Northeast India’s indigenous communities. Major cultural attraction with galleries, research facilities, and city views.",
+    "coordinates": {"lat": 25.5931, "lon": 91.8824},
+    "tags": ["museum", "heritage", "culture", "northeast", "shillong"],
+    "facts": ["Seven floors representing Northeast states", "Located in Mawlai Phudmuri, Shillong", "Ethnographic collections of tribal cultures", "Popular with students and cultural visitors"]
+  }
+]
