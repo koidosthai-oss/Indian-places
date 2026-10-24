@@ -1,1 +1,72 @@
-PLACEHOLDER_REPLACE
+[
+  {
+    "id": "ujjayanta-palace",
+    "name": "Ujjayanta Palace",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Former royal palace of the Manikya dynasty in central Agartala, now the Tripura State Museum. Built 1899-1901 by Maharaja Radha Kishore Manikya in Indo-Saracenic style with three domes; set amid Mughal gardens and two artificial lakes.",
+    "coordinates": {"lat": 23.8374, "lon": 91.2827},
+    "tags": ["palace", "museum", "royal", "architecture", "agartala"],
+    "facts": ["Built 1899-1901 by Maharaja Radha Kishore Manikya", "Named by Rabindranath Tagore", "Housed State Legislative Assembly until 2011", "Now houses Tripura State Museum showcasing Northeast cultures"]
+  },
+  {
+    "id": "pushpabanta-palace",
+    "name": "Pushpabanta Palace (Kunjaban Palace)",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Former royal retreat and Raj Bhavan on a hillock in northern Agartala, built in 1917 by Maharaja Birendra Kishore Manikya. Served as Governor's residence until 2018; associated with Rabindranath Tagore's visits.",
+    "coordinates": {"lat": 23.8535, "lon": 91.2848},
+    "tags": ["palace", "heritage", "raj-bhavan", "tagore", "hillock"],
+    "facts": ["Built 1917 by Maharaja Birendra Kishore Manikya", "Former official Raj Bhavan until 2018", "Rabindranath Tagore stayed here in 1926", "Located about 1 km north of Ujjayanta Palace"]
+  },
+  {
+    "id": "jagannath-temple-agartala",
+    "name": "Jagannath Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "19th-century Hindu temple within the Ujjayanta Palace grounds dedicated to Jagannath, Balabhadra and Subhadra. Features octagonal base and distinctive orange stepped shikharas in Tripura style.",
+    "coordinates": {"lat": 23.8363, "lon": 91.2799},
+    "tags": ["temple", "spiritual", "jagannath", "palace-grounds", "rath-yatra"],
+    "facts": ["Located inside Ujjayanta Palace complex", "Built by Maharaja Radha Kishore Manikya", "Octagonal base with four-storey orange shikharas", "Famous for evening aarti and annual Rath Yatra"]
+  },
+  {
+    "id": "chaturdasha-devata-temple",
+    "name": "Chaturdasha Devata Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Historic temple in Old Agartala dedicated to the fourteen deities (Chaturdasha Devata), built in 1761 by King Krishna Manikya. Features Tripuri dome architecture; main venue for the annual Kharchi Puja festival.",
+    "coordinates": {"lat": 23.8414, "lon": 91.3452},
+    "tags": ["temple", "spiritual", "kharchi-puja", "fourteen-deities", "old-agartala"],
+    "facts": ["Built 1761 by King Krishna Manikya", "Dedicated to 14 tribal and Hindu deities", "Venue of major Kharchi Puja festival each July", "About 8 km from central Agartala"]
+  },
+  {
+    "id": "lakshmi-narayan-temple-agartala",
+    "name": "Lakshmi Narayan Temple",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Vaishnavite temple within the Ujjayanta Palace grounds dedicated to Lakshmi Narayana, constructed during the reign of Maharaja Birendra Kishore Manikya (1909-1923).",
+    "coordinates": {"lat": 23.8342, "lon": 91.2829},
+    "tags": ["temple", "spiritual", "lakshmi-narayan", "palace-grounds"],
+    "facts": ["Located in Ujjayanta Palace compound", "Built during 1909-1923 by Birendra Kishore Manikya", "Dedicated to the divine couple Lakshmi and Narayana", "Part of the royal temple cluster"]
+  },
+  {
+    "id": "heritage-park-agartala",
+    "name": "Heritage Park",
+    "state": "Tripura",
+    "category": "other",
+    "description": "Public park in Kunjaban area of Agartala featuring miniature replicas of major Tripura heritage sites, tribal huts, gardens and a walking track. Inaugurated in 2012 to showcase the state's cultural and natural heritage.",
+    "coordinates": {"lat": 23.8559, "lon": 91.2846},
+    "tags": ["park", "heritage", "miniature", "family", "kunjaban"],
+    "facts": ["Inaugurated November 2012", "Contains miniature models of Unakoti, Neermahal, Tripura Sundari and other sites", "Spread over about 4-12 hectares with walking track", "Located near Kunjaban / northern Agartala"]
+  },
+  {
+    "id": "agartala-town",
+    "name": "Agartala",
+    "state": "Tripura",
+    "category": "other",
+    "description": "Capital city of Tripura and headquarters of West Tripura district. Gateway with airport and railway connections; hosts major royal palaces, temples, museums and serves as base for exploring the state.",
+    "coordinates": {"lat": 23.8315, "lon": 91.2868},
+    "tags": ["town", "capital", "gateway", "headquarters"],
+    "facts": ["Capital and largest city of Tripura", "HQ of West Tripura district", "Connected by air (IXA), rail and road", "Main base for visiting palaces and nearby attractions"]
+  }
+]
