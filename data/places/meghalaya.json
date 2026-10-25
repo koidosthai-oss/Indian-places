@@ -1,1 +1,217 @@
-[{"id":"mawkyrwat-town","name":"Mawkyrwat","state":"Meghalaya","category":"other","description":"Headquarters town of South West Khasi Hills district, serving as the administrative and market gateway for the region's offbeat attractions, hot springs, caves, and viewpoints.","coordinates":{"lat":25.3625,"lon":91.4555},"tags":["town","headquarters","gateway","khasi"],"facts":["HQ of South West Khasi Hills district (formed 2012 from West Khasi Hills)","Located about 78 km from Shillong","Base for visiting Jakrem Hot Spring, Ranikor and local caves","Pincode 793114"]},{"id":"jakrem-hot-spring","name":"Jakrem Hot Spring","state":"Meghalaya","category":"nature","description":"Natural sulphur hot spring at Lawblei (Jakrem) on the Shillong-Mawkyrwat road, popular picnic spot in winter; waters believed to have medicinal properties for bathing.","coordinates":{"lat":25.3927,"lon":91.503},"tags":["hot-spring","nature","picnic","sulphur","medicinal"],"facts":["About 15 km from Mawkyrwat and 60 km from Shillong","Favourite winter picnic and bathing spot","Sulphur water believed to have therapeutic properties","Developed with bathing compartments"]},{"id":"symper-rock","name":"Symper Rock","state":"Meghalaya","category":"nature","description":"Unique geological rock formation on the western side of the Shillong-Mawkyrwat road, offering panoramic views of the Mawkyrwat area and surroundings; linked to Khasi folklore with Kyllang Rock.","coordinates":{"lat":25.371,"lon":91.587},"tags":["rock","nature","viewpoint","folklore","geology"],"facts":["About 50 km from Shillong on Shillong-Mawkyrwat road","Offers views of Mawkyrwat area","Part of Khasi legend involving battle with Kyllang Rock","Accessible by short trek"]},{"id":"umngi-river","name":"Umngi River","state":"Meghalaya","category":"nature","description":"Longest river in Mawkyrwat subdivision, a favourite picnic spot with a small river island used for beach volleyball; source near Sohiong, flows to Umpung lake with scenic rocks.","tags":["river","nature","picnic","angling"],"facts":["About 18 km from Mawkyrwat","Longest river in the subdivision","Small island in course popular for volleyball","Stretches to beautiful Umpung lake"]},{"id":"phlangja-ud-cave","name":"Phlangja Ud Cave","state":"Meghalaya","category":"nature","description":"Beautiful cave south of Rangmaw village with stalactites; above it lies grassland offering views of the Bangladesh plains. Approximately 600 meters long.","tags":["cave","nature","stalactites","viewpoint"],"facts":["About 16 km from Mawkyrwat at Phlangja Ud","Stalactites hang from ceiling","Grassland above offers Bangladesh plains view","Cave length about 600 meters"]},{"id":"rilang-viewpoint","name":"Rilang Viewpoint","state":"Meghalaya","category":"nature","description":"Beautiful valley viewpoint at Mawranglang on the Nongstoin-Mawkyrwat road, convenient for picnic and angling along the meandering river.","tags":["viewpoint","nature","picnic","angling","valley"],"facts":["About 5 km from Mawkyrwat at Mawranglang","On Nongstoin-Mawkyrwat road","Scenic valley with river","Popular picnic and angling spot"]},{"id":"synrangbah-cave","name":"Synrangbah Cave","state":"Meghalaya","category":"nature","description":"Yawning open cave at Nonglang near Mawkyrwat where the road passes through; provides shelter during rain and is home to bats of various sizes.","tags":["cave","nature","open-cave","bats"],"facts":["At Nonglang, about 3 km from Mawkyrwat","Mawkyrwat-Photjaud road passes through it","Open cave used as shelter in storms","Home to bats of all sizes"]},{"id":"dongnob-falls","name":"Dongnob Falls","state":"Meghalaya","category":"nature","description":"Beautiful waterfall at Photjaud with a cave in the middle that reflects sun rays in winter, creating a splendid natural scene.","tags":["waterfall","nature","cave","winter"],"facts":["About 8 km from Mawkyrwat at Photjaud","Cave in the middle of the falls","Sun rays reflection beautiful in winter","Scenic natural beauty"]},{"id":"iawpaw-plateau","name":"Iawpaw Plateau","state":"Meghalaya","category":"hill-station","description":"Beautiful plateau southwest of Nongnah offering bird’s-eye views of surrounding hills, valleys, Bangladesh plains, rivers and Himalayas; legends call it the bed of legendary greens; has one of the longest caves in Khasi Hills.","coordinates":{"lat":25.26,"lon":91.32},"tags":["plateau","hill-station","viewpoint","cave","folklore"],"facts":["About 30 km from Mawkyrwat, southwest of Nongnah","Panoramic views including Bangladesh plains and Himalayas","Looks like a bed in legend of legendary greens","Site of long cave in Khasi Hills"]},{"id":"ranikor","name":"Ranikor","state":"Meghalaya","category":"other","description":"Border town near Bangladesh, former winter resort of the Queen of Maharam; best spot for angling golden mahseer, with Borba Singh Bridge (one of India's longest suspension bridges) and boat rowing; hosts annual tourism festival.","coordinates":{"lat":25.2238,"lon":91.2398},"tags":["town","angling","border","bridge","mahsheer"],"facts":["About 45 km from Mawkyrwat, close to Bangladesh border","Former winter resort of Queen Mahadei of Maharam","Borba Singh Bridge second longest suspension in India","Prime golden mahseer angling and boat rowing spot; annual February festival"]}]
+[
+  {
+    "id": "mawkyrwat-town",
+    "name": "Mawkyrwat",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters town of South West Khasi Hills district, serving as the administrative and market gateway for the region's offbeat attractions, hot springs, caves, and viewpoints.",
+    "coordinates": {"lat": 25.3625, "lon": 91.4555},
+    "tags": ["town", "headquarters", "gateway", "khasi"],
+    "facts": ["HQ of South West Khasi Hills district (formed 2012 from West Khasi Hills)", "Located about 78 km from Shillong", "Base for visiting Jakrem Hot Spring, Ranikor and local caves", "Pincode 793114"]
+  },
+  {
+    "id": "jakrem-hot-spring",
+    "name": "Jakrem Hot Spring",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Natural sulphur hot spring at Lawblei (Jakrem) on the Shillong-Mawkyrwat road, popular picnic spot in winter; waters believed to have medicinal properties for bathing.",
+    "coordinates": {"lat": 25.3927, "lon": 91.503},
+    "tags": ["hot-spring", "nature", "picnic", "sulphur", "medicinal"],
+    "facts": ["About 15 km from Mawkyrwat and 60 km from Shillong", "Favourite winter picnic and bathing spot", "Sulphur water believed to have therapeutic properties", "Developed with bathing compartments"]
+  },
+  {
+    "id": "symper-rock",
+    "name": "Symper Rock",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Unique geological rock formation on the western side of the Shillong-Mawkyrwat road, offering panoramic views of the Mawkyrwat area and surroundings; linked to Khasi folklore with Kyllang Rock.",
+    "coordinates": {"lat": 25.371, "lon": 91.587},
+    "tags": ["rock", "nature", "viewpoint", "folklore", "geology"],
+    "facts": ["About 50 km from Shillong on Shillong-Mawkyrwat road", "Offers views of Mawkyrwat area", "Part of Khasi legend involving battle with Kyllang Rock", "Accessible by short trek"]
+  },
+  {
+    "id": "umngi-river",
+    "name": "Umngi River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Longest river in Mawkyrwat subdivision, a favourite picnic spot with a small river island used for beach volleyball; source near Sohiong, flows to Umpung lake with scenic rocks.",
+    "tags": ["river", "nature", "picnic", "angling"],
+    "facts": ["About 18 km from Mawkyrwat", "Longest river in the subdivision", "Small island in course popular for volleyball", "Stretches to beautiful Umpung lake"]
+  },
+  {
+    "id": "phlangja-ud-cave",
+    "name": "Phlangja Ud Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Beautiful cave south of Rangmaw village with stalactites; above it lies grassland offering views of the Bangladesh plains. Approximately 600 meters long.",
+    "tags": ["cave", "nature", "stalactites", "viewpoint"],
+    "facts": ["About 16 km from Mawkyrwat at Phlangja Ud", "Stalactites hang from ceiling", "Grassland above offers Bangladesh plains view", "Cave length about 600 meters"]
+  },
+  {
+    "id": "rilang-viewpoint",
+    "name": "Rilang Viewpoint",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Beautiful valley viewpoint at Mawranglang on the Nongstoin-Mawkyrwat road, convenient for picnic and angling along the meandering river.",
+    "tags": ["viewpoint", "nature", "picnic", "angling", "valley"],
+    "facts": ["About 5 km from Mawkyrwat at Mawranglang", "On Nongstoin-Mawkyrwat road", "Scenic valley with river", "Popular picnic and angling spot"]
+  },
+  {
+    "id": "synrangbah-cave",
+    "name": "Synrangbah Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Yawning open cave at Nonglang near Mawkyrwat where the road passes through; provides shelter during rain and is home to bats of various sizes.",
+    "tags": ["cave", "nature", "open-cave", "bats"],
+    "facts": ["At Nonglang, about 3 km from Mawkyrwat", "Mawkyrwat-Photjaud road passes through it", "Open cave used as shelter in storms", "Home to bats of all sizes"]
+  },
+  {
+    "id": "dongnob-falls",
+    "name": "Dongnob Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Beautiful waterfall at Photjaud with a cave in the middle that reflects sun rays in winter, creating a splendid natural scene.",
+    "tags": ["waterfall", "nature", "cave", "winter"],
+    "facts": ["About 8 km from Mawkyrwat at Photjaud", "Cave in the middle of the falls", "Sun rays reflection beautiful in winter", "Scenic natural beauty"]
+  },
+  {
+    "id": "iawpaw-plateau",
+    "name": "Iawpaw Plateau",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Beautiful plateau southwest of Nongnah offering bird’s-eye views of surrounding hills, valleys, Bangladesh plains, rivers and Himalayas; legends call it the bed of legendary greens; has one of the longest caves in Khasi Hills.",
+    "coordinates": {"lat": 25.26, "lon": 91.32},
+    "tags": ["plateau", "hill-station", "viewpoint", "cave", "folklore"],
+    "facts": ["About 30 km from Mawkyrwat, southwest of Nongnah", "Panoramic views including Bangladesh plains and Himalayas", "Looks like a bed in legend of legendary greens", "Site of long cave in Khasi Hills"]
+  },
+  {
+    "id": "ranikor",
+    "name": "Ranikor",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Border town near Bangladesh, former winter resort of the Queen of Maharam; best spot for angling golden mahseer, with Borba Singh Bridge (one of India's longest suspension bridges) and boat rowing; hosts annual tourism festival.",
+    "coordinates": {"lat": 25.2238, "lon": 91.2398},
+    "tags": ["town", "angling", "border", "bridge", "mahsheer"],
+    "facts": ["About 45 km from Mawkyrwat, close to Bangladesh border", "Former winter resort of Queen Mahadei of Maharam", "Borba Singh Bridge second longest suspension in India", "Prime golden mahseer angling and boat rowing spot; annual February festival"]
+  },
+  {
+    "id": "krang-suri-falls",
+    "name": "Krang Suri Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Iconic turquoise-blue waterfall near Amlarem in West Jaintia Hills, cascading into a crystal-clear natural pool amid limestone cliffs and forest. Popular for swimming (with life jackets), photography, and short treks.",
+    "coordinates": {"lat": 25.2873, "lon": 92.1257},
+    "tags": ["waterfall", "turquoise", "swimming", "photography", "hidden-gem"],
+    "facts": ["About 30 km from Jowai", "Turquoise waters remain clear year-round", "Short 15-min trek to base", "Entry fee around ₹50; life jackets available"]
+  },
+  {
+    "id": "dawki-umngot-river",
+    "name": "Dawki / Umngot River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Famous crystal-clear river at the India-Bangladesh border town of Dawki. Boating under the 1932 suspension bridge offers the 'floating boat' effect in winter when the riverbed is visible.",
+    "coordinates": {"lat": 25.1833, "lon": 92.0167},
+    "tags": ["river", "crystal-clear", "boating", "border", "photography"],
+    "facts": ["Best clarity November to March", "Historic Dawki Bridge built 1932", "Border trade and tourism hub", "Umngot also called Dawki River"]
+  },
+  {
+    "id": "shnongpdeng",
+    "name": "Shnongpdeng",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Riverside village upstream from Dawki on the Umngot River, popular for camping, kayaking, cliff jumping, and quieter boating away from border crowds.",
+    "coordinates": {"lat": 25.2076, "lon": 92.0088},
+    "tags": ["village", "camping", "adventure", "river", "offbeat"],
+    "facts": ["About 8 km from Dawki", "Adventure activities including kayaking", "Cleaner water for swimming and camping", "Emerging eco-tourism spot"]
+  },
+  {
+    "id": "nartiang-monoliths",
+    "name": "Nartiang Monoliths",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Largest concentration of megalithic stones (menhirs and dolmens) in Meghalaya, erected by Jaintia kings and clans between the 16th and 19th centuries. Tallest menhir about 8 metres.",
+    "coordinates": {"lat": 25.5689, "lon": 92.2088},
+    "tags": ["monoliths", "megalithic", "heritage", "jaintia", "archaeology"],
+    "facts": ["North of Nartiang market", "Tallest menhir ~8m erected by Mar Phalyngki", "Declared national importance 1958", "About 25 km from Jowai"]
+  },
+  {
+    "id": "nartiang-durga-temple",
+    "name": "Nartiang Durga Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Ancient Shakti Peeth temple in Nartiang village, over 500 years old, dedicated to Durga. Features unique tribal-Hindu syncretism with rituals by local priests.",
+    "coordinates": {"lat": 25.567, "lon": 92.209},
+    "tags": ["temple", "shakti-peeth", "spiritual", "durga", "heritage"],
+    "facts": ["One of 51 Shakti Peethas", "About 600 years old", "Venue of Durga Puja with tribal elements", "Near the monolith garden"]
+  },
+  {
+    "id": "thadlaskein-lake",
+    "name": "Thadlaskein Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Historic man-made lake (Pung Sajar Nangli) near Mukhla on NH-6, created according to legend by followers of chieftain Sajar Nangli. Popular picnic and boating spot.",
+    "coordinates": {"lat": 25.497, "lon": 92.173},
+    "tags": ["lake", "picnic", "boating", "legend", "nature"],
+    "facts": ["About 8-10 km from Jowai", "Legend of creation with bow ends", "On National Highway 6", "Scenic views with pine surroundings"]
+  },
+  {
+    "id": "tyrshi-falls",
+    "name": "Tyrshi Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic multi-tiered waterfall near Jowai on the Shillong-Jowai road, accessible via an arch bridge over paddy fields. Offers cascading views and short walks.",
+    "coordinates": {"lat": 25.4714, "lon": 92.1914},
+    "tags": ["waterfall", "nature", "scenic", "accessible"],
+    "facts": ["About 5-8 km from Jowai", "Named after a local warrior legend", "Short walk from highway via arch bridge", "Popular family stop"]
+  },
+  {
+    "id": "jowai-town",
+    "name": "Jowai Town",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters of West Jaintia Hills and cultural hub of the Pnar (Jaintia) people. Base for exploring waterfalls, lakes, and monoliths, with markets and viewpoints.",
+    "coordinates": {"lat": 25.436, "lon": 92.191},
+    "tags": ["town", "headquarters", "gateway", "pnar", "culture"],
+    "facts": ["Elevation around 1380 m", "About 64 km from Shillong", "HQ of West Jaintia Hills (formed 2012)", "Surrounded by Myntdu River"]
+  },
+  {
+    "id": "phe-phe-falls",
+    "name": "Phe Phe Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Hidden two-tiered waterfall near Shkentalang/Jarain, plunging into turquoise pools amid cliffs and forest. Requires a moderate trek; 'Phe Phe' means paradise in local language.",
+    "coordinates": {"lat": 25.3504, "lon": 92.1615},
+    "tags": ["waterfall", "offbeat", "trek", "turquoise", "hidden-gem"],
+    "facts": ["About 20-22 km from Jowai", "Two-tiered cascade", "Short hike from campsite", "Near Paradise Adventure Camp"]
+  },
+  {
+    "id": "ialong-park",
+    "name": "Ialong Park",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ecological park about 8 km from Jowai with sacred grove and panoramic views of the Pynthorwah Valley and Myntdu River. Popular for family outings and sunsets.",
+    "coordinates": {"lat": 25.45, "lon": 92.22},
+    "tags": ["park", "viewpoint", "sacred-grove", "nature", "family"],
+    "facts": ["About 8 km from Jowai", "Views of valley and river", "Sacred grove area", "Developed as tourism spot"]
+  },
+  {
+    "id": "syntu-ksiar",
+    "name": "Syntu Ksiar",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic valley and calm pool area along the Myntdu River near Jowai, meaning 'golden flower'. Features suspension bridge, paddy fields, and historical significance with Kiang Nangbah memorial nearby.",
+    "coordinates": {"lat": 25.43, "lon": 92.19},
+    "tags": ["valley", "river", "bridge", "scenic", "heritage"],
+    "facts": ["Near Jowai town", "Myntdu River pool area", "Suspension bridge", "Site related to freedom struggle history"]
+  },
+  {
+    "id": "thlu-muwi",
+    "name": "Thlu Muwi Stone Bridge",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Historic megalithic stone bridge on the Jowai-Dawki road, built with large granite slabs by Jaintia warriors. Adjacent to scenic Muwi waterfalls.",
+    "coordinates": {"lat": 25.40, "lon": 92.15},
+    "tags": ["stone-bridge", "heritage", "megalithic", "waterfall"],
+    "facts": ["About 16 km from Jowai", "Built for Jaintia kings' travel", "Adjacent Muwi Falls", "Unique granite slab construction"]
+  }
+]
