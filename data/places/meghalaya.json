@@ -1,1 +1,62 @@
-[[CONTENT]]
+[
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital city of Meghalaya and headquarters of East Khasi Hills district, known as the Scotland of the East for its rolling hills, pine forests, and colonial-era architecture. Serves as the main base for exploring waterfalls, caves, and living root bridges of the region.",
+    "coordinates": {"lat": 25.5689, "lon": 91.8831},
+    "tags": ["capital", "hill-station", "gateway", "culture", "base"],
+    "facts": ["Capital and largest city of Meghalaya", "Headquarters of East Khasi Hills district", "Elevation around 1,496 m", "Known for educational institutions and vibrant markets"]
+  },
+  {
+    "id": "khliehriat-town",
+    "name": "Khliehriat",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters town of East Jaintia Hills district, administrative and commercial center for the Pnar community in the eastern Jaintia Hills. Gateway to caves, waterfalls, lakes and wildlife areas of the district.",
+    "coordinates": {"lat": 25.359, "lon": 92.367},
+    "tags": ["town", "headquarters", "gateway", "pnar-culture"],
+    "facts": ["HQ of East Jaintia Hills district since 2012", "Elevation around 710-800 m", "About 55 km from Shillong", "Main base for exploring district attractions"]
+  },
+  {
+    "id": "moopun-waterfalls",
+    "name": "Moopun Waterfalls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic waterfall on the Umjhai River at Mutong village, dropping about 110 feet into a crystal-clear pool, featuring a unique natural stone bridge above and rare pitcher plants on the rocks. Popular picnic and swimming spot.",
+    "coordinates": {"lat": 25.341, "lon": 92.592},
+    "tags": ["waterfall", "stone-bridge", "pitcher-plant", "picnic", "nature"],
+    "facts": ["About 25 km equidistant from Jowai and Khliehriat", "Height ~110 ft, width ~50 ft", "Natural stone bridge and swimming pool", "Legend links to Umhang Lake and Water Goddess"]
+  },
+  {
+    "id": "umhang-lake",
+    "name": "Umhang Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Largest natural lake in the Jaintia Hills, located at Bataw (Wataw) village, surrounded by forests and offering views toward the plains. Associated with local legend of creation by chieftain U Sajar Nangli; revered by villagers.",
+    "coordinates": {"lat": 25.230, "lon": 92.244},
+    "tags": ["lake", "nature", "folklore", "scenic", "largest"],
+    "facts": ["Largest natural lake in Jaintia Hills", "About 29 km from Khliehriat via Rymbai", "Created according to legend by Sajar Nangli", "Sacred to local community; overlooks Bangladesh plains"]
+  },
+  {
+    "id": "krem-liat-prah",
+    "name": "Krem Liat Prah",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Longest natural cave in South Asia and India, stretching over 30-34 km in the Shnongrim Ridge, with vast chambers including the Aircraft Hangar trunk passage, underground streams, and complex limestone formations. Adventure caving destination.",
+    "coordinates": {"lat": 25.374, "lon": 92.5388},
+    "tags": ["cave", "longest", "spelunking", "adventure", "limestone"],
+    "facts": ["Longest cave in India/South Asia (~31-34 km mapped)", "Near Shnongrim Ridge, East Jaintia Hills", "Features Aircraft Hangar chamber", "Best visited dry season Nov-May; guided exploration"]
+  },
+  {
+    "id": "narpuh-wildlife-sanctuary",
+    "name": "Narpuh Wildlife Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Wildlife sanctuary covering about 60 sq km of semi-evergreen and evergreen forests in the southern East Jaintia Hills, protecting threatened species including hoolock gibbons, hornbills and other Northeast fauna. Notified in 2014.",
+    "coordinates": {"lat": 25.105, "lon": 92.438},
+    "tags": ["wildlife", "sanctuary", "forest", "gibbon", "biodiversity"],
+    "facts": ["Area ~59.9 km², notified 10 June 2014", "Southern East Jaintia Hills near Lumshnong", "Important for western hoolock gibbon and hornbills", "Only major protected area in Jaintia Hills region"]
+  }
+]
