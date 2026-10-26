@@ -1,1 +1,23 @@
-$(cat /tmp/nagaland_updated.json)
+[
+  {
+    "id": "chinkhu-nagaland",
+    "name": "Chinkhu",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Chinkhu is a mountain in Nagaland, India.",
+    "facts": [
+      "Listed in geographic records as a mountain in Nagaland",
+      "Mapped elevation is about 2,526 m",
+      "Included because mapped sites often stay off visitor itineraries"
+    ],
+    "tags": [
+      "lesser-known",
+      "mapped",
+      "mountain"
+    ],
+    "coordinates": {
+      "lat": 25.82465,
+      "lon": 94.60284
+    }
+  }
+]
