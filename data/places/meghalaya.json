@@ -1,1 +1,80 @@
-$(cat /tmp/west_garo_hills_tourism.json)
+[
+  {
+    "id": "tura-peak-west-garo-hills",
+    "name": "Tura Peak",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Majestic peak on the eastern flank of Tura town offering panoramic views of the Brahmaputra plains and Bangladesh on clear days. Moderate trek through reserve forest with British-era path, Cinchona plantation, and wildlife like hornbills and gibbons.",
+    "coordinates": {"lat": 25.5075, "lon": 90.2436},
+    "tags": ["viewpoint", "trek", "nature", "offbeat"],
+    "facts": ["Elevation around 872-1181 m.", "Local legend links name to Dura/Durama.", "5-7 km from Tura town with footpath from British times."]
+  },
+  {
+    "id": "nokrek-national-park-west-garo-hills",
+    "name": "Nokrek National Park / Biosphere Reserve",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "UNESCO Biosphere Reserve and National Park in the Nokrek range, highest peak in Garo Hills. Home to rare Citrus indica (Memang Narang), hoolock gibbons, elephants, red pandas, and rich biodiversity. Trekking and nature trails available.",
+    "coordinates": {"lat": 25.533, "lon": 90.117},
+    "tags": ["UNESCO", "biosphere", "wildlife", "trek", "offbeat"],
+    "facts": ["Established as National Park in 1986, UNESCO Biosphere 2009.", "Core area about 47.48 km\u00b2 spanning West, East, North Garo Hills.", "Source of major rivers like Simsang."]
+  },
+  {
+    "id": "pelga-falls-west-garo-hills",
+    "name": "Pelga Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic waterfall 7 km from Tura on the Ganol River, popular for picnics, angling, and short walks. Features a traditional Garo bamboo bridge and viewpoints developed for tourism.",
+    "tags": ["waterfall", "picnic", "offbeat", "nature"],
+    "facts": ["7 km from Tura town.", "Traditional bamboo bridge over Ganol River.", "Best post-monsoon for full flow."]
+  },
+  {
+    "id": "rongbang-dare-waterfall-west-garo-hills",
+    "name": "Rongbang Dare Waterfall",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Multi-tiered waterfall near Chinabat/Rombagre village on the Tura-Williamnagar road, tributary of Simsang River. Surrounded by bamboo forests, with hanging bridge for views; best during monsoon.",
+    "tags": ["waterfall", "offbeat", "nature", "scenic-drive"],
+    "facts": ["About 37 km from Tura on Tura-Williamnagar Road.", "Height around 120 feet in places.", "Visible from the highway with short descent to base."]
+  },
+  {
+    "id": "aminda-rangsa-art-village-west-garo-hills",
+    "name": "Aminda Rangsa Art Village",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Offbeat cultural village known for wood and stone carvings by local artisans like Handum Marak, celebrating Garo motifs. Clean village with sustainable art focus, about 20-27 km from Tura.",
+    "coordinates": {"lat": 25.4255, "lon": 90.1606},
+    "tags": ["art", "culture", "offbeat", "village"],
+    "facts": ["In Gambegre block, PIN 794005.", "Famous for intricate Garo cultural sculptures.", "About 20 km from Tura."]
+  },
+  {
+    "id": "wadagokgre-archaeological-site-west-garo-hills",
+    "name": "Wadagokgre Archaeological Site",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Ancient fortified archaeological site near Bhaitbari/Phulbari with remnants of a 4th-century AD city, stupas, and temples once on the Brahmaputra bank. Protected ASI-related site with Buddhist and Hindu elements; currently under conservation.",
+    "coordinates": {"lat": 25.8228, "lon": 90.0063},
+    "tags": ["archaeology", "heritage", "offbeat", "history"],
+    "facts": ["15 km stretch of protected ancient fortified area.", "Excavations revealed large ancient township.", "Near Bhaitbari, about 60 km from Tura; access restricted in parts."]
+  },
+  {
+    "id": "rombagre-fish-sanctuary-west-garo-hills",
+    "name": "Rombagre Fish Sanctuary",
+    "state": "Meghalaya",
+    "category": "wildlife",
+    "description": "Community-managed fish sanctuary on the Simsang River at Rombagre village, protecting chocolate mahseer and other species. Clear waters allow viewing schools of fish; model for community conservation.",
+    "coordinates": {"lat": 25.5517, "lon": 90.3808},
+    "tags": ["fish-sanctuary", "wildlife", "community", "offbeat"],
+    "facts": ["About 35-37 km from Tura on Tura-Williamnagar road.", "Initiated with IFAD support around 2003-04.", "Also known as Songkal Wari."]
+  },
+  {
+    "id": "chandigre-village-west-garo-hills",
+    "name": "Chandigre Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Rural tourism village near Nokrek with traditional bamboo houses, orchards, forest trails, and resort. Offers cultural immersion in Garo lifestyle amid hills.",
+    "coordinates": {"lat": 25.527269, "lon": 90.327383},
+    "tags": ["village", "rural-tourism", "offbeat", "culture"],
+    "facts": ["About 30-34 km from Tura, near Nokrek.", "Elevation around 810 m.", "Traditional bamboo architecture and views."]
+  }
+]
