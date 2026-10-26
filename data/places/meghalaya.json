@@ -1,1 +1,12 @@
-$(cat /tmp/meghalaya_updated.json)
+[
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital city of Meghalaya and headquarters of East Khasi Hills district, known as the Scotland of the East for its rolling hills, pine forests, and colonial-era architecture. Serves as the main base for exploring waterfalls, caves, and living root bridges of the region.",
+    "coordinates": {"lat": 25.5689, "lon": 91.8831},
+    "tags": ["capital", "hill-station", "gateway", "culture", "base"],
+    "facts": ["Capital and largest city of Meghalaya", "Headquarters of East Khasi Hills district", "Elevation around 1,496 m", "Known for educational institutions and vibrant markets"]
+  }
+]
