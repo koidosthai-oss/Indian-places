@@ -68,5 +68,53 @@
     "coordinates": {"lat": 23.8315, "lon": 91.2868},
     "tags": ["town", "capital", "gateway", "headquarters"],
     "facts": ["Capital and largest city of Tripura", "HQ of West Tripura district", "Connected by air (IXA), rail and road", "Main base for visiting palaces and nearby attractions"]
+  },
+  {
+    "id": "unakoti-rock-carvings",
+    "name": "Unakoti Heritage Site (Rock Carvings)",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Ancient open-air Shaivite rock-cut sculptures in Unakoti district, dating to 7th-9th century CE. Features a colossal ~30-foot Unakotiswara Kal Bhairava Shiva head, giant Ganesha figures, Durga and other deities carved into hillside cliffs amid forest and streams. UNESCO tentative World Heritage site.",
+    "coordinates": {"lat": 24.317, "lon": 92.067},
+    "tags": ["rock-carvings", "heritage", "shaivite", "unesco-tentative", "shiva", "offbeat"],
+    "facts": ["UNESCO tentative list since December 2022", "Central Shiva head about 30 feet high including headdress", "Name means 'one less than a crore'", "About 8 km from Kailashahar; Ashokastami Mela in April"]
+  },
+  {
+    "id": "kailashahar-town",
+    "name": "Kailashahar",
+    "state": "Tripura",
+    "category": "other",
+    "description": "District headquarters of Unakoti and former capital of the Tripura kingdom. Gateway town on the Manu River near the Bangladesh border, base for visiting Unakoti rock carvings, with tea gardens, lakes and temples nearby.",
+    "coordinates": {"lat": 24.332, "lon": 92.004},
+    "tags": ["town", "gateway", "headquarters", "heritage", "border"],
+    "facts": ["Headquarters of Unakoti district (formed 2012)", "Former capital of Tripura kingdom", "About 178 km northeast of Agartala", "Base for Unakoti site 8 km away"]
+  },
+  {
+    "id": "khowrabil-lake",
+    "name": "Khowrabil Lake",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Historic lake near Kailashahar in Unakoti district, site of traditional water festivals and boat races in October-November. Associated with nearby Chaturdas Devata Mandir; attracts local visitors for recreation.",
+    "coordinates": {"lat": 24.38, "lon": 92.01},
+    "tags": ["lake", "nature", "boat-race", "festival", "offbeat"],
+    "facts": ["About 7 km from Kailashahar", "Annual water festival with boat races", "Near Chaturdas Devata Mandir", "Also known as Khaowra Bil or Rajar Dighi"]
+  },
+  {
+    "id": "chaturdas-devata-mandir-kailashahar",
+    "name": "Chaturdas Devata Mandir (Kailashahar)",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Temple dedicated to the fourteen deities (Chaturdas Devata) near Khowrabil Lake in Unakoti district. Reflects traditional Tripuri worship of the fourteen gods; popular with local pilgrims.",
+    "tags": ["temple", "spiritual", "fourteen-deities", "tripuri"],
+    "facts": ["Near Khowrabil Lake about 7 km from Kailashahar", "Dedicated to Chaturdasa Devata", "Part of local spiritual landscape in Unakoti", "Distinct from the Old Agartala temple"]
+  },
+  {
+    "id": "unakoti-eco-park",
+    "name": "Unakoti Eco Park",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Eco park near the Unakoti rock carvings site in Uttar Unakuti Reserve Forest, offering a place to rest and enjoy nature after visiting the heritage sculptures and waterfalls.",
+    "tags": ["park", "nature", "eco", "offbeat"],
+    "facts": ["Located in Uttar Unakuti R.F. area near Unakoti site", "Complements visits to the rock carvings", "Provides picnic and rest facilities", "Part of the Unakoti tourism circuit"]
   }
 ]
