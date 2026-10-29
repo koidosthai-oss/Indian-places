@@ -1,1 +1,12 @@
-PLACEHOLDER_TO_REPLACE
+[
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital of Meghalaya and headquarters of East Khasi Hills, known as the Scotland of the East. A colonial hill station with pine-clad hills, vibrant markets, music culture, and base for exploring waterfalls, caves, and villages.",
+    "coordinates": {"lat": 25.5689, "lon": 91.8831},
+    "tags": ["capital", "hill-station", "colonial", "music", "gateway"],
+    "facts": ["Elevation around 1,500 m", "Named after the sacred Shillong Peak", "Nearest major airport is Guwahati (~100-120 km)", "Famous for rock music scene and Police Bazaar"]
+  }
+]
