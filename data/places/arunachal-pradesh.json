@@ -1,1 +1,112 @@
-See tool result for full content; this is the prepared array of 11 tourism places for Papum Pare district.
+[
+  {
+    "id": "itanagar",
+    "name": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Capital city of Arunachal Pradesh and major urban centre in Papum Pare district. Gateway with airport, markets, and base for exploring nearby heritage and nature sites including Ita Fort and Ganga Lake.",
+    "coordinates": {"lat": 27.1, "lon": 93.62},
+    "tags": ["capital", "town", "gateway", "urban"],
+    "facts": ["State capital of Arunachal Pradesh", "Named after Ita Fort (Fort of Bricks)", "Elevation around 320 m", "Connected by Donyi Polo Airport and Naharlagun railway"]
+  },
+  {
+    "id": "ita-fort",
+    "name": "Ita Fort",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Medieval brick fort ruins in Itanagar that give the capital its name. Built in the 14th-15th century, likely by Sutiya/Chutia kings, with irregular walls, three gateways, and archaeological significance.",
+    "coordinates": {"lat": 27.092, "lon": 93.632},
+    "tags": ["fort", "heritage", "ruins", "medieval", "itanagar"],
+    "facts": ["Name means 'Fort of Bricks' in Assamese", "Total brickwork about 16,200 cubic metres", "Three gateways: western, eastern, southern", "Finds displayed at Jawaharlal Nehru State Museum"]
+  },
+  {
+    "id": "ganga-lake-gyakar-sinyi",
+    "name": "Ganga Lake (Gyakar Sinyi)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Serene natural freshwater lake about 6 km from Itanagar, locally called Gyakar Sinyi meaning 'confined water'. Surrounded by forest within Itanagar Wildlife Sanctuary; popular for boating, picnics and birdwatching.",
+    "coordinates": {"lat": 27.075, "lon": 93.568},
+    "tags": ["lake", "nature", "boating", "picnic", "wildlife-sanctuary"],
+    "facts": ["About 6 km west of Itanagar city centre", "Local Nyishi name Gyakar Sinyi / Geker Sinying", "Lies within Itanagar Wildlife Sanctuary", "Associated with local folklore involving mithun"]
+  },
+  {
+    "id": "jawaharlal-nehru-state-museum",
+    "name": "Jawaharlal Nehru State Museum",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "State museum in Itanagar showcasing ethnographic collections of Arunachal tribal cultures including costumes, jewellery, weapons, handicrafts and archaeological artefacts from sites like Ita Fort.",
+    "coordinates": {"lat": 27.102, "lon": 93.625},
+    "tags": ["museum", "heritage", "ethnography", "tribal-culture", "itanagar"],
+    "facts": ["Established in the 1980s; new building inaugurated 1990", "Ground floor ethnographic dioramas; first floor archaeology", "Includes cane workshop and handicraft shop", "Located near Gompa on Museum Road"]
+  },
+  {
+    "id": "gompa-buddhist-temple-itanagar",
+    "name": "Gompa Buddhist Temple (Centre for Buddhist Culture)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Hilltop Buddhist temple and centre in Itanagar, consecrated by the Dalai Lama. Features Tibetan-style architecture, white stupa, prayer wheels and panoramic views of the town and hills.",
+    "coordinates": {"lat": 27.1033, "lon": 93.6261},
+    "tags": ["temple", "spiritual", "buddhist", "gompa", "hilltop", "itanagar"],
+    "facts": ["Also known as Centre for Buddhist Culture or Siddhartha Vihar", "Visited by the 14th Dalai Lama", "Located on a hill near Nehru Museum", "Offers views over Itanagar"]
+  },
+  {
+    "id": "itanagar-biological-park",
+    "name": "Itanagar Biological Park",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Zoological park and biological reserve about 3-4 km from Itanagar city, spanning ~250 hectares of tropical evergreen forest. Houses over 200 animals including Himalayan black bear, tiger, hornbill; first in India to breed hoolock gibbon.",
+    "coordinates": {"lat": 27.07, "lon": 93.584},
+    "tags": ["zoo", "wildlife", "biological-park", "nature", "itanagar"],
+    "facts": ["Started as rescue centre in 1978; relocated and renamed Biological Park", "Area about 250 hectares within/near Itanagar Wildlife Sanctuary", "Attracts 60,000-75,000 visitors annually", "Known for successful hoolock gibbon breeding"]
+  },
+  {
+    "id": "itanagar-wildlife-sanctuary",
+    "name": "Itanagar Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Protected area of about 140 sq km around Itanagar established in 1978. Tropical semi-evergreen and evergreen forests supporting tiger, leopard, clouded leopard, elephant, gaur, hornbills and diverse flora; includes Ganga Lake.",
+    "coordinates": {"lat": 27.0685, "lon": 93.5814},
+    "tags": ["wildlife", "sanctuary", "forest", "nature", "papum-pare"],
+    "facts": ["Area 140.30 km\u00b2, established 1978", "Boundaries include Pam, Pachin rivers and streams", "Home to clouded leopard, Asian elephant, gaur, hornbills", "Important for environmental education near capital"]
+  },
+  {
+    "id": "dikrong-river-papum-pare",
+    "name": "Dikrong River (Papum Pare section)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Major river originating in the hills of Papum Pare district, flowing through Doimukh, Nirjuli and Banderdewa before entering Assam to join the Subansiri. Offers riverbank picnics, views and local recreation.",
+    "coordinates": {"lat": 27.135, "lon": 93.568},
+    "tags": ["river", "nature", "picnic", "dikrong", "papum-pare"],
+    "facts": ["Originates in sub-Himalayan hills of Papum Pare", "Mentioned in Kalika Purana as Dikkar Basini", "Flows past Doimukh and Nirjuli", "Tributary of Subansiri-Brahmaputra system"]
+  },
+  {
+    "id": "yupia",
+    "name": "Yupia",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Headquarters town of Papum Pare district, about 20 km from Itanagar. Administrative centre with NIT Arunachal Pradesh campus and gateway to surrounding rural and river areas.",
+    "coordinates": {"lat": 27.1692, "lon": 93.7431},
+    "tags": ["town", "headquarters", "gateway", "papum-pare"],
+    "facts": ["District headquarters of Papum Pare", "About 20 km from Itanagar", "Home to National Institute of Technology Arunachal Pradesh", "Elevation around 135-226 m"]
+  },
+  {
+    "id": "doimukh",
+    "name": "Doimukh",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Small town on the banks of the Dikrong River in Papum Pare, known for scenic river views, Nyishi culture and as a local hub between Itanagar and Yupia areas.",
+    "coordinates": {"lat": 27.15, "lon": 93.75},
+    "tags": ["town", "riverbank", "nyishi", "dikrong"],
+    "facts": ["Located on Dikrong River banks", "About 18 km from Yupia", "PIN 791112; Nyishi community area", "Scenic pebble banks and river views"]
+  },
+  {
+    "id": "naharlagun",
+    "name": "Naharlagun",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Major town in the Itanagar Capital Complex / Papum Pare foothills, about 10 km from Itanagar. Key transport hub with railway station connecting to the rest of India and commercial centre.",
+    "coordinates": {"lat": 27.103, "lon": 93.701},
+    "tags": ["town", "gateway", "railway", "commercial"],
+    "facts": ["Population ~36,000 (2011)", "Naharlagun railway station is major railhead for Arunachal", "About 10 km from Itanagar", "Elevation around 155 m"]
+  }
+]
