@@ -1,1 +1,82 @@
-See tool for content
+[
+  {
+    "id": "tawang-monastery",
+    "name": "Tawang Monastery (Gaden Namgyal Lhatse)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Largest Buddhist monastery in India and one of the largest in Asia, founded in 1680-81 by Merak Lama Lodre Gyatso under the guidance of the 5th Dalai Lama. Perched at about 3,000 m overlooking the Tawang Chu valley, it belongs to the Gelug school and houses an 8 m gilded Buddha statue, ancient scriptures, and around 450 monks.",
+    "coordinates": {"lat": 27.58639, "lon": 91.8575},
+    "tags": ["monastery", "buddhist", "gelug", "heritage", "spiritual", "landmark"],
+    "facts": ["Founded 1680-1681 by Merak Lama Lodre Gyatso", "Elevation about 3,000 m (10,000 ft)", "Largest monastery in India; houses ~450 monks", "Birthplace region of the 6th Dalai Lama nearby", "Open daily; museum entry low fee", "Inner Line Permit required for the district"]
+  },
+  {
+    "id": "sangetsar-tso",
+    "name": "Sangetsar Tso (Madhuri Lake / Shonga-tser Lake)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "High-altitude lake at about 3,708 m on the road toward Bum La Pass, formed by an earthquake that submerged a forest, leaving dead tree trunks standing in the water. Popularly known as Madhuri Lake after a Bollywood film shoot; surrounded by rugged Himalayan peaks.",
+    "coordinates": {"lat": 27.72, "lon": 91.82},
+    "tags": ["lake", "nature", "high-altitude", "offbeat", "photography"],
+    "facts": ["Elevation ~3,708 m (12,165 ft)", "About 35 km north of Tawang town", "Created by earthquake; submerged forest trunks visible", "Also called Shonga-tser or Sangestar Tso", "Special Army permit often needed beyond basic ILP", "Best Apr-Oct; road can be rough"]
+  },
+  {
+    "id": "sela-pass",
+    "name": "Sela Pass (Se La)",
+    "state": "Arunachal Pradesh",
+    "category": "hill-station",
+    "description": "High-altitude mountain pass at 4,170 m on the border of Tawang and West Kameng districts, carrying NH-13 and the main road access to Tawang. Often snow-covered; features prayer-flag-adorned gates, nearby Sela Lake, and now bypassed in part by the Sela Tunnel for all-weather connectivity.",
+    "coordinates": {"lat": 27.5048, "lon": 92.1047},
+    "tags": ["pass", "hill-station", "high-altitude", "snow", "scenic-drive"],
+    "facts": ["Elevation 4,170 m (13,700 ft)", "On border of Tawang and West Kameng districts", "About 78 km from Tawang town", "Sela Tunnel opened for all-weather access", "Named after local Monpa woman Sela; Jaswant Garh nearby", "Snow possible year-round; check road conditions"]
+  },
+  {
+    "id": "nuranang-falls",
+    "name": "Nuranang Falls (Jang Falls / Bong Bong Falls)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Spectacular ~100 m high curtain waterfall near Jang town on the Tawang–Bomdila route, fed by the Nuranang Chu originating from Sela Pass slopes. Popular stop with a small hydel plant at the base; featured in Bollywood films.",
+    "coordinates": {"lat": 27.5895, "lon": 91.9841},
+    "tags": ["waterfall", "nature", "scenic", "photography"],
+    "facts": ["Height about 100 m (330 ft)", "2 km from Jang town; ~40 km from Tawang", "Also known as Jung or Bong Bong Falls", "Nuranang Chu joins Tawang River below", "Named in local lore after Monpa girl Nura", "Accessible by road; best monsoon to post-monsoon for volume"]
+  },
+  {
+    "id": "urgelling-monastery",
+    "name": "Urgelling Monastery (Ugyenling Gompa)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Historic small monastery founded around 1489, recognized as the birthplace of the 6th Dalai Lama Tsangyang Gyatso (born 1683). Quiet Nyingma-school gompa a few kilometres from Tawang town, offering a more intimate spiritual experience than the larger Tawang Monastery.",
+    "coordinates": {"lat": 27.5883, "lon": 91.8653},
+    "tags": ["monastery", "buddhist", "dalai-lama", "heritage", "spiritual"],
+    "facts": ["Birthplace of 6th Dalai Lama Tsangyang Gyatso (1683)", "Founded ~1489 by Urgen Sangpo", "About 3–5 km from Tawang town", "Smaller and quieter than Tawang Monastery", "Sacred trees and historical inscriptions", "Free entry; combine with Tawang Monastery visit"]
+  },
+  {
+    "id": "tawang-war-memorial",
+    "name": "Tawang War Memorial",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Memorial in the form of a Buddhist chorten/stupa dedicated to Indian soldiers who lost their lives in the 1962 Sino-Indian War. Located on a hill overlooking Tawang town; names of fallen inscribed on granite, with prayer flags and a solemn atmosphere.",
+    "coordinates": {"lat": 27.5868, "lon": 91.8767},
+    "tags": ["war-memorial", "heritage", "1962-war", "patriotic", "stupa"],
+    "facts": ["Honours soldiers of the 1962 Indo-China War", "Chorten/stupa architecture ~12 m high", "Names engraved on black granite", "Overlooking Tawang town and valleys", "Free entry; respectful visit recommended", "Near town centre; easy access"]
+  },
+  {
+    "id": "bum-la-pass",
+    "name": "Bum La Pass",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "High-altitude border pass at about 4,600 m on the India–China Line of Actual Control, historically a trade route and site of fierce fighting in 1962. Features a Border Personnel Meeting point and stone cairn symbolising relations; restricted access requiring special permits.",
+    "coordinates": {"lat": 27.7237, "lon": 91.8916},
+    "tags": ["pass", "border", "offbeat", "restricted", "heritage"],
+    "facts": ["Elevation ~4,600 m (15,200 ft)", "About 37 km from Tawang town", "Border Personnel Meeting point with China", "Historical 1962 war site and old trade route", "Special Army/ILP permits required; SUVs recommended", "Not always open to civilians; check status"]
+  },
+  {
+    "id": "tawang-town",
+    "name": "Tawang Town",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "District headquarters and main tourist base in the high-altitude Monpa Buddhist heartland of western Arunachal Pradesh. Gateway for the monastery, lakes, passes and border areas; served by road via Sela Pass/Tunnel from the Assam plains.",
+    "coordinates": {"lat": 27.5883, "lon": 91.8653},
+    "tags": ["town", "gateway", "headquarters", "monpa", "base"],
+    "facts": ["HQ of Tawang district; elevation ~2,700–3,000 m", "Main base for Tawang Monastery and nearby sites", "Inner Line Permit mandatory for Indian tourists", "Road access via NH-13 / Sela Tunnel from Tezpur/Guwahati", "Monpa culture, local handicrafts and markets", "Nearest major air/rail links in Assam"]
+  }
+]
