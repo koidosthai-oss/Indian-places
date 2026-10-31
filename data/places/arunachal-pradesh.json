@@ -1,1 +1,82 @@
-PLACEHOLDER
+[
+  {
+    "id": "seppa-town",
+    "name": "Seppa",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "District headquarters of East Kameng, situated on the banks of the Kameng River in a scenic valley. Serves as the main gateway and base for exploring nearby valleys, hill stations and tribal villages of the Nyishi community.",
+    "coordinates": {"lat": 27.3616, "lon": 93.0405},
+    "tags": ["town", "gateway", "headquarters", "river", "nyishi"],
+    "facts": ["HQ of East Kameng district", "Elevation about 363 m", "About 160 km from Itanagar", "Helipad in the heart of town; connected by road to Tezpur and Itanagar"]
+  },
+  {
+    "id": "bameng-valley",
+    "name": "Bameng Valley",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Scenic highland valley and hill-station-like area about 48 km north of Seppa, surrounded by misty mountains, paddy fields and forests. Known for traditional Nyishi villages and panoramic views, including of snow peaks.",
+    "coordinates": {"lat": 27.545, "lon": 92.946},
+    "tags": ["valley", "hill-station", "nature", "nyishi", "offbeat"],
+    "facts": ["About 48 km from Seppa", "Cooler climate like a hill station", "Views of Gorichaan snow peak", "Agricultural fields and forests"]
+  },
+  {
+    "id": "chayangtajo",
+    "name": "Chayangtajo",
+    "state": "Arunachal Pradesh",
+    "category": "hill-station",
+    "description": "Picturesque hilltop town and administrative circle about 81 km from Seppa, famous for views of the snow-peaked Gorichaan (Gori Chen) mountain. Source area of the Kameng River with terraced fields and Nyishi/Puroik culture.",
+    "coordinates": {"lat": 27.68, "lon": 93.134},
+    "tags": ["hill-station", "viewpoint", "nature", "nyishi", "offbeat"],
+    "facts": ["About 81 km from Seppa via road", "Famous for Gorichaan snow peak views", "Kameng River originates nearby", "Elevation around 1,000-1,500 m"]
+  },
+  {
+    "id": "pappu-valley",
+    "name": "Pappu Valley (Lumdung)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "One of the three scenic valleys of East Kameng, with the meandering Pappu River, green paddy fields on both banks, and migratory birds in winter at Lumdung. Located about 21 km from Seppa under Seppa Block.",
+    "coordinates": {"lat": 27.28, "lon": 93.09},
+    "tags": ["valley", "nature", "birdwatching", "paddy", "offbeat"],
+    "facts": ["About 21 km from Seppa", "Part of the official Three Valleys", "Famous for migratory birds in winter", "Green with natural beauty in summer"]
+  },
+  {
+    "id": "kameng-river-seppa",
+    "name": "Kameng River (Seppa section)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Major river flowing through East Kameng, known for angling and fishing in winter (permit required) and scenic riverside views near Seppa. Originates near Chayangtajo and offers potential for adventure activities.",
+    "coordinates": {"lat": 27.36, "lon": 93.04},
+    "tags": ["river", "angling", "nature", "rafting", "scenic"],
+    "facts": ["Good for angling in winter with district permission", "Flows through Seppa town", "Known as Bhareli in Assam", "Scenic meanders and canyons in the district"]
+  },
+  {
+    "id": "khenewa-valley",
+    "name": "Khenewa Valley",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Verdant highland valley near Bameng and Chayangtajo, featuring misty hills, scenic river views, open spaces and traditional settlements. Popular for photography and quiet exploration of Nyishi landscapes.",
+    "coordinates": {"lat": 27.5941, "lon": 93.0359},
+    "tags": ["valley", "nature", "offbeat", "misty", "photography"],
+    "facts": ["Circle headquarters area", "Elevation around 900 m", "Surrounded by hills and forests", "Offbeat destination from Seppa"]
+  },
+  {
+    "id": "lada",
+    "name": "Lada",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Remote mountain settlement in East Kameng embraced by forests, steep hills and babbling brooks. Offers peace, privacy and traditional tribal experiences away from main routes.",
+    "coordinates": {"lat": 27.5682, "lon": 92.7774},
+    "tags": ["offbeat", "remote", "nature", "village", "tribal"],
+    "facts": ["Circle area in the district", "Elevation around 1,200 m", "Surrounded by forests and hills", "Suitable for quiet offbeat visits"]
+  },
+  {
+    "id": "gorichaan-viewpoint",
+    "name": "Gorichaan (Gori Chen) Viewpoint",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Snow-peaked mountain group (Gori Chen / Gorichaan) visible from Chayangtajo and Bameng in East Kameng. The high Himalayan massif is a prominent landmark for the district's northern views.",
+    "coordinates": {"lat": 27.68, "lon": 93.13},
+    "tags": ["peak", "viewpoint", "snow", "nature", "himalaya"],
+    "facts": ["Visible from Chayangtajo (official highlight)", "Also seen from Bameng", "Part of the Gori Chen group in the Eastern Himalayas", "Sacred local significance"]
+  }
+]
