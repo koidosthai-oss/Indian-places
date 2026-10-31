@@ -1,1 +1,101 @@
-REALCONTENT
+[
+  {
+    "id": "tawang-monastery",
+    "name": "Tawang Monastery (Galden Namgyal Lhatse)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Largest Buddhist monastery in India and second-largest in the world, belonging to the Gelug school. Founded in 1680-81 by Merak Lama Lodre Gyatso on the wishes of the 5th Dalai Lama. Features an 8-metre gilded Buddha statue, ancient scriptures, and panoramic views of the Tawang Chu valley. Birthplace connection to the 6th Dalai Lama.",
+    "coordinates": {"lat": 27.58639, "lon": 91.8575},
+    "tags": ["monastery", "gelug", "dalai-lama", "heritage", "spiritual", "monpa"],
+    "facts": ["Founded 1680-81 by Merak Lama Lodre Gyatso", "Elevation about 3,000 m", "Houses over 400-500 monks", "ILP required for visitors", "Museum entry around \u20b920"]
+  },
+  {
+    "id": "tawang-town",
+    "name": "Tawang Town",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "District headquarters and main tourist base in Tawang district at about 3,000 m elevation. Gateway for exploring the monastery, lakes, and high-altitude sites. Known for Monpa culture, handicrafts, and markets.",
+    "coordinates": {"lat": 27.58833, "lon": 91.86528},
+    "tags": ["town", "gateway", "headquarters", "monpa", "hill-station"],
+    "facts": ["HQ of Tawang district", "Elevation around 3,000 m", "Population about 11,000 (2011)", "Base for Bum La and Madhuri Lake trips", "ILP mandatory"]
+  },
+  {
+    "id": "urgelling-monastery",
+    "name": "Urgelling Monastery",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Historic Buddhist monastery and birthplace of the 6th Dalai Lama Tsangyang Gyatso (born 1683). Founded around 1489 by Urgen Sangpo. Smaller and quieter than Tawang Monastery, with traditional Tibetan architecture and spiritual significance for pilgrims.",
+    "coordinates": {"lat": 27.5883, "lon": 91.8653},
+    "tags": ["monastery", "dalai-lama", "birthplace", "spiritual", "nyingma"],
+    "facts": ["Birthplace of 6th Dalai Lama Tsangyang Gyatso", "Founded ~1489 by Urgen Sangpo", "About 3-5 km from Tawang town", "Peaceful setting for meditation", "ILP required"]
+  },
+  {
+    "id": "sela-pass",
+    "name": "Sela Pass",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "High-altitude mountain pass at 4,170 m on the border of Tawang and West Kameng districts. Key gateway on NH-13 with snow cover much of the year, Sela Lake nearby, and the recently opened Sela Tunnel below for all-weather access. Iconic scenic stop en route to Tawang.",
+    "coordinates": {"lat": 27.5048, "lon": 92.1047},
+    "tags": ["pass", "high-altitude", "scenic", "snow", "tunnel", "nature"],
+    "facts": ["Elevation 4,170 m (13,700 ft)", "On border of Tawang and West Kameng", "Sela Tunnel opened 2024 for all-weather connectivity", "About 78 km from Tawang town", "Snowbound historically Nov-May"]
+  },
+  {
+    "id": "nuranang-falls",
+    "name": "Nuranang Falls (Jang Falls)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "100 m high curtain waterfall near Jang town, originating from slopes of Sela Pass. Popular picnic and photography spot with a small hydel plant at the base. Featured in Bollywood films; named after a local Monpa legend.",
+    "coordinates": {"lat": 27.5895, "lon": 91.9841},
+    "tags": ["waterfall", "nature", "scenic", "photography", "offbeat"],
+    "facts": ["Height about 100 m", "Near Jang town, ~40 km from Tawang", "Also known as Bong Bong or Jung Falls", "Small hydel plant nearby", "Featured in film Koyla"]
+  },
+  {
+    "id": "sangetsar-tso",
+    "name": "Sangetsar Tso (Madhuri Lake)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "High-altitude lake at about 3,708 m formed by an earthquake, famous for partially submerged tree trunks in turquoise waters. Popularly called Madhuri Lake after a Bollywood song sequence. Located on the road toward Bum La Pass; requires permit and good weather for access.",
+    "coordinates": {"lat": 27.72, "lon": 91.82},
+    "tags": ["lake", "high-altitude", "nature", "photography", "offbeat", "earthquake"],
+    "facts": ["Elevation ~3,708 m", "Formed by earthquake (trees still standing in water)", "About 30-35 km from Tawang", "Army permit often required with Bum La route", "Featured in 1997 film Koyla"]
+  },
+  {
+    "id": "tawang-war-memorial",
+    "name": "Tawang War Memorial",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Stupa-shaped memorial (about 12 m high) dedicated to Indian soldiers who died in the 1962 Sino-Indian War. Features engraved names, artifacts, and a peaceful hilltop setting with views over Tawang. Also known as Namgyal Chorten.",
+    "coordinates": {"lat": 27.5868, "lon": 91.8767},
+    "tags": ["memorial", "heritage", "1962-war", "stupa", "patriotic"],
+    "facts": ["Dedicated to 1962 war heroes", "Stupa architecture blending local style", "Names of over 2,000 soldiers engraved", "Near Tawang town", "Free entry, respectful atmosphere"]
+  },
+  {
+    "id": "pankang-teng-tso",
+    "name": "Pankang Teng Tso (PT Tso)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Pristine high-altitude lake about 17 km from Tawang in the Nagula wetland area, surrounded by rhododendron and pine. Freezes in winter; popular stop on the way to Bum La or Madhuri Lake. Spiritual significance in local Buddhist tradition.",
+    "coordinates": {"lat": 27.6395, "lon": 91.8537},
+    "tags": ["lake", "high-altitude", "nature", "rhododendron", "offbeat"],
+    "facts": ["About 17 km from Tawang town", "Elevation around 3,700-3,900 m", "Freezes completely in winter", "Part of Nagula wetland complex", "Often combined with Sangetsar Tso visit"]
+  },
+  {
+    "id": "jaswant-garh-war-memorial",
+    "name": "Jaswant Garh War Memorial",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Memorial honoring Rifleman Jaswant Singh Rawat of the 4th Garhwal Rifles for his bravery in the 1962 Sino-Indian War near Nuranang. Maintained site with flags and tributes along the highway between Sela and Tawang.",
+    "coordinates": {"lat": 27.56, "lon": 91.998},
+    "tags": ["memorial", "heritage", "1962-war", "jaswant-singh", "patriotic"],
+    "facts": ["Honors Rifleman Jaswant Singh Rawat MVC (posthumous)", "Near Nuranang/Jang on NH-13", "About 20-25 km from Tawang", "Site of intense 1962 fighting", "Popular stop for travellers"]
+  },
+  {
+    "id": "gorsam-chorten",
+    "name": "Gorsam Chorten",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Historic stupa near Zemithang in western Tawang district, significant in Monpa Buddhist tradition. Part of the offbeat Zemithang circuit with valley views and cultural importance.",
+    "tags": ["stupa", "chorten", "spiritual", "offbeat", "zemithang", "monpa"],
+    "facts": ["Near Zemithang village, ~85-90 km from Tawang", "Important local Buddhist site", "Part of western Tawang offbeat circuit", "Accessible with ILP, no extra army permit typically", "Combine with Zemithang valley visit"]
+  }
+]
