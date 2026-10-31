@@ -1,1 +1,12 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "tawang-monastery",
+    "name": "Tawang Monastery (Galden Namgyal Lhatse)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Largest Buddhist monastery in India and second-largest in the world, founded in 1680-81 by Merak Lama Lodre Gyatso. Houses a 28-foot gilded Buddha statue, ancient manuscripts, and is the spiritual heart of the Monpa community. Birthplace region of the 6th Dalai Lama; overlooks the Tawang Chu valley.",
+    "coordinates": {"lat": 27.58639, "lon": 91.8575},
+    "tags": ["monastery", "buddhist", "gelug", "heritage", "spiritual", "dalai-lama"],
+    "facts": ["Founded 1680-81 following wishes of 5th Dalai Lama", "Elevation about 3,000 m", "Home to hundreds of monks", "Famous for Torgya and Losar festivals", "Requires ILP for visitors"]
+  }
+]
