@@ -1,1 +1,21 @@
-PLACEHOLDER_TO_BE_REPLACED_WITH_FULL_ARRAY
+[
+  {
+    "id": "bomdila-town",
+    "name": "Bomdila Town",
+    "state": "Arunachal Pradesh",
+    "category": "hill-station",
+    "description": "District headquarters of West Kameng at about 2,415 m elevation. Scenic hill station with apple orchards, Buddhist gompas, craft centres and views of the Eastern Himalayas. Gateway on the Tezpur-Tawang highway.",
+    "coordinates": {
+      "lat": 27.26475,
+      "lon": 92.42472
+    },
+    "tags": ["hill-station", "headquarters", "monpa", "orchards"],
+    "facts": [
+      "HQ of West Kameng district",
+      "Elevation approximately 2,415 m",
+      "Known for apple orchards and monasteries",
+      "Requires Inner Line Permit",
+      "Best season October to April"
+    ]
+  }
+]
