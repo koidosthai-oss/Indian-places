@@ -1,1 +1,230 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital of Meghalaya and headquarters of East Khasi Hills, known as the Scotland of the East. Scenic hill station at about 1,500 m elevation with pine forests, colonial architecture, lakes, waterfalls, and vibrant Khasi culture. Main gateway for the region.",
+    "coordinates": {
+      "lat": 25.5689,
+      "lon": 91.8831
+    },
+    "tags": ["hill-station", "capital", "khasi", "gateway", "scotland-of-the-east"],
+    "facts": [
+      "Capital of Meghalaya and HQ of East Khasi Hills",
+      "Elevation around 1,496 m",
+      "Named after the deity Lei Shyllong on Shillong Peak",
+      "Nearest airport Umroi; major access via Guwahati",
+      "Best season October to April"
+    ]
+  },
+  {
+    "id": "sohra-cherrapunji",
+    "name": "Sohra (Cherrapunji)",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Sub-divisional town in East Khasi Hills famous as one of the wettest places on Earth. Plateau settlement at about 1,430 m with dramatic cliffs, waterfalls, living root bridges nearby, and views of Bangladesh plains. Traditional capital of Hima Sohra.",
+    "coordinates": {
+      "lat": 25.284,
+      "lon": 91.721
+    },
+    "tags": ["hill-station", "wettest", "waterfalls", "khasi", "plateau"],
+    "facts": [
+      "Locally known as Sohra",
+      "Elevation approximately 1,430 m",
+      "Holds records for extreme rainfall",
+      "About 54 km from Shillong",
+      "Gateway to Nohkalikai and living root bridges"
+    ]
+  },
+  {
+    "id": "nohkalikai-falls",
+    "name": "Nohkalikai Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Tallest plunge waterfall in India at about 340 m, plunging from the Cherrapunji plateau near Sohra into a turquoise pool. Fed by rainwater on the plateau edge; linked to the local legend of Ka Likai.",
+    "coordinates": {
+      "lat": 25.27556,
+      "lon": 91.68667
+    },
+    "tags": ["waterfall", "plunge", "legend", "scenic", "tallest"],
+    "facts": [
+      "Height approximately 340 metres (1,115 ft)",
+      "Tallest plunge waterfall in India",
+      "Located near Sohra/Cherrapunji",
+      "Plunge pool has distinctive green hue",
+      "Best viewed in monsoon for full flow"
+    ]
+  },
+  {
+    "id": "mawlynnong-village",
+    "name": "Mawlynnong Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Village in Pynursla block of East Khasi Hills awarded Asia's cleanest village by Discover India in 2003. Features living root bridges, skywalk viewpoint over Bangladesh plains, matrilineal Khasi culture, and community-led cleanliness and eco-tourism.",
+    "coordinates": {
+      "lat": 25.2018,
+      "lon": 91.916
+    },
+    "tags": ["village", "cleanest", "offbeat", "root-bridge", "khasi", "eco-tourism"],
+    "facts": [
+      "Awarded cleanest village in Asia in 2003",
+      "About 90 km from Shillong near Bangladesh border",
+      "Population around 500-900; high literacy",
+      "Features living root bridges and viewpoints",
+      "Matrilineal society with betel nut cultivation"
+    ]
+  },
+  {
+    "id": "double-decker-living-root-bridge",
+    "name": "Double Decker Living Root Bridge (Nongriat)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Iconic two-tier living root bridge in Nongriat village, East Khasi Hills, formed by guiding Ficus elastica roots across a stream over generations. Requires a steep trek of about 3,000-3,500 steps from Tyrna; rare example of traditional bio-engineering.",
+    "coordinates": {
+      "lat": 25.251,
+      "lon": 91.672
+    },
+    "tags": ["living-root-bridge", "trek", "nature", "khasi", "offbeat", "bio-engineering"],
+    "facts": [
+      "Located in Nongriat village near Sohra",
+      "Lower bridge estimated over 180 years old",
+      "Trek from Tyrna involves ~3,500 steps",
+      "Can support dozens of people; strengthens over time",
+      "Entry fee collected for maintenance"
+    ]
+  },
+  {
+    "id": "shillong-peak",
+    "name": "Shillong Peak",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Highest point in Meghalaya at about 1,965 m, about 10 km south of Shillong. Offers panoramic views of the city, hills, and distant plains. Sacred site for Khasi people associated with the deity U Lei Shyllong; access via Air Force area with ID checks.",
+    "coordinates": {
+      "lat": 25.5475,
+      "lon": 91.875
+    },
+    "tags": ["peak", "viewpoint", "sacred", "hill-station", "khasi"],
+    "facts": [
+      "Highest point in Meghalaya (~1,965 m)",
+      "About 10 km from Shillong city",
+      "Sacred to Khasi as abode of Lei Shyllong",
+      "Best views on clear days; fog common in monsoon",
+      "Photo ID required; cameras restricted in some areas"
+    ]
+  },
+  {
+    "id": "mawsmai-cave",
+    "name": "Mawsmai Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Limestone show cave near Sohra (Cherrapunji) in East Khasi Hills, about 150-250 m accessible length with stalactites and stalagmites. One of the first electrically lit caves in Meghalaya; easy entry for tourists.",
+    "coordinates": {
+      "lat": 25.29583,
+      "lon": 91.69056
+    },
+    "tags": ["cave", "limestone", "nature", "show-cave", "stalactites"],
+    "facts": [
+      "About 6 km from Sohra town",
+      "Accessible length around 150 m for tourists",
+      "Name means 'Oath Stone Cave' in Khasi",
+      "Electric lighting; entry fee applies",
+      "Near Nohsngithiang Falls"
+    ]
+  },
+  {
+    "id": "elephant-falls",
+    "name": "Elephant Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Three-tier waterfall in Upper Shillong, East Khasi Hills, about 12 km from city centre. Locally Ka Kshaid Lai Pateng Khohsiew; named for a former elephant-shaped rock. Scenic cascades amid ferns and greenery.",
+    "coordinates": {
+      "lat": 25.53786,
+      "lon": 91.82205
+    },
+    "tags": ["waterfall", "three-tier", "nature", "scenic", "accessible"],
+    "facts": [
+      "About 12 km from Shillong centre",
+      "Three successive drops",
+      "Original Khasi name for three-step waterfall",
+      "Entry fee and photo permit",
+      "Popular picnic and photography spot"
+    ]
+  },
+  {
+    "id": "laitlum-canyon",
+    "name": "Laitlum Canyon",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Dramatic canyon and viewpoint near Smit in East Khasi Hills, about 25 km from Shillong. Grassy ridges drop into deep green valleys; known for 3,000-step trek to Rasong village and panoramic vistas. Featured in films.",
+    "coordinates": {
+      "lat": 25.4488,
+      "lon": 91.9114
+    },
+    "tags": ["canyon", "viewpoint", "trek", "nature", "offbeat"],
+    "facts": [
+      "About 25 km from Shillong via Smit",
+      "Means 'end of hills' in Khasi",
+      "Steep trail of ~3,000 steps to valley",
+      "Best in clear weather for views",
+      "Traditional pulley system used by villagers"
+    ]
+  },
+  {
+    "id": "mawphlang-sacred-grove",
+    "name": "Mawphlang Sacred Grove",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ancient protected sacred forest (Law Lyngdoh) near Mawphlang village in East Khasi Hills, about 25 km from Shillong. Preserved by Khasi community for centuries; rich biodiversity with no removal of anything allowed. Includes megaliths and ritual sites.",
+    "coordinates": {
+      "lat": 25.4458,
+      "lon": 91.7496
+    },
+    "tags": ["sacred-grove", "forest", "nature", "khasi", "heritage", "biodiversity"],
+    "facts": [
+      "About 25-26 km from Shillong",
+      "Area around 75-80 hectares",
+      "Protected by traditional taboos for centuries",
+      "Home to rare plants, rhododendrons, and fauna",
+      "Guided walks available; nothing may be taken"
+    ]
+  },
+  {
+    "id": "nohsngithiang-falls",
+    "name": "Nohsngithiang Falls (Seven Sisters)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Segmented seven-stream waterfall near Mawsmai village in East Khasi Hills, about 315 m high. Plunges over limestone cliffs near Sohra; spectacular in monsoon when segments span the cliff face.",
+    "coordinates": {
+      "lat": 25.243,
+      "lon": 91.743
+    },
+    "tags": ["waterfall", "segmented", "nature", "seven-sisters", "scenic"],
+    "facts": [
+      "Height about 315 metres",
+      "Near Mawsmai, south of Sohra",
+      "Also called Seven Sisters or Mawsmai Falls",
+      "Best in rainy season for full flow",
+      "Viewpoint offers plains of Bangladesh views"
+    ]
+  },
+  {
+    "id": "wards-lake",
+    "name": "Ward's Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Man-made lake in the heart of Shillong, named after Sir William Ward. Popular for boating, gardens, and walks; locally known as Nan Polok. Central recreational spot amid the hill station.",
+    "coordinates": {
+      "lat": 25.575,
+      "lon": 91.887
+    },
+    "tags": ["lake", "boating", "park", "nature", "recreational"],
+    "facts": [
+      "Central location in Shillong",
+      "Named after Chief Commissioner Sir William Ward",
+      "Boating and garden paths available",
+      "Popular with locals and tourists",
+      "Surrounded by colonial-era surroundings"
+    ]
+  }
+]
