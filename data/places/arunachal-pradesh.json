@@ -1,1 +1,184 @@
-$(cat /tmp/papum_pare_places.json)
+[
+  {
+    "id": "ita-fort-itanagar-arunachal-pradesh",
+    "name": "Ita Fort",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Medieval brick fort in Itanagar that gives the capital its name. Built in the 14th-15th century by Chutia/Sutiya kings with extensive brickwork, featuring irregular walls and multiple gates. Archaeological finds are displayed at the nearby museum.",
+    "coordinates": {
+      "lat": 27.092,
+      "lon": 93.632
+    },
+    "tags": ["fort", "heritage", "historical", "itanagar", "bricks", "papum-pare"],
+    "facts": [
+      "Located in Papum Pare district, Itanagar.",
+      "Name means 'Fort of Bricks' in Assamese.",
+      "Coordinates from Wikipedia: 27.092 N, 93.632 E.",
+      "Built with over 16,200 cubic metres of brickwork.",
+      "Three entrances on western, eastern and southern sides."
+    ]
+  },
+  {
+    "id": "ganga-lake-geker-sinying-itanagar-arunachal-pradesh",
+    "name": "Ganga Lake (Geker Sinying)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Serene natural freshwater lake surrounded by dense tropical rainforest, orchids and bamboo, about 6 km from Itanagar. Popular for boating, picnics and nature walks within the Itanagar Wildlife Sanctuary. Locally known as Geker Sinying or Gyakar Sinyi.",
+    "coordinates": {
+      "lat": 27.075,
+      "lon": 93.568
+    },
+    "tags": ["lake", "nature", "boating", "wildlife-sanctuary", "papum-pare", "itanagar"],
+    "facts": [
+      "Located in Papum Pare district.",
+      "Coordinates from Wikipedia: 27.075 N, 93.568 E.",
+      "126 species of butterflies recorded nearby.",
+      "No major river inflow keeps the water greenish.",
+      "Official tourist place listed on papumpare.nic.in."
+    ]
+  },
+  {
+    "id": "thupten-gatseling-monastery-itanagar-arunachal-pradesh",
+    "name": "Thupten Gatseling Monastery (Gompa)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Prominent Buddhist monastery on a hill in Itanagar, consecrated by the Dalai Lama. Features Tibetan-style architecture with yellow roof, stupas, prayer flags and panoramic views of the surrounding hills. Centre for Buddhist culture.",
+    "coordinates": {
+      "lat": 27.103,
+      "lon": 93.626
+    },
+    "tags": ["monastery", "gompa", "buddhist", "spiritual", "dalai-lama", "papum-pare"],
+    "facts": [
+      "Located in Papum Pare district, Itanagar.",
+      "Consecrated by the 14th Dalai Lama.",
+      "Approximate coordinates from local sources around 27.103 N, 93.626 E.",
+      "Official tourist place on papumpare.nic.in and itanagar.nic.in.",
+      "Overlooks the city with peaceful ambiance."
+    ]
+  },
+  {
+    "id": "jawaharlal-nehru-state-museum-itanagar-arunachal-pradesh",
+    "name": "Jawaharlal Nehru State Museum",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "State museum in Itanagar showcasing tribal artefacts, traditional dresses, handicrafts, textiles and archaeological finds from Arunachal Pradesh, including items from Ita Fort. Provides insight into the diverse ethnic heritage of the state.",
+    "coordinates": {
+      "lat": 27.102,
+      "lon": 93.625
+    },
+    "tags": ["museum", "heritage", "tribal-culture", "artefacts", "papum-pare", "itanagar"],
+    "facts": [
+      "Located in Papum Pare district near the Gompa.",
+      "Houses exhibits of tribal culture and history.",
+      "Entry fee applies; open Tuesday to Saturday typically.",
+      "Sponsored establishment for cultural preservation.",
+      "Official tourist attraction listed on itanagar.nic.in."
+    ]
+  },
+  {
+    "id": "yupia-papum-pare-arunachal-pradesh",
+    "name": "Yupia",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "District headquarters of Papum Pare, a peaceful hill town about 20 km from Itanagar overlooking the Dikrong river basin. Gateway for exploring surrounding valleys, with administrative buildings and scenic viewpoints.",
+    "coordinates": {
+      "lat": 27.1692,
+      "lon": 93.7431
+    },
+    "tags": ["town", "headquarters", "gateway", "hill", "papum-pare"],
+    "facts": [
+      "Headquarters of Papum Pare district.",
+      "Coordinates from Wikipedia: 27.1692 N, 93.7431 E.",
+      "About 20 km from Itanagar.",
+      "Home to NIT Arunachal Pradesh campus.",
+      "Scenic location with mountain views."
+    ]
+  },
+  {
+    "id": "itanagar-wildlife-sanctuary-papum-pare-arunachal-pradesh",
+    "name": "Itanagar Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Wildlife sanctuary encompassing forested hills around Itanagar, including Ganga Lake. Supports diverse flora, butterflies, birds and mammals. Popular for nature walks and as a green lung for the capital.",
+    "coordinates": {
+      "lat": 27.08,
+      "lon": 93.60
+    },
+    "tags": ["wildlife", "sanctuary", "forest", "nature", "papum-pare"],
+    "facts": [
+      "Located in Papum Pare district surrounding Itanagar.",
+      "Includes Ganga Lake within its boundaries.",
+      "Home to various butterflies and forest species.",
+      "Biological Park / Zoo is a related attraction nearby.",
+      "Ideal for birdwatching and short nature trails."
+    ]
+  },
+  {
+    "id": "dikrong-river-papum-pare-arunachal-pradesh",
+    "name": "Dikrong River (Papum Pare section)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Scenic river flowing through Papum Pare district, with pebble banks, hanging bridges and riverside towns like Doimukh. Popular for relaxation, photography and local cultural experiences along its banks.",
+    "tags": ["river", "nature", "hanging-bridges", "riverside", "papum-pare"],
+    "facts": [
+      "Flows through Papum Pare district.",
+      "Yupia and Doimukh are located along or overlooking it.",
+      "Clear waters in winter and early summer.",
+      "Sites for picnic and local village visits.",
+      "Important geographical feature of the district."
+    ]
+  },
+  {
+    "id": "naharlagun-papum-pare-arunachal-pradesh",
+    "name": "Naharlagun",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Twin town of Itanagar and major commercial and transport hub in Papum Pare district. Features vibrant local markets selling tribal handicrafts, textiles, organic produce and traditional items. Railway station gateway.",
+    "coordinates": {
+      "lat": 27.104,
+      "lon": 93.698
+    },
+    "tags": ["town", "market", "transport-hub", "twin-town", "papum-pare"],
+    "facts": [
+      "Located in Papum Pare district.",
+      "Railway station connects the capital region.",
+      "Famous for weekly markets with local produce and crafts.",
+      "About 10 km from Itanagar.",
+      "Polo Park is a nearby green space."
+    ]
+  },
+  {
+    "id": "doimukh-papum-pare-arunachal-pradesh",
+    "name": "Doimukh",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Riverside town on the banks of the Dikrong River in Papum Pare, known for scenic pebble shores, lush hills and as a cultural hub. Home to Rajiv Gandhi University campus nearby. Offbeat for quiet riverside experiences.",
+    "coordinates": {
+      "lat": 27.14,
+      "lon": 93.78
+    },
+    "tags": ["town", "riverside", "offbeat", "cultural", "papum-pare"],
+    "facts": [
+      "Located in Papum Pare district along Dikrong River.",
+      "Scenic setting with green hills.",
+      "Near Rajiv Gandhi University.",
+      "Popular for local cultural visits and relaxation.",
+      "Less crowded than Itanagar proper."
+    ]
+  },
+  {
+    "id": "polo-park-naharlagun-papum-pare-arunachal-pradesh",
+    "name": "Polo Park",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Botanical garden and recreational park in Naharlagun featuring collections of bamboo, cane, ornamental and medicinal plants native to Arunachal. Offers elevated views and a compact green space for relaxation.",
+    "tags": ["park", "botanical-garden", "nature", "naharlagun", "papum-pare"],
+    "facts": [
+      "Located in Naharlagun, Papum Pare district.",
+      "Showcases local plant species.",
+      "Popular local recreational spot.",
+      "Near the twin capital complex.",
+      "Ideal for short visits and family outings."
+    ]
+  }
+]
