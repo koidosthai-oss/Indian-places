@@ -1,1 +1,12 @@
-PLACEHOLDER
+[
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital of Meghalaya and headquarters of East Khasi Hills, known as the Scotland of the East. Scenic hill station at about 1,500 m elevation with pine forests, colonial architecture, lakes, waterfalls, and vibrant Khasi culture. Main gateway for the region.",
+    "coordinates": {"lat": 25.5689, "lon": 91.8831},
+    "tags": ["hill-station", "capital", "khasi", "gateway", "scotland-of-the-east"],
+    "facts": ["Capital of Meghalaya and HQ of East Khasi Hills", "Elevation around 1,496 m", "Named after the deity Lei Shyllong on Shillong Peak", "Nearest airport Umroi; major access via Guwahati", "Best season October to April"]
+  }
+]
