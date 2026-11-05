@@ -1,1 +1,12 @@
-PLACEHOLDER
+[
+  {
+    "id": "seppa",
+    "name": "Seppa",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "District headquarters of East Kameng, situated on the banks of the Kameng River at about 363 m elevation. Scenic valley town with riverside views, local Nyishi markets, and a base for exploring the three valleys and nearby hill stations. Formerly known as Sepla meaning marshy land.",
+    "coordinates": {"lat": 27.3616, "lon": 93.0405},
+    "tags": ["town", "headquarters", "gateway", "kameng-river", "nyishi"],
+    "facts": ["HQ of East Kameng district", "Elevation approximately 363 m", "About 160 km from Itanagar", "Helipad in the heart of town", "Best season October to April"]
+  }
+]
