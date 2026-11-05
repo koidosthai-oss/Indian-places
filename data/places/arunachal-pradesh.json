@@ -10,172 +10,112 @@
     "facts": ["HQ of East Kameng district", "Elevation approximately 363 m", "About 160 km from Itanagar", "Helipad in the heart of town", "Best season October to April"]
   },
   {
-    "id": "bameng-valley",
-    "name": "Bameng",
+    "id": "bomdila",
+    "name": "Bomdila",
     "state": "Arunachal Pradesh",
     "category": "hill-station",
-    "description": "Cool hill station and circle headquarters about 48 km north of Seppa. Offers panoramic views of valleys, traditional Nyishi villages, and sight of the snow-peaked Gorichaan mountain. Ideal for quiet escapes amid misty hills and agricultural landscapes.",
-    "coordinates": {"lat": 27.546, "lon": 92.946},
-    "tags": ["hill-station", "valley", "nyishi", "viewpoint"],
-    "facts": ["About 48 km from Seppa", "Cool climate like a hill station", "Views of Gorichaan snow peak", "Traditional Nyishi settlements", "Connected by motorable road"]
+    "description": "District headquarters of West Kameng at about 2415 m elevation. Scenic hill town with apple orchards, Buddhist monasteries (GRL), views of snow peaks, and base for exploring the Kameng valley and routes to Tawang.",
+    "coordinates": {"lat": 27.26475, "lon": 92.42472},
+    "tags": ["hill-station", "headquarters", "monastery", "gateway", "apple"],
+    "facts": ["HQ of West Kameng district", "Elevation ~2415 m", "Known for GRL Monastery and apple orchards", "About 160 km from Tezpur", "Best season October to April"]
   },
   {
-    "id": "chayangtajo",
-    "name": "Chayangtajo",
-    "state": "Arunachal Pradesh",
-    "category": "hill-station",
-    "description": "Scenic high-altitude hill station and circle HQ about 81 km from Seppa, famous for views of the snow-peaked Gorichaan mountain. Features cardamom plantations, rice terraces, mountain streams, and authentic Nyishi longhouses in a misty valley setting at around 1,500 m.",
-    "coordinates": {"lat": 27.68, "lon": 93.134},
-    "tags": ["hill-station", "valley", "nyishi", "gorichaan"],
-    "facts": ["About 81 km from Seppa", "Famous for Gorichaan snow peak views", "Elevation around 1,500 m", "Cardamom and rice terrace landscapes", "Sub-division headquarters"]
-  },
-  {
-    "id": "pappu-valley-lumdung",
-    "name": "Pappu Valley (Lumdung)",
-    "state": "Arunachal Pradesh",
-    "category": "nature",
-    "description": "Spectacular valley along the meandering Pappu River about 21 km from Seppa, named for its snake-like curvy streams. Vast paddy fields, green summer landscapes, and famous for migratory birds in winter at Lumdung. Promoted for eco-tourism including potential paragliding.",
-    "coordinates": {"lat": 27.40, "lon": 93.10},
-    "tags": ["valley", "nature", "paddy", "migratory-birds", "eco-tourism"],
-    "facts": ["About 21 km from Seppa", "Meandering Pappu River with paddy fields", "Lumdung known for winter migratory birds", "Part of the Three Valleys attraction", "Eco-tourism potential including paragliding"]
-  },
-  {
-    "id": "kameng-river-seppa",
-    "name": "Kameng River (Seppa section)",
-    "state": "Arunachal Pradesh",
-    "category": "nature",
-    "description": "Major river flowing through East Kameng, popular for angling and fishing in winter near Seppa (permission required from district administration). Offers scenic river views, potential white-water rafting in gorges, and forms the lifeline of the district with turquoise waters amid hills.",
-    "coordinates": {"lat": 27.36, "lon": 93.04},
-    "tags": ["river", "angling", "rafting", "nature"],
-    "facts": ["Known as Bhareli in Assam", "Good angling spot in winter with permit", "Scenic riverfront at Seppa", "Class III-V rapids in canyons", "Central to district geography"]
-  },
-  {
-    "id": "khenewa-valley",
-    "name": "Khenewa",
-    "state": "Arunachal Pradesh",
-    "category": "nature",
-    "description": "Scenic valley and circle area with verdant hills, river views, and open spaces. Misty winters add to the beauty; popular for landscape photography, peaceful walks, and local markets amid Nyishi cultural settings. Offbeat stop near Bameng.",
-    "coordinates": {"lat": 27.594, "lon": 93.036},
-    "tags": ["valley", "nature", "offbeat", "nyishi"],
-    "facts": ["Circle headquarters", "Verdant hills and river views", "Misty winter landscapes", "Near Bameng area", "Ideal for photography and quiet exploration"]
-  },
-  {
-    "id": "lada",
-    "name": "Lada",
-    "state": "Arunachal Pradesh",
-    "category": "offbeat",
-    "description": "Remote mountain settlement in the western part of the district, embraced by forests, steep hills, and babbling brooks. Offers peace, privacy, and tribal traditions with pristine landscapes suitable for trekking and photography away from main circuits.",
-    "coordinates": {"lat": 27.568, "lon": 92.777},
-    "tags": ["offbeat", "remote", "nature", "nyishi"],
-    "facts": ["Remote circle area", "Forests, hills and brooks", "Pristine and quiet", "Tribal heritage focus", "Suitable for offbeat trekking"]
-  },
-  {
-    "id": "gorichaan-viewpoint",
-    "name": "Gorichaan Viewpoint (from Bameng/Chayangtajo)",
-    "state": "Arunachal Pradesh",
-    "category": "nature",
-    "description": "Snow-peaked mountain visible from Bameng and Chayangtajo hill stations in East Kameng. Locally significant and a highlight of the area’s high-altitude scenery; best viewed on clear days from elevated points in the district.",
-    "tags": ["mountain", "viewpoint", "snow", "nature"],
-    "facts": ["Visible from Bameng and Chayangtajo", "Snow-peaked Himalayan feature", "Highlight of hill station visits", "Best on clear winter or post-monsoon days", "Part of Eastern Himalayas views"]
-  },
-  {
-    "id": "tawang-monastery",
-    "name": "Tawang Monastery (Galden Namgyal Lhatse)",
-    "state": "Arunachal Pradesh",
-    "category": "spiritual",
-    "description": "India’s largest Buddhist monastery and one of the largest in the world, founded in 1680-81 by Merak Lama Lodre Gyatso. Overlooks the Tawang Chu valley with golden roofs, giant Buddha statue, ancient manuscripts, and a living monastic community of hundreds of monks. Birthplace region of the 6th Dalai Lama; major Gelugpa pilgrimage site.",
-    "coordinates": {"lat": 27.58639, "lon": 91.8575},
-    "tags": ["monastery", "buddhist", "gelug", "dalai-lama", "heritage"],
-    "facts": ["Founded 1680-81", "Largest monastery in India", "Elevation about 3000 m", "Library with rare scriptures", "Visited by 14th Dalai Lama in 1959"]
-  },
-  {
-    "id": "sela-pass",
-    "name": "Sela Pass",
-    "state": "Arunachal Pradesh",
-    "category": "nature",
-    "description": "High-altitude mountain pass at about 4170 m (13,700 ft) on the Tawang–West Kameng border, the traditional gateway to Tawang. Features snow-covered landscapes, Sela Lake (Paradise Lake) that often freezes, and panoramic Himalayan views. Now supplemented by the all-weather Sela Tunnel.",
-    "coordinates": {"lat": 27.5048, "lon": 92.1047},
-    "tags": ["pass", "high-altitude", "lake", "snow", "gateway"],
-    "facts": ["Elevation 4170 m", "Border of Tawang and West Kameng", "Sela Lake nearby", "Historic route to Tawang", "Sela Tunnel opened 2024"]
-  },
-  {
-    "id": "sangetsar-tso",
-    "name": "Sangetsar Tso (Madhuri Lake)",
-    "state": "Arunachal Pradesh",
-    "category": "nature",
-    "description": "High-altitude glacial lake formed by a 1950s earthquake landslide, famous for dead tree trunks rising from turquoise waters. Located on the road toward Bum La Pass; popularly called Madhuri Lake after a Bollywood song sequence filmed here. Army permit often required for access.",
-    "coordinates": {"lat": 27.72, "lon": 91.82},
-    "tags": ["lake", "high-altitude", "earthquake", "offbeat", "photography"],
-    "facts": ["Elevation about 3708 m", "Formed by earthquake", "Tree trunks in water", "On route to Bum La", "Featured in film Koyla"]
-  },
-  {
-    "id": "nuranang-falls",
-    "name": "Nuranang Falls (Jang Falls)",
-    "state": "Arunachal Pradesh",
-    "category": "nature",
-    "description": "Spectacular ~100 m high waterfall near Jang town on the Tawang road, fed by the Nuranang Chu from Sela slopes. Dramatic drop amid green hills; small hydel plant at base. Popular stop on the way to Tawang.",
-    "coordinates": {"lat": 27.5895, "lon": 91.9841},
-    "tags": ["waterfall", "nature", "jang", "highway"],
-    "facts": ["Height about 100 m", "Near Jang town", "On Tawang highway", "Named after local Monpa girl Nura", "Hydel power generation nearby"]
-  },
-  {
-    "id": "bum-la-pass",
-    "name": "Bum La Pass",
-    "state": "Arunachal Pradesh",
-    "category": "offbeat",
-    "description": "High border pass at about 4600 m (15,200 ft) on the India-China Line of Actual Control, 37 km from Tawang. Historic trade and 1959 Dalai Lama entry route; Border Personnel Meeting Point. Requires special DC + Army permit; stark high-altitude terrain.",
-    "coordinates": {"lat": 27.7237, "lon": 91.8916},
-    "tags": ["pass", "border", "high-altitude", "permit", "offbeat"],
-    "facts": ["Elevation ~4600 m", "37 km from Tawang", "India-China border", "Special permit required", "Dalai Lama crossed in 1959"]
-  },
-  {
-    "id": "urgelling-monastery",
-    "name": "Urgelling Monastery",
-    "state": "Arunachal Pradesh",
-    "category": "spiritual",
-    "description": "Historic Nyingma monastery and birthplace of the 6th Dalai Lama Tsangyang Gyatso (born 1683). Smaller and quieter than Tawang Monastery, with peaceful atmosphere, ancient inscriptions, and valley views. Founded in the late 15th century.",
-    "coordinates": {"lat": 27.5883, "lon": 91.8653},
-    "tags": ["monastery", "dalai-lama", "nyingma", "birthplace", "heritage"],
-    "facts": ["Birthplace of 6th Dalai Lama", "Founded ~1489", "Nyingma school", "Near Tawang town", "Peaceful pilgrimage site"]
-  },
-  {
-    "id": "tawang-war-memorial",
-    "name": "Tawang War Memorial",
-    "state": "Arunachal Pradesh",
-    "category": "heritage",
-    "description": "Stupa-shaped memorial (Namgyal Chorten) dedicated to Indian soldiers who died in the 1962 Sino-Indian War. Features engraved names, prayer flags, and daily bugle ceremony; overlooks Tawang valley. Maintained with deep respect.",
-    "coordinates": {"lat": 27.5868, "lon": 91.8767},
-    "tags": ["memorial", "war", "1962", "heritage", "army"],
-    "facts": ["Dedicated to 1962 war martyrs", "Stupa design", "Near Tawang town", "Bugle ceremony at dusk", "Names of fallen soldiers"]
-  },
-  {
-    "id": "pankang-teng-tso",
-    "name": "Pankang Teng Tso (PT Tso)",
-    "state": "Arunachal Pradesh",
-    "category": "nature",
-    "description": "Scenic high-altitude glacial lake about 17-18 km from Tawang on the Bum La road. Surrounded by snow peaks, meadows, and forests; often frozen in winter. Sacred to local Monpa people and popular for photography and short walks.",
-    "coordinates": {"lat": 27.64, "lon": 91.856},
-    "tags": ["lake", "glacial", "high-altitude", "monpa", "nature"],
-    "facts": ["About 17-18 km from Tawang", "High-altitude glacial lake", "On Bum La route", "Often frozen in winter", "Sacred local site"]
-  },
-  {
-    "id": "jaswant-garh",
-    "name": "Jaswant Garh Memorial",
-    "state": "Arunachal Pradesh",
-    "category": "heritage",
-    "description": "War memorial and post honoring Rifleman Jaswant Singh Rawat of 4 Garhwal Rifles, who held position for ~72 hours in the 1962 Battle of Nuranang and was awarded Maha Vir Chakra posthumously. Located on NH-13 near Nuranang/Jang; maintained by Army with exhibits.",
-    "coordinates": {"lat": 27.5602, "lon": 91.998},
-    "tags": ["memorial", "1962", "army", "heritage", "nuranang"],
-    "facts": ["Honors Rifleman Jaswant Singh Rawat MVC", "Battle of Nuranang site", "On Tawang highway", "Army-maintained", "About 25-40 km from Tawang"]
-  },
-  {
-    "id": "tawang-town",
-    "name": "Tawang Town",
+    "id": "dirang",
+    "name": "Dirang",
     "state": "Arunachal Pradesh",
     "category": "other",
-    "description": "District headquarters and high-altitude hill town at ~2669-3000 m, gateway to the famous monastery and Himalayan circuit. Monpa cultural center with markets, views of the monastery, and base for exploring passes, lakes, and monasteries. Requires Inner Line Permit.",
-    "coordinates": {"lat": 27.58833, "lon": 91.86528},
-    "tags": ["town", "headquarters", "hill-station", "monpa", "gateway"],
-    "facts": ["HQ of Tawang district", "Elevation ~2669 m", "Monpa people", "ILP required", "Base for tourism circuit"]
+    "description": "Town on NH-13 in West Kameng at about 1620 m, known for Monpa culture, Dirang Dzong, hot springs, and base for Sangti Valley and Mandala Top. Proposed first geothermal-powered town in India.",
+    "coordinates": {"lat": 27.36222, "lon": 92.24083},
+    "tags": ["town", "monpa", "hot-springs", "gateway"],
+    "facts": ["Elevation ~1620 m", "On NH-13 to Tawang", "Dirang Dzong and hot springs nearby", "NIMAS mountaineering institute", "Geothermal energy project"]
+  },
+  {
+    "id": "sangti-valley",
+    "name": "Sangti Valley",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Scenic high-altitude valley about 14 km from Dirang, known as wintering ground for endangered black-necked cranes. Lush meadows, river, orchards, and traditional Monpa settlements; popular for birdwatching and photography.",
+    "coordinates": {"lat": 27.4057, "lon": 92.277},
+    "tags": ["valley", "nature", "birds", "cranes", "offbeat"],
+    "facts": ["About 14 km from Dirang", "Black-necked crane wintering site", "Elevation around 1800 m", "Sheep farm and homestays", "Best November to February for cranes"]
+  },
+  {
+    "id": "thembang-fortified-village",
+    "name": "Thembang Fortified Village (Dzong)",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Ancient Monpa fortified village with traditional Dzong architecture, on UNESCO tentative World Heritage list since 2014. Stone walls, two gates, living community with homestays; high historical and cultural significance.",
+    "coordinates": {"lat": 27.35, "lon": 92.40},
+    "tags": ["heritage", "unesco-tentative", "monpa", "village", "offbeat"],
+    "facts": ["UNESCO tentative list 2014", "About 55 km from Bomdila", "Elevation ~2169 m", "Community conserved area", "Traditional stone and wood architecture"]
+  },
+  {
+    "id": "eaglenest-wildlife-sanctuary",
+    "name": "Eaglenest Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Protected area of about 218 sq km in West Kameng, elevation 500-3250 m, famous for bird diversity including Bugun liocichla. Conjoins Sessa Orchid Sanctuary; part of Kameng Elephant Reserve.",
+    "coordinates": {"lat": 27.1, "lon": 92.4},
+    "tags": ["wildlife", "birds", "nature", "sanctuary"],
+    "facts": ["Established 1989", "Area ~218 km²", "High biodiversity hotspot", "Famous for rare birds", "Near Bomdila"]
+  },
+  {
+    "id": "sessa-orchid-sanctuary",
+    "name": "Sessa Orchid Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "100 sq km protected area in West Kameng dedicated to orchid conservation, adjoining Eaglenest. Home to hundreds of orchid species in subtropical to temperate forests.",
+    "coordinates": {"lat": 27.2, "lon": 92.5},
+    "tags": ["wildlife", "orchids", "nature", "sanctuary"],
+    "facts": ["Established 1989", "Area 100 km²", "Over 200 orchid species", "Part of Kameng Protected Area Complex", "Near Tippi"]
+  },
+  {
+    "id": "tippi-orchid-research-centre",
+    "name": "Tippi Orchid Research Centre",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Orchid research and conservation centre at Tippi near Bhalukpong, with glass houses, museum, herbarium displaying thousands of orchid species. On the west bank of Kameng River.",
+    "coordinates": {"lat": 27.027, "lon": 92.61},
+    "tags": ["orchids", "nature", "research", "museum"],
+    "facts": ["Inaugurated 1972", "About 65 km from Tezpur", "Large orchid collection and glass house", "Near Bhalukpong", "Ex-situ conservation focus"]
+  },
+  {
+    "id": "nyukmadong-war-memorial",
+    "name": "Nyukmadong War Memorial",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "War memorial near Nyukmadong on the Bomdila-Tawang highway commemorating the 1962 Battle of Nyukmadong. Features a chorten and plaques for fallen soldiers; scenic overlook.",
+    "coordinates": {"lat": 27.433, "lon": 92.133},
+    "tags": ["memorial", "war", "1962", "heritage"],
+    "facts": ["Battle of 18 Nov 1962", "About 21 km north of Dirang", "Chorten-style memorial", "On NH-13", "Army maintained"]
+  },
+  {
+    "id": "bhalukpong",
+    "name": "Bhalukpong",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Gateway town to Arunachal from Assam in West Kameng, on Kameng River at low elevation. Inner Line Permit check post, base for rafting, angling, and access to Tippi and higher hills.",
+    "coordinates": {"lat": 27.011, "lon": 92.646},
+    "tags": ["town", "gateway", "border", "river"],
+    "facts": ["Elevation ~213 m", "About 52 km from Tezpur", "ILP check post", "Railway station nearby", "Rafting and angling"]
+  },
+  {
+    "id": "mandala-top",
+    "name": "Mandala Top",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "High ridge near Dirang with a circle of 108 Buddhist stupas (manes) built in 2018, offering panoramic views. Popular for birdwatching and as an offbeat viewpoint.",
+    "coordinates": {"lat": 27.42, "lon": 92.22},
+    "tags": ["viewpoint", "stupas", "nature", "offbeat"],
+    "facts": ["About 30 km from Dirang", "108 manes/stupas", "High altitude ~3000 m", "Birding hotspot", "Panoramic Himalayan views"]
+  },
+  {
+    "id": "chillipam-monastery",
+    "name": "Chillipam Monastery",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Buddhist monastery near Rupa in West Kameng, built on a promontory with 270-degree views of valleys. Features traditional art and murals; also known as Sangngag Choekhor Dargyeling.",
+    "tags": ["monastery", "spiritual", "buddhist", "views"],
+    "facts": ["About 15 km from Rupa", "Spectacular valley views", "Traditional Tibetan architecture", "Near Bomdila circuit"]
   }
 ]
