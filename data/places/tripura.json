@@ -1,1 +1,298 @@
-PLACEHOLDER_AGAIN
+[
+  {
+    "id": "unakoti-heritage-site",
+    "name": "Unakoti Heritage Site (Rock Carvings)",
+    "state": "Tripura",
+    "category": "heritage",
+    "description": "Ancient Shaivite rock-cut sculptures site dating to 7th-9th centuries CE in Unakoti district. Features colossal 30-foot bas-relief of Unakotiswara Kal Bhairava (Shiva) with attendant figures, Ganesha images, Nandi bulls and hundreds of other carvings amid forested hills and streams. UNESCO tentative World Heritage list (2022); also known as Subrai Khung in Kokborok.",
+    "coordinates": {
+      "lat": 24.317,
+      "lon": 92.067
+    },
+    "tags": [
+      "heritage",
+      "rock-carvings",
+      "shaivite",
+      "unesco-tentative",
+      "spiritual",
+      "offbeat"
+    ],
+    "facts": [
+      "UNESCO World Heritage tentative list since 2022",
+      "Central Shiva head ~30 ft high with 10 ft headdress",
+      "ASI protected; entry fee applies",
+      "Ashokastami Mela festival in April",
+      "About 8 km from Kailashahar HQ"
+    ]
+  },
+  {
+    "id": "kailashahar-town",
+    "name": "Kailashahar",
+    "state": "Tripura",
+    "category": "other",
+    "description": "District headquarters of Unakoti and municipal town on the Manu River near the Bangladesh border. Historic gateway and base for Unakoti site, with temples, tea gardens and administrative importance. Elevation around 30 m.",
+    "coordinates": {
+      "lat": 24.332,
+      "lon": 92.004
+    },
+    "tags": [
+      "town",
+      "headquarters",
+      "gateway",
+      "border"
+    ],
+    "facts": [
+      "HQ of Unakoti district",
+      "About 178 km from Agartala",
+      "Named after Shiva's abode Kailash",
+      "Nearest airport Agartala; rail via Kumarghat/Dharmanagar",
+      "Population around 23,000 (municipal)"
+    ]
+  },
+  {
+    "id": "khowrabil-lake",
+    "name": "Khowrabil Lake (Khaowra Bil)",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Historic lake near Kailashahar (also called Rajar Dighi), site of annual traditional water festival with boat races in October-November. Associated with ancient palace history and nearby Chaturdas Devata Mandir; attracts local visitors.",
+    "coordinates": {
+      "lat": 24.37,
+      "lon": 92.0
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "festival",
+      "boating",
+      "heritage"
+    ],
+    "facts": [
+      "About 7 km from Kailashahar",
+      "Annual water festival with boat race",
+      "Near Chaturdas Devata Mandir",
+      "Mentioned in historical accounts as large tank",
+      "Proposed water sports development"
+    ]
+  },
+  {
+    "id": "chaturdas-devata-mandir",
+    "name": "Chaturdas Devata Mandir (Rangauti)",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Temple dedicated to the fourteen deities (Chaturdasa Devata) of Tripuri tradition, located near Rangauti/Khowrabil area of Kailashahar. Linked to historical capital narratives in Rajmala; important local pilgrimage site.",
+    "coordinates": {
+      "lat": 24.3708,
+      "lon": 91.9981
+    },
+    "tags": [
+      "temple",
+      "spiritual",
+      "tripuri",
+      "heritage",
+      "fourteen-gods"
+    ],
+    "facts": [
+      "Dedicated to 14 deities of Tripuri pantheon",
+      "About 7 km from Kailashahar",
+      "Near Khowrabil Lake",
+      "Historical association with Indra Manikya era",
+      "Official tourist place of Unakoti district"
+    ]
+  },
+  {
+    "id": "unakoti-eco-park",
+    "name": "Unakoti Eco Park",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Nature park near the Unakoti heritage site developed for visitors to rest amid greenery after exploring the rock carvings. Suitable for short walks and picnics in the forested setting.",
+    "tags": [
+      "eco-park",
+      "nature",
+      "picnic",
+      "offbeat"
+    ],
+    "facts": [
+      "Near Unakoti rock carvings site",
+      "For relaxation and nature appreciation",
+      "Part of local tourism circuit",
+      "Complements the heritage visit"
+    ]
+  },
+  {
+    "id": "jampui-hills",
+    "name": "Jampui Hills",
+    "state": "Tripura",
+    "category": "hill-station",
+    "description": "Highest hill range in Tripura (average ~1,000 m, peaks to 930 m), part of the Lushai Hills in North Tripura. Known as the Eternal Hills of Spring or Orchid Paradise of India for its temperate climate, dense greenery, orange orchards, and over 50 orchid species including rare Vanda coerulea. Mizo-influenced villages, viewpoints over Bangladesh and Mizoram, and eco-tourism base.",
+    "coordinates": {
+      "lat": 23.965916,
+      "lon": 92.277346
+    },
+    "tags": [
+      "hill-station",
+      "orchids",
+      "orange-orchards",
+      "viewpoint",
+      "mizo",
+      "nature"
+    ],
+    "facts": [
+      "Highest hill range in Tripura",
+      "Elevation average ~1,000 m / peaks 930 m",
+      "About 200 km from Agartala",
+      "Eden Tourist Lodge at Vanghmun",
+      "Orange Festival and orchid diversity"
+    ]
+  },
+  {
+    "id": "betlingchhip-peak",
+    "name": "Betlingchhip Peak (Thaidawr / Shibraikhong)",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Highest peak in Tripura at 930 m on the Jampui Hills ridge in North Tripura district. Offers panoramic views of surrounding hills, Chittagong Hill Tracts of Bangladesh, and Mizoram forests. Accessible by short hike/scramble from nearby villages; features a watchtower built by Tourism Department.",
+    "coordinates": {
+      "lat": 23.809782,
+      "lon": 92.260971
+    },
+    "tags": [
+      "peak",
+      "nature",
+      "viewpoint",
+      "highest-point",
+      "hill"
+    ],
+    "facts": [
+      "Highest point in Tripura at 930 m",
+      "Also known as Thaidawr or Shibraikhong",
+      "In Jampui Hills, North Tripura",
+      "Panoramic views of Bangladesh and Mizoram",
+      "Short hike from Vanghmun area"
+    ]
+  },
+  {
+    "id": "vanghmun-village",
+    "name": "Vanghmun Village",
+    "state": "Tripura",
+    "category": "offbeat",
+    "description": "Remote hilltop village at the highest part of Jampui Hills in North Tripura, widely regarded as the cleanest village in Tripura. Home to Mizo community with neat wooden houses, hedges, orchid gardens, and strict cleanliness maintained by village council. Base for Betlingchhip Peak and eco-tourism stays including Eden Tourist Lodge.",
+    "coordinates": {
+      "lat": 23.98861,
+      "lon": 92.27833
+    },
+    "tags": [
+      "village",
+      "offbeat",
+      "cleanest-village",
+      "mizo",
+      "eco-tourism",
+      "hill"
+    ],
+    "facts": [
+      "Cleanest village in Tripura",
+      "HQ of Jampui Hills R.D. Block",
+      "About 220 km from Agartala",
+      "Population around 2,350",
+      "Gateway to Betlingchhip and orange orchards"
+    ]
+  },
+  {
+    "id": "shilchhara-buddha-waterfall",
+    "name": "Shilchhara Buddha Waterfall",
+    "state": "Tripura",
+    "category": "nature",
+    "description": "Hidden gem waterfall near Pecharthal town in North Tripura, cascading amid lush forest. Offers a serene, tranquil setting for nature walks; lesser-known compared to major sites and ideal for quiet visits. Access involves local transport from Pecharthal.",
+    "coordinates": {
+      "lat": 24.2094968,
+      "lon": 92.0780133
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "hidden-gem",
+      "offbeat",
+      "pecharthal"
+    ],
+    "facts": [
+      "Near Pecharthal, North Tripura",
+      "Official tourist place of the district",
+      "Serene forest setting",
+      "About 190–200 km from Agartala",
+      "Best for peaceful nature immersion"
+    ]
+  },
+  {
+    "id": "rowa-wildlife-sanctuary",
+    "name": "Rowa Wildlife Sanctuary",
+    "state": "Tripura",
+    "category": "wildlife",
+    "description": "Compact wildlife sanctuary (0.858 km²) established in 1988 near Panisagar in North Tripura. Features deciduous, semi-evergreen and mixed moist deciduous forests with bamboo. Supports barking deer, wild boar, pig-tailed macaque, birds, and reptiles; suitable for short nature walks and birdwatching despite anthropogenic pressure.",
+    "coordinates": {
+      "lat": 24.29,
+      "lon": 92.17
+    },
+    "tags": [
+      "wildlife",
+      "sanctuary",
+      "nature",
+      "birdwatching",
+      "offbeat"
+    ],
+    "facts": [
+      "Established 1988, area 0.858 km²",
+      "Near Panisagar, North Tripura",
+      "IUCN Category IV",
+      "Home to macaques, deer, birds and reptiles",
+      "Official tourist attraction of the district"
+    ]
+  },
+  {
+    "id": "kalibari-temple-dharmanagar",
+    "name": "Kalibari Temple (Dharmanagar)",
+    "state": "Tripura",
+    "category": "spiritual",
+    "description": "Revered Hindu temple dedicated to Goddess Kali in Dharmanagar town, North Tripura. Serves as a spiritual and cultural centerpiece for local devotees, with festivals and community gatherings. Located in the district headquarters area.",
+    "coordinates": {
+      "lat": 24.3785,
+      "lon": 92.1783
+    },
+    "tags": [
+      "temple",
+      "spiritual",
+      "kali",
+      "heritage",
+      "local"
+    ],
+    "facts": [
+      "Dedicated to Goddess Kali",
+      "In Dharmanagar, North Tripura HQ",
+      "Focal point for local festivals",
+      "Official tourist place listed by district",
+      "Accessible within the town"
+    ]
+  },
+  {
+    "id": "dharmanagar-town",
+    "name": "Dharmanagar",
+    "state": "Tripura",
+    "category": "other",
+    "description": "District headquarters and second-largest town in Tripura, located on the Juri River near the Bangladesh border in North Tripura. Important commercial and administrative center, gateway for Jampui Hills circuit, with markets, Kali temple, and connectivity by road and rail.",
+    "coordinates": {
+      "lat": 24.378528,
+      "lon": 92.178306
+    },
+    "tags": [
+      "town",
+      "headquarters",
+      "gateway",
+      "commercial",
+      "border"
+    ],
+    "facts": [
+      "HQ of North Tripura district",
+      "Second largest town in Tripura",
+      "Elevation ~21 m",
+      "On Juri River near Bangladesh border",
+      "Base for Jampui Hills and northern circuit"
+    ]
+  }
+]
