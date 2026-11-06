@@ -1,1 +1,122 @@
-CONTENT_FROM_FILE
+[
+  {
+    "id": "tawang-monastery",
+    "name": "Tawang Monastery (Galden Namgyal Lhatse)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "India\u2019s largest Buddhist monastery and the second-largest in the world, founded in 1680\u201381 by Merak Lama Lodre Gyatso under the patronage of the 5th Dalai Lama. Perched at about 3,000 m overlooking the Tawang Chu valley, it belongs to the Gelug school and houses a large gilded Buddha statue and ancient manuscripts.",
+    "coordinates": {"lat": 27.58639, "lon": 91.8575},
+    "tags": ["monastery", "gelug", "buddhist", "heritage", "spiritual", "landmark"],
+    "facts": ["Largest Buddhist monastery in India", "Founded 1680\u201381 by Merak Lama Lodre Gyatso", "Elevation around 3,000 m", "Birthplace region of the 6th Dalai Lama", "Requires Inner Line Permit for visitors"]
+  },
+  {
+    "id": "sela-pass",
+    "name": "Sela Pass",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "High-altitude mountain pass at 4,170 m (13,700 ft) on the Tawang\u2013West Kameng border, carrying NH-13 and serving as the main gateway to Tawang. Surrounded by snow-capped peaks and the often-frozen Sela Lake; the nearby Sela Tunnel provides all-weather connectivity.",
+    "coordinates": {"lat": 27.5048, "lon": 92.1047},
+    "tags": ["mountain-pass", "high-altitude", "gateway", "nature", "snow"],
+    "facts": ["Elevation 4,170 m", "On border of Tawang and West Kameng districts", "Sela Tunnel opened for year-round access", "Named after local Monpa girl Sela", "Mandatory stop on road to Tawang"]
+  },
+  {
+    "id": "sangetsar-tso",
+    "name": "Sangetsar Tso (Madhuri Lake)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "High-altitude glacial lake formed by a 1950s earthquake, featuring upright dead tree trunks rising from the water. Popularly known as Madhuri Lake after a film shoot; located on the road toward Bum La Pass amid pine forests and snow peaks.",
+    "coordinates": {"lat": 27.72, "lon": 91.82},
+    "tags": ["lake", "nature", "offbeat", "earthquake-formed", "madhuri-lake"],
+    "facts": ["Elevation about 3,708 m", "Formed by earthquake creating submerged forest", "About 35 km from Tawang", "Army permit often required with Bum La visit", "Best clarity in post-monsoon season"]
+  },
+  {
+    "id": "nuranang-falls",
+    "name": "Nuranang Falls (Jang Falls)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Spectacular 100-metre-high waterfall near Jang town on the Tawang\u2013Sela route, cascading from glacial slopes. Named after local Monpa girl Nura; popular picnic spot with a small hydel unit nearby.",
+    "coordinates": {"lat": 27.5895, "lon": 91.9841},
+    "tags": ["waterfall", "nature", "scenic", "jang"],
+    "facts": ["Height about 100 m", "Near Jang town on NH-13", "Named after Monpa girl Nura", "About 40 km from Tawang", "Best viewed post-monsoon"]
+  },
+  {
+    "id": "bum-la-pass",
+    "name": "Bum La Pass",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "High-altitude border pass at about 4,600\u20134,800 m on the India\u2013China Line of Actual Control, historically used by the 14th Dalai Lama in 1959. Requires special army and district permits; offers stark high-altitude views and is a Border Personnel Meeting point.",
+    "coordinates": {"lat": 27.7237, "lon": 91.8916},
+    "tags": ["border-pass", "offbeat", "high-altitude", "permit-required", "heritage"],
+    "facts": ["Elevation around 15,200 ft", "About 37 km from Tawang", "Special permit from DC and Army required", "Route of 14th Dalai Lama\u2019s 1959 entry", "Combine with Sangetsar Tso when permitted"]
+  },
+  {
+    "id": "urgelling-monastery",
+    "name": "Urgelling Monastery",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Historic Nyingma monastery founded around 1489, recognized as the birthplace of the 6th Dalai Lama Tsangyang Gyatso in 1683. Smaller and quieter than Tawang Monastery, located near the town with traditional Tibetan architecture.",
+    "coordinates": {"lat": 27.5883, "lon": 91.8653},
+    "tags": ["monastery", "nyingma", "birthplace", "spiritual", "heritage"],
+    "facts": ["Birthplace of 6th Dalai Lama", "Founded by Urgen Sangpo circa 1489", "Near Tawang town", "Peaceful alternative to main monastery", "Houses historical inscriptions"]
+  },
+  {
+    "id": "tawang-war-memorial",
+    "name": "Tawang War Memorial",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Memorial stupa and complex dedicated to soldiers of the 1962 Sino-Indian War, featuring light-and-sound shows, preserved weapons, and names of the fallen. Located near Tawang town with panoramic views.",
+    "coordinates": {"lat": 27.5868, "lon": 91.8767},
+    "tags": ["war-memorial", "heritage", "1962-war", "museum"],
+    "facts": ["Dedicated to 1962 war martyrs", "About 40-foot high stupa", "Light and sound show in evenings", "Near Tawang town centre", "Preserves military artefacts"]
+  },
+  {
+    "id": "jaswant-garh-memorial",
+    "name": "Jaswant Garh Memorial",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "War memorial on the Tawang\u2013Sela highway honouring Rifleman Jaswant Singh Rawat of the 4th Garhwal Rifles, who held his post for 72 hours during the 1962 Battle of Nuranang and was awarded the Maha Vir Chakra posthumously. Maintained by the Indian Army.",
+    "coordinates": {"lat": 27.5602, "lon": 91.998},
+    "tags": ["war-memorial", "heritage", "1962-war", "maha-vir-chakra"],
+    "facts": ["Honours Rifleman Jaswant Singh Rawat MVC", "Site of Battle of Nuranang", "On NH-13 near Nuranang", "Army maintains the site as living memorial", "About 25\u201340 km from Tawang"]
+  },
+  {
+    "id": "pankang-teng-tso",
+    "name": "Pankang Teng Tso (PT Tso)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Pristine high-altitude lake about 17 km from Tawang on the road to Bum La, surrounded by rhododendron forests and peaks. Freezes in winter; popular short stop for views and photography.",
+    "coordinates": {"lat": 27.6396, "lon": 91.8559},
+    "tags": ["lake", "nature", "high-altitude", "rhododendron"],
+    "facts": ["About 16\u201318 km from Tawang", "On Bum La road", "Elevation around 3,700\u20133,900 m", "Freezes completely in winter", "Requires Bum La road permit"]
+  },
+  {
+    "id": "tawang-town",
+    "name": "Tawang Town",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "District headquarters and main tourist base at about 3,000 m elevation, gateway to the monastery, lakes, and high passes. Home to Monpa culture, markets, and starting point for most circuits; requires Inner Line Permit.",
+    "coordinates": {"lat": 27.58833, "lon": 91.86528},
+    "tags": ["town", "headquarters", "gateway", "monpa", "base"],
+    "facts": ["HQ of Tawang district", "Elevation around 3,000 m", "Population about 11,200 (2011)", "Base for Tawang circuit", "ILP mandatory for visitors"]
+  },
+  {
+    "id": "zemithang",
+    "name": "Zemithang",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Remote western valley and circle near the Bhutan border, known for Gorsam Chorten, Monpa villages, and scenic landscapes. Offbeat destination for cultural and nature experiences beyond the main Tawang circuit.",
+    "coordinates": {"lat": 27.7107, "lon": 91.7301},
+    "tags": ["valley", "offbeat", "monpa", "border", "cultural"],
+    "facts": ["About 85\u201390 km west of Tawang via Lumla", "Home to Gorsam Chorten", "Near Bhutan border", "Monpa cultural area", "Accessible with ILP"]
+  },
+  {
+    "id": "chakzam-bridge",
+    "name": "Chakzam Bridge",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Ancient iron suspension bridge across the Tawang Chu River, attributed to the 15th-century Tibetan engineer Thangtong Gyalpo. Historic architectural landmark near the main routes.",
+    "coordinates": {"lat": 27.5568, "lon": 91.9237},
+    "tags": ["bridge", "heritage", "iron-bridge", "thangtong-gyalpo"],
+    "facts": ["15th-century iron chain bridge", "Built by Thangtong Gyalpo", "Across Tawang Chu", "Architectural marvel", "Near Mukto area"]
+  }
+]
