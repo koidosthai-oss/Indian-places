@@ -1,1 +1,152 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "bomdila",
+    "name": "Bomdila",
+    "state": "Arunachal Pradesh",
+    "category": "hill-station",
+    "description": "District headquarters of West Kameng at about 2,415 m elevation. Scenic hill station with apple orchards, Buddhist monasteries, viewpoints of Himalayan ranges, and a craft centre. Important stop on the Tezpur-Tawang highway.",
+    "coordinates": {"lat": 27.26475, "lon": 92.42472},
+    "tags": ["hill-station", "headquarters", "monastery", "apple-orchards", "gateway"],
+    "facts": ["HQ of West Kameng district", "Elevation around 2,415 m", "Site of 1962 battle history", "About 160 km from Tezpur", "Best season October to April"]
+  },
+  {
+    "id": "bomdila-monastery",
+    "name": "Bomdila Monastery (GRL Monastery)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Gontse Gaden Rabgyel Ling (GRL) Monastery complex with Upper and Lower Gompas in Bomdila. Important centre of Tibetan Buddhism with school, colourful architecture and panoramic valley views.",
+    "coordinates": {"lat": 27.2706, "lon": 92.4189},
+    "tags": ["spiritual", "monastery", "buddhist", "heritage", "viewpoint"],
+    "facts": ["GRL Monastery with Upper and Lower Gompas", "School for monastic studies", "Spectacular valley views", "In Bomdila town", "Official tourist place"]
+  },
+  {
+    "id": "dirang",
+    "name": "Dirang",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Picturesque valley town on NH-13 at about 1,620 m, known for terraced fields, apple orchards, Dirang Dzong, hot springs and nearby monasteries. Gateway to Sangti Valley and Mandala Top.",
+    "coordinates": {"lat": 27.36222, "lon": 92.24083},
+    "tags": ["town", "valley", "orchards", "gateway", "hot-springs"],
+    "facts": ["About 42 km from Bomdila", "Elevation around 1,620 m", "Home to NIMAS mountaineering institute", "Proposed first geothermal-powered town", "Base for Sangti and Thembang"]
+  },
+  {
+    "id": "sangti-valley",
+    "name": "Sangti Valley",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Serene valley about 14 km from Dirang with Sangti River, meadows, orchards and traditional Monpa villages. Famous wintering ground for endangered black-necked cranes and excellent birdwatching.",
+    "coordinates": {"lat": 27.4243, "lon": 92.2783},
+    "tags": ["nature", "valley", "birdwatching", "black-necked-crane", "offbeat"],
+    "facts": ["About 14 km from Dirang", "Winter home of black-necked cranes", "Key Biodiversity Area", "Monpa villages and sheep farm", "Ideal for photography and walks"]
+  },
+  {
+    "id": "thembang-fortified-village",
+    "name": "Thembang Fortified Village",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Ancient Monpa fortified village with stone walls, gates and traditional houses, nominated to UNESCO World Heritage tentative list. Community-run eco-tourism and heritage site near Dirang.",
+    "coordinates": {"lat": 27.35, "lon": 92.40},
+    "tags": ["heritage", "unesco-tentative", "fortified-village", "monpa", "eco-tourism"],
+    "facts": ["UNESCO tentative list since 2014", "About 15-20 km from Dirang", "Elevation around 2,169-2,300 m", "Community homestays and cultural programmes", "Best eco-tourism award 2017"]
+  },
+  {
+    "id": "eaglenest-wildlife-sanctuary",
+    "name": "Eaglenest Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Renowned biodiversity hotspot spanning 500-3,250 m elevation, famous for bird diversity including Bugun Liocichla. Dense forests, trekking and rare mammals such as red panda.",
+    "coordinates": {"lat": 27.10, "lon": 92.40},
+    "tags": ["wildlife", "birdwatching", "biodiversity", "trek", "nature"],
+    "facts": ["Established 1989, area ~218 sq km", "Home to Bugun Liocichla", "Over 450 bird species", "Part of Kameng Elephant Reserve", "Conjoins Sessa Orchid Sanctuary"]
+  },
+  {
+    "id": "sessa-orchid-sanctuary",
+    "name": "Sessa Orchid Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Protected area established in 1989 for orchid conservation, adjoining Eaglenest. Forests, valleys and high diversity of orchids and other flora/fauna.",
+    "coordinates": {"lat": 27.20, "lon": 92.50},
+    "tags": ["wildlife", "orchid", "nature", "biodiversity"],
+    "facts": ["First orchid sanctuary in India (1989)", "Over 200 orchid species", "Adjoins Eaglenest WLS", "Near Tippi and Bhalukpong", "Scenic drive through forests"]
+  },
+  {
+    "id": "tippi-orchid-research-centre",
+    "name": "Tippi Orchid Research Centre",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Glasshouse and research centre at Tippi with thousands of cultivated orchids. Popular stop on the way from Bhalukpong to Bomdila, showcasing regional orchid diversity.",
+    "coordinates": {"lat": 27.027, "lon": 92.61},
+    "tags": ["nature", "orchid", "research", "greenhouse"],
+    "facts": ["About 65 km from Tezpur", "Over 7,500 orchids displayed", "Near Bhalukpong", "Official tourist place", "Elevation around 190 m"]
+  },
+  {
+    "id": "nyukmadong-war-memorial",
+    "name": "Nyukmadong War Memorial",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Memorial on NH-13 commemorating Indian soldiers who fought in the 1962 Battle of Nyukmadong under Brigadier Hoshiar Singh. Overlooks the historic battlefield.",
+    "coordinates": {"lat": 27.4086, "lon": 92.1322},
+    "tags": ["heritage", "war-memorial", "1962", "history"],
+    "facts": ["About 21 km north of Dirang", "On Bomdila-Tawang highway", "Commemorates Battle of Nyukmadong", "Official tourist place", "Respectful visit recommended"]
+  },
+  {
+    "id": "bhalukpong",
+    "name": "Bhalukpong",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Southern gateway town to West Kameng on the Kameng River at about 213 m. Inner Line Permit check post, base for rafting, angling and access to Tippi and higher altitudes.",
+    "coordinates": {"lat": 27.011, "lon": 92.646},
+    "tags": ["gateway", "river", "permit", "rafting", "other"],
+    "facts": ["About 52 km from Tezpur", "Elevation 213 m", "On Kameng River", "ILP check post", "Near Tippi Orchid Centre"]
+  },
+  {
+    "id": "mandala-top",
+    "name": "Mandala Top",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Hilltop near Dirang featuring a circular arrangement of 108 Buddhist stupas (manes) with panoramic mountain views. Scenic drive and occasional sightings of Brokpa yak herders.",
+    "coordinates": {"lat": 27.42, "lon": 92.22},
+    "tags": ["nature", "stupas", "viewpoint", "buddhist", "offbeat"],
+    "facts": ["About 28 km from Dirang", "108 circular stupas", "Scenic mountain road", "Possible Brokpa encounters", "Popular day trip from Dirang"]
+  },
+  {
+    "id": "chillipam-monastery",
+    "name": "Chillipam Monastery",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Sangngag Choekhor Dargyeling (Zangdokpalri) Monastery on a promontory near Rupa, offering 270-degree views. Early 20th-century Tibetan Buddhist centre with traditional architecture and murals.",
+    "coordinates": {"lat": 27.22, "lon": 92.35},
+    "tags": ["spiritual", "monastery", "viewpoint", "buddhist"],
+    "facts": ["About 15 km from Rupa", "Spectacular 270-degree views", "Established early 20th century", "Official tourist place", "Near Bomdila circuit"]
+  },
+  {
+    "id": "lhagyala-gompa",
+    "name": "Lhagyala Gompa",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Monastery on the mountainside overlooking Morshing Valley, about 80 km from Bomdila. Serene Tibetan Buddhist site with valley views.",
+    "coordinates": {"lat": 27.30, "lon": 92.25},
+    "tags": ["spiritual", "monastery", "gompa", "viewpoint"],
+    "facts": ["About 80 km from Bomdila", "Overlooks Morshing Valley", "Official tourist place", "Quiet spiritual retreat", "Traditional architecture"]
+  },
+  {
+    "id": "dirang-hot-springs",
+    "name": "Dirang Hot Springs",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Natural geothermal hot springs near Dirang town, popular for a relaxing soak amid the valley scenery. Linked to the area's geothermal potential.",
+    "coordinates": {"lat": 27.36, "lon": 92.24},
+    "tags": ["nature", "hot-springs", "geothermal", "relaxation"],
+    "facts": ["Near Dirang town", "Natural geothermal springs", "Official place of interest", "Relaxing stop on Tawang route", "Area of geothermal research"]
+  },
+  {
+    "id": "shergaon",
+    "name": "Shergaon",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Offbeat village with apple orchards, Choskorong Forest and Waterfall, and traditional culture. Less-visited base for nature walks and horticulture experiences.",
+    "coordinates": {"lat": 27.08, "lon": 92.16},
+    "tags": ["offbeat", "village", "orchards", "waterfall", "nature"],
+    "facts": ["Apple orchards and horticulture farm", "Choskorong Waterfall hike", "About 40-50 km from Bomdila area", "Quiet alternative stay", "Official place of interest"]
+  }
+]
