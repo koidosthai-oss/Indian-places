@@ -1,1 +1,12 @@
-PLACEHOLDER
+[
+  {
+    "id": "bomdila",
+    "name": "Bomdila",
+    "state": "Arunachal Pradesh",
+    "category": "hill-station",
+    "description": "District headquarters of West Kameng at about 2,415 m elevation. Scenic hill station with apple orchards, Buddhist monasteries, viewpoints of Himalayan ranges, and a craft centre. Important stop on the Tezpur-Tawang highway.",
+    "coordinates": {"lat": 27.26475, "lon": 92.42472},
+    "tags": ["hill-station", "headquarters", "monastery", "apple-orchards", "gateway"],
+    "facts": ["HQ of West Kameng district", "Elevation around 2,415 m", "Site of 1962 battle history", "About 160 km from Tezpur", "Best season October to April"]
+  }
+]
