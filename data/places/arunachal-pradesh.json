@@ -1,1 +1,12 @@
-PLACEHOLDER_CONTENT
+[
+  {
+    "id": "tawang-monastery",
+    "name": "Tawang Monastery (Gaden Namgyal Lhatse)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Largest monastery in India and second-largest in the world, founded in 1681 by Merak Lama Lodre Gyatso. Gelug school complex overlooking Tawang Chu valley with golden Buddha statue, ancient scriptures, and home to hundreds of monks. Major spiritual and cultural landmark of Tawang.",
+    "coordinates": {"lat": 27.58639, "lon": 91.8575},
+    "tags": ["monastery", "gelug", "buddhist", "heritage", "landmark"],
+    "facts": ["Founded 1680-1681 by Merak Lama Lodre Gyatso", "Largest Buddhist monastery in India", "Elevation around 3,000 m", "Houses 8-metre golden Buddha statue", "About 3 km from Tawang town centre"]
+  }
+]
