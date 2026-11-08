@@ -1,1 +1,60 @@
-See local file - will be large
+[
+  {
+    "id": "kachari-ruins",
+    "name": "Kachari Ruins (Ruins of Kachari Rajbari)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval ruins of the ancient Dimasa Kachari kingdom capital in Dimapur, featuring distinctive mushroom-domed sandstone pillars (8–15 feet high) elaborately carved with animals, birds, flowers and motifs. Dating to the 10th–13th centuries, the site was the kingdom’s seat before the Ahom invasion; protected by the Archaeological Survey of India and one of Nagaland’s most distinctive archaeological landmarks.",
+    "coordinates": {"lat": 25.90361, "lon": 93.74028},
+    "tags": ["heritage", "ruins", "kachari", "monoliths", "archaeological", "asi-protected"],
+    "facts": ["Ancient capital of the Dimasa Kachari kingdom", "Mushroom-domed carved sandstone pillars", "Dates to 10th–13th centuries", "ASI protected monument", "Located near Circuit House and Naga Shopping Arcade"]
+  },
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial capital of Nagaland, situated on the banks of the Dhansiri River. Serves as the primary gateway to the state via its airport and major railway station; a bustling urban centre blending Naga culture, markets, historical sites and modern amenities.",
+    "coordinates": {"lat": 25.909174, "lon": 93.726602},
+    "tags": ["city", "gateway", "commercial", "railway", "airport", "dhansiri"],
+    "facts": ["Largest city and main commercial hub of Nagaland", "Elevation around 145 m", "Key entry point via Dimapur Airport (DMU) and railway station", "On the banks of the Dhansiri River", "Gateway to Kohima (about 75 km) and the rest of Nagaland"]
+  },
+  {
+    "id": "nagaland-science-centre",
+    "name": "Nagaland Science Centre",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Interactive science museum and educational centre in Dimapur with galleries on senses, fun science and a children’s corner, plus a planetarium (Taramandal). Established to promote scientific awareness among students and the public through hands-on exhibits.",
+    "coordinates": {"lat": 25.90378, "lon": 93.73845},
+    "tags": ["science", "museum", "educational", "planetarium", "interactive", "family"],
+    "facts": ["Inaugurated December 2004", "Located on Super Market Lane, Half Nagarjan", "Features interactive exhibits and planetarium", "Open 10 AM–4 PM, closed Mondays", "Entry fee nominal; ideal for families and students"]
+  },
+  {
+    "id": "hong-kong-market",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Dimapur’s best-known and busiest market, famous for affordable clothing, footwear, electronics, jewellery and imported goods from Myanmar, Thailand and China. A vibrant commercial and cultural hub where locals and visitors bargain and experience everyday Naga urban life.",
+    "tags": ["market", "shopping", "commercial", "imported-goods", "local-culture"],
+    "facts": ["Central market popular for bargains on imported goods", "Clothing, electronics, jewellery and daily essentials", "Busy commercial heart of Dimapur", "Popular with both locals and tourists", "Easy access by local transport"]
+  },
+  {
+    "id": "nezcc-stone-garden-museum",
+    "name": "NEZCC Stone Garden and North East Heritage Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Cultural complex of the North East Zone Cultural Centre featuring a stone sculpture garden with works by artists from across India, traditional morungs, amphitheatre and a museum showcasing crafts and artefacts from the eight northeastern states.",
+    "tags": ["heritage", "museum", "sculpture", "cultural-centre", "northeast"],
+    "facts": ["Located near Dimapur airport and railway station", "Stone sculpture garden with 31 works", "North East Heritage Museum of regional crafts", "Official district places-of-interest listing", "Promotes cultural heritage of the Northeast"]
+  },
+  {
+    "id": "green-park-dimapur",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Landscaped recreational park inside the State Horticulture Nursery at 4th Mile, Dimapur. Offers greenery, boating, picnic areas, water zorbing, ziplining and children’s activities; a popular local getaway for families.",
+    "coordinates": {"lat": 25.8606, "lon": 93.7621},
+    "tags": ["park", "nature", "picnic", "family", "boating", "recreation"],
+    "facts": ["Located at 4th Mile within State Horticulture Nursery", "Boating, ziplining, water zorbing and kids’ activities", "Nominal entry fee; open mainly weekends and holidays", "Official district tourist place", "Popular for picnics and short family outings"]
+  }
+]
