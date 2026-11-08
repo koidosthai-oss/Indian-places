@@ -1,1 +1,237 @@
-PLACEHOLDER
+[
+  {
+    "id": "tawang-monastery",
+    "name": "Tawang Monastery (Gaden Namgyal Lhatse)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Largest Buddhist monastery in India and second-largest in the world, founded in 1680-81 by Merak Lama Lodre Gyatso. Overlooks Tawang Chu valley with a 28-foot gilded Buddha, ancient manuscripts, and about 500 monks of the Gelug school. Birthplace region of the 6th Dalai Lama; major pilgrimage site.",
+    "coordinates": {"lat": 27.58639, "lon": 91.8575},
+    "tags": ["monastery", "buddhist", "gelug", "heritage", "pilgrimage", "largest-in-india"],
+    "facts": ["Founded 1680-81 by Merak Lama Lodre Gyatso", "Elevation about 3,000 m / 10,000 ft", "Houses 28-ft gilded Buddha and rare manuscripts", "About 500 resident monks", "Birthplace connection to 6th Dalai Lama"]
+  },
+  {
+    "id": "bomdila-town",
+    "name": "Bomdila",
+    "state": "Arunachal Pradesh",
+    "category": "hill-station",
+    "description": "Headquarters of West Kameng district and a popular hill station on the Tezpur-Tawang highway at about 2,415 m elevation. Features apple orchards, Buddhist gompas, craft centres, and panoramic Himalayan views; key overnight stop on the western Arunachal circuit.",
+    "coordinates": {"lat": 27.26475, "lon": 92.42472},
+    "tags": ["hill-station", "district-hq", "monpa", "orchards", "viewpoint"],
+    "facts": ["District headquarters of West Kameng", "Elevation approximately 2,415 m", "Gateway on NH13 to Tawang", "Home to GRL Monastery and apple orchards"]
+  },
+  {
+    "id": "bomdila-monastery-grl",
+    "name": "Bomdila Monastery (Gontse Gaden Rabgyel Ling / GRL)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Prominent Gelugpa Buddhist monastery above Bomdila town, also known as Gentse Gaden Rabgyel Ling. Offers sweeping valley views, active monastic life, and traditional Tibetan architecture; a major spiritual and cultural landmark of West Kameng.",
+    "coordinates": {"lat": 27.2706, "lon": 92.4189},
+    "tags": ["monastery", "gelug", "buddhist", "viewpoint", "heritage"],
+    "facts": ["Also known as GRL or Gentse Gaden Rabgyel Ling", "Located above Bomdila town", "Features prayer halls and resident monks", "Popular stop on Tawang circuit"]
+  },
+  {
+    "id": "dirang-town",
+    "name": "Dirang",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Scenic valley town in West Kameng known for its Dzong (old fort), hot springs, apple orchards, and proximity to Sangti Valley and Mandala Top. Serves as a base for exploring Monpa culture and Himalayan landscapes.",
+    "coordinates": {"lat": 27.36222, "lon": 92.24083},
+    "tags": ["valley-town", "hot-springs", "monpa", "dzong"],
+    "facts": ["Located on the Bomdila-Tawang highway", "Known for Dirang Dzong and hot springs", "Gateway to Sangti Valley and Mandala Top"]
+  },
+  {
+    "id": "sangti-valley",
+    "name": "Sangti Valley",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Picturesque valley about 14 km from Dirang, surrounded by Eastern Himalayan ranges. Famous for black-necked cranes in winter, terraced fields, and serene river landscapes; a hidden gem for nature and bird lovers.",
+    "coordinates": {"lat": 27.4057, "lon": 92.277},
+    "tags": ["valley", "black-necked-cranes", "nature", "birdwatching", "offbeat"],
+    "facts": ["Approximately 14 km from Dirang", "Winter habitat for black-necked cranes", "Surrounded by towering Himalayan ranges"]
+  },
+  {
+    "id": "thembang-fortified-village",
+    "name": "Thembang Fortified Village (Thembang Dzong)",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Ancient Monpa fortified village and Dzong on UNESCO’s tentative World Heritage list. Features traditional stone-and-wood architecture, two historic gates, and a living cultural landscape at about 2,169–2,300 m elevation.",
+    "coordinates": {"lat": 27.35, "lon": 92.4},
+    "tags": ["heritage", "unesco-tentative", "monpa", "dzong", "fortified-village", "offbeat"],
+    "facts": ["UNESCO Tentative List since 2014 (ID 5913)", "Elevation around 2,169 m (fort)", "Traditional Monpa architecture with two gates", "About 55 km from Bomdila"]
+  },
+  {
+    "id": "eaglenest-wildlife-sanctuary",
+    "name": "Eaglenest Wildlife Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "Protected area in the Himalayan foothills of West Kameng, renowned for exceptional bird diversity including the Bugun liocichla. Elevations range from 500 to 3,250 m; part of the Kameng Elephant Reserve and conjoins Sessa Orchid Sanctuary.",
+    "coordinates": {"lat": 27.1, "lon": 92.4},
+    "tags": ["wildlife", "birdwatching", "bugun-liocichla", "himalayan", "protected-area"],
+    "facts": ["Established 1989; area ~218 km²", "Home to Bugun liocichla and rich avifauna", "Elevations 500–3,250 m", "Part of Kameng Protected Area Complex"]
+  },
+  {
+    "id": "sessa-orchid-sanctuary",
+    "name": "Sessa Orchid Sanctuary",
+    "state": "Arunachal Pradesh",
+    "category": "wildlife",
+    "description": "100 km² orchid-focused sanctuary in West Kameng, established in 1989. Protects over 200 orchid species in subtropical to temperate forests; linked to the Orchid Research Centre at Tippi and conjoins Eaglenest WLS.",
+    "coordinates": {"lat": 27.2, "lon": 92.5},
+    "tags": ["orchids", "wildlife", "biodiversity", "research", "protected-area"],
+    "facts": ["Established 1989; area 100 km²", "Over 200 orchid species", "Near Tippi Orchid Research Centre", "Part of Kameng Elephant Reserve"]
+  },
+  {
+    "id": "tippi-orchid-research-centre",
+    "name": "Tippi Orchid Research Centre",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Major orchid research and conservation centre near Bhalukpong on the banks of the Bharali/Kameng river. Houses thousands of orchid specimens, glasshouses, and a museum; gateway attraction for the western Arunachal circuit.",
+    "coordinates": {"lat": 27.027, "lon": 92.61},
+    "tags": ["orchids", "research", "nature", "museum", "gateway"],
+    "facts": ["Located at Tippi near Bhalukpong", "Over 7,500 orchid specimens reported", "Supports Sessa Orchid Sanctuary research", "Elevation around 190 m"]
+  },
+  {
+    "id": "nyukmadong-war-memorial",
+    "name": "Nyukmadong War Memorial",
+    "state": "Arunachal Pradesh",
+    "category": "heritage",
+    "description": "Memorial near Dirang honouring Indian soldiers who fell in the 1962 Indo-China war. Features a 25-foot chorten-style memorial on terraced grounds with plaques listing names; a solemn site overlooking the battlefield.",
+    "coordinates": {"lat": 27.4086, "lon": 92.1322},
+    "tags": ["war-memorial", "1962", "heritage", "chorten"],
+    "facts": ["Commemorates 18 November 1962 battle", "25-foot chorten-style memorial", "Located near Dirang on Bomdila-Tawang road"]
+  },
+  {
+    "id": "bhalukpong",
+    "name": "Bhalukpong",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "Gateway town at the Arunachal Pradesh–Assam border on the Kameng/Bharali river. Entry point for the western circuit, known for river picnic spots, orchid centre proximity, and historical ruins.",
+    "coordinates": {"lat": 27.011, "lon": 92.646},
+    "tags": ["gateway", "border", "river", "entry-point"],
+    "facts": ["Southern entry to West Kameng from Assam", "On banks of Kameng/Bharali river", "Near Tippi Orchid Centre", "Elevation around 213 m"]
+  },
+  {
+    "id": "mandala-top",
+    "name": "Mandala Top (108 Manes / Stupas)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Hilltop site near Dirang featuring a circular arrangement of 108 Buddhist stupas (manes) built in 2018, each inscribed with Om Mani Padme Hum. Offers panoramic Himalayan views and is a popular birdwatching spot.",
+    "coordinates": {"lat": 27.42, "lon": 92.22},
+    "tags": ["stupas", "108-manes", "spiritual", "viewpoint", "birdwatching", "offbeat"],
+    "facts": ["108 stupas built in 2018 by local community", "About 28–30 km from Dirang", "Elevation around 3,000 m", "Popular for birding and views"]
+  },
+  {
+    "id": "chillipam-monastery",
+    "name": "Chillipam Monastery (Sangngag Choekhor Dargyeling)",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Nyingma monastery near Rupa village in West Kameng, perched on a promontory with 270-degree views. Established in the early 20th century; an important centre of Tibetan Buddhism in the district.",
+    "tags": ["monastery", "nyingma", "buddhist", "viewpoint"],
+    "facts": ["Located about 15 km from Rupa", "Also known as Zangdokpalri Monastery", "Offers panoramic valley views"]
+  },
+  {
+    "id": "lhagyala-gompa",
+    "name": "Lhagyala Gompa",
+    "state": "Arunachal Pradesh",
+    "category": "spiritual",
+    "description": "Historic 17th-century monastery at Morshing, overlooking the Morshing valley. An important Monpa spiritual site about 80 km from Bomdila.",
+    "tags": ["monastery", "gompa", "monpa", "heritage"],
+    "facts": ["Situated at Morshing", "About 80 km from Bomdila", "Historic Monpa monastery"]
+  },
+  {
+    "id": "shergaon",
+    "name": "Shergaon",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Remote village and area in West Kameng known for horticulture farms, apple cultivation, and proximity to wildlife habitats. Offers quiet offbeat stays and access to surrounding forests.",
+    "tags": ["village", "offbeat", "horticulture", "apples"],
+    "facts": ["Known for State Horticulture Farm", "Elevation around 1,954 m", "Part of western circuit off main highway"]
+  },
+  {
+    "id": "dirang-hot-springs",
+    "name": "Dirang Hot Springs",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Natural hot springs near Dirang town, popular for relaxation amid the valley setting. A traditional local attraction on the Bomdila-Tawang route.",
+    "tags": ["hot-springs", "nature", "relaxation"],
+    "facts": ["Located near Dirang town", "Popular stop for travellers on NH13", "Natural geothermal feature"]
+  },
+  {
+    "id": "seppa-town",
+    "name": "Seppa",
+    "state": "Arunachal Pradesh",
+    "category": "other",
+    "description": "District headquarters of East Kameng, situated on the banks of the Kameng River at about 363 m elevation. Scenic valley town with Nyishi tribal markets, riverfront walks, and base for exploring nearby valleys and hill areas; gateway for the eastern Kameng circuit.",
+    "coordinates": {"lat": 27.3616, "lon": 93.0405},
+    "tags": ["town", "headquarters", "nyishi", "riverfront", "gateway"],
+    "facts": ["HQ of East Kameng district", "On banks of Kameng River", "About 160 km from Itanagar", "Elevation around 363 m", "Base for Pappu Valley and Bameng circuits"]
+  },
+  {
+    "id": "pappu-valley-lumdung",
+    "name": "Pappu Valley (Lumdung)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Scenic valley about 21 km from Seppa featuring meandering rivers, terraced paddy fields, and lush green landscapes. Known for migratory birds in winter, paragliding potential, and snow views from nearby points; a key eco-tourism area in East Kameng.",
+    "coordinates": {"lat": 27.28, "lon": 93.09},
+    "tags": ["valley", "nature", "birdwatching", "paddy", "eco-tourism", "offbeat"],
+    "facts": ["About 21 km from Seppa", "Famous for migratory birds in winter", "Part of the Three Valleys circuit", "Paragliding training held nearby", "Surrounded by green hills and rivers"]
+  },
+  {
+    "id": "bameng-valley",
+    "name": "Bameng Valley",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Peaceful highland valley and circle about 48 km from Seppa, known for traditional Nyishi villages, cane suspension bridges, misty hills, and panoramic views. Offers serene offbeat experiences amid agricultural fields and forests.",
+    "coordinates": {"lat": 27.545, "lon": 92.946},
+    "tags": ["valley", "nature", "nyishi", "suspension-bridges", "hill", "offbeat"],
+    "facts": ["About 48 km from Seppa", "Traditional Nyishi settlements", "Cane and bamboo footbridges", "Cool highland climate", "Views of surrounding ranges"]
+  },
+  {
+    "id": "chayangtajo",
+    "name": "Chayangtajo",
+    "state": "Arunachal Pradesh",
+    "category": "hill-station",
+    "description": "Hilltop town and circle about 81 km from Seppa at around 1,500 m elevation, overlooking Himalayan ranges. Famous for views of the snow-peaked Gorichaan (Gorichen) mountain, rice terraces, cardamom, and authentic Nyishi culture; a cool, scenic highland destination.",
+    "coordinates": {"lat": 27.68, "lon": 93.134},
+    "tags": ["hill-station", "viewpoint", "gorichaan", "nyishi", "highland", "nature"],
+    "facts": ["About 81 km from Seppa", "Elevation near 1,500 m", "Views of Gorichaan snow peak", "Nyishi and Puroik inhabited", "Origin area of Kameng River headwaters"]
+  },
+  {
+    "id": "kameng-river-seppa",
+    "name": "Kameng River (Seppa Section)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Major river flowing through East Kameng, offering scenic riverfronts, angling for mahseer and trout in winter (with permission), and white-water rafting opportunities on Class III-V rapids in canyons. Lifeline of the district with cultural significance to local tribes.",
+    "coordinates": {"lat": 27.36, "lon": 93.04},
+    "tags": ["river", "nature", "rafting", "angling", "scenic", "adventure"],
+    "facts": ["Also known as Bharali in Assam", "Angling permitted with district permission in winter", "White-water rafting on technical rapids", "Riverfront walks in Seppa", "Originates near Himalayan ranges"]
+  },
+  {
+    "id": "khenewa-valley",
+    "name": "Khenewa Valley",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Remote highland valley and circle in northern East Kameng, known for misty hills, open spaces, cold streams, and traditional settlements. Ideal for offbeat nature and cultural exploration away from main circuits.",
+    "coordinates": {"lat": 27.5941, "lon": 93.0359},
+    "tags": ["valley", "offbeat", "highland", "nature", "remote"],
+    "facts": ["Northern circle of East Kameng", "Misty winter landscapes", "Traditional tribal areas", "Cold mountain streams", "Off main tourist routes"]
+  },
+  {
+    "id": "lada",
+    "name": "Lada",
+    "state": "Arunachal Pradesh",
+    "category": "offbeat",
+    "description": "Remote circle and area in East Kameng embraced by forests, steep hills, and streams. Offers quiet offbeat stays and access to pristine landscapes for trekking and photography.",
+    "coordinates": {"lat": 27.5682, "lon": 92.7774},
+    "tags": ["offbeat", "remote", "nature", "forests", "village"],
+    "facts": ["Remote highland circle", "Surrounded by forests and hills", "Less visited offbeat spot", "Part of East Kameng interior"]
+  },
+  {
+    "id": "gorichaan-viewpoint",
+    "name": "Gorichaan Viewpoint (from Chayangtajo/Bameng)",
+    "state": "Arunachal Pradesh",
+    "category": "nature",
+    "description": "Viewpoints near Chayangtajo and Bameng offering clear-day vistas of the snow-capped Gorichaan (Gorichen) peak and Eastern Himalayan ranges. Popular for sunrise and photography of the sacred high peaks.",
+    "tags": ["viewpoint", "nature", "gorichaan", "himalayas", "photography", "offbeat"],
+    "facts": ["Visible from Chayangtajo and Bameng", "Snow-peaked mountain in Gorichen range", "Best views on clear winter mornings", "Part of local highland scenery"]
+  }
+]
