@@ -1,1 +1,20 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "kohima-town",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Capital of Nagaland and headquarters of Kohima district, a scenic hill town at about 1,444 m elevation known for its Angami Naga culture, War Cemetery, and as the base for Hornbill Festival and surrounding highland attractions.",
+    "coordinates": {
+      "lat": 25.6701,
+      "lon": 94.1077
+    },
+    "tags": ["capital", "hill-station", "angami", "gateway", "district-hq"],
+    "facts": [
+      "Capital of Nagaland state",
+      "Elevation approximately 1,444 m",
+      "Gateway to Dzukou Valley and Kisama",
+      "Host base for annual Hornbill Festival"
+    ]
+  }
+]
