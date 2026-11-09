@@ -1,1 +1,182 @@
-PLACEHOLDER_TO_REPLACE
+[
+  {
+    "id": "kohima-town",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Capital of Nagaland and headquarters of Kohima district, a scenic hill town at about 1,444 m elevation known for its Angami Naga culture, War Cemetery, and as the base for Hornbill Festival and surrounding highland attractions.",
+    "coordinates": {
+      "lat": 25.6701,
+      "lon": 94.1077
+    },
+    "tags": ["capital", "hill-station", "angami", "gateway", "district-hq"],
+    "facts": [
+      "Capital of Nagaland state",
+      "Elevation approximately 1,444 m",
+      "Gateway to Dzukou Valley and Kisama",
+      "Host base for annual Hornbill Festival"
+    ]
+  },
+  {
+    "id": "kohima-war-cemetery",
+    "name": "Kohima War Cemetery",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Commonwealth War Graves Commission cemetery on the site of the 1944 Battle of Kohima (Battle of the Tennis Court) on Garrison Hill. Contains 1,420 Commonwealth burials and a memorial to 917 cremated Hindu and Sikh soldiers; famous epitaph and preserved tennis court lines.",
+    "coordinates": {
+      "lat": 25.6676,
+      "lon": 94.1029
+    },
+    "tags": ["war-cemetery", "wwii", "heritage", "memorial", "cwgc"],
+    "facts": [
+      "Site of decisive 1944 Battle of Kohima",
+      "1,420 Commonwealth burials of WWII",
+      "Memorial to 917 cremated soldiers",
+      "Famous epitaph: 'When you go home tell them of us and say for your tomorrow we gave our today'"
+    ]
+  },
+  {
+    "id": "kisama-heritage-village",
+    "name": "Kisama Heritage Village (Naga Heritage Village)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Open-air cultural village between Kigwema and Phesama, 12 km south of Kohima, featuring morungs of Nagaland’s major tribes. Primary venue of the annual Hornbill Festival (December) showcasing Naga music, dance, crafts and cuisine.",
+    "coordinates": {
+      "lat": 25.6162,
+      "lon": 94.1146
+    },
+    "tags": ["heritage-village", "hornbill-festival", "naga-culture", "morung", "offbeat"],
+    "facts": [
+      "Venue of annual Hornbill Festival (1–10 December)",
+      "Morungs of 17 major Naga tribes",
+      "About 12 km south of Kohima on NH2",
+      "Name derived from Kigwema and Phesama villages"
+    ]
+  },
+  {
+    "id": "khonoma-green-village",
+    "name": "Khonoma Green Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Western Angami Naga village 20 km west of Kohima, India’s first Green Village (declared 2005). Features terraced paddy fields, traditional architecture, Khonoma Fort, and the community-conserved Tragopan Sanctuary protecting Blyth’s Tragopan.",
+    "coordinates": {
+      "lat": 25.65,
+      "lon": 94.033
+    },
+    "tags": ["green-village", "angami", "eco-tourism", "tragopan", "offbeat", "heritage"],
+    "facts": [
+      "First Green Village in India (2005)",
+      "About 20 km west of Kohima",
+      "Khonoma Nature Conservation and Tragopan Sanctuary",
+      "Historic Angami resistance against British (1879–80)"
+    ]
+  },
+  {
+    "id": "dzukou-valley",
+    "name": "Dzukou Valley (Dzükou Valley)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "High-altitude valley (about 2,438–2,452 m) on the Kohima–Senapati (Manipur) border, known as the Valley of Flowers of the Northeast for seasonal wildflowers including the endemic Dzukou lily, rolling meadows of dwarf bamboo, and popular multi-day treks.",
+    "coordinates": {
+      "lat": 25.5533,
+      "lon": 94.0671
+    },
+    "tags": ["valley", "trekking", "flowers", "nature", "border", "offbeat"],
+    "facts": [
+      "Elevation around 2,438–2,452 m",
+      "Straddles Nagaland (Kohima) and Manipur border",
+      "Famous for seasonal Dzukou lily and wildflowers",
+      "Popular trek from Viswema/Jakhama side"
+    ]
+  },
+  {
+    "id": "japfu-peak",
+    "name": "Japfu Peak (Mount Japfü)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Second-highest peak in Nagaland at 3,048 m in the Barail Range, about 15 km south of Kohima. Popular for sunrise treks; home to the world’s tallest rhododendron tree (Guinness record).",
+    "coordinates": {
+      "lat": 25.5975,
+      "lon": 94.0667
+    },
+    "tags": ["peak", "trekking", "rhododendron", "nature", "hill"],
+    "facts": [
+      "Elevation 3,048 m (second highest in Nagaland)",
+      "About 15 km south of Kohima",
+      "World’s tallest rhododendron tree on slopes",
+      "Best climbing season November–March"
+    ]
+  },
+  {
+    "id": "nagaland-state-museum",
+    "name": "Nagaland State Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "State museum on Bayavü Hill, Kohima, opened 1970. Houses comprehensive ethnographic collections of Naga tribal artefacts, costumes, weapons, musical instruments, and cultural displays from across the state.",
+    "coordinates": {
+      "lat": 25.685,
+      "lon": 94.1049
+    },
+    "tags": ["museum", "heritage", "naga-culture", "ethnography"],
+    "facts": [
+      "Opened to public 25 November 1970",
+      "Located on Upper Bayavü Hill",
+      "Operated by Department of Art and Culture",
+      "Displays artefacts of all major Naga tribes"
+    ]
+  },
+  {
+    "id": "mary-help-of-christians-cathedral",
+    "name": "Mary Help of Christians Cathedral",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Roman Catholic cathedral in Kohima, consecrated 1991, with architecture blending traditional Naga house elements. Features a large carved wooden crucifix; partly funded by Japanese donors in memory of soldiers who died in the Battle of Kohima.",
+    "coordinates": {
+      "lat": 25.6525,
+      "lon": 94.1048
+    },
+    "tags": ["cathedral", "spiritual", "naga-architecture", "catholic"],
+    "facts": [
+      "Consecrated January 1991",
+      "Architecture incorporates traditional Naga house facade",
+      "16-ft carved wooden crucifix among largest in Asia",
+      "Seat of the Roman Catholic Diocese of Kohima"
+    ]
+  },
+  {
+    "id": "dzuleke-village",
+    "name": "Dzüleke Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Remote Angami Naga eco-tourism village in western Kohima district (about 30–40 km from Kohima) at high elevation. Community-run homestays, hunting ban since 1999, mithun grazing, and streams with snowtrout; ideal for quiet nature and cultural stays.",
+    "coordinates": {
+      "lat": 25.621,
+      "lon": 93.956
+    },
+    "tags": ["village", "eco-tourism", "homestay", "offbeat", "angami"],
+    "facts": [
+      "Population about 156 (2011)",
+      "Hunting banned since 1999",
+      "Community eco-tourism board and homestays",
+      "Elevation around 1,790–2,130 m"
+    ]
+  },
+  {
+    "id": "touphema-tourist-village",
+    "name": "Touphema Tourist Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Community-run heritage tourist village about 36–41 km north of Kohima, recreating traditional Angami Naga architecture with cottages. Promotes Sekrenyi festival and offers cultural immersion, local cuisine, and short treks.",
+    "coordinates": {
+      "lat": 25.837,
+      "lon": 94.133
+    },
+    "tags": ["tourist-village", "angami", "homestay", "heritage", "offbeat"],
+    "facts": [
+      "About 36–41 km from Kohima",
+      "Community initiative with state tourism support",
+      "Traditional Angami-style cottages",
+      "Associated with Sekrenyi purification festival"
+    ]
+  }
+]
