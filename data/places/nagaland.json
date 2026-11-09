@@ -1,1 +1,176 @@
-PLACEHOLDER
+[
+  {
+    "id": "kohima-town",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Capital of Nagaland and headquarters of Kohima district, a scenic hill town at about 1,444 m elevation known for its Angami Naga culture, War Cemetery, and as the base for Hornbill Festival and surrounding highland attractions.",
+    "coordinates": {
+      "lat": 25.6701,
+      "lon": 94.1077
+    },
+    "tags": ["capital", "hill-station", "angami", "gateway", "district-hq"],
+    "facts": [
+      "Capital of Nagaland state",
+      "Elevation approximately 1,444 m",
+      "Gateway to Dzukou Valley and Kisama",
+      "Host base for annual Hornbill Festival"
+    ]
+  },
+  {
+    "id": "kachari-ruins",
+    "name": "Kachari Ruins (Ruins of Kachari Rajbari)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval ruins of the Dimasa Kachari kingdom capital in Dimapur, featuring distinctive mushroom-domed sandstone pillars and carved monoliths dating to the 10th\u201313th centuries. ASI-protected site with intricate motifs; remnants of the ancient fortified capital.",
+    "coordinates": {
+      "lat": 25.90361,
+      "lon": 93.74028
+    },
+    "tags": ["heritage", "ruins", "kachari", "megaliths", "asi-protected", "archaeological"],
+    "facts": [
+      "ASI protected monument (N-NL-1)",
+      "Coordinates 25\u00b054\u203213\u2033N 93\u00b044\u203225\u2033E",
+      "Mushroom-domed pillars up to 15 ft high",
+      "Ancient capital of Dimasa Kachari kingdom",
+      "Located near Naga Shopping Arcade / Circuit House"
+    ]
+  },
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial gateway of Nagaland on the banks of the Dhansiri River. Main air and rail entry point; historic Kachari area with multi-ethnic markets and base for highland circuits.",
+    "coordinates": {
+      "lat": 25.9117,
+      "lon": 93.7217
+    },
+    "tags": ["city", "gateway", "commercial", "district-hq", "dhansiri"],
+    "facts": [
+      "Largest city and main gateway of Nagaland",
+      "On banks of Dhansiri River",
+      "Elevation around 150\u2013160 m",
+      "Nearest airport and major railhead",
+      "About 75 km from Kohima"
+    ]
+  },
+  {
+    "id": "nagaland-science-centre",
+    "name": "Nagaland Science Centre",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Interactive science museum in Dimapur with galleries, science park and Taramandal planetarium. Educational family attraction promoting scientific awareness.",
+    "coordinates": {
+      "lat": 25.90378,
+      "lon": 93.73845
+    },
+    "tags": ["science", "museum", "educational", "planetarium", "family"],
+    "facts": [
+      "Located at Super Market Lane, Half Nagarjan",
+      "Open 10 AM\u20134 PM, closed Mondays",
+      "Features planetarium and science park",
+      "NCSM-supported educational centre",
+      "Nominal entry fee"
+    ]
+  },
+  {
+    "id": "green-park-dimapur",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Recreational park at 4th Mile inside the State Horticulture Nursery, Dimapur. Greenery, boating, picnic areas and adventure activities for families.",
+    "coordinates": {
+      "lat": 25.8606,
+      "lon": 93.7621
+    },
+    "tags": ["park", "nature", "picnic", "boating", "family"],
+    "facts": [
+      "At 4th Mile, State Horticulture Nursery",
+      "Boating, ziplining, water zorbing available",
+      "Official district tourist place",
+      "Best October\u2013March",
+      "Nominal entry fee"
+    ]
+  },
+  {
+    "id": "dimapur-jain-temple",
+    "name": "Dimapur Jain Temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Historic Digambara Jain temple to Lord Mahavira established in 1947. Important spiritual landmark with intricate glasswork for the local Jain community.",
+    "coordinates": {
+      "lat": 25.92,
+      "lon": 93.73
+    },
+    "tags": ["spiritual", "jain", "temple", "heritage", "digambara"],
+    "facts": [
+      "Established 1947",
+      "Primary deity Lord Mahavira",
+      "On Jain Temple Road",
+      "Managed by SD Jain Samaj Dimapur",
+      "Additional shrines to Adinath and Bahubali"
+    ]
+  },
+  {
+    "id": "nezcc-stone-garden",
+    "name": "NEZCC Stone Garden and North East Heritage Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Cultural complex near Dimapur Airport with stone sculpture garden, traditional morungs and museum of northeastern crafts and artefacts.",
+    "tags": ["heritage", "museum", "sculpture", "cultural", "nezcc"],
+    "facts": [
+      "Near airport, ~3 km from railway station",
+      "Stone garden with multiple sculptures",
+      "North East Heritage Museum",
+      "Official place of interest",
+      "nezccindia.in"
+    ]
+  },
+  {
+    "id": "dhansiri-river-dimapur",
+    "name": "Dhansiri River (Dimapur Section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "River flowing along Dimapur giving the city its historic name. Scenic banks for walks and local recreation in the plains.",
+    "coordinates": {
+      "lat": 25.91,
+      "lon": 93.74
+    },
+    "tags": ["river", "nature", "scenic", "dhansiri"],
+    "facts": [
+      "Flows east of the city",
+      "Tributary of the Brahmaputra",
+      "Historic city-name association",
+      "Local riverfront recreation"
+    ]
+  },
+  {
+    "id": "hong-kong-market",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling commercial market in central Dimapur selling imported goods, clothing, electronics and local products. Vibrant trading hub.",
+    "tags": ["market", "shopping", "commercial", "local"],
+    "facts": [
+      "Prominent central market",
+      "Imported and local goods",
+      "Popular bargain destination",
+      "Reflects multi-ethnic trading character"
+    ]
+  },
+  {
+    "id": "dimapur-city-tower",
+    "name": "Dimapur City Tower (Clock Tower)",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Landmark clock tower on Circular Road in central Dimapur. Popular photo spot, often lit during festivals.",
+    "tags": ["landmark", "tower", "clock-tower", "city-centre"],
+    "facts": [
+      "On Circular Road",
+      "Major city landmark",
+      "Illuminated during Christmas",
+      "Central reference point"
+    ]
+  }
+]
