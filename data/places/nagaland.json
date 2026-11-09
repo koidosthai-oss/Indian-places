@@ -1,1 +1,305 @@
-PLACEHOLDER
+[
+  {
+    "id": "kohima-town",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Capital of Nagaland and headquarters of Kohima district, a scenic hill town at about 1,444 m elevation known for its Angami Naga culture, War Cemetery, and as the base for Hornbill Festival and surrounding highland attractions.",
+    "coordinates": {
+      "lat": 25.6701,
+      "lon": 94.1077
+    },
+    "tags": ["capital", "hill-station", "angami", "gateway", "district-hq"],
+    "facts": [
+      "Capital of Nagaland state",
+      "Elevation approximately 1,444 m",
+      "Gateway to Dzukou Valley and Kisama",
+      "Host base for annual Hornbill Festival"
+    ]
+  },
+  {
+    "id": "kachari-ruins",
+    "name": "Kachari Ruins (Ruins of Kachari Rajbari)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval ruins of the Dimasa Kachari kingdom capital in Dimapur, featuring distinctive mushroom-domed sandstone pillars and carved monoliths dating to the 10th\u201313th centuries. ASI-protected site with intricate motifs; remnants of the ancient fortified capital.",
+    "coordinates": {
+      "lat": 25.90361,
+      "lon": 93.74028
+    },
+    "tags": ["heritage", "ruins", "kachari", "megaliths", "asi-protected", "archaeological"],
+    "facts": [
+      "ASI protected monument (N-NL-1)",
+      "Coordinates 25\u00b054\u203213\u2033N 93\u00b044\u203225\u2033E",
+      "Mushroom-domed pillars up to 15 ft high",
+      "Ancient capital of Dimasa Kachari kingdom",
+      "Located near Naga Shopping Arcade / Circuit House"
+    ]
+  },
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial gateway of Nagaland on the banks of the Dhansiri River. Main air and rail entry point; historic Kachari area with multi-ethnic markets and base for highland circuits.",
+    "coordinates": {
+      "lat": 25.9117,
+      "lon": 93.7217
+    },
+    "tags": ["city", "gateway", "commercial", "district-hq", "dhansiri"],
+    "facts": [
+      "Largest city and main gateway of Nagaland",
+      "On banks of Dhansiri River",
+      "Elevation around 150\u2013160 m",
+      "Nearest airport and major railhead",
+      "About 75 km from Kohima"
+    ]
+  },
+  {
+    "id": "nagaland-science-centre",
+    "name": "Nagaland Science Centre",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Interactive science museum in Dimapur with galleries, science park and Taramandal planetarium. Educational family attraction promoting scientific awareness.",
+    "coordinates": {
+      "lat": 25.90378,
+      "lon": 93.73845
+    },
+    "tags": ["science", "museum", "educational", "planetarium", "family"],
+    "facts": [
+      "Located at Super Market Lane, Half Nagarjan",
+      "Open 10 AM\u20134 PM, closed Mondays",
+      "Features planetarium and science park",
+      "NCSM-supported educational centre",
+      "Nominal entry fee"
+    ]
+  },
+  {
+    "id": "green-park-dimapur",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Recreational park at 4th Mile inside the State Horticulture Nursery, Dimapur. Greenery, boating, picnic areas and adventure activities for families.",
+    "coordinates": {
+      "lat": 25.8606,
+      "lon": 93.7621
+    },
+    "tags": ["park", "nature", "picnic", "boating", "family"],
+    "facts": [
+      "At 4th Mile, State Horticulture Nursery",
+      "Boating, ziplining, water zorbing available",
+      "Official district tourist place",
+      "Best October\u2013March",
+      "Nominal entry fee"
+    ]
+  },
+  {
+    "id": "dimapur-jain-temple",
+    "name": "Dimapur Jain Temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Historic Digambara Jain temple to Lord Mahavira established in 1947. Important spiritual landmark with intricate glasswork for the local Jain community.",
+    "coordinates": {
+      "lat": 25.92,
+      "lon": 93.73
+    },
+    "tags": ["spiritual", "jain", "temple", "heritage", "digambara"],
+    "facts": [
+      "Established 1947",
+      "Primary deity Lord Mahavira",
+      "On Jain Temple Road",
+      "Managed by SD Jain Samaj Dimapur",
+      "Additional shrines to Adinath and Bahubali"
+    ]
+  },
+  {
+    "id": "nezcc-stone-garden",
+    "name": "NEZCC Stone Garden and North East Heritage Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Cultural complex near Dimapur Airport with stone sculpture garden, traditional morungs and museum of northeastern crafts and artefacts.",
+    "tags": ["heritage", "museum", "sculpture", "cultural", "nezcc"],
+    "facts": [
+      "Near airport, ~3 km from railway station",
+      "Stone garden with multiple sculptures",
+      "North East Heritage Museum",
+      "Official place of interest",
+      "nezccindia.in"
+    ]
+  },
+  {
+    "id": "dhansiri-river-dimapur",
+    "name": "Dhansiri River (Dimapur Section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "River flowing along Dimapur giving the city its historic name. Scenic banks for walks and local recreation in the plains.",
+    "coordinates": {
+      "lat": 25.91,
+      "lon": 93.74
+    },
+    "tags": ["river", "nature", "scenic", "dhansiri"],
+    "facts": [
+      "Flows east of the city",
+      "Tributary of the Brahmaputra",
+      "Historic city-name association",
+      "Local riverfront recreation"
+    ]
+  },
+  {
+    "id": "hong-kong-market",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling commercial market in central Dimapur selling imported goods, clothing, electronics and local products. Vibrant trading hub.",
+    "tags": ["market", "shopping", "commercial", "local"],
+    "facts": [
+      "Prominent central market",
+      "Imported and local goods",
+      "Popular bargain destination",
+      "Reflects multi-ethnic trading character"
+    ]
+  },
+  {
+    "id": "dimapur-city-tower",
+    "name": "Dimapur City Tower (Clock Tower)",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Landmark clock tower on Circular Road in central Dimapur. Popular photo spot, often lit during festivals.",
+    "tags": ["landmark", "tower", "clock-tower", "city-centre"],
+    "facts": [
+      "On Circular Road",
+      "Major city landmark",
+      "Illuminated during Christmas",
+      "Central reference point"
+    ]
+  },
+  {
+    "id": "longwa-village",
+    "name": "Longwa Village (Lungwa)",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Unique Konyak Naga village in Mon district straddling the India-Myanmar international border. The Angh (chief)'s longhouse is famously divided by the border, with parts in each country; villagers hold dual citizenship under the Free Movement Regime. Known for traditional architecture, wood carvings, and headhunting history.",
+    "coordinates": {
+      "lat": 26.661379,
+      "lon": 95.219849
+    },
+    "tags": ["village", "offbeat", "konyak", "border", "angh", "heritage", "dual-citizenship"],
+    "facts": [
+      "Angh's house straddles India-Myanmar border",
+      "About 35-42 km from Mon town",
+      "One of the largest villages in Mon district",
+      "Konyak tribe cultural stronghold",
+      "Official tourist place listed by mon.nic.in"
+    ]
+  },
+  {
+    "id": "shangnyu-village",
+    "name": "Shangnyu Village",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Prominent Konyak village near Mon featuring a 500-year-old Angh's palace and a large wooden monument/carving believed to be ancient. Declared an ethnic village; rich in traditional sculptures, memorial stones, and Konyak craftsmanship.",
+    "coordinates": {
+      "lat": 26.7657,
+      "lon": 95.1105
+    },
+    "tags": ["village", "heritage", "konyak", "angh", "wood-carving", "offbeat"],
+    "facts": [
+      "Angh's house over 500 years old",
+      "About 6-18 km from Mon town",
+      "Famous for wooden monument and carvings",
+      "Official tourist place on mon.nic.in",
+      "Ethnic village for anthropological interest"
+    ]
+  },
+  {
+    "id": "chui-village",
+    "name": "Chui Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Accessible traditional Konyak village near Mon town, known for its grand Angh's house, wooden totems, skull exhibits from the past, and authentic tribal architecture. Serves as an introduction to Konyak culture.",
+    "coordinates": {
+      "lat": 26.7027,
+      "lon": 95.0274
+    },
+    "tags": ["village", "offbeat", "konyak", "angh", "heritage", "wood-carving"],
+    "facts": [
+      "About 5-8 km from Mon town",
+      "Grand Angh's mansion with traditional totems",
+      "Famous for wood carvings and cultural heritage",
+      "Listed among official tourist villages",
+      "Easy access for visitors from Mon"
+    ]
+  },
+  {
+    "id": "mon-town",
+    "name": "Mon",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "District headquarters of Mon and gateway to the Konyak heartland. Scenic hill town at about 655-900 m elevation, base for exploring surrounding villages, Veda Peak, and Aoleang Festival; known as the Land of the Anghs.",
+    "coordinates": {
+      "lat": 26.720822,
+      "lon": 95.028624
+    },
+    "tags": ["town", "headquarters", "gateway", "konyak", "district-hq"],
+    "facts": [
+      "HQ of Mon district",
+      "Elevation around 655 m",
+      "Home of the Konyak Naga tribe",
+      "Base for Longwa, Shangnyu and Veda Peak circuits",
+      "About 280 km from Dimapur"
+    ]
+  },
+  {
+    "id": "veda-peak",
+    "name": "Veda Peak (Pak Koi)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Highest peak in Mon district, about 70 km from the headquarters. Offers panoramic views of the Brahmaputra and Chindwin rivers on clear days, with a nearby waterfall; popular for trekking amid Konyak countryside. Historically associated with early British camps.",
+    "tags": ["peak", "nature", "viewpoint", "trekking", "waterfall", "offbeat"],
+    "facts": [
+      "Highest peak in Mon district",
+      "About 70 km from Mon town",
+      "Views of Brahmaputra and Chindwin rivers",
+      "Nearby waterfall attraction",
+      "Official tourist place on mon.nic.in"
+    ]
+  },
+  {
+    "id": "singphan-wildlife-sanctuary",
+    "name": "Singphan Wildlife Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Wildlife sanctuary covering about 23.57 km\u00b2 in Mon district along the Assam border. Notified in 2009 and declared Singphan Elephant Reserve in 2018 (India's 30th); important elephant corridor with tropical forests, supporting elephants, birds and other fauna.",
+    "coordinates": {
+      "lat": 26.925,
+      "lon": 94.894306
+    },
+    "tags": ["wildlife", "sanctuary", "elephant-reserve", "nature", "biodiversity"],
+    "facts": [
+      "Established 2009; area 23.57 km\u00b2",
+      "Declared Elephant Reserve in 2018",
+      "Coordinates approx 26.925N 94.894E",
+      "Bordering Assam forests; elephant corridor",
+      "Managed by Nagaland Forest Department"
+    ]
+  },
+  {
+    "id": "chenloisho-village",
+    "name": "Chenloisho Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "One of the larger villages in the Chen area of Mon district near the India-Myanmar border. Features a small museum of traditional Konyak ornaments and artefacts; known for cultural displays and remote highland setting.",
+    "coordinates": {
+      "lat": 26.546066,
+      "lon": 95.057198
+    },
+    "tags": ["village", "offbeat", "konyak", "museum", "heritage", "border"],
+    "facts": [
+      "Near India-Myanmar border in Chen area",
+      "Small museum with traditional ornaments",
+      "One of the biggest villages in Chen region",
+      "Population around 4,000 (2011)",
+      "Part of official cultural village listings"
+    ]
+  }
+]
