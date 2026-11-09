@@ -1,1 +1,23 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial gateway of Nagaland, located on the Dhansiri River plains, serving as the primary entry point by air and rail for the state.",
+    "coordinates": {
+      "lat": 25.9117,
+      "lon": 93.7217
+    },
+    "tags": [
+      "gateway",
+      "city",
+      "commercial"
+    ],
+    "facts": [
+      "Main airport and railway hub of Nagaland",
+      "Elevation around 145 m",
+      "Ancient capital of the Kachari kingdom"
+    ]
+  }
+]
