@@ -1,0 +1,118 @@
+[
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial gateway of Nagaland, located on the Dhansiri River plains, serving as the primary entry point by air and rail for the state.",
+    "coordinates": {
+      "lat": 25.9117,
+      "lon": 93.7217
+    },
+    "tags": ["gateway", "city", "commercial"],
+    "facts": [
+      "Main airport and railway hub of Nagaland",
+      "Elevation around 145 m",
+      "Ancient capital of the Kachari kingdom"
+    ]
+  },
+  {
+    "id": "kachari-ruins-dimapur",
+    "name": "Kachari Ruins",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval ruins of the Kachari Rajbari featuring distinctive mushroom-domed sandstone pillars and carved monoliths from the 10th-13th century Dimasa Kachari kingdom.",
+    "coordinates": {
+      "lat": 25.90361,
+      "lon": 93.74028
+    },
+    "tags": ["heritage", "archaeology", "ruins", "kachari"],
+    "facts": [
+      "Protected by Archaeological Survey of India",
+      "Mushroom-shaped pillars believed to be fertility symbols or chess pieces",
+      "Best visited October to March"
+    ]
+  },
+  {
+    "id": "green-park-dimapur",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Landscaped recreational park inside the State Horticulture Nursery at 4th Mile, featuring greenery, boating, ziplining, and picnic facilities popular with families.",
+    "coordinates": {
+      "lat": 25.8606,
+      "lon": 93.7621
+    },
+    "tags": ["park", "recreation", "family", "nature"],
+    "facts": [
+      "Located within State Horticulture Nursery",
+      "Offers boating, water zorbing and ziplining",
+      "Ideal for picnics in winter months"
+    ]
+  },
+  {
+    "id": "nezcc-dimapur",
+    "name": "NEZCC Stone Garden and Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "North East Zone Cultural Centre complex with a stone sculpture garden of 31 artworks by Indian sculptors and a heritage museum showcasing crafts from eight northeastern states.",
+    "tags": ["museum", "sculpture", "cultural", "heritage"],
+    "facts": [
+      "Located near Dimapur Airport and railway station",
+      "Features traditional morungs and amphitheatre",
+      "Preserves Northeast cultural artifacts"
+    ]
+  },
+  {
+    "id": "niathu-resort-dimapur",
+    "name": "Niathu Resort",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "50-acre resort near Dimapur Airport meaning 'Sunrise' in Angami, offering alpine-style chalets, anthurium gardens and family amenities by the Chate River.",
+    "tags": ["resort", "leisure", "family"],
+    "facts": [
+      "Five-minute drive from Dimapur Airport",
+      "Seven alpine chalet suites",
+      "Popular for short getaways"
+    ]
+  },
+  {
+    "id": "noune-resort-dimapur",
+    "name": "Noune Resort",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Peaceful mini-tourist resort at Seithekiema A village about 10 km from Dimapur, featuring a large water body for boating and angling plus children's facilities.",
+    "tags": ["resort", "nature", "boating", "angling"],
+    "facts": [
+      "Name means Peace in Angami Naga",
+      "Offers water zorbing and adventure activities",
+      "Pastoral setting ideal for relaxation"
+    ]
+  },
+  {
+    "id": "heirloom-naga-centre",
+    "name": "Heirloom Naga Centre",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Creative hub near Sovima Village uniting Naga craft brands, workshops, gallery and guest house showcasing traditional and contemporary Naga design.",
+    "tags": ["craft", "gallery", "cultural", "workshop"],
+    "facts": [
+      "Approximately 15 minutes from Dimapur Airport",
+      "Features Heirloom gallery of curated Naga artifacts",
+      "Supports local artisans through retail and mentorship"
+    ]
+  },
+  {
+    "id": "hong-kong-market-dimapur",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling flea market in central Dimapur known for imported goods, clothing, electronics and local Naga products, a vibrant commercial landmark.",
+    "tags": ["market", "shopping", "local"],
+    "facts": [
+      "One of the most popular markets in Dimapur",
+      "Mix of local handicrafts and imported items",
+      "Lively street food nearby"
+    ]
+  }
+]
