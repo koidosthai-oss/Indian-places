@@ -8,5 +8,65 @@
     "coordinates": {"lat": 25.90361, "lon": 93.74028},
     "tags": ["heritage", "ruins", "kachari", "monoliths", "asi", "history"],
     "facts": ["Ancient capital of Dimasa Kachari kingdom before Ahom invasion", "Famous for mushroom-shaped sandstone pillars up to 15 feet", "ASI protected monument (N-NL-1)", "Located behind Naga Shopping Arcade / near Circuit House", "Best visited October\u2013March"]
+  },
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial gateway of Nagaland, located on the Dhansiri River plains near the Assam border. Serves as the main entry point with airport and railway station for visitors heading to Kohima and the hills.",
+    "coordinates": {"lat": 25.9092, "lon": 93.7266},
+    "tags": ["gateway", "city", "commercial", "plains"],
+    "facts": ["Main airport and railhead of Nagaland", "Elevation about 145 m", "Commercial hub linking Assam and Nagaland", "Best base for day trips into surrounding districts"]
+  },
+  {
+    "id": "nezcc-stone-garden-dimapur",
+    "name": "NEZCC Stone Garden and Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "North East Zone Cultural Centre complex featuring a stone sculpture garden with works by artists from across India, traditional morungs, amphitheatre, and a heritage museum showcasing crafts from the eight northeastern states.",
+    "coordinates": {"lat": 25.8769, "lon": 93.7731},
+    "tags": ["heritage", "museum", "sculpture", "cultural-centre", "nezcc"],
+    "facts": ["Headquarters of NEZCC since 1986", "Stone garden has 31 sculptures", "Near Dimapur Airport", "Museum preserves Northeast cultural artefacts"]
+  },
+  {
+    "id": "green-park-dimapur",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Landscaped recreational park inside the State Horticulture Nursery area at 4th Mile, with greenery, boating, picnic spots, and light adventure activities. Popular local weekend getaway.",
+    "coordinates": {"lat": 25.8606, "lon": 93.7621},
+    "tags": ["park", "nature", "picnic", "family", "boating"],
+    "facts": ["Located at 4th/5th Mile area", "Part of State Horticulture Nursery complex", "Activities include boating and ziplining", "Flag: some sources note proximity to Ch\u00fcmoukedima boundary"]
+  },
+  {
+    "id": "heirloom-naga-centre-dimapur",
+    "name": "Heirloom Naga Centre",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Creative hub and living cultural space near Sovima that unites Naga craft brands, workshops, gallery, eatery, and guesthouse. Focuses on preserving and contemporary reinterpretation of Naga textiles, bamboo, and cane crafts.",
+    "coordinates": {"lat": 25.8484, "lon": 93.7321},
+    "tags": ["offbeat", "crafts", "heritage", "workshop", "cultural"],
+    "facts": ["Founded to promote Naga artisan traditions", "Includes gallery, retail, eatery and guesthouse", "Near Seluphe Junction, Sovima", "Supports weavers and craftsmen"]
+  },
+  {
+    "id": "hong-kong-market-dimapur",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling flea market in central Dimapur known for affordable imported clothing, footwear, electronics, and local goods. A lively commercial and social hub for locals and visitors.",
+    "coordinates": {"lat": 25.905, "lon": 93.735},
+    "tags": ["market", "shopping", "offbeat", "local-life"],
+    "facts": ["One of Dimapur\u2019s most famous markets", "Goods often sourced from Myanmar, Thailand, China", "Near railway station area", "Popular for bargains and everyday shopping"]
+  },
+  {
+    "id": "dhansiri-river-dimapur",
+    "name": "Dhansiri River (Dimapur section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Section of the Dhansiri River flowing beside Dimapur, offering riverside walks, birdwatching, and views of the plains landscape. Provides a quieter natural contrast to the city.",
+    "coordinates": {"lat": 25.90, "lon": 93.75},
+    "tags": ["nature", "river", "birdwatching", "offbeat"],
+    "facts": ["Tributary of the Brahmaputra", "Flows east of the city", "Local picnic and angling spots", "Coordinates approximate for the urban stretch"]
   }
 ]
