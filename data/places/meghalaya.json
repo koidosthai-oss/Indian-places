@@ -1,1 +1,218 @@
-$(cat /tmp/meghalaya_updated.json)
+[
+  {
+    "id": "shillong-town",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital of Meghalaya and headquarters of East Khasi Hills, known as the Scotland of the East. A popular hill station at about 1,500 m elevation with pine forests, colonial architecture, markets, and access to waterfalls and viewpoints.",
+    "coordinates": {
+      "lat": 25.58222,
+      "lon": 91.89444
+    },
+    "tags": ["hill-station", "capital", "khasi", "colonial", "viewpoint"],
+    "facts": [
+      "Capital and HQ of East Khasi Hills",
+      "Elevation approximately 1,495–1,525 m",
+      "Named after the deity Lei Shyllong",
+      "About 100 km from Guwahati airport"
+    ]
+  },
+  {
+    "id": "shillong-peak",
+    "name": "Shillong Peak",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Highest point in Meghalaya at about 1,966 m, offering panoramic views of Shillong city and surrounding hills. Site of the sacred Lei Shillong shrine; popular for sunsets and photography.",
+    "coordinates": {
+      "lat": 25.5317,
+      "lon": 91.8514
+    },
+    "tags": ["peak", "viewpoint", "highest-point", "sacred", "nature"],
+    "facts": [
+      "Highest peak in Meghalaya ~1,966 m",
+      "About 10 km from Shillong center",
+      "Sacred to Khasi as abode of Lei Shillong",
+      "Popular for panoramic views and sunsets"
+    ]
+  },
+  {
+    "id": "elephant-falls",
+    "name": "Elephant Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Three-tier waterfall near Upper Shillong, locally known as Ka Kshaid Lai Pateng Khohsiew. Cascades over fern-covered rocks; easily accessible from the Shillong-Cherrapunji road.",
+    "coordinates": {
+      "lat": 25.53786,
+      "lon": 91.82205
+    },
+    "tags": ["waterfall", "nature", "three-tier", "accessible"],
+    "facts": [
+      "Three-step waterfall",
+      "About 12 km from Shillong",
+      "Named after a former elephant-shaped rock",
+      "Popular picnic and photography spot"
+    ]
+  },
+  {
+    "id": "wards-lake",
+    "name": "Ward's Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Man-made lake in the heart of Shillong, named after Sir William Ward. Features a walking path, gardens, and boating; a central recreational spot in the city.",
+    "coordinates": {
+      "lat": 25.575,
+      "lon": 91.887
+    },
+    "tags": ["lake", "nature", "garden", "city-center"],
+    "facts": [
+      "Also known as Nan Polok",
+      "Located in central Shillong",
+      "Named after Chief Commissioner Sir William Ward",
+      "Popular for walks and relaxation"
+    ]
+  },
+  {
+    "id": "sohra-cherrapunji",
+    "name": "Sohra (Cherrapunji)",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Subdivisional town on the southern slopes of the Khasi Hills, one of the wettest places on Earth. Gateway to numerous waterfalls, caves, living root bridges, and viewpoints over deep gorges.",
+    "coordinates": {
+      "lat": 25.284,
+      "lon": 91.721
+    },
+    "tags": ["hill-station", "wettest-place", "waterfalls", "gateway"],
+    "facts": [
+      "Formerly Cherrapunji; now Sohra",
+      "About 55 km from Shillong",
+      "Receives among the highest rainfall globally",
+      "Base for Nohkalikai and living root bridges"
+    ]
+  },
+  {
+    "id": "nohkalikai-falls",
+    "name": "Nohkalikai Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Tallest plunge waterfall in India at about 340 m, plunging from the Cherrapunji plateau into a green pool. Fed by monsoon rains; one of the most iconic sights near Sohra.",
+    "coordinates": {
+      "lat": 25.27556,
+      "lon": 91.68667
+    },
+    "tags": ["waterfall", "plunge", "tallest-in-india", "nature"],
+    "facts": [
+      "Height approximately 340 m / 1,115 ft",
+      "About 5–7 km from Sohra",
+      "Tallest plunge waterfall in India",
+      "Best viewed in monsoon for full flow"
+    ]
+  },
+  {
+    "id": "nohsngithiang-falls",
+    "name": "Nohsngithiang Falls (Seven Sisters Falls)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Series of seven cascading streams near Mawsmai, dropping dramatically over a cliff. One of the tallest waterfalls in India; spectacular during monsoon.",
+    "coordinates": {
+      "lat": 25.243,
+      "lon": 91.743
+    },
+    "tags": ["waterfall", "seven-sisters", "nature", "monsoon"],
+    "facts": [
+      "Also called Seven Sisters Falls",
+      "Near Mawsmai Cave area",
+      "Multiple streams falling in parallel",
+      "Iconic monsoon attraction"
+    ]
+  },
+  {
+    "id": "mawsmai-cave",
+    "name": "Mawsmai Cave",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Limestone cave near Sohra with illuminated passages and formations. One of the more accessible caves in the region, popular with visitors exploring the Cherrapunji circuit.",
+    "coordinates": {
+      "lat": 25.29583,
+      "lon": 91.69056
+    },
+    "tags": ["cave", "nature", "limestone", "accessible"],
+    "facts": [
+      "Near Sohra/Cherrapunji",
+      "Partially illuminated for visitors",
+      "Limestone formations",
+      "Short guided visits available"
+    ]
+  },
+  {
+    "id": "double-decker-living-root-bridge",
+    "name": "Double Decker Living Root Bridge (Nongriat)",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Unique two-tier living root bridge in Nongriat village, grown from Ficus elastica roots by Khasi communities over generations. Accessible via a steep trek of thousands of steps from Tyrna; a highlight of Meghalaya's bio-engineering.",
+    "coordinates": {
+      "lat": 25.251,
+      "lon": 91.672
+    },
+    "tags": ["living-root-bridge", "nature", "trek", "khasi", "offbeat"],
+    "facts": [
+      "In Nongriat village, East Khasi Hills",
+      "About 15 km from Sohra via Tyrna",
+      "Two stacked root bridges spanning a stream",
+      "Trek involves ~3,000–3,500 steps"
+    ]
+  },
+  {
+    "id": "mawlynnong-village",
+    "name": "Mawlynnong Village",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Widely known as Asia's cleanest village, a Khasi settlement near the Bangladesh border with neat gardens, bamboo dustbins, and living root bridges nearby. Promotes community-led eco-tourism and cleanliness.",
+    "coordinates": {
+      "lat": 25.2018,
+      "lon": 91.916
+    },
+    "tags": ["village", "offbeat", "cleanest-village", "eco-tourism", "khasi"],
+    "facts": [
+      "Known as Asia's cleanest village",
+      "About 90 km from Shillong",
+      "Near India-Bangladesh border",
+      "Community-managed tourism and living root bridges"
+    ]
+  },
+  {
+    "id": "laitlum-canyon",
+    "name": "Laitlum Canyon",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Dramatic cliff-top viewpoint about 25 km from Shillong overlooking deep green canyons and valleys. Known for sunrise/sunset views and a steep path down to the valley floor.",
+    "coordinates": {
+      "lat": 25.4488,
+      "lon": 91.9114
+    },
+    "tags": ["canyon", "viewpoint", "nature", "offbeat"],
+    "facts": [
+      "About 25 km from Shillong",
+      "Clifftop views over deep gorges",
+      "Best at sunrise or sunset",
+      "Steep stairs to Rasong village below"
+    ]
+  },
+  {
+    "id": "mawphlang-sacred-forest",
+    "name": "Mawphlang Sacred Forest",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ancient sacred grove protected by Khasi tradition where nothing may be removed. Features old-growth forest, monoliths, and guided walks; a key cultural and biodiversity site about 25 km from Shillong.",
+    "coordinates": {
+      "lat": 25.4458,
+      "lon": 91.7496
+    },
+    "tags": ["sacred-grove", "nature", "heritage", "khasi", "forest"],
+    "facts": [
+      "About 25 km from Shillong",
+      "Protected by traditional religious sanction",
+      "Guided walks only; nothing may be taken out",
+      "Includes monoliths and old-growth trees"
+    ]
+  }
+]
