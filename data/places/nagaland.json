@@ -1,1 +1,12 @@
-PLACEHOLDER
+[
+  {
+    "id": "chui-village",
+    "name": "Chui Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Accessible traditional Konyak village near Mon town, known for its well-preserved Angh’s house, carved wooden architecture and morungs decorated with tribal motifs. Serves as an easy introduction to Konyak culture.",
+    "coordinates": {"lat": 26.7027, "lon": 95.0274},
+    "tags": ["village", "konyak", "offbeat", "angh", "morung", "heritage"],
+    "facts": ["About 8 km from Mon town", "Prominent Angh’s house with traditional regalia", "Traditional morungs and carvings", "Convenient day visit from Mon"]
+  }
+]
