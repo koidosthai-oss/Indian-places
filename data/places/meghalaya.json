@@ -1,1 +1,20 @@
-PLACEHOLDER_TO_REPLACE
+[
+  {
+    "id": "shillong-town",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital of Meghalaya and headquarters of East Khasi Hills, known as the Scotland of the East. Colonial hill station at about 1,500 m elevation with pine forests, markets, lakes, and base for exploring waterfalls, caves, and living root bridges.",
+    "coordinates": {
+      "lat": 25.5788,
+      "lon": 91.8933
+    },
+    "tags": ["hill-station", "capital", "khasi", "gateway", "colonial"],
+    "facts": [
+      "State capital and HQ of East Khasi Hills",
+      "Elevation approximately 1,496 m",
+      "Named after the deity U Shyllong",
+      "Major educational and administrative hub of Northeast India"
+    ]
+  }
+]
