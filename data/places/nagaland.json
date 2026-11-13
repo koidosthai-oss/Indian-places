@@ -1,1 +1,21 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "kohima-town",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Capital of Nagaland and district headquarters, a hill station at ~1,450 m elevation known for its Angami Naga culture, markets, viewpoints over the Naga Hills, and as the base for nearby treks and villages. Originally the Angami village of Kewhira.",
+    "coordinates": {
+      "lat": 25.67467,
+      "lon": 94.11099
+    },
+    "tags": ["hill-station", "capital", "angami", "gateway", "markets"],
+    "facts": [
+      "State capital of Nagaland",
+      "Elevation around 1,450 m",
+      "Originally Angami village Kewhira",
+      "Base for Dzukou, Japfu and Khonoma",
+      "Nearest airport Dimapur ~74 km"
+    ]
+  }
+]
