@@ -1,1 +1,20 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial hub of Nagaland, serving as the primary gateway with the state's only airport and major railway station. Located on the Dhansiri River plains near the Assam border; base for exploring Kachari heritage and nearby nature sites.",
+    "coordinates": {
+      "lat": 25.909174,
+      "lon": 93.726602
+    },
+    "tags": ["town", "gateway", "commercial", "airport", "railway"],
+    "facts": [
+      "HQ of Dimapur district",
+      "Only civil airport and major railhead in Nagaland",
+      "Population around 172,000 (municipality)",
+      "On banks of Dhansiri River near Assam border"
+    ]
+  }
+]
