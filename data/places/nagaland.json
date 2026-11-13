@@ -1,1 +1,191 @@
-FULL_CONTENT_HERE
+[
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial hub of Nagaland, serving as the primary gateway with the state's only airport and major railway station. Located on the Dhansiri River plains near the Assam border; base for exploring Kachari heritage and nearby nature sites.",
+    "coordinates": {
+      "lat": 25.909174,
+      "lon": 93.726602
+    },
+    "tags": ["town", "gateway", "commercial", "airport", "railway"],
+    "facts": [
+      "HQ of Dimapur district",
+      "Only civil airport and major railhead in Nagaland",
+      "Population around 172,000 (municipality)",
+      "On banks of Dhansiri River near Assam border"
+    ]
+  },
+  {
+    "id": "kachari-ruins-dimapur",
+    "name": "Kachari Ruins (Ruins of Kachari Rajbari)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval archaeological site with mushroom-domed sandstone pillars and V-shaped monoliths from the Dimasa Kachari kingdom (pre-13th century). Remnants of the ancient capital, elaborately carved with motifs; ASI protected and a key heritage attraction in the town center.",
+    "coordinates": {
+      "lat": 25.90361,
+      "lon": 93.74028
+    },
+    "tags": ["heritage", "ruins", "kachari", "monoliths", "archaeological", "asi"],
+    "facts": [
+      "ASI protected monument (N-NL-1)",
+      "Mushroom-domed pillars up to 10-15 feet",
+      "Ancient capital of Dimasa Kachari kingdom",
+      "Behind Naga Shopping Arcade / near Circuit House",
+      "Best visited October–March"
+    ]
+  },
+  {
+    "id": "dimapur-jain-temple",
+    "name": "Dimapur Jain Temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Historic Digambara Jain temple established in 1947, featuring intricate glass work and dedicated to Lord Mahavira. Built by non-Naga Jain settlers who relocated from Kohima during WWII; a prominent spiritual landmark in the city.",
+    "coordinates": {
+      "lat": 25.92,
+      "lon": 93.73
+    },
+    "tags": ["temple", "spiritual", "jain", "heritage", "glass-work"],
+    "facts": [
+      "Established 1947 by SD Jain Samaj",
+      "Moolnayak Lord Mahavira",
+      "Intricate glass interiors",
+      "On Jain Temple Road near SD Jain School",
+      "Managed by local Jain community"
+    ]
+  },
+  {
+    "id": "nagaland-science-centre-dimapur",
+    "name": "Nagaland Science Centre",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Interactive science museum behind Naga Shopping Arcade with galleries on senses, children's exhibits, and fun science, plus a planetarium (Taramandal). Promotes scientific awareness; popular family attraction with nominal entry.",
+    "coordinates": {
+      "lat": 25.903783,
+      "lon": 93.738447
+    },
+    "tags": ["science", "museum", "educational", "planetarium", "family"],
+    "facts": [
+      "Opened 2004 under DST Nagaland / NCSM",
+      "Galleries: Our Senses, Children's Corner, Fun Science",
+      "Includes Taramandal planetarium",
+      "Entry fee nominal; closed Mondays",
+      "Near Kachari Ruins and Super Market"
+    ]
+  },
+  {
+    "id": "green-park-dimapur",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Landscaped recreational park within the State Horticulture Nursery at 4th Mile, featuring greenery, boating, ziplining, kids' activities, and picnic spots. Family-friendly oasis with adventure elements.",
+    "coordinates": {
+      "lat": 25.860614,
+      "lon": 93.76207
+    },
+    "tags": ["park", "nature", "boating", "adventure", "family", "picnic"],
+    "facts": [
+      "Located at 4th/5th Mile in Horticulture Nursery",
+      "Features boating, ziplining, kids train",
+      "Nominal entry fee",
+      "Popular for picnics and family outings",
+      "Best October–March"
+    ]
+  },
+  {
+    "id": "nagaland-zoological-park",
+    "name": "Nagaland Zoological Park",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "State's largest zoo spanning 176 hectares at Rangapahar, focused on Northeast Indian fauna including hornbills, hoolock gibbon, and tigers. Part of Rangapahar Wildlife Sanctuary area; inaugurated 2008. Note: now in Chümoukedima district.",
+    "coordinates": {
+      "lat": 25.853371,
+      "lon": 93.724281
+    },
+    "tags": ["zoo", "wildlife", "conservation", "hornbill", "nature"],
+    "facts": [
+      "Opened 2008; 176 ha area",
+      "Houses ~40 species of NE fauna",
+      "Closed Mondays; entry fee applies",
+      "About 7–9 km from Dimapur",
+      "Flag: Located in Chümoukedima district (post-split)"
+    ]
+  },
+  {
+    "id": "triple-falls-seithekima",
+    "name": "Triple Falls (Seithekima)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Three-stream waterfall cascading about 280 feet into a natural pool near Seithekima village. Surrounded by lush forest; popular for picnics and short treks. Note: village area now associated with Chümoukedima district.",
+    "coordinates": {
+      "lat": 25.8063,
+      "lon": 93.8145
+    },
+    "tags": ["waterfall", "nature", "trek", "picnic", "offbeat"],
+    "facts": [
+      "Height approximately 280 ft / 85 m",
+      "Three cascading streams",
+      "About 17–20 km from Dimapur",
+      "Best post-monsoon for full flow",
+      "Flag: Seithekima in Chümoukedima area"
+    ]
+  },
+  {
+    "id": "diezephe-craft-village",
+    "name": "Diezephe Craft Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Artisan village known for traditional Naga woodcarving, bamboo/cane work, and loinloom weaving. Features craft museum, workshops, and homestays; promoted for cultural tourism. Note: now in Chümoukedima district.",
+    "coordinates": {
+      "lat": 25.8211,
+      "lon": 93.7037
+    },
+    "tags": ["craft", "village", "offbeat", "weaving", "heritage", "homestay"],
+    "facts": [
+      "About 13 km from Dimapur",
+      "Experts in wood carving, weaving, bamboo",
+      "Hosts Loinloom festival in December",
+      "Best Tourism Village recognition",
+      "Flag: Located in Chümoukedima district"
+    ]
+  },
+  {
+    "id": "nezcc-stone-garden-museum",
+    "name": "NEZCC Stone Garden and Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "North East Zone Cultural Centre complex with stone sculpture garden (31 sculptures by Indian artists), traditional morungs, amphitheater, and Northeast Heritage Museum showcasing crafts from eight NE states. Near airport.",
+    "coordinates": {
+      "lat": 25.87694,
+      "lon": 93.77306
+    },
+    "tags": ["cultural", "museum", "sculpture", "heritage", "northeast"],
+    "facts": [
+      "About 3 km from railway station, near airport",
+      "Stone garden with 31 sculptures",
+      "Northeast Heritage Museum of crafts/artifacts",
+      "Website: nezccindia.org.in",
+      "Promotes NE cultural heritage"
+    ]
+  },
+  {
+    "id": "hong-kong-market-dimapur",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling flea market in central Dimapur known for imported goods, clothing, electronics, and local Naga handicrafts. Vibrant shopping hub popular with locals and visitors exploring the commercial gateway.",
+    "coordinates": {
+      "lat": 25.91,
+      "lon": 93.73
+    },
+    "tags": ["market", "shopping", "handicrafts", "commercial"],
+    "facts": [
+      "Central Dimapur flea market",
+      "Mix of local Naga crafts and imported items",
+      "Near railway station and city center",
+      "Popular for bargain shopping",
+      "Coordinates approximate"
+    ]
+  }
+]
