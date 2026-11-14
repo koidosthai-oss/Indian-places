@@ -1,1 +1,183 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "loktak-lake",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Largest freshwater lake in Northeast India, famous for floating phumdis (heterogeneous biomass islands). Ramsar wetland supporting unique ecosystem, fishing communities, and the floating Keibul Lamjao National Park. Located primarily in Bishnupur district near Moirang.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.783
+    },
+    "tags": ["lake", "nature", "phumdi", "ramsar", "wetland", "boating", "offbeat"],
+    "facts": [
+      "Largest freshwater lake in Northeast India (~287 km²)",
+      "Ramsar site since 1990",
+      "Famous for floating phumdis of vegetation and soil",
+      "Supports unique fishing and floating hut communities",
+      "About 48 km south of Imphal"
+    ]
+  },
+  {
+    "id": "keibul-lamjao-national-park",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "World's only floating national park, located on the southern part of Loktak Lake on a large phumdi. Last natural habitat of the endangered Sangai (brow-antlered deer or dancing deer). Accessed by boat; watchtowers for wildlife viewing.",
+    "coordinates": {
+      "lat": 24.567,
+      "lon": 93.837
+    },
+    "tags": ["national-park", "wildlife", "floating", "sangai", "deer", "nature"],
+    "facts": [
+      "World's only floating national park",
+      "Home to endangered Sangai (Rucervus eldii eldii)",
+      "Declared national park in 1977 (sanctuary 1966)",
+      "Area about 40 km² on floating phumdi",
+      "Best visited October–March for birdlife and deer sightings"
+    ]
+  },
+  {
+    "id": "bishnupur-vishnu-temple",
+    "name": "Bishnupur Vishnu Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "15th-century conical temple dedicated to Lord Vishnu in Bishnupur town, after which the district is named. Built during the reign of King Kyamba; features unique architecture influenced by Chinese styles and local Meitei traditions.",
+    "coordinates": {
+      "lat": 24.6297,
+      "lon": 93.7594
+    },
+    "tags": ["temple", "spiritual", "heritage", "vishnu", "meitei"],
+    "facts": [
+      "Built in 1467 during King Kyamba's reign",
+      "Namesake of Bishnupur town and district",
+      "Conical design with Chinese architectural influences",
+      "Located in Bishnupur HQ, about 27 km from Imphal"
+    ]
+  },
+  {
+    "id": "ina-memorial-moirang",
+    "name": "INA Memorial Complex (Moirang)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historic site in Moirang where the Indian National Army first hoisted the tricolour on Indian soil on 14 April 1944 under Col. Shaukat Malik. Complex includes museum with INA artefacts, library, auditorium, and statue of Netaji Subhas Chandra Bose.",
+    "coordinates": {
+      "lat": 24.5025,
+      "lon": 93.7769
+    },
+    "tags": ["heritage", "ina", "wwii", "memorial", "freedom-struggle", "museum"],
+    "facts": [
+      "Site of first INA tricolour hoisting on Indian soil (14 April 1944)",
+      "About 45 km south of Imphal near Loktak Lake",
+      "Museum displays letters, photographs, uniforms and memorabilia",
+      "Administered by Manipur government; key freedom struggle site"
+    ]
+  },
+  {
+    "id": "loukoipat-ecological-park",
+    "name": "Loukoipat Ecological Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Small scenic lake and eco-park on the outskirts of Bishnupur HQ, nestled between green hillocks. Offers boating, picnic areas, and panoramic views of the valley; popular local recreation spot.",
+    "coordinates": {
+      "lat": 24.63,
+      "lon": 93.77
+    },
+    "tags": ["lake", "nature", "eco-park", "boating", "picnic", "offbeat"],
+    "facts": [
+      "Located about 1 km from Bishnupur district HQ",
+      "Small natural lake surrounded by hillocks",
+      "Boating facilities available",
+      "Inspection bungalow on adjacent hillock"
+    ]
+  },
+  {
+    "id": "sendra-island",
+    "name": "Sendra Island / Tourist Home",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Rocky hillock island in the middle of Loktak Lake connected by causeway, offering panoramic 360° views of floating phumdis and the lake. Features Sendra Tourist Home and cafeteria; major viewpoint and boat departure point for Keibul Lamjao.",
+    "coordinates": {
+      "lat": 24.5155,
+      "lon": 93.7955
+    },
+    "tags": ["island", "nature", "viewpoint", "tourist-home", "loktak", "offbeat"],
+    "facts": [
+      "Hillock rising from Loktak Lake",
+      "Best panoramic views of phumdis",
+      "Sendra Tourist Home managed by Manipur Tourism",
+      "About 48 km from Imphal; boat access to national park"
+    ]
+  },
+  {
+    "id": "moirang-town",
+    "name": "Moirang",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Historic town in Bishnupur district near Loktak Lake, gateway to the lake and Keibul Lamjao. Known for ancient Ibudhou Thangjing Temple, Lai Haraoba festival, Khamba-Thoibi epic origins, and INA headquarters during WWII.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.77
+    },
+    "tags": ["town", "heritage", "gateway", "cultural", "loktak"],
+    "facts": [
+      "About 45 km south of Imphal",
+      "Site of INA flag hoisting in 1944",
+      "Home to ancient Thangjing Temple",
+      "Cultural centre for Meitei folklore and festivals"
+    ]
+  },
+  {
+    "id": "phubala",
+    "name": "Phubala",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Charming resort area on the western fringes of Loktak Lake, about 40 km south of Imphal. Offers lake views, boating, and quieter access to phumdis and fishing communities.",
+    "coordinates": {
+      "lat": 24.52,
+      "lon": 93.75
+    },
+    "tags": ["resort", "nature", "loktak", "boating", "offbeat"],
+    "facts": [
+      "About 40 km from Imphal on western side of Loktak",
+      "Resort and boat access point",
+      "Quieter alternative to main Sendra circuit"
+    ]
+  },
+  {
+    "id": "red-hill-lokpaching",
+    "name": "Red Hill (Lokpaching)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Hillock about 16–17 km south of Imphal on Tiddim Road (NH-150) in Bishnupur area. Site of fierce WWII battle between British and Japanese forces; features India Peace Memorial for Japanese soldiers.",
+    "coordinates": {
+      "lat": 24.7,
+      "lon": 93.85
+    },
+    "tags": ["heritage", "wwii", "memorial", "hill", "offbeat"],
+    "facts": [
+      "About 16–17 km from Imphal on NH-150",
+      "Site of WWII Battle of Red Hill",
+      "India Peace Memorial for Japanese war dead",
+      "Pilgrimage site for Japanese visitors"
+    ]
+  },
+  {
+    "id": "thanga-island",
+    "name": "Thanga Island",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Inhabited island community on Loktak Lake, home to traditional fishing families living on stilts or phumdis. Offers authentic insight into lake life, athaphum fish traps, and Meitei culture; accessible by boat from Sendra.",
+    "coordinates": {
+      "lat": 24.53,
+      "lon": 93.82
+    },
+    "tags": ["island", "offbeat", "fishing-community", "culture", "loktak", "nature"],
+    "facts": [
+      "Traditional fishing village on Loktak",
+      "Accessible by boat (~30–40 min from Sendra)",
+      "Uses unique athaphum fish traps",
+      "Stilt and floating hut dwellings"
+    ]
+  }
+]
