@@ -1,1 +1,153 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital of Meghalaya and headquarters of East Khasi Hills district, a pine-covered hill station at about 1,500 m elevation known as the Scotland of the East. Colonial architecture, markets, lakes, and base for exploring Khasi Hills attractions.",
+    "coordinates": {
+      "lat": 25.5744,
+      "lon": 91.8789
+    },
+    "tags": ["hill-station", "capital", "khasi", "gateway", "heritage"],
+    "facts": [
+      "State capital and district HQ",
+      "Elevation around 1,495–1,525 m",
+      "Nicknamed Scotland of the East",
+      "Population ~143,000 (2011 municipal)"
+    ]
+  },
+  {
+    "id": "dawki-umngot-river",
+    "name": "Dawki / Umngot River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Border town and crystal-clear river in West Jaintia Hills on the India-Bangladesh frontier. The Umngot River is renowned as one of Asia’s cleanest, with transparent waters that make boats appear to float in mid-air during the dry season. Features the 1932 British-built suspension bridge and boating.",
+    "coordinates": {
+      "lat": 25.1833,
+      "lon": 92.0167
+    },
+    "tags": ["river", "nature", "clear-water", "border", "boating", "offbeat"],
+    "facts": [
+      "Coordinates from Wikipedia: 25°11′0″N 92°1′0″E",
+      "Umngot River ~82 km long; origin near Shillong Peak",
+      "Dawki Suspension Bridge built 1932 by British",
+      "Best clarity November–March; Integrated Check Post to Bangladesh",
+      "About 80–95 km from Shillong"
+    ]
+  },
+  {
+    "id": "shnongpdeng",
+    "name": "Shnongpdeng",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Riverside village and adventure hub about 8 km upstream from Dawki on the Umngot River. Popular for camping, kayaking, cliff jumping, swimming in clear waters, and quieter stretches away from the main border traffic. Emerging eco-tourism spot in West Jaintia Hills.",
+    "coordinates": {
+      "lat": 25.2076,
+      "lon": 92.0088
+    },
+    "tags": ["village", "offbeat", "camping", "kayaking", "adventure", "river"],
+    "facts": [
+      "About 8 km from Dawki",
+      "Population ~655 (Census 2011)",
+      "Preferred for adventure activities and riverside camping",
+      "Clear water and sandy beaches in dry season",
+      "PIN 793109; Amlarem block"
+    ]
+  },
+  {
+    "id": "krang-suri-falls",
+    "name": "Krang Suri Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Stunning turquoise waterfall near Amlarem in West Jaintia Hills, plunging into a natural pool of brilliant blue-green water surrounded by forest. Popular for swimming (life jackets available), photography, and short trek to the base. One of Meghalaya’s most photogenic falls.",
+    "coordinates": {
+      "lat": 25.2873,
+      "lon": 92.1257
+    },
+    "tags": ["waterfall", "nature", "turquoise", "swimming", "photography"],
+    "facts": [
+      "Near Amlarem, ~30 km from Jowai, ~90 km from Shillong",
+      "Height around 30–40 m",
+      "Natural plunge pool with clear turquoise water",
+      "Entry fee applies; swimming with life jackets",
+      "Best October–April"
+    ]
+  },
+  {
+    "id": "nartiang-monoliths",
+    "name": "Nartiang Monoliths",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Largest collection of megaliths in the Khasi-Jaintia region, in Nartiang village (former summer capital of Jaintia kings). Features tall menhirs (moo shynrang) and dolmens (moo kynthai) erected from the 16th–19th centuries to commemorate royalty, warriors, and ancestors. Often called the Stonehenge of Northeast India.",
+    "coordinates": {
+      "lat": 25.5689,
+      "lon": 92.2088
+    },
+    "tags": ["monoliths", "heritage", "megalith", "jaintia", "historical"],
+    "facts": [
+      "Largest megalithic site in Meghalaya",
+      "Tallest menhir ~27 ft / 8 m",
+      "Erected by U Mar Phalyngki and clans between ~1500–1835",
+      "About 24–30 km from Jowai, 60 km from Shillong",
+      "Near Nartiang Durga Temple"
+    ]
+  },
+  {
+    "id": "nartiang-durga-temple",
+    "name": "Nartiang Durga Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "Ancient temple dedicated to Goddess Durga (Jayanti Devi) in Nartiang, one of the 51 Shakti Peethas. Features unique tribal-style worship blending Hindu and local Jaintia traditions; over 500 years old and a major pilgrimage site during Durga Puja.",
+    "coordinates": {
+      "lat": 25.569,
+      "lon": 92.209
+    },
+    "tags": ["temple", "spiritual", "shakti-peeth", "durga", "jaintia", "heritage"],
+    "facts": [
+      "One of 51 Shakti Peethas",
+      "About 600 years old",
+      "Located in Nartiang near the monoliths",
+      "Unique fusion of Hindu and tribal worship",
+      "Major festival during Durga Puja"
+    ]
+  },
+  {
+    "id": "thadlaskein-lake",
+    "name": "Thadlaskein Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Historic man-made lake near Mukhla on NH6, about 8–10 km from Jowai. According to legend, dug by 290 clans under rebel general Sajar Nangli using bow ends. Popular for boating, picnics, and scenic views; also known as Pung Sajar Nangli.",
+    "coordinates": {
+      "lat": 25.497,
+      "lon": 92.173
+    },
+    "tags": ["lake", "nature", "historical", "boating", "picnic"],
+    "facts": [
+      "Coordinates: 25°29′49″N 92°10′23″E",
+      "About 58–70 km from Shillong, 8–10 km from Jowai",
+      "Legend of creation by Sajar Nangli’s clans",
+      "On National Highway 6",
+      "Popular local recreational spot"
+    ]
+  },
+  {
+    "id": "jowai-town",
+    "name": "Jowai",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "District headquarters of West Jaintia Hills and cultural centre of the Pnar (Jaintia) people. Hill town at ~1,365–1,380 m elevation surrounded by the Myntdu River; gateway to Nartiang, Thadlaskein, Krang Suri and Dawki circuits, with markets, churches, and local cuisine.",
+    "coordinates": {
+      "lat": 25.4422,
+      "lon": 92.1947
+    },
+    "tags": ["town", "headquarters", "pnar", "jaintia", "gateway"],
+    "facts": [
+      "HQ of West Jaintia Hills district",
+      "Elevation ~1,365–1,380 m",
+      "Home to Pnar people; about 65 km from Shillong",
+      "Surrounded by Myntdu River",
+      "Base for Jaintia Hills tourism circuit"
+    ]
+  }
+]
