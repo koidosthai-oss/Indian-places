@@ -1,1 +1,155 @@
-[{"id":"shillong","name":"Shillong","state":"Meghalaya","category":"hill-station","description":"Capital of Meghalaya and headquarters of East Khasi Hills district, a pine-covered hill station at about 1,500 m elevation known as the Scotland of the East. Colonial architecture, markets, lakes, and base for exploring Khasi Hills attractions.","coordinates":{"lat":25.5744,"lon":91.8789},"tags":["hill-station","capital","khasi","gateway","heritage"],"facts":["State capital and district HQ","Elevation around 1,495–1,525 m","Nicknamed Scotland of the East","Population ~143,000 (2011 municipal)"]}]
+[
+  {
+    "id": "shillong",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "hill-station",
+    "description": "Capital of Meghalaya and headquarters of East Khasi Hills district, a pine-covered hill station at about 1,500 m elevation known as the Scotland of the East. Colonial architecture, markets, lakes, and base for exploring Khasi Hills attractions.",
+    "coordinates": {
+      "lat": 25.5744,
+      "lon": 91.8789
+    },
+    "tags": ["hill-station", "capital", "khasi", "gateway", "heritage"],
+    "facts": ["State capital and district HQ", "Elevation around 1,495–1,525 m", "Nicknamed Scotland of the East", "Population ~143,000 (2011 municipal)"]
+  },
+  {
+    "id": "jowai-town",
+    "name": "Jowai",
+    "state": "Meghalaya",
+    "category": "other",
+    "description": "Headquarters of West Jaintia Hills district and cultural-commercial hub of the Pnar (Jaintia) people on a plateau at about 1,380 m elevation, encircled by the Myntdu River. Base for exploring Nartiang, Thadlaskein, Krang Suri and the southern Umngot circuit.",
+    "coordinates": {
+      "lat": 25.436,
+      "lon": 92.191
+    },
+    "tags": ["town", "headquarters", "pnar", "gateway", "cultural"],
+    "facts": ["HQ of West Jaintia Hills district", "Elevation around 1,380 m", "Home of the Pnar people", "About 64 km from Shillong", "Behdeinkhlam festival held here"]
+  },
+  {
+    "id": "krang-suri-falls",
+    "name": "Krang Suri Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Stunning multi-stream waterfall near Amlarem dropping into a crystal-clear turquoise pool surrounded by limestone cliffs and dense forest. One of Meghalaya’s most photogenic falls; short trek to the base where swimming is possible in season.",
+    "coordinates": {
+      "lat": 25.2873,
+      "lon": 92.1257
+    },
+    "tags": ["waterfall", "nature", "turquoise", "swimming", "offbeat", "limestone"],
+    "facts": ["Located near Amlarem, about 30 km from Jowai", "Coordinates ~25.2873°N 92.1257°E", "Turquoise pool year-round", "Short 10–15 min trek to base", "Best November–March"]
+  },
+  {
+    "id": "nartiang-monoliths",
+    "name": "Nartiang Monoliths",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Largest concentration of megalithic standing stones (menhirs and dolmens) in Meghalaya, north of Nartiang market. Erected between the 16th and 19th centuries by Jaintia clans and kings; tallest menhir about 8 m. Summer capital remnant of the Jaintia kingdom.",
+    "coordinates": {
+      "lat": 25.5738,
+      "lon": 92.2162
+    },
+    "tags": ["monoliths", "megalithic", "heritage", "jaintia", "archaeological"],
+    "facts": ["Largest monolith collection in Meghalaya", "Tallest menhir ~8 m (27 ft)", "Erected 1500–1835 CE", "About 24–30 km from Jowai", "National importance site"]
+  },
+  {
+    "id": "nartiang-durga-temple",
+    "name": "Nartiang Durga Temple",
+    "state": "Meghalaya",
+    "category": "spiritual",
+    "description": "600-year-old Shakti Peeth dedicated to Goddess Jayanti (Durga) in Nartiang village. One of the 51 Shakti Peethas where Sati’s left thigh is believed to have fallen; major pilgrimage site especially during Durga Puja.",
+    "coordinates": {
+      "lat": 25.567,
+      "lon": 92.209
+    },
+    "tags": ["temple", "spiritual", "shakti-peeth", "durga", "heritage", "jaintia"],
+    "facts": ["One of 51 Shakti Peethas", "Coordinates 25.567°N 92.209°E", "About 600 years old", "Close to Nartiang Monoliths", "Priests from original Jaintiapur lineage"]
+  },
+  {
+    "id": "thadlaskein-lake",
+    "name": "Thadlaskein Lake",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Man-made historical lake (Pung Sajar Nangli) beside NH-6 near Mukhla village, about 8 km from Jowai. Legend says it was dug by the bows of Sajar Nangli and his followers; popular picnic and boating spot amid pine-fringed hills.",
+    "coordinates": {
+      "lat": 25.497,
+      "lon": 92.173
+    },
+    "tags": ["lake", "nature", "picnic", "boating", "legend", "heritage"],
+    "facts": ["Man-made lake on NH-6", "Coordinates 25.497°N 92.173°E", "About 8–10 km from Jowai", "Legend of Sajar Nangli", "Also called Pung Sajar Nangli"]
+  },
+  {
+    "id": "dawki-umngot-river",
+    "name": "Dawki / Umngot River",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Border town on the crystal-clear Umngot River famous for glass-like water where boats appear to float in air. India-Bangladesh border crossing with historic suspension bridge; gateway for Shnongpdeng and Jaflong views.",
+    "coordinates": {
+      "lat": 25.1833,
+      "lon": 92.0167
+    },
+    "tags": ["river", "nature", "clear-water", "border", "boating", "offbeat"],
+    "facts": ["On India-Bangladesh border", "Coordinates ~25.183°N 92.017°E", "Famous for transparent water", "Historic 1932 suspension bridge", "About 70 km from Shillong"]
+  },
+  {
+    "id": "shnongpdeng",
+    "name": "Shnongpdeng",
+    "state": "Meghalaya",
+    "category": "offbeat",
+    "description": "Quiet riverside village a few kilometres upstream from Dawki on the Umngot, popular for kayaking, snorkelling, cliff jumping, camping and homestays. Less crowded alternative to Dawki with clear water and forested hills.",
+    "coordinates": {
+      "lat": 25.2076,
+      "lon": 92.0088
+    },
+    "tags": ["village", "offbeat", "river", "kayaking", "camping", "eco-tourism"],
+    "facts": ["About 8 km from Dawki", "Coordinates ~25.2076°N 92.0088°E", "Amlarem sub-division", "Adventure activities on Umngot", "Homestays and campsites"]
+  },
+  {
+    "id": "tyrshi-falls",
+    "name": "Tyrshi Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Scenic multi-tiered waterfall about 5–8 km from Jowai on the Shillong-Jowai road, cascading over rocks into a pool amid paddy fields. Accessible via a short walk across an arch bridge; lesser-known alternative to more famous falls.",
+    "coordinates": {
+      "lat": 25.4714,
+      "lon": 92.1914
+    },
+    "tags": ["waterfall", "nature", "offbeat", "paddy", "viewpoint"],
+    "facts": ["About 5–8 km from Jowai", "On Shillong-Jowai highway", "Short walk from road", "Multi-tiered cascade", "Popular local picnic spot"]
+  },
+  {
+    "id": "ialong-park",
+    "name": "Ialong Park",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Ecological park about 8 km from Jowai with sacred grove, manicured lawns and panoramic views over the Pynthor Wah valley and Myntdu River. Developed for nature walks, picnics and birdwatching.",
+    "tags": ["park", "nature", "viewpoint", "sacred-grove", "picnic"],
+    "facts": ["About 8 km from Jowai", "Overlooks Pynthor Wah valley", "Sacred grove within", "Eco-tourism development", "Ideal for short nature walks"]
+  },
+  {
+    "id": "syntu-ksiar",
+    "name": "Syntu Ksiar",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Riverside area on the Myntdu River meaning ‘golden flower’, with calm pools, suspension bridge, paddy fields and the U Kiang Nangbah memorial. Historic site of the Jaintia freedom movement and popular local picnic ground.",
+    "tags": ["river", "nature", "heritage", "memorial", "picnic", "suspension-bridge"],
+    "facts": ["On Myntdu River near Jowai", "Site of Kiang Nangbah’s movement", "Suspension bridge across river", "About 7 km from Jowai", "Also called Madan Madiah"]
+  },
+  {
+    "id": "phe-phe-falls",
+    "name": "Phe Phe Falls",
+    "state": "Meghalaya",
+    "category": "nature",
+    "description": "Two-tiered secluded waterfall in Amlarem sub-division with a clear blue plunge pool, reached by a moderate trek through forest. Paradise Adventure Camp nearby; quieter alternative to Krang Suri.",
+    "tags": ["waterfall", "nature", "offbeat", "trek", "swimming"],
+    "facts": ["In Amlarem sub-division", "About 80 km from Shillong", "Two-tiered with blue pool", "Moderate trek required", "Near Muvi river"]
+  },
+  {
+    "id": "thlu-muwi",
+    "name": "Thlu Muwi (Megalithic Bridge)",
+    "state": "Meghalaya",
+    "category": "heritage",
+    "description": "Historic megalithic stone bridge built over the Muwi stream by Jaintia warriors, about 16 km from Jowai on the Dawki road. Used by kings travelling between Sylhet and the summer capital at Nartiang; adjacent waterfall.",
+    "tags": ["heritage", "stone-bridge", "megalithic", "jaintia", "offbeat"],
+    "facts": ["About 16 km from Jowai on Dawki road", "Built by Jaintia warriors", "Historic royal route to Nartiang", "Nearby Muwi waterfall", "Unique megalithic engineering"]
+  }
+]
