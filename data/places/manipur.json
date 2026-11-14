@@ -1,1 +1,129 @@
-PLACEHOLDER
+[
+  {
+    "id": "loktak-lake-bishnupur",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Largest freshwater lake in Northeast India, famous for floating phumdis (heterogeneous biomass islands) and home to the world's only floating national park. Ramsar wetland of international importance.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.783
+    },
+    "tags": ["lake", "ramsar", "phumdi", "floating-islands", "wetland"],
+    "facts": [
+      "Coordinates from Wikipedia: 24°33′N 93°47′E.",
+      "Surface area varies 250-500 km²; average depth 2.7 m.",
+      "Designated Ramsar site in 1990 (site no. 463).",
+      "Supports unique ecosystem for Sangai deer and migratory birds.",
+      "Sources: Wikipedia, official Manipur Tourism, Ramsar."
+    ]
+  },
+  {
+    "id": "keibul-lamjao-national-park",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "The world's only floating national park, located on the largest phumdi of Loktak Lake. Last natural habitat of the endangered Sangai (brow-antlered deer), Manipur's state animal.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.84
+    },
+    "tags": ["national-park", "sangai", "floating-park", "wildlife", "ramsar"],
+    "facts": [
+      "Established 1977; area about 40 km².",
+      "Home to Sangai (Rucervus eldii eldii), hog deer, otters, and migratory birds.",
+      "Accessed by boat from Sendra or Keibul village.",
+      "Sources: Wikipedia, Manipur Forest Department, official tourism sites."
+    ]
+  },
+  {
+    "id": "sendra-island-loktak",
+    "name": "Sendra Island",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Rocky hillock island in Loktak Lake offering panoramic views of floating phumdis. Features Sendra Tourist Home and cafeteria; popular for photography, boating, and sunrise/sunset.",
+    "coordinates": {
+      "lat": 24.5155,
+      "lon": 93.7955
+    },
+    "tags": ["island", "viewpoint", "tourist-home", "loktak"],
+    "facts": [
+      "Connected by causeway; hilltop provides 360° lake views.",
+      "Coordinates approximate from photo EXIF: 24°30′55.92″N 93°47′43.68″E.",
+      "Boats to Keibul Lamjao depart from here.",
+      "Sources: Wikimedia Commons, official tourism descriptions."
+    ]
+  },
+  {
+    "id": "ina-martyrs-memorial-moirang",
+    "name": "INA Martyrs' Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historic memorial and museum at Moirang commemorating the Indian National Army. Site where the INA flag was first unfurled on Indian soil on 14 April 1944 under Netaji Subhas Chandra Bose.",
+    "coordinates": {
+      "lat": 24.5025,
+      "lon": 93.7769
+    },
+    "tags": ["ina", "memorial", "freedom-struggle", "museum", "netaji"],
+    "facts": [
+      "Located about 45 km south of Imphal in Bishnupur district.",
+      "Includes replica of Singapore INA memorial, museum, library, and statue.",
+      "Coordinates from TracesOfWar: 24.502469, 93.776911.",
+      "Sources: Wikipedia, official INA Museum site, Bishnupur NIC."
+    ]
+  },
+  {
+    "id": "bishnupur-vishnu-temple",
+    "name": "Bishnupur Vishnu Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "15th-century brick temple dedicated to Lord Vishnu, after which the town and district are named. Built by King Kyamba; protected historical monument.",
+    "coordinates": {
+      "lat": 24.62,
+      "lon": 93.7597
+    },
+    "tags": ["temple", "vishnu", "heritage", "15th-century"],
+    "facts": [
+      "Located in Bishnupur town (HQ of the district).",
+      "Coordinates approximate from Wikidata: 24°37′12″N 93°45′35″E.",
+      "Named after the idol gifted after a military victory.",
+      "Sources: Wikipedia, Wikidata, official district sites."
+    ]
+  },
+  {
+    "id": "loukoipat-ecological-park",
+    "name": "Loukoipat Ecological Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Scenic eco-park with a small lake surrounded by green hillocks near Bishnupur town. Offers boating and panoramic valley views; popular for picnics and relaxation.",
+    "coordinates": {
+      "lat": 24.63,
+      "lon": 93.76
+    },
+    "tags": ["eco-park", "lake", "boating", "picnic"],
+    "facts": [
+      "Located on outskirts of Bishnupur district headquarters.",
+      "Coordinates approximate near Bishnupur town.",
+      "Open daily; low or no entry fee.",
+      "Sources: Bishnupur NIC official, tourism listings."
+    ]
+  },
+  {
+    "id": "thanga-island-loktak",
+    "name": "Thanga Island",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Largest inhabited island in Loktak Lake, home to Meitei fishing communities living on solid ground and stilted huts. Features traditional athaphum fishing traps and folklore museum.",
+    "coordinates": {
+      "lat": 24.5326,
+      "lon": 93.8369
+    },
+    "tags": ["island", "fishing-community", "offbeat", "phumdi", "folklore"],
+    "facts": [
+      "Coordinates from GeoNames/Falling Rain: approx 24.5326°N 93.8369°E.",
+      "Accessible by boat; showcases traditional lake lifestyle.",
+      "Home to Loktak Folklore Museum.",
+      "Sources: Wikivoyage, GeoNames, tourism descriptions."
+    ]
+  }
+]
