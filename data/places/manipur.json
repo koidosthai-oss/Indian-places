@@ -1,1 +1,184 @@
-PLACEHOLDER
+[
+  {
+    "id": "loktak-lake-bishnupur",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Largest freshwater lake in Northeast India, famous for floating phumdis (heterogeneous biomass islands) and home to the world's only floating national park. Ramsar wetland of international importance.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.783
+    },
+    "tags": ["lake", "ramsar", "phumdi", "floating-islands", "wetland"],
+    "facts": [
+      "Coordinates from Wikipedia: 24°33′N 93°47′E.",
+      "Surface area varies 250-500 km²; average depth 2.7 m.",
+      "Designated Ramsar site in 1990 (site no. 463).",
+      "Supports unique ecosystem for Sangai deer and migratory birds.",
+      "Sources: Wikipedia, official Manipur Tourism, Ramsar."
+    ]
+  },
+  {
+    "id": "keibul-lamjao-national-park",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "World's only floating national park on the southwestern part of Loktak Lake in Bishnupur district, sole natural habitat of the critically endangered Sangai (brow-antlered) deer. Unique phumdi ecosystem supporting wetland biodiversity.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.76667
+    },
+    "tags": ["national-park", "sangai", "floating-park", "wildlife", "ramsar", "unesco-tentative"],
+    "facts": [
+      "Area 40 km²; established as national park 28 March 1977.",
+      "Only natural home of Sangai deer (Rucervus eldii eldii).",
+      "Part of Loktak Lake Ramsar site; UNESCO tentative list as Keibul Lamjao Conservation Area.",
+      "Coordinates from Wikipedia: 24°30′N 93°46′E.",
+      "Sources: Wikipedia, bishnupur.nic.in, Atlas Obscura."
+    ]
+  },
+  {
+    "id": "ina-martyrs-memorial-complex-moirang",
+    "name": "INA Martyrs' Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historic memorial complex in Moirang, Bishnupur district, where the Indian National Army first hoisted the Tricolour on Indian soil on 14 April 1944. Includes museum, library, replica of Singapore memorial, and Netaji statue.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.77
+    },
+    "tags": ["heritage", "ina", "wwii", "memorial", "freedom-struggle", "museum"],
+    "facts": [
+      "INA flag first unfurled on Indian soil at Moirang Kangla on 14 April 1944.",
+      "About 45 km south of Imphal; complex includes museum and library.",
+      "Moirang coordinates from Wikipedia: 24°30′N 93°46′E.",
+      "Sources: Wikipedia, bishnupur.nic.in, inamuseum.mn.gov.in."
+    ]
+  },
+  {
+    "id": "sendra-island-loktak",
+    "name": "Sendra Island",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Hillock island in the middle of Loktak Lake in Bishnupur district, connected by causeway, offering panoramic views of floating phumdis and traditional lake life. Popular for photography and boat access to Keibul Lamjao.",
+    "coordinates": {
+      "lat": 24.5155,
+      "lon": 93.7955
+    },
+    "tags": ["island", "viewpoint", "loktak", "nature", "boating", "offbeat"],
+    "facts": [
+      "Approx 48 km from Imphal; tourist home and cafeteria on hilltop.",
+      "Coordinates approx from Wikimedia Commons photo location: 24°30′56″N 93°47′44″E.",
+      "Best viewpoint for Loktak phumdis; departure point for boats.",
+      "Sources: bishnupur.nic.in, Wikimedia, tourism sites."
+    ]
+  },
+  {
+    "id": "vishnu-temple-bishnupur",
+    "name": "Vishnu Temple (Bishnupur)",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "15th-century brick temple dedicated to Lord Vishnu in Bishnupur town, giving the district its name. Built by King Kyamba after receiving an idol; protected historical monument.",
+    "coordinates": {
+      "lat": 24.62,
+      "lon": 93.7597
+    },
+    "tags": ["temple", "spiritual", "heritage", "vishnu", "meitei"],
+    "facts": [
+      "Named after the temple; Bishnupur means abode of Vishnu.",
+      "Coordinates approx from Wikidata: 24°37′12″N 93°45′35″E.",
+      "Protected under Ministry of HRD (Archaeology).",
+      "Sources: Wikipedia, bishnupur.nic.in, Wikidata."
+    ]
+  },
+  {
+    "id": "red-hill-maibam-lotpa-ching",
+    "name": "Red Hill (Maibam Lotpa Ching)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historic WWII battle site hillock about 17 km south of Imphal on Tiddim Road in Bishnupur district. Site of fierce fighting in May 1944; features India Peace Memorial built by Japanese veterans and a cemetery.",
+    "coordinates": {
+      "lat": 24.703,
+      "lon": 93.817
+    },
+    "tags": ["heritage", "wwii", "memorial", "peace", "japanese", "offbeat"],
+    "facts": [
+      "Battle of Red Hill, 20–29 May 1944, closest Japanese advance to Imphal from south.",
+      "India Peace Memorial inaugurated 1994 by Japanese government.",
+      "Coordinates from Wikipedia: 24°42′11″N 93°49′01″E.",
+      "Sources: Wikipedia, bishnupur.nic.in."
+    ]
+  },
+  {
+    "id": "phubala-loktak",
+    "name": "Phubala",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Charming lakeside spot and resort on the western fringes of Loktak Lake in Bishnupur district, about 40 km south of Imphal. Offers leisurely views of the lake, boating, and quieter alternative to main tourist points.",
+    "coordinates": {
+      "lat": 24.534,
+      "lon": 93.757
+    },
+    "tags": ["nature", "loktak", "boating", "offbeat", "viewpoint"],
+    "facts": [
+      "About 40 km from Imphal; connected by low causeway.",
+      "Coordinates approximate from topographic and village sources ~24.53°N 93.76°E.",
+      "Named in local lore; forest rest house nearby.",
+      "Sources: bishnupur.nic.in, Wikimapia, tourism guides."
+    ]
+  },
+  {
+    "id": "loukoipat-ecological-park",
+    "name": "Loukoipat Ecological Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Eco-park with a small scenic lake surrounded by green hillocks on the outskirts of Bishnupur town. Popular for boating, picnics, and valley views; includes an inspection bungalow.",
+    "coordinates": {
+      "lat": 24.63,
+      "lon": 93.76
+    },
+    "tags": ["nature", "eco-park", "lake", "boating", "offbeat"],
+    "facts": [
+      "Located at outskirts of Bishnupur district HQ on Tiddim Road.",
+      "Coordinates approximate near Bishnupur town ~24.63°N 93.76°E.",
+      "Open daily; low or no entry fee.",
+      "Sources: bishnupur.nic.in, local tourism listings."
+    ]
+  },
+  {
+    "id": "sadu-chiru-waterfall",
+    "name": "Sadu Chiru Waterfall",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Picturesque three-tiered perennial waterfall near Tiddim Road, listed as tourist place by Bishnupur district (near Senapati/Kangpokpi border). Scenic foothills with pools; also known as Leimaram Falls.",
+    "coordinates": {
+      "lat": 24.741,
+      "lon": 93.7463
+    },
+    "tags": ["waterfall", "nature", "offbeat", "trek", "border"],
+    "facts": [
+      "About 20–25 km from Imphal; three waterfalls, main drop ~15–30 m.",
+      "Coordinates from visitor video: 24°44′28″N 93°44′47″E.",
+      "Flag: Officially listed under Bishnupur NIC but often associated with Senapati/Kangpokpi border area.",
+      "Sources: bishnupur.nic.in, tourism sites, YouTube location."
+    ]
+  },
+  {
+    "id": "thangjing-temple-moirang",
+    "name": "Ibudhou Thangjing Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Ancient Meitei temple in Moirang dedicated to Thangjing (Thangching), a primordial Sanamahi deity and guardian of the southern valley and Loktak. Linked to Khamba-Thoibi legend and origin of Lai Haraoba festival and classical dance.",
+    "coordinates": {
+      "lat": 24.4975,
+      "lon": 93.7791
+    },
+    "tags": ["spiritual", "temple", "sanamahism", "heritage", "lai-haraoba", "meitei"],
+    "facts": [
+      "Coordinates from Wikipedia: 24°29′51″N 93°46′45″E.",
+      "Associated with Khamba and Thoibi epic; Lai Haraoba festival held here.",
+      "Close to Loktak Lake banks in Bishnupur district.",
+      "Sources: Wikipedia, Moirang tourism."
+    ]
+  }
+]
