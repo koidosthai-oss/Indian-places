@@ -1,1 +1,147 @@
-PLACEHOLDER_FOR_CONTENT
+[
+  {
+    "id": "kangla-fort-imphal-west",
+    "name": "Kangla Fort",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historic fortified palace complex that served as the traditional seat of the Meitei kings of the Ningthouja dynasty until 1891. Features royal ruins, temples, moats, Kangla Sha statues, and museums in the heart of Imphal.",
+    "coordinates": {
+      "lat": 24.808,
+      "lon": 93.94
+    },
+    "tags": ["heritage", "fort", "meitei", "royal", "imphal"],
+    "facts": [
+      "Seat of Manipur's power till the Anglo-Manipuri War of 1891.",
+      "Includes Pakhangba Temple and reconstructed Kangla Sha dragon-lion statues.",
+      "Located on the western bank of the Imphal River in Imphal West district.",
+      "Managed by Kangla Fort Board; open to public with free entry.",
+      "Coordinates from Wikipedia: 24.808\u00b0N 93.940\u00b0E."
+    ]
+  },
+  {
+    "id": "ima-keithel-imphal-west",
+    "name": "Ima Keithel",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Asia's largest all-women market, also known as Mother's Market or Nupi Keithel, run exclusively by thousands of women vendors selling textiles, produce, handicrafts, and local goods since the 16th century in central Imphal.",
+    "coordinates": {
+      "lat": 24.808,
+      "lon": 93.935
+    },
+    "tags": ["market", "women", "culture", "offbeat", "imphal"],
+    "facts": [
+      "Unique all-women's market with over 3000-5000 vendors.",
+      "Located in Khwairamband Bazaar area of Imphal West.",
+      "Historic commercial center reflecting Meitei women's economic role.",
+      "Sources: official district tourism and Wikipedia-derived coordinates."
+    ]
+  },
+  {
+    "id": "imphal-war-cemetery-imphal-west",
+    "name": "Imphal War Cemetery",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Commonwealth War Graves Commission cemetery commemorating over 1600 Allied soldiers who died in the Battles of Imphal and Kohima during WWII in 1944. Peaceful, well-maintained grounds in Kabo Leikai.",
+    "coordinates": {
+      "lat": 24.82247,
+      "lon": 93.94623
+    },
+    "tags": ["heritage", "wwii", "memorial", "cwgc", "imphal"],
+    "facts": [
+      "Contains approximately 1600 Commonwealth burials of the Second World War.",
+      "Located in Dewlahland, Kabo Leikai, Imphal West on the Imphal-Dimapur road.",
+      "Maintained by CWGC; open daily with restricted hours.",
+      "Coordinates from Wikipedia and CWGC: 24.82247\u00b0N 93.94623\u00b0E."
+    ]
+  },
+  {
+    "id": "manipur-zoological-garden-imphal-west",
+    "name": "Manipur Zoological Garden",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "Zoo at Iroisemba featuring the endangered Sangai (brow-antlered deer), Manipur's state animal, along with other regional wildlife in a setting of pine hillocks about 6 km west of Imphal city.",
+    "coordinates": {
+      "lat": 24.81694,
+      "lon": 93.89111
+    },
+    "tags": ["wildlife", "zoo", "sangai", "conservation", "imphal-west"],
+    "facts": [
+      "Second habitat for the Sangai after Keibul Lamjao National Park.",
+      "Located at Iroisemba on the Imphal-Kangchup Road in Imphal West district.",
+      "Established in 1976; focuses on conservation of endangered species.",
+      "Coordinates from Wikipedia: 24.81694\u00b0N 93.89111\u00b0E."
+    ]
+  },
+  {
+    "id": "shaheed-minar-imphal-west",
+    "name": "Shaheed Minar",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Tall memorial monument in Bir Tikendrajit Park commemorating the Meitei and tribal martyrs of the 1891 Anglo-Manipuri War, particularly Yubaraj Bir Tikendrajit and General Thangal who were hanged by the British.",
+    "coordinates": {
+      "lat": 24.80667,
+      "lon": 93.93694
+    },
+    "tags": ["heritage", "memorial", "1891", "park", "imphal"],
+    "facts": [
+      "Located at the north end of Bir Tikendrajit Park in central Imphal.",
+      "Features three vertical beams joined at the top with mythical dragon motifs.",
+      "Official tourist place listed by Imphal West district administration.",
+      "Approximate coordinates from Wikimapia: 24\u00b048'24\"N 93\u00b056'13\"E."
+    ]
+  },
+  {
+    "id": "nupi-lal-memorial-imphal-west",
+    "name": "Nupi Lal Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Memorial complex honoring the courageous Manipuri women who participated in the Nupi Lal (Women's War) of 1939 against British policies on rice export. Features statues and exhibits on the historic uprising.",
+    "coordinates": {
+      "lat": 24.802,
+      "lon": 93.938
+    },
+    "tags": ["heritage", "memorial", "women", "nupi-lal", "imphal"],
+    "facts": [
+      "Tribute to women fighters of the 1939 Nupi Lal against British colonial rule.",
+      "Located near Imphal Head Post Office in central Imphal West.",
+      "Official tourist place listed by Imphal West district NIC site.",
+      "Coordinates approximate based on central location near GPO."
+    ]
+  },
+  {
+    "id": "manipur-state-museum-imphal-west",
+    "name": "Manipur State Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "State museum near the Polo Ground and Kangla Fort displaying tribal heritage, royal artifacts, textiles, natural history, and the famous Hiyang Hiren royal boat. Inaugurated in 1969 by Indira Gandhi.",
+    "coordinates": {
+      "lat": 24.8049,
+      "lon": 93.9371
+    },
+    "tags": ["heritage", "museum", "culture", "polo", "imphal"],
+    "facts": [
+      "Houses galleries of ethnology, archaeology, and natural history.",
+      "Located near Imphal Polo Ground in Imphal West district.",
+      "Star exhibit is the 78-foot Hiyang Hiren royal boat.",
+      "Coordinates from Wikipedia: 24.8049\u00b0N 93.9371\u00b0E."
+    ]
+  },
+  {
+    "id": "iskcon-temple-imphal-west",
+    "name": "ISKCON Temple Imphal",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Sri Sri Radha Krishnacandra Temple of ISKCON, a prominent Vaishnava temple complex with unique architecture on Airport Road in Imphal, dedicated to Lord Krishna and Radha, attracting devotees and visitors.",
+    "coordinates": {
+      "lat": 24.76,
+      "lon": 93.90
+    },
+    "tags": ["spiritual", "temple", "iskcon", "krishna", "imphal"],
+    "facts": [
+      "Located on Airport Road / Sangaiprou area in Imphal West.",
+      "Features distinctive dome-shaped roof and white brick architecture.",
+      "Major festivals include Janmashtami and Ratha Yatra.",
+      "Coordinates approximate; exact from local listings near Imphal Airport."
+    ]
+  }
+]
