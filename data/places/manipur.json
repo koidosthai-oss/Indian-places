@@ -1,1 +1,27 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "khongjom-war-memorial-complex",
+    "name": "Khongjom War Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Memorial complex on Kheba Ching hill in Khongjom, Thoubal district, commemorating the decisive Battle of Khongjom (23 April 1891) during the Anglo-Manipur War. Features a tall sword monument, gardens, and tributes to Manipuri warriors including Major Paona Brajabasi who resisted British forces.",
+    "coordinates": {
+      "lat": 24.5687,
+      "lon": 94.0337
+    },
+    "tags": [
+      "war-memorial",
+      "heritage",
+      "anglo-manipur-war",
+      "history",
+      "viewpoint"
+    ],
+    "facts": [
+      "Site of the last major battle of the Anglo-Manipur War of 1891",
+      "About 32-36 km southeast of Imphal on NH-102",
+      "Hosts annual Khongjom Day observances on 23 April",
+      "Includes world's tallest sword statue according to local sources",
+      "Tourist home functioning since 1988"
+    ]
+  }
+]
