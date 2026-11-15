@@ -1,0 +1,479 @@
+[
+  {
+    "id": "khongjom-war-memorial-complex",
+    "name": "Khongjom War Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Memorial complex on Kheba Ching hill in Khongjom, Thoubal district, commemorating the decisive Battle of Khongjom (23 April 1891) during the Anglo-Manipur War. Features a tall sword monument, gardens, and tributes to Manipuri warriors including Major Paona Brajabasi who resisted British forces.",
+    "coordinates": {
+      "lat": 24.5687,
+      "lon": 94.0337
+    },
+    "tags": [
+      "war-memorial",
+      "heritage",
+      "anglo-manipur-war",
+      "history",
+      "viewpoint"
+    ],
+    "facts": [
+      "Site of the last major battle of the Anglo-Manipur War of 1891",
+      "About 32-36 km southeast of Imphal on NH-102",
+      "Hosts annual Khongjom Day observances on 23 April",
+      "Includes world's tallest sword statue according to local sources",
+      "Tourist home functioning since 1988"
+    ]
+  },
+  {
+    "id": "senapati-town",
+    "name": "Senapati Town",
+    "state": "Manipur",
+    "category": "other",
+    "description": "District headquarters of Senapati (also known as Tahamzam), a hill town on NH-2 about 62 km north of Imphal, serving as gateway to northern Manipur hills with mixed ethnic communities including Mao, Maram and Poumai Nagas.",
+    "coordinates": {
+      "lat": 25.2712,
+      "lon": 94.0274
+    },
+    "tags": [
+      "town",
+      "hq",
+      "hill",
+      "gateway"
+    ],
+    "facts": [
+      "Named after Tikendrajit Singh (Senapati); local name Tahamzam means 'Hill of Butterflies'",
+      "Elevation around 1500 m",
+      "On National Highway 2 linking Imphal to Nagaland"
+    ]
+  },
+  {
+    "id": "willong-khullen-megaliths",
+    "name": "Willong Khullen Megaliths",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Prehistoric megalithic site in Willong Khullen village, Mao-Maram area of Senapati district, featuring over 100-130 standing stones up to 7 m high, often compared to Stonehenge. Erected by ancient Maram Naga clans for warrior feats and feasts of merit.",
+    "coordinates": {
+      "lat": 25.4697,
+      "lon": 93.9736
+    },
+    "tags": [
+      "megaliths",
+      "heritage",
+      "archaeology",
+      "naga",
+      "offbeat"
+    ],
+    "facts": [
+      "About 37 km from Maram on Maram-Peren Road",
+      "One of the largest megalithic complexes in Northeast India",
+      "Village is traditional Maram Naga settlement"
+    ]
+  },
+  {
+    "id": "makhel-village",
+    "name": "Makhel Village",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sacred ancestral village in Senapati district believed to be the dispersal point of Naga tribes. Features sacred banyan trees (said to grow from Naga mother's tomb), farewell monolith, triomonolith, hailstorm stone and other historical monuments.",
+    "coordinates": {
+      "lat": 25.48,
+      "lon": 94.13
+    },
+    "tags": [
+      "heritage",
+      "sacred",
+      "naga-origin",
+      "monoliths",
+      "offbeat"
+    ],
+    "facts": [
+      "Near Tadubi; sacred for multiple ethnic communities",
+      "Dispersal Tree at nearby Sajouba",
+      "Important for anthropologists studying Naga migration"
+    ]
+  },
+  {
+    "id": "mao-gate",
+    "name": "Mao Gate",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Historic border town and gateway on the Manipur-Nagaland boundary in Senapati district at about 1788 m elevation. Oldest hill station in the area, commercial stop on NH-2 with scenic hills and traditional Mao Naga culture.",
+    "coordinates": {
+      "lat": 25.5136,
+      "lon": 94.1374
+    },
+    "tags": [
+      "border",
+      "gateway",
+      "hill-station",
+      "mao-naga"
+    ],
+    "facts": [
+      "Northern entry point to Manipur from Nagaland",
+      "Base for treks to Dzuko Valley from Manipur side",
+      "Multi-ethnic commercial hub"
+    ]
+  },
+  {
+    "id": "dzuko-valley-manipur-side",
+    "name": "Dzuko Valley (Manipur Side)",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "High-altitude valley (around 2450 m) straddling the Manipur-Nagaland border in Senapati and Kohima districts. Famous for rolling meadows, seasonal Dzuko lily (Lilium chitrangadae), wildflowers, and trekking. Manipur access from Mao/Mount Iso area.",
+    "coordinates": {
+      "lat": 25.5533,
+      "lon": 94.0671
+    },
+    "tags": [
+      "nature",
+      "trek",
+      "valley",
+      "flowers",
+      "border"
+    ],
+    "facts": [
+      "Shared with Nagaland; boundary disputed",
+      "Snow in winter, lily blooms in summer",
+      "Highest peak of Manipur Mount Iso (Tenipu) nearby"
+    ]
+  },
+  {
+    "id": "maram-khullen",
+    "name": "Maram Khullen",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "One of the largest and oldest traditional villages of the Maram Naga tribe in Senapati district. Preserves hereditary chieftainship, carved wooden houses, terraced fields and indigenous crafts; origin point of the Barak River.",
+    "coordinates": {
+      "lat": 25.4236,
+      "lon": 94.1066
+    },
+    "tags": [
+      "village",
+      "naga",
+      "culture",
+      "offbeat",
+      "heritage"
+    ],
+    "facts": [
+      "About 18 km from Senapati town",
+      "Attracts anthropologists",
+      "Traditional social structure intact"
+    ]
+  },
+  {
+    "id": "purul-village",
+    "name": "Purul Village",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Traditional Poumai Naga village (also Hiimai Phii) in Senapati, known for indigenous games like Toutou and wrestling during festivals, stone steps and cultural heritage. Home to Poula language speakers.",
+    "coordinates": {
+      "lat": 25.3683,
+      "lon": 94.2319
+    },
+    "tags": [
+      "village",
+      "poumai-naga",
+      "culture",
+      "offbeat"
+    ],
+    "facts": [
+      "About 19-20 km from Maram on NH-2",
+      "Elevation around 1867 m",
+      "Consists of Purul Akutpa and Atongba"
+    ]
+  },
+  {
+    "id": "yangkhullen-village",
+    "name": "Yangkhullen Village",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Historic hilltop village in Senapati district built on a steep incline, traditional Zeme or related Naga settlement with preserved lifestyle, natural beauty and cultural significance.",
+    "coordinates": {
+      "lat": 25.519,
+      "lon": 93.951
+    },
+    "tags": [
+      "village",
+      "hilltop",
+      "heritage",
+      "offbeat"
+    ],
+    "facts": [
+      "Listed as places of interest on official district site",
+      "About 26-75 km depending on route from Senapati",
+      "Traditional architecture on steep terrain"
+    ]
+  },
+  {
+    "id": "dziiduri-highland",
+    "name": "Dziiduri Highland",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Emerging eco-tourism highland at ~1960 m in Paomata block near Khumai (Tunggam) village, Senapati. Features wetland, Dziitrulai Waterfall, Abulya Cliff, sacred Natousalai site, views of Mount Iso, terraced fields and developing trekking infrastructure.",
+    "tags": [
+      "nature",
+      "eco-tourism",
+      "waterfall",
+      "highland",
+      "offbeat"
+    ],
+    "facts": [
+      "Promoted as state eco-tourism gem",
+      "Views of Manipur's highest peak",
+      "Community-led development by KYSO and HEAT-M"
+    ]
+  },
+  {
+    "id": "naamai-zho",
+    "name": "Naamai Zho Eco Tourism Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Scenic grassland and eco-tourism site near Koide village in Senapati, famous for cosmos flower blooms and annual Cosmos Flower Festival. Offers viewpoints and nature photography amid paddy fields and hills.",
+    "tags": [
+      "nature",
+      "flowers",
+      "festival",
+      "eco-park",
+      "offbeat"
+    ],
+    "facts": [
+      "Hosts Cosmos Flower Festival attracting thousands",
+      "About 5-6 km from Maram Bazar",
+      "Adopted home to colorful cosmos flowers"
+    ]
+  },
+  {
+    "id": "loktak-lake",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Largest freshwater lake in Northeast India in Bishnupur district, famous for floating phumdis (heterogeneous biomass islands). Ramsar wetland supporting unique ecosystem, traditional fishing, and the only floating national park.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.783
+    },
+    "tags": [
+      "lake",
+      "nature",
+      "phumdi",
+      "ramsar",
+      "boating",
+      "wildlife"
+    ],
+    "facts": [
+      "Surface area typically ~287 km², varies seasonally 250-500 km²",
+      "Ramsar site since 23 March 1990 (site no. 463)",
+      "Etymology from Meitei: Lok=stream, Tak=end",
+      "Home to floating islands used for fishing and agriculture"
+    ]
+  },
+  {
+    "id": "keibul-lamjao-national-park",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "World's only floating national park on the southeastern phumdis of Loktak Lake in Bishnupur district. Last natural habitat of the endangered Sangai (Manipur brow-antlered deer), Manipur's state animal.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.76667
+    },
+    "tags": [
+      "national-park",
+      "wildlife",
+      "floating",
+      "sangai",
+      "unesco-tentative"
+    ],
+    "facts": [
+      "Area ~40 km²; established as sanctuary 1966, national park 1977",
+      "UNESCO tentative list as Keibul Lamjao Conservation Area",
+      "Phumdis support the deer; floating and sinking cycle disrupted by Ithai Barrage",
+      "Best visited early morning for Sangai sighting"
+    ]
+  },
+  {
+    "id": "ina-martyrs-memorial-complex-moirang",
+    "name": "INA Martyrs' Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historic memorial and museum complex in Moirang, Bishnupur district, where the Indian National Army first hoisted the Indian tricolour on liberated Indian soil on 14 April 1944 under Col. Shaukat Ali Malik. Includes museum with INA artifacts.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.77
+    },
+    "tags": [
+      "heritage",
+      "ina",
+      "war-memorial",
+      "museum",
+      "freedom-struggle"
+    ],
+    "facts": [
+      "Site of INA headquarters for ~3 months in 1944",
+      "Memorial complex expanded and unveiled in 2005; cenotaph from 1969",
+      "About 45 km south of Imphal",
+      "Near Moirang Kangla where flag was raised"
+    ]
+  },
+  {
+    "id": "bishnupur-vishnu-temple",
+    "name": "Bishnupur Vishnu Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "15th-century conical brick temple dedicated to Lord Vishnu in Bishnupur town, from which the district derives its name. Built by King Kyamba after receiving an idol from the Pong king following a military victory.",
+    "coordinates": {
+      "lat": 24.6297,
+      "lon": 93.7594
+    },
+    "tags": [
+      "temple",
+      "spiritual",
+      "heritage",
+      "vishnu",
+      "protected-monument"
+    ],
+    "facts": [
+      "Protected historical monument under ASI",
+      "Bishnupur means 'abode of Vishnu'",
+      "About 27 km from Imphal on Tiddim Road",
+      "Associated with Vaishnavite influence in Manipur"
+    ]
+  },
+  {
+    "id": "red-hill-maibam-lotpa-ching",
+    "name": "Red Hill (Maibam Lotpa Ching)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "WWII battlefield hillock in Nambol area of Bishnupur district, about 17 km south of Imphal on Tiddim Road. Site of fierce fighting between Allied and Japanese forces; features India Peace Memorial and Japanese cemetery.",
+    "coordinates": {
+      "lat": 24.703,
+      "lon": 93.817
+    },
+    "tags": [
+      "heritage",
+      "wwii",
+      "war-memorial",
+      "japanese",
+      "battlefield"
+    ],
+    "facts": [
+      "Japanese war veterans constructed the India Peace Memorial",
+      "Imphal Peace Museum nearby with war relics",
+      "Pilgrimage site for Japanese and British visitors",
+      "Also known as Maibam Lotpa Ching"
+    ]
+  },
+  {
+    "id": "phubala",
+    "name": "Phubala",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Charming resort village on the western fringes of Loktak Lake in Bishnupur district, about 40 km south of Imphal. Popular for boating, lake views, and local culture; linked to Khamba-Thoibi folklore.",
+    "coordinates": {
+      "lat": 24.534,
+      "lon": 93.756
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "resort",
+      "offbeat",
+      "boating"
+    ],
+    "facts": [
+      "On western bank of Loktak",
+      "Featured in Manipuri folklore (Phubala Hanuba)",
+      "Access for water sports and lake exploration"
+    ]
+  },
+  {
+    "id": "loukoipat-ecological-park",
+    "name": "Loukoipat Ecological Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Eco-park with a small lake surrounded by green hillocks near Bishnupur town headquarters. Offers boating, picnic spots, and panoramic valley views from an inspection bungalow on an adjacent hill.",
+    "coordinates": {
+      "lat": 24.63,
+      "lon": 93.76
+    },
+    "tags": [
+      "nature",
+      "eco-park",
+      "lake",
+      "boating",
+      "picnic"
+    ],
+    "facts": [
+      "Favourite local tourist spot at outskirts of district HQ",
+      "Small but scenic lake with surrounding foliage",
+      "Inspection bungalow available for overnight stays"
+    ]
+  },
+  {
+    "id": "sendra-island",
+    "name": "Sendra Island",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Hillock island in Loktak Lake rising from the water, linked by a walkway, offering panoramic views of floating phumdis and the lake. Popular tourist park with bungalow and cafeteria for sunset views.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.78
+    },
+    "tags": [
+      "nature",
+      "island",
+      "viewpoint",
+      "lake",
+      "tourism"
+    ],
+    "facts": [
+      "About 50 km from Imphal",
+      "Part of Loktak tourist circuit with Keibul Lamjao",
+      "Ideal for photography of phumdis"
+    ]
+  },
+  {
+    "id": "moirang-town",
+    "name": "Moirang Town",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Historic town in Bishnupur district, sacred in Manipuri culture as origin of Khamba-Thoibi epic. Gateway to Loktak Lake and site of INA flag hoisting; about 45 km from Imphal.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.77
+    },
+    "tags": [
+      "town",
+      "heritage",
+      "cultural",
+      "gateway"
+    ],
+    "facts": [
+      "Origin of Khamba-Thoibi love epic",
+      "INA headquarters in 1944",
+      "Elevation ~766 m"
+    ]
+  },
+  {
+    "id": "sadu-chiru-waterfall",
+    "name": "Sadu Chiru Waterfall",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Picturesque multi-tier waterfall (also known as Leimaram) near the Bishnupur-Senapati border, about 20 km from Imphal beside Tiddim Road. Cascades in lush forested hills with clear pools.",
+    "coordinates": {
+      "lat": 24.75,
+      "lon": 93.85
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "offbeat",
+      "border"
+    ],
+    "facts": [
+      "Listed on Bishnupur district official tourism site",
+      "Three-tier falls; accessible via short walk",
+      "Flag: near Senapati district border (Sadar Hills area)"
+    ]
+  }
+]
