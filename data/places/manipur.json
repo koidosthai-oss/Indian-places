@@ -1,1 +1,133 @@
-See local merge
+[
+  {
+    "id": "khongjom-war-memorial-complex",
+    "name": "Khongjom War Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Memorial complex on Kheba Ching hill in Khongjom, Thoubal district, commemorating the decisive Battle of Khongjom (23 April 1891) during the Anglo-Manipur War. Features a tall sword monument, gardens, and tributes to Manipuri warriors including Major Paona Brajabasi who resisted British forces.",
+    "coordinates": {
+      "lat": 24.5687,
+      "lon": 94.0337
+    },
+    "tags": ["war-memorial", "heritage", "anglo-manipur-war", "history", "viewpoint"],
+    "facts": [
+      "Site of the last major battle of the Anglo-Manipur War of 1891",
+      "About 32-36 km southeast of Imphal on NH-102",
+      "Hosts annual Khongjom Day observances on 23 April",
+      "Includes world's tallest sword statue according to local sources",
+      "Tourist home functioning since 1988"
+    ]
+  },
+  {
+    "id": "waithou-lake",
+    "name": "Waithou Lake (Waithou Pat)",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Scenic freshwater lake in northern Thoubal district, formed by drainage from Waithou Hill and surrounding paddy fields. Known for pineapple cultivation on nearby slopes, former habitat of Ngaton fish, and boating/picnic opportunities with hill views.",
+    "coordinates": {
+      "lat": 24.6725,
+      "lon": 93.9700
+    },
+    "tags": ["lake", "nature", "wetland", "boating", "pineapple"],
+    "facts": [
+      "About 3 km from Thoubal HQ and 16 km from Imphal on Imphal-Moreh road",
+      "Approximate elevation around 785 m",
+      "Historically a breeding ground for Ngaton fish before Cheksabi Barrage",
+      "Surrounded by hills and agricultural land",
+      "Official tourist interest site per district NIC"
+    ]
+  },
+  {
+    "id": "ikop-pat",
+    "name": "Ikop Pat (Ikop Lake)",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Freshwater lake in western Athokpam and Khangabok areas of Thoubal district at about 772 m elevation. Saucer-shaped basin of roughly 13.5 km², culturally linked to the legendary Khamba-Thoibi story; important for local fisheries and birdlife despite pollution pressures.",
+    "coordinates": {
+      "lat": 24.5932,
+      "lon": 93.9421
+    },
+    "tags": ["lake", "nature", "wetland", "folklore", "birdwatching"],
+    "facts": [
+      "About 32-40 km southeast of Imphal",
+      "Surface area approximately 13.5 km²",
+      "Elevation 772 m above sea level",
+      "Linked to Khamba and Thoibi folklore",
+      "Supports migratory birds and local fishing"
+    ]
+  },
+  {
+    "id": "thoubal-town",
+    "name": "Thoubal",
+    "state": "Manipur",
+    "category": "other",
+    "description": "District headquarters and major trading town in the Manipur Valley, about 22 km from Imphal. Divided by NH-39/102, with the Thoubal River flowing through its centre; gateway for exploring local lakes, crafts, and historical sites.",
+    "coordinates": {
+      "lat": 24.6388,
+      "lon": 93.9964
+    },
+    "tags": ["town", "gateway", "market", "district-hq"],
+    "facts": [
+      "HQ of Thoubal district",
+      "Approximately 22 km from Imphal",
+      "Thoubal River flows through the town",
+      "Important commercial and agricultural centre",
+      "Average elevation around 765-790 m"
+    ]
+  },
+  {
+    "id": "thoubal-river",
+    "name": "Thoubal River",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Major river flowing east to west through the heart of Thoubal town and district, supporting agriculture, fisheries, and scenic views amid paddy fields. One of the key waterways of the eastern Manipur Valley.",
+    "coordinates": {
+      "lat": 24.635,
+      "lon": 94.00
+    },
+    "tags": ["river", "nature", "irrigation", "scenic"],
+    "facts": [
+      "Flows through the centre of Thoubal town",
+      "Supports local agriculture and fisheries",
+      "Part of the district's wetland and drainage system",
+      "Accessible along the main highway corridor"
+    ]
+  },
+  {
+    "id": "khangabok",
+    "name": "Khangabok",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "One of the largest villages in Thoubal district (area ~20.5 km²), renowned for traditional Kouna (tule reed) handicrafts including mats, stools, and bags, as well as proximity to Ikop Pat. Agricultural hub with Meitei cultural practices.",
+    "coordinates": {
+      "lat": 24.6085,
+      "lon": 94.0029
+    },
+    "tags": ["village", "offbeat", "crafts", "kouna", "agriculture"],
+    "facts": [
+      "About 25 km south of Imphal",
+      "Famous for Kouna/tule reed handicrafts",
+      "One of the largest villages in the district by area",
+      "Population over 16,000 (2011)",
+      "Near Ikop Lake"
+    ]
+  },
+  {
+    "id": "lousi-lake",
+    "name": "Lousi Lake (Lousipat)",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Significant freshwater wetland in Thoubal district covering around 18 km² historically, featuring a wetland ecosystem important for local water supply and fisheries. Partially reclaimed for agriculture but remains a scenic and ecological site near the Khongjom area.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 94.02
+    },
+    "tags": ["lake", "nature", "wetland", "fisheries"],
+    "facts": [
+      "Approximate area historically over 18 sq km",
+      "Important local water and fishery resource",
+      "Near Khongjom region",
+      "Part of the district's multiple lake system"
+    ]
+  }
+]
