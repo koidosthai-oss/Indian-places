@@ -23,5 +23,223 @@
       "Includes world's tallest sword statue according to local sources",
       "Tourist home functioning since 1988"
     ]
+  },
+  {
+    "id": "senapati-town",
+    "name": "Senapati Town",
+    "state": "Manipur",
+    "category": "other",
+    "description": "District headquarters of Senapati (also known as Tahamzam), a hill town on NH-2 about 62 km north of Imphal, serving as gateway to northern Manipur hills with mixed ethnic communities including Mao, Maram and Poumai Nagas.",
+    "coordinates": {
+      "lat": 25.2712,
+      "lon": 94.0274
+    },
+    "tags": [
+      "town",
+      "hq",
+      "hill",
+      "gateway"
+    ],
+    "facts": [
+      "Named after Tikendrajit Singh (Senapati); local name Tahamzam means 'Hill of Butterflies'",
+      "Elevation around 1500 m",
+      "On National Highway 2 linking Imphal to Nagaland"
+    ]
+  },
+  {
+    "id": "willong-khullen-megaliths",
+    "name": "Willong Khullen Megaliths",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Prehistoric megalithic site in Willong Khullen village, Mao-Maram area of Senapati district, featuring over 100-130 standing stones up to 7 m high, often compared to Stonehenge. Erected by ancient Maram Naga clans for warrior feats and feasts of merit.",
+    "coordinates": {
+      "lat": 25.4697,
+      "lon": 93.9736
+    },
+    "tags": [
+      "megaliths",
+      "heritage",
+      "archaeology",
+      "naga",
+      "offbeat"
+    ],
+    "facts": [
+      "About 37 km from Maram on Maram-Peren Road",
+      "One of the largest megalithic complexes in Northeast India",
+      "Village is traditional Maram Naga settlement"
+    ]
+  },
+  {
+    "id": "makhel-village",
+    "name": "Makhel Village",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sacred ancestral village in Senapati district believed to be the dispersal point of Naga tribes. Features sacred banyan trees (said to grow from Naga mother's tomb), farewell monolith, triomonolith, hailstorm stone and other historical monuments.",
+    "coordinates": {
+      "lat": 25.48,
+      "lon": 94.13
+    },
+    "tags": [
+      "heritage",
+      "sacred",
+      "naga-origin",
+      "monoliths",
+      "offbeat"
+    ],
+    "facts": [
+      "Near Tadubi; sacred for multiple ethnic communities",
+      "Dispersal Tree at nearby Sajouba",
+      "Important for anthropologists studying Naga migration"
+    ]
+  },
+  {
+    "id": "mao-gate",
+    "name": "Mao Gate",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Historic border town and gateway on the Manipur-Nagaland boundary in Senapati district at about 1788 m elevation. Oldest hill station in the area, commercial stop on NH-2 with scenic hills and traditional Mao Naga culture.",
+    "coordinates": {
+      "lat": 25.5136,
+      "lon": 94.1374
+    },
+    "tags": [
+      "border",
+      "gateway",
+      "hill-station",
+      "mao-naga"
+    ],
+    "facts": [
+      "Northern entry point to Manipur from Nagaland",
+      "Base for treks to Dzuko Valley from Manipur side",
+      "Multi-ethnic commercial hub"
+    ]
+  },
+  {
+    "id": "dzuko-valley-manipur-side",
+    "name": "Dzuko Valley (Manipur Side)",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "High-altitude valley (around 2450 m) straddling the Manipur-Nagaland border in Senapati and Kohima districts. Famous for rolling meadows, seasonal Dzuko lily (Lilium chitrangadae), wildflowers, and trekking. Manipur access from Mao/Mount Iso area.",
+    "coordinates": {
+      "lat": 25.5533,
+      "lon": 94.0671
+    },
+    "tags": [
+      "nature",
+      "trek",
+      "valley",
+      "flowers",
+      "border"
+    ],
+    "facts": [
+      "Shared with Nagaland; boundary disputed",
+      "Snow in winter, lily blooms in summer",
+      "Highest peak of Manipur Mount Iso (Tenipu) nearby"
+    ]
+  },
+  {
+    "id": "maram-khullen",
+    "name": "Maram Khullen",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "One of the largest and oldest traditional villages of the Maram Naga tribe in Senapati district. Preserves hereditary chieftainship, carved wooden houses, terraced fields and indigenous crafts; origin point of the Barak River.",
+    "coordinates": {
+      "lat": 25.4236,
+      "lon": 94.1066
+    },
+    "tags": [
+      "village",
+      "naga",
+      "culture",
+      "offbeat",
+      "heritage"
+    ],
+    "facts": [
+      "About 18 km from Senapati town",
+      "Attracts anthropologists",
+      "Traditional social structure intact"
+    ]
+  },
+  {
+    "id": "purul-village",
+    "name": "Purul Village",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Traditional Poumai Naga village (also Hiimai Phii) in Senapati, known for indigenous games like Toutou and wrestling during festivals, stone steps and cultural heritage. Home to Poula language speakers.",
+    "coordinates": {
+      "lat": 25.3683,
+      "lon": 94.2319
+    },
+    "tags": [
+      "village",
+      "poumai-naga",
+      "culture",
+      "offbeat"
+    ],
+    "facts": [
+      "About 19-20 km from Maram on NH-2",
+      "Elevation around 1867 m",
+      "Consists of Purul Akutpa and Atongba"
+    ]
+  },
+  {
+    "id": "yangkhullen-village",
+    "name": "Yangkhullen Village",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Historic hilltop village in Senapati district built on a steep incline, traditional Zeme or related Naga settlement with preserved lifestyle, natural beauty and cultural significance.",
+    "coordinates": {
+      "lat": 25.519,
+      "lon": 93.951
+    },
+    "tags": [
+      "village",
+      "hilltop",
+      "heritage",
+      "offbeat"
+    ],
+    "facts": [
+      "Listed as places of interest on official district site",
+      "About 26-75 km depending on route from Senapati",
+      "Traditional architecture on steep terrain"
+    ]
+  },
+  {
+    "id": "dziiduri-highland",
+    "name": "Dziiduri Highland",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Emerging eco-tourism highland at ~1960 m in Paomata block near Khumai (Tunggam) village, Senapati. Features wetland, Dziitrulai Waterfall, Abulya Cliff, sacred Natousalai site, views of Mount Iso, terraced fields and developing trekking infrastructure.",
+    "tags": [
+      "nature",
+      "eco-tourism",
+      "waterfall",
+      "highland",
+      "offbeat"
+    ],
+    "facts": [
+      "Promoted as state eco-tourism gem",
+      "Views of Manipur's highest peak",
+      "Community-led development by KYSO and HEAT-M"
+    ]
+  },
+  {
+    "id": "naamai-zho",
+    "name": "Naamai Zho Eco Tourism Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Scenic grassland and eco-tourism site near Koide village in Senapati, famous for cosmos flower blooms and annual Cosmos Flower Festival. Offers viewpoints and nature photography amid paddy fields and hills.",
+    "tags": [
+      "nature",
+      "flowers",
+      "festival",
+      "eco-park",
+      "offbeat"
+    ],
+    "facts": [
+      "Hosts Cosmos Flower Festival attracting thousands",
+      "About 5-6 km from Maram Bazar",
+      "Adopted home to colorful cosmos flowers"
+    ]
   }
 ]
