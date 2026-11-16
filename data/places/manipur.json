@@ -1,1 +1,192 @@
-PLACEHOLDER_TO_REPLACE
+[
+  {
+    "id": "loktak-lake",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Largest freshwater lake in Northeast India and a Ramsar site, famous for its unique floating phumdis (heterogeneous masses of vegetation, soil and organic matter). Located in Bishnupur district about 48 km south of Imphal; home to the world’s only floating national park and traditional lake communities.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.783
+    },
+    "tags": ["lake", "nature", "ramsar", "phumdi", "floating-islands", "wetland"],
+    "facts": [
+      "Largest freshwater lake in Northeast India",
+      "Ramsar wetland designated 2002",
+      "Famous for floating phumdis",
+      "About 48 km south of Imphal in Bishnupur district",
+      "Surface elevation around 768 m"
+    ]
+  },
+  {
+    "id": "keibul-lamjao-national-park",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "World’s only floating national park, located on the largest phumdi in the southeastern part of Loktak Lake in Bishnupur district. Last natural habitat of the endangered Sangai (brow-antlered deer or dancing deer). Accessed by boat; a unique wetland ecosystem for wildlife viewing.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.76667
+    },
+    "tags": ["wildlife", "national-park", "sangai", "floating-park", "wetland", "offbeat"],
+    "facts": [
+      "World’s only floating national park",
+      "Last habitat of the Sangai deer (Rucervus eldii eldii)",
+      "Established 1977; area about 40 km²",
+      "On southeastern shore of Loktak Lake",
+      "Accessed primarily by boat from Sendra or Keibul"
+    ]
+  },
+  {
+    "id": "ina-martyrs-memorial-complex-moirang",
+    "name": "INA Martyrs' Memorial Complex (Moirang)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historic site in Moirang town, Bishnupur district, where the Indian National Army first hoisted the Indian tricolour on Indian soil on 14 April 1944 under Colonel Shaukat Malik. Complex includes museum with INA relics, photographs and documents related to Netaji Subhas Chandra Bose’s campaign.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.77
+    },
+    "tags": ["heritage", "ina", "freedom-struggle", "memorial", "museum", "netaji"],
+    "facts": [
+      "First INA flag hoisting on Indian soil, 14 April 1944",
+      "Located in Moirang, about 45 km from Imphal",
+      "Houses INA War Museum with artefacts",
+      "Part of the 1944 Imphal-Kohima campaign history",
+      "Official tourist place of Bishnupur district"
+    ]
+  },
+  {
+    "id": "bishnupur-vishnu-temple",
+    "name": "Bishnupur Vishnu Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "15th-century brick temple dedicated to Lord Vishnu in Bishnupur town, from which the district derives its name. Built by King Kyamba after receiving a Vishnu idol; protected monument with distinctive conical/corbelled architecture blending local and external influences.",
+    "coordinates": {
+      "lat": 24.6297,
+      "lon": 93.7594
+    },
+    "tags": ["temple", "spiritual", "vishnu", "heritage", "brick-temple", "asi"],
+    "facts": [
+      "Built in 15th century during reign of King Kyamba",
+      "District HQ named after this temple (Bishnupur = abode of Vishnu)",
+      "Protected historical monument under ASI",
+      "About 27 km from Imphal on Tiddim Road",
+      "Unique brick and lime construction"
+    ]
+  },
+  {
+    "id": "red-hill-maibam-lotpa-ching",
+    "name": "Red Hill (Maibam Lotpa Ching / Lokpaching)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "WWII battlefield site on a hillock about 17 km south of Imphal in Bishnupur district on Tiddim Road. Site of fierce fighting in the Battle of Imphal (1944) between Allied and Japanese forces; features India Peace Memorial and war cemetery for Japanese soldiers.",
+    "coordinates": {
+      "lat": 24.703,
+      "lon": 93.817
+    },
+    "tags": ["heritage", "wwii", "battle-of-imphal", "memorial", "peace-memorial"],
+    "facts": [
+      "Site of decisive 1944 Battle of Imphal fighting",
+      "India Peace Memorial constructed by Japanese veterans",
+      "About 17 km south of Imphal on NH-150",
+      "Also known as Maibam Lotpa Ching or Lokpaching",
+      "Imphal Peace Museum nearby with war relics"
+    ]
+  },
+  {
+    "id": "sendra-island",
+    "name": "Sendra Island",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Rocky hillock island in the middle of Loktak Lake offering panoramic views of the floating phumdis and lake expanse. Connected by causeway; hosts tourist bungalow and is a popular base for boating to Keibul Lamjao and photography of the wetland.",
+    "coordinates": {
+      "lat": 24.515,
+      "lon": 93.795
+    },
+    "tags": ["island", "nature", "viewpoint", "loktak", "tourism-home"],
+    "facts": [
+      "Hillock island in central Loktak Lake",
+      "Best panoramic views of phumdis",
+      "Sendra Tourist Home / resort on the island",
+      "About 48–50 km from Imphal",
+      "Gateway for boat trips to Keibul Lamjao"
+    ]
+  },
+  {
+    "id": "phubala",
+    "name": "Phubala",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Charming resort and lakeside spot on the western fringes of Loktak Lake in Bishnupur district, about 40 km south of Imphal. Offers serene views, boating and a quieter alternative for experiencing the wetland landscape.",
+    "coordinates": {
+      "lat": 24.534,
+      "lon": 93.756
+    },
+    "tags": ["nature", "resort", "lake", "offbeat", "boating"],
+    "facts": [
+      "On western fringes of Loktak Lake",
+      "About 40 km from Imphal",
+      "Popular for lakeside stays and views",
+      "Official tourist place of Bishnupur",
+      "Quieter alternative to main Sendra area"
+    ]
+  },
+  {
+    "id": "loukoipat-ecological-park",
+    "name": "Loukoipat Ecological Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Ecological park and small lake area on the outskirts of Bishnupur town near Tiddim Road. Developed for nature walks, picnics and local recreation amid greenery; a favourite short-stop tourist spot in the district.",
+    "coordinates": {
+      "lat": 24.63,
+      "lon": 93.76
+    },
+    "tags": ["eco-park", "nature", "picnic", "lake", "local"],
+    "facts": [
+      "Near Bishnupur district headquarters",
+      "On outskirts along Tiddim Road / NH-150",
+      "Boating and scenic picnic facilities",
+      "Official tourist place listed by district",
+      "Developed ecological and recreational site"
+    ]
+  },
+  {
+    "id": "moirang-town",
+    "name": "Moirang",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Historic town in Bishnupur district on the fringe of Loktak Lake, sacred in Meitei tradition and site of the first INA flag hoisting. Gateway to the lake circuit, with cultural significance linked to Lai Haraoba and local temples.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.77
+    },
+    "tags": ["town", "heritage", "gateway", "cultural", "loktak"],
+    "facts": [
+      "About 45 km from Imphal",
+      "Site of first INA tricolour hoisting in 1944",
+      "Sacred place in Meitei tradition",
+      "Base for Loktak Lake and Keibul visits",
+      "Headquarters area for southern Bishnupur tourism"
+    ]
+  },
+  {
+    "id": "sadu-chiru-waterfall",
+    "name": "Sadu Chiru Waterfall",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Picturesque multi-tiered waterfall site about 20 km from Imphal beside Tiddim Road near the Bishnupur–Senapati border area. Perennial falls in a scenic foothill setting; a relatively newer tourist spot for short nature visits.",
+    "coordinates": {
+      "lat": 24.75,
+      "lon": 93.85
+    },
+    "tags": ["waterfall", "nature", "offbeat", "foothill"],
+    "facts": [
+      "About 20 km from Imphal on NH-150",
+      "Three waterfalls in scenic setting",
+      "Officially listed among Bishnupur tourist places",
+      "On possible Bishnupur-Senapati border",
+      "Perennial and accessible for day visits"
+    ]
+  }
+]
