@@ -188,5 +188,157 @@
       "On possible Bishnupur-Senapati border",
       "Perennial and accessible for day visits"
     ]
+  },
+  {
+    "id": "shree-govindajee-temple",
+    "name": "Shree Govindajee Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Historic Vaishnavite temple with twin golden domes adjoining the former royal palace in central Imphal (Imphal East). Largest Vaishnava temple in the area, dedicated to Radha-Govinda; originally built in 1846 by Maharaja Nara Singh and rebuilt in 1876. Centre for festivals such as Janmashtami and Rath Yatra.",
+    "coordinates": {
+      "lat": 24.7978,
+      "lon": 93.9485
+    },
+    "tags": ["temple", "spiritual", "vaishnavite", "heritage", "palace-adjacent"],
+    "facts": [
+      "Twin golden-domed Vaishnavite temple in Imphal",
+      "Built 1846 by Maharaja Nara Singh; rebuilt 1876",
+      "Adjoins former royal palace (Sana Konung)",
+      "Major centre for Manipuri Vaishnavite festivals",
+      "Official tourist place of Imphal East district"
+    ]
+  },
+  {
+    "id": "andro-village-mutua-museum",
+    "name": "Andro Village and Mutua Bahadur Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Cultural village about 21–26 km east of Imphal in Imphal East, known for traditional pottery and the Mutua Bahadur Cultural Complex. The open-air museum displays tribal houses, pottery, coins, manuscripts, textiles and artefacts from Manipur’s ethnic communities, including a doll house representing tribes.",
+    "coordinates": {
+      "lat": 24.7773,
+      "lon": 94.0632
+    },
+    "tags": ["village", "heritage", "museum", "pottery", "tribal-culture", "offbeat"],
+    "facts": [
+      "About 21–26 km east of Imphal on Yairipok road",
+      "Home of Mutua Bahadur Museum / Cultural Complex",
+      "Known for traditional Meitei/Chakpa pottery",
+      "Displays tribal house replicas and NE artefacts",
+      "Official tourist place of Imphal East"
+    ]
+  },
+  {
+    "id": "santhei-natural-park",
+    "name": "Santhei Natural Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Community-developed natural park on the fringes of Andro village in Imphal East, featuring an artificial lake/dam, green surroundings and picnic areas. Outcome of local conservation efforts; popular for day visits, nature walks and views of nearby hills.",
+    "coordinates": {
+      "lat": 24.78,
+      "lon": 94.065
+    },
+    "tags": ["park", "nature", "picnic", "lake", "offbeat", "community"],
+    "facts": [
+      "On the fringe of Andro village, Imphal East",
+      "About 21 km from Imphal",
+      "Features artificial dam/lake and greenery",
+      "Community-managed conservation and picnic site",
+      "Official tourist place listed by district"
+    ]
+  },
+  {
+    "id": "sekta-archaeological-museum",
+    "name": "Sekta Archaeological Living Museum",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Open-air archaeological living museum at Sekta village, about 16 km northeast of Imphal on the Imphal-Ukhrul road in Imphal East. Protected site with excavated burial mounds showing secondary burial practices of proto-Meitei culture; excavated by ASI and state archaeology in 1991.",
+    "coordinates": {
+      "lat": 24.8956,
+      "lon": 94.038
+    },
+    "tags": ["archaeology", "heritage", "museum", "burial-mound", "asi", "offbeat"],
+    "facts": [
+      "About 16 km northeast of Imphal on Ukhrul road",
+      "Protected archaeological site under ASI",
+      "Known for secondary burial finds and mounds",
+      "Open-air living museum established after 1991 excavations",
+      "Official tourist place of Imphal East"
+    ]
+  },
+  {
+    "id": "sanamahi-kiyong-nongmaiching",
+    "name": "Lainingthou Sanamahi Kiyong (Sanamahi Kiyong)",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Temple of the Meitei deity Lainingthou Sanamahi on Nongmaiching (Selloi Langmai) hills in Imphal East. Centre for Sanamahism followers; completed around 2019 in traditional Meitei architectural style at about 980 m elevation. Pilgrimage site for Meitei, Kabui and Zeliangrong communities.",
+    "coordinates": {
+      "lat": 24.805,
+      "lon": 94.035
+    },
+    "tags": ["temple", "spiritual", "sanamahism", "meitei", "hill", "pilgrimage"],
+    "facts": [
+      "On Nongmaiching hills, Imphal East",
+      "Dedicated to Lainingthou Sanamahi of Sanamahism",
+      "Elevation around 980 m; Meitei architecture",
+      "Consecrated/completed 2019",
+      "Official tourist and pilgrimage place"
+    ]
+  },
+  {
+    "id": "hanuman-thakur-temple",
+    "name": "Hanuman Thakur Temple (Mahabali)",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Historic brick temple dedicated to Hanuman (in human form) on the bank of the Imphal River amid Mahabali forest groves in Imphal (Imphal East). Built in 1725 by King Garib Niwaj in Bengal hut-style; only surviving temple from that period linked to the Ramanandi tradition in Manipur.",
+    "coordinates": {
+      "lat": 24.7958,
+      "lon": 93.9433
+    },
+    "tags": ["temple", "spiritual", "hanuman", "heritage", "mahabali"],
+    "facts": [
+      "Built 1725 AD by King Garib Niwaj",
+      "On Imphal River bank in Mahabali forest area",
+      "Bengal hut-style brick temple",
+      "Only temple from Garib Niwaj’s Ramanandi period",
+      "Official tourist place of Imphal East"
+    ]
+  },
+  {
+    "id": "kaina-temple-hillock",
+    "name": "Kaina Temple / Sacred Hillock",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Sacred hillock about 29 km east of Imphal on the Imphal–Yairipok road in Imphal East (Keirao area). Site associated with the legend of King Bhagya Chandra receiving guidance to carve a Govinda idol from a sacred jackfruit tree; features a temple complex and is a Hindu pilgrimage spot.",
+    "coordinates": {
+      "lat": 24.673,
+      "lon": 94.015
+    },
+    "tags": ["temple", "spiritual", "hillock", "vaishnavite", "pilgrimage", "offbeat"],
+    "facts": [
+      "About 29 km east of Imphal on Yairipok road",
+      "Sacred jackfruit tree legend linked to King Bhagya Chandra",
+      "Hindu pilgrimage site with temple complex",
+      "Elevation around 900+ m",
+      "Official tourist place; tourist home nearby"
+    ]
+  },
+  {
+    "id": "marjing-polo-complex",
+    "name": "Marjing Polo Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Sports and cultural complex on Heingang Ching (Marjing Hill) in Heingang, Imphal East, dedicated to the Meitei deity Marjing (god of horses and polo) and Sagol Kangjei (traditional polo). Houses the world’s tallest equestrian statue of a polo player; includes grounds and related facilities. Opened 2018.",
+    "coordinates": {
+      "lat": 24.879,
+      "lon": 93.954
+    },
+    "tags": ["polo", "heritage", "statue", "sports", "meitei-culture", "hill"],
+    "facts": [
+      "On Heingang Ching / Marjing Hill, Imphal East",
+      "About 9 km from Imphal",
+      "World’s tallest equestrian polo-player statue",
+      "Dedicated to deity Marjing and traditional polo",
+      "Opened 2018; 23-acre complex"
+    ]
   }
 ]
