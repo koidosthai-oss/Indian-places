@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tengnoupal-town",
+    "name": "Tengnoupal",
+    "state": "Manipur",
+    "category": "hill-station",
+    "description": "District headquarters and hill town at the highest point on the Imphal–Moreh highway (NH-2/AH-1), about 69 km from Imphal. Offers panoramic views of the Manipur valley and surrounding hills; cool climate and fog in monsoon, historically strategic with WWII associations.",
+    "coordinates": {
+      "lat": 24.385,
+      "lon": 94.144
+    },
+    "tags": ["hill-station", "headquarters", "viewpoint", "gateway", "nh-2"],
+    "facts": ["HQ of Tengnoupal district (formed 2016 from Chandel)", "Highest point on Imphal-Moreh road", "Elevation around 1,450 m", "About 69 km from Imphal", "ASEAN Highway passes through"]
+  },
+  {
+    "id": "moreh-town",
+    "name": "Moreh",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Major Indo-Myanmar border trade town in Tengnoupal district at the entrance to the Kabaw Valley. Bustling commercial hub with markets, diverse population, and the Indo-Myanmar Friendship Bridge linking to Tamu (Myanmar). Gateway for cross-border trade under India's Act East Policy.",
+    "coordinates": {
+      "lat": 24.2477,
+      "lon": 94.3031
+    },
+    "tags": ["border-town", "trade", "gateway", "indo-myanmar", "commercial"],
+    "facts": ["India-Myanmar border town opposite Tamu", "Indo-Myanmar Friendship Bridge", "Population ~16,847 (2011)", "About 110 km from Imphal", "Key point for ASEAN connectivity and trade"]
+  },
+  {
+    "id": "yangoupokpi-lokchao-wildlife-sanctuary",
+    "name": "Yangoupokpi-Lokchao Wildlife Sanctuary",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "Wildlife sanctuary covering about 185 km² along the Indo-Myanmar border near Moreh. Protects Indo-Burma biodiversity including Hoolock gibbon (India's only ape), bears, serow, and birds like Green Peafowl. Important transboundary corridor; best visited October–April with forest guide.",
+    "coordinates": {
+      "lat": 24.32,
+      "lon": 94.23
+    },
+    "tags": ["wildlife", "sanctuary", "hoolock-gibbon", "border", "biodiversity"],
+    "facts": ["Established 1989, area ~184.8 km²", "Home to Hoolock gibbon and other rare species", "Near Moreh on Indo-Myanmar border", "About 110 km from Imphal", "Flag: some older sources list under Chandel; now primarily Tengnoupal"]
+  },
+  {
+    "id": "langol-peak-garden",
+    "name": "Langol Peak Garden (Tlanglhungbung Leikol)",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Scenic peak garden in Langol Village, Machi sub-division, about 60 km from Imphal on the Indo-Myanmar road. Linked to Khamba-Thoibi legend (Thoibi-Lei flowers) and WWII Allied camps. Offers panoramic views, picnic spots, thatched huts, and small museum elements; community-developed tourist site.",
+    "coordinates": {
+      "lat": 24.45,
+      "lon": 94.06
+    },
+    "tags": ["garden", "peak", "nature", "heritage", "legend", "viewpoint"],
+    "facts": ["In Machi sub-division, Tengnoupal district", "About 60 km from Imphal", "Associated with Khamba-Thoibi folklore and WWII", "Developed 2013–2017 as public garden", "Coordinates approximate; confirm locally"]
+  },
+  {
+    "id": "kwatha-village",
+    "name": "Kwatha Village",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Historic Meitei-majority village in the hills of Tengnoupal district, about 16–18 km from Moreh. Unique as the only ancient Meitei settlement in the hill areas; known for bamboo shoot (soibum) cultivation, traditional governance, Lai Haraoba festival, and peaceful coexistence with neighbouring tribal villages. Name derives from betel nut cultivation.",
+    "coordinates": {
+      "lat": 24.22,
+      "lon": 94.25
+    },
+    "tags": ["village", "offbeat", "meitei", "heritage", "bamboo-shoot", "cultural"],
+    "facts": ["Only Meitei hill village in Manipur", "About 16–18 km from Moreh", "Historic since King Senbi Kiyamba era", "Famous for fermented bamboo shoots", "Coordinates approximate"]
+  }
+]
