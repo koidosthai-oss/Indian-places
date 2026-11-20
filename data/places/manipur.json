@@ -1,1 +1,162 @@
-PLACEHOLDER
+[
+  {
+    "id": "jiribam-town-manipur",
+    "name": "Jiribam Town",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Jiribam is the headquarters of Jiribam district and the westernmost town of Manipur, serving as the western gateway bordering Assam on the Jiri River.",
+    "coordinates": {
+      "lat": 24.8106,
+      "lon": 93.1155
+    },
+    "tags": [
+      "gateway",
+      "border",
+      "railhead",
+      "town"
+    ],
+    "facts": [
+      "Known as the Western Gate of Manipur",
+      "First railway station in the state is located here",
+      "Lies on the bank of the Jiri River near its confluence with the Barak",
+      "District formed in 2016 from Imphal East"
+    ]
+  },
+  {
+    "id": "jiribam-railway-station-manipur",
+    "name": "Jiribam Railway Station",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Jiribam Railway Station is the first railway station in Manipur, connecting the state to the national rail network via Silchar.",
+    "coordinates": {
+      "lat": 24.794,
+      "lon": 93.0996
+    },
+    "tags": [
+      "railway",
+      "heritage",
+      "gateway"
+    ],
+    "facts": [
+      "Opened in 1903 as part of the Assam Bengal Railway",
+      "Station code JRBM under Northeast Frontier Railway",
+      "Passenger services to Silchar resumed in 2016",
+      "Key entry point for travellers from Assam"
+    ]
+  },
+  {
+    "id": "ningshingkhul-biodiversity-park-jiribam",
+    "name": "Ningshingkhul Biodiversity Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Official biodiversity park in Jiribam featuring aquatic and terrestrial plants and animals, along with an Ancestral Heroes Complex.",
+    "coordinates": {
+      "lat": 24.81,
+      "lon": 93.12
+    },
+    "tags": [
+      "biodiversity",
+      "park",
+      "nature",
+      "official"
+    ],
+    "facts": [
+      "Listed on official jiribam.nic.in tourist places",
+      "About 6 km from Jiribam Railway Station and Bazar",
+      "Includes Ancestral Heroes Complex for homage",
+      "Focus on local flora and fauna of the region"
+    ]
+  },
+  {
+    "id": "nongshaba-gate-jiribam",
+    "name": "Nongshaba Gate",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Nongshaba Gate (Western Gate of Manipur) is a symbolic entrance gateway at the western boundary of the state in Jiribam.",
+    "coordinates": {
+      "lat": 24.81,
+      "lon": 93.11
+    },
+    "tags": [
+      "gate",
+      "heritage",
+      "western-gate",
+      "landmark"
+    ],
+    "facts": [
+      "Inaugurated in 2021 as the Western Gate of Manipur",
+      "Located on the state boundary adjoining Cachar, Assam",
+      "Also known as Nongshaba Sanathong",
+      "Marks the western entrance for visitors entering Manipur"
+    ]
+  },
+  {
+    "id": "leishabithol-waterfall-jiribam",
+    "name": "Leishabithol Waterfall",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Scenic waterfall near Leishabithol village in Jiribam district, offering natural cascades amid forested hills.",
+    "coordinates": {
+      "lat": 24.7431,
+      "lon": 93.1565
+    },
+    "tags": [
+      "waterfall",
+      "nature",
+      "offbeat",
+      "village"
+    ],
+    "facts": [
+      "Located near Leishabithol census village",
+      "Popular local nature spot for day trips from Jiribam",
+      "Accessible via local roads with basic trails",
+      "Village coordinates approximately 24.7431 N, 93.1565 E"
+    ]
+  },
+  {
+    "id": "jiri-river-jiribam",
+    "name": "Jiri River",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "The Jiri River forms the western boundary of Manipur in the Jiribam area and offers scenic riverbanks for boating and fishing.",
+    "coordinates": {
+      "lat": 24.81,
+      "lon": 93.11
+    },
+    "tags": [
+      "river",
+      "border",
+      "nature",
+      "scenic"
+    ],
+    "facts": [
+      "Defines the Manipur-Assam border in this region",
+      "Near confluence with the Barak River",
+      "Supports local agriculture and traditional activities like fishing",
+      "Only the eastern bank belongs to Manipur"
+    ]
+  },
+  {
+    "id": "barak-river-jiribam-section",
+    "name": "Barak River (Jiribam Section)",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Section of the Barak River near its confluence with the Jiri River in Jiribam district, known for scenic riverine landscapes.",
+    "coordinates": {
+      "lat": 24.75,
+      "lon": 93.13
+    },
+    "tags": [
+      "river",
+      "nature",
+      "confluence",
+      "scenic"
+    ],
+    "facts": [
+      "Major river flowing through the valley south of Jiribam",
+      "Confluence with Jiri River near Jirimukh",
+      "Important for the geography and ecology of the district",
+      "Supports wetlands and agricultural plains"
+    ]
+  }
+]
