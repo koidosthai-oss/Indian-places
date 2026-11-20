@@ -1,1 +1,25 @@
-PLACEHOLDER_FOR_CONTENT
+[
+  {
+    "id": "jiribam-town-manipur",
+    "name": "Jiribam Town",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Jiribam is the headquarters of Jiribam district and the westernmost town of Manipur, serving as the western gateway bordering Assam on the Jiri River.",
+    "coordinates": {
+      "lat": 24.8106,
+      "lon": 93.1155
+    },
+    "tags": [
+      "gateway",
+      "border",
+      "railhead",
+      "town"
+    ],
+    "facts": [
+      "Known as the Western Gate of Manipur",
+      "First railway station in the state is located here",
+      "Lies on the bank of the Jiri River near its confluence with the Barak",
+      "District formed in 2016 from Imphal East"
+    ]
+  }
+]
