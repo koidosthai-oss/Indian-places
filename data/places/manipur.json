@@ -1,1 +1,183 @@
-PLACEHOLDER
+[
+  {
+    "id": "loktak-lake",
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Largest freshwater lake in Northeast India in Bishnupur district, famous for floating phumdis (heterogeneous biomass islands) and home to the world's only floating national park. Ramsar wetland of international importance.",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 93.783
+    },
+    "tags": ["lake", "ramsar", "phumdi", "floating-islands", "wetland", "bishnupur"],
+    "facts": [
+      "Coordinates 24.55°N 93.783°E from Wikipedia",
+      "Surface area varies 250-500 km²; average depth 2.7 m",
+      "Designated Ramsar site in 1990 (site no. 463)",
+      "Supports unique ecosystem for Sangai deer and migratory birds",
+      "District: Bishnupur; sources: Wikipedia, official Manipur Tourism, Ramsar, bishnupur.nic.in"
+    ]
+  },
+  {
+    "id": "keibul-lamjao-national-park",
+    "name": "Keibul Lamjao National Park",
+    "state": "Manipur",
+    "category": "wildlife",
+    "description": "The world's only floating national park on the largest phumdi of Loktak Lake in Bishnupur district. Last natural habitat of the endangered Sangai (brow-antlered deer), Manipur's state animal.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.76667
+    },
+    "tags": ["national-park", "sangai", "floating-park", "wildlife", "ramsar", "bishnupur"],
+    "facts": [
+      "Established 1977; area about 40 km²",
+      "Home to Sangai (Rucervus eldii eldii), hog deer, otters, and migratory birds",
+      "Accessed by boat from Sendra or Keibul village",
+      "District: Bishnupur; sources: Wikipedia, Manipur Forest Department, bishnupur.nic.in"
+    ]
+  },
+  {
+    "id": "sendra-island",
+    "name": "Sendra Island",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Rocky hillock island in Loktak Lake in Bishnupur offering panoramic views of floating phumdis. Features Sendra Tourist Home; popular for photography, boating, and sunrise/sunset.",
+    "coordinates": {
+      "lat": 24.5155,
+      "lon": 93.7955
+    },
+    "tags": ["island", "viewpoint", "tourist-home", "loktak", "bishnupur"],
+    "facts": [
+      "Connected by causeway; hilltop provides 360° lake views",
+      "Boats to Keibul Lamjao depart from here",
+      "About 50 km from Imphal",
+      "District: Bishnupur; sources: official tourism, bishnupur.nic.in"
+    ]
+  },
+  {
+    "id": "ina-martyrs-memorial-complex-moirang",
+    "name": "INA Martyrs' Memorial Complex",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Historic memorial and museum at Moirang in Bishnupur district commemorating the Indian National Army. Site where the INA flag was first unfurled on Indian soil on 14 April 1944 under Netaji Subhas Chandra Bose.",
+    "coordinates": {
+      "lat": 24.5025,
+      "lon": 93.7769
+    },
+    "tags": ["ina", "memorial", "freedom-struggle", "museum", "netaji", "bishnupur"],
+    "facts": [
+      "Located about 45 km south of Imphal in Bishnupur district",
+      "Includes replica of Singapore INA memorial, museum, library, and statue",
+      "Coordinates ~24.5025°N 93.7769°E",
+      "District: Bishnupur; sources: Wikipedia, bishnupur.nic.in official tourist places"
+    ]
+  },
+  {
+    "id": "bishnupur-vishnu-temple",
+    "name": "Bishnupur Vishnu Temple",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "15th-century brick temple dedicated to Lord Vishnu in Bishnupur town, after which the town and district are named. Built by King Kyamba; protected historical monument.",
+    "coordinates": {
+      "lat": 24.6297,
+      "lon": 93.7594
+    },
+    "tags": ["temple", "vishnu", "heritage", "15th-century", "bishnupur"],
+    "facts": [
+      "Located in Bishnupur town (HQ of the district)",
+      "Built around 1467 by King Kyamba",
+      "Conical brick structure of historical importance",
+      "District: Bishnupur; sources: Wikipedia, bishnupur.nic.in"
+    ]
+  },
+  {
+    "id": "loukoipat-ecological-park",
+    "name": "Loukoipat Ecological Park",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Scenic eco-park with a small lake surrounded by green hillocks near Bishnupur town. Offers boating and panoramic valley views; popular for picnics and relaxation.",
+    "coordinates": {
+      "lat": 24.63,
+      "lon": 93.76
+    },
+    "tags": ["eco-park", "lake", "boating", "picnic", "bishnupur"],
+    "facts": [
+      "Located on outskirts of Bishnupur district headquarters",
+      "Small lake with boating facilities",
+      "Surrounded by green hillocks",
+      "District: Bishnupur; sources: bishnupur.nic.in official places-of-interest"
+    ]
+  },
+  {
+    "id": "thanga-island",
+    "name": "Thanga Island",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Largest inhabited island in Loktak Lake in Bishnupur, home to Meitei fishing communities living on solid ground and stilted huts. Features traditional athaphum fishing traps and folklore museum.",
+    "coordinates": {
+      "lat": 24.5326,
+      "lon": 93.8369
+    },
+    "tags": ["island", "fishing-community", "offbeat", "phumdi", "folklore", "bishnupur"],
+    "facts": [
+      "Accessible by boat; showcases traditional lake lifestyle",
+      "Home to Loktak Folklore Museum",
+      "Part of the Loktak ecosystem",
+      "District: Bishnupur; sources: tourism descriptions, GeoNames"
+    ]
+  },
+  {
+    "id": "red-hill-maibam-lotpa-ching",
+    "name": "Red Hill (Maibam Lotpa Ching)",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "WWII historical hillock in Nambol, Bishnupur district, site of fierce 1944 battle between Allied and Japanese forces. Features India Peace Memorial and Imphal Peace Museum; pilgrimage site for Japanese visitors.",
+    "coordinates": {
+      "lat": 24.703,
+      "lon": 93.817
+    },
+    "tags": ["war-memorial", "wwii", "heritage", "peace-memorial", "bishnupur"],
+    "facts": [
+      "About 17 km south of Imphal on Tiddim Road (NH-150)",
+      "Coordinates 24.703°N 93.817°E from Wikipedia",
+      "India Peace Memorial constructed by Japanese veterans",
+      "District: Bishnupur; sources: Wikipedia, bishnupur.nic.in"
+    ]
+  },
+  {
+    "id": "phubala",
+    "name": "Phubala",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Charming resort village on the western fringes of Loktak Lake in Bishnupur district, about 40 km south of Imphal. Popular for boating, lake views, and as a quieter alternative to main tourist spots.",
+    "coordinates": {
+      "lat": 24.534,
+      "lon": 93.756
+    },
+    "tags": ["resort", "lake", "boating", "nature", "bishnupur"],
+    "facts": [
+      "On western fringes of Loktak Lake",
+      "About 40 km from Imphal",
+      "Developed for water sports and picnics",
+      "District: Bishnupur; sources: bishnupur.nic.in official tourist places"
+    ]
+  },
+  {
+    "id": "moirang-town",
+    "name": "Moirang",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Historic town in Bishnupur district about 45 km from Imphal, sacred to Manipuri people and site of the first INA flag unfurling. Gateway to Loktak Lake and INA memorial complex.",
+    "coordinates": {
+      "lat": 24.5,
+      "lon": 93.77
+    },
+    "tags": ["town", "heritage", "gateway", "ina", "bishnupur"],
+    "facts": [
+      "About 45 km south of Imphal",
+      "Site of INA flag unfurling on 14 April 1944",
+      "Home to Ibudhou Thangjing Temple",
+      "District: Bishnupur; sources: bishnupur.nic.in, Wikipedia"
+    ]
+  }
+]
