@@ -21,5 +21,173 @@
       "Lies on the bank of the Jiri River near its confluence with the Barak",
       "District formed in 2016 from Imphal East"
     ]
+  },
+  {
+    "id": "kangpokpi-town-manipur",
+    "name": "Kangpokpi Town",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Headquarters of Kangpokpi district and Sadar Hills Autonomous District Council, a hill town at about 1000-1220 m elevation along NH-2, serving as a gateway to the hills with tribal markets and cool climate.",
+    "coordinates": {
+      "lat": 25.14889,
+      "lon": 93.97056
+    },
+    "tags": [
+      "hill-town",
+      "district-hq",
+      "tribal",
+      "gateway",
+      "market"
+    ],
+    "facts": [
+      "District formed in December 2016 from former Senapati Sadar Hills areas",
+      "Population around 7476 as per 2011 census",
+      "Elevation approximately 1000-1220 metres",
+      "Connected by National Highway 2 to Imphal and Dimapur"
+    ]
+  },
+  {
+    "id": "mount-koubru-kangpokpi-manipur",
+    "name": "Mount Koubru",
+    "state": "Manipur",
+    "category": "spiritual",
+    "description": "Sacred peak in the Koubru range, abode of Lainingthou Koubru and goddess Kounu in Meitei mythology, popular for pilgrimage and trekking with stone formations resembling Meitei alphabets at the summit.",
+    "coordinates": {
+      "lat": 25.063,
+      "lon": 93.8717
+    },
+    "tags": [
+      "sacred-mountain",
+      "pilgrimage",
+      "trekking",
+      "mythology",
+      "peak"
+    ],
+    "facts": [
+      "Elevation around 2131-2562 metres depending on source",
+      "Located in Saitu-Gamphazol subdivision of Kangpokpi",
+      "Saparmeina town lies at the base",
+      "Major pilgrimage site for Meitei community"
+    ]
+  },
+  {
+    "id": "sadu-chiru-waterfall-kangpokpi-manipur",
+    "name": "Sadu Chiru Waterfall",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Three-tiered waterfall also known as Leimaram Falls in Bungte Chiru area, cascading through lush forest with pools, accessible by short trek from the road, popular picnic and photography spot about 25 km from Imphal.",
+    "coordinates": {
+      "lat": 24.741,
+      "lon": 93.7461
+    },
+    "tags": [
+      "waterfall",
+      "three-tier",
+      "picnic",
+      "nature",
+      "trekking"
+    ],
+    "facts": [
+      "Also called Leimaram Waterfall",
+      "Located in Bungte Chiru sub-division of Kangpokpi",
+      "First fall drops about 30 metres",
+      "Best visited post-monsoon for full flow"
+    ]
+  },
+  {
+    "id": "singda-dam-kangpokpi-manipur",
+    "name": "Singda Dam",
+    "state": "Manipur",
+    "category": "nature",
+    "description": "Multi-purpose earthen dam on the Singda River completed in 1995, creating a scenic reservoir for irrigation, water supply and small hydropower, surrounded by hills and popular for picnics and views.",
+    "coordinates": {
+      "lat": 24.875,
+      "lon": 93.8067
+    },
+    "tags": [
+      "dam",
+      "reservoir",
+      "picnic",
+      "irrigation",
+      "scenic"
+    ],
+    "facts": [
+      "Located in Singda village, Kangchup Geljang sub-division",
+      "Height about 60 metres, length 490 metres",
+      "Supplies water to Imphal and irrigates thousands of hectares",
+      "Coordinates 24°52'30\" N, 93°48'24\" E"
+    ]
+  },
+  {
+    "id": "thangal-surung-eco-park-kangpokpi-manipur",
+    "name": "Thangal Surung Eco Park",
+    "state": "Manipur",
+    "category": "heritage",
+    "description": "Eco-tourism complex at the birthplace of General Thangal, featuring memorial statues, parks and historical significance related to the Anglo-Manipur War of 1891, listed by Manipur Tourism as a recreational site.",
+    "coordinates": {
+      "lat": 25.036,
+      "lon": 93.998
+    },
+    "tags": [
+      "eco-park",
+      "heritage",
+      "memorial",
+      "historical",
+      "picnic"
+    ],
+    "facts": [
+      "Birthplace of renowned General Thangal",
+      "About 33 km from Imphal",
+      "Also known as General Thangal Ecological Park",
+      "Host to community and commemorative events"
+    ]
+  },
+  {
+    "id": "motbung-kangpokpi-manipur",
+    "name": "Motbung Town",
+    "state": "Manipur",
+    "category": "other",
+    "description": "Large town in Saitu-Gamphazol subdivision known for local markets, community life, Presidency College and as a base for exploring surrounding hills and tribal culture.",
+    "coordinates": {
+      "lat": 24.99944,
+      "lon": 93.90447
+    },
+    "tags": [
+      "town",
+      "market",
+      "tribal",
+      "community",
+      "base"
+    ],
+    "facts": [
+      "Population around 3601 as per 2011 census",
+      "Located in Saitu-Gamphazol sub-division",
+      "About 26-31 km from Imphal",
+      "Has primary health centre and educational institutions"
+    ]
+  },
+  {
+    "id": "keithelmanbi-kangpokpi-manipur",
+    "name": "Keithelmanbi Village",
+    "state": "Manipur",
+    "category": "offbeat",
+    "description": "Large Thadou tribal village and military colony near Kangpokpi HQ, known for community life, river picnic spots, angling and as one of the bigger settlements in the district.",
+    "coordinates": {
+      "lat": 25.099,
+      "lon": 93.948
+    },
+    "tags": [
+      "village",
+      "tribal",
+      "thadou",
+      "offbeat",
+      "river"
+    ],
+    "facts": [
+      "Population over 4000",
+      "About 5 km from Kangpokpi town",
+      "Primarily Thadou tribe settlement",
+      "Has community halls and churches"
+    ]
   }
 ]
