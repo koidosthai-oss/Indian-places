@@ -1,1 +1,94 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "kachari-ruins-dimapur",
+    "name": "Kachari Ruins (Ruins of Kachari Rajbari)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval ruins of the ancient Dimasa Kachari kingdom capital in Dimapur, featuring unique mushroom-domed sandstone pillars and V-shaped memorial stones elaborately carved with animals, birds and motifs. Protected by ASI; remnants of a pre-13th century kingdom later contested by Ahoms.",
+    "coordinates": {
+      "lat": 25.90361,
+      "lon": 93.74028
+    },
+    "tags": ["heritage", "ruins", "kachari", "archaeology", "monoliths", "asi"],
+    "facts": ["Ancient capital of Dimasa Kachari kingdom before 13th century", "Series of 8-15 ft mushroom-domed pillars", "Located near railway tracks opposite Circuit House", "ASI protected monument N-NL-1", "Best visited Oct-March"]
+  },
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial hub of Nagaland, known as the Gateway to Nagaland. Located on the Dhansiri River plains near the Assam border; main entry point with airport and railway station. Multi-ethnic commercial centre with markets, hotels and base for exploring the state.",
+    "coordinates": {
+      "lat": 25.909174,
+      "lon": 93.726602
+    },
+    "tags": ["town", "gateway", "commercial", "hq", "airport"],
+    "facts": ["District headquarters and largest city in Nagaland", "Elevation around 145-154 m", "Only major airport and railway in the state", "Ancient Dimasa capital site", "Population ~172,000 (2024 municipal estimate)"]
+  },
+  {
+    "id": "nagaland-science-centre-dimapur",
+    "name": "Nagaland Science Centre",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Interactive science museum and educational centre behind Naga Shopping Arcade in Half Nagarjan, Dimapur. Features galleries on senses, children's corner, fun science, planetarium and science park. Established with NCSM support to promote scientific awareness.",
+    "coordinates": {
+      "lat": 25.9038,
+      "lon": 93.7384
+    },
+    "tags": ["museum", "science", "education", "planetarium", "family"],
+    "facts": ["Inaugurated December 2004", "Located near Kachari Ruins area", "Open 10 AM-4 PM, closed Mondays", "Nominal entry fee", "Includes Tara Mandal planetarium"]
+  },
+  {
+    "id": "nezcc-stone-garden-dimapur",
+    "name": "NEZCC Stone Garden and North East Heritage Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "North East Zone Cultural Centre complex near Dimapur Airport featuring a stone sculpture garden with 31 works by Indian artists, traditional morungs, amphitheatre and the North East Heritage Museum showcasing crafts and artefacts from eight northeastern states.",
+    "coordinates": {
+      "lat": 25.87694,
+      "lon": 93.77306
+    },
+    "tags": ["heritage", "museum", "culture", "sculpture", "nezcc"],
+    "facts": ["Headquarters of NEZCC since 1986", "About 3 km from railway station, near airport", "Stone garden and museum open to public", "Promotes Northeast cultural heritage", "Average footfall 20 daily, higher on weekends"]
+  },
+  {
+    "id": "hong-kong-market-dimapur",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling flea market in central Dimapur known for affordable imported clothing, footwear, electronics and daily goods from Myanmar, Thailand and China. Popular shopping destination for locals and tourists; evolved from Tibetan traders' stalls in the 1980s.",
+    "coordinates": {
+      "lat": 25.908,
+      "lon": 93.727
+    },
+    "tags": ["market", "shopping", "commercial", "bargain"],
+    "facts": ["Heart of Dimapur commercial activity", "Goods largely cross-border imports", "Bargaining common", "Accessible by auto from railway/airport", "Busy most days"]
+  },
+  {
+    "id": "green-park-dimapur",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Family-oriented park inside the State Horticulture Nursery at 4th Mile, Dimapur. Features greenery, boating, water zorbing, ziplining, kids' train and picnic spots. Popular local hangout and tourist attraction.",
+    "tags": ["park", "nature", "family", "adventure", "picnic"],
+    "facts": ["Located within State Horticulture Nursery", "Activities include boating and ziplining", "Nominal entry fee", "Best Oct-March", "Average footfall 40-80 daily"]
+  },
+  {
+    "id": "heirloom-naga-centre",
+    "name": "Heirloom Naga Centre",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Creative hub near Seluphe Junction, Sovima Village area showcasing contemporary and traditional Naga crafts, brands, gallery, workshops and experiential tourism. Unites local artisan brands under one roof.",
+    "tags": ["crafts", "culture", "offbeat", "workshop", "heritage"],
+    "facts": ["Near Sovima, about 15 min from airport", "Includes gallery, eatery, guest house", "Focus on revitalizing Naga heritage", "Open Mon-Sat 9AM-5PM", "Promoted for experiential tourism"]
+  },
+  {
+    "id": "zhotomi-ce-naga-united",
+    "name": "Zhotomi Ce (Naga United Village)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Traditional Chakhesang Naga house and living museum of artist Veswuzo Phesao in Naga United Village area. Features classic Kunemeche architecture with carved wood, mithun heads, and cultural displays; recipient of Governor's Award.",
+    "tags": ["heritage", "architecture", "naga", "crafts", "offbeat"],
+    "facts": ["Traditional rich-man's house style", "Wood carvings of warriors and symbols", "Living cultural landmark", "Contact available for visits", "Immersive Naga experience"]
+  }
+]
