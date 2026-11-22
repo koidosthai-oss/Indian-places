@@ -418,5 +418,176 @@
       "About 40 km from Kohima",
       "Model for rural homestays"
     ]
+  },
+  {
+    "id": "longwa-village",
+    "name": "Longwa Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Large traditional Konyak Naga village in Mon district straddling the India-Myanmar international border. The Angh's (chief's) longhouse famously lies half in each country; villagers hold dual citizenship. Known for tattooed elders (last generation of headhunters), wood carvings, skull exhibits, morungs, and panoramic views into Myanmar hills.",
+    "coordinates": {
+      "lat": 26.661379,
+      "lon": 95.219849
+    },
+    "tags": [
+      "offbeat",
+      "konyak",
+      "border",
+      "heritage",
+      "village",
+      "culture",
+      "headhunter"
+    ],
+    "facts": [
+      "Angh's house straddles India-Myanmar border",
+      "About 42 km from Mon town on challenging road",
+      "Villagers enjoy dual citizenship",
+      "Famous for traditional wood carvings and historical skull displays",
+      "Best visited October-April; closed Sundays"
+    ]
+  },
+  {
+    "id": "mon-town",
+    "name": "Mon Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "District headquarters of Mon, known as the Land of the Anghs, gateway to Konyak Naga heartland. Small hill town at ~655-900 m elevation serving as base for exploring remote villages, cultural tourism, and border areas near Assam, Arunachal Pradesh, and Myanmar.",
+    "coordinates": {
+      "lat": 26.72082,
+      "lon": 95.02862
+    },
+    "tags": [
+      "town",
+      "hq",
+      "gateway",
+      "konyak",
+      "hill"
+    ],
+    "facts": [
+      "Elevation around 655-898 m",
+      "Home of Konyak Naga tribe",
+      "Base for visits to Longwa, Shangnyu, and Veda Peak",
+      "About 280 km from Dimapur"
+    ]
+  },
+  {
+    "id": "shangnyu-village",
+    "name": "Shangnyu Village",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Historic Konyak village ~18-23 km from Mon, renowned for elaborate wood carvings, a large wooden fertility sculpture or monument, and the Angh's palace believed over 500 years old. Memorial stones and traditional architecture highlight its cultural significance.",
+    "coordinates": {
+      "lat": 26.7657,
+      "lon": 95.1105
+    },
+    "tags": [
+      "heritage",
+      "konyak",
+      "wood-carving",
+      "village",
+      "offbeat"
+    ],
+    "facts": [
+      "Angh's house over 500 years old",
+      "Famous wood carvings and monuments",
+      "About 18-23 km from Mon town",
+      "Listed among official tourist attractions"
+    ]
+  },
+  {
+    "id": "chui-village",
+    "name": "Chui Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Accessible traditional Konyak village about 8 km from Mon town, known for well-preserved Angh's house, wood carvings, bamboo work, tattooed elders, and authentic cultural experiences. Designated as an ethnic village for educational and tourism interest.",
+    "coordinates": {
+      "lat": 26.7027,
+      "lon": 95.0274
+    },
+    "tags": [
+      "offbeat",
+      "konyak",
+      "village",
+      "culture",
+      "heritage"
+    ],
+    "facts": [
+      "Only about 8 km from Mon town",
+      "Famous for traditional architecture and crafts",
+      "Ethnic village with cultural tourism focus"
+    ]
+  },
+  {
+    "id": "veda-peak",
+    "name": "Veda Peak (Pak Koi / Veta)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Highest peak in Mon district at about 2,413 m, roughly 70 km from Mon town. Offers panoramic views of the surrounding hills and, on clear days, distant glimpses toward the Brahmaputra and Chindwin river systems. Nearby waterfall; historically associated with early British camps and opium cultivation in the Naga Hills.",
+    "tags": [
+      "nature",
+      "peak",
+      "viewpoint",
+      "waterfall",
+      "offbeat"
+    ],
+    "facts": [
+      "Highest point in Mon district (~2,413 m)",
+      "Also known as Pak Koi or Veta/Shahwot",
+      "About 70 km from Mon HQ",
+      "Views of rivers on clear days; nearby waterfall"
+    ]
+  },
+  {
+    "id": "langmeang-village",
+    "name": "Langmeang Village",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Konyak village in Mon district known for human skull exhibits from the headhunting era, traditional wood carvings, and cultural heritage. One of the sites highlighted for historical artefacts.",
+    "tags": [
+      "heritage",
+      "konyak",
+      "skulls",
+      "village",
+      "offbeat"
+    ],
+    "facts": [
+      "Famous for skull exhibits and wood carvings",
+      "Part of the traditional Konyak cultural circuit"
+    ]
+  },
+  {
+    "id": "sheanghah-chingnyu",
+    "name": "Sheanghah Chingnyu (Singha Chingnyu)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Remote Konyak village noted for its longhouse decorated with animal skulls, stuffed tigers, and historical human trophies from the headhunting period, along with wood carvings. Offers immersive traditional architecture experience.",
+    "tags": [
+      "heritage",
+      "konyak",
+      "skulls",
+      "longhouse",
+      "offbeat"
+    ],
+    "facts": [
+      "Known for elaborate skull and trophy displays",
+      "Traditional longhouse architecture"
+    ]
+  },
+  {
+    "id": "dikhu-river-mon",
+    "name": "Dikhu River (Mon section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Scenic river flowing through Mon district, popular for fishing, picnicking, and nature walks. One of the important rivers in the Konyak region alongside Tapi, Yetyong, and others.",
+    "tags": [
+      "nature",
+      "river",
+      "fishing",
+      "picnic"
+    ],
+    "facts": [
+      "Important river for local fishing and recreation",
+      "Borders parts of the district near Assam"
+    ]
   }
 ]
