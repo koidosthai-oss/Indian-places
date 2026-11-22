@@ -1,1 +1,102 @@
-PLACEHOLDER_TO_REPLACE
+[
+  {
+    "id": "mokokchung-town",
+    "name": "Mokokchung Town",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "District headquarters and cultural capital of the Ao Naga tribe, perched at 1,325 m with misty hills, markets, and panoramic views. Known as the Land of Pioneers.",
+    "coordinates": {"lat": 26.32, "lon": 94.52},
+    "tags": ["hill-station", "ao-naga", "cultural", "gateway"],
+    "facts": ["Elevation about 1,325 m above sea level", "Cultural nerve centre of Ao people", "Famous for Moatsu Festival celebrations", "Sources: Wikipedia, mokokchung.nic.in"]
+  },
+  {
+    "id": "ungma-village",
+    "name": "Ungma Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Oldest and one of the largest Ao Naga villages, just south of Mokokchung town, with historic log drums, Baptist church, and living traditions. Believed to be an early settlement of the Ao people.",
+    "coordinates": {"lat": 26.297, "lon": 94.5045},
+    "tags": ["offbeat", "heritage", "ao-village", "log-drums"],
+    "facts": ["One of the oldest Ao settlements", "About 3-10 km from Mokokchung town", "Preserves traditional morungs and culture", "Sources: Wikipedia, mokokchung.nic.in"]
+  },
+  {
+    "id": "longkhum-village",
+    "name": "Longkhum Village",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Highest Ao village at about 1,846 m, known as the Vegetable Capital of Nagaland. Offers rhododendron forests, Mata Yimkong viewpoint, stone bridge, and soul-retaining folklore with panoramic valley views.",
+    "coordinates": {"lat": 26.26355, "lon": 94.4123},
+    "tags": ["nature", "offbeat", "viewpoint", "trekking", "rhododendron"],
+    "facts": ["Highest altitude village in Ao region (~1846 m)", "Declared Vegetable Capital in 2004", "Famous for 'soul stays back' legend", "Sources: Wikipedia, mokokchung.nic.in"]
+  },
+  {
+    "id": "mopungchuket-village",
+    "name": "Mopungchuket Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Cleanest and popular rural tourism village of Ao Nagas, featuring Jina-Etiben love towers, Süngkotenem Park with mystical lake, wooden sculptures, museum, and log drums. Declared rural tourism village in 2007.",
+    "coordinates": {"lat": 26.39333, "lon": 94.53639},
+    "tags": ["offbeat", "heritage", "rural-tourism", "folklore", "clean-village"],
+    "facts": ["Associated with Romeo-Juliet legend of Jina and Etiben", "About 15-16 km from Mokokchung", "Features community park and oldest village museum", "Sources: Wikipedia, mokokchung.nic.in"]
+  },
+  {
+    "id": "chuchuyimlang-village",
+    "name": "Chuchuyimlang Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Largest Ao village and key site for Moatsu Festival celebrations, known for inviting neighboring tribes. Cultural hub with traditional gatherings and handicrafts, about 30 km from town.",
+    "coordinates": {"lat": 26.458, "lon": 94.639},
+    "tags": ["offbeat", "festival", "ao-culture", "moatsu"],
+    "facts": ["Hosts major Moatsu Festival events", "One of the largest Ao villages", "On NH-61 about 30 km from Mokokchung", "Sources: Wikipedia"]
+  },
+  {
+    "id": "langpangkong-caves",
+    "name": "Langpangkong Caves",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Limestone caves in the Langpangkong range between Dikhu and Tzula river valleys, near Changtongya and Tuli. Legend of Ahom king taking refuge; suitable for trekking and exploration.",
+    "coordinates": {"lat": 26.55, "lon": 94.68},
+    "tags": ["nature", "caves", "trekking", "legend", "offbeat"],
+    "facts": ["Near Tuli and Changtongya towns", "Associated with Ahom king refuge legend", "Part of Langpangkong mountain range", "Coordinates approximate; Sources: tourism guides, district sites"]
+  },
+  {
+    "id": "mokokchung-district-museum",
+    "name": "Mokokchung District Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Museum in Mokokchung town showcasing Ao Naga artefacts including weapons, jewelry, clothing, traditional tools, and cultural exhibits from the district.",
+    "coordinates": {"lat": 26.32, "lon": 94.52},
+    "tags": ["heritage", "museum", "ao-naga", "culture"],
+    "facts": ["Preserves Ao tribal artefacts and history", "Located in Mokokchung town", "Good introduction to local culture", "Sources: tourism listings"]
+  },
+  {
+    "id": "ao-baptist-church-mokokchung",
+    "name": "Ao Baptist Church (Baptist Mother Church)",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "One of the largest and historically significant Baptist churches in Nagaland, central to Ao Naga Christian life and literacy history in Mokokchung town.",
+    "coordinates": {"lat": 26.32, "lon": 94.52},
+    "tags": ["spiritual", "church", "heritage", "ao"],
+    "facts": ["Nicknamed Ao Baptist Church or Mokokchung Church", "Important historical landmark", "In Mokokchung town", "Sources: tourism guides"]
+  },
+  {
+    "id": "mokokchung-park",
+    "name": "Mokokchung Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Town park above the center of Mokokchung offering green space, gardens, viewpoints, and a quiet break amid the hills. Ideal for walks and picnics.",
+    "coordinates": {"lat": 26.32, "lon": 94.52},
+    "tags": ["nature", "park", "viewpoint"],
+    "facts": ["Also known as Town Park or Fazl Ali Park", "Offers valley views", "Located near town center", "Sources: district tourism lists"]
+  },
+  {
+    "id": "dikhu-river-mokokchung",
+    "name": "Dikhu River (Mokokchung section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Scenic river flowing through eastern Mokokchung, ideal for picnics, fishing, and nature walks. Forms part of the district's landscape and boundaries.",
+    "coordinates": {"lat": 26.5, "lon": 94.7},
+    "tags": ["nature", "river", "picnic", "offbeat"],
+    "facts": ["Also known as Tzula or Tsula in parts", "Borders eastern ranges", "Popular for local outings", "Coordinates approximate for section; Sources: tourism guides"]
+  }
+]
