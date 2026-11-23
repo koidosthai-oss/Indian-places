@@ -1,1 +1,393 @@
-PLACEHOLDER
+[
+  {
+    "id": "dimapur-town-nagaland",
+    "name": "Dimapur",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial hub of Nagaland, serving as the primary gateway with the state's only airport and major railway station. Located on the Dhansiri River plains near the Assam border; base for exploring Kachari heritage and nearby nature sites.",
+    "coordinates": {
+      "lat": 25.909174,
+      "lon": 93.726602
+    },
+    "tags": [
+      "town",
+      "gateway",
+      "commercial",
+      "airport"
+    ],
+    "facts": [
+      "Only airport and major railhead in Nagaland",
+      "Ancient capital of the Dimasa Kachari kingdom",
+      "Requires Inner Line Permit for visitors from outside Nagaland",
+      "Elevation about 145 m on Dhansiri River plains"
+    ]
+  },
+  {
+    "id": "kachari-ruins-dimapur-nagaland",
+    "name": "Kachari Ruins (Dimasa Kachari Monoliths)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval archaeological site featuring mushroom-domed sandstone pillars and brick ruins from the 10th\u201313th century Dimasa Kachari kingdom capital. Located in the heart of Dimapur near the railway station; protected by ASI.",
+    "coordinates": {
+      "lat": 25.9036,
+      "lon": 93.7403
+    },
+    "tags": [
+      "archaeology",
+      "monoliths",
+      "kachari",
+      "ruins"
+    ],
+    "facts": [
+      "Remnants of Dimasa Kachari capital before Ahom conquest",
+      "Unique mushroom-shaped pillars with carvings",
+      "Best visited October\u2013March",
+      "Near Dimapur Railway Station"
+    ]
+  },
+  {
+    "id": "nagaland-science-centre-dimapur",
+    "name": "Nagaland Science Centre",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Interactive science museum and planetarium promoting scientific awareness with galleries on senses, fun science, and children's exhibits. Located behind Naga Arcade in Half Nagarjan, Dimapur.",
+    "coordinates": {
+      "lat": 25.9038,
+      "lon": 93.7384
+    },
+    "tags": [
+      "museum",
+      "science",
+      "planetarium",
+      "educational"
+    ],
+    "facts": [
+      "Established 2004 under Department of Science & Technology",
+      "Includes Taramandal planetarium",
+      "Open 10 AM\u20134 PM, closed Mondays",
+      "Entry fee nominal; ideal for families"
+    ]
+  },
+  {
+    "id": "hong-kong-market-dimapur-nagaland",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling flea market in central Dimapur known for affordable imported clothing, footwear, electronics, and goods from Myanmar, Thailand, and China. Popular shopping destination for locals and visitors.",
+    "coordinates": {
+      "lat": 25.908,
+      "lon": 93.727
+    },
+    "tags": [
+      "market",
+      "shopping",
+      "flea-market",
+      "imported-goods"
+    ],
+    "facts": [
+      "Grew from Tibetan trader stalls in the 1980s",
+      "Bargaining common; wide range of winter garments",
+      "Central location near major roads",
+      "Open roughly 10 AM\u20137 PM"
+    ]
+  },
+  {
+    "id": "dimapur-jain-temple-nagaland",
+    "name": "Dimapur Jain Temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Digambar Jain temple dedicated to Lord Mahavira, established in 1947 by migrant Jain families from Kohima. Features intricate glasswork and multiple tirthankara statues; located on Jain Temple Road.",
+    "coordinates": {
+      "lat": 25.92,
+      "lon": 93.73
+    },
+    "tags": [
+      "jain",
+      "temple",
+      "spiritual",
+      "heritage"
+    ],
+    "facts": [
+      "Built in 1947 after families relocated from Kohima during WWII",
+      "Moolnayak is Lord Mahavira",
+      "Managed by SD Jain Samaj Dimapur",
+      "Open daily"
+    ]
+  },
+  {
+    "id": "dimapur-ao-baptist-church-nagaland",
+    "name": "Dimapur Ao Baptist Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Prominent Baptist church serving the Ao Naga community in Dimapur, reflecting the strong Christian tradition among Naga tribes. One of the larger churches in the city with community activities.",
+    "coordinates": {
+      "lat": 25.90,
+      "lon": 93.72
+    },
+    "tags": [
+      "church",
+      "baptist",
+      "ao-naga",
+      "spiritual"
+    ],
+    "facts": [
+      "Founded around 1958 with small congregation, now thousands of families",
+      "Key spiritual landmark in multi-tribal Dimapur",
+      "Active in community and mission work",
+      "Located in River Belt / Duncan Basti area"
+    ]
+  },
+  {
+    "id": "dhansiri-river-dimapur-nagaland",
+    "name": "Dhansiri River (Dimapur section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Major river flowing through the plains of Dimapur, offering riverside walks, birdwatching on sandbars, and scenic views near the Assam border. Important for local ecology and recreation.",
+    "coordinates": {
+      "lat": 25.91,
+      "lon": 93.70
+    },
+    "tags": [
+      "river",
+      "nature",
+      "birdwatching",
+      "riverside"
+    ],
+    "facts": [
+      "Key waterway of the Dimapur plains",
+      "Popular for winter birdwatching and evening walks",
+      "Near the commercial hub and railway line",
+      "Best in cooler months"
+    ]
+  },
+  {
+    "id": "kohima-town-nagaland",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Capital of Nagaland and primary hill-station base for exploring Angami Naga culture, WWII history, and nearby trekking valleys. Perched at about 1,444 m elevation with panoramic views of surrounding ridges.",
+    "coordinates": {
+      "lat": 25.6701,
+      "lon": 94.1077
+    },
+    "tags": [
+      "capital",
+      "hill-station",
+      "gateway",
+      "angami"
+    ],
+    "facts": [
+      "State capital and largest hill town in Nagaland",
+      "Elevation approximately 1,444 metres",
+      "Requires Inner Line Permit for non-residents",
+      "Base for Hornbill Festival and Dzukou Valley treks"
+    ]
+  },
+  {
+    "id": "kohima-war-cemetery-nagaland",
+    "name": "Kohima War Cemetery",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Commonwealth War Graves Commission cemetery on the site of the 1944 Battle of Kohima, commemorating Allied soldiers who halted the Japanese advance. Features terraced graves and the famous tennis-court lines marking the intense fighting.",
+    "coordinates": {
+      "lat": 25.6676,
+      "lon": 94.103
+    },
+    "tags": [
+      "wwii",
+      "cemetery",
+      "memorial",
+      "heritage"
+    ],
+    "facts": [
+      "Site of decisive 1944 Battle of Kohima",
+      "1,420 Commonwealth burials plus cremation memorial",
+      "Maintained by Commonwealth War Graves Commission",
+      "Famous epitaph: When you go home tell them of us and say for your tomorrow we gave our today"
+    ]
+  },
+  {
+    "id": "kisama-heritage-village-nagaland",
+    "name": "Kisama Heritage Village",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Open-air Naga Heritage Village designed as traditional morungs of all major tribes, serving as the primary venue for the annual Hornbill Festival. Located 12 km south of Kohima on the highway toward Imphal.",
+    "coordinates": {
+      "lat": 25.6162,
+      "lon": 94.1146
+    },
+    "tags": [
+      "hornbill",
+      "festival",
+      "morung",
+      "heritage-village"
+    ],
+    "facts": [
+      "Main venue for Hornbill Festival (December 1\u201310)",
+      "Replica of traditional Naga village with tribal morungs",
+      "Approximately 12 km south of Kohima",
+      "Showcases crafts, dances and living Naga culture"
+    ]
+  },
+  {
+    "id": "khonoma-green-village-nagaland",
+    "name": "Khonoma Green Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Western Angami Naga village known as India's first Green Village for community conservation, ban on hunting, and protection of Blyth's Tragopan. Features terraced rice fields, stone fortresses and traditional architecture about 20 km west of Kohima.",
+    "coordinates": {
+      "lat": 25.65,
+      "lon": 94.033
+    },
+    "tags": [
+      "green-village",
+      "conservation",
+      "angami",
+      "terraces"
+    ],
+    "facts": [
+      "India's first officially recognised Green Village",
+      "Community ban on hunting protects state bird Blyth's Tragopan",
+      "Historic resistance against British colonial forces",
+      "Elevation about 1,621 m with terraced fields"
+    ]
+  },
+  {
+    "id": "dzukou-valley-nagaland",
+    "name": "Dzukou Valley",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "High-altitude valley of rolling dwarf-bamboo meadows and seasonal wildflowers at about 2,438\u20132,452 m, straddling the Nagaland\u2013Manipur border. Popular multi-day trek destination known for the rare Dzukou lily.",
+    "coordinates": {
+      "lat": 25.5533,
+      "lon": 94.0671
+    },
+    "tags": [
+      "valley",
+      "trekking",
+      "flowers",
+      "border"
+    ],
+    "facts": [
+      "Elevation around 2,438\u20132,452 metres",
+      "Straddles Kohima district (Nagaland) and Senapati (Manipur)",
+      "Famous for seasonal Dzukou lily blooms",
+      "Best approached from Viswema or Jakhama trailheads"
+    ]
+  },
+  {
+    "id": "japfu-peak-nagaland",
+    "name": "Japfu Peak",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Second-highest peak in Nagaland at 3,048 m in the Barail Range, offering panoramic views including toward Dzukou Valley. Holds the Guinness record for the tallest rhododendron tree and supports rare flora and fauna.",
+    "coordinates": {
+      "lat": 25.5975,
+      "lon": 94.0667
+    },
+    "tags": [
+      "peak",
+      "trekking",
+      "rhododendron",
+      "mountain"
+    ],
+    "facts": [
+      "Elevation 3,048 metres; second-highest in Nagaland",
+      "Guinness record for tallest rhododendron tree",
+      "Approximately 15 km south of Kohima",
+      "Trek usually starts from Kigwema village"
+    ]
+  },
+  {
+    "id": "nagaland-state-museum-kohima",
+    "name": "Nagaland State Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "State ethnographic museum on Bayav\u00fc Hill displaying artefacts, textiles, weapons, jewellery and traditional objects representing all major Naga tribes. Established in 1970 by the Department of Art and Culture.",
+    "coordinates": {
+      "lat": 25.685,
+      "lon": 94.1049
+    },
+    "tags": [
+      "museum",
+      "ethnography",
+      "naga-culture",
+      "heritage"
+    ],
+    "facts": [
+      "Opened to public on 25 November 1970",
+      "Comprehensive collection of Naga tribal artefacts",
+      "Located on Upper Bayav\u00fc Hill in Kohima",
+      "Managed by Directorate of Art and Culture"
+    ]
+  },
+  {
+    "id": "mary-help-of-christians-cathedral-kohima",
+    "name": "Mary Help of Christians Cathedral",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Roman Catholic cathedral of the Diocese of Kohima, noted for architecture blending traditional Naga house elements and a large carved wooden crucifix. Consecrated in 1991; partly funded as a memorial related to the Battle of Kohima.",
+    "coordinates": {
+      "lat": 25.6525,
+      "lon": 94.1048
+    },
+    "tags": [
+      "cathedral",
+      "catholic",
+      "architecture",
+      "spiritual"
+    ],
+    "facts": [
+      "Consecrated January 1991",
+      "Features one of Asia's largest carved wooden crucifixes",
+      "Architecture incorporates traditional Naga house motifs",
+      "Seat of the Roman Catholic Diocese of Kohima"
+    ]
+  },
+  {
+    "id": "dzuleke-village-nagaland",
+    "name": "Dz\u00fcleke Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Small Angami eco-tourism village in western Kohima district at about 2,130 m, known for community conservation, ban on hunting, homestays and forested surroundings. Name refers to underground water sources.",
+    "coordinates": {
+      "lat": 25.621,
+      "lon": 93.956
+    },
+    "tags": [
+      "eco-tourism",
+      "homestay",
+      "conservation",
+      "village"
+    ],
+    "facts": [
+      "Population around 156 (2011 Census)",
+      "Community ban on hunting since 1999",
+      "Elevation approximately 2,130 metres",
+      "About 40 km west of Kohima via Khonoma"
+    ]
+  },
+  {
+    "id": "touphema-tourist-village-nagaland",
+    "name": "Touphema Tourist Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Community-run heritage village recreating traditional Angami Naga settlement with thatched huts, local cuisine and cultural performances. Located about 36\u201341 km from Kohima, offering immersive rural tourism experiences.",
+    "coordinates": {
+      "lat": 25.837,
+      "lon": 94.133
+    },
+    "tags": [
+      "tourist-village",
+      "homestay",
+      "angami",
+      "community-tourism"
+    ],
+    "facts": [
+      "Model of community-based tourism",
+      "Approximately 36\u201341 km from Kohima",
+      "Traditional huts and ethnographic museum on site",
+      "Popular for cultural evenings and local Naga food"
+    ]
+  }
+]
