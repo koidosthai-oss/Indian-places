@@ -21,5 +21,143 @@
       "Requires Inner Line Permit for visitors from outside Nagaland",
       "Elevation about 145 m on Dhansiri River plains"
     ]
+  },
+  {
+    "id": "kachari-ruins-dimapur-nagaland",
+    "name": "Kachari Ruins (Dimasa Kachari Monoliths)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval archaeological site featuring mushroom-domed sandstone pillars and brick ruins from the 10th\u201313th century Dimasa Kachari kingdom capital. Located in the heart of Dimapur near the railway station; protected by ASI.",
+    "coordinates": {
+      "lat": 25.9036,
+      "lon": 93.7403
+    },
+    "tags": [
+      "archaeology",
+      "monoliths",
+      "kachari",
+      "ruins"
+    ],
+    "facts": [
+      "Remnants of Dimasa Kachari capital before Ahom conquest",
+      "Unique mushroom-shaped pillars with carvings",
+      "Best visited October\u2013March",
+      "Near Dimapur Railway Station"
+    ]
+  },
+  {
+    "id": "nagaland-science-centre-dimapur",
+    "name": "Nagaland Science Centre",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Interactive science museum and planetarium promoting scientific awareness with galleries on senses, fun science, and children's exhibits. Located behind Naga Arcade in Half Nagarjan, Dimapur.",
+    "coordinates": {
+      "lat": 25.9038,
+      "lon": 93.7384
+    },
+    "tags": [
+      "museum",
+      "science",
+      "planetarium",
+      "educational"
+    ],
+    "facts": [
+      "Established 2004 under Department of Science & Technology",
+      "Includes Taramandal planetarium",
+      "Open 10 AM\u20134 PM, closed Mondays",
+      "Entry fee nominal; ideal for families"
+    ]
+  },
+  {
+    "id": "hong-kong-market-dimapur-nagaland",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling flea market in central Dimapur known for affordable imported clothing, footwear, electronics, and goods from Myanmar, Thailand, and China. Popular shopping destination for locals and visitors.",
+    "coordinates": {
+      "lat": 25.908,
+      "lon": 93.727
+    },
+    "tags": [
+      "market",
+      "shopping",
+      "flea-market",
+      "imported-goods"
+    ],
+    "facts": [
+      "Grew from Tibetan trader stalls in the 1980s",
+      "Bargaining common; wide range of winter garments",
+      "Central location near major roads",
+      "Open roughly 10 AM\u20137 PM"
+    ]
+  },
+  {
+    "id": "dimapur-jain-temple-nagaland",
+    "name": "Dimapur Jain Temple",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Digambar Jain temple dedicated to Lord Mahavira, established in 1947 by migrant Jain families from Kohima. Features intricate glasswork and multiple tirthankara statues; located on Jain Temple Road.",
+    "coordinates": {
+      "lat": 25.92,
+      "lon": 93.73
+    },
+    "tags": [
+      "jain",
+      "temple",
+      "spiritual",
+      "heritage"
+    ],
+    "facts": [
+      "Built in 1947 after families relocated from Kohima during WWII",
+      "Moolnayak is Lord Mahavira",
+      "Managed by SD Jain Samaj Dimapur",
+      "Open daily"
+    ]
+  },
+  {
+    "id": "dimapur-ao-baptist-church-nagaland",
+    "name": "Dimapur Ao Baptist Church",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Prominent Baptist church serving the Ao Naga community in Dimapur, reflecting the strong Christian tradition among Naga tribes. One of the larger churches in the city with community activities.",
+    "coordinates": {
+      "lat": 25.90,
+      "lon": 93.72
+    },
+    "tags": [
+      "church",
+      "baptist",
+      "ao-naga",
+      "spiritual"
+    ],
+    "facts": [
+      "Founded around 1958 with small congregation, now thousands of families",
+      "Key spiritual landmark in multi-tribal Dimapur",
+      "Active in community and mission work",
+      "Located in River Belt / Duncan Basti area"
+    ]
+  },
+  {
+    "id": "dhansiri-river-dimapur-nagaland",
+    "name": "Dhansiri River (Dimapur section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Major river flowing through the plains of Dimapur, offering riverside walks, birdwatching on sandbars, and scenic views near the Assam border. Important for local ecology and recreation.",
+    "coordinates": {
+      "lat": 25.91,
+      "lon": 93.70
+    },
+    "tags": [
+      "river",
+      "nature",
+      "birdwatching",
+      "riverside"
+    ],
+    "facts": [
+      "Key waterway of the Dimapur plains",
+      "Popular for winter birdwatching and evening walks",
+      "Near the commercial hub and railway line",
+      "Best in cooler months"
+    ]
   }
 ]
