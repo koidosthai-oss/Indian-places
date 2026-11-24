@@ -1,1 +1,153 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "kachari-ruins-dimapur",
+    "name": "Kachari Ruins (Ruins of Kachari Rajbari)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval ruins of the ancient Dimasa Kachari kingdom capital in Dimapur, featuring distinctive mushroom-domed sandstone pillars and carved monoliths dating to the 10th-13th centuries.",
+    "coordinates": {
+      "lat": 25.90361,
+      "lon": 93.74028
+    },
+    "tags": ["heritage", "archaeology", "ruins", "kachari", "dimapur"],
+    "facts": [
+      "Ancient capital of the Dimasa Kachari kingdom before Ahom invasion.",
+      "Features mushroom-shaped pillars carved with birds, animals and motifs.",
+      "Maintained by Archaeological Survey of India.",
+      "Located behind Naga Shopping Arcade in Dimapur town.",
+      "Best visited October to March."
+    ]
+  },
+  {
+    "id": "diezephe-craft-village",
+    "name": "Diezephe Craft Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Handicraft village renowned for traditional Naga woodcarving, bamboo and cane work, and loinloom weaving, with artisan workshops, museum and Weaver’s Place homestay.",
+    "coordinates": {
+      "lat": 25.8211,
+      "lon": 93.7037
+    },
+    "tags": ["offbeat", "crafts", "heritage", "weaving", "village"],
+    "facts": [
+      "Home to skilled weavers and craftsmen of Tenyimei/Chakhesang communities.",
+      "Promoted by Nagaland Handloom and Handicrafts Development Corporation.",
+      "Hosts annual International Loinloom Festival in early December.",
+      "About 13 km from Dimapur; now primarily in Chümoukedima district.",
+      "Recognized as Best Tourism Village 2023."
+    ]
+  },
+  {
+    "id": "nezcc-stone-garden-dimapur",
+    "name": "NEZCC Stone Garden and Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "North East Zone Cultural Centre complex featuring a stone sculpture garden with works by Indian artists, traditional morungs, amphitheatre and Northeast Heritage Museum.",
+    "coordinates": {
+      "lat": 25.87694,
+      "lon": 93.77306
+    },
+    "tags": ["heritage", "museum", "culture", "sculpture", "nezcc"],
+    "facts": [
+      "Showcases 31 stone sculptures by artists from across India.",
+      "Houses North East Heritage Museum with crafts from eight NE states.",
+      "Located near Dimapur Airport, about 3 km from railway station.",
+      "Includes children’s park and hanging bridge.",
+      "Open for cultural programmes and public visits."
+    ]
+  },
+  {
+    "id": "green-park-dimapur",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Landscaped family park within the State Horticulture Nursery at 4th Mile, Dimapur, offering boating, ziplining, water zorbing, kids train and picnic spots amid greenery.",
+    "coordinates": {
+      "lat": 25.860614,
+      "lon": 93.76207
+    },
+    "tags": ["nature", "park", "family", "recreation", "boating"],
+    "facts": [
+      "Located inside State Horticulture Nursery grounds.",
+      "Features adventure activities and restaurant.",
+      "Nominal entry fee; popular for picnics.",
+      "Best time October to March.",
+      "Easily accessible from Dimapur city centre."
+    ]
+  },
+  {
+    "id": "nagaland-zoological-park",
+    "name": "Nagaland Zoological Park",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "State’s main zoo at Rangapahar spanning 176 hectares, housing native Northeast Indian fauna including hornbills, hoolock gibbon, tigers and other species; part of Rangapahar Wildlife Sanctuary.",
+    "coordinates": {
+      "lat": 25.853371,
+      "lon": 93.724281
+    },
+    "tags": ["wildlife", "zoo", "conservation", "rangapahar"],
+    "facts": [
+      "Opened in 2008; closed on Mondays.",
+      "Focuses on Northeast Indian biodiversity with ~40 species.",
+      "Located about 6-8 km from Dimapur; now in Chümoukedima district.",
+      "Entry fee applies; ideal for families.",
+      "Adjacent to Rangapahar Reserve Forest for birdwatching."
+    ]
+  },
+  {
+    "id": "triple-falls-seithekima",
+    "name": "Triple Falls (Seithekima)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Scenic three-tier waterfall near Seithekima village cascading about 280 feet into natural pools, surrounded by lush forest; popular for picnics, photography and light trekking.",
+    "coordinates": {
+      "lat": 25.8063,
+      "lon": 93.8145
+    },
+    "tags": ["nature", "waterfall", "trekking", "picnic", "offbeat"],
+    "facts": [
+      "Three distinct streams forming a natural spectacle.",
+      "About 18-26 km from central Dimapur.",
+      "Managed with tourism support; best post-monsoon.",
+      "Approach involves short trek through greenery.",
+      "Note: area associated with Chümoukedima district."
+    ]
+  },
+  {
+    "id": "dimapur-town",
+    "name": "Dimapur Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial gateway of Nagaland on the Dhansiri River plains, serving as the primary entry point with airport, railway station and bustling markets reflecting Naga and multi-ethnic culture.",
+    "coordinates": {
+      "lat": 25.909174,
+      "lon": 93.726602
+    },
+    "tags": ["gateway", "city", "markets", "transport", "other"],
+    "facts": [
+      "Only major plains city in hilly Nagaland.",
+      "Key rail and air hub for the state.",
+      "Historic Kachari capital area.",
+      "Vibrant markets including Hong Kong Market for handicrafts and goods.",
+      "Requires Inner Line Permit for visitors from outside Nagaland."
+    ]
+  },
+  {
+    "id": "hong-kong-market-dimapur",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling flea market in central Dimapur known for imported and local goods, clothing, electronics, and Naga handicrafts; a lively commercial hub popular with locals and tourists.",
+    "coordinates": {
+      "lat": 25.91,
+      "lon": 93.73
+    },
+    "tags": ["market", "shopping", "handicrafts", "other"],
+    "facts": [
+      "One of Dimapur’s most famous markets.",
+      "Sells traditional Naga garments, bamboo crafts and everyday items.",
+      "Central location near major transport points.",
+      "Best explored during daytime."
+    ]
+  }
+]
