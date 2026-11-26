@@ -1,1 +1,146 @@
-See tool result for full content; this is the Dimapur district tourism places addition.
+[
+  {
+    "id": "kachari-ruins-dimapur-nagaland",
+    "name": "Kachari Ruins (Ruins of Kachari Rajbari)",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Medieval ruins of the Dimasa Kachari kingdom capital featuring unique mushroom-domed sandstone pillars and carved monoliths dating to the 10th-13th centuries.",
+    "coordinates": {
+      "lat": 25.90361,
+      "lon": 93.74028
+    },
+    "tags": ["heritage", "archaeology", "ruins", "kachari", "asi-protected"],
+    "facts": [
+      "Ancient capital of the Dimasa Kachari kingdom before Ahom invasion",
+      "Features mushroom-shaped and V-shaped carved sandstone pillars with animal and geometric motifs",
+      "Managed by Archaeological Survey of India (ASI Monument ID N-NL-1)",
+      "Located in the heart of Dimapur near Naga Shopping Arcade and Circuit House"
+    ]
+  },
+  {
+    "id": "dimapur-town-nagaland",
+    "name": "Dimapur Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Largest city and commercial gateway of Nagaland, situated on the Dhansiri River plains, serving as the primary entry point with airport and railway station.",
+    "coordinates": {
+      "lat": 25.909174,
+      "lon": 93.726602
+    },
+    "tags": ["gateway", "commercial", "plains", "district-hq"],
+    "facts": [
+      "Main commercial and transport hub of Nagaland",
+      "Ancient capital of the Kachari kingdom known historically as the Brick City",
+      "Only major plains area in hilly Nagaland with the state's sole airport and key railway station",
+      "Elevation approximately 145-150 meters above sea level"
+    ]
+  },
+  {
+    "id": "nezcc-stone-garden-museum-dimapur",
+    "name": "NEZCC Stone Garden and North East Heritage Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "North East Zone Cultural Centre complex featuring a stone sculpture garden with works by Indian artists and a museum showcasing crafts and artifacts from the eight northeastern states.",
+    "coordinates": {
+      "lat": 25.87694,
+      "lon": 93.77306
+    },
+    "tags": ["cultural", "museum", "sculpture", "heritage", "nezcc"],
+    "facts": [
+      "Stone sculpture garden displays 31 sculptures by renowned Indian artists",
+      "Includes traditional morungs, amphitheater, and children's park",
+      "Museum preserves cultural heritage of Northeast India through crafts and artifacts",
+      "Located about 3 km from Dimapur railway station and near the airport"
+    ]
+  },
+  {
+    "id": "green-park-dimapur-nagaland",
+    "name": "Green Park",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Landscaped recreational park within the State Horticulture Nursery at 4th Mile, offering boating, adventure activities, and picnic spots amid greenery.",
+    "coordinates": {
+      "lat": 25.860614,
+      "lon": 93.76207
+    },
+    "tags": ["park", "recreation", "boating", "family", "horticulture"],
+    "facts": [
+      "Located inside State Horticulture Nursery at 4th Mile, Dimapur",
+      "Features boating, water zorbing, ziplining, kids train, and restaurant",
+      "Popular for picnics and family outings with nominal entry fee",
+      "Best visited October to March during peak tourism season"
+    ]
+  },
+  {
+    "id": "nagaland-science-centre-dimapur",
+    "name": "Nagaland Science Centre",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Interactive science museum behind Naga Shopping Arcade promoting scientific temperament with galleries on senses, children's exhibits, and fun science.",
+    "coordinates": {
+      "lat": 25.903783,
+      "lon": 93.738447
+    },
+    "tags": ["museum", "science", "education", "interactive"],
+    "facts": [
+      "Established under Department of Science and Technology, Government of Nagaland",
+      "Features galleries including Our Senses, Children’s Corner, and Fun Science",
+      "Includes science park and planetarium elements; closed on Mondays",
+      "Located near Kachari Ruins at Super Market Lane, Half Nagarjan"
+    ]
+  },
+  {
+    "id": "hong-kong-market-dimapur",
+    "name": "Hong Kong Market",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Bustling flea market in central Dimapur known for affordable imported clothing, footwear, electronics, and local goods, a popular shopping destination for visitors.",
+    "coordinates": {
+      "lat": 25.908,
+      "lon": 93.727
+    },
+    "tags": ["market", "shopping", "commercial", "imported-goods"],
+    "facts": [
+      "Famous for bargain shopping of clothes, jewellery, electronics from Myanmar, Thailand, and China",
+      "Grew from Tibetan trader stalls in the early 1980s into a major commercial hub",
+      "Located in the heart of Dimapur, easily accessible from railway station",
+      "Open typically 10 AM to 7 PM; bargaining is common"
+    ]
+  },
+  {
+    "id": "dimapur-airport-nagaland",
+    "name": "Dimapur Airport",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "The sole civil airport in Nagaland, serving as the primary aerial gateway for tourists and residents connecting to major Indian cities.",
+    "coordinates": {
+      "lat": 25.88389,
+      "lon": 93.77083
+    },
+    "tags": ["airport", "gateway", "transport"],
+    "facts": [
+      "Only commercial airport in Nagaland, located about 7-8 km from city centre",
+      "Handles domestic flights connecting Dimapur to cities like Guwahati, Kolkata, and Delhi",
+      "Tourist information and ILP facilitation available at arrival terminal",
+      "Key entry point for accessing the rest of the state by road"
+    ]
+  },
+  {
+    "id": "dhansiri-river-dimapur-section",
+    "name": "Dhansiri River (Dimapur section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Major river flowing along the eastern side of Dimapur, a tributary of the Brahmaputra, offering riverside views, birdwatching, and recreational spots.",
+    "coordinates": {
+      "lat": 25.91,
+      "lon": 93.74
+    },
+    "tags": ["river", "nature", "birdwatching", "recreation"],
+    "facts": [
+      "Flows east of Dimapur city as a tributary of the Brahmaputra",
+      "Provides scenic riverside walks and winter birdwatching opportunities",
+      "Historically significant to the Kachari settlement and modern urban development",
+      "Accessible from multiple points in the city for local recreation"
+    ]
+  }
+]
