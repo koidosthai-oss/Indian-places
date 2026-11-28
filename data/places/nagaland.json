@@ -1,1 +1,24 @@
-PLACEHOLDER
+[
+  {
+    "id": "shamator-town-nagaland",
+    "name": "Shamator Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Headquarters of Shamator district, the 16th and one of the newest districts of Nagaland formed in 2022 from parts of Tuensang and Kiphire, known as the Brotherhood District and home to Yimkhiung and Tikhir Naga tribes.",
+    "coordinates": {
+      "lat": 26.0745,
+      "lon": 94.8554
+    },
+    "tags": [
+      "headquarters",
+      "gateway",
+      "hill-town"
+    ],
+    "facts": [
+      "Lies in Shamator district, Nagaland at about 1800 m elevation",
+      "Created as district HQ on 4 March 2022",
+      "Base for exploring Zungki River and surrounding Yimkhiung villages",
+      "Sources: Wikipedia, shamator.nic.in"
+    ]
+  }
+]
