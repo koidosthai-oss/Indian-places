@@ -20,5 +20,796 @@
       "Base for exploring Zungki River and surrounding Yimkhiung villages",
       "Sources: Wikipedia, shamator.nic.in"
     ]
+  },
+  {
+    "id": "zungki-river-shamator-nagaland",
+    "name": "Zungki River",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Largest tributary of the Tizu River flowing through Shamator district, offering scenic gorges, blue waters, sandy banks in dry season, and opportunities for picnics, angling and photography in a remote hilly setting.",
+    "coordinates": {
+      "lat": 26.02,
+      "lon": 94.82
+    },
+    "tags": [
+      "river",
+      "scenic",
+      "angling",
+      "offbeat"
+    ],
+    "facts": [
+      "Official tourist place listed on shamator.nic.in as natural/scenic beauty",
+      "Originates near Changdong forest and flows south through Noklak, Shamator and Kiphire before joining Tizu",
+      "Part of the proposed Tizu-Zungki National Waterway (NW-101)",
+      "Coordinates approximate for the Shamator section; Sources: official NIC, Wikipedia"
+    ]
+  },
+  {
+    "id": "yakor-village-nagaland",
+    "name": "Yakor Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Yimkhiung Naga village about 12 km from Shamator town, offering authentic tribal culture, traditional houses, agricultural fields and scenic ridge views in the eastern hills.",
+    "coordinates": {
+      "lat": 26.1542,
+      "lon": 94.8395
+    },
+    "tags": [
+      "village",
+      "tribal-culture",
+      "offbeat",
+      "yimkhiung"
+    ],
+    "facts": [
+      "Lies in Shamator district, Nagaland; population about 1078 (2011)",
+      "Known for traditional Yimkhiung lifestyle and crafts",
+      "Accessible as a cultural day visit from Shamator HQ",
+      "Sources: Wikipedia, Census 2011, OSM"
+    ]
+  },
+  {
+    "id": "sangphur-village-nagaland",
+    "name": "Sangphur Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "One of the larger villages in Shamator circle with a population over 2300, featuring traditional Naga settlement patterns, community life and proximity to the district headquarters for cultural immersion.",
+    "coordinates": {
+      "lat": 26.1453,
+      "lon": 94.8543
+    },
+    "tags": [
+      "village",
+      "offbeat",
+      "community"
+    ],
+    "facts": [
+      "Lies in Shamator district, Nagaland; population 2314 (2011)",
+      "About 10 km from Shamator HQ",
+      "Part of the official recognized villages list",
+      "Sources: Census, shamator.nic.in, postal data"
+    ]
+  },
+  {
+    "id": "chessore-nagaland",
+    "name": "Chessore",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Sub-divisional headquarters and village cluster in Shamator district, serving as an administrative and cultural center for the Chessore area with surrounding villages and local festivals.",
+    "coordinates": {
+      "lat": 26.0918,
+      "lon": 94.749
+    },
+    "tags": [
+      "sub-division",
+      "gateway",
+      "rural"
+    ],
+    "facts": [
+      "Lies in Shamator district, Nagaland; Chessore Sub-Division",
+      "Host to local sports meets and community events",
+      "Part of Shamator-Chessore assembly constituency",
+      "Sources: official NIC village lists, OSM, local reports"
+    ]
+  },
+  {
+    "id": "shamator-village-nagaland",
+    "name": "Shamator Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Historic village adjacent to the district headquarters, inhabited primarily by Yimkhiung Nagas, offering insights into traditional architecture, community life and the area's tribal heritage.",
+    "coordinates": {
+      "lat": 26.07,
+      "lon": 94.85
+    },
+    "tags": [
+      "village",
+      "heritage",
+      "offbeat",
+      "yimkhiung"
+    ],
+    "facts": [
+      "Lies in Shamator district, Nagaland; population about 1159 (2011)",
+      "Recognized village listed on official district site",
+      "Close to HQ for easy cultural visits",
+      "Coordinates approximate; Sources: Census, shamator.nic.in"
+    ]
+  },
+  {
+    "id": "metumnyo-festival-grounds-nagaland",
+    "name": "Metümnyo Festival Grounds",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Venue for the traditional five-day harvest festival of the Yimkhiung tribe held in August after millet harvest, featuring communal rituals, dances, youth engagements and prayers for the departed.",
+    "coordinates": {
+      "lat": 26.0745,
+      "lon": 94.8554
+    },
+    "tags": [
+      "festival",
+      "cultural",
+      "yimkhiung",
+      "harvest"
+    ],
+    "facts": [
+      "Celebrated in the second week of August in Shamator district",
+      "Includes cleaning rituals, path repairs and soul prayers",
+      "Official festival listed on shamator.nic.in",
+      "Best experienced during festival period; Sources: official NIC"
+    ]
+  },
+  {
+    "id": "zungki-river-valley-picnic-nagaland",
+    "name": "Zungki River Valley Picnic Spot",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Wide valley basin along the Zungki River near Shamator offering flat sandy areas for family picnics, shallow pools and views of surrounding forested hills in a peaceful remote setting.",
+    "coordinates": {
+      "lat": 26.03,
+      "lon": 94.83
+    },
+    "tags": [
+      "picnic",
+      "river",
+      "nature",
+      "family"
+    ],
+    "facts": [
+      "Popular local day-trip destination in Shamator district",
+      "Features sandy banks and forest surroundings",
+      "Accessible from Shamator town via river crossings",
+      "Coordinates approximate; Sources: local tourism descriptions, official river page"
+    ]
+  },
+  {
+    "id": "kohima-town-nagaland",
+    "name": "Kohima Town",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Capital of Nagaland and headquarters of Kohima district, a hilly town at about 1444 m elevation known for its role in World War II and as the base for exploring Angami Naga culture and nearby valleys.",
+    "coordinates": {
+      "lat": 25.6701,
+      "lon": 94.1077
+    },
+    "tags": [
+      "capital",
+      "hill-town",
+      "gateway",
+      "angami"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland at approximately 1444 m elevation",
+      "Site of the decisive 1944 Battle of Kohima",
+      "Base for Hornbill Festival and visits to Kisama and Dzukou",
+      "Sources: Wikipedia, kohima.nic.in"
+    ]
+  },
+  {
+    "id": "kohima-war-cemetery-nagaland",
+    "name": "Kohima War Cemetery",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Commonwealth War Graves Commission cemetery on Garrison Hill in central Kohima, commemorating 1420 Allied soldiers who died in the 1944 Battle of Kohima, with the famous epitaph 'When you go home tell them of us and say for your tomorrow we gave our today'.",
+    "coordinates": {
+      "lat": 25.6676,
+      "lon": 94.103
+    },
+    "tags": [
+      "war-cemetery",
+      "wwii",
+      "memorial",
+      "heritage"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland; maintained by CWGC",
+      "Contains 1420 Commonwealth burials and memorial to 917 cremated",
+      "Located on the site of the 1944 Battle of Kohima tennis court",
+      "Open daily; Sources: Wikipedia, CWGC, kohima.nic.in"
+    ]
+  },
+  {
+    "id": "kisama-heritage-village-nagaland",
+    "name": "Kisama Heritage Village",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "Open-air Naga Heritage Village 12 km south of Kohima between Kigwema and Phesama, designed as a traditional Naga village with morungs of all ethnic groups and the permanent venue of the annual Hornbill Festival.",
+    "coordinates": {
+      "lat": 25.6162,
+      "lon": 94.1146
+    },
+    "tags": [
+      "heritage-village",
+      "hornbill-festival",
+      "cultural",
+      "morung"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland; 12 km from Kohima on NH",
+      "Name amalgamates Kigwema and Phesama",
+      "Venue for Hornbill Festival (typically 1-10 December)",
+      "Sources: Wikipedia, kohima.nic.in"
+    ]
+  },
+  {
+    "id": "khonoma-green-village-nagaland",
+    "name": "Khonoma Green Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Western Angami Naga village 20 km west of Kohima, India's first green village (declared 2005) with terraced fields, community conservation, and the Khonoma Nature Conservation and Tragopan Sanctuary protecting Blyth's Tragopan.",
+    "coordinates": {
+      "lat": 25.65,
+      "lon": 94.033
+    },
+    "tags": [
+      "green-village",
+      "eco-tourism",
+      "angami",
+      "offbeat",
+      "tragopan"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland; elevation about 1621 m",
+      "Declared India's first Green Village in 2005",
+      "Features Khonoma Nature Conservation and Tragopan Sanctuary",
+      "Sources: Wikipedia, kohima.nic.in"
+    ]
+  },
+  {
+    "id": "dzukou-valley-nagaland",
+    "name": "Dzukou Valley",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "High-altitude alpine valley at about 2438-2452 m on the Kohima (Nagaland)-Senapati (Manipur) border, known as the Valley of Flowers of the Northeast for its rolling meadows, dwarf bamboo, wildflowers and streams.",
+    "coordinates": {
+      "lat": 25.5533,
+      "lon": 94.0671
+    },
+    "tags": [
+      "valley",
+      "trekking",
+      "nature",
+      "wildflowers",
+      "border"
+    ],
+    "facts": [
+      "Lies primarily in Kohima district, Nagaland (border with Manipur)",
+      "Elevation 2438-2452 m; approached via Viswema or Jakhama",
+      "Popular moderate trek from Kohima side",
+      "Sources: Wikipedia, kohima.nic.in; border note"
+    ]
+  },
+  {
+    "id": "japfu-peak-nagaland",
+    "name": "Japfu Peak",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Second highest peak in Nagaland at 3048 m in the Barail Range, about 15 km south of Kohima, home to the world's tallest rhododendron tree and offering panoramic views over Dzukou Valley and surrounding hills.",
+    "coordinates": {
+      "lat": 25.5975,
+      "lon": 94.0667
+    },
+    "tags": [
+      "peak",
+      "trekking",
+      "rhododendron",
+      "nature"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland; elevation 3048 m",
+      "Holds Guinness record for tallest rhododendron tree (~20 m)",
+      "Trek starts from Kigwema village",
+      "Sources: Wikipedia, official tourism"
+    ]
+  },
+  {
+    "id": "nagaland-state-museum-kohima",
+    "name": "Nagaland State Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "State museum on Bayavü Hill in Kohima displaying ethnographic collections of Naga tribal artefacts, traditional dresses, ornaments, weapons and models of village life, operated by the Department of Art and Culture.",
+    "coordinates": {
+      "lat": 25.685,
+      "lon": 94.1049
+    },
+    "tags": [
+      "museum",
+      "ethnography",
+      "heritage",
+      "tribal-culture"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland on Bayavü Hill",
+      "Opened to public on 25 November 1970",
+      "Showcases artefacts from all Naga tribes",
+      "Sources: Wikipedia, artandculture.nagaland.gov.in"
+    ]
+  },
+  {
+    "id": "mary-help-of-christians-cathedral-kohima",
+    "name": "Mary Help of Christians Cathedral",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Catholic cathedral in Kohima noted for architecture blending traditional Naga house elements, with a 16-foot carved wooden crucifix among Asia's largest, consecrated in 1991 and serving the Diocese of Kohima.",
+    "coordinates": {
+      "lat": 25.6525,
+      "lon": 94.1048
+    },
+    "tags": [
+      "cathedral",
+      "spiritual",
+      "architecture",
+      "catholic"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland",
+      "Consecrated January 1991; capacity about 4500",
+      "Architecture incorporates Naga house facade elements",
+      "Sources: Wikipedia, kohimadiocese.org"
+    ]
+  },
+  {
+    "id": "dzuleke-village-nagaland",
+    "name": "Dzüleke Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Angami Naga eco-village near Kohima known for community conservation, terraced fields and as a quieter base for nature walks and birdwatching in the western hills.",
+    "coordinates": {
+      "lat": 25.621,
+      "lon": 93.956
+    },
+    "tags": [
+      "village",
+      "eco",
+      "offbeat",
+      "angami"
+    ],
+    "facts": [
+      "Lies in Kohima district, Nagaland",
+      "Community-managed conservation area",
+      "Accessible as a day or overnight visit from Kohima",
+      "Sources: tourism guides, local reports"
+    ]
+  },
+  {
+    "id": "zunheboto-town-nagaland",
+    "name": "Zunheboto Town",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "Headquarters of Zunheboto district, known as the Land of Warriors, a hill town at about 1852 m elevation inhabited by the Sümi Naga tribe, serving as the base for exploring nearby sanctuaries, ranges and cultural sites.",
+    "coordinates": {
+      "lat": 26.0146,
+      "lon": 94.5264
+    },
+    "tags": [
+      "headquarters",
+      "hill-town",
+      "gateway",
+      "sumi-naga"
+    ],
+    "facts": [
+      "Elevation approximately 1852 m",
+      "Population about 22,809 (2011)",
+      "Home to Asia's largest Baptist church",
+      "Sources: Wikipedia, zunheboto.nic.in"
+    ]
+  },
+  {
+    "id": "sumi-baptist-church-zunheboto-nagaland",
+    "name": "Sümi Baptist Church, Zunheboto",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "One of the largest Baptist church buildings in Asia, dedicated in 2017 after 10 years of construction, with a seating capacity of 8,500, blue dome and white turrets, standing as a landmark on the highest point of Zunheboto town.",
+    "coordinates": {
+      "lat": 26.017889,
+      "lon": 94.529222
+    },
+    "tags": [
+      "church",
+      "baptist",
+      "landmark",
+      "spiritual",
+      "architecture"
+    ],
+    "facts": [
+      "Capacity 8,500; height 166 feet",
+      "Construction began 2007, dedicated 22 April 2017",
+      "Cost reported around ₹36 crore",
+      "Sources: Wikipedia, official records"
+    ]
+  },
+  {
+    "id": "ghosu-bird-sanctuary-nagaland",
+    "name": "Ghosu Bird Sanctuary",
+    "state": "Nagaland",
+    "category": "wildlife",
+    "description": "Community-conserved bird sanctuary about 8 km from Zunheboto headquarters near Ghukiye village, home to over 20 endangered bird species and a stopover for migratory birds from June to September, maintained by local village councils with anti-poaching norms.",
+    "coordinates": {
+      "lat": 25.99734,
+      "lon": 94.45196
+    },
+    "tags": [
+      "bird-sanctuary",
+      "wildlife",
+      "community-conservation",
+      "avifauna"
+    ],
+    "facts": [
+      "Located near Ghukiye/Sukhai area",
+      "Hosts migratory pigeons and doves May-September",
+      "Official tourist place listed on zunheboto.nic.in",
+      "Coordinates from community conservation records; Sources: official NIC, CCA Forum"
+    ]
+  },
+  {
+    "id": "satoi-range-nagaland",
+    "name": "Satoi Range",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Pristine virgin forest range in southern Zunheboto under Satakha sub-division, one of the last remaining unspoilt habitats for Blyth's Tragopan, rhododendrons and endemic birds, offering trekking and birdwatching opportunities.",
+    "coordinates": {
+      "lat": 25.85,
+      "lon": 94.55
+    },
+    "tags": [
+      "range",
+      "forest",
+      "birdwatching",
+      "trekking",
+      "nature"
+    ],
+    "facts": [
+      "Important Bird Area and Endemic Bird Area",
+      "Habitat of Blyth's Tragopan (state bird)",
+      "Surrounded by about 10 villages of Satakha",
+      "Coordinates approximate for the range; Sources: Wikipedia, official tourism"
+    ]
+  },
+  {
+    "id": "aizuto-mission-centre-nagaland",
+    "name": "Aizuto Mission Centre & Lake",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "Historic Christian mission centre in the Atoizu area, one of the oldest in the Sümi region, featuring a peaceful lake surrounded by pine trees and greenery, serving as a site for reflection, seminars and quiet tourism.",
+    "coordinates": {
+      "lat": 26.15,
+      "lon": 94.52
+    },
+    "tags": [
+      "mission",
+      "lake",
+      "spiritual",
+      "heritage",
+      "nature"
+    ],
+    "facts": [
+      "Oldest mission centre in Sümi area",
+      "Includes a scenic man-made lake",
+      "About 28 km from Zunheboto town",
+      "Coordinates approximate; Sources: tourism guides, village records"
+    ]
+  },
+  {
+    "id": "tizu-river-zunheboto-nagaland",
+    "name": "Tizu River (Zunheboto section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Major river flowing through eastern Zunheboto district, offering scenic valleys, community conservation sites and opportunities for nature walks and angling in a remote hilly landscape.",
+    "coordinates": {
+      "lat": 26.05,
+      "lon": 94.65
+    },
+    "tags": [
+      "river",
+      "scenic",
+      "nature",
+      "conservation"
+    ],
+    "facts": [
+      "One of the major rivers of the district along with Doyang and Tsutha",
+      "Tizu Valley has community conservation networks (Sukhai, Ghukhuyi, Kivikhu)",
+      "Coordinates approximate for the district section; Sources: official district profile"
+    ]
+  },
+  {
+    "id": "satakha-town-nagaland",
+    "name": "Satakha Town",
+    "state": "Nagaland",
+    "category": "other",
+    "description": "Sub-divisional headquarters in southern Zunheboto, gateway to the Satoi Range and surrounding villages, offering rural Sümi culture and scenic hill views.",
+    "coordinates": {
+      "lat": 25.9249,
+      "lon": 94.4375
+    },
+    "tags": [
+      "sub-division",
+      "gateway",
+      "rural",
+      "sumi"
+    ],
+    "facts": [
+      "SDO(C) headquarters",
+      "Base for Satoi Range access",
+      "Coordinates from geographic records; Sources: Census/OSM data"
+    ]
+  },
+  {
+    "id": "ghukiye-village-nagaland",
+    "name": "Ghukiye Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Sümi Naga village near Ghosu Bird Sanctuary, involved in community conservation efforts, offering authentic tribal lifestyle and proximity to birdwatching sites.",
+    "coordinates": {
+      "lat": 26,
+      "lon": 94.46
+    },
+    "tags": [
+      "village",
+      "offbeat",
+      "conservation",
+      "sumi"
+    ],
+    "facts": [
+      "Joint village council with Nikuto manages Ghosu Sanctuary",
+      "About 8-12 km from Zunheboto HQ",
+      "Coordinates approximate; Sources: official tourism, CCA records"
+    ]
+  },
+  {
+    "id": "mokokchung-town-nagaland",
+    "name": "Mokokchung Town",
+    "state": "Nagaland",
+    "category": "hill-station",
+    "description": "District headquarters and cultural capital of the Ao Naga tribe, a hill town at about 1325 m elevation known as the Land of Pioneers, serving as the base for exploring nearby villages, festivals and nature sites.",
+    "coordinates": {
+      "lat": 26.3248,
+      "lon": 94.5183
+    },
+    "tags": [
+      "headquarters",
+      "hill-town",
+      "gateway",
+      "ao-naga",
+      "cultural"
+    ],
+    "facts": [
+      "Lies in Mokokchung district, Nagaland at approximately 1325 m elevation",
+      "Population about 35,913 (2011); main urban hub of northern Nagaland",
+      "Host to Moatsu and Tsungremong festivals",
+      "Sources: Wikipedia, mokokchung.nic.in"
+    ]
+  },
+  {
+    "id": "ungma-village-nagaland",
+    "name": "Ungma Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Oldest and one of the largest Ao Naga villages, located about 3-10 km south of Mokokchung town, featuring traditional log drums, morungs, Baptist church and living heritage of the tribe.",
+    "coordinates": {
+      "lat": 26.297,
+      "lon": 94.5045
+    },
+    "tags": [
+      "village",
+      "ao-naga",
+      "heritage",
+      "offbeat",
+      "log-drum"
+    ],
+    "facts": [
+      "Lies in Mokokchung district, Nagaland; first Ao settlement after migration from Chungliyimti",
+      "Population over 9,000 (2011); divided into Yimpang and Yimlang khels",
+      "Official tourist place listed on mokokchung.nic.in",
+      "Sources: Wikipedia, mokokchung.nic.in"
+    ]
+  },
+  {
+    "id": "longkhum-village-nagaland",
+    "name": "Longkhum Village",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Highest Ao Naga village at about 1846 m, 17 km southwest of Mokokchung, renowned for panoramic views, rhododendrons, stone bridge (Longlangba), Eagle's Cave and the belief that souls rest here.",
+    "coordinates": {
+      "lat": 26.26355,
+      "lon": 94.4123
+    },
+    "tags": [
+      "village",
+      "viewpoint",
+      "nature",
+      "trekking",
+      "offbeat",
+      "ao-naga"
+    ],
+    "facts": [
+      "Lies in Mokokchung district, Nagaland; elevation 1846 m",
+      "Known as Ao Funemro (vanguard village); popular for birdwatching and hikes",
+      "Features Mata Yimkong hilltop, Tsumeya Tsuin waterfall and Jubilee Tower",
+      "Sources: Wikipedia, mokokchung.nic.in"
+    ]
+  },
+  {
+    "id": "mopungchuket-village-nagaland",
+    "name": "Mopungchuket Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Rural tourism village 15-16 km from Mokokchung, one of the cleanest in Nagaland, featuring Etiben and Jina towers, Süngkotenem Park with mystical lake, oldest village museum (1956) and wooden sculptures.",
+    "coordinates": {
+      "lat": 26.39333,
+      "lon": 94.53639
+    },
+    "tags": [
+      "village",
+      "rural-tourism",
+      "heritage",
+      "offbeat",
+      "cleanest",
+      "ao-naga"
+    ],
+    "facts": [
+      "Lies in Mokokchung district, Nagaland; declared rural tourism village in 2007",
+      "Associated with the Jina-Etiben love legend; elevation about 1324 m",
+      "Includes log drums, morung and first tea garden in Nagaland nearby",
+      "Sources: Wikipedia, mokokchung.nic.in"
+    ]
+  },
+  {
+    "id": "chuchuyimlang-village-nagaland",
+    "name": "Chuchuyimlang Village",
+    "state": "Nagaland",
+    "category": "offbeat",
+    "description": "Large Ao Naga village about 30 km from Mokokchung on NH-61, known for hosting the Moatsu festival with cultural performances and traditional community gatherings.",
+    "coordinates": {
+      "lat": 26.458,
+      "lon": 94.639
+    },
+    "tags": [
+      "village",
+      "festival",
+      "moatsu",
+      "offbeat",
+      "ao-naga"
+    ],
+    "facts": [
+      "Lies in Mokokchung district, Nagaland; one of the largest Ao villages",
+      "Famous for Moatsu Mong celebrations inviting neighbouring tribes",
+      "Divided into mopu sectors including Longzung, Teyong, Impang and Imlang",
+      "Sources: Wikipedia, tourism guides"
+    ]
+  },
+  {
+    "id": "ao-baptist-church-mokokchung-nagaland",
+    "name": "Ao Baptist Church (Mokokchung Town Baptist Church)",
+    "state": "Nagaland",
+    "category": "spiritual",
+    "description": "One of the largest Baptist churches in Nagaland, known as the Mother Church, established in 1937-38 and central to Ao Naga Christian life with thousands of members.",
+    "coordinates": {
+      "lat": 26.32375,
+      "lon": 94.52102
+    },
+    "tags": [
+      "church",
+      "baptist",
+      "spiritual",
+      "landmark",
+      "ao-naga"
+    ],
+    "facts": [
+      "Lies in Mokokchung town, Mokokchung district, Nagaland",
+      "Opened 14 August 1938; now serves over 15,000 baptized followers",
+      "Landmark architecture in the town centre",
+      "Sources: Wikipedia, tourism sites, OSM"
+    ]
+  },
+  {
+    "id": "langpangkong-caves-nagaland",
+    "name": "Langpangkong Caves",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Series of limestone caves in the Langpangkong Range between Dikhu and Tzula river valleys, legendarily sheltering an Ahom king; featuring stalactites and accessible near Tuli and Changtongya.",
+    "coordinates": {
+      "lat": 26.55,
+      "lon": 94.68
+    },
+    "tags": [
+      "caves",
+      "nature",
+      "heritage",
+      "trekking",
+      "offbeat"
+    ],
+    "facts": [
+      "Lies in Mokokchung district, Nagaland in Langpangkong Range",
+      "Associated with Ahom king refuge during conflict; near Changtongya and Tuli",
+      "Popular for exploration with local guides; coordinates approximate",
+      "Sources: tourism guides, Wikipedia (Langpangkong Range)"
+    ]
+  },
+  {
+    "id": "mokokchung-district-museum-nagaland",
+    "name": "Mokokchung District Museum",
+    "state": "Nagaland",
+    "category": "heritage",
+    "description": "District museum in Mokokchung town showcasing Ao Naga artefacts including weapons, jewellery, woven shawls, household objects and cultural exhibits.",
+    "coordinates": {
+      "lat": 26.325,
+      "lon": 94.52
+    },
+    "tags": [
+      "museum",
+      "heritage",
+      "ao-naga",
+      "cultural"
+    ],
+    "facts": [
+      "Lies in Mokokchung town, Mokokchung district, Nagaland",
+      "Preserves traditional Ao Naga crafts, tools and photographs",
+      "Ideal first stop for cultural orientation before village visits",
+      "Coordinates approximate; Sources: tourism guides, Incredible India"
+    ]
+  },
+  {
+    "id": "mokokchung-park-nagaland",
+    "name": "Mokokchung Park (Fazl Ali Park)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Hillside public park above the town centre offering lush greenery, valley views and a peaceful setting for relaxation amid the urban area.",
+    "coordinates": {
+      "lat": 26.326,
+      "lon": 94.519
+    },
+    "tags": [
+      "park",
+      "nature",
+      "viewpoint",
+      "recreation"
+    ],
+    "facts": [
+      "Lies in Mokokchung town, Mokokchung district, Nagaland",
+      "Popular local spot for walks and panoramic views",
+      "Listed among top attractions in official and tourism sources",
+      "Coordinates approximate; Sources: Incredible India, tourism sites"
+    ]
+  },
+  {
+    "id": "dikhu-river-mokokchung-nagaland",
+    "name": "Dikhu River (Mokokchung section)",
+    "state": "Nagaland",
+    "category": "nature",
+    "description": "Major river flowing along the eastern edge of Mokokchung district, offering scenic valleys, picnic spots and cultural significance to the Ao Naga people.",
+    "coordinates": {
+      "lat": 26.5,
+      "lon": 94.7
+    },
+    "tags": [
+      "river",
+      "nature",
+      "scenic",
+      "picnic"
+    ],
+    "facts": [
+      "Lies in Mokokchung district, Nagaland; forms part of the eastern boundary",
+      "Flows parallel to Langpangkong Range; popular for nature walks and angling",
+      "Coordinates approximate for the district section",
+      "Sources: tourism guides, Wikipedia"
+    ]
   }
 ]
